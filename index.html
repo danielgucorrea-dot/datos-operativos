@@ -74,37 +74,11 @@ td { padding: 10px 0; border-bottom: 0.5px solid #f0f0ec; }
     <button class="logout" onclick="logout()">Salir</button>
   </div>
 
-  <div style="background:#f0f0ec;border-radius:8px;padding:10px 14px;margin-bottom:1rem;font-size:12px;color:#666;display:flex;gap:12px;flex-wrap:wrap;align-items:center;">
-    <span>📅 <strong id="periodo-label">—</strong></span>
-    <select id="sel-periodo" style="font-size:12px;padding:3px 8px;border:0.5px solid #ccc;border-radius:6px;background:white;cursor:pointer;">
-      <option value="3">Últimos 3 meses</option>
-      <option value="6" selected>Últimos 6 meses</option>
-      <option value="12">Último año</option>
-    </select>
-    <span>📊 Satisfacción: solo <strong>WhatsApp Ambiente</strong></span>
-    <button onclick="descargarCSV()" style="font-size:12px;padding:4px 10px;border:0.5px solid #ccc;border-radius:6px;background:white;cursor:pointer;margin-left:auto;">⬇️ Descargar base electoral</button>
-  </div>
-
   <div class="metrics">
     <div class="metric"><div class="label">Vecinos contactados</div><div class="value" id="m-total">—</div></div>
     <div class="metric positivo"><div class="label">Satisfechos</div><div class="value" id="m-pos">—</div></div>
     <div class="metric"><div class="label">Indiferentes</div><div class="value" id="m-neu">—</div></div>
     <div class="metric negativo"><div class="label">Disconformes</div><div class="value" id="m-neg">—</div></div>
-  </div>
-
-  <div style="display:grid;grid-template-columns:repeat(3,1fr);gap:12px;margin-bottom:1.5rem;">
-    <div style="background:#f0f0ec;border-radius:8px;padding:12px;text-align:center;">
-      <div style="font-size:11px;color:#888;margin-bottom:4px;">Con dirección registrada</div>
-      <div style="font-size:20px;font-weight:500;" id="m-con-dir">—</div>
-    </div>
-    <div style="background:#f0f0ec;border-radius:8px;padding:12px;text-align:center;">
-      <div style="font-size:11px;color:#888;margin-bottom:4px;">Con nombre registrado</div>
-      <div style="font-size:20px;font-weight:500;" id="m-con-nombre">—</div>
-    </div>
-    <div style="background:#f0f0ec;border-radius:8px;padding:12px;text-align:center;">
-      <div style="font-size:11px;color:#888;margin-bottom:4px;">Listos para contactar</div>
-      <div style="font-size:20px;font-weight:500;color:#1D9E75;" id="m-listos">—</div>
-    </div>
   </div>
 
   <div class="card" style="margin-bottom:1.5rem;">
@@ -384,61 +358,6 @@ function paginaAnterior() { if (pagina > 0) { pagina--; actualizarTabla(); } }
 function paginaSiguiente() { if ((pagina+1)*POR_PAGINA < datosTabla.length) { pagina++; actualizarTabla(); } }
 
 setInterval(() => { if (sessionStorage.getItem('auth')==='1') cargarDatos() }, 5*60*1000)
-
-// Período dinámico
-function actualizarPeriodo() {
-  var m = parseInt(document.getElementById('sel-periodo').value)
-  var hasta = new Date()
-  var desde = new Date()
-  desde.setMonth(desde.getMonth() - m)
-  var fmt = function(d) { return d.toLocaleDateString('es-AR',{day:'2-digit',month:'2-digit',year:'numeric'}) }
-  document.getElementById('periodo-label').textContent = fmt(desde) + ' — ' + fmt(hasta)
-}
-document.addEventListener('DOMContentLoaded', function() {
-  actualizarPeriodo()
-  var sel = document.getElementById('sel-periodo')
-  if (sel) sel.onchange = actualizarPeriodo
-})
-
-// Sub-métricas base electoral
-function actualizarSubMetricas() {
-  var be = datos.base_electoral_stats || {}
-  var d1 = document.getElementById('m-con-dir')
-  var d2 = document.getElementById('m-con-nombre')
-  var d3 = document.getElementById('m-listos')
-  if (d1) d1.textContent = be.con_direccion || '—'
-  if (d2) d2.textContent = be.con_nombre || '—'
-  if (d3) d3.textContent = be.con_direccion || '—'
-}
-var _origCargar = cargarDatos
-cargarDatos = function() { _origCargar(); setTimeout(actualizarSubMetricas, 500) }
-
-// Descarga base electoral
-function descargarCSV() {
-  var s = datos.satisfaccion || []
-  var lineas = ['numero,nombre,direccion,sentimiento,canal,fecha']
-  s.forEach(function(r) {
-    lineas.push([
-      r.celular || r.numero || '',
-      r.nombre || '',
-      (r.direccion || '').replace(/,/g,' '),
-      r.sentimiento || '',
-      r.canal || 'WhatsApp',
-      r.fecha ? r.fecha.slice(0,10) : ''
-    ].join(','))
-  })
-  var csv = lineas.join('
-')
-  var blob = new Blob(['﻿' + csv], {type:'text/csv;charset=utf-8'})
-  var url = URL.createObjectURL(blob)
-  var a = document.createElement('a')
-  a.href = url
-  a.download = 'base_electoral_' + new Date().toISOString().slice(0,10) + '.csv'
-  document.body.appendChild(a)
-  a.click()
-  document.body.removeChild(a)
-  URL.revokeObjectURL(url)
-}
 </script>
 </body>
 </html>
