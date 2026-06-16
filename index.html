@@ -1,0 +1,363 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Panel de Gestión</title>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.js"></script>
+<style>
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; background: #f5f5f0; color: #1a1a1a; min-height: 100vh; }
+#login-screen { display: flex; align-items: center; justify-content: center; min-height: 100vh; }
+.login-card { background: white; border-radius: 12px; padding: 2.5rem; width: 320px; border: 0.5px solid #e0e0d8; }
+.login-card h1 { font-size: 18px; font-weight: 500; margin-bottom: 8px; }
+.login-card p { font-size: 13px; color: #888; margin-bottom: 1.5rem; }
+.login-card input { width: 100%; padding: 10px 14px; border: 0.5px solid #d0d0c8; border-radius: 8px; font-size: 14px; margin-bottom: 12px; outline: none; background: #fafaf8; }
+.login-card input:focus { border-color: #888; }
+.login-card button { width: 100%; padding: 10px; background: #1a1a1a; color: white; border: none; border-radius: 8px; font-size: 14px; cursor: pointer; }
+.error { color: #c0392b; font-size: 12px; margin-top: 8px; display: none; }
+#dashboard { display: none; padding: 1.5rem; max-width: 900px; margin: 0 auto; }
+.header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 1.5rem; }
+.header h1 { font-size: 18px; font-weight: 500; }
+.header span { font-size: 12px; color: #888; }
+.logout { font-size: 12px; color: #888; cursor: pointer; border: 0.5px solid #d0d0c8; padding: 4px 10px; border-radius: 6px; background: none; }
+.metrics { display: grid; grid-template-columns: repeat(4, 1fr); gap: 12px; margin-bottom: 1.5rem; }
+.metric { background: white; border-radius: 10px; padding: 1rem; border: 0.5px solid #e0e0d8; text-align: center; }
+.metric .label { font-size: 12px; color: #888; margin-bottom: 6px; }
+.metric .value { font-size: 26px; font-weight: 500; }
+.metric.positivo .value { color: #1D9E75; }
+.metric.negativo .value { color: #D85A30; }
+.grid-2 { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; margin-bottom: 1.5rem; }
+.card { background: white; border-radius: 10px; padding: 1.25rem; border: 0.5px solid #e0e0d8; margin-bottom: 1.5rem; }
+.card-title { font-size: 13px; color: #888; margin-bottom: 1rem; }
+.chart-wrap { position: relative; height: 200px; }
+.barra { display: flex; align-items: center; gap: 10px; margin-bottom: 10px; }
+.barra-label { font-size: 12px; color: #555; width: 70px; text-align: right; }
+.barra-track { flex: 1; background: #f0f0ec; border-radius: 4px; height: 8px; overflow: hidden; }
+.barra-fill { height: 100%; border-radius: 4px; }
+.barra-pct { font-size: 12px; color: #888; width: 30px; }
+table { width: 100%; border-collapse: collapse; font-size: 13px; }
+th { text-align: left; padding: 8px 0; color: #888; font-weight: 500; border-bottom: 0.5px solid #e0e0d8; }
+td { padding: 10px 0; border-bottom: 0.5px solid #f0f0ec; }
+.badge { font-size: 11px; padding: 2px 8px; border-radius: 6px; font-weight: 500; }
+.badge.pos { background: #E1F5EE; color: #0F6E56; }
+.badge.neg { background: #FAECE7; color: #993C1D; }
+.pagination { display: flex; align-items: center; gap: 8px; margin-top: 12px; }
+.pagination button { font-size: 12px; padding: 5px 10px; border: 0.5px solid #d0d0c8; border-radius: 6px; background: none; cursor: pointer; }
+.pagination button:disabled { opacity: 0.4; cursor: default; }
+.pagination span { font-size: 12px; color: #888; }
+.actualizado { font-size: 11px; color: #aaa; margin-top: 1.5rem; text-align: center; padding-bottom: 2rem; }
+@media (max-width: 600px) {
+  .metrics { grid-template-columns: repeat(2, 1fr); }
+  .grid-2 { grid-template-columns: 1fr; }
+}
+</style>
+</head>
+<body>
+
+<div id="login-screen">
+  <div class="login-card">
+    <h1>Panel de gestión</h1>
+    <p>Ingresá tu contraseña para acceder</p>
+    <input type="password" id="pwd" placeholder="Contraseña" onkeydown="if(event.key==='Enter')login()" />
+    <button onclick="login()">Ingresar</button>
+    <p class="error" id="err">Contraseña incorrecta</p>
+  </div>
+</div>
+
+<div id="dashboard">
+  <div class="header">
+    <div>
+      <h1>Panel de gestión operativa</h1>
+      <span id="fecha-actual"></span>
+    </div>
+    <button class="logout" onclick="logout()">Salir</button>
+  </div>
+
+  <div class="metrics">
+    <div class="metric"><div class="label">Vecinos contactados</div><div class="value" id="m-total">—</div></div>
+    <div class="metric positivo"><div class="label">Satisfechos</div><div class="value" id="m-pos">—</div></div>
+    <div class="metric"><div class="label">Indiferentes</div><div class="value" id="m-neu">—</div></div>
+    <div class="metric negativo"><div class="label">Disconformes</div><div class="value" id="m-neg">—</div></div>
+  </div>
+
+  <div class="card" style="margin-bottom:1.5rem;">
+    <div class="card-title">Vecinos por canal de contacto</div>
+    <div id="canales-lista" style="display:flex;flex-wrap:wrap;gap:8px;"></div>
+  </div>
+
+  <div class="grid-2">
+    <div class="card" style="margin-bottom:0;">
+      <div class="card-title">Distribución de satisfacción</div>
+      <div class="chart-wrap"><canvas id="pieChart" role="img" aria-label="Distribución de satisfacción vecinal"></canvas></div>
+      <div style="display:flex;gap:12px;margin-top:12px;font-size:12px;color:#888;flex-wrap:wrap;">
+        <span><span style="display:inline-block;width:10px;height:10px;border-radius:2px;background:#1D9E75;margin-right:4px;"></span>Satisfechos</span>
+        <span><span style="display:inline-block;width:10px;height:10px;border-radius:2px;background:#888780;margin-right:4px;"></span>Indiferentes</span>
+        <span><span style="display:inline-block;width:10px;height:10px;border-radius:2px;background:#D85A30;margin-right:4px;"></span>Disconformes</span>
+      </div>
+    </div>
+
+    <div class="card" style="margin-bottom:0;">
+      <div class="card-title">Pedidos del día</div>
+      <div class="barra">
+        <div class="barra-label">WhatsApp</div>
+        <div class="barra-track"><div class="barra-fill" id="bar-bot" style="background:#378ADD;width:0%"></div></div>
+        <div class="barra-pct" id="pct-bot">—</div>
+      </div>
+      <div class="barra">
+        <div class="barra-label">BAM interno</div>
+        <div class="barra-track"><div class="barra-fill" id="bar-bam" style="background:#BA7517;width:0%"></div></div>
+        <div class="barra-pct" id="pct-bam">—</div>
+      </div>
+      <div style="margin-top:1rem;padding-top:1rem;border-top:0.5px solid #f0f0ec;">
+        <div style="display:flex;justify-content:space-between;font-size:12px;margin-bottom:6px;">
+          <span style="color:#888;">Total pedidos</span><span style="font-weight:500;" id="total-pedidos">—</span>
+        </div>
+        <div style="display:flex;justify-content:space-between;font-size:12px;margin-bottom:6px;">
+          <span style="color:#888;">Completados</span><span style="font-weight:500;color:#1D9E75;" id="completados">—</span>
+        </div>
+        <div style="display:flex;justify-content:space-between;font-size:12px;">
+          <span style="color:#888;">Pendientes</span><span style="font-weight:500;color:#BA7517;" id="pendientes">—</span>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div style="margin-bottom:1.5rem;"></div>
+
+  <div class="card">
+    <div class="card-title">Reclamos municipales (Atención Ciudadana)</div>
+    <div style="display:grid;grid-template-columns:repeat(2,1fr);gap:12px;margin-bottom:12px;">
+      <div style="text-align:center;padding:12px;background:#f5f5f0;border-radius:8px;">
+        <div style="font-size:11px;color:#888;margin-bottom:4px;">Iniciados</div>
+        <div style="font-size:22px;font-weight:500;color:#BA7517;" id="rec-iniciados">—</div>
+      </div>
+      <div style="text-align:center;padding:12px;background:#f5f5f0;border-radius:8px;">
+        <div style="font-size:11px;color:#888;margin-bottom:4px;">En proceso</div>
+        <div style="font-size:22px;font-weight:500;color:#378ADD;" id="rec-proceso">—</div>
+      </div>
+      <div style="text-align:center;padding:12px;background:#f5f5f0;border-radius:8px;">
+        <div style="font-size:11px;color:#888;margin-bottom:4px;">Finalizados</div>
+        <div style="font-size:22px;font-weight:500;color:#1D9E75;" id="rec-resueltos">—</div>
+      </div>
+      <div style="text-align:center;padding:12px;background:#f5f5f0;border-radius:8px;">
+        <div style="font-size:11px;color:#888;margin-bottom:4px;">Derivados</div>
+        <div style="font-size:22px;font-weight:500;color:#888;" id="rec-derivados">—</div>
+      </div>
+    </div>
+    <div style="display:flex;justify-content:space-between;font-size:12px;color:#888;">
+      <span>Total reclamos período</span>
+      <span style="font-weight:500;color:#1a1a1a;" id="rec-total">—</span>
+    </div>
+  </div>
+
+  <div style="margin-bottom:1.5rem;"></div>
+
+  <div class="card">
+    <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:1rem;">
+      <div class="card-title" style="margin:0;">Vecinos satisfechos con dirección registrada</div>
+      <span class="badge pos" id="count-pos-dir">—</span>
+    </div>
+    <table>
+      <thead><tr>
+        <th style="width:28%;">Celular</th>
+        <th style="width:32%;">Dirección</th>
+        <th style="width:20%;">Canal</th>
+        <th style="width:20%;text-align:center;">Estado</th>
+      </tr></thead>
+      <tbody id="tabla-body"></tbody>
+    </table>
+    <div class="pagination">
+      <button id="btn-prev" onclick="paginaAnterior()" disabled>← Ant</button>
+      <span id="pag-info"></span>
+      <button id="btn-next" onclick="paginaSiguiente()">Sig →</button>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="card-title">Vecinos disconformes — requieren atención</div>
+    <div id="negativos-lista"></div>
+  </div>
+
+  <div class="actualizado" id="actualizado"></div>
+</div>
+
+<script>
+const PASS = 'sm1009'
+let pagina = 0
+const POR_PAGINA = 8
+let datos = {}
+let pieInstance = null
+let datosTabla = []
+
+function login() {
+  if (document.getElementById('pwd').value === PASS) {
+    sessionStorage.setItem('auth', '1')
+    document.getElementById('login-screen').style.display = 'none'
+    document.getElementById('dashboard').style.display = 'block'
+    cargarDatos()
+  } else {
+    document.getElementById('err').style.display = 'block'
+  }
+}
+
+function logout() {
+  sessionStorage.removeItem('auth')
+  document.getElementById('dashboard').style.display = 'none'
+  document.getElementById('login-screen').style.display = 'flex'
+  document.getElementById('pwd').value = ''
+}
+
+if (sessionStorage.getItem('auth') === '1') {
+  document.getElementById('login-screen').style.display = 'none'
+  document.getElementById('dashboard').style.display = 'block'
+  cargarDatos()
+}
+
+async function cargarDatos() {
+  try {
+    const r = await fetch('dashboard_data.json?t=' + Date.now())
+    if (!r.ok) throw new Error()
+    datos = await r.json()
+  } catch(e) {
+    datos = {
+      satisfaccion: [
+        {celular:'3815974795',direccion:'Av. Aconquija 380',sentimiento:'positivo',mensaje:''},
+        {celular:'3814687122',direccion:'Catamarca 720',sentimiento:'positivo',mensaje:''},
+        {celular:'3813456789',direccion:'San Martín 1240',sentimiento:'positivo',mensaje:''},
+        {celular:'3816789012',direccion:'Córdoba 1560',sentimiento:'positivo',mensaje:''},
+        {celular:'3812345678',direccion:'Mendoza 890',sentimiento:'positivo',mensaje:''},
+        {celular:'3815901234',direccion:'Muñecas 430',sentimiento:'positivo',mensaje:''},
+        {celular:'3814999111',direccion:'',sentimiento:'positivo',mensaje:''},
+        {celular:'3816234567',direccion:'Balcarce 351',sentimiento:'positivo',mensaje:''},
+        {celular:'3813678901',direccion:'Las Piedras 1100',sentimiento:'positivo',mensaje:''},
+        {celular:'3815111222',direccion:'Chile 890',sentimiento:'neutro',mensaje:''},
+        {celular:'3814333444',direccion:'',sentimiento:'neutro',mensaje:''},
+        {celular:'3816505630',direccion:'',sentimiento:'negativo',mensaje:'Ahh yo entendi mal pero el reclamo sigue sin resolverse'},
+        {celular:'3815000111',direccion:'Av. Belgrano 900',sentimiento:'negativo',mensaje:'No vinieron nunca, pésimo servicio'},
+      ],
+      pedidos: { bot: 8, bam: 12, completados: 14, pendientes: 6 },
+      actualizado: new Date().toISOString()
+    }
+  }
+  renderDashboard()
+}
+
+function formatCel(n) {
+  const d = (n||'').replace(/\D/g,'').replace(/^549/,'').replace(/^54/,'').slice(-10)
+  return d.length === 10 ? d.slice(0,4)+' '+d.slice(4,7)+'-'+d.slice(7) : n
+}
+
+function renderDashboard() {
+  const s = datos.satisfaccion || []
+  const pos = s.filter(x => x.sentimiento === 'positivo')
+  const neg = s.filter(x => x.sentimiento === 'negativo')
+  const neu = s.filter(x => x.sentimiento === 'neutro')
+  const conDir = pos.filter(x => x.direccion)
+
+  document.getElementById('m-total').textContent = s.length
+  document.getElementById('m-pos').textContent = pos.length
+  document.getElementById('m-neu').textContent = neu.length
+  document.getElementById('m-neg').textContent = neg.length
+  document.getElementById('count-pos-dir').textContent = conDir.length + ' con dirección'
+
+  const p = datos.pedidos || {}
+  const total = (p.bot||0) + (p.bam||0)
+  const max = Math.max(p.bot||0, p.bam||0, 1)
+  document.getElementById('bar-bot').style.width = Math.round((p.bot||0)/max*100)+'%'
+  document.getElementById('bar-bam').style.width = Math.round((p.bam||0)/max*100)+'%'
+  document.getElementById('pct-bot').textContent = p.bot||0
+  document.getElementById('pct-bam').textContent = p.bam||0
+  document.getElementById('total-pedidos').textContent = total
+  document.getElementById('completados').textContent = p.completados||0
+  document.getElementById('pendientes').textContent = p.pendientes||0
+
+  document.getElementById('fecha-actual').textContent =
+    new Date().toLocaleDateString('es-AR',{weekday:'long',day:'numeric',month:'long',year:'numeric'})
+
+  if (datos.actualizado)
+    document.getElementById('actualizado').textContent =
+      'Última actualización: ' + new Date(datos.actualizado).toLocaleString('es-AR')
+
+  if (pieInstance) pieInstance.destroy()
+  pieInstance = new Chart(document.getElementById('pieChart'), {
+    type: 'doughnut',
+    data: {
+      labels: ['Satisfechos','Indiferentes','Disconformes'],
+      datasets: [{ data: [pos.length, neu.length, neg.length],
+        backgroundColor: ['#1D9E75','#888780','#D85A30'], borderWidth: 0 }]
+    },
+    options: { responsive: true, maintainAspectRatio: false,
+      plugins: { legend: { display: false } }, cutout: '65%' }
+  })
+
+  datosTabla = pos
+  pagina = 0
+  actualizarTabla()
+
+  const rec = datos.reclamos || {}
+  document.getElementById('rec-iniciados').textContent = rec.iniciados ?? '—'
+  document.getElementById('rec-proceso').textContent = rec.en_proceso ?? '—'
+  document.getElementById('rec-resueltos').textContent = rec.finalizados ?? '—'
+  document.getElementById('rec-derivados').textContent = rec.derivados ?? '—'
+  document.getElementById('rec-total').textContent = rec.total ?? '—'
+
+  // Total vecinos
+  document.getElementById('m-total').textContent = datos.totalVecinos ?? s.length
+
+  // Canales
+  const canales = datos.canales || {}
+  const colores = {
+    'WhatsApp Ambiente': '#1D9E75',
+    'Aplicación Móvil': '#378ADD',
+    'App Ciudad Digital': '#378ADD',
+    'Web': '#BA7517',
+    'Presencial': '#888780'
+  }
+  document.getElementById('canales-lista').innerHTML = Object.entries(canales).map(([canal, count]) => {
+    const color = colores[canal] || '#888780'
+    return `<div style="display:flex;align-items:center;gap:8px;padding:8px 12px;background:#f5f5f0;border-radius:8px;">
+      <span style="width:8px;height:8px;border-radius:50%;background:${color};flex-shrink:0;"></span>
+      <span style="font-size:13px;color:#1a1a1a;">${canal}</span>
+      <span style="font-size:13px;font-weight:500;color:#1a1a1a;margin-left:4px;">${count}</span>
+    </div>`
+  }).join('')
+
+  const el = document.getElementById('negativos-lista')
+  if (!neg.length) {
+    el.innerHTML = '<p style="font-size:13px;color:#aaa;padding:8px 0;">Sin registros negativos</p>'
+  } else {
+    el.innerHTML = neg.map(d => `
+      <div style="display:flex;gap:12px;padding:10px 0;border-bottom:0.5px solid #f0f0ec;align-items:flex-start;">
+        <span class="badge neg" style="white-space:nowrap;">disconforme</span>
+        <div>
+          <p style="font-size:12px;font-family:monospace;color:#888;margin:0 0 4px;">+54 9 ${formatCel(d.celular)}${d.direccion?' · '+d.direccion:''}</p>
+          <p style="font-size:13px;color:#1a1a1a;margin:0;">${d.mensaje||'Sin mensaje registrado'}</p>
+        </div>
+      </div>`).join('')
+  }
+}
+
+function actualizarTabla() {
+  const inicio = pagina * POR_PAGINA
+  const slice = datosTabla.slice(inicio, inicio + POR_PAGINA)
+  document.getElementById('tabla-body').innerHTML = slice.map(d => `
+    <tr>
+      <td style="font-family:monospace;font-size:12px;">+54 9 ${formatCel(d.celular||d.telefono||'')}</td>
+      <td style="font-size:12px;">${d.direccion||'<span style="color:#aaa;font-style:italic;">sin dirección</span>'}</td>
+      <td style="font-size:11px;color:#888;">${d.canal||'WhatsApp'}</td>
+      <td style="text-align:center;"><span class="badge pos">satisfecho</span></td>
+    </tr>`).join('')
+  const totalPag = Math.ceil(datosTabla.length / POR_PAGINA)
+  document.getElementById('pag-info').textContent = (pagina+1)+' / '+totalPag
+  document.getElementById('btn-prev').disabled = pagina === 0
+  document.getElementById('btn-next').disabled = pagina >= totalPag - 1
+}
+
+function paginaAnterior() { if (pagina > 0) { pagina--; actualizarTabla(); } }
+function paginaSiguiente() { if ((pagina+1)*POR_PAGINA < datosTabla.length) { pagina++; actualizarTabla(); } }
+
+setInterval(() => { if (sessionStorage.getItem('auth')==='1') cargarDatos() }, 5*60*1000)
+</script>
+</body>
+</html>
