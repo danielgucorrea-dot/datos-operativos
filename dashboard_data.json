@@ -1,0 +1,22 @@
+{
+  "satisfaccion": [],
+  "pedidos": {
+    "bot": 0,
+    "bam": 2,
+    "completados": 0,
+    "pendientes": 2
+  },
+  "reclamos": {
+    "total": 2942,
+    "iniciados": 38,
+    "en_proceso": 1625,
+    "finalizados": 1217,
+    "derivados": 62
+  },
+  "canales": {
+    "WhatsApp Ambiente": 0,
+    "App Ciudad Digital": 2942
+  },
+  "totalVecinos": 2942,
+  "actualizado": "2026-06-16T12:54:16.844Z"
+}
