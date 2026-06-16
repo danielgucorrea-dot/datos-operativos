@@ -386,14 +386,16 @@ function paginaSiguiente() { if ((pagina+1)*POR_PAGINA < datosTabla.length) { pa
 setInterval(() => { if (sessionStorage.getItem('auth')==='1') cargarDatos() }, 5*60*1000)
 
 function actualizarPeriodo() {
-  var m = parseInt(document.getElementById('sel-periodo').value)
+  var sel = document.getElementById('sel-periodo')
+  if (!sel) return
+  var m = parseInt(sel.value)
   var hasta = new Date()
   var desde = new Date()
   desde.setMonth(desde.getMonth() - m)
   var fmt = function(d) { return d.toLocaleDateString('es-AR',{day:'2-digit',month:'2-digit',year:'numeric'}) }
-  document.getElementById('periodo-label').textContent = fmt(desde) + ' — ' + fmt(hasta)
+  var el = document.getElementById('periodo-label')
+  if (el) el.textContent = fmt(desde) + ' — ' + fmt(hasta)
 }
-actualizarPeriodo()
 
 var _cargarOrig = cargarDatos
 cargarDatos = function() {
@@ -415,8 +417,7 @@ function descargarCSV() {
   s.forEach(function(r) {
     lineas.push([r.celular||r.numero||'',r.nombre||'',(r.direccion||'').replace(/,/g,' '),r.sentimiento||'',r.canal||'WhatsApp',r.fecha?r.fecha.slice(0,10):''].join(','))
   })
-  var blob = new Blob(['﻿'+lineas.join('
-')],{type:'text/csv;charset=utf-8'})
+  var blob = new Blob(['\ufeff'+lineas.join('\n')],{type:'text/csv;charset=utf-8'})
   var url = URL.createObjectURL(blob)
   var a = document.createElement('a')
   a.href = url
@@ -426,6 +427,8 @@ function descargarCSV() {
   document.body.removeChild(a)
   URL.revokeObjectURL(url)
 }
+
+window.addEventListener('load', function() { actualizarPeriodo() })
 </script>
 </body>
 </html>
