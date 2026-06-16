@@ -411,31 +411,29 @@ function cambiarPeriodo() {
 
 function descargarCSV() {
   const s = datos.satisfaccion || []
-  const base = datos.base_electoral || []
-  const todos = base.length > 0 ? base : s
-  
-  if (todos.length === 0) {
-    alert('No hay datos disponibles para descargar')
+  if (s.length === 0) {
+    alert('No hay datos de WhatsApp disponibles para descargar aun')
     return
   }
-
-  const campos = ['numero_envio','nombre','direccion','sentimiento','canal','ultimo_contacto','mensaje_contacto']
-  const encabezado = campos.join(',')
-  const filas = todos.map(r => campos.map(c => {
-    const val = r[c] || r[c.replace('numero_envio','celular')] || ''
-    return '"' + String(val).replace(/"/g,'""') + '"'
-  }).join(','))
-  
-  const csv = [encabezado, ...filas].join('
-')
-  const blob = new Blob(['﻿' + csv], {type:'text/csv;charset=utf-8'})
+  const lineas = ['numero,nombre,direccion,sentimiento,canal,fecha']
+  s.forEach(function(r) {
+    const fila = [
+      r.celular || r.numero || '',
+      r.nombre || '',
+      (r.direccion || '').replace(/,/g,' '),
+      r.sentimiento || '',
+      r.canal || 'WhatsApp',
+      r.fecha ? r.fecha.slice(0,10) : ''
+    ].join(',')
+    lineas.push(fila)
+  })
+  const csv = lineas.join('\n')
+  const blob = new Blob(['\ufeff' + csv], {type: 'text/csv;charset=utf-8'})
   const url = URL.createObjectURL(blob)
   const a = document.createElement('a')
   a.href = url
-  a.download = `base_electoral_${new Date().toISOString().split('T')[0]}.csv`
+  a.download = 'base_electoral_' + new Date().toISOString().slice(0,10) + '.csv'
   a.click()
   URL.revokeObjectURL(url)
 }
-</script>
-</body>
-</html>
+
