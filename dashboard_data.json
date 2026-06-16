@@ -7,16 +7,24 @@
     "pendientes": 2
   },
   "reclamos": {
-    "total": 2942,
-    "iniciados": 38,
-    "en_proceso": 1625,
-    "finalizados": 1217,
+    "total": 3219,
+    "iniciados": 40,
+    "en_proceso": 1613,
+    "finalizados": 1504,
     "derivados": 62
   },
   "canales": {
     "WhatsApp Ambiente": 0,
-    "App Ciudad Digital": 2942
+    "App Ciudad Digital": 3219
   },
-  "totalVecinos": 2942,
-  "actualizado": "2026-06-16T12:54:16.844Z"
+  "totalVecinos": 1410,
+  "base_electoral_stats": {
+    "total": 1410,
+    "positivos": 153,
+    "neutros": 1250,
+    "negativos": 7,
+    "con_direccion": 1291,
+    "con_nombre": 1098
+  },
+  "actualizado": "2026-06-16T13:50:14.781Z"
 }
