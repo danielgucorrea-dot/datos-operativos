@@ -29,6 +29,38 @@
       "distrito": null
     },
     {
+      "numero": "3816665953",
+      "canal": "Chat Center (Call Center)",
+      "nombre": "MEDINA RUBEN",
+      "telefono": "3816665953",
+      "email": "",
+      "direccion": "Doctor N. Herrera, Villa Angelina, Ex Ingenio Amalia, San Miguel de Tucumán, Departamento Capital, Tucumán, T4000, Argentina",
+      "lat": "-26.87655363760543",
+      "lon": "-65.2177131628601",
+      "distrito": 19,
+      "sentimiento": "neutro",
+      "asunto": "Basura en vía pública",
+      "area": "Ambiente",
+      "estado": "INICIADO",
+      "fecha": "2026-06-17T16:39:57.000Z"
+    },
+    {
+      "numero": " 381 540-7070",
+      "canal": "Chat Center (Call Center)",
+      "nombre": "Quinteros María de los Ángeles",
+      "telefono": " 381 540-7070",
+      "email": "",
+      "direccion": "Larrea 2261 ",
+      "lat": "-26.8412528",
+      "lon": "-65.2609993",
+      "distrito": 12,
+      "sentimiento": "neutro",
+      "asunto": "Basura en vía pública",
+      "area": "Ambiente",
+      "estado": "INICIADO",
+      "fecha": "2026-06-17T16:37:58.000Z"
+    },
+    {
       "numero": "3811111111",
       "canal": "Personalmente",
       "nombre": "Tena jose eugenio ",
@@ -11374,7 +11406,7 @@
     },
     {
       "numero": "3816874416",
-      "canal": "Aplicación Móvil",
+      "canal": "Aplicaci��n Móvil",
       "nombre": "Jorge Gustavo Assf",
       "telefono": "3816874416",
       "email": "jorgeasaf@gmail.com",
@@ -23495,7 +23527,7 @@
       "lon": "-65.22396600500896",
       "distrito": 3,
       "sentimiento": "neutro",
-      "asunto": "Basura en vía pública",
+      "asunto": "Basura en v��a pública",
       "area": "Secretaría de Ambiente",
       "estado": "EN PROCESO",
       "fecha": "2026-03-19T14:03:00.000Z"
@@ -27991,7 +28023,7 @@
       "lon": "-65.21039970473595",
       "distrito": 15,
       "sentimiento": "neutro",
-      "asunto": "Basura en vía p��blica",
+      "asunto": "Basura en vía pública",
       "area": "Secretaría de Ambiente",
       "estado": "EN PROCESO",
       "fecha": "2026-03-03T13:07:07.000Z"
@@ -48866,7 +48898,7 @@
       "nombre": "Mariana  Moreira ",
       "telefono": "3815666233",
       "email": "marianamoreirahelguera@gmail.com",
-      "direccion": "Avenida Colón 218, San Miguel de Tucumán, Tucum��n",
+      "direccion": "Avenida Colón 218, San Miguel de Tucumán, Tucumán",
       "lat": "-26.828167939982787",
       "lon": "-65.23275386542082",
       "distrito": 10,
@@ -51076,22 +51108,23 @@
     "pendientes": 2
   },
   "reclamos": {
-    "total": 3210,
-    "iniciados": 34,
+    "total": 3212,
+    "iniciados": 36,
     "en_proceso": 1373,
     "finalizados": 1750,
     "derivados": 53
   },
   "canales": {
     "WhatsApp Ambiente": 2,
+    "Chat Center (Call Center)": 1568,
     "Personalmente": 107,
-    "Chat Center (Call Center)": 1566,
-    "Aplicación Móvil": 1450,
+    "Aplicación Móvil": 1449,
     "Teléfono": 54,
+    "Aplicaci��n Móvil": 1,
     "Whatsapp": 5,
     "Agentes o Inspectores": 7,
     "Email Oficial": 1
   },
-  "totalVecinos": 3192,
-  "actualizado": "2026-06-17T16:32:21.176Z"
+  "totalVecinos": 3194,
+  "actualizado": "2026-06-17T17:00:21.369Z"
 }
