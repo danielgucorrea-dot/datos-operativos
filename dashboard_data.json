@@ -15,6 +15,20 @@
       "distrito": null
     },
     {
+      "numero": "60886144299236",
+      "direccion": "",
+      "sentimiento": "neutro",
+      "mensaje": "Hola",
+      "fecha": "2026-06-17T15:51:45.726Z",
+      "canal": "WhatsApp Ambiente",
+      "nombre": "",
+      "telefono": "60886144299236",
+      "email": "",
+      "lat": null,
+      "lon": null,
+      "distrito": null
+    },
+    {
       "numero": "3813301244",
       "canal": "Chat Center (Call Center)",
       "nombre": " Pabla Gómez",
@@ -51053,7 +51067,7 @@
     "derivados": 53
   },
   "canales": {
-    "WhatsApp Ambiente": 1,
+    "WhatsApp Ambiente": 2,
     "Chat Center (Call Center)": 1566,
     "Aplicación Móvil": 1450,
     "Personalmente": 106,
@@ -51062,6 +51076,6 @@
     "Agentes o Inspectores": 7,
     "Email Oficial": 1
   },
-  "totalVecinos": 3190,
-  "actualizado": "2026-06-17T15:51:30.660Z"
+  "totalVecinos": 3191,
+  "actualizado": "2026-06-17T15:56:27.700Z"
 }
