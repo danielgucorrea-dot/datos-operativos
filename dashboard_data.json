@@ -29,6 +29,22 @@
       "distrito": null
     },
     {
+      "numero": "3812530000",
+      "canal": "Aplicación Móvil",
+      "nombre": "Silvia Patricia  Zárate ",
+      "telefono": "3812530000",
+      "email": "pzarate.arquitecta@gmail.com",
+      "direccion": "José Ignacio Thames 1081, San Miguel de Tucumán, Tucumán",
+      "lat": "-26.81140586905969",
+      "lon": "-65.22559639066458",
+      "distrito": 4,
+      "sentimiento": "neutro",
+      "asunto": "Pedido de cartelería: “No arrojar basura”",
+      "area": "Ambiente",
+      "estado": "INICIADO",
+      "fecha": "2026-06-17T23:21:33.000Z"
+    },
+    {
       "numero": "0381666595",
       "canal": "Aplicación Móvil",
       "nombre": "RUBEN MEDINA",
@@ -51204,15 +51220,15 @@
     "pendientes": 6
   },
   "reclamos": {
-    "total": 3218,
-    "iniciados": 42,
+    "total": 3219,
+    "iniciados": 43,
     "en_proceso": 1373,
     "finalizados": 1750,
     "derivados": 53
   },
   "canales": {
     "WhatsApp Ambiente": 2,
-    "Aplicación Móvil": 1452,
+    "Aplicación Móvil": 1453,
     "Chat Center (Call Center)": 1572,
     "Personalmente": 107,
     "Teléfono": 54,
@@ -51220,6 +51236,6 @@
     "Agentes o Inspectores": 7,
     "Email Oficial": 1
   },
-  "totalVecinos": 3200,
-  "actualizado": "2026-06-17T23:00:30.916Z"
+  "totalVecinos": 3201,
+  "actualizado": "2026-06-17T23:30:02.524Z"
 }
