@@ -51183,9 +51183,9 @@
   ],
   "pedidos": {
     "bot": 0,
-    "bam": 3,
+    "bam": 5,
     "completados": 0,
-    "pendientes": 3
+    "pendientes": 5
   },
   "reclamos": {
     "total": 3217,
@@ -51205,5 +51205,5 @@
     "Email Oficial": 1
   },
   "totalVecinos": 3199,
-  "actualizado": "2026-06-17T20:00:29.565Z"
+  "actualizado": "2026-06-17T20:30:14.468Z"
 }
