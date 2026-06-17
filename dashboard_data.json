@@ -29,6 +29,22 @@
       "distrito": null
     },
     {
+      "numero": "3811111111",
+      "canal": "Personalmente",
+      "nombre": "Tena jose eugenio ",
+      "telefono": "3811111111",
+      "email": "",
+      "direccion": "Villa Urquiza, San Miguel de Tucumán, Departamento Capital, Tucumán, T4000, Argentina",
+      "lat": "-26.805373837498045",
+      "lon": "-65.2162836760776",
+      "distrito": 4,
+      "sentimiento": "neutro",
+      "asunto": "Basura en vía pública",
+      "area": "Ambiente",
+      "estado": "INICIADO",
+      "fecha": "2026-06-17T16:04:06.000Z"
+    },
+    {
       "numero": "3813301244",
       "canal": "Chat Center (Call Center)",
       "nombre": " Pabla Gómez",
@@ -27975,7 +27991,7 @@
       "lon": "-65.21039970473595",
       "distrito": 15,
       "sentimiento": "neutro",
-      "asunto": "Basura en vía pública",
+      "asunto": "Basura en vía p��blica",
       "area": "Secretaría de Ambiente",
       "estado": "EN PROCESO",
       "fecha": "2026-03-03T13:07:07.000Z"
@@ -48850,7 +48866,7 @@
       "nombre": "Mariana  Moreira ",
       "telefono": "3815666233",
       "email": "marianamoreirahelguera@gmail.com",
-      "direccion": "Avenida Colón 218, San Miguel de Tucumán, Tucumán",
+      "direccion": "Avenida Colón 218, San Miguel de Tucumán, Tucum��n",
       "lat": "-26.828167939982787",
       "lon": "-65.23275386542082",
       "distrito": 10,
@@ -51060,22 +51076,22 @@
     "pendientes": 2
   },
   "reclamos": {
-    "total": 3209,
-    "iniciados": 33,
+    "total": 3210,
+    "iniciados": 34,
     "en_proceso": 1373,
     "finalizados": 1750,
     "derivados": 53
   },
   "canales": {
     "WhatsApp Ambiente": 2,
+    "Personalmente": 107,
     "Chat Center (Call Center)": 1566,
     "Aplicación Móvil": 1450,
-    "Personalmente": 106,
     "Teléfono": 54,
     "Whatsapp": 5,
     "Agentes o Inspectores": 7,
     "Email Oficial": 1
   },
-  "totalVecinos": 3191,
-  "actualizado": "2026-06-17T16:00:27.765Z"
+  "totalVecinos": 3192,
+  "actualizado": "2026-06-17T16:30:28.615Z"
 }
