@@ -29,6 +29,22 @@
       "distrito": null
     },
     {
+      "numero": "0381666595",
+      "canal": "Aplicación Móvil",
+      "nombre": "RUBEN MEDINA",
+      "telefono": "0381666595",
+      "email": "lapanteraexe@hotmail.com",
+      "direccion": "Buenos Aires 3700, San Miguel de Tucumán, Tucumán",
+      "lat": "-26.87680222843733",
+      "lon": "-65.21720945835114",
+      "distrito": 19,
+      "sentimiento": "neutro",
+      "asunto": "Persona arrojando basura",
+      "area": "Ambiente",
+      "estado": "INICIADO",
+      "fecha": "2026-06-17T22:48:22.000Z"
+    },
+    {
       "numero": "3816811523",
       "canal": "Chat Center (Call Center)",
       "nombre": " Delgado Pablo",
@@ -51188,22 +51204,22 @@
     "pendientes": 6
   },
   "reclamos": {
-    "total": 3217,
-    "iniciados": 41,
+    "total": 3218,
+    "iniciados": 42,
     "en_proceso": 1373,
     "finalizados": 1750,
     "derivados": 53
   },
   "canales": {
     "WhatsApp Ambiente": 2,
+    "Aplicación Móvil": 1452,
     "Chat Center (Call Center)": 1572,
-    "Aplicación Móvil": 1451,
     "Personalmente": 107,
     "Teléfono": 54,
     "Whatsapp": 5,
     "Agentes o Inspectores": 7,
     "Email Oficial": 1
   },
-  "totalVecinos": 3199,
-  "actualizado": "2026-06-17T22:30:30.726Z"
+  "totalVecinos": 3200,
+  "actualizado": "2026-06-17T23:00:02.292Z"
 }
