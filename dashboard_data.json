@@ -29,6 +29,38 @@
       "distrito": null
     },
     {
+      "numero": "3816056951",
+      "canal": "Chat Center (Call Center)",
+      "nombre": "Guillermo Isa Massa",
+      "telefono": "3816056951",
+      "email": "",
+      "direccion": "240, Santiago del Estero, Barrio Norte, San Miguel de Tucumán, Departamento Capital, Tucumán, T4000, Argentina",
+      "lat": "-26.82499478675651",
+      "lon": "-65.19930931850841",
+      "distrito": 10,
+      "sentimiento": "neutro",
+      "asunto": "Ruidos molestos",
+      "area": "Salud Ambiental",
+      "estado": "INICIADO",
+      "fecha": "2026-06-17T18:49:49.000Z"
+    },
+    {
+      "numero": "3854868483",
+      "canal": "Chat Center (Call Center)",
+      "nombre": " Matías Ignacio Lara",
+      "telefono": "3854868483",
+      "email": "",
+      "direccion": "399, Junín, Centro, San Miguel de Tucumán, Departamento Capital, Tucumán, T4000, Argentina",
+      "lat": "-26.824666783672505",
+      "lon": "-65.20789039076955",
+      "distrito": 10,
+      "sentimiento": "neutro",
+      "asunto": "Ruidos molestos",
+      "area": "Salud Ambiental",
+      "estado": "INICIADO",
+      "fecha": "2026-06-17T18:35:29.000Z"
+    },
+    {
       "numero": "3815043357",
       "canal": "Aplicación Móvil",
       "nombre": "FRANCISCO GONZALEZ",
@@ -3559,7 +3591,7 @@
       "lon": "-65.19734401255846",
       "distrito": 16,
       "sentimiento": "neutro",
-      "asunto": "Basura en vía p��blica",
+      "asunto": "Basura en vía pública",
       "area": "Secretaría de Ambiente",
       "estado": "EN PROCESO",
       "fecha": "2026-05-31T14:16:30.000Z"
@@ -47543,7 +47575,7 @@
       "lon": "-65.1964235",
       "distrito": 10,
       "sentimiento": "neutro",
-      "asunto": "Basura en vía pública",
+      "asunto": "Basura en vía p��blica",
       "area": "Secretaría de Ambiente",
       "estado": "FINALIZADO",
       "fecha": "2025-12-29T22:41:33.000Z"
@@ -51140,22 +51172,22 @@
     "pendientes": 3
   },
   "reclamos": {
-    "total": 3214,
-    "iniciados": 38,
+    "total": 3216,
+    "iniciados": 40,
     "en_proceso": 1373,
     "finalizados": 1750,
     "derivados": 53
   },
   "canales": {
     "WhatsApp Ambiente": 2,
+    "Chat Center (Call Center)": 1571,
     "Aplicación Móvil": 1451,
-    "Chat Center (Call Center)": 1569,
     "Personalmente": 107,
     "Teléfono": 54,
     "Whatsapp": 5,
     "Agentes o Inspectores": 7,
     "Email Oficial": 1
   },
-  "totalVecinos": 3196,
-  "actualizado": "2026-06-17T18:30:28.842Z"
+  "totalVecinos": 3198,
+  "actualizado": "2026-06-17T19:00:22.360Z"
 }
