@@ -29,6 +29,22 @@
       "distrito": null
     },
     {
+      "numero": "3815043357",
+      "canal": "Aplicación Móvil",
+      "nombre": "FRANCISCO GONZALEZ",
+      "telefono": "3815043357",
+      "email": "sinfuxer@gmail.com",
+      "direccion": "Alsina 2513, San Miguel de Tucumán, Tucumán",
+      "lat": "-26.83837937685849",
+      "lon": "-65.23934036493301",
+      "distrito": 13,
+      "sentimiento": "neutro",
+      "asunto": "Basura en vía pública",
+      "area": "Ambiente",
+      "estado": "INICIADO",
+      "fecha": "2026-06-17T18:26:00.000Z"
+    },
+    {
       "numero": " 381 581-0069",
       "canal": "Chat Center (Call Center)",
       "nombre": "Diego Soraire",
@@ -3543,7 +3559,7 @@
       "lon": "-65.19734401255846",
       "distrito": 16,
       "sentimiento": "neutro",
-      "asunto": "Basura en vía pública",
+      "asunto": "Basura en vía p��blica",
       "area": "Secretaría de Ambiente",
       "estado": "EN PROCESO",
       "fecha": "2026-05-31T14:16:30.000Z"
@@ -4802,7 +4818,7 @@
       "nombre": "Juárez Gladys",
       "telefono": "3815577380",
       "email": "",
-      "direccion": "Sáenz Pe��a 275",
+      "direccion": "Sáenz Peña 275",
       "lat": "-26.8363366",
       "lon": "-65.1981792",
       "distrito": 10,
@@ -6210,7 +6226,7 @@
       "nombre": " Manuel Rodolfo Martínez",
       "telefono": "3814173341",
       "email": "",
-      "direccion": "San Miguel de Tucum��n, Departamento Capital, Tucumán, T4000, Argentina",
+      "direccion": "San Miguel de Tucumán, Departamento Capital, Tucumán, T4000, Argentina",
       "lat": "-26.85878010521768",
       "lon": "-65.19655044430313",
       "distrito": 16,
@@ -51124,22 +51140,22 @@
     "pendientes": 3
   },
   "reclamos": {
-    "total": 3213,
-    "iniciados": 37,
+    "total": 3214,
+    "iniciados": 38,
     "en_proceso": 1373,
     "finalizados": 1750,
     "derivados": 53
   },
   "canales": {
     "WhatsApp Ambiente": 2,
+    "Aplicación Móvil": 1451,
     "Chat Center (Call Center)": 1569,
     "Personalmente": 107,
-    "Aplicación Móvil": 1450,
     "Teléfono": 54,
     "Whatsapp": 5,
     "Agentes o Inspectores": 7,
     "Email Oficial": 1
   },
-  "totalVecinos": 3195,
-  "actualizado": "2026-06-17T18:00:28.641Z"
+  "totalVecinos": 3196,
+  "actualizado": "2026-06-17T18:30:22.148Z"
 }
