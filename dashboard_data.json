@@ -29,6 +29,22 @@
       "distrito": null
     },
     {
+      "numero": " 381 581-0069",
+      "canal": "Chat Center (Call Center)",
+      "nombre": "Diego Soraire",
+      "telefono": " 381 581-0069",
+      "email": "",
+      "direccion": "Silvano Bores 200",
+      "lat": "-26.8426504",
+      "lon": "-65.182687",
+      "distrito": 11,
+      "sentimiento": "neutro",
+      "asunto": "Venta de alimentos en mal estado",
+      "area": "Bromatología",
+      "estado": "INICIADO",
+      "fecha": "2026-06-17T17:56:09.000Z"
+    },
+    {
       "numero": "3816665953",
       "canal": "Chat Center (Call Center)",
       "nombre": "MEDINA RUBEN",
@@ -4786,7 +4802,7 @@
       "nombre": "Juárez Gladys",
       "telefono": "3815577380",
       "email": "",
-      "direccion": "Sáenz Peña 275",
+      "direccion": "Sáenz Pe��a 275",
       "lat": "-26.8363366",
       "lon": "-65.1981792",
       "distrito": 10,
@@ -6194,7 +6210,7 @@
       "nombre": " Manuel Rodolfo Martínez",
       "telefono": "3814173341",
       "email": "",
-      "direccion": "San Miguel de Tucumán, Departamento Capital, Tucumán, T4000, Argentina",
+      "direccion": "San Miguel de Tucum��n, Departamento Capital, Tucumán, T4000, Argentina",
       "lat": "-26.85878010521768",
       "lon": "-65.19655044430313",
       "distrito": 16,
@@ -11406,7 +11422,7 @@
     },
     {
       "numero": "3816874416",
-      "canal": "Aplicaci��n Móvil",
+      "canal": "Aplicación Móvil",
       "nombre": "Jorge Gustavo Assf",
       "telefono": "3816874416",
       "email": "jorgeasaf@gmail.com",
@@ -23527,7 +23543,7 @@
       "lon": "-65.22396600500896",
       "distrito": 3,
       "sentimiento": "neutro",
-      "asunto": "Basura en v��a pública",
+      "asunto": "Basura en vía pública",
       "area": "Secretaría de Ambiente",
       "estado": "EN PROCESO",
       "fecha": "2026-03-19T14:03:00.000Z"
@@ -51108,23 +51124,22 @@
     "pendientes": 3
   },
   "reclamos": {
-    "total": 3212,
-    "iniciados": 36,
+    "total": 3213,
+    "iniciados": 37,
     "en_proceso": 1373,
     "finalizados": 1750,
     "derivados": 53
   },
   "canales": {
     "WhatsApp Ambiente": 2,
-    "Chat Center (Call Center)": 1568,
+    "Chat Center (Call Center)": 1569,
     "Personalmente": 107,
-    "Aplicación Móvil": 1449,
+    "Aplicación Móvil": 1450,
     "Teléfono": 54,
-    "Aplicaci��n Móvil": 1,
     "Whatsapp": 5,
     "Agentes o Inspectores": 7,
     "Email Oficial": 1
   },
-  "totalVecinos": 3194,
-  "actualizado": "2026-06-17T17:50:30.386Z"
+  "totalVecinos": 3195,
+  "actualizado": "2026-06-17T18:00:21.919Z"
 }
