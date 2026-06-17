@@ -29,6 +29,22 @@
       "distrito": null
     },
     {
+      "numero": "3816811523",
+      "canal": "Chat Center (Call Center)",
+      "nombre": " Delgado Pablo",
+      "telefono": "3816811523",
+      "email": "",
+      "direccion": "Ex Ingenio Amalia, San Miguel de Tucumán, Departamento Capital, Tucumán, T4000, Argentina",
+      "lat": "-26.862695278562995",
+      "lon": "-65.21776291653087",
+      "distrito": 15,
+      "sentimiento": "neutro",
+      "asunto": "Ruidos molestos",
+      "area": "Salud Ambiental",
+      "estado": "INICIADO",
+      "fecha": "2026-06-17T19:53:08.000Z"
+    },
+    {
       "numero": "3816056951",
       "canal": "Chat Center (Call Center)",
       "nombre": "Guillermo Isa Massa",
@@ -47575,7 +47591,7 @@
       "lon": "-65.1964235",
       "distrito": 10,
       "sentimiento": "neutro",
-      "asunto": "Basura en vía p��blica",
+      "asunto": "Basura en vía pública",
       "area": "Secretaría de Ambiente",
       "estado": "FINALIZADO",
       "fecha": "2025-12-29T22:41:33.000Z"
@@ -51172,15 +51188,15 @@
     "pendientes": 3
   },
   "reclamos": {
-    "total": 3216,
-    "iniciados": 40,
+    "total": 3217,
+    "iniciados": 41,
     "en_proceso": 1373,
     "finalizados": 1750,
     "derivados": 53
   },
   "canales": {
     "WhatsApp Ambiente": 2,
-    "Chat Center (Call Center)": 1571,
+    "Chat Center (Call Center)": 1572,
     "Aplicación Móvil": 1451,
     "Personalmente": 107,
     "Teléfono": 54,
@@ -51188,6 +51204,6 @@
     "Agentes o Inspectores": 7,
     "Email Oficial": 1
   },
-  "totalVecinos": 3198,
-  "actualizado": "2026-06-17T19:30:29.378Z"
+  "totalVecinos": 3199,
+  "actualizado": "2026-06-17T20:00:14.183Z"
 }
