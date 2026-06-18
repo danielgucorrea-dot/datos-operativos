@@ -20133,6 +20133,38 @@
       "distrito": null
     },
     {
+      "numero": "3814767970",
+      "canal": "Chat Center (Call Center)",
+      "nombre": "Yacante Lucia",
+      "telefono": "3814767970",
+      "email": "",
+      "direccion": "1400, Laprida, Villa 9 de Julio, Villa 9 de julio, San Miguel de Tucumán, Departamento Capital, Tucumán, T4000, Argentina",
+      "lat": "-26.81148696106992",
+      "lon": "-65.19852231552242",
+      "distrito": 6,
+      "sentimiento": "neutro",
+      "asunto": "Basura en vía pública",
+      "area": "Ambiente",
+      "estado": "INICIADO",
+      "fecha": "2026-06-18T20:14:51.000Z"
+    },
+    {
+      "numero": "3815045409",
+      "canal": "Chat Center (Call Center)",
+      "nombre": "Carla Nagle Fabio",
+      "telefono": "3815045409",
+      "email": "",
+      "direccion": "Entre Rios 879",
+      "lat": "-26.8436818",
+      "lon": "-65.2031439",
+      "distrito": 10,
+      "sentimiento": "neutro",
+      "asunto": "Recolección de Residuos No Habituales (cantidad reducida)",
+      "area": "Ambiente",
+      "estado": "INICIADO",
+      "fecha": "2026-06-18T20:07:11.000Z"
+    },
+    {
       "numero": "+543816700079",
       "canal": "Aplicación Móvil",
       "nombre": "Angel Mariano  Sosa",
@@ -20768,7 +20800,7 @@
       "distrito": 3,
       "sentimiento": "neutro",
       "asunto": "Basura en vía pública",
-      "area": "Secretar��a de Ambiente",
+      "area": "Secretaría de Ambiente",
       "estado": "EN PROCESO",
       "fecha": "2026-03-14T18:22:41.000Z"
     },
@@ -41436,22 +41468,22 @@
     "pendientes": 10
   },
   "reclamos": {
-    "total": 3222,
-    "iniciados": 26,
+    "total": 3224,
+    "iniciados": 28,
     "en_proceso": 1310,
     "finalizados": 1855,
     "derivados": 31
   },
   "canales": {
     "WhatsApp Ambiente": 1438,
+    "Chat Center (Call Center)": 758,
     "Aplicación Móvil": 491,
-    "Chat Center (Call Center)": 756,
     "Whatsapp": 6,
     "Personalmente": 44,
     "Teléfono": 27,
     "Agentes o Inspectores": 6,
     "Email Oficial": 1
   },
-  "totalVecinos": 2769,
-  "actualizado": "2026-06-18T20:00:57.048Z"
+  "totalVecinos": 2771,
+  "actualizado": "2026-06-18T20:30:11.324Z"
 }
