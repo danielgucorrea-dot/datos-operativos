@@ -5099,15 +5099,15 @@
     {
       "numero": "5493816401950",
       "celular": "5493816401950",
-      "nombre": "Jorge Luis Suarez ",
-      "direccion": "Av. República de Siria 1081",
+      "nombre": "Suarez Jorge Luis ",
+      "direccion": "899, Italia, Villa 9 de Julio, Villa 9 de julio, San Miguel de Tucumán, Departamento Capital, Tucumán, T4000, Argentina",
       "sentimiento": "neutro",
       "canal": "WhatsApp Ambiente",
       "fecha": "2026-06-12",
       "telefono": "3816401950",
       "email": "",
-      "lat": "-26.8150417",
-      "lon": "-65.2070385",
+      "lat": "-26.81484283439203",
+      "lon": "-65.20690714232896",
       "distrito": 5
     },
     {
@@ -6276,7 +6276,7 @@
       "numero": "5493816819927",
       "celular": "5493816819927",
       "nombre": "Octavio Gabriel Magro",
-      "direccion": "1098, José Ignacio Thames, Juan XXIII, San Miguel de Tucumán, Departamento Capital, Tucumán, T4000, Argentina",
+      "direccion": "1098, José Ignacio Thames, Juan XXIII, San Miguel de Tucumán, Departamento Capital, Tucum��n, T4000, Argentina",
       "sentimiento": " José Ignacio Thames",
       "canal": "WhatsApp Ambiente",
       "fecha": " San Miguel de Tucumán",
@@ -34282,7 +34282,7 @@
       "nombre": "Brito Mariana Natalia",
       "telefono": "381 566-1571",
       "email": "",
-      "direccion": "1289, Piedrabuena, Villa 9 de Julio, San Miguel de Tucum��n, Departamento Capital, Tucumán, T4000, Argentina",
+      "direccion": "1289, Piedrabuena, Villa 9 de Julio, San Miguel de Tucumán, Departamento Capital, Tucumán, T4000, Argentina",
       "lat": "-26.813691683976835",
       "lon": "-65.1997613428182",
       "distrito": 6,
@@ -41420,8 +41420,8 @@
     "pendientes": 10
   },
   "reclamos": {
-    "total": 3220,
-    "iniciados": 24,
+    "total": 3221,
+    "iniciados": 25,
     "en_proceso": 1310,
     "finalizados": 1855,
     "derivados": 31
@@ -41437,5 +41437,5 @@
     "Email Oficial": 1
   },
   "totalVecinos": 2768,
-  "actualizado": "2026-06-18T17:42:09.800Z"
+  "actualizado": "2026-06-18T18:00:10.354Z"
 }
