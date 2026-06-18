@@ -15096,7 +15096,7 @@
       "numero": "5493813563097",
       "celular": "5493813563097",
       "nombre": "María Jimena Astrada Poviña",
-      "direccion": "1902, Avenida Belgrano, El Bosque, San Miguel de Tucumán, Departamento Capital, Tucum��n, T4000, Argentina",
+      "direccion": "1902, Avenida Belgrano, El Bosque, San Miguel de Tucumán, Departamento Capital, Tucumán, T4000, Argentina",
       "sentimiento": " Avenida Belgrano",
       "canal": "WhatsApp Ambiente",
       "fecha": " San Miguel de Tucumán",
@@ -22945,7 +22945,7 @@
       "sentimiento": "neutro",
       "asunto": "Contenedor en vereda",
       "area": "Ambiente",
-      "estado": "DERIVADO",
+      "estado": "FINALIZADO",
       "fecha": "2026-03-02T23:54:19.000Z"
     },
     {
@@ -41191,16 +41191,16 @@
   ],
   "pedidos": {
     "bot": 0,
-    "bam": 25,
+    "bam": 36,
     "completados": 0,
-    "pendientes": 25
+    "pendientes": 36
   },
   "reclamos": {
     "total": 3204,
-    "iniciados": 18,
+    "iniciados": 13,
     "en_proceso": 1380,
-    "finalizados": 1749,
-    "derivados": 57
+    "finalizados": 1781,
+    "derivados": 30
   },
   "canales": {
     "WhatsApp Ambiente": 1438,
@@ -41213,5 +41213,5 @@
     "Email Oficial": 1
   },
   "totalVecinos": 2754,
-  "actualizado": "2026-06-18T12:30:07.603Z"
+  "actualizado": "2026-06-18T13:00:08.172Z"
 }
