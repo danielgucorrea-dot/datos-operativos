@@ -8880,7 +8880,7 @@
       "numero": "5493814487171",
       "celular": "5493814487171",
       "nombre": "Rojo Ana Patricia",
-      "direccion": "1302, Avenida República del Libano, San Miguel de Tucum��n, Departamento Capital, Tucumán, T4000, Argentina",
+      "direccion": "1302, Avenida República del Libano, San Miguel de Tucumán, Departamento Capital, Tucumán, T4000, Argentina",
       "sentimiento": " Avenida República del Libano",
       "canal": "WhatsApp Ambiente",
       "fecha": " Departamento Capital",
@@ -11862,14 +11862,14 @@
       "numero": "5493812173229",
       "celular": "5493812173229",
       "nombre": "Juan Martín  Guzmán",
-      "direccion": "Amador Lucero 46, Municipalidad de San Miguel De Tucuman, Tucumán",
+      "direccion": "Amador Lucero 140, Municipalidad de San Miguel De Tucuman, Tucumán",
       "sentimiento": " Municipalidad de San Miguel De Tucuman",
       "canal": "WhatsApp Ambiente",
       "fecha": "neutro",
       "telefono": "3812173229",
       "email": "juanmartinguzman@gmail.com",
-      "lat": "-26.826571758827082",
-      "lon": "-65.22912047803402",
+      "lat": "-26.8276500437444",
+      "lon": "-65.22941753268242",
       "distrito": 10
     },
     {
@@ -20165,6 +20165,22 @@
       "fecha": "2026-06-17T19:53:08.000Z"
     },
     {
+      "numero": "3813354854",
+      "canal": "Chat Center (Call Center)",
+      "nombre": "Cajal Sandra Mariela",
+      "telefono": "3813354854",
+      "email": "",
+      "direccion": "Coronel Zelaya, Samoré, 24 de septiembre, San Miguel de Tucumán, Departamento Capital, Tucumán, T4000, Argentina",
+      "lat": "-26.83927674977976",
+      "lon": "-65.2424237914239",
+      "distrito": 13,
+      "sentimiento": "neutro",
+      "asunto": "Recolección de residuos sin realizar",
+      "area": "Secretaría de Ambiente",
+      "estado": "DERIVADO",
+      "fecha": "2026-06-17T19:18:21.000Z"
+    },
+    {
       "numero": "3854868483",
       "canal": "Chat Center (Call Center)",
       "nombre": " Matías Ignacio Lara",
@@ -20243,6 +20259,22 @@
       "area": "Secretaría de Ambiente",
       "estado": "EN PROCESO",
       "fecha": "2026-06-17T16:04:06.000Z"
+    },
+    {
+      "numero": "+543814195090",
+      "canal": "Aplicación Móvil",
+      "nombre": "Lucas Miño",
+      "telefono": "+543814195090",
+      "email": "lucasmino978@icloud.com",
+      "direccion": "Juan Luis Nougués 86, Municipalidad de San Miguel De Tucuman, Tucumán",
+      "lat": "-26.821484772434562",
+      "lon": "-65.2423407509923",
+      "distrito": 9,
+      "sentimiento": "neutro",
+      "asunto": "Barrido público deficiente o sin realizar",
+      "area": "Secretaría de Ambiente",
+      "estado": "DERIVADO",
+      "fecha": "2026-06-17T15:21:32.000Z"
     },
     {
       "numero": "3813301244",
@@ -22119,7 +22151,7 @@
     {
       "numero": "3816477505",
       "canal": "Chat Center (Call Center)",
-      "nombre": "María José Gómez ",
+      "nombre": "Mar��a José Gómez ",
       "telefono": "3816477505",
       "email": "",
       "direccion": "Congreso de Tucuman, 901, Congreso de Tucumán, Villa Alem, San Miguel de Tucumán, Departamento Capital, Tucumán, 4000, Argentina",
@@ -25462,7 +25494,7 @@
     },
     {
       "numero": "3812157939",
-      "canal": "Aplicación M��vil",
+      "canal": "Aplicación Móvil",
       "nombre": "Edith  Graneros ",
       "telefono": "3812157939",
       "email": "granerofabiana@gmail.com",
@@ -28304,7 +28336,7 @@
       "distrito": 10,
       "sentimiento": "neutro",
       "asunto": "Barrido público deficiente o sin realizar",
-      "area": "Secretaría de Ambiente",
+      "area": "Secretar��a de Ambiente",
       "estado": "EN PROCESO",
       "fecha": "2026-02-10T11:41:21.000Z"
     },
@@ -41159,28 +41191,27 @@
   ],
   "pedidos": {
     "bot": 0,
-    "bam": 6,
+    "bam": 8,
     "completados": 0,
-    "pendientes": 6
+    "pendientes": 8
   },
   "reclamos": {
-    "total": 3201,
-    "iniciados": 28,
+    "total": 3204,
+    "iniciados": 24,
     "en_proceso": 1380,
-    "finalizados": 1738,
-    "derivados": 55
+    "finalizados": 1743,
+    "derivados": 57
   },
   "canales": {
     "WhatsApp Ambiente": 1438,
-    "Aplicación Móvil": 487,
-    "Chat Center (Call Center)": 744,
+    "Aplicación Móvil": 489,
+    "Chat Center (Call Center)": 745,
     "Personalmente": 44,
     "Teléfono": 27,
-    "Aplicación M��vil": 1,
     "Agentes o Inspectores": 6,
     "Whatsapp": 4,
     "Email Oficial": 1
   },
-  "totalVecinos": 2752,
-  "actualizado": "2026-06-18T11:39:07.292Z"
+  "totalVecinos": 2754,
+  "actualizado": "2026-06-18T12:00:07.227Z"
 }
