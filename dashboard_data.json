@@ -41,7 +41,7 @@
       "sentimiento": "neutro",
       "asunto": "Ruidos molestos",
       "area": "Salud Ambiental",
-      "estado": "INICIADO",
+      "estado": "FINALIZADO",
       "fecha": "2026-06-18T01:17:00.000Z"
     },
     {
@@ -56,8 +56,8 @@
       "distrito": 4,
       "sentimiento": "neutro",
       "asunto": "Pedido de cartelería: “No arrojar basura”",
-      "area": "Ambiente",
-      "estado": "INICIADO",
+      "area": "Secretaría de Ambiente",
+      "estado": "EN PROCESO",
       "fecha": "2026-06-17T23:21:33.000Z"
     },
     {
@@ -72,8 +72,8 @@
       "distrito": 19,
       "sentimiento": "neutro",
       "asunto": "Persona arrojando basura",
-      "area": "Ambiente",
-      "estado": "INICIADO",
+      "area": "Secretaría de Ambiente",
+      "estado": "EN PROCESO",
       "fecha": "2026-06-17T22:48:22.000Z"
     },
     {
@@ -89,7 +89,7 @@
       "sentimiento": "neutro",
       "asunto": "Ruidos molestos",
       "area": "Salud Ambiental",
-      "estado": "INICIADO",
+      "estado": "FINALIZADO",
       "fecha": "2026-06-17T19:53:08.000Z"
     },
     {
@@ -105,7 +105,7 @@
       "sentimiento": "neutro",
       "asunto": "Ruidos molestos",
       "area": "Salud Ambiental",
-      "estado": "INICIADO",
+      "estado": "FINALIZADO",
       "fecha": "2026-06-17T18:49:49.000Z"
     },
     {
@@ -121,7 +121,7 @@
       "sentimiento": "neutro",
       "asunto": "Ruidos molestos",
       "area": "Salud Ambiental",
-      "estado": "INICIADO",
+      "estado": "FINALIZADO",
       "fecha": "2026-06-17T18:35:29.000Z"
     },
     {
@@ -136,8 +136,8 @@
       "distrito": 13,
       "sentimiento": "neutro",
       "asunto": "Basura en vía pública",
-      "area": "Ambiente",
-      "estado": "INICIADO",
+      "area": "Secretaría de Ambiente",
+      "estado": "EN PROCESO",
       "fecha": "2026-06-17T18:26:00.000Z"
     },
     {
@@ -168,8 +168,8 @@
       "distrito": 19,
       "sentimiento": "neutro",
       "asunto": "Basura en vía pública",
-      "area": "Ambiente",
-      "estado": "INICIADO",
+      "area": "Secretaría de Ambiente",
+      "estado": "EN PROCESO",
       "fecha": "2026-06-17T16:39:57.000Z"
     },
     {
@@ -184,8 +184,8 @@
       "distrito": 12,
       "sentimiento": "neutro",
       "asunto": "Basura en vía pública",
-      "area": "Ambiente",
-      "estado": "INICIADO",
+      "area": "Secretaría de Ambiente",
+      "estado": "EN PROCESO",
       "fecha": "2026-06-17T16:37:58.000Z"
     },
     {
@@ -200,8 +200,8 @@
       "distrito": 4,
       "sentimiento": "neutro",
       "asunto": "Basura en vía pública",
-      "area": "Ambiente",
-      "estado": "INICIADO",
+      "area": "Secretaría de Ambiente",
+      "estado": "EN PROCESO",
       "fecha": "2026-06-17T16:04:06.000Z"
     },
     {
@@ -280,8 +280,8 @@
       "distrito": 12,
       "sentimiento": "neutro",
       "asunto": "Quema de basura en vía pública",
-      "area": "Salud Ambiental",
-      "estado": "INICIADO",
+      "area": "Ambiente",
+      "estado": "DERIVADO",
       "fecha": "2026-06-16T21:05:12.000Z"
     },
     {
@@ -329,7 +329,7 @@
       "sentimiento": "neutro",
       "asunto": "Ruidos molestos",
       "area": "Salud Ambiental",
-      "estado": "INICIADO",
+      "estado": "EN PROCESO",
       "fecha": "2026-06-16T19:00:31.000Z"
     },
     {
@@ -345,7 +345,7 @@
       "sentimiento": "neutro",
       "asunto": "Ruidos molestos",
       "area": "Salud Ambiental",
-      "estado": "INICIADO",
+      "estado": "FINALIZADO",
       "fecha": "2026-06-16T18:24:58.000Z"
     },
     {
@@ -408,8 +408,8 @@
       "distrito": 20,
       "sentimiento": "neutro",
       "asunto": "Quema de basura en vía pública",
-      "area": "Salud Ambiental",
-      "estado": "INICIADO",
+      "area": "Bromatología",
+      "estado": "DERIVADO",
       "fecha": "2026-06-16T13:51:54.000Z"
     },
     {
@@ -473,7 +473,7 @@
       "sentimiento": "neutro",
       "asunto": "Ruidos molestos",
       "area": "Salud Ambiental",
-      "estado": "INICIADO",
+      "estado": "FINALIZADO",
       "fecha": "2026-06-15T23:48:03.000Z"
     },
     {
@@ -521,7 +521,7 @@
       "sentimiento": "neutro",
       "asunto": "Ruidos molestos",
       "area": "Salud Ambiental",
-      "estado": "INICIADO",
+      "estado": "FINALIZADO",
       "fecha": "2026-06-15T02:02:01.000Z"
     },
     {
@@ -6418,7 +6418,7 @@
       "nombre": "Rojo Ana Patricia",
       "telefono": "3814487171",
       "email": "",
-      "direccion": "1302, Avenida República del Libano, San Miguel de Tucumán, Departamento Capital, Tucumán, T4000, Argentina",
+      "direccion": "1302, Avenida República del Libano, San Miguel de Tucum��n, Departamento Capital, Tucumán, T4000, Argentina",
       "lat": "-26.80987543160225",
       "lon": "-65.2139334880786",
       "distrito": 5,
@@ -11630,7 +11630,7 @@
     },
     {
       "numero": "3816073010",
-      "canal": "Aplicación M��vil",
+      "canal": "Aplicación Móvil",
       "nombre": "Emma Juliana  López Ruiz ",
       "telefono": "3816073010",
       "email": "juliana_lopezruiz@hotmail.com.ar",
@@ -13758,7 +13758,7 @@
     },
     {
       "numero": "3816970815",
-      "canal": "Aplicación Móvil",
+      "canal": "Aplicación M��vil",
       "nombre": "Silvia  Benítez ",
       "telefono": "3816970815",
       "email": "benitezsilvia381@gmail.com",
@@ -31790,7 +31790,7 @@
     },
     {
       "numero": "3812157939",
-      "canal": "Aplicación Móvil",
+      "canal": "Aplicación M��vil",
       "nombre": "Edith  Graneros ",
       "telefono": "3812157939",
       "email": "granerofabiana@gmail.com",
@@ -38983,7 +38983,7 @@
       "lon": "-65.22860477910679",
       "distrito": 10,
       "sentimiento": "neutro",
-      "asunto": "Basura en v��a pública",
+      "asunto": "Basura en vía pública",
       "area": "Secretaría de Ambiente",
       "estado": "FINALIZADO",
       "fecha": "2026-01-29T15:59:20.000Z"
@@ -50933,22 +50933,22 @@
   },
   "reclamos": {
     "total": 3201,
-    "iniciados": 44,
-    "en_proceso": 1373,
-    "finalizados": 1731,
-    "derivados": 53
+    "iniciados": 28,
+    "en_proceso": 1380,
+    "finalizados": 1738,
+    "derivados": 55
   },
   "canales": {
     "WhatsApp Ambiente": 2,
-    "Aplicación Móvil": 1448,
+    "Aplicación Móvil": 1447,
     "Chat Center (Call Center)": 1558,
     "Personalmente": 107,
     "Teléfono": 54,
-    "Aplicación M��vil": 1,
+    "Aplicación M��vil": 2,
     "Whatsapp": 5,
     "Agentes o Inspectores": 7,
     "Email Oficial": 1
   },
   "totalVecinos": 3183,
-  "actualizado": "2026-06-18T10:00:34.196Z"
+  "actualizado": "2026-06-18T11:28:34.440Z"
 }
