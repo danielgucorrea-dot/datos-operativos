@@ -24593,7 +24593,7 @@
       "sentimiento": "neutro",
       "asunto": "Basura en vía pública",
       "area": "Secretaría de Ambiente",
-      "estado": "EN PROCESO",
+      "estado": "FINALIZADO",
       "fecha": "2026-02-24T12:40:45.000Z"
     },
     {
@@ -24625,7 +24625,7 @@
       "sentimiento": "neutro",
       "asunto": "Recolección de Residuos No Habituales (cantidad reducida)",
       "area": "Secretaría de Ambiente",
-      "estado": "EN PROCESO",
+      "estado": "FINALIZADO",
       "fecha": "2026-02-24T11:58:41.000Z"
     },
     {
@@ -24641,7 +24641,7 @@
       "sentimiento": "neutro",
       "asunto": "Recolección de Residuos No Habituales (cantidad reducida)",
       "area": "Secretaría de Ambiente",
-      "estado": "EN PROCESO",
+      "estado": "FINALIZADO",
       "fecha": "2026-02-24T11:37:01.000Z"
     },
     {
@@ -24657,7 +24657,7 @@
       "sentimiento": "neutro",
       "asunto": "Recolección de Residuos No Habituales (cantidad reducida)",
       "area": "Secretaría de Ambiente",
-      "estado": "EN PROCESO",
+      "estado": "FINALIZADO",
       "fecha": "2026-02-24T11:36:55.000Z"
     },
     {
@@ -24673,7 +24673,7 @@
       "sentimiento": "neutro",
       "asunto": "Recolección de Residuos No Habituales (cantidad reducida)",
       "area": "Secretaría de Ambiente",
-      "estado": "EN PROCESO",
+      "estado": "FINALIZADO",
       "fecha": "2026-02-24T11:23:50.000Z"
     },
     {
@@ -24705,7 +24705,7 @@
       "sentimiento": "neutro",
       "asunto": "Recolección de Residuos No Habituales (cantidad reducida)",
       "area": "Secretaría de Ambiente",
-      "estado": "EN PROCESO",
+      "estado": "FINALIZADO",
       "fecha": "2026-02-23T23:30:48.000Z"
     },
     {
@@ -24721,7 +24721,7 @@
       "sentimiento": "neutro",
       "asunto": "Basura en vía pública",
       "area": "Secretaría de Ambiente",
-      "estado": "EN PROCESO",
+      "estado": "FINALIZADO",
       "fecha": "2026-02-23T22:56:31.000Z"
     },
     {
@@ -24737,7 +24737,7 @@
       "sentimiento": "neutro",
       "asunto": "Residuos verdes y podas sin recoger",
       "area": "Secretaría de Ambiente",
-      "estado": "EN PROCESO",
+      "estado": "FINALIZADO",
       "fecha": "2026-02-23T22:39:44.000Z"
     },
     {
@@ -24753,7 +24753,7 @@
       "sentimiento": "neutro",
       "asunto": "Basura en vía pública",
       "area": "Secretaría de Ambiente",
-      "estado": "EN PROCESO",
+      "estado": "FINALIZADO",
       "fecha": "2026-02-23T21:05:01.000Z"
     },
     {
@@ -24769,7 +24769,7 @@
       "sentimiento": "neutro",
       "asunto": "Basura en vía pública",
       "area": "Secretaría de Ambiente",
-      "estado": "EN PROCESO",
+      "estado": "FINALIZADO",
       "fecha": "2026-02-23T20:22:37.000Z"
     },
     {
@@ -24785,7 +24785,7 @@
       "sentimiento": "neutro",
       "asunto": "Recolección de Residuos No Habituales (cantidad reducida)",
       "area": "Secretaría de Ambiente",
-      "estado": "EN PROCESO",
+      "estado": "FINALIZADO",
       "fecha": "2026-02-23T20:09:11.000Z"
     },
     {
@@ -41207,15 +41207,15 @@
   ],
   "pedidos": {
     "bot": 0,
-    "bam": 38,
+    "bam": 43,
     "completados": 0,
-    "pendientes": 38
+    "pendientes": 43
   },
   "reclamos": {
     "total": 3205,
     "iniciados": 14,
-    "en_proceso": 1358,
-    "finalizados": 1803,
+    "en_proceso": 1343,
+    "finalizados": 1818,
     "derivados": 30
   },
   "canales": {
@@ -41229,5 +41229,5 @@
     "Email Oficial": 1
   },
   "totalVecinos": 2755,
-  "actualizado": "2026-06-18T13:30:08.099Z"
+  "actualizado": "2026-06-18T14:00:08.419Z"
 }
