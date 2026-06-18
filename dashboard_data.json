@@ -29,6 +29,22 @@
       "distrito": null
     },
     {
+      "numero": "3816767506",
+      "canal": "Aplicación Móvil",
+      "nombre": "Mauro Oliva",
+      "telefono": "3816767506",
+      "email": "olivapedro22@gmail.com",
+      "direccion": "Mendoza 534, San Miguel de Tucumán, Tucumán",
+      "lat": "-26.8283092",
+      "lon": "-65.2045984",
+      "distrito": 10,
+      "sentimiento": "neutro",
+      "asunto": "Ruidos molestos",
+      "area": "Salud Ambiental",
+      "estado": "INICIADO",
+      "fecha": "2026-06-18T01:17:00.000Z"
+    },
+    {
       "numero": "3812530000",
       "canal": "Aplicación Móvil",
       "nombre": "Silvia Patricia  Zárate ",
@@ -11614,7 +11630,7 @@
     },
     {
       "numero": "3816073010",
-      "canal": "Aplicación Móvil",
+      "canal": "Aplicación M��vil",
       "nombre": "Emma Juliana  López Ruiz ",
       "telefono": "3816073010",
       "email": "juliana_lopezruiz@hotmail.com.ar",
@@ -38967,7 +38983,7 @@
       "lon": "-65.22860477910679",
       "distrito": 10,
       "sentimiento": "neutro",
-      "asunto": "Basura en vía pública",
+      "asunto": "Basura en v��a pública",
       "area": "Secretaría de Ambiente",
       "estado": "FINALIZADO",
       "fecha": "2026-01-29T15:59:20.000Z"
@@ -50916,8 +50932,8 @@
     "pendientes": 6
   },
   "reclamos": {
-    "total": 3200,
-    "iniciados": 43,
+    "total": 3201,
+    "iniciados": 44,
     "en_proceso": 1373,
     "finalizados": 1731,
     "derivados": 53
@@ -50928,10 +50944,11 @@
     "Chat Center (Call Center)": 1558,
     "Personalmente": 107,
     "Teléfono": 54,
+    "Aplicación M��vil": 1,
     "Whatsapp": 5,
     "Agentes o Inspectores": 7,
     "Email Oficial": 1
   },
-  "totalVecinos": 3182,
-  "actualizado": "2026-06-18T01:00:31.916Z"
+  "totalVecinos": 3183,
+  "actualizado": "2026-06-18T01:30:01.404Z"
 }
