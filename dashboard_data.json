@@ -20133,6 +20133,22 @@
       "distrito": null
     },
     {
+      "numero": "3814152384",
+      "canal": "Aplicación Móvil",
+      "nombre": "Rolando Brito",
+      "telefono": "3814152384",
+      "email": "rolibrito046@gmail.com",
+      "direccion": "Avenida Colón 1572, San Miguel de Tucumán, Tucumán",
+      "lat": "-26.84696857287005",
+      "lon": "-65.23814611136913",
+      "distrito": 14,
+      "sentimiento": "neutro",
+      "asunto": "Basura en vía pública",
+      "area": "Ambiente",
+      "estado": "INICIADO",
+      "fecha": "2026-06-18T17:41:33.000Z"
+    },
+    {
       "numero": "3815949133",
       "canal": "Chat Center (Call Center)",
       "nombre": "Orellana Vlaudio Patricio DNI 18408764 ",
@@ -26503,7 +26519,7 @@
     {
       "numero": "3815349319",
       "canal": "Chat Center (Call Center)",
-      "nombre": "EXLER C��sar",
+      "nombre": "EXLER César",
       "telefono": "3815349319",
       "email": "",
       "direccion": "entre rios y Pje Misiones",
@@ -31034,7 +31050,7 @@
       "nombre": "Sandra Temer",
       "telefono": "3815248771",
       "email": "temersandra@gmail.com",
-      "direccion": "Balcarce 1891, San Miguel de Tucum��n, Tucumán",
+      "direccion": "Balcarce 1891, San Miguel de Tucumán, Tucumán",
       "lat": "-26.806492961511193",
       "lon": "-65.19232593476772",
       "distrito": 6,
@@ -34266,7 +34282,7 @@
       "nombre": "Brito Mariana Natalia",
       "telefono": "381 566-1571",
       "email": "",
-      "direccion": "1289, Piedrabuena, Villa 9 de Julio, San Miguel de Tucumán, Departamento Capital, Tucumán, T4000, Argentina",
+      "direccion": "1289, Piedrabuena, Villa 9 de Julio, San Miguel de Tucum��n, Departamento Capital, Tucumán, T4000, Argentina",
       "lat": "-26.813691683976835",
       "lon": "-65.1997613428182",
       "distrito": 6,
@@ -41404,22 +41420,22 @@
     "pendientes": 10
   },
   "reclamos": {
-    "total": 3219,
-    "iniciados": 23,
+    "total": 3220,
+    "iniciados": 24,
     "en_proceso": 1310,
     "finalizados": 1855,
     "derivados": 31
   },
   "canales": {
     "WhatsApp Ambiente": 1438,
+    "Aplicación Móvil": 490,
     "Chat Center (Call Center)": 756,
     "Whatsapp": 6,
-    "Aplicación Móvil": 489,
     "Personalmente": 44,
     "Teléfono": 27,
     "Agentes o Inspectores": 6,
     "Email Oficial": 1
   },
-  "totalVecinos": 2767,
-  "actualizado": "2026-06-18T17:30:50.671Z"
+  "totalVecinos": 2768,
+  "actualizado": "2026-06-18T17:42:09.800Z"
 }
