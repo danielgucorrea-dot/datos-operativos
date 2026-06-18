@@ -20133,6 +20133,22 @@
       "distrito": null
     },
     {
+      "numero": "3813011850",
+      "canal": "Chat Center (Call Center)",
+      "nombre": "Julia cipolla   DNI 22.877.840",
+      "telefono": "3813011850",
+      "email": "",
+      "direccion": "1501, Avenida Leandro N. Alem, El Cruce, San Miguel de Tucumán, Departamento Capital, Tucumán, T4000, Argentina",
+      "lat": "-26.848798688606692",
+      "lon": "-65.2234767431458",
+      "distrito": 14,
+      "sentimiento": "neutro",
+      "asunto": "Basura en vía pública",
+      "area": "Ambiente",
+      "estado": "INICIADO",
+      "fecha": "2026-06-18T22:13:07.000Z"
+    },
+    {
       "numero": "3815 31-9517",
       "canal": "Chat Center (Call Center)",
       "nombre": "Maria Alejandra Suarez",
@@ -27962,7 +27978,7 @@
       "nombre": "Adriana Troitiño",
       "telefono": " 381 303-2967",
       "email": "",
-      "direccion": "299, 12 de Octubre, El Bosque, San Miguel de Tucumán, Departamento Capital, Tucumán, T4000, Argentina",
+      "direccion": "299, 12 de Octubre, El Bosque, San Miguel de Tucum��n, Departamento Capital, Tucumán, T4000, Argentina",
       "lat": "-26.823726601106806",
       "lon": "-65.21893504953664",
       "distrito": 10,
@@ -41484,15 +41500,15 @@
     "pendientes": 10
   },
   "reclamos": {
-    "total": 3225,
-    "iniciados": 29,
+    "total": 3226,
+    "iniciados": 30,
     "en_proceso": 1310,
     "finalizados": 1855,
     "derivados": 31
   },
   "canales": {
     "WhatsApp Ambiente": 1438,
-    "Chat Center (Call Center)": 759,
+    "Chat Center (Call Center)": 760,
     "Aplicación Móvil": 491,
     "Whatsapp": 6,
     "Personalmente": 44,
@@ -41500,6 +41516,6 @@
     "Agentes o Inspectores": 6,
     "Email Oficial": 1
   },
-  "totalVecinos": 2772,
-  "actualizado": "2026-06-18T22:00:58.004Z"
+  "totalVecinos": 2773,
+  "actualizado": "2026-06-18T22:30:11.936Z"
 }
