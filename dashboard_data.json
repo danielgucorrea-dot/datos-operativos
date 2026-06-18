@@ -20133,6 +20133,22 @@
       "distrito": null
     },
     {
+      "numero": "3815 31-9517",
+      "canal": "Chat Center (Call Center)",
+      "nombre": "Maria Alejandra Suarez",
+      "telefono": "3815 31-9517",
+      "email": "",
+      "direccion": "Av  Brigido Teran 179",
+      "lat": "-26.8354745",
+      "lon": "-65.1953868",
+      "distrito": 10,
+      "sentimiento": "neutro",
+      "asunto": "Denuncia de establecimiento ",
+      "area": "Bromatología",
+      "estado": "INICIADO",
+      "fecha": "2026-06-18T20:58:58.000Z"
+    },
+    {
       "numero": "3814767970",
       "canal": "Chat Center (Call Center)",
       "nombre": "Yacante Lucia",
@@ -41468,15 +41484,15 @@
     "pendientes": 10
   },
   "reclamos": {
-    "total": 3224,
-    "iniciados": 28,
+    "total": 3225,
+    "iniciados": 29,
     "en_proceso": 1310,
     "finalizados": 1855,
     "derivados": 31
   },
   "canales": {
     "WhatsApp Ambiente": 1438,
-    "Chat Center (Call Center)": 758,
+    "Chat Center (Call Center)": 759,
     "Aplicación Móvil": 491,
     "Whatsapp": 6,
     "Personalmente": 44,
@@ -41484,6 +41500,6 @@
     "Agentes o Inspectores": 6,
     "Email Oficial": 1
   },
-  "totalVecinos": 2771,
-  "actualizado": "2026-06-18T20:53:15.380Z"
+  "totalVecinos": 2772,
+  "actualizado": "2026-06-18T21:00:11.441Z"
 }
