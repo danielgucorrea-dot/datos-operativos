@@ -6276,7 +6276,7 @@
       "numero": "5493816819927",
       "celular": "5493816819927",
       "nombre": "Octavio Gabriel Magro",
-      "direccion": "1098, José Ignacio Thames, Juan XXIII, San Miguel de Tucumán, Departamento Capital, Tucum��n, T4000, Argentina",
+      "direccion": "1098, José Ignacio Thames, Juan XXIII, San Miguel de Tucumán, Departamento Capital, Tucumán, T4000, Argentina",
       "sentimiento": " José Ignacio Thames",
       "canal": "WhatsApp Ambiente",
       "fecha": " San Miguel de Tucumán",
@@ -20133,6 +20133,22 @@
       "distrito": null
     },
     {
+      "numero": "+543816700079",
+      "canal": "Aplicación Móvil",
+      "nombre": "Angel Mariano  Sosa",
+      "telefono": "+543816700079",
+      "email": "angelsosa334449@gmail.com",
+      "direccion": "Pasaje Campo de las Carreras 1801, San Miguel de Tucumán, Tucumán",
+      "lat": "-26.836990362009107",
+      "lon": "-65.22732608020306",
+      "distrito": 10,
+      "sentimiento": "neutro",
+      "asunto": "Basura en vía pública",
+      "area": "Ambiente",
+      "estado": "INICIADO",
+      "fecha": "2026-06-18T18:25:16.000Z"
+    },
+    {
       "numero": "3814152384",
       "canal": "Aplicación Móvil",
       "nombre": "Rolando Brito",
@@ -20752,7 +20768,7 @@
       "distrito": 3,
       "sentimiento": "neutro",
       "asunto": "Basura en vía pública",
-      "area": "Secretaría de Ambiente",
+      "area": "Secretar��a de Ambiente",
       "estado": "EN PROCESO",
       "fecha": "2026-03-14T18:22:41.000Z"
     },
@@ -41420,15 +41436,15 @@
     "pendientes": 10
   },
   "reclamos": {
-    "total": 3221,
-    "iniciados": 25,
+    "total": 3222,
+    "iniciados": 26,
     "en_proceso": 1310,
     "finalizados": 1855,
     "derivados": 31
   },
   "canales": {
     "WhatsApp Ambiente": 1438,
-    "Aplicación Móvil": 490,
+    "Aplicación Móvil": 491,
     "Chat Center (Call Center)": 756,
     "Whatsapp": 6,
     "Personalmente": 44,
@@ -41436,6 +41452,6 @@
     "Agentes o Inspectores": 6,
     "Email Oficial": 1
   },
-  "totalVecinos": 2768,
-  "actualizado": "2026-06-18T18:00:50.701Z"
+  "totalVecinos": 2769,
+  "actualizado": "2026-06-18T18:30:10.624Z"
 }
