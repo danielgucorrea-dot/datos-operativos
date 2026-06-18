@@ -20133,6 +20133,38 @@
       "distrito": null
     },
     {
+      "numero": "381 654-2924",
+      "canal": "Chat Center (Call Center)",
+      "nombre": "Galvan Andrea",
+      "telefono": "381 654-2924",
+      "email": "",
+      "direccion": "San Juan 3700",
+      "lat": "-26.8181643",
+      "lon": "-65.23899",
+      "distrito": 9,
+      "sentimiento": "neutro",
+      "asunto": "Basura en vía pública",
+      "area": "Ambiente",
+      "estado": "INICIADO",
+      "fecha": "2026-06-18T16:09:50.000Z"
+    },
+    {
+      "numero": "3816047562",
+      "canal": "Whatsapp",
+      "nombre": "Salto, Daniel Dario ",
+      "telefono": "3816047562",
+      "email": "",
+      "direccion": "Jujuy 1550",
+      "lat": "-26.8384663",
+      "lon": "-65.2130703",
+      "distrito": 10,
+      "sentimiento": "neutro",
+      "asunto": "Arrojar productos contaminantes",
+      "area": "Salud Ambiental",
+      "estado": "INICIADO",
+      "fecha": "2026-06-18T16:04:39.000Z"
+    },
+    {
       "numero": "3815415969",
       "canal": "Chat Center (Call Center)",
       "nombre": "Gómez Claudia Elizabeth",
@@ -41303,27 +41335,27 @@
   ],
   "pedidos": {
     "bot": 0,
-    "bam": 4,
+    "bam": 6,
     "completados": 0,
-    "pendientes": 4
+    "pendientes": 6
   },
   "reclamos": {
-    "total": 3212,
-    "iniciados": 16,
+    "total": 3214,
+    "iniciados": 18,
     "en_proceso": 1310,
     "finalizados": 1855,
     "derivados": 31
   },
   "canales": {
     "WhatsApp Ambiente": 1438,
-    "Chat Center (Call Center)": 751,
-    "Whatsapp": 5,
+    "Chat Center (Call Center)": 752,
+    "Whatsapp": 6,
     "Aplicación Móvil": 489,
     "Personalmente": 44,
     "Teléfono": 27,
     "Agentes o Inspectores": 6,
     "Email Oficial": 1
   },
-  "totalVecinos": 2761,
-  "actualizado": "2026-06-18T16:00:49.561Z"
+  "totalVecinos": 2763,
+  "actualizado": "2026-06-18T16:30:09.261Z"
 }
