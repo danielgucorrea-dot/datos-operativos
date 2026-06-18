@@ -20133,6 +20133,38 @@
       "distrito": null
     },
     {
+      "numero": "3815804927",
+      "canal": "Chat Center (Call Center)",
+      "nombre": "Lisa Scanavino ",
+      "telefono": "3815804927",
+      "email": "",
+      "direccion": "entre rios 879",
+      "lat": "-26.8436818",
+      "lon": "-65.2031439",
+      "distrito": 10,
+      "sentimiento": "neutro",
+      "asunto": "Recolección de Residuos No Habituales (cantidad reducida)",
+      "area": "Ambiente",
+      "estado": "INICIADO",
+      "fecha": "2026-06-18T16:47:38.000Z"
+    },
+    {
+      "numero": "3816659780",
+      "canal": "Chat Center (Call Center)",
+      "nombre": "Gómez Melanie soledad",
+      "telefono": "3816659780",
+      "email": "",
+      "direccion": "congreso 1700",
+      "lat": "-26.7896361",
+      "lon": "-65.2521157",
+      "distrito": 1,
+      "sentimiento": "neutro",
+      "asunto": "Basura en vía pública",
+      "area": "Ambiente",
+      "estado": "INICIADO",
+      "fecha": "2026-06-18T16:37:31.000Z"
+    },
+    {
       "numero": "381 654-2924",
       "canal": "Chat Center (Call Center)",
       "nombre": "Galvan Andrea",
@@ -41335,20 +41367,20 @@
   ],
   "pedidos": {
     "bot": 0,
-    "bam": 6,
+    "bam": 10,
     "completados": 0,
-    "pendientes": 6
+    "pendientes": 10
   },
   "reclamos": {
-    "total": 3214,
-    "iniciados": 18,
+    "total": 3216,
+    "iniciados": 20,
     "en_proceso": 1310,
     "finalizados": 1855,
     "derivados": 31
   },
   "canales": {
     "WhatsApp Ambiente": 1438,
-    "Chat Center (Call Center)": 752,
+    "Chat Center (Call Center)": 754,
     "Whatsapp": 6,
     "Aplicación Móvil": 489,
     "Personalmente": 44,
@@ -41356,6 +41388,6 @@
     "Agentes o Inspectores": 6,
     "Email Oficial": 1
   },
-  "totalVecinos": 2763,
-  "actualizado": "2026-06-18T16:30:49.754Z"
+  "totalVecinos": 2765,
+  "actualizado": "2026-06-18T16:55:49.924Z"
 }
