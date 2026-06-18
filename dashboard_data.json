@@ -20133,6 +20133,22 @@
       "distrito": null
     },
     {
+      "numero": "381 681-5936",
+      "canal": "Chat Center (Call Center)",
+      "nombre": "Félix González",
+      "telefono": "381 681-5936",
+      "email": "",
+      "direccion": "Blas Parera, Piedrabuena, Villa 9 de julio, San Miguel de Tucumán, Departamento Capital, Tucumán, T4000, Argentina",
+      "lat": "-26.81194892745382",
+      "lon": "-65.19159803284235",
+      "distrito": 8,
+      "sentimiento": "neutro",
+      "asunto": "Basura en vía pública",
+      "area": "Ambiente",
+      "estado": "INICIADO",
+      "fecha": "2026-06-18T15:48:36.000Z"
+    },
+    {
       "numero": " 11 4174-4303",
       "canal": "Chat Center (Call Center)",
       "nombre": "Claudia Epstein",
@@ -20160,8 +20176,8 @@
       "distrito": 8,
       "sentimiento": "neutro",
       "asunto": "Basura en vía pública",
-      "area": "Ambiente",
-      "estado": "INICIADO",
+      "area": "Secretaría de Ambiente",
+      "estado": "EN PROCESO",
       "fecha": "2026-06-18T14:41:24.000Z"
     },
     {
@@ -20176,8 +20192,8 @@
       "distrito": 6,
       "sentimiento": "neutro",
       "asunto": "Basura en vía pública",
-      "area": "Ambiente",
-      "estado": "INICIADO",
+      "area": "Secretaría de Ambiente",
+      "estado": "EN PROCESO",
       "fecha": "2026-06-18T14:20:22.000Z"
     },
     {
@@ -20192,8 +20208,8 @@
       "distrito": 1,
       "sentimiento": "neutro",
       "asunto": "Recolección de Residuos No Habituales (cantidad reducida)",
-      "area": "Ambiente",
-      "estado": "INICIADO",
+      "area": "Secretaría de Ambiente",
+      "estado": "EN PROCESO",
       "fecha": "2026-06-18T13:22:01.000Z"
     },
     {
@@ -25457,7 +25473,7 @@
       "sentimiento": "neutro",
       "asunto": "Basura en vía pública",
       "area": "Secretaría de Ambiente",
-      "estado": "EN PROCESO",
+      "estado": "FINALIZADO",
       "fecha": "2026-02-20T19:45:49.000Z"
     },
     {
@@ -25473,7 +25489,7 @@
       "sentimiento": "neutro",
       "asunto": "Contenedor faltante o en mal estado",
       "area": "Secretaría de Ambiente",
-      "estado": "EN PROCESO",
+      "estado": "FINALIZADO",
       "fecha": "2026-02-20T19:37:46.000Z"
     },
     {
@@ -25489,7 +25505,7 @@
       "sentimiento": "neutro",
       "asunto": "Basura en vía pública",
       "area": "Secretaría de Ambiente",
-      "estado": "EN PROCESO",
+      "estado": "FINALIZADO",
       "fecha": "2026-02-20T19:16:31.000Z"
     },
     {
@@ -28287,7 +28303,7 @@
       "lon": "-65.20911321043968",
       "distrito": 16,
       "sentimiento": "neutro",
-      "asunto": "Pedido de cartelería: “No arrojar basura���",
+      "asunto": "Pedido de cartelería: “No arrojar basura”",
       "area": "Ambiente",
       "estado": "FINALIZADO",
       "fecha": "2026-02-10T14:33:03.000Z"
@@ -30992,7 +31008,7 @@
       "distrito": 9,
       "sentimiento": "neutro",
       "asunto": "Recolección de Residuos No Habituales (cantidad reducida)",
-      "area": "Secretar��a de Ambiente",
+      "area": "Secretaría de Ambiente",
       "estado": "FINALIZADO",
       "fecha": "2026-01-31T17:43:44.000Z"
     },
@@ -41271,20 +41287,20 @@
   ],
   "pedidos": {
     "bot": 0,
-    "bam": 55,
+    "bam": 4,
     "completados": 0,
-    "pendientes": 55
+    "pendientes": 4
   },
   "reclamos": {
-    "total": 3210,
-    "iniciados": 17,
+    "total": 3211,
+    "iniciados": 15,
     "en_proceso": 1310,
-    "finalizados": 1852,
+    "finalizados": 1855,
     "derivados": 31
   },
   "canales": {
     "WhatsApp Ambiente": 1438,
-    "Chat Center (Call Center)": 749,
+    "Chat Center (Call Center)": 750,
     "Whatsapp": 5,
     "Aplicación Móvil": 489,
     "Personalmente": 44,
@@ -41292,6 +41308,6 @@
     "Agentes o Inspectores": 6,
     "Email Oficial": 1
   },
-  "totalVecinos": 2759,
-  "actualizado": "2026-06-18T15:30:09.060Z"
+  "totalVecinos": 2760,
+  "actualizado": "2026-06-18T15:50:49.674Z"
 }
