@@ -9943,15 +9943,15 @@
     {
       "numero": "5493813600809",
       "celular": "5493813600809",
-      "nombre": "Acevedo Nadia Guadalupe",
-      "direccion": "2998, Marcos Paz, Jardín, Villa Luján, San Miguel de Tucumán, Departamento Capital, Tucumán, T4000, Argentina",
+      "nombre": "NADIA GUADALUPE  ACEVEDO",
+      "direccion": "Pasaje Monseñor D'Andrea 2990, Municipalidad de San Miguel De Tucuman, Tucumán",
       "sentimiento": " Marcos Paz",
       "canal": "WhatsApp Ambiente",
       "fecha": " Villa Luján",
       "telefono": "3813600809",
-      "email": "",
-      "lat": "-26.8137706",
-      "lon": "-65.239724",
+      "email": "nadiaacevedo356@gmail.com",
+      "lat": "-26.81452053858313",
+      "lon": "-65.24065531790257",
       "distrito": 9
     },
     {
@@ -20133,6 +20133,22 @@
       "distrito": null
     },
     {
+      "numero": "3814787464",
+      "canal": "Chat Center (Call Center)",
+      "nombre": "Daniela Emilia oscari ",
+      "telefono": "3814787464",
+      "email": "",
+      "direccion": "Iglesia del Carmen, 400, Juramento, Mataderos, Villa 9 de julio, San Miguel de Tucumán, Departamento Capital, Tucumán, 4000, Argentina",
+      "lat": "-26.818500405044794",
+      "lon": "-65.18788273240432",
+      "distrito": 8,
+      "sentimiento": "neutro",
+      "asunto": "Basura en vía pública",
+      "area": "Ambiente",
+      "estado": "INICIADO",
+      "fecha": "2026-06-18T14:41:24.000Z"
+    },
+    {
       "numero": "3815119520",
       "canal": "Whatsapp",
       "nombre": "Delgado, Carmen Clara ",
@@ -20163,6 +20179,22 @@
       "area": "Ambiente",
       "estado": "INICIADO",
       "fecha": "2026-06-18T13:22:01.000Z"
+    },
+    {
+      "numero": " 381 503-6388",
+      "canal": "Chat Center (Call Center)",
+      "nombre": "Graciela. Figueroa",
+      "telefono": " 381 503-6388",
+      "email": "",
+      "direccion": "Frías Silva 183",
+      "lat": "-26.829166",
+      "lon": "-65.2256117",
+      "distrito": 10,
+      "sentimiento": "neutro",
+      "asunto": "Barrido público deficiente o sin realizar",
+      "area": "Secretaría de Ambiente",
+      "estado": "DERIVADO",
+      "fecha": "2026-06-18T11:15:11.000Z"
     },
     {
       "numero": "0381666595",
@@ -23638,7 +23670,7 @@
     },
     {
       "numero": "3814032751",
-      "canal": "Aplicación Móvil",
+      "canal": "Aplicación M��vil",
       "nombre": "Alejandro Gonzalez",
       "telefono": "3814032751",
       "email": "alejandrocgonzalez@gmail.com",
@@ -24849,7 +24881,7 @@
       "sentimiento": "neutro",
       "asunto": "Basura en vía pública",
       "area": "Secretaría de Ambiente",
-      "estado": "EN PROCESO",
+      "estado": "FINALIZADO",
       "fecha": "2026-02-23T18:52:22.000Z"
     },
     {
@@ -24897,7 +24929,7 @@
       "sentimiento": "neutro",
       "asunto": "Recolección de Residuos No Habituales (cantidad reducida)",
       "area": "Secretaría de Ambiente",
-      "estado": "EN PROCESO",
+      "estado": "FINALIZADO",
       "fecha": "2026-02-23T17:54:05.000Z"
     },
     {
@@ -24913,7 +24945,7 @@
       "sentimiento": "neutro",
       "asunto": "Barrido público deficiente o sin realizar",
       "area": "Secretaría de Ambiente",
-      "estado": "EN PROCESO",
+      "estado": "FINALIZADO",
       "fecha": "2026-02-23T17:48:20.000Z"
     },
     {
@@ -28464,7 +28496,7 @@
       "distrito": 15,
       "sentimiento": "neutro",
       "asunto": "Recolección de Residuos No Habituales (cantidad reducida)",
-      "area": "Secretaría de Ambiente",
+      "area": "Secretar��a de Ambiente",
       "estado": "EN PROCESO",
       "fecha": "2026-02-09T22:25:24.000Z"
     },
@@ -41223,27 +41255,28 @@
   ],
   "pedidos": {
     "bot": 0,
-    "bam": 48,
+    "bam": 51,
     "completados": 0,
-    "pendientes": 48
+    "pendientes": 51
   },
   "reclamos": {
-    "total": 3206,
-    "iniciados": 15,
-    "en_proceso": 1343,
-    "finalizados": 1818,
-    "derivados": 30
+    "total": 3209,
+    "iniciados": 17,
+    "en_proceso": 1339,
+    "finalizados": 1822,
+    "derivados": 31
   },
   "canales": {
     "WhatsApp Ambiente": 1438,
+    "Chat Center (Call Center)": 748,
     "Whatsapp": 5,
-    "Chat Center (Call Center)": 746,
-    "Aplicación Móvil": 489,
+    "Aplicación Móvil": 488,
     "Personalmente": 44,
     "Teléfono": 27,
+    "Aplicación M��vil": 1,
     "Agentes o Inspectores": 6,
     "Email Oficial": 1
   },
-  "totalVecinos": 2756,
-  "actualizado": "2026-06-18T14:30:08.508Z"
+  "totalVecinos": 2758,
+  "actualizado": "2026-06-18T15:00:09.005Z"
 }
