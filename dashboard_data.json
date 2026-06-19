@@ -22736,8 +22736,8 @@
       "mensaje": "Hola Ruben! Te escribimos desde el equipo de la Municipalidad de San Miguel de Tucumán. Sabemos que en algún momento te comunicaste con nosotros en Diego de Villarroel 176, San Miguel de Tucumán, Tucumán. Queremos estar cerca de los vecinos y saber si hay algo en lo que podamos ayudarte 😊",
       "telefono": "0381632436",
       "email": "rubenhcoronel@gmail.com",
-      "lat": "-26.81879757139997",
-      "lon": "-65.1911960542202",
+      "lat": "-26.818869681735272",
+      "lon": "-65.19120510667562",
       "distrito": 8
     },
     {
@@ -31399,7 +31399,7 @@
       "numero": "5493814432440",
       "celular": "5493814432440",
       "nombre": "VICTOR FACUNDO  AGUIRRE ARIAS ",
-      "direccion": "Avenida Mitre 798, San Miguel de Tucum��n, Tucumán",
+      "direccion": "Avenida Mitre 798, San Miguel de Tucumán, Tucumán",
       "sentimiento": "neutro",
       "canal": "WhatsApp Ambiente",
       "fecha": "2026-01-24",
@@ -36871,6 +36871,22 @@
       "distrito": null
     },
     {
+      "numero": "381 - 6636811",
+      "canal": "Chat Center (Call Center)",
+      "nombre": "Díaz Lorena ",
+      "telefono": "381 - 6636811",
+      "email": "",
+      "direccion": "Williams Bliss, Comuna de San Felipe y Santa Bárbara, Barrio Policial, San Miguel de Tucumán, Departamento Lules, Tucumán, T4128, Argentina",
+      "lat": "-26.872917661294828",
+      "lon": "-65.23889874706289",
+      "distrito": 18,
+      "sentimiento": "neutro",
+      "asunto": "Basura en vía pública",
+      "area": "Ambiente",
+      "estado": "INICIADO",
+      "fecha": "2026-06-19T15:24:25.000Z"
+    },
+    {
       "numero": "3814061263",
       "canal": "Chat Center (Call Center)",
       "nombre": "Nuñez Jessica Mabel",
@@ -36969,23 +36985,23 @@
   ],
   "pedidos": {
     "bot": 0,
-    "bam": 21,
+    "bam": 31,
     "completados": 0,
-    "pendientes": 21
+    "pendientes": 31
   },
   "reclamos": {
-    "total": 3197,
-    "iniciados": 17,
+    "total": 3199,
+    "iniciados": 18,
     "en_proceso": 1329,
     "finalizados": 1820,
-    "derivados": 31
+    "derivados": 32
   },
   "canales": {
     "WhatsApp Ambiente": 2458,
-    "Chat Center (Call Center)": 4,
+    "Chat Center (Call Center)": 5,
     "Aplicación Móvil": 1,
     "Teléfono": 1
   },
-  "totalVecinos": 2464,
-  "actualizado": "2026-06-19T15:00:57.229Z"
+  "totalVecinos": 2465,
+  "actualizado": "2026-06-19T15:30:57.095Z"
 }
