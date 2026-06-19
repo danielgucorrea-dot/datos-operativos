@@ -36766,6 +36766,36 @@
       "distrito": null
     },
     {
+      "numero": "60886144299236",
+      "celular": "+54 9 3814 461-809",
+      "direccion": "",
+      "sentimiento": "neutro",
+      "mensaje": "Hols",
+      "fecha": "2026-06-19T13:52:04.118Z",
+      "canal": "WhatsApp Ambiente",
+      "nombre": "",
+      "telefono": "60886144299236",
+      "email": "",
+      "lat": null,
+      "lon": null,
+      "distrito": null
+    },
+    {
+      "numero": "60886144299236",
+      "celular": "+54 9 3814 461-809",
+      "direccion": "",
+      "sentimiento": "neutro",
+      "mensaje": "Es la opción 5",
+      "fecha": "2026-06-19T13:52:28.581Z",
+      "canal": "WhatsApp Ambiente",
+      "nombre": "",
+      "telefono": "60886144299236",
+      "email": "",
+      "lat": null,
+      "lon": null,
+      "distrito": null
+    },
+    {
       "numero": "3812169418",
       "canal": "Aplicación Móvil",
       "nombre": "Beatriz  Molina ",
@@ -36844,11 +36874,11 @@
     "derivados": 31
   },
   "canales": {
-    "WhatsApp Ambiente": 2451,
+    "WhatsApp Ambiente": 2453,
     "Aplicación Móvil": 1,
     "Chat Center (Call Center)": 2,
     "Teléfono": 1
   },
-  "totalVecinos": 2455,
-  "actualizado": "2026-06-19T13:51:49.872Z"
+  "totalVecinos": 2457,
+  "actualizado": "2026-06-19T13:52:29.213Z"
 }
