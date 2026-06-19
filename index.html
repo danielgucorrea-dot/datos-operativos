@@ -353,14 +353,16 @@ function renderDashboard() {
   if (!neg.length) {
     el.innerHTML = '<p style="font-size:13px;color:#aaa;padding:8px 0;">Sin registros negativos</p>'
   } else {
-    el.innerHTML = neg.map(d => `
-      <div style="display:flex;gap:12px;padding:10px 0;border-bottom:0.5px solid #f0f0ec;align-items:flex-start;">
-        <span class="badge neg" style="white-space:nowrap;">disconforme</span>
-        <div>
-          <p style="font-size:12px;font-family:monospace;color:#888;margin:0 0 4px;">+54 9 ${formatCel(d.celular)}${d.direccion?' · '+d.direccion:''}</p>
-          <p style="font-size:13px;color:#1a1a1a;margin:0;">${d.mensaje||'Sin mensaje registrado'}</p>
-        </div>
-      </div>`).join('')
+    el.innerHTML = neg.map(function(d, i) {
+    var cel = (d.celular && !d.celular.includes('@')) ? d.celular : formatCel(d.numero || d.celular || '')
+    return '<div onclick="abrirModal(' + i + ',\'negativo\')" style="display:flex;gap:12px;padding:10px 0;border-bottom:0.5px solid #f0f0ec;align-items:flex-start;cursor:pointer;" onmouseover="this.style.background=\'#f5f5f0\'" onmouseout="this.style.background=\'\'">' +
+      '<span class="badge neg" style="white-space:nowrap;">disconforme</span>' +
+      '<div style="flex:1;">' +
+      '<p style="font-size:12px;font-family:monospace;color:#888;margin:0 0 4px;">' + cel + (d.direccion ? ' · ' + d.direccion : '') + '</p>' +
+      '<p style="font-size:13px;color:#1a1a1a;margin:0;">' + (d.mensaje || 'Sin mensaje registrado') + '</p>' +
+      '<p style="font-size:11px;color:#aaa;margin:4px 0 0;">Tocar para ver conversación 🔒</p>' +
+      '</div></div>'
+  }).join('')
   }
 }
 
@@ -384,6 +386,62 @@ function paginaAnterior() { if (pagina > 0) { pagina--; actualizarTabla(); } }
 function paginaSiguiente() { if ((pagina+1)*POR_PAGINA < datosTabla.length) { pagina++; actualizarTabla(); } }
 
 setInterval(() => { if (sessionStorage.getItem('auth')==='1') cargarDatos() }, 5*60*1000)
+
+var PIN_CONVERSACION = 'sm2024'
+var modalDatos = null
+var modalTipo = null
+
+function abrirModal(idx, tipo) {
+  var s = datos.satisfaccion || []
+  var neg = s.filter(function(x) { return x.sentimiento === 'negativo' })
+  var pos = s.filter(function(x) { return x.sentimiento === 'positivo' })
+  var d = tipo === 'negativo' ? neg[idx] : pos[idx]
+  if (!d) return
+  modalDatos = d
+  modalTipo = tipo
+  var cel = (d.celular && !d.celular.includes('@')) ? d.celular : formatCel(d.numero || d.celular || '')
+  var html = '<p style="font-size:13px;margin-bottom:8px;"><strong>' + cel + '</strong></p>'
+  if (d.nombre) html += '<p style="font-size:12px;color:#888;margin-bottom:4px;">👤 ' + d.nombre + '</p>'
+  if (d.direccion) html += '<p style="font-size:12px;color:#888;margin-bottom:4px;">📍 ' + d.direccion + '</p>'
+  if (d.canal) html += '<p style="font-size:12px;color:#888;margin-bottom:4px;">📱 ' + d.canal + '</p>'
+  if (d.fecha) html += '<p style="font-size:12px;color:#888;margin-bottom:4px;">📅 ' + d.fecha.slice(0,10) + '</p>'
+  html += '<p style="font-size:12px;margin-top:8px;padding:8px;background:#f5f5f0;border-radius:6px;">'
+  html += '<span class="badge ' + (tipo === 'negativo' ? 'neg' : 'pos') + '">' + tipo + '</span></p>'
+  document.getElementById('modal-contenido').innerHTML = html
+  document.getElementById('modal-titulo').textContent = tipo === 'negativo' ? 'Vecino disconforme' : 'Vecino satisfecho'
+  document.getElementById('modal-pin-section').style.display = 'block'
+  document.getElementById('modal-conversacion').style.display = 'none'
+  document.getElementById('modal-pin').value = ''
+  document.getElementById('modal-vecino').style.display = 'flex'
+}
+
+function cerrarModal() {
+  document.getElementById('modal-vecino').style.display = 'none'
+  modalDatos = null
+}
+
+function verificarPin() {
+  if (document.getElementById('modal-pin').value !== PIN_CONVERSACION) {
+    alert('PIN incorrecto')
+    return
+  }
+  var d = modalDatos
+  var html = '<div style="background:#f5f5f0;border-radius:8px;padding:12px;">'
+  html += '<p style="font-size:11px;color:#888;margin-bottom:8px;">Último mensaje registrado:</p>'
+  html += '<p style="font-size:13px;color:#1a1a1a;">' + (d.mensaje || 'Sin mensaje disponible') + '</p>'
+  html += '</div>'
+  document.getElementById('modal-conversacion').innerHTML = html
+  document.getElementById('modal-conversacion').style.display = 'block'
+}
+
+document.addEventListener('DOMContentLoaded', function() {
+  document.getElementById('modal-vecino').onclick = function(e) {
+    if (e.target === this) cerrarModal()
+  }
+  actualizarPeriodo()
+  var sel = document.getElementById('sel-periodo')
+  if (sel) sel.onchange = actualizarPeriodo
+})
 
 function actualizarPeriodo() {
   var sel = document.getElementById('sel-periodo')
@@ -427,8 +485,26 @@ function descargarCSV() {
   document.body.removeChild(a)
   URL.revokeObjectURL(url)
 }
-
-window.addEventListener('load', function() { actualizarPeriodo() })
 </script>
+
+<!-- Modal detalle vecino -->
+<div id="modal-vecino" style="display:none;position:fixed;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,0.5);z-index:1000;align-items:center;justify-content:center;">
+  <div style="background:white;border-radius:12px;padding:1.5rem;max-width:480px;width:90%;max-height:80vh;overflow-y:auto;">
+    <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:1rem;">
+      <h3 style="font-size:15px;font-weight:500;" id="modal-titulo">Detalle del vecino</h3>
+      <button onclick="cerrarModal()" style="border:none;background:none;font-size:18px;cursor:pointer;color:#888;">✕</button>
+    </div>
+    <div id="modal-contenido"></div>
+    <div id="modal-pin-section" style="margin-top:1rem;padding-top:1rem;border-top:0.5px solid #eee;display:none;">
+      <p style="font-size:12px;color:#888;margin-bottom:8px;">🔒 Ingresá el PIN para ver la conversación</p>
+      <div style="display:flex;gap:8px;">
+        <input type="password" id="modal-pin" placeholder="PIN" style="flex:1;padding:8px;border:0.5px solid #ccc;border-radius:6px;font-size:13px;" />
+        <button onclick="verificarPin()" style="padding:8px 14px;background:#1a1a1a;color:white;border:none;border-radius:6px;font-size:13px;cursor:pointer;">Ver</button>
+      </div>
+      <div id="modal-conversacion" style="margin-top:1rem;display:none;"></div>
+    </div>
+  </div>
+</div>
+
 </body>
 </html>
