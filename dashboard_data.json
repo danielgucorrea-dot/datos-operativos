@@ -8488,14 +8488,14 @@
       "numero": "5493516139933",
       "celular": "5493516139933",
       "nombre": "DIEGO AMAYA",
-      "direccion": "Ildefonso de las Muñecas 761, Municipalidad de San Miguel De Tucuman, Tucumán",
+      "direccion": "Ildefonso de las Muñecas 775, Municipalidad de San Miguel De Tucuman, Tucumán",
       "sentimiento": " Municipalidad de San Miguel De Tucuman",
       "canal": "WhatsApp Ambiente",
       "fecha": "neutro",
       "telefono": "3516139933",
       "email": "mechanicaldesigndept@gmail.com",
-      "lat": "-26.82062904001529",
-      "lon": "-65.20319860428572",
+      "lat": "-26.820522521821342",
+      "lon": "-65.20320229232311",
       "distrito": 10
     },
     {
@@ -41084,8 +41084,8 @@
     "pendientes": 10
   },
   "reclamos": {
-    "total": 3193,
-    "iniciados": 32,
+    "total": 3194,
+    "iniciados": 33,
     "en_proceso": 1310,
     "finalizados": 1820,
     "derivados": 31
@@ -41101,5 +41101,5 @@
     "Email Oficial": 1
   },
   "totalVecinos": 2747,
-  "actualizado": "2026-06-19T03:00:59.831Z"
+  "actualizado": "2026-06-19T03:30:14.024Z"
 }
