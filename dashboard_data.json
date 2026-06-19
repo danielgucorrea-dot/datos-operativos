@@ -20385,7 +20385,7 @@
       "sentimiento": "neutro",
       "asunto": "Ruidos molestos",
       "area": "Salud Ambiental",
-      "estado": "INICIADO",
+      "estado": "EN PROCESO",
       "fecha": "2026-06-18T15:27:33.000Z"
     },
     {
@@ -41085,8 +41085,8 @@
   },
   "reclamos": {
     "total": 3194,
-    "iniciados": 33,
-    "en_proceso": 1310,
+    "iniciados": 30,
+    "en_proceso": 1313,
     "finalizados": 1820,
     "derivados": 31
   },
@@ -41101,5 +41101,5 @@
     "Email Oficial": 1
   },
   "totalVecinos": 2747,
-  "actualizado": "2026-06-19T11:00:58.382Z"
+  "actualizado": "2026-06-19T11:30:03.382Z"
 }
