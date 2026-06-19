@@ -5944,15 +5944,15 @@
       "numero": "5493812090196",
       "celular": "5493812090196",
       "nombre": "ANA LAURA  PALACIOS",
-      "direccion": "Calle Doctor Teodoro Combes 998, San Miguel de Tucumán, Tucumán",
+      "direccion": "Calle Doctor Teodoro Combes 999, San Miguel de Tucumán, Tucumán",
       "sentimiento": "neutro",
       "canal": "WhatsApp Ambiente",
       "fecha": "2026-06-10",
       "mensaje": "Hola Ana! Te escribimos desde el equipo de la Municipalidad de San Miguel de Tucumán. Sabemos que en algún momento te comunicaste con nosotros en Calle Doctor Teodoro Combes 998, San Miguel de Tucumán, Tucumán. Queremos estar cerca de los vecinos y saber si hay algo en lo que podamos ayudarte 😊",
       "telefono": "3812090196",
       "email": "analaurapalacios@gmail.com",
-      "lat": "-26.877004691749605",
-      "lon": "-65.22555381059647",
+      "lat": "-26.876990935021997",
+      "lon": "-65.22536303848028",
       "distrito": 20
     },
     {
@@ -23059,7 +23059,7 @@
       "numero": "5493816477505",
       "celular": "5493816477505",
       "nombre": "María José Gómez ",
-      "direccion": "Congreso de Tucuman, 901, Congreso de Tucumán, Villa Alem, San Miguel de Tucum��n, Departamento Capital, Tucumán, 4000, Argentina",
+      "direccion": "Congreso de Tucuman, 901, Congreso de Tucumán, Villa Alem, San Miguel de Tucumán, Departamento Capital, Tucumán, 4000, Argentina",
       "sentimiento": "neutro",
       "canal": "WhatsApp Ambiente",
       "fecha": "2026-03-05",
@@ -31399,7 +31399,7 @@
       "numero": "5493814432440",
       "celular": "5493814432440",
       "nombre": "VICTOR FACUNDO  AGUIRRE ARIAS ",
-      "direccion": "Avenida Mitre 798, San Miguel de Tucumán, Tucumán",
+      "direccion": "Avenida Mitre 798, San Miguel de Tucum��n, Tucumán",
       "sentimiento": "neutro",
       "canal": "WhatsApp Ambiente",
       "fecha": "2026-01-24",
@@ -36871,6 +36871,38 @@
       "distrito": null
     },
     {
+      "numero": "3814061263",
+      "canal": "Chat Center (Call Center)",
+      "nombre": "Nuñez Jessica Mabel",
+      "telefono": "3814061263",
+      "email": "",
+      "direccion": "Williams Bliss, Comuna de San Felipe y Santa Bárbara, Barrio Policial, San Miguel de Tucumán, Departamento Lules, Tucumán, T4128, Argentina",
+      "lat": "-26.872780746155428",
+      "lon": "-65.23924701076709",
+      "distrito": 18,
+      "sentimiento": "neutro",
+      "asunto": "Quejas y/o sugerencias",
+      "area": "Bromatología",
+      "estado": "INICIADO",
+      "fecha": "2026-06-19T14:49:41.000Z"
+    },
+    {
+      "numero": "3814142346",
+      "canal": "Chat Center (Call Center)",
+      "nombre": "Vinet Andrea ",
+      "telefono": "3814142346",
+      "email": "",
+      "direccion": "AV AMERICA 1200 ",
+      "lat": "-26.8087001",
+      "lon": "-65.248137",
+      "distrito": 9,
+      "sentimiento": "neutro",
+      "asunto": "Quejas y/o sugerencias",
+      "area": "Bromatología",
+      "estado": "INICIADO",
+      "fecha": "2026-06-19T14:41:48.000Z"
+    },
+    {
       "numero": "3812169418",
       "canal": "Aplicación Móvil",
       "nombre": "Beatriz  Molina ",
@@ -36937,23 +36969,23 @@
   ],
   "pedidos": {
     "bot": 0,
-    "bam": 19,
+    "bam": 21,
     "completados": 0,
-    "pendientes": 19
+    "pendientes": 21
   },
   "reclamos": {
-    "total": 3194,
-    "iniciados": 16,
-    "en_proceso": 1327,
+    "total": 3197,
+    "iniciados": 17,
+    "en_proceso": 1329,
     "finalizados": 1820,
     "derivados": 31
   },
   "canales": {
     "WhatsApp Ambiente": 2458,
+    "Chat Center (Call Center)": 4,
     "Aplicación Móvil": 1,
-    "Chat Center (Call Center)": 2,
     "Teléfono": 1
   },
-  "totalVecinos": 2462,
-  "actualizado": "2026-06-19T14:30:56.280Z"
+  "totalVecinos": 2464,
+  "actualizado": "2026-06-19T15:00:57.229Z"
 }
