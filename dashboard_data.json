@@ -36985,9 +36985,9 @@
   ],
   "pedidos": {
     "bot": 0,
-    "bam": 5,
+    "bam": 6,
     "completados": 0,
-    "pendientes": 5
+    "pendientes": 6
   },
   "reclamos": {
     "total": 3199,
@@ -37003,5 +37003,5 @@
     "Teléfono": 1
   },
   "totalVecinos": 2465,
-  "actualizado": "2026-06-19T17:00:57.422Z"
+  "actualizado": "2026-06-19T17:30:57.650Z"
 }
