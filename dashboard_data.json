@@ -20133,6 +20133,22 @@
       "distrito": null
     },
     {
+      "numero": "+543815015905",
+      "canal": "Aplicación Móvil",
+      "nombre": "Marcos Gabriel  Nieva Sighinolfi ",
+      "telefono": "+543815015905",
+      "email": "sighinolfi.marcos@gmail.com",
+      "direccion": "4QHX+XG Plaza Rincón de los Sueños , San Miguel de Tucumán, Tucumán",
+      "lat": "-26.87026459190588",
+      "lon": "-65.20127914845943",
+      "distrito": 16,
+      "sentimiento": "neutro",
+      "asunto": "Persona arrojando basura",
+      "area": "Ambiente",
+      "estado": "INICIADO",
+      "fecha": "2026-06-19T02:06:48.000Z"
+    },
+    {
       "numero": "3813011850",
       "canal": "Chat Center (Call Center)",
       "nombre": "Julia cipolla   DNI 22.877.840",
@@ -21830,7 +21846,7 @@
     },
     {
       "numero": "3815007552",
-      "canal": "Aplicación M��vil",
+      "canal": "Aplicación Móvil",
       "nombre": "Nancy Elena Sabbag",
       "telefono": "3815007552",
       "email": "nancysabbag12@gmail.com",
@@ -41068,23 +41084,22 @@
     "pendientes": 10
   },
   "reclamos": {
-    "total": 3192,
-    "iniciados": 31,
+    "total": 3193,
+    "iniciados": 32,
     "en_proceso": 1310,
     "finalizados": 1820,
     "derivados": 31
   },
   "canales": {
     "WhatsApp Ambiente": 1438,
+    "Aplicación Móvil": 489,
     "Chat Center (Call Center)": 737,
-    "Aplicación Móvil": 487,
     "Whatsapp": 6,
     "Personalmente": 44,
-    "Aplicación M��vil": 1,
     "Teléfono": 26,
     "Agentes o Inspectores": 6,
     "Email Oficial": 1
   },
-  "totalVecinos": 2746,
-  "actualizado": "2026-06-19T02:00:59.419Z"
+  "totalVecinos": 2747,
+  "actualizado": "2026-06-19T02:30:13.507Z"
 }
