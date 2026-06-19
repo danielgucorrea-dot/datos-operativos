@@ -36778,7 +36778,7 @@
       "sentimiento": "neutro",
       "asunto": "Recolección de residuos sin realizar",
       "area": "Secretaría de Ambiente",
-      "estado": "DERIVADO",
+      "estado": "EN PROCESO",
       "fecha": "2026-06-19T10:01:37.000Z"
     },
     {
@@ -36839,9 +36839,9 @@
   "reclamos": {
     "total": 3194,
     "iniciados": 27,
-    "en_proceso": 1315,
+    "en_proceso": 1316,
     "finalizados": 1820,
-    "derivados": 32
+    "derivados": 31
   },
   "canales": {
     "WhatsApp Ambiente": 2451,
@@ -36850,5 +36850,5 @@
     "Teléfono": 1
   },
   "totalVecinos": 2455,
-  "actualizado": "2026-06-19T12:54:55.618Z"
+  "actualizado": "2026-06-19T13:00:55.612Z"
 }
