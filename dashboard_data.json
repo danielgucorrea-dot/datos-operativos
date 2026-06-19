@@ -36811,6 +36811,21 @@
       "distrito": null
     },
     {
+      "numero": "60886144299236",
+      "celular": "+54 9 3814 461-809",
+      "direccion": "",
+      "sentimiento": "negativo",
+      "mensaje": "Corregir",
+      "fecha": "2026-06-19T13:52:53.299Z",
+      "canal": "WhatsApp Ambiente",
+      "nombre": "",
+      "telefono": "60886144299236",
+      "email": "",
+      "lat": null,
+      "lon": null,
+      "distrito": null
+    },
+    {
       "numero": "3812169418",
       "canal": "Aplicación Móvil",
       "nombre": "Beatriz  Molina ",
@@ -36889,11 +36904,11 @@
     "derivados": 31
   },
   "canales": {
-    "WhatsApp Ambiente": 2454,
+    "WhatsApp Ambiente": 2455,
     "Aplicación Móvil": 1,
     "Chat Center (Call Center)": 2,
     "Teléfono": 1
   },
-  "totalVecinos": 2458,
-  "actualizado": "2026-06-19T13:52:44.886Z"
+  "totalVecinos": 2459,
+  "actualizado": "2026-06-19T13:52:54.150Z"
 }
