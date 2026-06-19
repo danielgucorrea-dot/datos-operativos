@@ -8089,7 +8089,7 @@
       "numero": "5493816380794",
       "celular": "5493816380794",
       "nombre": "Palomo Omar",
-      "direccion": "636, Pasaje M. Pedraza,  Villa Alem, San Miguel de Tucumán, Departamento Capital, Tucum��n, T4000, Argentina",
+      "direccion": "636, Pasaje M. Pedraza,  Villa Alem, San Miguel de Tucumán, Departamento Capital, Tucumán, T4000, Argentina",
       "sentimiento": "neutro",
       "canal": "WhatsApp Ambiente",
       "fecha": "2026-05-29",
@@ -11148,17 +11148,17 @@
     {
       "numero": "5493813894907",
       "celular": "5493813894907",
-      "nombre": "Maria Silvia Moreno ",
-      "direccion": "Ex Ingenio Amalia, San Miguel de Tucumán, Departamento Capital, Tucumán, T4000, Argentina",
+      "nombre": "Moreno, Maria Silvia    ",
+      "direccion": "Avenida Central  Barrio Oeste I",
       "sentimiento": "neutro",
       "canal": "WhatsApp Ambiente",
       "fecha": "2026-05-12",
       "mensaje": "Hola Moreno,! Te escribimos desde el equipo de la Municipalidad de San Miguel de Tucumán. Sabemos que en algún momento te comunicaste con nosotros en Avenida Central  Barrio Oeste I. Queremos estar cerca de los vecinos y saber si hay algo en lo que podamos ayudarte 😊",
       "telefono": "3813894907",
       "email": "",
-      "lat": "-26.86261315234583",
-      "lon": "-65.21325204725397",
-      "distrito": 15
+      "lat": "-26.805746",
+      "lon": "-65.2530611",
+      "distrito": 1
     },
     {
       "numero": "5493813483952",
@@ -36871,6 +36871,22 @@
       "distrito": null
     },
     {
+      "numero": "3814411165",
+      "canal": "Chat Center (Call Center)",
+      "nombre": "RAFAEL FAVOR",
+      "telefono": "3814411165",
+      "email": "",
+      "direccion": "Ex Ingenio Amalia, San Miguel de Tucumán, Departamento Capital, Tucumán, T4000, Argentina",
+      "lat": "-26.8626131",
+      "lon": "-65.213252",
+      "distrito": 15,
+      "sentimiento": "neutro",
+      "asunto": "Basura en vía pública",
+      "area": "Ambiente",
+      "estado": "INICIADO",
+      "fecha": "2026-06-19T18:58:52.000Z"
+    },
+    {
       "numero": "3812141887",
       "canal": "Aplicación Móvil",
       "nombre": "Gimena Arévalo ",
@@ -37014,10 +37030,10 @@
   },
   "canales": {
     "WhatsApp Ambiente": 2458,
+    "Chat Center (Call Center)": 6,
     "Aplicación Móvil": 2,
-    "Chat Center (Call Center)": 5,
     "Teléfono": 1
   },
-  "totalVecinos": 2466,
-  "actualizado": "2026-06-19T19:00:59.595Z"
+  "totalVecinos": 2467,
+  "actualizado": "2026-06-19T19:05:51.668Z"
 }
