@@ -4818,17 +4818,17 @@
     {
       "numero": "5493816047562",
       "celular": "5493816047562",
-      "nombre": "Salto, Daniel Dario ",
+      "nombre": "",
       "direccion": "Jujuy 1550",
       "sentimiento": "neutro",
       "canal": "WhatsApp Ambiente",
       "fecha": "2026-06-18",
       "mensaje": "Hola Salto,! Te escribimos desde el equipo de la Municipalidad de San Miguel de Tucumán. Sabemos que en algún momento te comunicaste con nosotros en Jujuy 1550. Queremos estar cerca de los vecinos y saber si hay algo en lo que podamos ayudarte 😊",
-      "telefono": "3816047562",
+      "telefono": "5493816047562",
       "email": "",
-      "lat": "-26.8384663",
-      "lon": "-65.2130703",
-      "distrito": 10
+      "lat": null,
+      "lon": null,
+      "distrito": null
     },
     {
       "numero": "5493815415969",
@@ -23059,7 +23059,7 @@
       "numero": "5493816477505",
       "celular": "5493816477505",
       "nombre": "María José Gómez ",
-      "direccion": "Congreso de Tucuman, 901, Congreso de Tucumán, Villa Alem, San Miguel de Tucumán, Departamento Capital, Tucumán, 4000, Argentina",
+      "direccion": "Congreso de Tucuman, 901, Congreso de Tucumán, Villa Alem, San Miguel de Tucum��n, Departamento Capital, Tucumán, 4000, Argentina",
       "sentimiento": "neutro",
       "canal": "WhatsApp Ambiente",
       "fecha": "2026-03-05",
@@ -36937,13 +36937,13 @@
   ],
   "pedidos": {
     "bot": 0,
-    "bam": 16,
+    "bam": 19,
     "completados": 0,
-    "pendientes": 16
+    "pendientes": 19
   },
   "reclamos": {
-    "total": 3195,
-    "iniciados": 17,
+    "total": 3194,
+    "iniciados": 16,
     "en_proceso": 1327,
     "finalizados": 1820,
     "derivados": 31
@@ -36955,5 +36955,5 @@
     "Teléfono": 1
   },
   "totalVecinos": 2462,
-  "actualizado": "2026-06-19T14:00:56.175Z"
+  "actualizado": "2026-06-19T14:30:56.280Z"
 }
