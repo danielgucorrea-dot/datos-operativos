@@ -4593,17 +4593,17 @@
     {
       "numero": "5493815015905",
       "celular": "5493815015905",
-      "nombre": "Marcos Gabriel  Nieva Sighinolfi ",
+      "nombre": "",
       "direccion": "4QHX+XG Plaza Rincón de los Sueños , San Miguel de Tucumán, Tucumán",
       "sentimiento": "neutro",
       "canal": "WhatsApp Ambiente",
       "fecha": "2026-06-19",
       "mensaje": "Hola Marcos! Te escribimos desde el equipo de la Municipalidad de San Miguel de Tucumán. Sabemos que en algún momento te comunicaste con nosotros en 4QHX+XG Plaza Rincón de los Sueños , San Miguel de Tucumán, Tucumán. Queremos estar cerca de los vecinos y saber si hay algo en lo que podamos ayudarte 😊",
-      "telefono": "+543815015905",
-      "email": "sighinolfi.marcos@gmail.com",
-      "lat": "-26.87026459190588",
-      "lon": "-65.20127914845943",
-      "distrito": 16
+      "telefono": "5493815015905",
+      "email": "",
+      "lat": null,
+      "lon": null,
+      "distrito": null
     },
     {
       "numero": "5493814469030",
@@ -36821,8 +36821,8 @@
     "pendientes": 10
   },
   "reclamos": {
-    "total": 3194,
-    "iniciados": 30,
+    "total": 3193,
+    "iniciados": 29,
     "en_proceso": 1313,
     "finalizados": 1820,
     "derivados": 31
@@ -36833,5 +36833,5 @@
     "Teléfono": 1
   },
   "totalVecinos": 2454,
-  "actualizado": "2026-06-19T12:06:29.677Z"
+  "actualizado": "2026-06-19T12:06:34.452Z"
 }
