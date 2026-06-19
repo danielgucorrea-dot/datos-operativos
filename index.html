@@ -270,8 +270,13 @@ async function cargarDatos() {
 }
 
 function formatCel(n) {
-  const d = (n||'').replace(/\D/g,'').replace(/^549/,'').replace(/^54/,'').slice(-10)
-  return d.length === 10 ? d.slice(0,4)+' '+d.slice(4,7)+'-'+d.slice(7) : n
+  // Si no hay numero real disponible, decirlo explicitamente (nunca inventar)
+  if (!n) return 'Sin teléfono disponible'
+  const limpio = (n||'').replace(/\D/g,'')
+  // Un telefono argentino real tiene 10 digitos locales (13 con 549). Si tiene mas, es un ID interno, no telefono.
+  if (limpio.length > 13) return 'Sin teléfono disponible'
+  const d = limpio.replace(/^549/,'').replace(/^54/,'').slice(-10)
+  return d.length === 10 ? '+54 9 ' + d.slice(0,4)+' '+d.slice(4,7)+'-'+d.slice(7) : 'Sin teléfono disponible'
 }
 
 function renderDashboard() {
@@ -354,7 +359,7 @@ function renderDashboard() {
     el.innerHTML = '<p style="font-size:13px;color:#aaa;padding:8px 0;">Sin registros negativos</p>'
   } else {
     el.innerHTML = neg.map(function(d, i) {
-    var cel = (d.celular && !d.celular.includes('@')) ? d.celular : formatCel(d.numero || d.celular || '')
+    var cel = d.celular ? formatCel(d.celular) : 'Sin teléfono disponible'
     return '<div onclick="abrirModal(' + i + ',\'negativo\')" style="display:flex;gap:12px;padding:10px 0;border-bottom:0.5px solid #f0f0ec;align-items:flex-start;cursor:pointer;" onmouseover="this.style.background=\'#f5f5f0\'" onmouseout="this.style.background=\'\'">' +
       '<span class="badge neg" style="white-space:nowrap;">disconforme</span>' +
       '<div style="flex:1;">' +
@@ -371,7 +376,7 @@ function actualizarTabla() {
   const slice = datosTabla.slice(inicio, inicio + POR_PAGINA)
   document.getElementById('tabla-body').innerHTML = slice.map(d => `
     <tr>
-      <td style="font-family:monospace;font-size:12px;">+54 9 ${formatCel(d.celular||d.telefono||'')}</td>
+      <td style="font-family:monospace;font-size:12px;">${formatCel(d.celular||d.telefono||'')}</td>
       <td style="font-size:12px;">${d.direccion||'<span style="color:#aaa;font-style:italic;">sin dirección</span>'}</td>
       <td style="font-size:11px;color:#888;">${d.canal||'WhatsApp'}</td>
       <td style="text-align:center;"><span class="badge pos">satisfecho</span></td>
@@ -399,7 +404,7 @@ function abrirModal(idx, tipo) {
   if (!d) return
   modalDatos = d
   modalTipo = tipo
-  var cel = (d.celular && !d.celular.includes('@')) ? d.celular : formatCel(d.numero || d.celular || '')
+  var cel = d.celular ? formatCel(d.celular) : 'Sin teléfono disponible'
   var html = '<p style="font-size:13px;margin-bottom:8px;"><strong>' + cel + '</strong></p>'
   if (d.nombre) html += '<p style="font-size:12px;color:#888;margin-bottom:4px;">👤 ' + d.nombre + '</p>'
   if (d.direccion) html += '<p style="font-size:12px;color:#888;margin-bottom:4px;">📍 ' + d.direccion + '</p>'
