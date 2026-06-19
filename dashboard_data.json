@@ -36871,6 +36871,22 @@
       "distrito": null
     },
     {
+      "numero": "3813310348",
+      "canal": "Aplicación Móvil",
+      "nombre": "Lujan Carrizo",
+      "telefono": "3813310348",
+      "email": "lujancarrizo744@gmail.com",
+      "direccion": "Manuel M. Alberti 2035–2063, Municipalidad de San Miguel De Tucuman, Tucumán",
+      "lat": "-26.79836845215984",
+      "lon": "-65.22037580609322",
+      "distrito": 4,
+      "sentimiento": "neutro",
+      "asunto": "Basura en vía pública",
+      "area": "Ambiente",
+      "estado": "INICIADO",
+      "fecha": "2026-06-19T20:27:15.000Z"
+    },
+    {
       "numero": "3814411165",
       "canal": "Chat Center (Call Center)",
       "nombre": "RAFAEL FAVOR",
@@ -37022,18 +37038,18 @@
     "pendientes": 6
   },
   "reclamos": {
-    "total": 3201,
-    "iniciados": 20,
+    "total": 3202,
+    "iniciados": 21,
     "en_proceso": 1329,
     "finalizados": 1820,
     "derivados": 32
   },
   "canales": {
     "WhatsApp Ambiente": 2458,
+    "Aplicación Móvil": 3,
     "Chat Center (Call Center)": 6,
-    "Aplicación Móvil": 2,
     "Teléfono": 1
   },
-  "totalVecinos": 2467,
-  "actualizado": "2026-06-19T20:00:58.821Z"
+  "totalVecinos": 2468,
+  "actualizado": "2026-06-19T20:30:52.263Z"
 }
