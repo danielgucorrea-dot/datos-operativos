@@ -19833,16 +19833,16 @@
     {
       "numero": "5493815474592",
       "celular": "5493815474592",
-      "nombre": "Susana Del Rosario  Aguilar",
-      "direccion": "Bravo Mario Dr. 1250, San Miguel de Tucumán, Tucumán",
+      "nombre": "Aguilar Susana Del Rosario",
+      "direccion": "Mario Bravo, Parque Centenario, San Miguel de Tucumán, Departamento Capital, Tucumán, T4000, Argentina",
       "sentimiento": "neutro",
       "canal": "WhatsApp Ambiente",
       "fecha": "2026-03-26",
       "mensaje": "Hola Susana! Te escribimos desde el equipo de la Municipalidad de San Miguel de Tucumán. Sabemos que en algún momento te comunicaste con nosotros en Bravo Mario Dr. 1250, San Miguel de Tucumán, Tucumán. Queremos estar cerca de los vecinos y saber si hay algo en lo que podamos ayudarte 😊",
-      "telefono": "3815474592",
-      "email": "aguilarsusana97@yahoo.com.ar",
-      "lat": "-26.818362215496443",
-      "lon": "-65.1737167686224",
+      "telefono": "381 547-4592",
+      "email": "",
+      "lat": "-26.81838106599289",
+      "lon": "-65.17381798576665",
       "distrito": 8
     },
     {
@@ -36832,14 +36832,14 @@
   ],
   "pedidos": {
     "bot": 0,
-    "bam": 10,
+    "bam": 12,
     "completados": 0,
-    "pendientes": 10
+    "pendientes": 12
   },
   "reclamos": {
-    "total": 3194,
-    "iniciados": 27,
-    "en_proceso": 1316,
+    "total": 3195,
+    "iniciados": 22,
+    "en_proceso": 1322,
     "finalizados": 1820,
     "derivados": 31
   },
@@ -36850,5 +36850,5 @@
     "Teléfono": 1
   },
   "totalVecinos": 2455,
-  "actualizado": "2026-06-19T13:00:55.612Z"
+  "actualizado": "2026-06-19T13:30:55.883Z"
 }
