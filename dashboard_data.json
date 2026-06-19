@@ -8089,7 +8089,7 @@
       "numero": "5493816380794",
       "celular": "5493816380794",
       "nombre": "Palomo Omar",
-      "direccion": "636, Pasaje M. Pedraza,  Villa Alem, San Miguel de Tucumán, Departamento Capital, Tucumán, T4000, Argentina",
+      "direccion": "636, Pasaje M. Pedraza,  Villa Alem, San Miguel de Tucumán, Departamento Capital, Tucum��n, T4000, Argentina",
       "sentimiento": "neutro",
       "canal": "WhatsApp Ambiente",
       "fecha": "2026-05-29",
@@ -11148,17 +11148,17 @@
     {
       "numero": "5493813894907",
       "celular": "5493813894907",
-      "nombre": "Moreno, Maria Silvia    ",
-      "direccion": "Avenida Central  Barrio Oeste I",
+      "nombre": "Maria Silvia Moreno ",
+      "direccion": "Ex Ingenio Amalia, San Miguel de Tucumán, Departamento Capital, Tucumán, T4000, Argentina",
       "sentimiento": "neutro",
       "canal": "WhatsApp Ambiente",
       "fecha": "2026-05-12",
       "mensaje": "Hola Moreno,! Te escribimos desde el equipo de la Municipalidad de San Miguel de Tucumán. Sabemos que en algún momento te comunicaste con nosotros en Avenida Central  Barrio Oeste I. Queremos estar cerca de los vecinos y saber si hay algo en lo que podamos ayudarte 😊",
       "telefono": "3813894907",
       "email": "",
-      "lat": "-26.805746",
-      "lon": "-65.2530611",
-      "distrito": 1
+      "lat": "-26.86261315234583",
+      "lon": "-65.21325204725397",
+      "distrito": 15
     },
     {
       "numero": "5493813483952",
@@ -36871,6 +36871,22 @@
       "distrito": null
     },
     {
+      "numero": "3812141887",
+      "canal": "Aplicación Móvil",
+      "nombre": "Gimena Arévalo ",
+      "telefono": "3812141887",
+      "email": "delfinagimenaarevalo@gmail.com",
+      "direccion": "San Juan 3435, San Miguel de Tucumán, Tucumán",
+      "lat": "-26.816371525581854",
+      "lon": "-65.24724550545216",
+      "distrito": 9,
+      "sentimiento": "neutro",
+      "asunto": "Recolección de Residuos No Habituales (cantidad reducida)",
+      "area": "Ambiente",
+      "estado": "INICIADO",
+      "fecha": "2026-06-19T18:31:29.000Z"
+    },
+    {
       "numero": "381 - 6636811",
       "canal": "Chat Center (Call Center)",
       "nombre": "Díaz Lorena ",
@@ -36990,18 +37006,18 @@
     "pendientes": 6
   },
   "reclamos": {
-    "total": 3199,
-    "iniciados": 18,
+    "total": 3201,
+    "iniciados": 20,
     "en_proceso": 1329,
     "finalizados": 1820,
     "derivados": 32
   },
   "canales": {
     "WhatsApp Ambiente": 2458,
+    "Aplicación Móvil": 2,
     "Chat Center (Call Center)": 5,
-    "Aplicación Móvil": 1,
     "Teléfono": 1
   },
-  "totalVecinos": 2465,
-  "actualizado": "2026-06-19T18:30:58.193Z"
+  "totalVecinos": 2466,
+  "actualizado": "2026-06-19T19:00:59.595Z"
 }
