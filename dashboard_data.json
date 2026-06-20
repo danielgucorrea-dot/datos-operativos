@@ -5179,7 +5179,7 @@
       "numero": "5493815652145",
       "celular": "5493815652145",
       "nombre": "Jenifer García ",
-      "direccion": "Avenida República de Siria 1844, San Miguel de Tucumán, Tucumán",
+      "direccion": "Avenida República de Siria 1844, San Miguel de Tucumán, Tucum��n",
       "sentimiento": "neutro",
       "canal": "WhatsApp Ambiente",
       "fecha": "2026-06-17",
@@ -8958,16 +8958,16 @@
     {
       "numero": "5493865512666",
       "celular": "5493865512666",
-      "nombre": "Arlet Del Rosario Decima Martinez",
-      "direccion": "1451, Avenida Leandro N. Alem, El Cruce, San Miguel de Tucumán, Departamento Capital, Tucumán, T4000, Argentina",
+      "nombre": "Arlet Decima Martinez ",
+      "direccion": "Avenida Alem 1475, San Miguel de Tucumán, Tucumán",
       "sentimiento": "neutro",
       "canal": "WhatsApp Ambiente",
       "fecha": "2026-05-26",
       "mensaje": "Hola Arlet! Te escribimos desde el equipo de la Municipalidad de San Miguel de Tucumán. Sabemos que en algún momento te comunicaste con nosotros en 1451, Avenida Leandro N. Alem, El Cruce, San Miguel de Tucumán, Departamento Capital, Tucumán, T4000, Argentina. Queremos estar cerca de los vecinos y saber si hay algo en lo que podamos ayudarte 😊",
       "telefono": "3865512666",
-      "email": "",
-      "lat": "-26.84805116137375",
-      "lon": "-65.22357985767609",
+      "email": "arletdecima@gmail.com",
+      "lat": "-26.84815614725652",
+      "lon": "-65.22359043359756",
       "distrito": 14
     },
     {
@@ -37054,8 +37054,8 @@
     "pendientes": 6
   },
   "reclamos": {
-    "total": 3183,
-    "iniciados": 26,
+    "total": 3184,
+    "iniciados": 27,
     "en_proceso": 1329,
     "finalizados": 1796,
     "derivados": 32
@@ -37068,5 +37068,5 @@
     "Teléfono": 1
   },
   "totalVecinos": 2469,
-  "actualizado": "2026-06-20T03:30:55.654Z"
+  "actualizado": "2026-06-20T04:00:02.650Z"
 }
