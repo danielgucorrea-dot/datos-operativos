@@ -37054,8 +37054,8 @@
     "pendientes": 6
   },
   "reclamos": {
-    "total": 3180,
-    "iniciados": 23,
+    "total": 3181,
+    "iniciados": 24,
     "en_proceso": 1329,
     "finalizados": 1796,
     "derivados": 32
@@ -37068,5 +37068,5 @@
     "Teléfono": 1
   },
   "totalVecinos": 2469,
-  "actualizado": "2026-06-20T02:30:01.881Z"
+  "actualizado": "2026-06-20T02:30:55.140Z"
 }
