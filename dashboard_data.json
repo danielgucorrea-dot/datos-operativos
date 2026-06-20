@@ -27484,7 +27484,7 @@
       "numero": "5493815422634",
       "celular": "5493815422634",
       "nombre": "Gustavo Usandivaras ",
-      "direccion": "Lamadrid 223, San Miguel de Tucumán, Tucumán",
+      "direccion": "Lamadrid 223, San Miguel de Tucumán, Tucum��n",
       "sentimiento": "neutro",
       "canal": "WhatsApp Ambiente",
       "fecha": "2026-02-11",
@@ -36871,6 +36871,38 @@
       "distrito": null
     },
     {
+      "numero": "3812111388",
+      "canal": "Aplicación Móvil",
+      "nombre": "Roberto Paulo  Moreno ",
+      "telefono": "3812111388",
+      "email": "morenorobertopaulo54@gmail.com",
+      "direccion": "Marcos Paz 2768, San Miguel de Tucumán, Tucumán",
+      "lat": "-26.814701569197968",
+      "lon": "-65.23696828633547",
+      "distrito": 9,
+      "sentimiento": "neutro",
+      "asunto": "Recolección de Residuos No Habituales (cantidad reducida)",
+      "area": "Ambiente",
+      "estado": "INICIADO",
+      "fecha": "2026-06-20T21:01:29.000Z"
+    },
+    {
+      "numero": "3815505332",
+      "canal": "Aplicación Móvil",
+      "nombre": "MAURICIO GIMENEZ",
+      "telefono": "3815505332",
+      "email": "maurii.gimenez@gmail.com",
+      "direccion": "Calle República de Francia 1132, San Miguel de Tucumán, Tucumán",
+      "lat": "-26.834364260674942",
+      "lon": "-65.18008165061474",
+      "distrito": 11,
+      "sentimiento": "neutro",
+      "asunto": "Ruidos molestos",
+      "area": "Salud Ambiental",
+      "estado": "INICIADO",
+      "fecha": "2026-06-20T21:01:07.000Z"
+    },
+    {
       "numero": "3816412437",
       "canal": "Aplicación Móvil",
       "nombre": "Mónica Beatriz D Urso",
@@ -37102,19 +37134,19 @@
     "pendientes": 6
   },
   "reclamos": {
-    "total": 3192,
-    "iniciados": 35,
+    "total": 3194,
+    "iniciados": 37,
     "en_proceso": 1329,
     "finalizados": 1796,
     "derivados": 32
   },
   "canales": {
     "WhatsApp Ambiente": 2458,
-    "Aplicación Móvil": 6,
+    "Aplicación Móvil": 8,
     "Personalmente": 1,
     "Chat Center (Call Center)": 6,
     "Teléfono": 1
   },
-  "totalVecinos": 2472,
-  "actualizado": "2026-06-20T21:00:10.650Z"
+  "totalVecinos": 2474,
+  "actualizado": "2026-06-20T21:30:04.055Z"
 }
