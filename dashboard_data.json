@@ -5569,15 +5569,15 @@
       "numero": "5493816596311",
       "celular": "5493816596311",
       "nombre": "Marcelo  ARROYO ",
-      "direccion": "Castelli 2054, San Miguel de Tucumán, Tucumán",
+      "direccion": "Castelli 2050, San Miguel de Tucumán, Tucumán",
       "sentimiento": "neutro",
       "canal": "WhatsApp Ambiente",
       "fecha": "2026-06-13",
       "mensaje": "Hola Marcelo! Te escribimos desde el equipo de la Municipalidad de San Miguel de Tucumán. Sabemos que en algún momento te comunicaste con nosotros en Castelli 2054, San Miguel de Tucumán, Tucumán. Queremos estar cerca de los vecinos y saber si hay algo en lo que podamos ayudarte 😊",
       "telefono": "3816596311",
       "email": "marceloalejandroarroyo9@gmail.com",
-      "lat": "-26.797048676921417",
-      "lon": "-65.22792220115662",
+      "lat": "-26.79717197630142",
+      "lon": "-65.22786419838667",
       "distrito": 3
     },
     {
@@ -10789,7 +10789,7 @@
       "numero": "5493814621234",
       "celular": "5493814621234",
       "nombre": "Gustavo Daniel Robles ",
-      "direccion": "Doctor Nicasio Herrera, Policial IV, Barrio Policial, San Miguel de Tucumán, Departamento Lules, Tucumán, T4128, Argentina",
+      "direccion": "Doctor Nicasio Herrera, Policial IV, Barrio Policial, San Miguel de Tucumán, Departamento Lules, Tucum��n, T4128, Argentina",
       "sentimiento": "neutro",
       "canal": "WhatsApp Ambiente",
       "fecha": "2026-05-13",
@@ -37102,8 +37102,8 @@
     "pendientes": 6
   },
   "reclamos": {
-    "total": 3189,
-    "iniciados": 32,
+    "total": 3190,
+    "iniciados": 33,
     "en_proceso": 1329,
     "finalizados": 1796,
     "derivados": 32
@@ -37116,5 +37116,5 @@
     "Teléfono": 1
   },
   "totalVecinos": 2472,
-  "actualizado": "2026-06-20T13:31:00.302Z"
+  "actualizado": "2026-06-20T14:00:07.436Z"
 }
