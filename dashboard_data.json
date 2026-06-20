@@ -4609,15 +4609,15 @@
       "numero": "5493814469030",
       "celular": "5493814469030",
       "nombre": "Noelia Pata",
-      "direccion": "Pasaje Campo de las Carreras 1427, San Miguel de Tucumán, Tucumán",
+      "direccion": "Pasaje Campo de las Carreras 1425, San Miguel de Tucumán, Tucumán",
       "sentimiento": "neutro",
       "canal": "WhatsApp Ambiente",
       "fecha": "2026-06-18",
       "mensaje": "Hola Noelia! Te escribimos desde el equipo de la Municipalidad de San Miguel de Tucumán. Sabemos que en algún momento te comunicaste con nosotros en Pasaje Campo de las Carreras 1427, San Miguel de Tucumán, Tucumán. Queremos estar cerca de los vecinos y saber si hay algo en lo que podamos ayudarte 😊",
       "telefono": "+543814469030",
       "email": "noeliapata@gmail.com",
-      "lat": "-26.83822171869658",
-      "lon": "-65.2214453369379",
+      "lat": "-26.8382558",
+      "lon": "-65.2213721",
       "distrito": 10
     },
     {
@@ -37054,8 +37054,8 @@
     "pendientes": 6
   },
   "reclamos": {
-    "total": 3182,
-    "iniciados": 25,
+    "total": 3183,
+    "iniciados": 26,
     "en_proceso": 1329,
     "finalizados": 1796,
     "derivados": 32
@@ -37068,5 +37068,5 @@
     "Teléfono": 1
   },
   "totalVecinos": 2469,
-  "actualizado": "2026-06-20T03:00:55.377Z"
+  "actualizado": "2026-06-20T03:30:02.374Z"
 }
