@@ -5179,7 +5179,7 @@
       "numero": "5493815652145",
       "celular": "5493815652145",
       "nombre": "Jenifer García ",
-      "direccion": "Avenida República de Siria 1844, San Miguel de Tucumán, Tucum��n",
+      "direccion": "Avenida República de Siria 1844, San Miguel de Tucumán, Tucumán",
       "sentimiento": "neutro",
       "canal": "WhatsApp Ambiente",
       "fecha": "2026-06-17",
@@ -5869,15 +5869,15 @@
       "numero": "5493814450357",
       "celular": "5493814450357",
       "nombre": "Cesar Daniel Lescano",
-      "direccion": "Combate de Las Piedras 692, San Miguel de Tucumán, Tucumán",
+      "direccion": "Combate de Las Piedras 698, San Miguel de Tucumán, Tucumán",
       "sentimiento": "neutro",
       "canal": "WhatsApp Ambiente",
       "fecha": "2026-06-11",
       "mensaje": "Hola Cesar! Te escribimos desde el equipo de la Municipalidad de San Miguel de Tucumán. Sabemos que en algún momento te comunicaste con nosotros en Combate de Las Piedras 692, San Miguel de Tucumán, Tucumán. Queremos estar cerca de los vecinos y saber si hay algo en lo que podamos ayudarte 😊",
       "telefono": "3814450357",
       "email": "cedalescano@gmail.com",
-      "lat": "-26.834445934600424",
-      "lon": "-65.2086267247796",
+      "lat": "-26.834448028802854",
+      "lon": "-65.20864851772785",
       "distrito": 10
     },
     {
@@ -36871,6 +36871,22 @@
       "distrito": null
     },
     {
+      "numero": "3815859763",
+      "canal": "Aplicación Móvil",
+      "nombre": "María Gabriela  Franconieri ",
+      "telefono": "3815859763",
+      "email": "gabsfranconieri@gmail.com",
+      "direccion": "Marcos Paz 529, San Miguel de Tucumán, Tucumán",
+      "lat": "-26.8211924",
+      "lon": "-65.20293099999999",
+      "distrito": 10,
+      "sentimiento": "neutro",
+      "asunto": "Ruidos molestos",
+      "area": "Salud Ambiental",
+      "estado": "INICIADO",
+      "fecha": "2026-06-20T07:48:04.000Z"
+    },
+    {
       "numero": "3815123456",
       "canal": "Personalmente",
       "nombre": "Tena Jose Eugenio",
@@ -37054,19 +37070,19 @@
     "pendientes": 6
   },
   "reclamos": {
-    "total": 3184,
-    "iniciados": 27,
+    "total": 3186,
+    "iniciados": 29,
     "en_proceso": 1329,
     "finalizados": 1796,
     "derivados": 32
   },
   "canales": {
     "WhatsApp Ambiente": 2458,
+    "Aplicación Móvil": 4,
     "Personalmente": 1,
-    "Aplicación Móvil": 3,
     "Chat Center (Call Center)": 6,
     "Teléfono": 1
   },
-  "totalVecinos": 2469,
-  "actualizado": "2026-06-20T07:30:57.497Z"
+  "totalVecinos": 2470,
+  "actualizado": "2026-06-20T08:00:04.460Z"
 }
