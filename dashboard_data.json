@@ -5869,15 +5869,15 @@
       "numero": "5493814450357",
       "celular": "5493814450357",
       "nombre": "Cesar Daniel Lescano",
-      "direccion": "Combate de Las Piedras 698, San Miguel de Tucumán, Tucumán",
+      "direccion": "Combate de Las Piedras 695, San Miguel de Tucumán, Tucumán",
       "sentimiento": "neutro",
       "canal": "WhatsApp Ambiente",
       "fecha": "2026-06-11",
       "mensaje": "Hola Cesar! Te escribimos desde el equipo de la Municipalidad de San Miguel de Tucumán. Sabemos que en algún momento te comunicaste con nosotros en Combate de Las Piedras 692, San Miguel de Tucumán, Tucumán. Queremos estar cerca de los vecinos y saber si hay algo en lo que podamos ayudarte 😊",
       "telefono": "3814450357",
       "email": "cedalescano@gmail.com",
-      "lat": "-26.834448028802854",
-      "lon": "-65.20864851772785",
+      "lat": "-26.83440195634018",
+      "lon": "-65.20859017968178",
       "distrito": 10
     },
     {
@@ -37086,8 +37086,8 @@
     "pendientes": 6
   },
   "reclamos": {
-    "total": 3187,
-    "iniciados": 30,
+    "total": 3188,
+    "iniciados": 31,
     "en_proceso": 1329,
     "finalizados": 1796,
     "derivados": 32
@@ -37100,5 +37100,5 @@
     "Teléfono": 1
   },
   "totalVecinos": 2471,
-  "actualizado": "2026-06-20T11:00:59.157Z"
+  "actualizado": "2026-06-20T11:30:06.254Z"
 }
