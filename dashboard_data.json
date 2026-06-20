@@ -5614,15 +5614,15 @@
       "numero": "5493814181759",
       "celular": "5493814181759",
       "nombre": "Cristina Noemi Galvan",
-      "direccion": "Pasaje Campo de las Carreras 1425, San Miguel de Tucumán, Tucumán",
+      "direccion": "Pasaje Campo de las Carreras 1427, San Miguel de Tucumán, Tucumán",
       "sentimiento": "neutro",
       "canal": "WhatsApp Ambiente",
       "fecha": "2026-06-13",
       "mensaje": "Hola Cristina! Te escribimos desde el equipo de la Municipalidad de San Miguel de Tucumán. Sabemos que en algún momento te comunicaste con nosotros en Pasaje Campo de las Carreras 1425, San Miguel de Tucumán, Tucumán. Queremos estar cerca de los vecinos y saber si hay algo en lo que podamos ayudarte 😊",
       "telefono": "+543814181759",
       "email": "galvancristinanoemi@gmail.com",
-      "lat": "-26.8382558",
-      "lon": "-65.2213721",
+      "lat": "-26.838277961102104",
+      "lon": "-65.22143829613924",
       "distrito": 10
     },
     {
@@ -10789,7 +10789,7 @@
       "numero": "5493814621234",
       "celular": "5493814621234",
       "nombre": "Gustavo Daniel Robles ",
-      "direccion": "Doctor Nicasio Herrera, Policial IV, Barrio Policial, San Miguel de Tucumán, Departamento Lules, Tucum��n, T4128, Argentina",
+      "direccion": "Doctor Nicasio Herrera, Policial IV, Barrio Policial, San Miguel de Tucumán, Departamento Lules, Tucumán, T4128, Argentina",
       "sentimiento": "neutro",
       "canal": "WhatsApp Ambiente",
       "fecha": "2026-05-13",
@@ -37102,8 +37102,8 @@
     "pendientes": 6
   },
   "reclamos": {
-    "total": 3190,
-    "iniciados": 33,
+    "total": 3191,
+    "iniciados": 34,
     "en_proceso": 1329,
     "finalizados": 1796,
     "derivados": 32
@@ -37116,5 +37116,5 @@
     "Teléfono": 1
   },
   "totalVecinos": 2472,
-  "actualizado": "2026-06-20T16:30:08.542Z"
+  "actualizado": "2026-06-20T17:00:02.055Z"
 }
