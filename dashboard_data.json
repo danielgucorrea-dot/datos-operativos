@@ -5404,15 +5404,15 @@
       "numero": "5493815115590",
       "celular": "5493815115590",
       "nombre": "LAURA ABASCAL",
-      "direccion": "Congreso de Tucumán 64, San Miguel de Tucumán, Tucumán",
+      "direccion": "Congreso de Tucumán 68, San Miguel de Tucumán, Tucumán",
       "sentimiento": "neutro",
       "canal": "WhatsApp Ambiente",
       "fecha": "2026-06-15",
       "mensaje": "Hola Laura! Te escribimos desde el equipo de la Municipalidad de San Miguel de Tucumán. Sabemos que en algún momento te comunicaste con nosotros en Congreso de Tucumán 64, San Miguel de Tucumán, Tucumán. Queremos estar cerca de los vecinos y saber si hay algo en lo que podamos ayudarte 😊",
       "telefono": "3815115590",
       "email": "abascall2016@gmail.com",
-      "lat": "-26.83203338766973",
-      "lon": "-65.20330086350441",
+      "lat": "-26.832085444656364",
+      "lon": "-65.20345509052277",
       "distrito": 10
     },
     {
@@ -37150,8 +37150,8 @@
     "pendientes": 6
   },
   "reclamos": {
-    "total": 3188,
-    "iniciados": 43,
+    "total": 3189,
+    "iniciados": 44,
     "en_proceso": 1329,
     "finalizados": 1784,
     "derivados": 32
@@ -37164,5 +37164,5 @@
     "Teléfono": 1
   },
   "totalVecinos": 2475,
-  "actualizado": "2026-06-21T23:00:22.359Z"
+  "actualizado": "2026-06-21T23:30:16.887Z"
 }
