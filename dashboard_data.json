@@ -18259,15 +18259,15 @@
       "numero": "5493814195471",
       "celular": "5493814195471",
       "nombre": "Rita Acosta ",
-      "direccion": "Juan Bautista Alberdi 367, San Miguel de Tucumán, Tucumán",
+      "direccion": "Combate de Las Piedras 1099, San Miguel de Tucumán, Tucumán",
       "sentimiento": "neutro",
       "canal": "WhatsApp Ambiente",
       "fecha": "2026-04-03",
       "mensaje": "Hola Rita! Te escribimos desde el equipo de la Municipalidad de San Miguel de Tucumán. Sabemos que en algún momento te comunicaste con nosotros en Juan Bautista Alberdi 367, San Miguel de Tucumán, Tucumán. Queremos estar cerca de los vecinos y saber si hay algo en lo que podamos ayudarte 😊",
       "telefono": "3814195471",
       "email": "ritaacosta_sicologa@hotmail.com",
-      "lat": "-26.8341553",
-      "lon": "-65.2155202",
+      "lat": "-26.8332186",
+      "lon": "-65.2150204",
       "distrito": 10
     },
     {
@@ -27484,7 +27484,7 @@
       "numero": "5493815422634",
       "celular": "5493815422634",
       "nombre": "Gustavo Usandivaras ",
-      "direccion": "Lamadrid 223, San Miguel de Tucumán, Tucum��n",
+      "direccion": "Lamadrid 223, San Miguel de Tucumán, Tucumán",
       "sentimiento": "neutro",
       "canal": "WhatsApp Ambiente",
       "fecha": "2026-02-11",
@@ -37134,8 +37134,8 @@
     "pendientes": 6
   },
   "reclamos": {
-    "total": 3182,
-    "iniciados": 37,
+    "total": 3183,
+    "iniciados": 38,
     "en_proceso": 1329,
     "finalizados": 1784,
     "derivados": 32
@@ -37148,5 +37148,5 @@
     "Teléfono": 1
   },
   "totalVecinos": 2474,
-  "actualizado": "2026-06-21T02:30:12.165Z"
+  "actualizado": "2026-06-21T03:00:05.530Z"
 }
