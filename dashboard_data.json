@@ -36378,47 +36378,47 @@
     {
       "numero": "5493814190170",
       "celular": "5493814190170",
-      "nombre": "Franco Saez",
+      "nombre": "",
       "direccion": "Bernabé Araóz 130, San Miguel de Tucumán, Tucumán",
       "sentimiento": "neutro",
       "canal": "WhatsApp Ambiente",
       "fecha": "2025-12-20",
       "mensaje": "Hola Franco! Te escribimos desde el equipo de la Municipalidad de San Miguel de Tucumán. Sabemos que en algún momento te comunicaste con nosotros en Bernabé Araóz 130, San Miguel de Tucumán, Tucumán. Queremos estar cerca de los vecinos y saber si hay algo en lo que podamos ayudarte 😊",
-      "telefono": "3814190170",
-      "email": "saez873@hotmail.com",
-      "lat": "-26.830515048367875",
-      "lon": "-65.21568160504103",
-      "distrito": 10
+      "telefono": "5493814190170",
+      "email": "",
+      "lat": null,
+      "lon": null,
+      "distrito": null
     },
     {
       "numero": "5493815941824",
       "celular": "5493815941824",
-      "nombre": "Luis Alberto  Scidá ",
+      "nombre": "",
       "direccion": "Crisóstomo Alvarez 4075, San Miguel de Tucumán, Tucumán",
       "sentimiento": "neutro",
       "canal": "WhatsApp Ambiente",
       "fecha": "2025-12-20",
       "mensaje": "Hola Luis! Te escribimos desde el equipo de la Municipalidad de San Miguel de Tucumán. Sabemos que en algún momento te comunicaste con nosotros en Crisóstomo Alvarez 4075, San Miguel de Tucumán, Tucumán. Queremos estar cerca de los vecinos y saber si hay algo en lo que podamos ayudarte 😊",
-      "telefono": "3815941824",
-      "email": "lscidaster@gmail.com",
-      "lat": "-26.82177290745578",
-      "lon": "-65.2564749866724",
-      "distrito": 9
+      "telefono": "5493815941824",
+      "email": "",
+      "lat": null,
+      "lon": null,
+      "distrito": null
     },
     {
       "numero": "5493813466435",
       "celular": "5493813466435",
-      "nombre": "María Belén de Haro",
+      "nombre": "",
       "direccion": "Lamadrid 1180, San Miguel de Tucumán, Tucumán",
       "sentimiento": "neutro",
       "canal": "WhatsApp Ambiente",
       "fecha": "2025-12-20",
       "mensaje": "Hola María! Te escribimos desde el equipo de la Municipalidad de San Miguel de Tucumán. Sabemos que en algún momento te comunicaste con nosotros en Lamadrid 1180, San Miguel de Tucumán, Tucumán. Queremos estar cerca de los vecinos y saber si hay algo en lo que podamos ayudarte 😊",
-      "telefono": "3813466435",
-      "email": "mariabelendeharo11@gmail.com",
-      "lat": "-26.8356517",
-      "lon": "-65.21677",
-      "distrito": 10
+      "telefono": "5493813466435",
+      "email": "",
+      "lat": null,
+      "lon": null,
+      "distrito": null
     },
     {
       "numero": "5490381656878",
@@ -37134,10 +37134,10 @@
     "pendientes": 6
   },
   "reclamos": {
-    "total": 3194,
+    "total": 3182,
     "iniciados": 37,
     "en_proceso": 1329,
-    "finalizados": 1796,
+    "finalizados": 1784,
     "derivados": 32
   },
   "canales": {
@@ -37148,5 +37148,5 @@
     "Teléfono": 1
   },
   "totalVecinos": 2474,
-  "actualizado": "2026-06-20T23:30:11.907Z"
+  "actualizado": "2026-06-21T00:00:05.205Z"
 }
