@@ -6521,8 +6521,8 @@
       "mensaje": "Hola Viviana! Te escribimos desde el equipo de la Municipalidad de San Miguel de Tucumán. Sabemos que en algún momento te comunicaste con nosotros en Marcos Paz 1750, San Miguel de Tucumán, Tucumán. Queremos estar cerca de los vecinos y saber si hay algo en lo que podamos ayudarte 😊",
       "telefono": "3816870176",
       "email": "vvaldez@apdes.edu.ar",
-      "lat": "-26.817887660695938",
-      "lon": "-65.22141717374325",
+      "lat": "-26.817775155609496",
+      "lon": "-65.22146075963974",
       "distrito": 10
     },
     {
@@ -37134,8 +37134,8 @@
     "pendientes": 6
   },
   "reclamos": {
-    "total": 3183,
-    "iniciados": 38,
+    "total": 3184,
+    "iniciados": 39,
     "en_proceso": 1329,
     "finalizados": 1784,
     "derivados": 32
@@ -37148,5 +37148,5 @@
     "Teléfono": 1
   },
   "totalVecinos": 2474,
-  "actualizado": "2026-06-21T06:30:14.222Z"
+  "actualizado": "2026-06-21T07:00:07.534Z"
 }
