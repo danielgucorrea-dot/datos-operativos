@@ -6604,15 +6604,15 @@
       "numero": "5493815094952",
       "celular": "5493815094952",
       "nombre": "CECILIA VERONICA RUIZ",
-      "direccion": "Delfin Gallo 83, San Miguel de Tucumán, Tucumán",
+      "direccion": "Delfin Gallo 80, San Miguel de Tucumán, Tucumán",
       "sentimiento": "neutro",
       "canal": "WhatsApp Ambiente",
       "fecha": "2026-06-05",
       "mensaje": "Hola Cecilia! Te escribimos desde el equipo de la Municipalidad de San Miguel de Tucumán. Sabemos que en algún momento te comunicaste con nosotros en Delfin Gallo 80, San Miguel de Tucumán, Tucumán. Queremos estar cerca de los vecinos y saber si hay algo en lo que podamos ayudarte 😊",
       "telefono": "3815094952",
       "email": "cecilleruiz@gmail.com",
-      "lat": "-26.80215351828286",
-      "lon": "-65.19119940698147",
+      "lat": "-26.802274418060193",
+      "lon": "-65.1911548152566",
       "distrito": 6
     },
     {
@@ -37150,8 +37150,8 @@
     "pendientes": 6
   },
   "reclamos": {
-    "total": 3187,
-    "iniciados": 42,
+    "total": 3188,
+    "iniciados": 43,
     "en_proceso": 1329,
     "finalizados": 1784,
     "derivados": 32
@@ -37164,5 +37164,5 @@
     "Teléfono": 1
   },
   "totalVecinos": 2475,
-  "actualizado": "2026-06-21T22:00:21.792Z"
+  "actualizado": "2026-06-21T22:30:14.735Z"
 }
