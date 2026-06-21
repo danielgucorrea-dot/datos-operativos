@@ -21649,15 +21649,15 @@
       "numero": "5493813036794",
       "celular": "5493813036794",
       "nombre": "Olga Alicia  Ledesma ",
-      "direccion": "Estanislao del Campo 1371, San Miguel de Tucumán, Tucumán",
+      "direccion": "Raúl Colombres 712, San Miguel de Tucumán, Tucumán",
       "sentimiento": "neutro",
       "canal": "WhatsApp Ambiente",
       "fecha": "2026-03-15",
       "mensaje": "Hola Olga! Te escribimos desde el equipo de la Municipalidad de San Miguel de Tucumán. Sabemos que en algún momento te comunicaste con nosotros en Estanislao del Campo 1371, San Miguel de Tucumán, Tucumán. Queremos estar cerca de los vecinos y saber si hay algo en lo que podamos ayudarte 😊",
       "telefono": "3813036794",
       "email": "olgaalicialedesma@gmail.com",
-      "lat": "-26.8156282",
-      "lon": "-65.1807116",
+      "lat": "-26.8160637",
+      "lon": "-65.1824003",
       "distrito": 8
     },
     {
@@ -37134,8 +37134,8 @@
     "pendientes": 6
   },
   "reclamos": {
-    "total": 3185,
-    "iniciados": 40,
+    "total": 3186,
+    "iniciados": 41,
     "en_proceso": 1329,
     "finalizados": 1784,
     "derivados": 32
@@ -37148,5 +37148,5 @@
     "Teléfono": 1
   },
   "totalVecinos": 2474,
-  "actualizado": "2026-06-21T19:00:20.291Z"
+  "actualizado": "2026-06-21T19:30:13.268Z"
 }
