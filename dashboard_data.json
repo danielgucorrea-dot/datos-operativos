@@ -26854,7 +26854,7 @@
       "numero": "5493814783685",
       "celular": "5493814783685",
       "nombre": "Natalia Cecilia  Niederle",
-      "direccion": "Cdte. Espora 1597, San Miguel de Tucum��n, Tucumán",
+      "direccion": "Cdte. Espora 1597, San Miguel de Tucumán, Tucumán",
       "sentimiento": "neutro",
       "canal": "WhatsApp Ambiente",
       "fecha": "2026-02-15",
@@ -37166,8 +37166,8 @@
     "pendientes": 6
   },
   "reclamos": {
-    "total": 3181,
-    "iniciados": 44,
+    "total": 3183,
+    "iniciados": 46,
     "en_proceso": 1329,
     "finalizados": 1774,
     "derivados": 34
@@ -37180,5 +37180,5 @@
     "Teléfono": 1
   },
   "totalVecinos": 2476,
-  "actualizado": "2026-06-22T01:30:23.482Z"
+  "actualizado": "2026-06-22T02:00:16.264Z"
 }
