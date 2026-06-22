@@ -36883,7 +36883,7 @@
       "sentimiento": "neutro",
       "asunto": "Ruidos molestos",
       "area": "Salud Ambiental",
-      "estado": "INICIADO",
+      "estado": "FINALIZADO",
       "fecha": "2026-06-21T21:54:42.000Z"
     },
     {
@@ -36915,7 +36915,7 @@
       "sentimiento": "neutro",
       "asunto": "Ruidos molestos",
       "area": "Salud Ambiental",
-      "estado": "INICIADO",
+      "estado": "FINALIZADO",
       "fecha": "2026-06-20T21:01:07.000Z"
     },
     {
@@ -36963,7 +36963,7 @@
       "sentimiento": "neutro",
       "asunto": "Ruidos molestos",
       "area": "Salud Ambiental",
-      "estado": "INICIADO",
+      "estado": "EN PROCESO",
       "fecha": "2026-06-20T07:48:04.000Z"
     },
     {
@@ -37010,8 +37010,8 @@
       "distrito": 15,
       "sentimiento": "neutro",
       "asunto": "Basura en vía pública",
-      "area": "Ambiente",
-      "estado": "INICIADO",
+      "area": "Secretaría de Ambiente",
+      "estado": "EN PROCESO",
       "fecha": "2026-06-19T18:58:52.000Z"
     },
     {
@@ -37026,8 +37026,8 @@
       "distrito": 9,
       "sentimiento": "neutro",
       "asunto": "Recolección de Residuos No Habituales (cantidad reducida)",
-      "area": "Ambiente",
-      "estado": "INICIADO",
+      "area": "Secretaría de Ambiente",
+      "estado": "EN PROCESO",
       "fecha": "2026-06-19T18:31:29.000Z"
     },
     {
@@ -37058,8 +37058,8 @@
       "distrito": 18,
       "sentimiento": "neutro",
       "asunto": "Basura en vía pública",
-      "area": "Ambiente",
-      "estado": "INICIADO",
+      "area": "Secretaría de Ambiente",
+      "estado": "EN PROCESO",
       "fecha": "2026-06-19T15:24:25.000Z"
     },
     {
@@ -37167,10 +37167,10 @@
   },
   "reclamos": {
     "total": 3184,
-    "iniciados": 47,
-    "en_proceso": 1329,
-    "finalizados": 1774,
-    "derivados": 34
+    "iniciados": 30,
+    "en_proceso": 1337,
+    "finalizados": 1781,
+    "derivados": 36
   },
   "canales": {
     "WhatsApp Ambiente": 2458,
@@ -37180,5 +37180,5 @@
     "Teléfono": 1
   },
   "totalVecinos": 2476,
-  "actualizado": "2026-06-22T11:00:28.353Z"
+  "actualizado": "2026-06-22T11:30:21.266Z"
 }
