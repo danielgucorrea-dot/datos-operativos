@@ -21499,7 +21499,7 @@
       "numero": "5493814727059",
       "celular": "5493814727059",
       "nombre": "Monica Elizabeth  Romano",
-      "direccion": "Calle Eudoro Ar��oz 2262, San Miguel de Tucumán, Tucumán",
+      "direccion": "Calle Eudoro Aráoz 2262, San Miguel de Tucumán, Tucumán",
       "sentimiento": "neutro",
       "canal": "WhatsApp Ambiente",
       "fecha": "2026-03-16",
@@ -36871,6 +36871,22 @@
       "distrito": null
     },
     {
+      "numero": "3815394375",
+      "canal": "Personalmente",
+      "nombre": "Patricia Perez",
+      "telefono": "3815394375",
+      "email": "",
+      "direccion": "1133, Entre Ríos, Villa Amalia, Villa Alem, San Miguel de Tucumán, Departamento Capital, Tucumán, T4000, Argentina",
+      "lat": "-26.84748727038904",
+      "lon": "-65.20393296688444",
+      "distrito": 15,
+      "sentimiento": "neutro",
+      "asunto": "Basura en vía pública",
+      "area": "Ambiente",
+      "estado": "INICIADO",
+      "fecha": "2026-06-22T14:54:39.000Z"
+    },
+    {
       "numero": " 381 446-0623",
       "canal": "Chat Center (Call Center)",
       "nombre": "Carlos José Contreras",
@@ -37209,24 +37225,24 @@
   ],
   "pedidos": {
     "bot": 0,
-    "bam": 57,
+    "bam": 70,
     "completados": 0,
-    "pendientes": 57
+    "pendientes": 70
   },
   "reclamos": {
-    "total": 3187,
-    "iniciados": 22,
+    "total": 3188,
+    "iniciados": 23,
     "en_proceso": 1339,
     "finalizados": 1789,
     "derivados": 37
   },
   "canales": {
     "WhatsApp Ambiente": 2458,
+    "Personalmente": 3,
     "Chat Center (Call Center)": 9,
-    "Personalmente": 2,
     "Aplicación Móvil": 9,
     "Teléfono": 1
   },
-  "totalVecinos": 2479,
-  "actualizado": "2026-06-22T14:30:30.084Z"
+  "totalVecinos": 2480,
+  "actualizado": "2026-06-22T15:00:22.967Z"
 }
