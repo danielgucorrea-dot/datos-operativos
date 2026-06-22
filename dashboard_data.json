@@ -12184,7 +12184,7 @@
       "numero": "5493815192540",
       "celular": "5493815192540",
       "nombre": "Orlando norberto diaz",
-      "direccion": " ej��rcito del norte 2355",
+      "direccion": " ejército del norte 2355",
       "sentimiento": "neutro",
       "canal": "WhatsApp Ambiente",
       "fecha": "2026-05-06",
@@ -36947,7 +36947,7 @@
       "sentimiento": "neutro",
       "asunto": "Ruidos molestos",
       "area": "Salud Ambiental",
-      "estado": "INICIADO",
+      "estado": "FINALIZADO",
       "fecha": "2026-06-20T10:23:44.000Z"
     },
     {
@@ -37161,15 +37161,15 @@
   ],
   "pedidos": {
     "bot": 0,
-    "bam": 6,
+    "bam": 21,
     "completados": 0,
-    "pendientes": 6
+    "pendientes": 21
   },
   "reclamos": {
     "total": 3184,
-    "iniciados": 24,
-    "en_proceso": 1336,
-    "finalizados": 1788,
+    "iniciados": 22,
+    "en_proceso": 1337,
+    "finalizados": 1789,
     "derivados": 36
   },
   "canales": {
@@ -37180,5 +37180,5 @@
     "Teléfono": 1
   },
   "totalVecinos": 2476,
-  "actualizado": "2026-06-22T12:30:28.986Z"
+  "actualizado": "2026-06-22T13:00:22.013Z"
 }
