@@ -37167,9 +37167,9 @@
   },
   "reclamos": {
     "total": 3184,
-    "iniciados": 30,
-    "en_proceso": 1337,
-    "finalizados": 1781,
+    "iniciados": 26,
+    "en_proceso": 1335,
+    "finalizados": 1787,
     "derivados": 36
   },
   "canales": {
@@ -37180,5 +37180,5 @@
     "Teléfono": 1
   },
   "totalVecinos": 2476,
-  "actualizado": "2026-06-22T11:30:29.284Z"
+  "actualizado": "2026-06-22T12:00:23.339Z"
 }
