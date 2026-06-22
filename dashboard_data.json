@@ -36882,8 +36882,8 @@
       "distrito": 15,
       "sentimiento": "neutro",
       "asunto": "Basura en vía pública",
-      "area": "Ambiente",
-      "estado": "INICIADO",
+      "area": "Secretaría de Ambiente",
+      "estado": "EN PROCESO",
       "fecha": "2026-06-22T14:54:39.000Z"
     },
     {
@@ -36899,7 +36899,7 @@
       "sentimiento": "neutro",
       "asunto": "Ruidos molestos",
       "area": "Salud Ambiental",
-      "estado": "INICIADO",
+      "estado": "EN PROCESO",
       "fecha": "2026-06-22T14:02:36.000Z"
     },
     {
@@ -36914,8 +36914,8 @@
       "distrito": 10,
       "sentimiento": "neutro",
       "asunto": "Basura en vía pública",
-      "area": "Ambiente",
-      "estado": "INICIADO",
+      "area": "Secretaría de Ambiente",
+      "estado": "EN PROCESO",
       "fecha": "2026-06-22T13:54:38.000Z"
     },
     {
@@ -37231,8 +37231,8 @@
   },
   "reclamos": {
     "total": 3188,
-    "iniciados": 23,
-    "en_proceso": 1339,
+    "iniciados": 20,
+    "en_proceso": 1342,
     "finalizados": 1789,
     "derivados": 37
   },
@@ -37244,5 +37244,5 @@
     "Teléfono": 1
   },
   "totalVecinos": 2480,
-  "actualizado": "2026-06-22T15:00:30.130Z"
+  "actualizado": "2026-06-22T15:30:23.257Z"
 }
