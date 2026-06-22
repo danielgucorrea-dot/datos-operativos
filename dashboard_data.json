@@ -36318,62 +36318,62 @@
     {
       "numero": "5493816023837",
       "celular": "5493816023837",
-      "nombre": "Carmen  Gramajo ",
+      "nombre": "",
       "direccion": "Viamonte 730, San Miguel de Tucumán, Tucumán",
       "sentimiento": "neutro",
       "canal": "WhatsApp Ambiente",
       "fecha": "2025-12-21",
       "mensaje": "Hola Carmen! Te escribimos desde el equipo de la Municipalidad de San Miguel de Tucumán. Sabemos que en algún momento te comunicaste con nosotros en Viamonte 730, San Miguel de Tucumán, Tucumán. Queremos estar cerca de los vecinos y saber si hay algo en lo que podamos ayudarte 😊",
-      "telefono": "3816023837",
-      "email": "carmen-gramajo@hotmail.com",
-      "lat": "-26.813639319312614",
-      "lon": "-65.23894373327494",
-      "distrito": 9
+      "telefono": "5493816023837",
+      "email": "",
+      "lat": null,
+      "lon": null,
+      "distrito": null
     },
     {
       "numero": "5490381519571",
       "celular": "5490381519571",
-      "nombre": "JOSE MARÍA PEREZ ACOSTA",
+      "nombre": "",
       "direccion": "España 181, San Miguel de Tucumán, Tucumán",
       "sentimiento": "neutro",
       "canal": "WhatsApp Ambiente",
       "fecha": "2025-12-21",
       "mensaje": "Hola Jose! Te escribimos desde el equipo de la Municipalidad de San Miguel de Tucumán. Sabemos que en algún momento te comunicaste con nosotros en España 181, San Miguel de Tucumán, Tucumán. Queremos estar cerca de los vecinos y saber si hay algo en lo que podamos ayudarte 😊",
-      "telefono": "0381519571",
-      "email": "jmpacosta@gmail.com",
-      "lat": "-26.81818986795504",
-      "lon": "-65.19663121551275",
-      "distrito": 6
+      "telefono": "5490381519571",
+      "email": "",
+      "lat": null,
+      "lon": null,
+      "distrito": null
     },
     {
       "numero": "5493814748269",
       "celular": "5493814748269",
-      "nombre": "Silvana Quinteros ",
+      "nombre": "",
       "direccion": "Pasaje Valdéz del Pino 901, San Miguel de Tucumán, Tucumán",
       "sentimiento": "neutro",
       "canal": "WhatsApp Ambiente",
       "fecha": "2025-12-21",
       "mensaje": "Hola Silvana! Te escribimos desde el equipo de la Municipalidad de San Miguel de Tucumán. Sabemos que en algún momento te comunicaste con nosotros en Pasaje Valdéz del Pino 901, San Miguel de Tucumán, Tucumán. Queremos estar cerca de los vecinos y saber si hay algo en lo que podamos ayudarte 😊",
-      "telefono": "3814748269",
-      "email": "silvanayudithquinteros@gmail.com",
-      "lat": "-26.851159428391785",
-      "lon": "-65.1877611503005",
-      "distrito": 16
+      "telefono": "5493814748269",
+      "email": "",
+      "lat": null,
+      "lon": null,
+      "distrito": null
     },
     {
       "numero": "5493813589637",
       "celular": "5493813589637",
-      "nombre": "Marlena Carla Antonell  Garcia Goitea ",
+      "nombre": "",
       "direccion": "Pasaje Álvarez 2160, Municipalidad de San Miguel De Tucuman, Tucumán",
       "sentimiento": "neutro",
       "canal": "WhatsApp Ambiente",
       "fecha": "2025-12-21",
       "mensaje": "Hola Marlena! Te escribimos desde el equipo de la Municipalidad de San Miguel de Tucumán. Sabemos que en algún momento te comunicaste con nosotros en Pasaje Álvarez 2160, Municipalidad de San Miguel De Tucuman, Tucumán. Queremos estar cerca de los vecinos y saber si hay algo en lo que podamos ayudarte 😊",
-      "telefono": "3813589637",
-      "email": "carlagoitea56@gmail.com",
-      "lat": "-26.7984477578926",
-      "lon": "-65.2229306101799",
-      "distrito": 4
+      "telefono": "5493813589637",
+      "email": "",
+      "lat": null,
+      "lon": null,
+      "distrito": null
     },
     {
       "numero": "5493814190170",
@@ -37150,10 +37150,10 @@
     "pendientes": 6
   },
   "reclamos": {
-    "total": 3189,
+    "total": 3179,
     "iniciados": 44,
     "en_proceso": 1329,
-    "finalizados": 1784,
+    "finalizados": 1774,
     "derivados": 32
   },
   "canales": {
@@ -37164,5 +37164,5 @@
     "Teléfono": 1
   },
   "totalVecinos": 2475,
-  "actualizado": "2026-06-21T23:30:22.411Z"
+  "actualizado": "2026-06-22T00:00:15.428Z"
 }
