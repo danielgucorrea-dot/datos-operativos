@@ -31563,7 +31563,7 @@
     {
       "numero": "5493816811246",
       "celular": "5493816811246",
-      "nombre": "Álvarez María Isabel",
+      "nombre": "��lvarez María Isabel",
       "direccion": "Benigno Vallejo 3800",
       "sentimiento": "neutro",
       "canal": "WhatsApp Ambiente",
@@ -36898,8 +36898,8 @@
       "distrito": 9,
       "sentimiento": "neutro",
       "asunto": "Recolección de Residuos No Habituales (cantidad reducida)",
-      "area": "Ambiente",
-      "estado": "INICIADO",
+      "area": "Secretaría de Ambiente",
+      "estado": "EN PROCESO",
       "fecha": "2026-06-20T21:01:29.000Z"
     },
     {
@@ -37161,14 +37161,14 @@
   ],
   "pedidos": {
     "bot": 0,
-    "bam": 21,
+    "bam": 25,
     "completados": 0,
-    "pendientes": 21
+    "pendientes": 25
   },
   "reclamos": {
     "total": 3184,
-    "iniciados": 22,
-    "en_proceso": 1337,
+    "iniciados": 21,
+    "en_proceso": 1338,
     "finalizados": 1789,
     "derivados": 36
   },
@@ -37180,5 +37180,5 @@
     "Teléfono": 1
   },
   "totalVecinos": 2476,
-  "actualizado": "2026-06-22T13:00:29.702Z"
+  "actualizado": "2026-06-22T13:30:22.047Z"
 }
