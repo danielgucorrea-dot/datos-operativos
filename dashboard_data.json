@@ -7804,15 +7804,15 @@
       "numero": "5493816170263",
       "celular": "5493816170263",
       "nombre": "Carolina Alejandra  Gonzalez",
-      "direccion": "Florida 1100, San Miguel de Tucumán, Tucumán",
+      "direccion": "La Plata 1108, San Miguel de Tucumán, Tucumán",
       "sentimiento": "neutro",
       "canal": "WhatsApp Ambiente",
       "fecha": "2026-06-01",
       "mensaje": "Hola Carolina! Te escribimos desde el equipo de la Municipalidad de San Miguel de Tucumán. Sabemos que en algún momento te comunicaste con nosotros en Florida 1100, San Miguel de Tucumán, Tucumán. Queremos estar cerca de los vecinos y saber si hay algo en lo que podamos ayudarte 😊",
       "telefono": "3816170263",
       "email": "carohonzalez@gmail.com",
-      "lat": "-26.845508467486688",
-      "lon": "-65.21780591458082",
+      "lat": "-26.844223044639712",
+      "lon": "-65.21756183356047",
       "distrito": 15
     },
     {
@@ -26854,7 +26854,7 @@
       "numero": "5493814783685",
       "celular": "5493814783685",
       "nombre": "Natalia Cecilia  Niederle",
-      "direccion": "Cdte. Espora 1597, San Miguel de Tucumán, Tucumán",
+      "direccion": "Cdte. Espora 1597, San Miguel de Tucum��n, Tucumán",
       "sentimiento": "neutro",
       "canal": "WhatsApp Ambiente",
       "fecha": "2026-02-15",
@@ -37031,6 +37031,22 @@
       "fecha": "2026-06-19T18:31:29.000Z"
     },
     {
+      "numero": "381 300-4942",
+      "canal": "Chat Center (Call Center)",
+      "nombre": "Carrazano Fernando Alexis",
+      "telefono": "381 300-4942",
+      "email": "",
+      "direccion": " ecuador 4.400 ",
+      "lat": "-26.8002855",
+      "lon": "-65.2379732",
+      "distrito": 2,
+      "sentimiento": "neutro",
+      "asunto": "Contenedor faltante o en mal estado",
+      "area": "Secretaría de Ambiente",
+      "estado": "DERIVADO",
+      "fecha": "2026-06-19T17:48:09.000Z"
+    },
+    {
       "numero": "381 - 6636811",
       "canal": "Chat Center (Call Center)",
       "nombre": "Díaz Lorena ",
@@ -37150,19 +37166,19 @@
     "pendientes": 6
   },
   "reclamos": {
-    "total": 3179,
+    "total": 3181,
     "iniciados": 44,
     "en_proceso": 1329,
     "finalizados": 1774,
-    "derivados": 32
+    "derivados": 34
   },
   "canales": {
     "WhatsApp Ambiente": 2458,
     "Aplicación Móvil": 9,
     "Personalmente": 1,
-    "Chat Center (Call Center)": 6,
+    "Chat Center (Call Center)": 7,
     "Teléfono": 1
   },
-  "totalVecinos": 2475,
-  "actualizado": "2026-06-22T00:30:22.944Z"
+  "totalVecinos": 2476,
+  "actualizado": "2026-06-22T01:00:15.825Z"
 }
