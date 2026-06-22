@@ -12184,7 +12184,7 @@
       "numero": "5493815192540",
       "celular": "5493815192540",
       "nombre": "Orlando norberto diaz",
-      "direccion": " ejército del norte 2355",
+      "direccion": " ej��rcito del norte 2355",
       "sentimiento": "neutro",
       "canal": "WhatsApp Ambiente",
       "fecha": "2026-05-06",
@@ -36978,8 +36978,8 @@
       "distrito": 4,
       "sentimiento": "neutro",
       "asunto": "Basura en vía pública",
-      "area": "Ambiente",
-      "estado": "INICIADO",
+      "area": "Secretaría de Ambiente",
+      "estado": "EN PROCESO",
       "fecha": "2026-06-19T21:50:18.000Z"
     },
     {
@@ -36994,8 +36994,8 @@
       "distrito": 4,
       "sentimiento": "neutro",
       "asunto": "Basura en vía pública",
-      "area": "Ambiente",
-      "estado": "INICIADO",
+      "area": "Secretaría de Ambiente",
+      "estado": "EN PROCESO",
       "fecha": "2026-06-19T20:27:15.000Z"
     },
     {
@@ -37167,9 +37167,9 @@
   },
   "reclamos": {
     "total": 3184,
-    "iniciados": 26,
-    "en_proceso": 1335,
-    "finalizados": 1787,
+    "iniciados": 24,
+    "en_proceso": 1336,
+    "finalizados": 1788,
     "derivados": 36
   },
   "canales": {
@@ -37180,5 +37180,5 @@
     "Teléfono": 1
   },
   "totalVecinos": 2476,
-  "actualizado": "2026-06-22T12:00:29.653Z"
+  "actualizado": "2026-06-22T12:30:22.515Z"
 }
