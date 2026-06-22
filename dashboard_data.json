@@ -5554,15 +5554,15 @@
       "numero": "5493816874416",
       "celular": "5493816874416",
       "nombre": "Jorge Gustavo Assf",
-      "direccion": "Batalla de Ayacucho 1452, San Miguel de Tucumán, Tucumán",
+      "direccion": "Calle Domingo Matheu 892, San Miguel de Tucumán, Tucumán",
       "sentimiento": "neutro",
       "canal": "WhatsApp Ambiente",
       "fecha": "2026-06-13",
       "mensaje": "Hola Jorge! Te escribimos desde el equipo de la Municipalidad de San Miguel de Tucumán. Sabemos que en algún momento te comunicaste con nosotros en Batalla de Ayacucho 1452, San Miguel de Tucumán, Tucumán. Queremos estar cerca de los vecinos y saber si hay algo en lo que podamos ayudarte 😊",
       "telefono": "3816874416",
       "email": "jorgeasaf@gmail.com",
-      "lat": "-26.8498008",
-      "lon": "-65.21416080000002",
+      "lat": "-26.850276101087474",
+      "lon": "-65.21559912711382",
       "distrito": 15
     },
     {
@@ -37166,8 +37166,8 @@
     "pendientes": 6
   },
   "reclamos": {
-    "total": 3183,
-    "iniciados": 46,
+    "total": 3184,
+    "iniciados": 47,
     "en_proceso": 1329,
     "finalizados": 1774,
     "derivados": 34
@@ -37180,5 +37180,5 @@
     "Teléfono": 1
   },
   "totalVecinos": 2476,
-  "actualizado": "2026-06-22T02:00:23.700Z"
+  "actualizado": "2026-06-22T02:30:16.485Z"
 }
