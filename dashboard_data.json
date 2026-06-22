@@ -31563,7 +31563,7 @@
     {
       "numero": "5493816811246",
       "celular": "5493816811246",
-      "nombre": "��lvarez María Isabel",
+      "nombre": "Álvarez María Isabel",
       "direccion": "Benigno Vallejo 3800",
       "sentimiento": "neutro",
       "canal": "WhatsApp Ambiente",
@@ -36871,6 +36871,38 @@
       "distrito": null
     },
     {
+      "numero": "381 443-4040",
+      "canal": "Chat Center (Call Center)",
+      "nombre": "Graciela Perez Genovesi",
+      "telefono": "381 443-4040",
+      "email": "",
+      "direccion": "701, Laprida, Barrio Norte, Villa 9 de julio, San Miguel de Tucumán, Departamento Capital, Tucumán, T4000, Argentina",
+      "lat": "-26.82169523448485",
+      "lon": "-65.20081879151458",
+      "distrito": 10,
+      "sentimiento": "neutro",
+      "asunto": "Basura en vía pública",
+      "area": "Ambiente",
+      "estado": "INICIADO",
+      "fecha": "2026-06-22T13:54:38.000Z"
+    },
+    {
+      "numero": "3816261358",
+      "canal": "Personalmente",
+      "nombre": "Alincastro, Carlos",
+      "telefono": "3816261358",
+      "email": "",
+      "direccion": "Jujuy 2200",
+      "lat": "-26.8384663",
+      "lon": "-65.2130703",
+      "distrito": 10,
+      "sentimiento": "neutro",
+      "asunto": "Arrojar productos contaminantes",
+      "area": "Salud Ambiental",
+      "estado": "INICIADO",
+      "fecha": "2026-06-22T13:50:20.000Z"
+    },
+    {
       "numero": "3815052708",
       "canal": "Aplicación Móvil",
       "nombre": "Emma Simone  Aguirre",
@@ -37161,24 +37193,24 @@
   ],
   "pedidos": {
     "bot": 0,
-    "bam": 25,
+    "bam": 40,
     "completados": 0,
-    "pendientes": 25
+    "pendientes": 40
   },
   "reclamos": {
-    "total": 3184,
-    "iniciados": 21,
-    "en_proceso": 1338,
+    "total": 3186,
+    "iniciados": 22,
+    "en_proceso": 1339,
     "finalizados": 1789,
     "derivados": 36
   },
   "canales": {
     "WhatsApp Ambiente": 2458,
+    "Chat Center (Call Center)": 8,
+    "Personalmente": 2,
     "Aplicación Móvil": 9,
-    "Personalmente": 1,
-    "Chat Center (Call Center)": 7,
     "Teléfono": 1
   },
-  "totalVecinos": 2476,
-  "actualizado": "2026-06-22T13:30:29.577Z"
+  "totalVecinos": 2478,
+  "actualizado": "2026-06-22T14:00:22.419Z"
 }
