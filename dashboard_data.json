@@ -27528,17 +27528,17 @@
     {
       "numero": "5493812391005",
       "celular": "5493812391005",
-      "nombre": "Flores Elvira del Valle",
-      "direccion": " 9 de julio  3200",
+      "nombre": "Elvira Flores",
+      "direccion": "3102, 9 de Julio de 1816, Villa Angelina, Ex Ingenio Amalia, San Miguel de Tucumán, Departamento Capital, Tucumán, T4000, Argentina",
       "sentimiento": "neutro",
       "canal": "WhatsApp Ambiente",
       "fecha": "2026-02-11",
       "mensaje": "Hola Flores! Te escribimos desde el equipo de la Municipalidad de San Miguel de Tucumán. Sabemos que en algún momento te comunicaste con nosotros en  9 de julio  3200. Queremos estar cerca de los vecinos y saber si hay algo en lo que podamos ayudarte 😊",
-      "telefono": " 381 239-1005",
+      "telefono": "381 239-1005",
       "email": "",
-      "lat": "-26.8910858",
-      "lon": "-65.2261253",
-      "distrito": 20
+      "lat": "-26.872878959371054",
+      "lon": "-65.21476531941391",
+      "distrito": 19
     },
     {
       "numero": "5493814761664",
@@ -36901,6 +36901,21 @@
       "distrito": null
     },
     {
+      "numero": "60886144299236",
+      "celular": "+54 9 3814 461-809",
+      "direccion": "",
+      "sentimiento": "neutro",
+      "mensaje": "Generar orden",
+      "fecha": "2026-06-23T13:50:29.450Z",
+      "canal": "WhatsApp Ambiente",
+      "nombre": "",
+      "telefono": "60886144299236",
+      "email": "",
+      "lat": null,
+      "lon": null,
+      "distrito": null
+    },
+    {
       "numero": "3814753910",
       "canal": "Chat Center (Call Center)",
       "nombre": "Nelly viviana sosa ",
@@ -37324,19 +37339,19 @@
     "pendientes": 3
   },
   "reclamos": {
-    "total": 3170,
-    "iniciados": 21,
+    "total": 3171,
+    "iniciados": 22,
     "en_proceso": 1345,
     "finalizados": 1769,
     "derivados": 35
   },
   "canales": {
-    "WhatsApp Ambiente": 2460,
+    "WhatsApp Ambiente": 2461,
     "Chat Center (Call Center)": 12,
     "Aplicación Móvil": 10,
     "Personalmente": 3,
     "Teléfono": 1
   },
-  "totalVecinos": 2486,
-  "actualizado": "2026-06-23T13:50:14.557Z"
+  "totalVecinos": 2487,
+  "actualizado": "2026-06-23T14:00:04.512Z"
 }
