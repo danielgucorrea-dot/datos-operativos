@@ -36871,6 +36871,21 @@
       "distrito": null
     },
     {
+      "numero": "60886144299236",
+      "celular": "+54 9 3814 461-809",
+      "direccion": "",
+      "sentimiento": "neutro",
+      "mensaje": "Generar orden 23/06",
+      "fecha": "2026-06-23T13:22:47.892Z",
+      "canal": "WhatsApp Ambiente",
+      "nombre": "",
+      "telefono": "60886144299236",
+      "email": "",
+      "lat": null,
+      "lon": null,
+      "distrito": null
+    },
+    {
       "numero": "3816881398",
       "canal": "Chat Center (Call Center)",
       "nombre": "3816881398",
@@ -37257,9 +37272,9 @@
   ],
   "pedidos": {
     "bot": 0,
-    "bam": 34,
+    "bam": 36,
     "completados": 0,
-    "pendientes": 34
+    "pendientes": 36
   },
   "reclamos": {
     "total": 3168,
@@ -37269,12 +37284,12 @@
     "derivados": 34
   },
   "canales": {
-    "WhatsApp Ambiente": 2458,
+    "WhatsApp Ambiente": 2459,
     "Chat Center (Call Center)": 10,
     "Aplicación Móvil": 10,
     "Personalmente": 3,
     "Teléfono": 1
   },
-  "totalVecinos": 2482,
-  "actualizado": "2026-06-23T13:22:32.187Z"
+  "totalVecinos": 2483,
+  "actualizado": "2026-06-23T13:30:47.078Z"
 }
