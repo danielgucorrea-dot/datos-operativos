@@ -5088,17 +5088,17 @@
     {
       "numero": "5493815810069",
       "celular": "5493815810069",
-      "nombre": "Diego Soraire",
+      "nombre": "",
       "direccion": "Silvano Bores 200",
       "sentimiento": "neutro",
       "canal": "WhatsApp Ambiente",
       "fecha": "2026-06-17",
       "mensaje": "Hola Diego! Te escribimos desde el equipo de la Municipalidad de San Miguel de Tucumán. Sabemos que en algún momento te comunicaste con nosotros en Silvano Bores 200. Queremos estar cerca de los vecinos y saber si hay algo en lo que podamos ayudarte 😊",
-      "telefono": " 381 581-0069",
+      "telefono": "5493815810069",
       "email": "",
-      "lat": "-26.8426504",
-      "lon": "-65.182687",
-      "distrito": 11
+      "lat": null,
+      "lon": null,
+      "distrito": null
     },
     {
       "numero": "5493816665953",
@@ -5193,17 +5193,17 @@
     {
       "numero": "5493872592552",
       "celular": "5493872592552",
-      "nombre": "Adrian Zenavilla",
+      "nombre": "",
       "direccion": "Jose C. Paz, Belgrano, Villa Luján, San Miguel de Tucumán, Departamento Capital, Tucumán, T4000, Argentina",
       "sentimiento": "neutro",
       "canal": "WhatsApp Ambiente",
       "fecha": "2026-06-17",
       "mensaje": "Hola Adrian! Te escribimos desde el equipo de la Municipalidad de San Miguel de Tucumán. Sabemos que en algún momento te comunicaste con nosotros en Jose C. Paz, Belgrano, Villa Luján, San Miguel de Tucumán, Departamento Capital, Tucumán, T4000, Argentina. Queremos estar cerca de los vecinos y saber si hay algo en lo que podamos ayudarte 😊",
-      "telefono": " 387 259-2552",
+      "telefono": "5493872592552",
       "email": "",
-      "lat": "-26.823367828921395",
-      "lon": "-65.24389754633498",
-      "distrito": 9
+      "lat": null,
+      "lon": null,
+      "distrito": null
     },
     {
       "numero": "5493814478421",
@@ -36916,6 +36916,21 @@
       "distrito": null
     },
     {
+      "numero": "60886144299236",
+      "celular": "+54 9 3814 461-809",
+      "direccion": "",
+      "sentimiento": "neutro",
+      "mensaje": "Generar orden",
+      "fecha": "2026-06-23T14:05:07.638Z",
+      "canal": "WhatsApp Ambiente",
+      "nombre": "",
+      "telefono": "60886144299236",
+      "email": "",
+      "lat": null,
+      "lon": null,
+      "distrito": null
+    },
+    {
       "numero": "3814753910",
       "canal": "Chat Center (Call Center)",
       "nombre": "Nelly viviana sosa ",
@@ -36927,8 +36942,8 @@
       "distrito": 13,
       "sentimiento": "neutro",
       "asunto": "Basura en vía pública",
-      "area": "Ambiente",
-      "estado": "INICIADO",
+      "area": "Secretaría de Ambiente",
+      "estado": "EN PROCESO",
       "fecha": "2026-06-23T13:42:27.000Z"
     },
     {
@@ -36944,7 +36959,7 @@
       "sentimiento": "neutro",
       "asunto": "Recolección de residuos sin realizar",
       "area": "Secretaría de Ambiente",
-      "estado": "DERIVADO",
+      "estado": "EN PROCESO",
       "fecha": "2026-06-23T11:30:39.000Z"
     },
     {
@@ -36976,7 +36991,7 @@
       "sentimiento": "neutro",
       "asunto": "Basura en vía pública",
       "area": "Secretaría de Ambiente",
-      "estado": "EN PROCESO",
+      "estado": "FINALIZADO",
       "fecha": "2026-06-22T17:07:36.000Z"
     },
     {
@@ -37236,22 +37251,6 @@
       "fecha": "2026-06-19T15:24:25.000Z"
     },
     {
-      "numero": "3814061263",
-      "canal": "Chat Center (Call Center)",
-      "nombre": "Nuñez Jessica Mabel",
-      "telefono": "3814061263",
-      "email": "",
-      "direccion": "Williams Bliss, Comuna de San Felipe y Santa Bárbara, Barrio Policial, San Miguel de Tucumán, Departamento Lules, Tucumán, T4128, Argentina",
-      "lat": "-26.872780746155428",
-      "lon": "-65.23924701076709",
-      "distrito": 18,
-      "sentimiento": "neutro",
-      "asunto": "Quejas y/o sugerencias",
-      "area": "Bromatología",
-      "estado": "INICIADO",
-      "fecha": "2026-06-19T14:49:41.000Z"
-    },
-    {
       "numero": "3814142346",
       "canal": "Chat Center (Call Center)",
       "nombre": "Vinet Andrea ",
@@ -37263,8 +37262,8 @@
       "distrito": 9,
       "sentimiento": "neutro",
       "asunto": "Quejas y/o sugerencias",
-      "area": "Bromatología",
-      "estado": "INICIADO",
+      "area": "Ambiente",
+      "estado": "DERIVADO",
       "fecha": "2026-06-19T14:41:48.000Z"
     },
     {
@@ -37334,24 +37333,24 @@
   ],
   "pedidos": {
     "bot": 0,
-    "bam": 3,
+    "bam": 12,
     "completados": 0,
-    "pendientes": 3
+    "pendientes": 12
   },
   "reclamos": {
-    "total": 3171,
-    "iniciados": 22,
-    "en_proceso": 1345,
-    "finalizados": 1769,
-    "derivados": 35
+    "total": 3168,
+    "iniciados": 14,
+    "en_proceso": 1333,
+    "finalizados": 1787,
+    "derivados": 34
   },
   "canales": {
-    "WhatsApp Ambiente": 2461,
-    "Chat Center (Call Center)": 12,
+    "WhatsApp Ambiente": 2462,
+    "Chat Center (Call Center)": 11,
     "Aplicación Móvil": 10,
     "Personalmente": 3,
     "Teléfono": 1
   },
   "totalVecinos": 2487,
-  "actualizado": "2026-06-23T14:04:54.342Z"
+  "actualizado": "2026-06-23T14:30:06.202Z"
 }
