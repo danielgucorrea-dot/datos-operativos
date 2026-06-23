@@ -20899,7 +20899,7 @@
       "numero": "5493815308487",
       "celular": "5493815308487",
       "nombre": "Diego Sebastián  Córdoba ",
-      "direccion": "Calle Santa Monica 2198, San Miguel de Tucumán, Tucumán",
+      "direccion": "Calle Santa Monica 2198, San Miguel de Tucum��n, Tucumán",
       "sentimiento": "neutro",
       "canal": "WhatsApp Ambiente",
       "fecha": "2026-03-19",
@@ -36886,6 +36886,22 @@
       "distrito": null
     },
     {
+      "numero": "3812200920",
+      "canal": "Chat Center (Call Center)",
+      "nombre": "LEDESMA WALTER",
+      "telefono": "3812200920",
+      "email": "",
+      "direccion": "586 Crisóstomo Álvarez, Centro, San Miguel de Tucumán, Departamento Capital, Tucumán, T4000, Argentina",
+      "lat": "-26.831928723740486",
+      "lon": "-65.20635678966454",
+      "distrito": 10,
+      "sentimiento": "neutro",
+      "asunto": "Recolección de residuos sin realizar",
+      "area": "Secretaría de Ambiente",
+      "estado": "DERIVADO",
+      "fecha": "2026-06-23T11:30:39.000Z"
+    },
+    {
       "numero": "3816881398",
       "canal": "Chat Center (Call Center)",
       "nombre": "3816881398",
@@ -37277,19 +37293,19 @@
     "pendientes": 36
   },
   "reclamos": {
-    "total": 3168,
+    "total": 3169,
     "iniciados": 20,
     "en_proceso": 1345,
     "finalizados": 1769,
-    "derivados": 34
+    "derivados": 35
   },
   "canales": {
     "WhatsApp Ambiente": 2459,
-    "Chat Center (Call Center)": 10,
+    "Chat Center (Call Center)": 11,
     "Aplicación Móvil": 10,
     "Personalmente": 3,
     "Teléfono": 1
   },
-  "totalVecinos": 2483,
-  "actualizado": "2026-06-23T13:30:47.078Z"
+  "totalVecinos": 2484,
+  "actualizado": "2026-06-23T13:34:07.248Z"
 }
