@@ -36886,6 +36886,21 @@
       "distrito": null
     },
     {
+      "numero": "60886144299236",
+      "celular": "+54 9 3814 461-809",
+      "direccion": "",
+      "sentimiento": "neutro",
+      "mensaje": "Generar orden",
+      "fecha": "2026-06-23T13:38:51.419Z",
+      "canal": "WhatsApp Ambiente",
+      "nombre": "",
+      "telefono": "60886144299236",
+      "email": "",
+      "lat": null,
+      "lon": null,
+      "distrito": null
+    },
+    {
       "numero": "3812200920",
       "canal": "Chat Center (Call Center)",
       "nombre": "LEDESMA WALTER",
@@ -37300,12 +37315,12 @@
     "derivados": 35
   },
   "canales": {
-    "WhatsApp Ambiente": 2459,
+    "WhatsApp Ambiente": 2460,
     "Chat Center (Call Center)": 11,
     "Aplicación Móvil": 10,
     "Personalmente": 3,
     "Teléfono": 1
   },
-  "totalVecinos": 2484,
-  "actualizado": "2026-06-23T13:37:50.599Z"
+  "totalVecinos": 2485,
+  "actualizado": "2026-06-23T13:40:17.483Z"
 }
