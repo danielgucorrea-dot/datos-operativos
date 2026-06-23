@@ -36942,8 +36942,8 @@
       "distrito": 4,
       "sentimiento": "neutro",
       "asunto": "Basura en vía pública",
-      "area": "Ambiente",
-      "estado": "INICIADO",
+      "area": "Secretaría de Ambiente",
+      "estado": "EN PROCESO",
       "fecha": "2026-06-23T15:26:13.000Z"
     },
     {
@@ -37349,15 +37349,15 @@
   ],
   "pedidos": {
     "bot": 0,
-    "bam": 25,
+    "bam": 34,
     "completados": 0,
-    "pendientes": 25
+    "pendientes": 34
   },
   "reclamos": {
     "total": 3169,
-    "iniciados": 14,
-    "en_proceso": 1280,
-    "finalizados": 1842,
+    "iniciados": 11,
+    "en_proceso": 1255,
+    "finalizados": 1870,
     "derivados": 33
   },
   "canales": {
@@ -37368,5 +37368,5 @@
     "Teléfono": 1
   },
   "totalVecinos": 2488,
-  "actualizado": "2026-06-23T15:30:05.251Z"
+  "actualizado": "2026-06-23T15:53:07.868Z"
 }
