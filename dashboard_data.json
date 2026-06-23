@@ -37333,15 +37333,15 @@
   ],
   "pedidos": {
     "bot": 0,
-    "bam": 12,
+    "bam": 18,
     "completados": 0,
-    "pendientes": 12
+    "pendientes": 18
   },
   "reclamos": {
     "total": 3168,
     "iniciados": 14,
-    "en_proceso": 1333,
-    "finalizados": 1787,
+    "en_proceso": 1306,
+    "finalizados": 1814,
     "derivados": 34
   },
   "canales": {
@@ -37352,5 +37352,5 @@
     "Teléfono": 1
   },
   "totalVecinos": 2487,
-  "actualizado": "2026-06-23T14:30:06.202Z"
+  "actualizado": "2026-06-23T15:00:05.246Z"
 }
