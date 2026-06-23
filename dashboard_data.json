@@ -20899,7 +20899,7 @@
       "numero": "5493815308487",
       "celular": "5493815308487",
       "nombre": "Diego Sebastián  Córdoba ",
-      "direccion": "Calle Santa Monica 2198, San Miguel de Tucum��n, Tucumán",
+      "direccion": "Calle Santa Monica 2198, San Miguel de Tucumán, Tucumán",
       "sentimiento": "neutro",
       "canal": "WhatsApp Ambiente",
       "fecha": "2026-03-19",
@@ -36901,6 +36901,22 @@
       "distrito": null
     },
     {
+      "numero": "3814753910",
+      "canal": "Chat Center (Call Center)",
+      "nombre": "Nelly viviana sosa ",
+      "telefono": "3814753910",
+      "email": "",
+      "direccion": "Pasaje B. Aguirre, Ampliación Ciudadela, 24 de septiembre, San Miguel de Tucumán, Departamento Capital, Tucumán, T4000, Argentina",
+      "lat": "-26.838585121389904",
+      "lon": "-65.23694430500682",
+      "distrito": 13,
+      "sentimiento": "neutro",
+      "asunto": "Basura en vía pública",
+      "area": "Ambiente",
+      "estado": "INICIADO",
+      "fecha": "2026-06-23T13:42:27.000Z"
+    },
+    {
       "numero": "3812200920",
       "canal": "Chat Center (Call Center)",
       "nombre": "LEDESMA WALTER",
@@ -37308,19 +37324,19 @@
     "pendientes": 3
   },
   "reclamos": {
-    "total": 3169,
-    "iniciados": 20,
+    "total": 3170,
+    "iniciados": 21,
     "en_proceso": 1345,
     "finalizados": 1769,
     "derivados": 35
   },
   "canales": {
     "WhatsApp Ambiente": 2460,
-    "Chat Center (Call Center)": 11,
+    "Chat Center (Call Center)": 12,
     "Aplicación Móvil": 10,
     "Personalmente": 3,
     "Teléfono": 1
   },
-  "totalVecinos": 2485,
-  "actualizado": "2026-06-23T13:40:17.483Z"
+  "totalVecinos": 2486,
+  "actualizado": "2026-06-23T13:50:04.409Z"
 }
