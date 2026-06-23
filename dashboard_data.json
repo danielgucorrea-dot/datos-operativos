@@ -37288,9 +37288,9 @@
   ],
   "pedidos": {
     "bot": 0,
-    "bam": 36,
+    "bam": 3,
     "completados": 0,
-    "pendientes": 36
+    "pendientes": 3
   },
   "reclamos": {
     "total": 3169,
@@ -37307,5 +37307,5 @@
     "Teléfono": 1
   },
   "totalVecinos": 2484,
-  "actualizado": "2026-06-23T13:34:07.248Z"
+  "actualizado": "2026-06-23T13:37:50.599Z"
 }
