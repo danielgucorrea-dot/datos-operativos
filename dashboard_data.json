@@ -36931,6 +36931,22 @@
       "distrito": null
     },
     {
+      "numero": " 381 587-8364",
+      "canal": "Chat Center (Call Center)",
+      "nombre": "Escobar Agustin",
+      "telefono": " 381 587-8364",
+      "email": "",
+      "direccion": "Avenida Ejército del Norte, Alberdi Norte, Vial 1, San Miguel de Tucumán, Departamento Capital, Tucumán, T4000, Argentina",
+      "lat": "-26.804288507035242",
+      "lon": "-65.22647981349304",
+      "distrito": 4,
+      "sentimiento": "neutro",
+      "asunto": "Basura en vía pública",
+      "area": "Ambiente",
+      "estado": "INICIADO",
+      "fecha": "2026-06-23T15:26:13.000Z"
+    },
+    {
       "numero": "3814753910",
       "canal": "Chat Center (Call Center)",
       "nombre": "Nelly viviana sosa ",
@@ -37055,7 +37071,7 @@
       "sentimiento": "neutro",
       "asunto": "Arrojar productos contaminantes",
       "area": "Salud Ambiental",
-      "estado": "DERIVADO",
+      "estado": "FINALIZADO",
       "fecha": "2026-06-22T13:50:20.000Z"
     },
     {
@@ -37333,24 +37349,24 @@
   ],
   "pedidos": {
     "bot": 0,
-    "bam": 18,
+    "bam": 25,
     "completados": 0,
-    "pendientes": 18
+    "pendientes": 25
   },
   "reclamos": {
-    "total": 3168,
+    "total": 3169,
     "iniciados": 14,
-    "en_proceso": 1306,
-    "finalizados": 1814,
-    "derivados": 34
+    "en_proceso": 1280,
+    "finalizados": 1842,
+    "derivados": 33
   },
   "canales": {
     "WhatsApp Ambiente": 2462,
-    "Chat Center (Call Center)": 11,
+    "Chat Center (Call Center)": 12,
     "Aplicación Móvil": 10,
     "Personalmente": 3,
     "Teléfono": 1
   },
-  "totalVecinos": 2487,
-  "actualizado": "2026-06-23T15:00:05.246Z"
+  "totalVecinos": 2488,
+  "actualizado": "2026-06-23T15:30:05.251Z"
 }
