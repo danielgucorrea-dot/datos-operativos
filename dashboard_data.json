@@ -22819,7 +22819,7 @@
       "numero": "5493815838288",
       "celular": "5493815838288",
       "nombre": "FABATA, SILVIA ESTELA DEL VALLE",
-      "direccion": "Avenida Bulnes, Modelo, San Miguel de Tucumán, Departamento Capital, Tucum��n, T4000, Argentina",
+      "direccion": "Avenida Bulnes, Modelo, San Miguel de Tucumán, Departamento Capital, Tucumán, T4000, Argentina",
       "sentimiento": "neutro",
       "canal": "WhatsApp Ambiente",
       "fecha": "2026-03-06",
@@ -24889,7 +24889,7 @@
       "numero": "5493812060081",
       "celular": "5493812060081",
       "nombre": "Celeste",
-      "direccion": "Balcarce, Villa 9 de julio, San Miguel de Tucumán, Departamento Capital, Tucum��n, T4000, Argentina",
+      "direccion": "Balcarce, Villa 9 de julio, San Miguel de Tucumán, Departamento Capital, Tucumán, T4000, Argentina",
       "sentimiento": "neutro",
       "canal": "WhatsApp Ambiente",
       "fecha": "2026-02-24",
@@ -37264,8 +37264,8 @@
   "reclamos": {
     "total": 3168,
     "iniciados": 20,
-    "en_proceso": 1349,
-    "finalizados": 1765,
+    "en_proceso": 1348,
+    "finalizados": 1766,
     "derivados": 34
   },
   "canales": {
@@ -37276,5 +37276,5 @@
     "Teléfono": 1
   },
   "totalVecinos": 2482,
-  "actualizado": "2026-06-23T12:04:44.583Z"
+  "actualizado": "2026-06-23T12:16:48.024Z"
 }
