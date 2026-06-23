@@ -37059,7 +37059,7 @@
       "sentimiento": "neutro",
       "asunto": "Ruidos molestos",
       "area": "Salud Ambiental",
-      "estado": "EN PROCESO",
+      "estado": "FINALIZADO",
       "fecha": "2026-06-20T07:48:04.000Z"
     },
     {
@@ -37264,8 +37264,8 @@
   "reclamos": {
     "total": 3168,
     "iniciados": 20,
-    "en_proceso": 1348,
-    "finalizados": 1766,
+    "en_proceso": 1345,
+    "finalizados": 1769,
     "derivados": 34
   },
   "canales": {
@@ -37276,5 +37276,5 @@
     "Teléfono": 1
   },
   "totalVecinos": 2482,
-  "actualizado": "2026-06-23T12:16:48.024Z"
+  "actualizado": "2026-06-23T12:30:48.080Z"
 }
