@@ -37549,9 +37549,9 @@
   ],
   "pedidos": {
     "bot": 0,
-    "bam": 64,
+    "bam": 67,
     "completados": 0,
-    "pendientes": 64
+    "pendientes": 67
   },
   "reclamos": {
     "total": 3165,
@@ -37567,5 +37567,5 @@
     "Personalmente": 3
   },
   "totalVecinos": 2501,
-  "actualizado": "2026-06-24T18:30:59.506Z"
+  "actualizado": "2026-06-24T19:00:47.975Z"
 }
