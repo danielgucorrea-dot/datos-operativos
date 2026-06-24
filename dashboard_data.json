@@ -36931,6 +36931,21 @@
       "distrito": null
     },
     {
+      "numero": "60886144299236",
+      "celular": "+54 9 3814 461-809",
+      "direccion": "",
+      "sentimiento": "neutro",
+      "mensaje": "Generar orden",
+      "fecha": "2026-06-23T15:53:53.345Z",
+      "canal": "WhatsApp Ambiente",
+      "nombre": "",
+      "telefono": "60886144299236",
+      "email": "",
+      "lat": null,
+      "lon": null,
+      "distrito": null
+    },
+    {
       "numero": " 381 587-8364",
       "canal": "Chat Center (Call Center)",
       "nombre": "Escobar Agustin",
@@ -37349,9 +37364,9 @@
   ],
   "pedidos": {
     "bot": 0,
-    "bam": 34,
+    "bam": 35,
     "completados": 0,
-    "pendientes": 34
+    "pendientes": 35
   },
   "reclamos": {
     "total": 3169,
@@ -37361,12 +37376,12 @@
     "derivados": 33
   },
   "canales": {
-    "WhatsApp Ambiente": 2462,
+    "WhatsApp Ambiente": 2463,
     "Chat Center (Call Center)": 12,
     "Aplicación Móvil": 10,
     "Personalmente": 3,
     "Teléfono": 1
   },
-  "totalVecinos": 2488,
-  "actualizado": "2026-06-23T15:53:40.698Z"
+  "totalVecinos": 2489,
+  "actualizado": "2026-06-24T12:02:26.891Z"
 }
