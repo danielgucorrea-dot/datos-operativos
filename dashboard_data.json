@@ -4624,15 +4624,15 @@
       "numero": "5493813011850",
       "celular": "3813011850",
       "nombre": "Julia cipolla   DNI 22.877.840",
-      "direccion": "1501, Avenida Leandro N. Alem, El Cruce, San Miguel de Tucumán, Departamento Capital, Tucumán, T4000, Argentina",
+      "direccion": "Matheu, El Cruce, San Miguel de Tucumán, Departamento Capital, Tucumán, T4000, Argentina",
       "sentimiento": "neutro",
       "canal": "WhatsApp Ambiente",
       "fecha": "2026-06-18",
       "mensaje": "Hola Julia! Te escribimos desde el equipo de la Municipalidad de San Miguel de Tucumán. Sabemos que en algún momento te comunicaste con nosotros en 1501, Avenida Leandro N. Alem, El Cruce, San Miguel de Tucumán, Departamento Capital, Tucumán, T4000, Argentina. Queremos estar cerca de los vecinos y saber si hay algo en lo que podamos ayudarte 😊",
       "telefono": "3813011850",
       "email": "",
-      "lat": "-26.848798688606692",
-      "lon": "-65.2234767431458",
+      "lat": "-26.84904996076826",
+      "lon": "-65.2216593818775",
       "distrito": 14
     },
     {
@@ -37549,13 +37549,13 @@
   ],
   "pedidos": {
     "bot": 0,
-    "bam": 86,
+    "bam": 90,
     "completados": 0,
-    "pendientes": 86
+    "pendientes": 90
   },
   "reclamos": {
-    "total": 3165,
-    "iniciados": 13,
+    "total": 3166,
+    "iniciados": 14,
     "en_proceso": 1251,
     "finalizados": 1867,
     "derivados": 34
@@ -37567,5 +37567,5 @@
     "Personalmente": 3
   },
   "totalVecinos": 2501,
-  "actualizado": "2026-06-24T20:31:00.452Z"
+  "actualizado": "2026-06-24T21:00:45.102Z"
 }
