@@ -15078,16 +15078,16 @@
     {
       "numero": "5493815508599",
       "celular": "3815508599",
-      "nombre": "Sanchez Myrian Edith",
-      "direccion": "1501, Colombia, Lucas Córdoba, San Miguel de Tucumán, Departamento Capital, Tucumán, T4000, Argentina",
+      "nombre": "Myrian Sánchez",
+      "direccion": "Lucas A. Córdoba, San Miguel de Tucumán, Departamento Capital, Tucumán, T4000, Argentina",
       "sentimiento": "neutro",
       "canal": "WhatsApp Ambiente",
       "fecha": "2026-04-20",
       "mensaje": "Hola Sanchez! Te escribimos desde el equipo de la Municipalidad de San Miguel de Tucumán. Sabemos que en algún momento te comunicaste con nosotros en 1501, Colombia, Lucas Córdoba, San Miguel de Tucumán, Departamento Capital, Tucumán, T4000, Argentina. Queremos estar cerca de los vecinos y saber si hay algo en lo que podamos ayudarte 😊",
       "telefono": "3815508599",
       "email": "",
-      "lat": "-26.80378722546014",
-      "lon": "-65.21501362274662",
+      "lat": "-26.80405535557678",
+      "lon": "-65.21545350565299",
       "distrito": 4
     },
     {
@@ -37006,6 +37006,37 @@
       "distrito": null
     },
     {
+      "numero": "150190711378047",
+      "celular": "+54 9 3815 103-782",
+      "direccion": "",
+      "sentimiento": "negativo",
+      "mensaje": "Si, necesitamos intervención ante la SAT, para que arreglen el problema de cloacas y posteriormente den una solucion a las calles, pavimento, ya que esta intransitable. Viven adultos mayores aqui, mi suegro esta en silla de ruedas, y no puede ni parar una ambulancia en la puerta porque corre riesgo de quedar atascada",
+      "fecha": "2026-06-24T13:47:00.568Z",
+      "canal": "WhatsApp Ambiente",
+      "nombre": "",
+      "telefono": "+54 9 3815 103-782",
+      "email": "",
+      "lat": null,
+      "lon": null,
+      "distrito": null
+    },
+    {
+      "numero": "3815187706",
+      "canal": "Chat Center (Call Center)",
+      "nombre": "Quinteros Juan",
+      "telefono": "3815187706",
+      "email": "",
+      "direccion": "Maipú, San Miguel de Tucumán, Departamento Capital, Tucumán, T4000, Argentina",
+      "lat": "-26.79749496790111",
+      "lon": "-65.20041906332462",
+      "distrito": 5,
+      "sentimiento": "neutro",
+      "asunto": "Basura en vía pública",
+      "area": "Secretaría de Ambiente",
+      "estado": "EN PROCESO",
+      "fecha": "2026-06-24T14:42:38.000Z"
+    },
+    {
       "numero": "3813565832",
       "canal": "Chat Center (Call Center)",
       "nombre": "ESTEBAN AGUIRRE",
@@ -37018,7 +37049,7 @@
       "sentimiento": "neutro",
       "asunto": "Ruidos molestos",
       "area": "Salud Ambiental",
-      "estado": "INICIADO",
+      "estado": "EN PROCESO",
       "fecha": "2026-06-24T11:46:04.000Z"
     },
     {
@@ -37493,18 +37524,18 @@
     "pendientes": 45
   },
   "reclamos": {
-    "total": 3161,
-    "iniciados": 13,
-    "en_proceso": 1254,
-    "finalizados": 1861,
+    "total": 3163,
+    "iniciados": 12,
+    "en_proceso": 1251,
+    "finalizados": 1867,
     "derivados": 33
   },
   "canales": {
-    "WhatsApp Ambiente": 2467,
-    "Chat Center (Call Center)": 16,
+    "WhatsApp Ambiente": 2468,
+    "Chat Center (Call Center)": 17,
     "Aplicación Móvil": 11,
     "Personalmente": 3
   },
-  "totalVecinos": 2497,
-  "actualizado": "2026-06-24T13:47:00.080Z"
+  "totalVecinos": 2499,
+  "actualizado": "2026-06-24T15:44:57.726Z"
 }
