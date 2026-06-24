@@ -36961,6 +36961,21 @@
       "distrito": null
     },
     {
+      "numero": "60886144299236",
+      "celular": "+54 9 3814 461-809",
+      "direccion": "",
+      "sentimiento": "neutro",
+      "mensaje": "Generar orden",
+      "fecha": "2026-06-24T12:04:13.854Z",
+      "canal": "WhatsApp Ambiente",
+      "nombre": "",
+      "telefono": "60886144299236",
+      "email": "",
+      "lat": null,
+      "lon": null,
+      "distrito": null
+    },
+    {
       "numero": "3813565832",
       "canal": "Chat Center (Call Center)",
       "nombre": "ESTEBAN AGUIRRE",
@@ -37455,11 +37470,11 @@
     "derivados": 33
   },
   "canales": {
-    "WhatsApp Ambiente": 2464,
+    "WhatsApp Ambiente": 2465,
     "Chat Center (Call Center)": 16,
     "Aplicación Móvil": 11,
     "Personalmente": 3
   },
-  "totalVecinos": 2494,
-  "actualizado": "2026-06-24T12:04:03.198Z"
+  "totalVecinos": 2495,
+  "actualizado": "2026-06-24T12:04:14.710Z"
 }
