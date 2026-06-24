@@ -5914,15 +5914,15 @@
       "numero": "5493814633268",
       "celular": "3814633268",
       "nombre": "Carolina  Cuadra ",
-      "direccion": "Diagonal Norte 2184, San Miguel de Tucumán, Tucumán",
+      "direccion": "Luis F. Nougués 2001, San Miguel de Tucumán, Tucumán",
       "sentimiento": "neutro",
       "canal": "WhatsApp Ambiente",
       "fecha": "2026-06-10",
       "mensaje": "Hola Carolina! Te escribimos desde el equipo de la Municipalidad de San Miguel de Tucumán. Sabemos que en algún momento te comunicaste con nosotros en Diagonal Norte 2184, San Miguel de Tucumán, Tucumán. Queremos estar cerca de los vecinos y saber si hay algo en lo que podamos ayudarte 😊",
       "telefono": "3814633268",
       "email": "cuadracarolina12@gmail.com",
-      "lat": "-26.804384158278108",
-      "lon": "-65.18124371767044",
+      "lat": "-26.80615660897679",
+      "lon": "-65.18613003194332",
       "distrito": 7
     },
     {
@@ -37539,8 +37539,8 @@
     "pendientes": 61
   },
   "reclamos": {
-    "total": 3164,
-    "iniciados": 12,
+    "total": 3165,
+    "iniciados": 13,
     "en_proceso": 1251,
     "finalizados": 1867,
     "derivados": 34
@@ -37552,5 +37552,5 @@
     "Personalmente": 3
   },
   "totalVecinos": 2500,
-  "actualizado": "2026-06-24T16:30:46.656Z"
+  "actualizado": "2026-06-24T17:00:46.999Z"
 }
