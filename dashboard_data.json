@@ -34097,18 +34097,18 @@
     },
     {
       "numero": "5493813044681",
-      "celular": "381 304-4681",
-      "nombre": "Tolra María del Valle",
-      "direccion": "Colombia 2514 Entre Castelli y sargento Cabral, SAN MIGUEL DE TUCUMAN, ARGENTINA, SAN MIGUEL DE TUCUMAN, ARGENTINA",
+      "celular": "3813044681",
+      "nombre": "TOLRA MARIA DEL VALLE",
+      "direccion": "2514, Colombia, Echeverría, San Miguel de Tucumán, Departamento Capital, Tucumán, T4000, Argentina",
       "sentimiento": "neutro",
       "canal": "WhatsApp Ambiente",
       "fecha": "2026-01-07",
       "mensaje": "Hola Tolra! Te escribimos desde el equipo de la Municipalidad de San Miguel de Tucumán. Sabemos que en algún momento te comunicaste con nosotros en Colombia 2514 Entre Castelli y sargento Cabral, SAN MIGUEL DE TUCUMAN, ARGENTINA, SAN MIGUEL DE TUCUMAN, ARGENTINA. Queremos estar cerca de los vecinos y saber si hay algo en lo que podamos ayudarte 😊",
-      "telefono": "381 304-4681",
+      "telefono": "3813044681",
       "email": "",
-      "lat": "-26.8388",
-      "lon": "-65.2063",
-      "distrito": 10
+      "lat": "-26.800952397721083",
+      "lon": "-65.22948980500863",
+      "distrito": 3
     },
     {
       "numero": "5493812029964",
@@ -37524,11 +37524,11 @@
     "pendientes": 60
   },
   "reclamos": {
-    "total": 3163,
+    "total": 3164,
     "iniciados": 12,
     "en_proceso": 1251,
     "finalizados": 1867,
-    "derivados": 33
+    "derivados": 34
   },
   "canales": {
     "WhatsApp Ambiente": 2468,
@@ -37537,5 +37537,5 @@
     "Personalmente": 3
   },
   "totalVecinos": 2499,
-  "actualizado": "2026-06-24T15:51:42.049Z"
+  "actualizado": "2026-06-24T15:56:51.880Z"
 }
