@@ -2702,14 +2702,14 @@
     },
     {
       "numero": "69913528004734",
-      "celular": "",
+      "celular": "+54 9 3816 803-448",
       "nombre": "",
       "direccion": "jo. \nDomicilio Belisario Roldan 183",
       "sentimiento": "neutro",
       "canal": "WhatsApp Ambiente",
       "fecha": "2026-03-26",
       "mensaje": "Hola! Te escribimos desde el equipo de la Municipalidad de San Miguel de Tucumán. Sabemos que en algún momento te comunicaste con nosotros en jo. \nDomicilio Belisario Roldan 183. Queremos estar cerca de los vecinos y saber si hay algo en lo que podamos ayudarte 😊",
-      "telefono": "",
+      "telefono": "+54 9 3816 803-448",
       "email": "",
       "lat": null,
       "lon": null,
@@ -37549,9 +37549,9 @@
   ],
   "pedidos": {
     "bot": 0,
-    "bam": 75,
+    "bam": 81,
     "completados": 0,
-    "pendientes": 75
+    "pendientes": 81
   },
   "reclamos": {
     "total": 3165,
@@ -37567,5 +37567,5 @@
     "Personalmente": 3
   },
   "totalVecinos": 2501,
-  "actualizado": "2026-06-24T19:31:00.022Z"
+  "actualizado": "2026-06-24T20:00:44.717Z"
 }
