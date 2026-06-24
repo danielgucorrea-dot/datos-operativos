@@ -4292,14 +4292,14 @@
     },
     {
       "numero": "108306408448032",
-      "celular": "",
+      "celular": "+54 9 3815 125-093",
       "nombre": "",
       "direccion": "pondrían en el barrio y el pedido d autorizac",
       "sentimiento": "neutro",
       "canal": "WhatsApp Ambiente",
       "fecha": "2026-03-20",
       "mensaje": "Hola! Te escribimos desde el equipo de la Municipalidad de San Miguel de Tucumán. Sabemos que en algún momento te comunicaste con nosotros en pondrían en el barrio y el pedido d autorizac. Queremos estar cerca de los vecinos y saber si hay algo en lo que podamos ayudarte 😊",
-      "telefono": "",
+      "telefono": "+54 9 3815 125-093",
       "email": "",
       "lat": null,
       "lon": null,
@@ -37549,9 +37549,9 @@
   ],
   "pedidos": {
     "bot": 0,
-    "bam": 61,
+    "bam": 64,
     "completados": 0,
-    "pendientes": 61
+    "pendientes": 64
   },
   "reclamos": {
     "total": 3165,
@@ -37567,5 +37567,5 @@
     "Personalmente": 3
   },
   "totalVecinos": 2501,
-  "actualizado": "2026-06-24T18:00:59.323Z"
+  "actualizado": "2026-06-24T18:30:49.730Z"
 }
