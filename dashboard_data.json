@@ -37051,6 +37051,21 @@
       "distrito": null
     },
     {
+      "numero": "60886144299236",
+      "celular": "+54 9 3814 461-809",
+      "direccion": "",
+      "sentimiento": "neutro",
+      "mensaje": "Hola",
+      "fecha": "2026-06-24T23:05:10.564Z",
+      "canal": "WhatsApp Ambiente",
+      "nombre": "",
+      "telefono": "+54 9 3814 461-809",
+      "email": "",
+      "lat": null,
+      "lon": null,
+      "distrito": null
+    },
+    {
       "numero": "3815187706",
       "canal": "Chat Center (Call Center)",
       "nombre": "Quinteros Juan",
@@ -37561,11 +37576,11 @@
     "derivados": 34
   },
   "canales": {
-    "WhatsApp Ambiente": 2470,
+    "WhatsApp Ambiente": 2471,
     "Chat Center (Call Center)": 17,
     "Aplicación Móvil": 11,
     "Personalmente": 3
   },
-  "totalVecinos": 2501,
-  "actualizado": "2026-06-24T23:04:57.512Z"
+  "totalVecinos": 2502,
+  "actualizado": "2026-06-24T23:30:01.988Z"
 }
