@@ -10249,7 +10249,7 @@
       "numero": "5493816116055",
       "celular": "3816116055",
       "nombre": "Salazar Paola Veronica",
-      "direccion": "50, Necochea, Jardín, Villa Luján, San Miguel de Tucumán, Departamento Capital, Tucumán, 4000, Argentina",
+      "direccion": "50, Necochea, Jardín, Villa Luj��n, San Miguel de Tucumán, Departamento Capital, Tucumán, 4000, Argentina",
       "sentimiento": "neutro",
       "canal": "WhatsApp Ambiente",
       "fecha": "2026-05-15",
@@ -27737,17 +27737,17 @@
     },
     {
       "numero": "5493814182308",
-      "celular": "381 418-2308",
-      "nombre": "Molina Karen Mariel",
-      "direccion": "Muñecas 772",
+      "celular": "3814182308",
+      "nombre": "MOLINA KAREN",
+      "direccion": "MUÑECAS 786",
       "sentimiento": "neutro",
       "canal": "WhatsApp Ambiente",
       "fecha": "2026-02-10",
       "mensaje": "Hola Molina! Te escribimos desde el equipo de la Municipalidad de San Miguel de Tucumán. Sabemos que en algún momento te comunicaste con nosotros en Muñecas 772. Queremos estar cerca de los vecinos y saber si hay algo en lo que podamos ayudarte 😊",
-      "telefono": "381 418-2308",
+      "telefono": "3814182308",
       "email": "",
-      "lat": "-26.8202451",
-      "lon": "-65.2036816",
+      "lat": "-26.8200869",
+      "lon": "-65.2036534",
       "distrito": 10
     },
     {
@@ -37585,10 +37585,10 @@
     "pendientes": 92
   },
   "reclamos": {
-    "total": 3163,
-    "iniciados": 16,
-    "en_proceso": 1251,
-    "finalizados": 1862,
+    "total": 3164,
+    "iniciados": 12,
+    "en_proceso": 1252,
+    "finalizados": 1866,
     "derivados": 34
   },
   "canales": {
@@ -37598,5 +37598,5 @@
     "Personalmente": 3
   },
   "totalVecinos": 2503,
-  "actualizado": "2026-06-25T11:00:54.309Z"
+  "actualizado": "2026-06-25T11:45:21.132Z"
 }
