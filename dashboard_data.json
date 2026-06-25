@@ -19324,7 +19324,7 @@
       "numero": "5493815555171",
       "celular": "381 555-5171",
       "nombre": "Vitar María",
-      "direccion": "2098, Pueyrredón, SEOC, San Miguel de Tucum��n, Departamento Capital, Tucumán, T4000, Argentina",
+      "direccion": "2098, Pueyrredón, SEOC, San Miguel de Tucumán, Departamento Capital, Tucumán, T4000, Argentina",
       "sentimiento": "neutro",
       "canal": "WhatsApp Ambiente",
       "fecha": "2026-03-30",
@@ -35059,15 +35059,15 @@
       "numero": "5493816563157",
       "celular": "3816563157",
       "nombre": "JOSE LUIS TISONE",
-      "direccion": "Próspero García 81, Municipalidad de San Miguel De Tucuman, Tucumán",
+      "direccion": "Gobernador Celedonio Gutiérrez 800–898, Municipalidad de San Miguel De Tucuman, Tucumán",
       "sentimiento": "neutro",
       "canal": "WhatsApp Ambiente",
       "fecha": "2025-12-31",
       "mensaje": "Hola Jose! Te escribimos desde el equipo de la Municipalidad de San Miguel de Tucumán. Sabemos que en algún momento te comunicaste con nosotros en Próspero García 81, Municipalidad de San Miguel De Tucuman, Tucumán. Queremos estar cerca de los vecinos y saber si hay algo en lo que podamos ayudarte 😊",
       "telefono": "3816563157",
       "email": "infofcn@gmail.com",
-      "lat": "-26.821831551669433",
-      "lon": "-65.1931356266141",
+      "lat": "-26.82163078487332",
+      "lon": "-65.19283052533865",
       "distrito": 10
     },
     {
@@ -37066,6 +37066,38 @@
       "distrito": null
     },
     {
+      "numero": "381 -  5239417",
+      "canal": "Chat Center (Call Center)",
+      "nombre": "Dominguez Elvira ",
+      "telefono": "381 -  5239417",
+      "email": "",
+      "direccion": "Universidad Nacional de Tucuman, Frías Silva, Victoria, 24 de septiembre, San Miguel de Tucumán, Departamento Capital, Tucumán, T4000, Argentina",
+      "lat": "-26.840872517772876",
+      "lon": "-65.22888373542854",
+      "distrito": 14,
+      "sentimiento": "neutro",
+      "asunto": "Basura en vía pública",
+      "area": "Ambiente",
+      "estado": "INICIADO",
+      "fecha": "2026-06-25T14:38:26.000Z"
+    },
+    {
+      "numero": "3812019203",
+      "canal": "Personalmente",
+      "nombre": "karina salomon",
+      "telefono": "3812019203",
+      "email": "",
+      "direccion": "526, Avenida Independencia, Villa Alem, San Miguel de Tucumán, Departamento Capital, Tucumán, T4000, Argentina",
+      "lat": "-26.848569709102733",
+      "lon": "-65.2094873490935",
+      "distrito": 15,
+      "sentimiento": "neutro",
+      "asunto": "Quema de basura en vía pública",
+      "area": "Ambiente",
+      "estado": "DERIVADO",
+      "fecha": "2026-06-25T14:37:00.000Z"
+    },
+    {
       "numero": "381 557-3421",
       "canal": "Chat Center (Call Center)",
       "nombre": "Juan Oscar Barraza ",
@@ -37080,6 +37112,22 @@
       "area": "Ambiente",
       "estado": "INICIADO",
       "fecha": "2026-06-25T13:07:51.000Z"
+    },
+    {
+      "numero": "3814699733",
+      "canal": "Chat Center (Call Center)",
+      "nombre": "Ledesma Macarena",
+      "telefono": "3814699733",
+      "email": "",
+      "direccion": "  Larrea 1998",
+      "lat": "-26.8412528",
+      "lon": "-65.2609993",
+      "distrito": 12,
+      "sentimiento": "neutro",
+      "asunto": "Recolección de residuos sin realizar",
+      "area": "Secretaría de Ambiente",
+      "estado": "DERIVADO",
+      "fecha": "2026-06-25T13:03:29.000Z"
     },
     {
       "numero": "3814182299",
@@ -37628,23 +37676,23 @@
   ],
   "pedidos": {
     "bot": 0,
-    "bam": 136,
+    "bam": 138,
     "completados": 0,
-    "pendientes": 136
+    "pendientes": 138
   },
   "reclamos": {
-    "total": 3167,
-    "iniciados": 14,
+    "total": 3171,
+    "iniciados": 15,
     "en_proceso": 1252,
     "finalizados": 1866,
-    "derivados": 35
+    "derivados": 38
   },
   "canales": {
     "WhatsApp Ambiente": 2471,
-    "Chat Center (Call Center)": 20,
-    "Aplicación Móvil": 12,
-    "Personalmente": 3
+    "Chat Center (Call Center)": 22,
+    "Personalmente": 4,
+    "Aplicación Móvil": 12
   },
-  "totalVecinos": 2506,
-  "actualizado": "2026-06-25T14:18:36.231Z"
+  "totalVecinos": 2509,
+  "actualizado": "2026-06-25T15:06:05.773Z"
 }
