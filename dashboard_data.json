@@ -10159,7 +10159,7 @@
       "numero": "5493813393909",
       "celular": "3813393909",
       "nombre": "Romina Ibarra",
-      "direccion": "Calle P��o Xii 1860, San Miguel de Tucumán, Tucumán",
+      "direccion": "Calle Pío Xii 1860, San Miguel de Tucumán, Tucumán",
       "sentimiento": "neutro",
       "canal": "WhatsApp Ambiente",
       "fecha": "2026-05-16",
@@ -18093,17 +18093,17 @@
     {
       "numero": "5493813426450",
       "celular": "3813426450",
-      "nombre": "Lucas costa",
-      "direccion": "Marina alfaro 1430",
+      "nombre": "FRANCISCO  ARIAS",
+      "direccion": "Avenida Marina Alfaro 1430, San Miguel de Tucumán, Tucumán",
       "sentimiento": "neutro",
       "canal": "WhatsApp Ambiente",
       "fecha": "2026-04-06",
       "mensaje": "Hola Lucas! Te escribimos desde el equipo de la Municipalidad de San Miguel de Tucumán. Sabemos que en algún momento te comunicaste con nosotros en Marina alfaro 1430. Queremos estar cerca de los vecinos y saber si hay algo en lo que podamos ayudarte 😊",
       "telefono": "3813426450",
-      "email": "",
-      "lat": "-26.85271672057901",
-      "lon": "-65.20205610500614",
-      "distrito": 15
+      "email": "franciscomonero77@gmail.com",
+      "lat": "-26.85278098759417",
+      "lon": "-65.20193930715322",
+      "distrito": 16
     },
     {
       "numero": "5493815500893",
@@ -28234,7 +28234,7 @@
       "numero": "5493816534864",
       "celular": " 381 653-4864",
       "nombre": "Abregu María Andrea",
-      "direccion": "Ger��nimo Helguera, Barrio San Miguel, Manantial Sur, San Miguel de Tucumán, Departamento Capital, Tucumán, T4128, Argentina",
+      "direccion": "Gerónimo Helguera, Barrio San Miguel, Manantial Sur, San Miguel de Tucumán, Departamento Capital, Tucumán, T4128, Argentina",
       "sentimiento": "neutro",
       "canal": "WhatsApp Ambiente",
       "fecha": "2026-02-09",
@@ -37709,13 +37709,13 @@
   ],
   "pedidos": {
     "bot": 0,
-    "bam": 42,
+    "bam": 44,
     "completados": 0,
-    "pendientes": 42
+    "pendientes": 44
   },
   "reclamos": {
-    "total": 3175,
-    "iniciados": 18,
+    "total": 3176,
+    "iniciados": 19,
     "en_proceso": 1253,
     "finalizados": 1866,
     "derivados": 38
@@ -37727,5 +37727,5 @@
     "Aplicación Móvil": 25
   },
   "totalVecinos": 2510,
-  "actualizado": "2026-06-25T18:30:56.496Z"
+  "actualizado": "2026-06-25T19:00:53.697Z"
 }
