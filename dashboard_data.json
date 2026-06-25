@@ -36826,6 +36826,21 @@
       "distrito": null
     },
     {
+      "numero": "262315647697148",
+      "celular": "+54 9 3812 081-709",
+      "direccion": "",
+      "sentimiento": "negativo",
+      "mensaje": "Hola para hacer un reclamo",
+      "fecha": "2026-06-25T22:35:21.835Z",
+      "canal": "WhatsApp Ambiente",
+      "nombre": "",
+      "telefono": "+54 9 3812 081-709",
+      "email": "",
+      "lat": null,
+      "lon": null,
+      "distrito": null
+    },
+    {
       "numero": "3815515252",
       "canal": "Aplicación Móvil",
       "nombre": "Carlos Alfredo  Soto",
@@ -37752,11 +37767,11 @@
     "derivados": 38
   },
   "canales": {
-    "WhatsApp Ambiente": 2455,
+    "WhatsApp Ambiente": 2456,
     "Aplicación Móvil": 26,
     "Chat Center (Call Center)": 25,
     "Personalmente": 6
   },
-  "totalVecinos": 2512,
-  "actualizado": "2026-06-25T22:35:21.805Z"
+  "totalVecinos": 2513,
+  "actualizado": "2026-06-25T22:48:33.134Z"
 }
