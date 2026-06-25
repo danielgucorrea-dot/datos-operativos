@@ -6694,15 +6694,15 @@
       "numero": "5493816140904",
       "celular": "3816140904",
       "nombre": "Miguel Angel  Rivas ",
-      "direccion": "Paraguay 850–894, Municipalidad de San Miguel De Tucuman, Tucumán",
+      "direccion": "Paraguay 981, Municipalidad de San Miguel De Tucuman, Tucumán",
       "sentimiento": "neutro",
       "canal": "WhatsApp Ambiente",
       "fecha": "2026-06-05",
       "mensaje": "Hola Miguel! Te escribimos desde el equipo de la Municipalidad de San Miguel de Tucumán. Sabemos que en algún momento te comunicaste con nosotros en Paraguay 850–894, Municipalidad de San Miguel De Tucuman, Tucumán. Queremos estar cerca de los vecinos y saber si hay algo en lo que podamos ayudarte 😊",
       "telefono": "3816140904",
       "email": "miguelitoangel-11@hotmail.com",
-      "lat": "-26.808202837881765",
-      "lon": "-65.20507011562586",
+      "lat": "-26.80785871012816",
+      "lon": "-65.20624559372663",
       "distrito": 5
     },
     {
@@ -19324,7 +19324,7 @@
       "numero": "5493815555171",
       "celular": "381 555-5171",
       "nombre": "Vitar María",
-      "direccion": "2098, Pueyrredón, SEOC, San Miguel de Tucumán, Departamento Capital, Tucumán, T4000, Argentina",
+      "direccion": "2098, Pueyrredón, SEOC, San Miguel de Tucum��n, Departamento Capital, Tucumán, T4000, Argentina",
       "sentimiento": "neutro",
       "canal": "WhatsApp Ambiente",
       "fecha": "2026-03-30",
@@ -37066,6 +37066,22 @@
       "distrito": null
     },
     {
+      "numero": "381 557-3421",
+      "canal": "Chat Center (Call Center)",
+      "nombre": "Juan Oscar Barraza ",
+      "telefono": "381 557-3421",
+      "email": "",
+      "direccion": "999, Frías Silva, Ciudadela Sur, Ciudadela, San Miguel de Tucumán, Departamento Capital, Tucumán, T4000, Argentina",
+      "lat": "-26.84103238376955",
+      "lon": "-65.2283972729855",
+      "distrito": 14,
+      "sentimiento": "neutro",
+      "asunto": "Basura en vía pública",
+      "area": "Ambiente",
+      "estado": "INICIADO",
+      "fecha": "2026-06-25T13:07:51.000Z"
+    },
+    {
       "numero": "3814182299",
       "canal": "Aplicación Móvil",
       "nombre": "AXEL GUSTAVO CABRERA",
@@ -37580,23 +37596,23 @@
   ],
   "pedidos": {
     "bot": 0,
-    "bam": 116,
+    "bam": 120,
     "completados": 0,
-    "pendientes": 116
+    "pendientes": 120
   },
   "reclamos": {
-    "total": 3165,
-    "iniciados": 12,
+    "total": 3167,
+    "iniciados": 14,
     "en_proceso": 1252,
     "finalizados": 1866,
     "derivados": 35
   },
   "canales": {
     "WhatsApp Ambiente": 2471,
+    "Chat Center (Call Center)": 18,
     "Aplicación Móvil": 12,
-    "Chat Center (Call Center)": 17,
     "Personalmente": 3
   },
-  "totalVecinos": 2503,
-  "actualizado": "2026-06-25T13:00:27.974Z"
+  "totalVecinos": 2504,
+  "actualizado": "2026-06-25T13:30:28.126Z"
 }
