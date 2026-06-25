@@ -2469,28 +2469,45 @@ async function iniciarBot() {
         return filas
     }
 
-    // Si satisfaccion.json está vacío, importar datos históricos de base_electoral.csv
+    // Si satisfaccion.json está vacío O solo tiene mensajes inventados, importar desde base_electoral.csv
     const satActual = cargarSatisfaccion()
+    const satValido = satActual.filter(s => {
+        const msg = s.mensaje || ''
+        return !msg.match(/^Hola!\s+(Te escribimos|Somos del equipo)/i)
+    })
+    // Solo reimportar si está completamente vacío (no sobreescribir datos válidos)
     if (satActual.length === 0 && fs.existsSync('base_electoral.csv')) {
         try {
             // Columnas reales del CSV: numero_envio,id_interno,nombre,direccion,sentimiento,canal,ultimo_contacto,mensaje_contacto
             const csv = fs.readFileSync('base_electoral.csv', 'utf8')
             const filas = parsearCSVCompleto(csv).slice(1) // saltar encabezado
+            const lidMapActual = cargarLidMap()
             const datos = filas.map(l => {
                 const p = parsearLineaCSV(l)
-                const numeroEnvio = (p[0] || '').trim()   // telefono real, vacio si no disponible
-                const idInterno = (p[1] || '').trim()      // ID @lid, NO es telefono
-                return {
-                    numero: idInterno || numeroEnvio, // identificador interno para referencia
-                    celular: numeroEnvio,               // SOLO el numero real; vacio si no se conoce (nunca inventado)
-                    nombre: (p[2] || '').trim(),
-                    direccion: (p[3] || '').trim(),
-                    sentimiento: (p[4] || 'neutro').trim(),
-                    canal: (p[5] || 'WhatsApp Ambiente').trim(),
-                    fecha: (p[6] || new Date().toISOString()).trim(),
-                    mensaje: (p[7] || '').trim()
+                const numeroEnvio = (p[0] || '').trim()
+                const idInterno = (p[1] || '').trim()
+                const nombre = (p[2] || '').trim()
+                const direccion = (p[3] || '').trim()
+                const sentimiento = (p[4] || 'neutro').trim()
+                const canal = (p[5] || 'WhatsApp Ambiente').trim()
+                const fecha = (p[6] || new Date().toISOString()).trim()
+                const mensajeRaw = (p[7] || '').trim()
+                // NO guardar mensajes inventados por el clasificador
+                const mensaje = /^Hola!\s+(Te escribimos|Somos del equipo)/i.test(mensajeRaw) ? '' : mensajeRaw
+
+                // Intentar resolver celular desde lid_map usando idInterno
+                let celular = numeroEnvio
+                if (!celular && idInterno) {
+                    const pnResuelto = lidMapActual[idInterno]
+                    if (pnResuelto) celular = jidANumero(idInterno + '@lid', pnResuelto + '@s.whatsapp.net')
                 }
-            }).filter(d => d.numero) // requiere al menos un identificador (real o interno)
+
+                return {
+                    numero: idInterno || numeroEnvio,
+                    celular: celular || '',
+                    nombre, direccion, sentimiento, canal, fecha, mensaje
+                }
+            }).filter(d => d.numero)
             guardarSatisfaccion(datos)
             console.log(`📊 Cargados ${datos.length} registros históricos de base_electoral.csv`)
             actualizarDashboardData()
