@@ -7309,7 +7309,7 @@
       "numero": "5493812154783",
       "celular": "3812154783",
       "nombre": "Antonia  Andrada ",
-      "direccion": "Avenida Manantial Sur 2000, San Miguel de Tucum��n, Tucumán",
+      "direccion": "Avenida Manantial Sur 2000, San Miguel de Tucumán, Tucumán",
       "sentimiento": "neutro",
       "canal": "WhatsApp Ambiente",
       "fecha": "2026-06-02",
@@ -25968,7 +25968,7 @@
     {
       "numero": "5493815664359",
       "celular": "3815664359",
-      "nombre": "Briz Anal��a ",
+      "nombre": "Briz Analía ",
       "direccion": "frías silva  700",
       "sentimiento": "neutro",
       "canal": "WhatsApp Ambiente",
@@ -36811,6 +36811,22 @@
       "distrito": null
     },
     {
+      "numero": "3816608671",
+      "canal": "Chat Center (Call Center)",
+      "nombre": "Acosta Luisa",
+      "telefono": "3816608671",
+      "email": "",
+      "direccion": "1615, Junín, Villa 9 de julio, San Miguel de Tucumán, Departamento Capital, Tucumán, T4000, Argentina",
+      "lat": "-26.808448462907187",
+      "lon": "-65.20329607264524",
+      "distrito": 5,
+      "sentimiento": "neutro",
+      "asunto": "Persona arrojando basura",
+      "area": "Ambiente",
+      "estado": "INICIADO",
+      "fecha": "2026-06-25T17:58:35.000Z"
+    },
+    {
       "numero": "3815586124",
       "canal": "Chat Center (Call Center)",
       "nombre": "Recabarren Rosana",
@@ -37693,23 +37709,23 @@
   ],
   "pedidos": {
     "bot": 0,
-    "bam": 39,
+    "bam": 40,
     "completados": 0,
-    "pendientes": 39
+    "pendientes": 40
   },
   "reclamos": {
-    "total": 3173,
-    "iniciados": 16,
+    "total": 3174,
+    "iniciados": 17,
     "en_proceso": 1253,
     "finalizados": 1866,
     "derivados": 38
   },
   "canales": {
     "WhatsApp Ambiente": 2454,
-    "Chat Center (Call Center)": 24,
+    "Chat Center (Call Center)": 25,
     "Personalmente": 6,
     "Aplicación Móvil": 25
   },
-  "totalVecinos": 2509,
-  "actualizado": "2026-06-25T17:30:56.121Z"
+  "totalVecinos": 2510,
+  "actualizado": "2026-06-25T18:00:56.331Z"
 }
