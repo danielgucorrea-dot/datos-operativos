@@ -5884,16 +5884,16 @@
       "numero": "5493814792078",
       "celular": "3814792078",
       "nombre": "Melisa Panrorrilla",
-      "direccion": "Balcarce 2450, San Miguel de Tucumán, Tucumán",
+      "direccion": "Catamarca 299, San Miguel de Tucumán, Tucumán",
       "sentimiento": "neutro",
       "canal": "WhatsApp Ambiente",
       "fecha": "2026-06-10",
       "mensaje": "Hola Melisa! Te escribimos desde el equipo de la Municipalidad de San Miguel de Tucumán. Sabemos que en algún momento te comunicaste con nosotros en Balcarce 2450, San Miguel de Tucumán, Tucumán. Queremos estar cerca de los vecinos y saber si hay algo en lo que podamos ayudarte 😊",
       "telefono": "3814792078",
       "email": "melisapan2@gmail.com",
-      "lat": "-26.799939892400097",
-      "lon": "-65.19106529653072",
-      "distrito": 6
+      "lat": "-26.8255386421473",
+      "lon": "-65.21142158657312",
+      "distrito": 10
     },
     {
       "numero": "5493815019999",
@@ -37714,8 +37714,8 @@
     "pendientes": 46
   },
   "reclamos": {
-    "total": 3176,
-    "iniciados": 19,
+    "total": 3177,
+    "iniciados": 20,
     "en_proceso": 1253,
     "finalizados": 1866,
     "derivados": 38
@@ -37727,5 +37727,5 @@
     "Aplicación Móvil": 25
   },
   "totalVecinos": 2510,
-  "actualizado": "2026-06-25T20:00:57.323Z"
+  "actualizado": "2026-06-25T20:30:54.380Z"
 }
