@@ -10249,7 +10249,7 @@
       "numero": "5493816116055",
       "celular": "3816116055",
       "nombre": "Salazar Paola Veronica",
-      "direccion": "50, Necochea, Jardín, Villa Luj��n, San Miguel de Tucumán, Departamento Capital, Tucumán, 4000, Argentina",
+      "direccion": "50, Necochea, Jardín, Villa Luján, San Miguel de Tucumán, Departamento Capital, Tucumán, 4000, Argentina",
       "sentimiento": "neutro",
       "canal": "WhatsApp Ambiente",
       "fecha": "2026-05-15",
@@ -12979,15 +12979,15 @@
       "numero": "5493815045678",
       "celular": "3815045678",
       "nombre": "NAZARENO EXEQUIEL  LEDESMA ",
-      "direccion": "Batalla de Ayacucho 1452, San Miguel de Tucumán, Tucumán",
+      "direccion": "Calle Domingo Matheu 823, San Miguel de Tucumán, Tucumán",
       "sentimiento": "neutro",
       "canal": "WhatsApp Ambiente",
       "fecha": "2026-05-03",
       "mensaje": "Hola Nazareno! Te escribimos desde el equipo de la Municipalidad de San Miguel de Tucumán. Sabemos que en algún momento te comunicaste con nosotros en Batalla de Ayacucho 1452, San Miguel de Tucumán, Tucumán. Queremos estar cerca de los vecinos y saber si hay algo en lo que podamos ayudarte 😊",
       "telefono": "3815045678",
       "email": "exequieel749@gmail.com",
-      "lat": "-26.84982202090784",
-      "lon": "-65.21428484469652",
+      "lat": "-26.850227342894623",
+      "lon": "-65.21473780274391",
       "distrito": 15
     },
     {
@@ -37580,16 +37580,16 @@
   ],
   "pedidos": {
     "bot": 0,
-    "bam": 96,
+    "bam": 106,
     "completados": 0,
-    "pendientes": 96
+    "pendientes": 106
   },
   "reclamos": {
-    "total": 3164,
+    "total": 3165,
     "iniciados": 12,
     "en_proceso": 1252,
     "finalizados": 1866,
-    "derivados": 34
+    "derivados": 35
   },
   "canales": {
     "WhatsApp Ambiente": 2471,
@@ -37598,5 +37598,5 @@
     "Personalmente": 3
   },
   "totalVecinos": 2503,
-  "actualizado": "2026-06-25T12:00:27.441Z"
+  "actualizado": "2026-06-25T12:30:27.621Z"
 }
