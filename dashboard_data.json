@@ -37709,9 +37709,9 @@
   ],
   "pedidos": {
     "bot": 0,
-    "bam": 45,
+    "bam": 46,
     "completados": 0,
-    "pendientes": 45
+    "pendientes": 46
   },
   "reclamos": {
     "total": 3176,
@@ -37727,5 +37727,5 @@
     "Aplicación Móvil": 25
   },
   "totalVecinos": 2510,
-  "actualizado": "2026-06-25T19:30:57.080Z"
+  "actualizado": "2026-06-25T20:00:54.142Z"
 }
