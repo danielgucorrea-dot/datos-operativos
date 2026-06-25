@@ -35897,33 +35897,33 @@
     },
     {
       "numero": "5493815268605",
-      "celular": "3815268605",
+      "celular": "+54 9 3815 268-605",
       "nombre": "Eliana Diaz",
       "direccion": "Constitución 243, San Miguel de Tucumán, Tucumán",
       "sentimiento": "neutro",
       "canal": "WhatsApp Ambiente",
       "fecha": "2025-12-24",
       "mensaje": "Hola Eliana! Te escribimos desde el equipo de la Municipalidad de San Miguel de Tucumán. Sabemos que en algún momento te comunicaste con nosotros en Constitución 243, San Miguel de Tucumán, Tucumán. Queremos estar cerca de los vecinos y saber si hay algo en lo que podamos ayudarte 😊",
-      "telefono": "3815268605",
-      "email": "elyda_15@hotmail.com",
-      "lat": "-26.827368805049392",
-      "lon": "-65.23772902786732",
-      "distrito": 9
+      "telefono": "+54 9 3815 268-605",
+      "email": "",
+      "lat": null,
+      "lon": null,
+      "distrito": null
     },
     {
       "numero": "5493815666233",
-      "celular": "3815666233",
-      "nombre": "Mariana  Moreira ",
+      "celular": "+54 9 3815 666-233",
+      "nombre": "Mariana  Moreira",
       "direccion": "Avenida Colón 218, San Miguel de Tucumán, Tucumán",
       "sentimiento": "neutro",
       "canal": "WhatsApp Ambiente",
       "fecha": "2025-12-24",
       "mensaje": "Hola Mariana! Te escribimos desde el equipo de la Municipalidad de San Miguel de Tucumán. Sabemos que en algún momento te comunicaste con nosotros en Avenida Colón 218, San Miguel de Tucumán, Tucumán. Queremos estar cerca de los vecinos y saber si hay algo en lo que podamos ayudarte 😊",
-      "telefono": "3815666233",
-      "email": "marianamoreirahelguera@gmail.com",
-      "lat": "-26.828167939982787",
-      "lon": "-65.23275386542082",
-      "distrito": 10
+      "telefono": "+54 9 3815 666-233",
+      "email": "",
+      "lat": null,
+      "lon": null,
+      "distrito": null
     },
     {
       "numero": "5493813541100",
@@ -37569,10 +37569,10 @@
     "pendientes": 92
   },
   "reclamos": {
-    "total": 3167,
+    "total": 3162,
     "iniciados": 15,
     "en_proceso": 1251,
-    "finalizados": 1867,
+    "finalizados": 1862,
     "derivados": 34
   },
   "canales": {
@@ -37582,5 +37582,5 @@
     "Personalmente": 3
   },
   "totalVecinos": 2502,
-  "actualizado": "2026-06-24T23:30:50.051Z"
+  "actualizado": "2026-06-25T00:00:02.241Z"
 }
