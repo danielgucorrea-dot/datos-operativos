@@ -36811,6 +36811,21 @@
       "distrito": null
     },
     {
+      "numero": "262315647697148",
+      "celular": "+54 9 3812 081-709",
+      "direccion": "",
+      "sentimiento": "neutro",
+      "mensaje": "Hola buenas noches para reclamar un basural",
+      "fecha": "2026-06-25T22:26:35.025Z",
+      "canal": "WhatsApp Ambiente",
+      "nombre": "",
+      "telefono": "+54 9 3812 081-709",
+      "email": "",
+      "lat": null,
+      "lon": null,
+      "distrito": null
+    },
+    {
       "numero": "3815515252",
       "canal": "Aplicación Móvil",
       "nombre": "Carlos Alfredo  Soto",
@@ -37737,11 +37752,11 @@
     "derivados": 38
   },
   "canales": {
-    "WhatsApp Ambiente": 2454,
+    "WhatsApp Ambiente": 2455,
     "Aplicación Móvil": 26,
     "Chat Center (Call Center)": 25,
     "Personalmente": 6
   },
-  "totalVecinos": 2511,
-  "actualizado": "2026-06-25T22:26:18.258Z"
+  "totalVecinos": 2512,
+  "actualizado": "2026-06-25T22:30:55.383Z"
 }
