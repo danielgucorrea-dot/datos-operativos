@@ -37662,14 +37662,14 @@
   ],
   "pedidos": {
     "bot": 0,
-    "bam": 38,
+    "bam": 39,
     "completados": 0,
-    "pendientes": 38
+    "pendientes": 39
   },
   "reclamos": {
     "total": 3172,
-    "iniciados": 16,
-    "en_proceso": 1252,
+    "iniciados": 15,
+    "en_proceso": 1253,
     "finalizados": 1866,
     "derivados": 38
   },
@@ -37680,5 +37680,5 @@
     "Aplicación Móvil": 25
   },
   "totalVecinos": 2507,
-  "actualizado": "2026-06-25T15:54:55.415Z"
+  "actualizado": "2026-06-25T16:00:55.419Z"
 }
