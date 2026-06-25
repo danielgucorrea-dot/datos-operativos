@@ -7309,7 +7309,7 @@
       "numero": "5493812154783",
       "celular": "3812154783",
       "nombre": "Antonia  Andrada ",
-      "direccion": "Avenida Manantial Sur 2000, San Miguel de Tucumán, Tucumán",
+      "direccion": "Avenida Manantial Sur 2000, San Miguel de Tucum��n, Tucumán",
       "sentimiento": "neutro",
       "canal": "WhatsApp Ambiente",
       "fecha": "2026-06-02",
@@ -25968,7 +25968,7 @@
     {
       "numero": "5493815664359",
       "celular": "3815664359",
-      "nombre": "Briz Analía ",
+      "nombre": "Briz Anal��a ",
       "direccion": "frías silva  700",
       "sentimiento": "neutro",
       "canal": "WhatsApp Ambiente",
@@ -36811,6 +36811,22 @@
       "distrito": null
     },
     {
+      "numero": "3815586124",
+      "canal": "Chat Center (Call Center)",
+      "nombre": "Recabarren Rosana",
+      "telefono": "3815586124",
+      "email": "",
+      "direccion": "Chacabuco, Villa Angelina, Ex Ingenio Amalia, San Miguel de Tucumán, Departamento Capital, Tucumán, T4000, Argentina",
+      "lat": "-26.86987931168007",
+      "lon": "-65.21789554683644",
+      "distrito": 19,
+      "sentimiento": "neutro",
+      "asunto": "Basura en vía pública",
+      "area": "Ambiente",
+      "estado": "INICIADO",
+      "fecha": "2026-06-25T17:30:10.000Z"
+    },
+    {
       "numero": " 381 462-0101",
       "canal": "Chat Center (Call Center)",
       "nombre": "Nilda Lopez",
@@ -37682,18 +37698,18 @@
     "pendientes": 39
   },
   "reclamos": {
-    "total": 3172,
-    "iniciados": 15,
+    "total": 3173,
+    "iniciados": 16,
     "en_proceso": 1253,
     "finalizados": 1866,
     "derivados": 38
   },
   "canales": {
     "WhatsApp Ambiente": 2454,
-    "Chat Center (Call Center)": 23,
+    "Chat Center (Call Center)": 24,
     "Personalmente": 6,
     "Aplicación Móvil": 25
   },
-  "totalVecinos": 2508,
-  "actualizado": "2026-06-25T17:00:55.855Z"
+  "totalVecinos": 2509,
+  "actualizado": "2026-06-25T17:30:56.121Z"
 }
