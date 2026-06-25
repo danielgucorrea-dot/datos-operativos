@@ -36871,6 +36871,21 @@
       "distrito": null
     },
     {
+      "numero": "201150666174589",
+      "celular": "+54 9 3815 266-329",
+      "direccion": "",
+      "sentimiento": "neutro",
+      "mensaje": "Necesito hablar con un asesor",
+      "fecha": "2026-06-25T23:02:50.512Z",
+      "canal": "WhatsApp Ambiente",
+      "nombre": "",
+      "telefono": "+54 9 3815 266-329",
+      "email": "",
+      "lat": null,
+      "lon": null,
+      "distrito": null
+    },
+    {
       "numero": "3815515252",
       "canal": "Aplicación Móvil",
       "nombre": "Carlos Alfredo  Soto",
@@ -37797,11 +37812,11 @@
     "derivados": 38
   },
   "canales": {
-    "WhatsApp Ambiente": 2458,
+    "WhatsApp Ambiente": 2459,
     "Aplicación Móvil": 26,
     "Chat Center (Call Center)": 25,
     "Personalmente": 6
   },
-  "totalVecinos": 2515,
-  "actualizado": "2026-06-25T23:00:58.269Z"
+  "totalVecinos": 2516,
+  "actualizado": "2026-06-25T23:02:51.213Z"
 }
