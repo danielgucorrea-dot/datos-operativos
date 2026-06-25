@@ -36796,6 +36796,21 @@
       "distrito": null
     },
     {
+      "numero": "60886144299236",
+      "celular": "+54 9 3814 461-809",
+      "direccion": "",
+      "sentimiento": "neutro",
+      "mensaje": "Hola",
+      "fecha": "2026-06-25T16:03:41.213Z",
+      "canal": "WhatsApp Ambiente",
+      "nombre": "",
+      "telefono": "+54 9 3814 461-809",
+      "email": "",
+      "lat": null,
+      "lon": null,
+      "distrito": null
+    },
+    {
       "numero": " 381 462-0101",
       "canal": "Chat Center (Call Center)",
       "nombre": "Nilda Lopez",
@@ -37674,11 +37689,11 @@
     "derivados": 38
   },
   "canales": {
-    "WhatsApp Ambiente": 2453,
+    "WhatsApp Ambiente": 2454,
     "Chat Center (Call Center)": 23,
     "Personalmente": 6,
     "Aplicación Móvil": 25
   },
-  "totalVecinos": 2507,
-  "actualizado": "2026-06-25T16:03:28.435Z"
+  "totalVecinos": 2508,
+  "actualizado": "2026-06-25T16:30:55.630Z"
 }
