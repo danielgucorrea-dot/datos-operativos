@@ -4232,14 +4232,14 @@
     },
     {
       "numero": "97629035843803",
-      "celular": "",
+      "celular": "+54 9 3816 787-530",
       "nombre": "",
       "direccion": "Número Karina Gómez 38148",
       "sentimiento": "neutro",
       "canal": "WhatsApp Ambiente",
       "fecha": "2026-03-20",
       "mensaje": "Hola! Te escribimos desde el equipo de la Municipalidad de San Miguel de Tucumán. Sabemos que en algún momento te comunicaste con nosotros en Número Karina Gómez 38148. Queremos estar cerca de los vecinos y saber si hay algo en lo que podamos ayudarte 😊",
-      "telefono": "",
+      "telefono": "+54 9 3816 787-530",
       "email": "",
       "lat": null,
       "lon": null,
@@ -37596,9 +37596,9 @@
   ],
   "pedidos": {
     "bot": 0,
-    "bam": 130,
+    "bam": 136,
     "completados": 0,
-    "pendientes": 130
+    "pendientes": 136
   },
   "reclamos": {
     "total": 3167,
@@ -37614,5 +37614,5 @@
     "Personalmente": 3
   },
   "totalVecinos": 2504,
-  "actualizado": "2026-06-25T14:00:08.801Z"
+  "actualizado": "2026-06-25T14:18:05.050Z"
 }
