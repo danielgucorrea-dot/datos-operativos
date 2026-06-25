@@ -36841,6 +36841,36 @@
       "distrito": null
     },
     {
+      "numero": "201150666174589",
+      "celular": "+54 9 3815 266-329",
+      "direccion": "",
+      "sentimiento": "neutro",
+      "mensaje": "Buenas noches",
+      "fecha": "2026-06-25T22:48:46.945Z",
+      "canal": "WhatsApp Ambiente",
+      "nombre": "",
+      "telefono": "+54 9 3815 266-329",
+      "email": "",
+      "lat": null,
+      "lon": null,
+      "distrito": null
+    },
+    {
+      "numero": "201150666174589",
+      "celular": "+54 9 3815 266-329",
+      "direccion": "",
+      "sentimiento": "positivo",
+      "mensaje": "Quisiera que pase el barrendero",
+      "fecha": "2026-06-25T22:49:49.866Z",
+      "canal": "WhatsApp Ambiente",
+      "nombre": "",
+      "telefono": "+54 9 3815 266-329",
+      "email": "",
+      "lat": null,
+      "lon": null,
+      "distrito": null
+    },
+    {
       "numero": "3815515252",
       "canal": "Aplicación Móvil",
       "nombre": "Carlos Alfredo  Soto",
@@ -37767,11 +37797,11 @@
     "derivados": 38
   },
   "canales": {
-    "WhatsApp Ambiente": 2456,
+    "WhatsApp Ambiente": 2458,
     "Aplicación Móvil": 26,
     "Chat Center (Call Center)": 25,
     "Personalmente": 6
   },
-  "totalVecinos": 2513,
-  "actualizado": "2026-06-25T22:48:33.134Z"
+  "totalVecinos": 2515,
+  "actualizado": "2026-06-25T22:49:50.466Z"
 }
