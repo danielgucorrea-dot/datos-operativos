@@ -18587,17 +18587,17 @@
     },
     {
       "numero": "5493815695409",
-      "celular": "381 569-5409",
-      "nombre": "Pérez Graciela",
-      "direccion": "0, Jose Gorriti, Barrio San Miguel, Manantial Sur, San Miguel de Tucumán, Departamento Capital, Tucumán, 4000, Argentina",
+      "celular": "3815695409",
+      "nombre": "Perez Graciela",
+      "direccion": "Gorriti esquina pje. Benigno Vallejos, Manantial Sur, San Miguel de Tucumán, Departamento Capital, Tucumán, T4128, Argentina",
       "sentimiento": "neutro",
       "canal": "WhatsApp Ambiente",
       "fecha": "2026-04-01",
       "mensaje": "Hola Pérez! Te escribimos desde el equipo de la Municipalidad de San Miguel de Tucumán. Sabemos que en algún momento te comunicaste con nosotros en 0, Jose Gorriti, Barrio San Miguel, Manantial Sur, San Miguel de Tucumán, Departamento Capital, Tucumán, 4000, Argentina. Queremos estar cerca de los vecinos y saber si hay algo en lo que podamos ayudarte 😊",
-      "telefono": "381 569-5409",
+      "telefono": "3815695409",
       "email": "",
-      "lat": "-26.853529695440194",
-      "lon": "-65.25678241849916",
+      "lat": "-26.854395942942553",
+      "lon": "-65.25692676025007",
       "distrito": 17
     },
     {
@@ -36811,6 +36811,22 @@
       "distrito": null
     },
     {
+      "numero": "3815515252",
+      "canal": "Aplicación Móvil",
+      "nombre": "Carlos Alfredo  Soto",
+      "telefono": "3815515252",
+      "email": "carsoto958@yahoo.com.ar",
+      "direccion": "Calle Ciudad de Madrid 432, San Miguel de Tucumán, Tucumán",
+      "lat": "-26.7967356",
+      "lon": "-65.19559699999999",
+      "distrito": 6,
+      "sentimiento": "neutro",
+      "asunto": "Basura en vía pública",
+      "area": "Ambiente",
+      "estado": "INICIADO",
+      "fecha": "2026-06-25T21:36:05.000Z"
+    },
+    {
       "numero": "3816608671",
       "canal": "Chat Center (Call Center)",
       "nombre": "Acosta Luisa",
@@ -37714,18 +37730,18 @@
     "pendientes": 46
   },
   "reclamos": {
-    "total": 3177,
-    "iniciados": 20,
+    "total": 3179,
+    "iniciados": 22,
     "en_proceso": 1253,
     "finalizados": 1866,
     "derivados": 38
   },
   "canales": {
     "WhatsApp Ambiente": 2454,
+    "Aplicación Móvil": 26,
     "Chat Center (Call Center)": 25,
-    "Personalmente": 6,
-    "Aplicación Móvil": 25
+    "Personalmente": 6
   },
-  "totalVecinos": 2510,
-  "actualizado": "2026-06-25T21:30:57.553Z"
+  "totalVecinos": 2511,
+  "actualizado": "2026-06-25T22:00:55.039Z"
 }
