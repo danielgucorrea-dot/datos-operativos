@@ -74,37 +74,11 @@ td { padding: 10px 0; border-bottom: 0.5px solid #f0f0ec; }
     <button class="logout" onclick="logout()">Salir</button>
   </div>
 
-  <div style="background:#f0f0ec;border-radius:8px;padding:10px 14px;margin-bottom:1rem;font-size:12px;color:#666;display:flex;gap:12px;flex-wrap:wrap;align-items:center;">
-    <span>📅 <strong id="periodo-label">—</strong></span>
-    <select id="sel-periodo" onchange="actualizarPeriodo()" style="font-size:12px;padding:3px 8px;border:0.5px solid #ccc;border-radius:6px;background:white;cursor:pointer;">
-      <option value="3">Últimos 3 meses</option>
-      <option value="6" selected>Últimos 6 meses</option>
-      <option value="12">Último año</option>
-    </select>
-    <span>📊 Satisfacción: solo <strong>WhatsApp Ambiente</strong></span>
-    <button onclick="descargarCSV()" style="font-size:12px;padding:4px 10px;border:0.5px solid #ccc;border-radius:6px;background:white;cursor:pointer;margin-left:auto;">⬇️ Descargar base electoral</button>
-  </div>
-
   <div class="metrics">
     <div class="metric"><div class="label">Vecinos contactados</div><div class="value" id="m-total">—</div></div>
     <div class="metric positivo"><div class="label">Satisfechos</div><div class="value" id="m-pos">—</div></div>
     <div class="metric"><div class="label">Indiferentes</div><div class="value" id="m-neu">—</div></div>
     <div class="metric negativo"><div class="label">Disconformes</div><div class="value" id="m-neg">—</div></div>
-  </div>
-
-  <div style="display:grid;grid-template-columns:repeat(3,1fr);gap:12px;margin-bottom:1.5rem;">
-    <div style="background:#f0f0ec;border-radius:8px;padding:12px;text-align:center;">
-      <div style="font-size:11px;color:#888;margin-bottom:4px;">Con dirección registrada</div>
-      <div style="font-size:20px;font-weight:500;" id="m-con-dir">—</div>
-    </div>
-    <div style="background:#f0f0ec;border-radius:8px;padding:12px;text-align:center;">
-      <div style="font-size:11px;color:#888;margin-bottom:4px;">Con nombre registrado</div>
-      <div style="font-size:20px;font-weight:500;" id="m-con-nombre">—</div>
-    </div>
-    <div style="background:#f0f0ec;border-radius:8px;padding:12px;text-align:center;">
-      <div style="font-size:11px;color:#888;margin-bottom:4px;">Listos para contactar</div>
-      <div style="font-size:20px;font-weight:500;color:#1D9E75;" id="m-listos">—</div>
-    </div>
   </div>
 
   <div class="card" style="margin-bottom:1.5rem;">
@@ -248,19 +222,7 @@ async function cargarDatos() {
   } catch(e) {
     datos = {
       satisfaccion: [
-        {celular:'3815974795',direccion:'Av. Aconquija 380',sentimiento:'positivo',mensaje:''},
-        {celular:'3814687122',direccion:'Catamarca 720',sentimiento:'positivo',mensaje:''},
-        {celular:'3813456789',direccion:'San Martín 1240',sentimiento:'positivo',mensaje:''},
-        {celular:'3816789012',direccion:'Córdoba 1560',sentimiento:'positivo',mensaje:''},
-        {celular:'3812345678',direccion:'Mendoza 890',sentimiento:'positivo',mensaje:''},
-        {celular:'3815901234',direccion:'Muñecas 430',sentimiento:'positivo',mensaje:''},
-        {celular:'3814999111',direccion:'',sentimiento:'positivo',mensaje:''},
-        {celular:'3816234567',direccion:'Balcarce 351',sentimiento:'positivo',mensaje:''},
-        {celular:'3813678901',direccion:'Las Piedras 1100',sentimiento:'positivo',mensaje:''},
-        {celular:'3815111222',direccion:'Chile 890',sentimiento:'neutro',mensaje:''},
-        {celular:'3814333444',direccion:'',sentimiento:'neutro',mensaje:''},
-        {celular:'3816505630',direccion:'',sentimiento:'negativo',mensaje:'Ahh yo entendi mal pero el reclamo sigue sin resolverse'},
-        {celular:'3815000111',direccion:'Av. Belgrano 900',sentimiento:'negativo',mensaje:'No vinieron nunca, pésimo servicio'},
+        // datos cargados desde dashboard_data.json
       ],
       pedidos: { bot: 8, bam: 12, completados: 14, pendientes: 6 },
       actualizado: new Date().toISOString()
@@ -270,13 +232,14 @@ async function cargarDatos() {
 }
 
 function formatCel(n) {
-  // Si no hay numero real disponible, decirlo explicitamente (nunca inventar)
-  if (!n) return 'Sin teléfono disponible'
+  if (!n || !n.trim()) return ''
+  // Si ya viene formateado con +54 9, devolverlo tal cual
+  if (/^\+54 9 /.test(n.trim())) return n.trim()
   const limpio = (n||'').replace(/\D/g,'')
-  // Un telefono argentino real tiene 10 digitos locales (13 con 549). Si tiene mas, es un ID interno, no telefono.
-  if (limpio.length > 13) return 'Sin teléfono disponible'
+  // Si tiene más de 13 dígitos es un ID interno, no teléfono
+  if (limpio.length > 13) return ''
   const d = limpio.replace(/^549/,'').replace(/^54/,'').slice(-10)
-  return d.length === 10 ? '+54 9 ' + d.slice(0,4)+' '+d.slice(4,7)+'-'+d.slice(7) : 'Sin teléfono disponible'
+  return d.length === 10 ? '+54 9 ' + d.slice(0,4)+' '+d.slice(4,7)+'-'+d.slice(7) : ''
 }
 
 function renderDashboard() {
@@ -358,16 +321,14 @@ function renderDashboard() {
   if (!neg.length) {
     el.innerHTML = '<p style="font-size:13px;color:#aaa;padding:8px 0;">Sin registros negativos</p>'
   } else {
-    el.innerHTML = neg.map(function(d, i) {
-    var cel = d.celular ? formatCel(d.celular) : 'Sin teléfono disponible'
-    return '<div onclick="abrirModal(' + i + ',\'negativo\')" style="display:flex;gap:12px;padding:10px 0;border-bottom:0.5px solid #f0f0ec;align-items:flex-start;cursor:pointer;" onmouseover="this.style.background=\'#f5f5f0\'" onmouseout="this.style.background=\'\'">' +
-      '<span class="badge neg" style="white-space:nowrap;">disconforme</span>' +
-      '<div style="flex:1;">' +
-      '<p style="font-size:12px;font-family:monospace;color:#888;margin:0 0 4px;">' + cel + (d.direccion ? ' · ' + d.direccion : '') + '</p>' +
-      '<p style="font-size:13px;color:#1a1a1a;margin:0;">' + (d.mensaje || 'Sin mensaje registrado') + '</p>' +
-      '<p style="font-size:11px;color:#aaa;margin:4px 0 0;">Tocar para ver conversación 🔒</p>' +
-      '</div></div>'
-  }).join('')
+    el.innerHTML = neg.map(d => `
+      <div style="display:flex;gap:12px;padding:10px 0;border-bottom:0.5px solid #f0f0ec;align-items:flex-start;">
+        <span class="badge neg" style="white-space:nowrap;">disconforme</span>
+        <div>
+          <p style="font-size:12px;font-family:monospace;color:#888;margin:0 0 4px;">${formatCel(d.celular) ? formatCel(d.celular) : '<em style="color:#bbb">sin teléfono</em>'}${d.direccion?' · '+d.direccion:''}</p>
+          ${d.mensaje ? '<p style="font-size:13px;color:#1a1a1a;margin:0;">'+d.mensaje+'</p>' : ''}
+        </div>
+      </div>`).join('')
   }
 }
 
@@ -376,7 +337,7 @@ function actualizarTabla() {
   const slice = datosTabla.slice(inicio, inicio + POR_PAGINA)
   document.getElementById('tabla-body').innerHTML = slice.map(d => `
     <tr>
-      <td style="font-family:monospace;font-size:12px;">${formatCel(d.celular||d.telefono||'')}</td>
+      <td style="font-family:monospace;font-size:12px;">${formatCel(d.celular||d.telefono||'') || '<em style="color:#bbb">sin teléfono</em>'}</td>
       <td style="font-size:12px;">${d.direccion||'<span style="color:#aaa;font-style:italic;">sin dirección</span>'}</td>
       <td style="font-size:11px;color:#888;">${d.canal||'WhatsApp'}</td>
       <td style="text-align:center;"><span class="badge pos">satisfecho</span></td>
@@ -391,125 +352,6 @@ function paginaAnterior() { if (pagina > 0) { pagina--; actualizarTabla(); } }
 function paginaSiguiente() { if ((pagina+1)*POR_PAGINA < datosTabla.length) { pagina++; actualizarTabla(); } }
 
 setInterval(() => { if (sessionStorage.getItem('auth')==='1') cargarDatos() }, 5*60*1000)
-
-var PIN_CONVERSACION = 'sm2024'
-var modalDatos = null
-var modalTipo = null
-
-function abrirModal(idx, tipo) {
-  var s = datos.satisfaccion || []
-  var neg = s.filter(function(x) { return x.sentimiento === 'negativo' })
-  var pos = s.filter(function(x) { return x.sentimiento === 'positivo' })
-  var d = tipo === 'negativo' ? neg[idx] : pos[idx]
-  if (!d) return
-  modalDatos = d
-  modalTipo = tipo
-  var cel = d.celular ? formatCel(d.celular) : 'Sin teléfono disponible'
-  var html = '<p style="font-size:13px;margin-bottom:8px;"><strong>' + cel + '</strong></p>'
-  if (d.nombre) html += '<p style="font-size:12px;color:#888;margin-bottom:4px;">👤 ' + d.nombre + '</p>'
-  if (d.direccion) html += '<p style="font-size:12px;color:#888;margin-bottom:4px;">📍 ' + d.direccion + '</p>'
-  if (d.canal) html += '<p style="font-size:12px;color:#888;margin-bottom:4px;">📱 ' + d.canal + '</p>'
-  if (d.fecha) html += '<p style="font-size:12px;color:#888;margin-bottom:4px;">📅 ' + d.fecha.slice(0,10) + '</p>'
-  html += '<p style="font-size:12px;margin-top:8px;padding:8px;background:#f5f5f0;border-radius:6px;">'
-  html += '<span class="badge ' + (tipo === 'negativo' ? 'neg' : 'pos') + '">' + tipo + '</span></p>'
-  document.getElementById('modal-contenido').innerHTML = html
-  document.getElementById('modal-titulo').textContent = tipo === 'negativo' ? 'Vecino disconforme' : 'Vecino satisfecho'
-  document.getElementById('modal-pin-section').style.display = 'block'
-  document.getElementById('modal-conversacion').style.display = 'none'
-  document.getElementById('modal-pin').value = ''
-  document.getElementById('modal-vecino').style.display = 'flex'
-}
-
-function cerrarModal() {
-  document.getElementById('modal-vecino').style.display = 'none'
-  modalDatos = null
-}
-
-function verificarPin() {
-  if (document.getElementById('modal-pin').value !== PIN_CONVERSACION) {
-    alert('PIN incorrecto')
-    return
-  }
-  var d = modalDatos
-  var html = '<div style="background:#f5f5f0;border-radius:8px;padding:12px;">'
-  html += '<p style="font-size:11px;color:#888;margin-bottom:8px;">Último mensaje registrado:</p>'
-  html += '<p style="font-size:13px;color:#1a1a1a;">' + (d.mensaje || 'Sin mensaje disponible') + '</p>'
-  html += '</div>'
-  document.getElementById('modal-conversacion').innerHTML = html
-  document.getElementById('modal-conversacion').style.display = 'block'
-}
-
-document.addEventListener('DOMContentLoaded', function() {
-  document.getElementById('modal-vecino').onclick = function(e) {
-    if (e.target === this) cerrarModal()
-  }
-  actualizarPeriodo()
-  var sel = document.getElementById('sel-periodo')
-  if (sel) sel.onchange = actualizarPeriodo
-})
-
-function actualizarPeriodo() {
-  var sel = document.getElementById('sel-periodo')
-  if (!sel) return
-  var m = parseInt(sel.value)
-  var hasta = new Date()
-  var desde = new Date()
-  desde.setMonth(desde.getMonth() - m)
-  var fmt = function(d) { return d.toLocaleDateString('es-AR',{day:'2-digit',month:'2-digit',year:'numeric'}) }
-  var el = document.getElementById('periodo-label')
-  if (el) el.textContent = fmt(desde) + ' — ' + fmt(hasta)
-}
-
-var _cargarOrig = cargarDatos
-cargarDatos = function() {
-  _cargarOrig()
-  setTimeout(function() {
-    var be = datos.base_electoral_stats || {}
-    var d1 = document.getElementById('m-con-dir')
-    var d2 = document.getElementById('m-con-nombre')
-    var d3 = document.getElementById('m-listos')
-    if (d1) d1.textContent = be.con_direccion || '—'
-    if (d2) d2.textContent = be.con_nombre || '—'
-    if (d3) d3.textContent = be.con_direccion || '—'
-  }, 500)
-}
-
-function descargarCSV() {
-  var s = datos.satisfaccion || []
-  var lineas = ['numero,nombre,direccion,sentimiento,canal,fecha']
-  s.forEach(function(r) {
-    lineas.push([r.celular||r.numero||'',r.nombre||'',(r.direccion||'').replace(/,/g,' '),r.sentimiento||'',r.canal||'WhatsApp',r.fecha?r.fecha.slice(0,10):''].join(','))
-  })
-  var blob = new Blob(['\ufeff'+lineas.join('\n')],{type:'text/csv;charset=utf-8'})
-  var url = URL.createObjectURL(blob)
-  var a = document.createElement('a')
-  a.href = url
-  a.download = 'base_electoral_'+new Date().toISOString().slice(0,10)+'.csv'
-  document.body.appendChild(a)
-  a.click()
-  document.body.removeChild(a)
-  URL.revokeObjectURL(url)
-}
 </script>
-
-<!-- Modal detalle vecino -->
-<div id="modal-vecino" style="display:none;position:fixed;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,0.5);z-index:1000;align-items:center;justify-content:center;">
-  <div style="background:white;border-radius:12px;padding:1.5rem;max-width:480px;width:90%;max-height:80vh;overflow-y:auto;">
-    <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:1rem;">
-      <h3 style="font-size:15px;font-weight:500;" id="modal-titulo">Detalle del vecino</h3>
-      <button onclick="cerrarModal()" style="border:none;background:none;font-size:18px;cursor:pointer;color:#888;">✕</button>
-    </div>
-    <div id="modal-contenido"></div>
-    <div id="modal-pin-section" style="margin-top:1rem;padding-top:1rem;border-top:0.5px solid #eee;display:none;">
-      <p style="font-size:12px;color:#888;margin-bottom:8px;">🔒 Ingresá el PIN para ver la conversación</p>
-      <div style="display:flex;gap:8px;">
-        <input type="password" id="modal-pin" placeholder="PIN" style="flex:1;padding:8px;border:0.5px solid #ccc;border-radius:6px;font-size:13px;" />
-        <button onclick="verificarPin()" style="padding:8px 14px;background:#1a1a1a;color:white;border:none;border-radius:6px;font-size:13px;cursor:pointer;">Ver</button>
-      </div>
-      <div id="modal-conversacion" style="margin-top:1rem;display:none;"></div>
-    </div>
-  </div>
-</div>
-
 </body>
 </html>
