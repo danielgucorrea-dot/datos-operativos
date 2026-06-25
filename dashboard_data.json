@@ -4922,17 +4922,17 @@
     },
     {
       "numero": "5493815039238",
-      "celular": "381 503-9238",
-      "nombre": "Barrionuevo claudia",
-      "direccion": "Fray Mamerto Esquiu, San  Miguel de Tucumán, Departamento Capital, Tucumán, T4000, Argentina",
+      "celular": "3815039238",
+      "nombre": "Barrionuevo cliente susana",
+      "direccion": "1298, Fray Mamerto Esquiu, Padilla, San Miguel de Tucumán, Departamento Capital, Tucumán, T4000, Argentina",
       "sentimiento": "neutro",
       "canal": "WhatsApp Ambiente",
       "fecha": "2026-06-18",
       "mensaje": "Hola Barrionuevo! Te escribimos desde el equipo de la Municipalidad de San Miguel de Tucumán. Sabemos que en algún momento te comunicaste con nosotros en Fray Mamerto Esquiu, San  Miguel de Tucumán, Departamento Capital, Tucumán, T4000, Argentina. Queremos estar cerca de los vecinos y saber si hay algo en lo que podamos ayudarte 😊",
-      "telefono": "381 503-9238",
+      "telefono": "3815039238",
       "email": "",
-      "lat": "-26.80557203609653",
-      "lon": "-65.24818250000001",
+      "lat": "-26.8054906",
+      "lon": "-65.2482254",
       "distrito": 1
     },
     {
@@ -10159,7 +10159,7 @@
       "numero": "5493813393909",
       "celular": "3813393909",
       "nombre": "Romina Ibarra",
-      "direccion": "Calle Pío Xii 1860, San Miguel de Tucumán, Tucumán",
+      "direccion": "Calle P��o Xii 1860, San Miguel de Tucumán, Tucumán",
       "sentimiento": "neutro",
       "canal": "WhatsApp Ambiente",
       "fecha": "2026-05-16",
@@ -28234,7 +28234,7 @@
       "numero": "5493816534864",
       "celular": " 381 653-4864",
       "nombre": "Abregu María Andrea",
-      "direccion": "Gerónimo Helguera, Barrio San Miguel, Manantial Sur, San Miguel de Tucumán, Departamento Capital, Tucumán, T4128, Argentina",
+      "direccion": "Ger��nimo Helguera, Barrio San Miguel, Manantial Sur, San Miguel de Tucumán, Departamento Capital, Tucumán, T4128, Argentina",
       "sentimiento": "neutro",
       "canal": "WhatsApp Ambiente",
       "fecha": "2026-02-09",
@@ -37709,13 +37709,13 @@
   ],
   "pedidos": {
     "bot": 0,
-    "bam": 40,
+    "bam": 41,
     "completados": 0,
-    "pendientes": 40
+    "pendientes": 41
   },
   "reclamos": {
-    "total": 3174,
-    "iniciados": 17,
+    "total": 3175,
+    "iniciados": 18,
     "en_proceso": 1253,
     "finalizados": 1866,
     "derivados": 38
@@ -37727,5 +37727,5 @@
     "Aplicación Móvil": 25
   },
   "totalVecinos": 2510,
-  "actualizado": "2026-06-25T18:00:56.331Z"
+  "actualizado": "2026-06-25T18:25:53.448Z"
 }
