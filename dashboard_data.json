@@ -28567,7 +28567,7 @@
       "sentimiento": "neutro",
       "asunto": "Denuncia de establecimiento ",
       "area": "Salud Ambiental",
-      "estado": "DERIVADO",
+      "estado": "FINALIZADO",
       "fecha": "2026-06-14T23:38:29.000Z"
     },
     {
@@ -28951,7 +28951,7 @@
       "sentimiento": "neutro",
       "asunto": "Ruidos molestos",
       "area": "Salud Ambiental",
-      "estado": "INICIADO",
+      "estado": "FINALIZADO",
       "fecha": "2026-06-12T14:53:56.000Z"
     },
     {
@@ -60544,7 +60544,7 @@
       "nombre": "Mariela Sandra Estrella",
       "telefono": "3816284264",
       "email": "marielasestrella@gmail.com",
-      "direccion": "Calle Capitán Antonio de Aragon 434, San Miguel de Tucumán, Tucumán",
+      "direccion": "Calle Capit��n Antonio de Aragon 434, San Miguel de Tucumán, Tucumán",
       "lat": "-26.798757498619523",
       "lon": "-65.1959951967001",
       "distrito": 6,
@@ -73811,10 +73811,10 @@
   },
   "reclamos": {
     "total": 3184,
-    "iniciados": 22,
+    "iniciados": 21,
     "en_proceso": 1254,
-    "finalizados": 1866,
-    "derivados": 42
+    "finalizados": 1868,
+    "derivados": 41
   },
   "canales": {
     "WhatsApp Ambiente": 1766,
@@ -73827,5 +73827,5 @@
     "Email Oficial": 1
   },
   "totalVecinos": 4723,
-  "actualizado": "2026-06-26T15:20:01.090Z"
+  "actualizado": "2026-06-26T15:23:11.420Z"
 }
