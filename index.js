@@ -419,12 +419,18 @@ Answer ONLY with valid JSON, no other text:
 {"esValida": true or false, "razon": "explanation in Spanish, max 15 words"}`
 
         } else {
-            pregunta = `You are analyzing a photo for a municipal waste management complaint (basural, residuos, escombros, poda, etc).
+            pregunta = `You are analyzing a photo for a municipal waste management complaint in Argentina (basural, residuos, bolsas, escombros, poda, muebles, etc).
 
-Step 1: Does this image clearly show garbage, waste, rubble, debris, tree branches, or any form of environmental pollution/accumulation?
-Step 2: Is the image clear enough to understand what needs to be collected?
+Look at the image and determine if it shows:
+- Garbage bags or waste of any kind
+- Rubble, debris or construction waste
+- Tree branches or green waste
+- Furniture or bulky items
+- Any accumulation of waste or environmental problem
+- A street, sidewalk or public space with any waste
 
-Be STRICT. A photo showing only floors, walls, unrelated objects, people, or unclear/blurry content with no visible waste should be marked as invalid.
+Be PERMISSIVE: if there is ANY doubt that this could be a waste-related photo, mark as valid.
+Only mark as invalid if the photo clearly shows something completely unrelated (selfie, food, animals, etc).
 
 Answer ONLY with valid JSON, no other text:
 {"esValida": true or false, "razon": "explanation in Spanish, max 15 words"}`
@@ -441,14 +447,19 @@ Answer ONLY with valid JSON, no other text:
         if (match) return JSON.parse(match[0])
         return { esValida: false, razon: 'No se pudo verificar la foto, enviá otra' }
     } catch (e) {
-        console.error('Error analizando foto:', e)
-        return { esValida: false, razon: 'No se pudo verificar la foto, enviá otra' }
+        console.error('Error analizando foto:', e.message || e)
+        // Si Ollama falla (timeout, error de red, etc.), aprobamos la foto
+        // para no bloquear el pedido del vecino
+        console.log('⚠️ Ollama no disponible — foto aprobada por defecto')
+        return { esValida: true, razon: 'Foto recibida correctamente' }
     }
 }
 
 // ===== MENSAJES =====
 const MSG = {
     bienvenida: `¡Hola! 👋 Bienvenido/a a la *Secretaría de Ambiente y Desarrollo Sustentable* de la Municipalidad de San Miguel de Tucumán.
+
+_En cualquier momento escribí *menú* para volver al inicio._
 
 Estamos acá para ayudarte. ¿Con qué podemos asistirte hoy?
 
@@ -2064,6 +2075,16 @@ async function procesarMensaje(sock, msg) {
 
     if (!estados[jid]) estados[jid] = { paso: 'inicio' }
     const estado = estados[jid]
+
+    // ===== REINICIO DE CONVERSACIÓN =====
+    // Si el vecino escribe palabras clave en cualquier momento → volver al menú
+    const palabrasReinicio = /^(hola|menu|menú|inicio|cancelar|reiniciar|volver|empezar|comenzar|salir|0|00)$/i
+    if (texto && palabrasReinicio.test(texto.trim()) && estado.paso !== 'inicio') {
+        estados[jid] = { paso: 'inicio' }
+        guardarEstados()
+        await sock.sendMessage(jid, { text: MSG.bienvenida })
+        return
+    }
 
     // Análisis de satisfacción en background (solo vecinos, no personal interno)
     if (texto && texto.length >= 3 && !esPersonalInterno(numero)) {
