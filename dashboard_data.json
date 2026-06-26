@@ -35867,33 +35867,33 @@
     },
     {
       "numero": "5493814481034",
-      "celular": "3814481034",
+      "celular": "+54 9 3814 481-034",
       "nombre": "Verónica  Gerez",
       "direccion": "Avenida Pedro Miguel Aráoz 626, San Miguel de Tucumán, Tucumán",
       "sentimiento": "neutro",
       "canal": "WhatsApp Ambiente",
       "fecha": "2025-12-25",
       "mensaje": "Hola Verónica! Te escribimos desde el equipo de la Municipalidad de San Miguel de Tucumán. Sabemos que en algún momento te comunicaste con nosotros en Avenida Pedro Miguel Aráoz 626, San Miguel de Tucumán, Tucumán. Queremos estar cerca de los vecinos y saber si hay algo en lo que podamos ayudarte 😊",
-      "telefono": "3814481034",
-      "email": "verolee544@gmail.com",
-      "lat": "-26.847851327714682",
-      "lon": "-65.19045475870371",
+      "telefono": "+54 9 3814 481-034",
+      "email": "",
+      "lat": null,
+      "lon": null,
       "distrito": null
     },
     {
       "numero": "5493816906358",
-      "celular": "3816906358",
+      "celular": "+54 9 3816 906-358",
       "nombre": "MARIA LOURDES PLAZA",
       "direccion": "Avenida Silvano Bores , Municipalidad de San Miguel De Tucuman, Tucumán",
       "sentimiento": "neutro",
       "canal": "WhatsApp Ambiente",
       "fecha": "2025-12-25",
       "mensaje": "Hola Maria! Te escribimos desde el equipo de la Municipalidad de San Miguel de Tucumán. Sabemos que en algún momento te comunicaste con nosotros en Avenida Silvano Bores , Municipalidad de San Miguel De Tucuman, Tucumán. Queremos estar cerca de los vecinos y saber si hay algo en lo que podamos ayudarte 😊",
-      "telefono": "3816906358",
-      "email": "plazamaria61c1@gmail.com",
-      "lat": "-26.848887531327563",
-      "lon": "-65.18408417701721",
-      "distrito": 11
+      "telefono": "+54 9 3816 906-358",
+      "email": "",
+      "lat": null,
+      "lon": null,
+      "distrito": null
     },
     {
       "numero": "5493815268605",
@@ -36886,6 +36886,21 @@
       "distrito": null
     },
     {
+      "numero": "262315647697148",
+      "celular": "+54 9 3812 081-709",
+      "direccion": "",
+      "sentimiento": "neutro",
+      "mensaje": "Hola",
+      "fecha": "2026-06-25T23:42:36.797Z",
+      "canal": "WhatsApp Ambiente",
+      "nombre": "",
+      "telefono": "+54 9 3812 081-709",
+      "email": "",
+      "lat": null,
+      "lon": null,
+      "distrito": null
+    },
+    {
       "numero": "3815515252",
       "canal": "Aplicación Móvil",
       "nombre": "Carlos Alfredo  Soto",
@@ -37805,18 +37820,18 @@
     "pendientes": 46
   },
   "reclamos": {
-    "total": 3179,
+    "total": 3177,
     "iniciados": 22,
     "en_proceso": 1253,
-    "finalizados": 1866,
+    "finalizados": 1864,
     "derivados": 38
   },
   "canales": {
-    "WhatsApp Ambiente": 2459,
+    "WhatsApp Ambiente": 2460,
     "Aplicación Móvil": 26,
     "Chat Center (Call Center)": 25,
     "Personalmente": 6
   },
-  "totalVecinos": 2516,
-  "actualizado": "2026-06-25T23:42:25.162Z"
+  "totalVecinos": 2517,
+  "actualizado": "2026-06-26T00:00:13.827Z"
 }
