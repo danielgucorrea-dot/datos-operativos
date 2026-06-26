@@ -26356,6 +26356,22 @@
       "distrito": null
     },
     {
+      "numero": "3816437618",
+      "canal": "Aplicación Móvil",
+      "nombre": "Claudia Zamora ",
+      "telefono": "3816437618",
+      "email": "claudiazamora1968@gmail.com",
+      "direccion": "Bvar Artigas Y Palmar 1601, San Miguel de Tucumán, Tucumán",
+      "lat": "-26.798886781455348",
+      "lon": "-65.25045208632946",
+      "distrito": 1,
+      "sentimiento": "neutro",
+      "asunto": "Basura en vía pública",
+      "area": "Ambiente",
+      "estado": "INICIADO",
+      "fecha": "2026-06-26T16:24:00.000Z"
+    },
+    {
       "numero": "3815247744",
       "canal": "Agentes o Inspectores",
       "nombre": "Carlos Sebastián ",
@@ -33525,7 +33541,7 @@
     },
     {
       "numero": "3816286196",
-      "canal": "Aplicaci��n Móvil",
+      "canal": "Aplicación Móvil",
       "nombre": "Vilma Rodríguez ",
       "telefono": "3816286196",
       "email": "vilmamarielarodriguez@gmail.com",
@@ -34527,7 +34543,7 @@
       "distrito": 16,
       "sentimiento": "neutro",
       "asunto": "Basura en vía pública",
-      "area": "Secretaría de Ambiente",
+      "area": "Secretar��a de Ambiente",
       "estado": "EN PROCESO",
       "fecha": "2026-05-16T18:30:42.000Z"
     },
@@ -73702,28 +73718,27 @@
   ],
   "pedidos": {
     "bot": 0,
-    "bam": 9,
+    "bam": 11,
     "completados": 0,
-    "pendientes": 9
+    "pendientes": 11
   },
   "reclamos": {
-    "total": 3185,
-    "iniciados": 9,
+    "total": 3186,
+    "iniciados": 10,
     "en_proceso": 1268,
     "finalizados": 1876,
     "derivados": 32
   },
   "canales": {
     "WhatsApp Ambiente": 1757,
+    "Aplicación Móvil": 1374,
     "Agentes o Inspectores": 5,
     "Chat Center (Call Center)": 1423,
-    "Aplicación Móvil": 1372,
     "Personalmente": 108,
     "Whatsapp": 5,
     "Teléfono": 44,
-    "Aplicaci��n Móvil": 1,
     "Email Oficial": 1
   },
-  "totalVecinos": 4716,
-  "actualizado": "2026-06-26T16:00:01.846Z"
+  "totalVecinos": 4717,
+  "actualizado": "2026-06-26T16:30:02.457Z"
 }
