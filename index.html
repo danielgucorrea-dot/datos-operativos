@@ -342,35 +342,40 @@ function paginaSiguiente() { if ((pagina+1)*POR_PAGINA < datosActuales.length) {
 function abrirConversacion(idx) {
   vecindadActual = datosActuales[idx]
   document.getElementById('modal-titulo').textContent = vecindadActual.celular || 'Conversación'
-  document.getElementById('pin-input').value = ''
-  document.getElementById('pin-error').style.display = 'none'
   document.getElementById('modal-contenido').innerHTML = `
     <div class="modal-pin">
       <input type="password" id="pin-input" placeholder="PIN" maxlength="6" onkeydown="if(event.key==='Enter')verificarPin()">
       <button onclick="verificarPin()">Ver conversación</button>
-      <div class="error" id="pin-error">PIN incorrecto</div>
+      <div class="error" id="pin-error" style="display:none;color:#c0392b;font-size:12px;text-align:center;margin-top:8px;">PIN incorrecto</div>
     </div>`
   document.getElementById('modal-bg').classList.add('open')
-  setTimeout(() => document.getElementById('pin-input')?.focus(), 100)
+  setTimeout(() => document.getElementById('pin-input').focus(), 150)
 }
 
 function verificarPin() {
-  if (document.getElementById('pin-input').value === PIN) {
+  const pinEl = document.getElementById('pin-input')
+  if (!pinEl) return
+  if (pinEl.value === PIN) {
     const d = vecindadActual
     const cls = d.sentimiento === 'positivo' ? 'pos' : d.sentimiento === 'negativo' ? 'neg' : 'neu'
-    const label = d.sentimiento === 'positivo' ? 'satisfecho' : d.sentimiento === 'negativo' ? 'disconforme' : 'neutro'
+    const label = d.sentimiento === 'positivo' ? 'Satisfecho' : d.sentimiento === 'negativo' ? 'Disconforme' : 'Neutro'
+    const msgMostrar = d.mensaje && d.mensaje.trim() ? d.mensaje : null
     document.getElementById('modal-contenido').innerHTML = `
       <div class="modal-body">
-        <div style="margin-bottom:12px;">
-          <div style="font-size:13px;font-family:monospace;font-weight:600;">${d.celular}</div>
-          ${d.nombre ? `<div style="font-size:12px;color:#888;">${d.nombre}</div>` : ''}
-          ${d.direccion ? `<div style="font-size:12px;color:#888;">📍 ${d.direccion}</div>` : ''}
-          <span class="badge ${cls}" style="margin-top:4px;display:inline-block;">${label}</span>
+        <div style="margin-bottom:14px;padding-bottom:12px;border-bottom:1px solid #f0f0ea;">
+          <div style="font-size:14px;font-family:monospace;font-weight:700;">${d.celular || 'Sin número'}</div>
+          ${d.nombre ? `<div style="font-size:12px;color:#666;margin-top:2px;">${d.nombre}</div>` : ''}
+          ${d.direccion ? `<div style="font-size:12px;color:#888;margin-top:2px;">📍 ${d.direccion}</div>` : ''}
+          ${d.fecha ? `<div style="font-size:11px;color:#aaa;margin-top:2px;">${d.fecha.slice(0,10)}</div>` : ''}
+          <span class="badge ${cls}" style="margin-top:6px;display:inline-block;">${label}</span>
         </div>
-        ${d.mensaje ? `<div class="conv-item">
-          <div class="quien">Vecino</div>
-          <div class="conv-burbuja vecino">${d.mensaje}</div>
-        </div>` : '<div style="color:#aaa;font-size:13px;">Sin mensaje registrado</div>'}
+        ${msgMostrar
+          ? `<div class="conv-item">
+              <div class="quien" style="font-size:11px;color:#888;margin-bottom:4px;">Mensaje del vecino</div>
+              <div class="conv-burbuja vecino" style="background:#f0f0ea;padding:10px 14px;border-radius:10px;font-size:13px;">${msgMostrar}</div>
+            </div>`
+          : '<div style="color:#aaa;font-size:13px;font-style:italic;">El vecino realizó una consulta sin dejar mensaje de texto.</div>'
+        }
       </div>`
   } else {
     document.getElementById('pin-error').style.display = 'block'
