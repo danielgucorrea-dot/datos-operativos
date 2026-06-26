@@ -26356,6 +26356,22 @@
       "distrito": null
     },
     {
+      "numero": "3815247744",
+      "canal": "Agentes o Inspectores",
+      "nombre": "Carlos Sebastián ",
+      "telefono": "3815247744",
+      "email": "",
+      "direccion": "1802, Suipacha, Villa Urquiza, Vial 1, San Miguel de Tucumán, Departamento Capital, Tucumán, T4000, Argentina",
+      "lat": "-26.80365217881553",
+      "lon": "-65.21127137432323",
+      "distrito": 5,
+      "sentimiento": "neutro",
+      "asunto": "Recolección de Residuos No Habituales (cantidad reducida)",
+      "area": "Ambiente",
+      "estado": "INICIADO",
+      "fecha": "2026-06-26T15:48:21.000Z"
+    },
+    {
       "numero": "3813486448",
       "canal": "Chat Center (Call Center)",
       "nombre": "Silvestre Esteban",
@@ -26367,8 +26383,8 @@
       "distrito": 10,
       "sentimiento": "neutro",
       "asunto": "Basura en vía pública",
-      "area": "Ambiente",
-      "estado": "INICIADO",
+      "area": "Secretaría de Ambiente",
+      "estado": "EN PROCESO",
       "fecha": "2026-06-26T13:30:48.000Z"
     },
     {
@@ -26383,8 +26399,8 @@
       "distrito": 10,
       "sentimiento": "neutro",
       "asunto": "Recolección de Residuos No Habituales (cantidad reducida)",
-      "area": "Ambiente",
-      "estado": "INICIADO",
+      "area": "Secretaría de Ambiente",
+      "estado": "EN PROCESO",
       "fecha": "2026-06-26T13:16:42.000Z"
     },
     {
@@ -26399,8 +26415,8 @@
       "distrito": 9,
       "sentimiento": "neutro",
       "asunto": "Basura en vía pública",
-      "area": "Ambiente",
-      "estado": "INICIADO",
+      "area": "Secretaría de Ambiente",
+      "estado": "EN PROCESO",
       "fecha": "2026-06-26T12:03:51.000Z"
     },
     {
@@ -26431,8 +26447,8 @@
       "distrito": 17,
       "sentimiento": "neutro",
       "asunto": "Pedido de cartelería: “No arrojar basura”",
-      "area": "Ambiente",
-      "estado": "INICIADO",
+      "area": "Secretaría de Ambiente",
+      "estado": "EN PROCESO",
       "fecha": "2026-06-25T21:41:04.000Z"
     },
     {
@@ -26447,8 +26463,8 @@
       "distrito": 6,
       "sentimiento": "neutro",
       "asunto": "Basura en vía pública",
-      "area": "Ambiente",
-      "estado": "INICIADO",
+      "area": "Secretaría de Ambiente",
+      "estado": "EN PROCESO",
       "fecha": "2026-06-25T21:36:05.000Z"
     },
     {
@@ -26463,8 +26479,8 @@
       "distrito": 10,
       "sentimiento": "neutro",
       "asunto": "Basura en vía pública",
-      "area": "Ambiente",
-      "estado": "INICIADO",
+      "area": "Secretaría de Ambiente",
+      "estado": "EN PROCESO",
       "fecha": "2026-06-25T20:11:50.000Z"
     },
     {
@@ -26496,7 +26512,7 @@
       "sentimiento": "neutro",
       "asunto": "Barrido público deficiente o sin realizar",
       "area": "Secretaría de Ambiente",
-      "estado": "DERIVADO",
+      "estado": "EN PROCESO",
       "fecha": "2026-06-25T18:36:51.000Z"
     },
     {
@@ -26544,7 +26560,7 @@
       "sentimiento": "neutro",
       "asunto": "Contenedor faltante o en mal estado",
       "area": "Secretaría de Ambiente",
-      "estado": "DERIVADO",
+      "estado": "FINALIZADO",
       "fecha": "2026-06-25T17:09:41.000Z"
     },
     {
@@ -26624,7 +26640,7 @@
       "sentimiento": "neutro",
       "asunto": "Recolección de residuos sin realizar",
       "area": "Secretaría de Ambiente",
-      "estado": "DERIVADO",
+      "estado": "EN PROCESO",
       "fecha": "2026-06-25T13:03:29.000Z"
     },
     {
@@ -26640,7 +26656,7 @@
       "sentimiento": "neutro",
       "asunto": "Recolección de residuos sin realizar",
       "area": "Secretaría de Ambiente",
-      "estado": "DERIVADO",
+      "estado": "EN PROCESO",
       "fecha": "2026-06-25T12:01:58.000Z"
     },
     {
@@ -26671,8 +26687,8 @@
       "distrito": 8,
       "sentimiento": "neutro",
       "asunto": "Basura en vía pública",
-      "area": "Ambiente",
-      "estado": "INICIADO",
+      "area": "Secretaría de Ambiente",
+      "estado": "EN PROCESO",
       "fecha": "2026-06-25T05:36:10.000Z"
     },
     {
@@ -26688,7 +26704,7 @@
       "sentimiento": "neutro",
       "asunto": "Recolección de residuos sin realizar",
       "area": "Secretaría de Ambiente",
-      "estado": "DERIVADO",
+      "estado": "EN PROCESO",
       "fecha": "2026-06-24T22:43:15.000Z"
     },
     {
@@ -26719,8 +26735,8 @@
       "distrito": 14,
       "sentimiento": "neutro",
       "asunto": "Pedido de cartelería: “No arrojar basura”",
-      "area": "Ambiente",
-      "estado": "INICIADO",
+      "area": "Secretaría de Ambiente",
+      "estado": "EN PROCESO",
       "fecha": "2026-06-24T21:00:41.000Z"
     },
     {
@@ -26736,7 +26752,7 @@
       "sentimiento": "neutro",
       "asunto": "Contenedor faltante o en mal estado",
       "area": "Secretaría de Ambiente",
-      "estado": "DERIVADO",
+      "estado": "FINALIZADO",
       "fecha": "2026-06-24T18:58:16.000Z"
     },
     {
@@ -26751,8 +26767,8 @@
       "distrito": 7,
       "sentimiento": "neutro",
       "asunto": "Basura en vía pública",
-      "area": "Ambiente",
-      "estado": "INICIADO",
+      "area": "Secretaría de Ambiente",
+      "estado": "EN PROCESO",
       "fecha": "2026-06-24T16:57:47.000Z"
     },
     {
@@ -33509,7 +33525,7 @@
     },
     {
       "numero": "3816286196",
-      "canal": "Aplicación Móvil",
+      "canal": "Aplicaci��n Móvil",
       "nombre": "Vilma Rodríguez ",
       "telefono": "3816286196",
       "email": "vilmamarielarodriguez@gmail.com",
@@ -60671,7 +60687,7 @@
       "distrito": 10,
       "sentimiento": "neutro",
       "asunto": "Basura en vía pública",
-      "area": "Secretar��a de Ambiente",
+      "area": "Secretaría de Ambiente",
       "estado": "EN PROCESO",
       "fecha": "2026-02-10T12:34:11.000Z"
     },
@@ -73686,27 +73702,28 @@
   ],
   "pedidos": {
     "bot": 0,
-    "bam": 56,
+    "bam": 9,
     "completados": 0,
-    "pendientes": 56
+    "pendientes": 9
   },
   "reclamos": {
-    "total": 3184,
-    "iniciados": 17,
-    "en_proceso": 1255,
-    "finalizados": 1873,
-    "derivados": 39
+    "total": 3185,
+    "iniciados": 9,
+    "en_proceso": 1268,
+    "finalizados": 1876,
+    "derivados": 32
   },
   "canales": {
     "WhatsApp Ambiente": 1757,
+    "Agentes o Inspectores": 5,
     "Chat Center (Call Center)": 1423,
-    "Aplicación Móvil": 1373,
+    "Aplicación Móvil": 1372,
     "Personalmente": 108,
     "Whatsapp": 5,
     "Teléfono": 44,
-    "Agentes o Inspectores": 4,
+    "Aplicaci��n Móvil": 1,
     "Email Oficial": 1
   },
-  "totalVecinos": 4715,
-  "actualizado": "2026-06-26T15:39:01.669Z"
+  "totalVecinos": 4716,
+  "actualizado": "2026-06-26T16:00:01.846Z"
 }
