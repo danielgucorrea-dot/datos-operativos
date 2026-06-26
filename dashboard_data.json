@@ -9289,15 +9289,15 @@
       "numero": "5493815101482",
       "celular": "3815101482",
       "nombre": "Danella Elizabeth  PEREZ SCHMIELOZ ",
-      "direccion": "25 de Mayo 760, San Miguel de Tucumán, Tucumán",
+      "direccion": "Ildefonso de las Muñecas 749, San Miguel de Tucumán, Tucumán",
       "sentimiento": "neutro",
       "canal": "WhatsApp Ambiente",
       "fecha": "2026-05-23",
       "mensaje": "Hola Danella! Te escribimos desde el equipo de la Municipalidad de San Miguel de Tucumán. Sabemos que en algún momento te comunicaste con nosotros en 25 de Mayo 760, San Miguel de Tucumán, Tucumán. Queremos estar cerca de los vecinos y saber si hay algo en lo que podamos ayudarte 😊",
       "telefono": "3815101482",
       "email": "danellapsch@gmail.com",
-      "lat": "-26.82065477192352",
-      "lon": "-65.2023946121335",
+      "lat": "-26.82069307056682",
+      "lon": "-65.2036552503705",
       "distrito": 10
     },
     {
@@ -37835,8 +37835,8 @@
     "pendientes": 46
   },
   "reclamos": {
-    "total": 3177,
-    "iniciados": 22,
+    "total": 3178,
+    "iniciados": 23,
     "en_proceso": 1253,
     "finalizados": 1864,
     "derivados": 38
@@ -37848,5 +37848,5 @@
     "Personalmente": 6
   },
   "totalVecinos": 2518,
-  "actualizado": "2026-06-26T03:01:00.013Z"
+  "actualizado": "2026-06-26T03:22:49.836Z"
 }
