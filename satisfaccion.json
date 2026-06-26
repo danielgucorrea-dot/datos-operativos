@@ -22524,5 +22524,21 @@
     "sentimiento": "negativo",
     "mensaje": "Si, necesitamos intervención ante la SAT, para que arreglen el problema de cloacas y posteriormente den una solucion a las calles, pavimento, ya que esta intransitable. Viven adultos mayores aqui, mi suegro esta en silla de ruedas, y no puede ni parar una ambulancia en la puerta porque corre riesgo de quedar atascada",
     "fecha": "2026-06-24T13:47:00.568Z"
+  },
+  {
+    "numero": "60886144299236",
+    "celular": "+54 9 3814 461-809",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "mensaje": "Menu",
+    "fecha": "2026-06-26T15:00:04.944Z"
+  },
+  {
+    "numero": "60886144299236",
+    "celular": "+54 9 3814 461-809",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "mensaje": "Hola",
+    "fecha": "2026-06-26T15:00:07.230Z"
   }
 ]
