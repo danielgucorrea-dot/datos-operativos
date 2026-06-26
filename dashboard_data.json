@@ -46223,7 +46223,7 @@
       "distrito": 15,
       "sentimiento": "neutro",
       "asunto": "Basura en vía pública",
-      "area": "Secretar��a de Ambiente",
+      "area": "Secretaría de Ambiente",
       "estado": "EN PROCESO",
       "fecha": "2026-04-01T21:28:10.000Z"
     },
@@ -60671,7 +60671,7 @@
       "distrito": 10,
       "sentimiento": "neutro",
       "asunto": "Basura en vía pública",
-      "area": "Secretaría de Ambiente",
+      "area": "Secretar��a de Ambiente",
       "estado": "EN PROCESO",
       "fecha": "2026-02-10T12:34:11.000Z"
     },
@@ -73693,9 +73693,9 @@
   "reclamos": {
     "total": 3184,
     "iniciados": 17,
-    "en_proceso": 1254,
+    "en_proceso": 1255,
     "finalizados": 1873,
-    "derivados": 40
+    "derivados": 39
   },
   "canales": {
     "WhatsApp Ambiente": 1757,
@@ -73708,5 +73708,5 @@
     "Email Oficial": 1
   },
   "totalVecinos": 4715,
-  "actualizado": "2026-06-26T15:34:59.880Z"
+  "actualizado": "2026-06-26T15:39:01.669Z"
 }
