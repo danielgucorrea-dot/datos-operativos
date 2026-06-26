@@ -36901,6 +36901,21 @@
       "distrito": null
     },
     {
+      "numero": "24060574605425",
+      "celular": "+54 9 3815 882-162",
+      "direccion": "",
+      "sentimiento": "neutro",
+      "mensaje": "Hola",
+      "fecha": "2026-06-26T01:59:28.228Z",
+      "canal": "WhatsApp Ambiente",
+      "nombre": "",
+      "telefono": "+54 9 3815 882-162",
+      "email": "",
+      "lat": null,
+      "lon": null,
+      "distrito": null
+    },
+    {
       "numero": "3815515252",
       "canal": "Aplicación Móvil",
       "nombre": "Carlos Alfredo  Soto",
@@ -37827,11 +37842,11 @@
     "derivados": 38
   },
   "canales": {
-    "WhatsApp Ambiente": 2460,
+    "WhatsApp Ambiente": 2461,
     "Aplicación Móvil": 26,
     "Chat Center (Call Center)": 25,
     "Personalmente": 6
   },
-  "totalVecinos": 2517,
-  "actualizado": "2026-06-26T01:59:14.219Z"
+  "totalVecinos": 2518,
+  "actualizado": "2026-06-26T02:00:14.820Z"
 }
