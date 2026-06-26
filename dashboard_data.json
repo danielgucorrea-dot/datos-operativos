@@ -37021,6 +37021,22 @@
       "distrito": null
     },
     {
+      "numero": "3815612217",
+      "canal": "Aplicación Móvil",
+      "nombre": "NOELIA MARIANELA  CARRAPIZO ",
+      "telefono": "3815612217",
+      "email": "noeliamarianelacarrapizo1982@gmail.com",
+      "direccion": "Combate de Las Piedras 1380, San Miguel de Tucumán, Tucumán",
+      "lat": "-26.8326632",
+      "lon": "-65.2190441",
+      "distrito": 10,
+      "sentimiento": "neutro",
+      "asunto": "Recolección de Residuos No Habituales (cantidad reducida)",
+      "area": "Ambiente",
+      "estado": "INICIADO",
+      "fecha": "2026-06-26T13:16:42.000Z"
+    },
+    {
       "numero": "3815627371",
       "canal": "Aplicación Móvil",
       "nombre": "LEILA MARÍA ABDALA",
@@ -37241,7 +37257,7 @@
       "sentimiento": "neutro",
       "asunto": "Ruidos molestos",
       "area": "Salud Ambiental",
-      "estado": "EN PROCESO",
+      "estado": "FINALIZADO",
       "fecha": "2026-06-24T11:46:04.000Z"
     },
     {
@@ -37983,23 +37999,23 @@
   ],
   "pedidos": {
     "bot": 0,
-    "bam": 51,
+    "bam": 54,
     "completados": 0,
-    "pendientes": 51
+    "pendientes": 54
   },
   "reclamos": {
-    "total": 3182,
-    "iniciados": 20,
-    "en_proceso": 1255,
-    "finalizados": 1865,
+    "total": 3183,
+    "iniciados": 21,
+    "en_proceso": 1254,
+    "finalizados": 1866,
     "derivados": 42
   },
   "canales": {
     "WhatsApp Ambiente": 2468,
-    "Aplicación Móvil": 27,
+    "Aplicación Móvil": 28,
     "Chat Center (Call Center)": 26,
     "Personalmente": 7
   },
-  "totalVecinos": 2528,
-  "actualizado": "2026-06-26T13:08:09.348Z"
+  "totalVecinos": 2529,
+  "actualizado": "2026-06-26T13:27:09.575Z"
 }
