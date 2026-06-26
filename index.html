@@ -1,211 +1,413 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Panel de Gestión</title>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.js"></script>
-<style>
-* { margin: 0; padding: 0; box-sizing: border-box; }
-body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; background: #f5f5f0; color: #1a1a1a; min-height: 100vh; }
-#login-screen { display: flex; align-items: center; justify-content: center; min-height: 100vh; }
-.login-card { background: white; border-radius: 12px; padding: 2.5rem; width: 320px; border: 0.5px solid #e0e0d8; }
-.login-card h1 { font-size: 18px; font-weight: 500; margin-bottom: 8px; }
-.login-card p { font-size: 13px; color: #888; margin-bottom: 1.5rem; }
-.login-card input { width: 100%; padding: 10px 14px; border: 0.5px solid #d0d0c8; border-radius: 8px; font-size: 14px; margin-bottom: 12px; outline: none; background: #fafaf8; }
-.login-card input:focus { border-color: #888; }
-.login-card button { width: 100%; padding: 10px; background: #1a1a1a; color: white; border: none; border-radius: 8px; font-size: 14px; cursor: pointer; }
-.error { color: #c0392b; font-size: 12px; margin-top: 8px; display: none; }
-#dashboard { display: none; padding: 1.5rem; max-width: 900px; margin: 0 auto; }
-.header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 1.5rem; }
-.header h1 { font-size: 18px; font-weight: 500; }
-.header span { font-size: 12px; color: #888; }
-.logout { font-size: 12px; color: #888; cursor: pointer; border: 0.5px solid #d0d0c8; padding: 4px 10px; border-radius: 6px; background: none; }
-.metrics { display: grid; grid-template-columns: repeat(4, 1fr); gap: 12px; margin-bottom: 1.5rem; }
-.metric { background: white; border-radius: 10px; padding: 1rem; border: 0.5px solid #e0e0d8; text-align: center; }
-.metric .label { font-size: 12px; color: #888; margin-bottom: 6px; }
-.metric .value { font-size: 26px; font-weight: 500; }
-.metric.positivo .value { color: #1D9E75; }
-.metric.negativo .value { color: #D85A30; }
-.grid-2 { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; margin-bottom: 1.5rem; }
-.card { background: white; border-radius: 10px; padding: 1.25rem; border: 0.5px solid #e0e0d8; margin-bottom: 1.5rem; }
-.card-title { font-size: 13px; color: #888; margin-bottom: 1rem; }
-.chart-wrap { position: relative; height: 200px; }
-.barra { display: flex; align-items: center; gap: 10px; margin-bottom: 10px; }
-.barra-label { font-size: 12px; color: #555; width: 70px; text-align: right; }
-.barra-track { flex: 1; background: #f0f0ec; border-radius: 4px; height: 8px; overflow: hidden; }
-.barra-fill { height: 100%; border-radius: 4px; }
-.barra-pct { font-size: 12px; color: #888; width: 30px; }
-table { width: 100%; border-collapse: collapse; font-size: 13px; }
-th { text-align: left; padding: 8px 0; color: #888; font-weight: 500; border-bottom: 0.5px solid #e0e0d8; }
-td { padding: 10px 0; border-bottom: 0.5px solid #f0f0ec; }
-.badge { font-size: 11px; padding: 2px 8px; border-radius: 6px; font-weight: 500; }
-.badge.pos { background: #E1F5EE; color: #0F6E56; }
-.badge.neg { background: #FAECE7; color: #993C1D; }
-.pagination { display: flex; align-items: center; gap: 8px; margin-top: 12px; }
-.pagination button { font-size: 12px; padding: 5px 10px; border: 0.5px solid #d0d0c8; border-radius: 6px; background: none; cursor: pointer; }
-.pagination button:disabled { opacity: 0.4; cursor: default; }
-.pagination span { font-size: 12px; color: #888; }
-.actualizado { font-size: 11px; color: #aaa; margin-top: 1.5rem; text-align: center; padding-bottom: 2rem; }
-@media (max-width: 600px) {
-  .metrics { grid-template-columns: repeat(2, 1fr); }
-  .grid-2 { grid-template-columns: 1fr; }
-}
-</style>
+  <meta charset="UTF-8">
+  <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+  <meta http-equiv="Pragma" content="no-cache">
+  <meta http-equiv="Expires" content="0">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Dashboard — Secretaría de Ambiente SMT</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; background: #f5f5f0; color: #1a1a1a; }
+
+    /* LOGIN */
+    #login-screen { display:flex; align-items:center; justify-content:center; min-height:100vh; background:#f5f5f0; }
+    .login-box { background:#fff; border-radius:12px; padding:40px; width:320px; box-shadow:0 2px 20px rgba(0,0,0,.08); text-align:center; }
+    .login-box h2 { font-size:18px; margin-bottom:6px; }
+    .login-box p { font-size:12px; color:#888; margin-bottom:24px; }
+    .login-box input { width:100%; padding:10px 14px; border:1px solid #ddd; border-radius:8px; font-size:14px; margin-bottom:12px; }
+    .login-box button { width:100%; padding:11px; background:#2d6a4f; color:#fff; border:none; border-radius:8px; font-size:14px; cursor:pointer; }
+    .login-box button:hover { background:#1b4332; }
+    #login-error { color:#c0392b; font-size:12px; margin-top:8px; display:none; }
+
+    /* DASHBOARD */
+    #dashboard { display:none; max-width:900px; margin:0 auto; padding:24px 16px 60px; }
+    .header { display:flex; align-items:center; justify-content:space-between; margin-bottom:24px; flex-wrap:wrap; gap:12px; }
+    .header h1 { font-size:18px; font-weight:700; }
+    .header p { font-size:12px; color:#888; }
+
+    /* CONTROLES */
+    .controles { display:flex; gap:8px; align-items:center; flex-wrap:wrap; margin-bottom:20px; }
+    .controles select { padding:8px 12px; border:1px solid #ddd; border-radius:8px; font-size:13px; background:#fff; cursor:pointer; }
+    .controles label { font-size:13px; color:#555; }
+
+    /* MÉTRICAS */
+    .metricas { display:grid; grid-template-columns:repeat(auto-fit, minmax(160px,1fr)); gap:12px; margin-bottom:24px; }
+    .metrica { background:#fff; border-radius:10px; padding:16px; box-shadow:0 1px 4px rgba(0,0,0,.06); }
+    .metrica .num { font-size:32px; font-weight:700; }
+    .metrica .label { font-size:12px; color:#888; margin-top:2px; }
+    .metrica.pos .num { color:#2d6a4f; }
+    .metrica.neg .num { color:#c0392b; }
+    .metrica.neu .num { color:#888; }
+    .metrica.total .num { color:#1a1a1a; }
+
+    /* BARRA */
+    .barra-wrap { background:#fff; border-radius:10px; padding:16px 20px; margin-bottom:24px; box-shadow:0 1px 4px rgba(0,0,0,.06); }
+    .barra-wrap h3 { font-size:13px; font-weight:600; margin-bottom:12px; color:#444; }
+    .barra-row { display:flex; align-items:center; gap:10px; margin-bottom:8px; }
+    .barra-row .etiqueta { font-size:12px; width:100px; color:#555; }
+    .barra-bg { flex:1; background:#f0f0ea; border-radius:4px; height:10px; overflow:hidden; }
+    .barra-fill { height:100%; border-radius:4px; transition:width .4s; }
+    .barra-fill.pos { background:#2d6a4f; }
+    .barra-fill.neg { background:#c0392b; }
+    .barra-fill.neu { background:#bbb; }
+    .barra-row .pct { font-size:12px; color:#888; width:36px; text-align:right; }
+
+    /* BOTÓN DESCARGA */
+    .descarga-wrap { margin-bottom:24px; }
+    .btn-descarga { display:flex; align-items:center; justify-content:center; gap:10px; width:100%; padding:16px; background:#2d6a4f; color:#fff; border:none; border-radius:10px; font-size:16px; font-weight:600; cursor:pointer; box-shadow:0 2px 8px rgba(45,106,79,.3); transition:background .2s; }
+    .btn-descarga:hover { background:#1b4332; }
+    .btn-descarga svg { width:20px; height:20px; }
+
+    /* TABS */
+    .tabs { display:flex; gap:4px; margin-bottom:16px; border-bottom:1px solid #e8e8e4; }
+    .tab { padding:8px 16px; font-size:13px; cursor:pointer; border-bottom:2px solid transparent; color:#888; background:none; border-top:none; border-left:none; border-right:none; }
+    .tab.active { color:#2d6a4f; border-bottom-color:#2d6a4f; font-weight:600; }
+
+    /* LISTA */
+    .lista-wrap { background:#fff; border-radius:10px; box-shadow:0 1px 4px rgba(0,0,0,.06); overflow:hidden; }
+    .lista-item { padding:12px 16px; border-bottom:1px solid #f0f0ea; display:flex; gap:12px; align-items:flex-start; }
+    .lista-item:last-child { border-bottom:none; }
+    .badge { font-size:10px; font-weight:600; padding:3px 8px; border-radius:20px; white-space:nowrap; margin-top:2px; }
+    .badge.pos { background:#d8f3dc; color:#2d6a4f; }
+    .badge.neg { background:#fde8e8; color:#c0392b; }
+    .badge.neu { background:#f0f0ea; color:#888; }
+    .item-cel { font-size:13px; font-family:monospace; font-weight:600; }
+    .item-dir { font-size:12px; color:#888; margin-top:2px; }
+    .item-msg { font-size:13px; color:#444; margin-top:4px; font-style:italic; }
+
+    /* PAGINACIÓN */
+    .paginacion { display:flex; align-items:center; justify-content:center; gap:12px; padding:16px; }
+    .paginacion button { padding:6px 14px; border:1px solid #ddd; border-radius:6px; background:#fff; cursor:pointer; font-size:13px; }
+    .paginacion button:disabled { opacity:.4; cursor:default; }
+    .paginacion span { font-size:13px; color:#888; }
+
+    /* MODAL CONVERSACIÓN */
+    .modal-bg { display:none; position:fixed; inset:0; background:rgba(0,0,0,.4); z-index:100; align-items:center; justify-content:center; }
+    .modal-bg.open { display:flex; }
+    .modal { background:#fff; border-radius:12px; width:90%; max-width:480px; max-height:80vh; overflow:hidden; display:flex; flex-direction:column; }
+    .modal-head { padding:16px 20px; border-bottom:1px solid #f0f0ea; display:flex; justify-content:space-between; align-items:center; }
+    .modal-head h3 { font-size:15px; font-weight:600; }
+    .modal-close { background:none; border:none; font-size:20px; cursor:pointer; color:#888; }
+    .modal-pin { padding:20px; }
+    .modal-pin input { width:100%; padding:10px; border:1px solid #ddd; border-radius:8px; font-size:16px; letter-spacing:4px; text-align:center; margin-bottom:12px; }
+    .modal-pin button { width:100%; padding:10px; background:#2d6a4f; color:#fff; border:none; border-radius:8px; font-size:14px; cursor:pointer; }
+    .modal-pin .error { color:#c0392b; font-size:12px; text-align:center; margin-top:8px; display:none; }
+    .modal-body { padding:16px 20px; overflow-y:auto; flex:1; }
+    .conv-item { margin-bottom:12px; }
+    .conv-item .quien { font-size:11px; color:#888; margin-bottom:2px; }
+    .conv-burbuja { display:inline-block; padding:8px 12px; border-radius:10px; font-size:13px; max-width:90%; }
+    .conv-burbuja.vecino { background:#f0f0ea; }
+    .conv-burbuja.bot { background:#d8f3dc; margin-left:auto; display:block; text-align:right; }
+  </style>
 </head>
 <body>
 
+<!-- LOGIN -->
 <div id="login-screen">
-  <div class="login-card">
-    <h1>Panel de gestión</h1>
-    <p>Ingresá tu contraseña para acceder</p>
-    <input type="password" id="pwd" placeholder="Contraseña" onkeydown="if(event.key==='Enter')login()" />
+  <div class="login-box">
+    <h2>Secretaría de Ambiente</h2>
+    <p>Municipalidad de San Miguel de Tucumán</p>
+    <input type="password" id="pwd" placeholder="Contraseña" onkeydown="if(event.key==='Enter')login()">
     <button onclick="login()">Ingresar</button>
-    <p class="error" id="err">Contraseña incorrecta</p>
+    <div id="login-error">Contraseña incorrecta</div>
   </div>
 </div>
 
+<!-- DASHBOARD -->
 <div id="dashboard">
   <div class="header">
     <div>
-      <h1>Panel de gestión operativa</h1>
-      <span id="fecha-actual"></span>
+      <h1>📊 Satisfacción Vecinal</h1>
+      <p id="fecha-actual"></p>
     </div>
-    <button class="logout" onclick="logout()">Salir</button>
+    <div style="font-size:12px;color:#aaa;">Secretaría de Ambiente — SMT</div>
   </div>
 
-  <div class="metrics">
-    <div class="metric"><div class="label">Vecinos contactados</div><div class="value" id="m-total">—</div></div>
-    <div class="metric positivo"><div class="label">Satisfechos</div><div class="value" id="m-pos">—</div></div>
-    <div class="metric"><div class="label">Indiferentes</div><div class="value" id="m-neu">—</div></div>
-    <div class="metric negativo"><div class="label">Disconformes</div><div class="value" id="m-neg">—</div></div>
+  <!-- CONTROLES -->
+  <div class="controles">
+    <label>Período:</label>
+    <select id="periodo" onchange="aplicarFiltro()">
+      <option value="30">Últimos 30 días</option>
+      <option value="60">Últimos 60 días</option>
+      <option value="90" selected>Últimos 90 días</option>
+      <option value="180">Últimos 6 meses</option>
+      <option value="365">Último año</option>
+      <option value="0">Todo el período</option>
+    </select>
+    <label style="margin-left:8px;">Filtrar:</label>
+    <select id="filtro-sent" onchange="aplicarFiltro()">
+      <option value="todos">Todos</option>
+      <option value="positivo">Satisfechos</option>
+      <option value="negativo">Disconformes</option>
+      <option value="neutro">Neutros</option>
+    </select>
   </div>
 
-  <div class="card" style="margin-bottom:1.5rem;">
-    <div class="card-title">Vecinos por canal de contacto</div>
-    <div id="canales-lista" style="display:flex;flex-wrap:wrap;gap:8px;"></div>
+  <!-- MÉTRICAS -->
+  <div class="metricas">
+    <div class="metrica total"><div class="num" id="m-total">0</div><div class="label">Total mensajes</div></div>
+    <div class="metrica pos"><div class="num" id="m-pos">0</div><div class="label">Satisfechos</div></div>
+    <div class="metrica neu"><div class="num" id="m-neu">0</div><div class="label">Neutros</div></div>
+    <div class="metrica neg"><div class="num" id="m-neg">0</div><div class="label">Disconformes</div></div>
   </div>
 
-  <div class="grid-2">
-    <div class="card" style="margin-bottom:0;">
-      <div class="card-title">Distribución de satisfacción</div>
-      <div class="chart-wrap"><canvas id="pieChart" role="img" aria-label="Distribución de satisfacción vecinal"></canvas></div>
-      <div style="display:flex;gap:12px;margin-top:12px;font-size:12px;color:#888;flex-wrap:wrap;">
-        <span><span style="display:inline-block;width:10px;height:10px;border-radius:2px;background:#1D9E75;margin-right:4px;"></span>Satisfechos</span>
-        <span><span style="display:inline-block;width:10px;height:10px;border-radius:2px;background:#888780;margin-right:4px;"></span>Indiferentes</span>
-        <span><span style="display:inline-block;width:10px;height:10px;border-radius:2px;background:#D85A30;margin-right:4px;"></span>Disconformes</span>
-      </div>
+  <!-- BARRA -->
+  <div class="barra-wrap">
+    <h3>Distribución de satisfacción</h3>
+    <div class="barra-row">
+      <span class="etiqueta">Satisfechos</span>
+      <div class="barra-bg"><div class="barra-fill pos" id="bar-pos"></div></div>
+      <span class="pct" id="pct-pos">0%</span>
     </div>
-
-    <div class="card" style="margin-bottom:0;">
-      <div class="card-title">Pedidos del día</div>
-      <div class="barra">
-        <div class="barra-label">WhatsApp</div>
-        <div class="barra-track"><div class="barra-fill" id="bar-bot" style="background:#378ADD;width:0%"></div></div>
-        <div class="barra-pct" id="pct-bot">—</div>
-      </div>
-      <div class="barra">
-        <div class="barra-label">BAM interno</div>
-        <div class="barra-track"><div class="barra-fill" id="bar-bam" style="background:#BA7517;width:0%"></div></div>
-        <div class="barra-pct" id="pct-bam">—</div>
-      </div>
-      <div style="margin-top:1rem;padding-top:1rem;border-top:0.5px solid #f0f0ec;">
-        <div style="display:flex;justify-content:space-between;font-size:12px;margin-bottom:6px;">
-          <span style="color:#888;">Total pedidos</span><span style="font-weight:500;" id="total-pedidos">—</span>
-        </div>
-        <div style="display:flex;justify-content:space-between;font-size:12px;margin-bottom:6px;">
-          <span style="color:#888;">Completados</span><span style="font-weight:500;color:#1D9E75;" id="completados">—</span>
-        </div>
-        <div style="display:flex;justify-content:space-between;font-size:12px;">
-          <span style="color:#888;">Pendientes</span><span style="font-weight:500;color:#BA7517;" id="pendientes">—</span>
-        </div>
-      </div>
+    <div class="barra-row">
+      <span class="etiqueta">Neutros</span>
+      <div class="barra-bg"><div class="barra-fill neu" id="bar-neu"></div></div>
+      <span class="pct" id="pct-neu">0%</span>
     </div>
-  </div>
-
-  <div style="margin-bottom:1.5rem;"></div>
-
-  <div class="card">
-    <div class="card-title">Reclamos municipales (Atención Ciudadana)</div>
-    <div style="display:grid;grid-template-columns:repeat(2,1fr);gap:12px;margin-bottom:12px;">
-      <div style="text-align:center;padding:12px;background:#f5f5f0;border-radius:8px;">
-        <div style="font-size:11px;color:#888;margin-bottom:4px;">Iniciados</div>
-        <div style="font-size:22px;font-weight:500;color:#BA7517;" id="rec-iniciados">—</div>
-      </div>
-      <div style="text-align:center;padding:12px;background:#f5f5f0;border-radius:8px;">
-        <div style="font-size:11px;color:#888;margin-bottom:4px;">En proceso</div>
-        <div style="font-size:22px;font-weight:500;color:#378ADD;" id="rec-proceso">—</div>
-      </div>
-      <div style="text-align:center;padding:12px;background:#f5f5f0;border-radius:8px;">
-        <div style="font-size:11px;color:#888;margin-bottom:4px;">Finalizados</div>
-        <div style="font-size:22px;font-weight:500;color:#1D9E75;" id="rec-resueltos">—</div>
-      </div>
-      <div style="text-align:center;padding:12px;background:#f5f5f0;border-radius:8px;">
-        <div style="font-size:11px;color:#888;margin-bottom:4px;">Derivados</div>
-        <div style="font-size:22px;font-weight:500;color:#888;" id="rec-derivados">—</div>
-      </div>
-    </div>
-    <div style="display:flex;justify-content:space-between;font-size:12px;color:#888;">
-      <span>Total reclamos período</span>
-      <span style="font-weight:500;color:#1a1a1a;" id="rec-total">—</span>
+    <div class="barra-row">
+      <span class="etiqueta">Disconformes</span>
+      <div class="barra-bg"><div class="barra-fill neg" id="bar-neg"></div></div>
+      <span class="pct" id="pct-neg">0%</span>
     </div>
   </div>
 
-  <div style="margin-bottom:1.5rem;"></div>
-
-  <div class="card">
-    <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:1rem;">
-      <div class="card-title" style="margin:0;">Vecinos satisfechos con dirección registrada</div>
-      <span class="badge pos" id="count-pos-dir">—</span>
-    </div>
-    <table>
-      <thead><tr>
-        <th style="width:28%;">Celular</th>
-        <th style="width:32%;">Dirección</th>
-        <th style="width:20%;">Canal</th>
-        <th style="width:20%;text-align:center;">Estado</th>
-      </tr></thead>
-      <tbody id="tabla-body"></tbody>
-    </table>
-    <div class="pagination">
-      <button id="btn-prev" onclick="paginaAnterior()" disabled>← Ant</button>
-      <span id="pag-info"></span>
-      <button id="btn-next" onclick="paginaSiguiente()">Sig →</button>
-    </div>
+  <!-- BOTÓN DESCARGA -->
+  <div class="descarga-wrap">
+    <button class="btn-descarga" onclick="descargarLista()">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15v4a2 2 0 01-2 2H5a2 2 0 01-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
+      Descargar lista de números
+    </button>
   </div>
 
-  <div class="card">
-    <div class="card-title">Vecinos disconformes — requieren atención</div>
-    <div id="negativos-lista"></div>
+  <!-- TABS + LISTA -->
+  <div class="tabs">
+    <button class="tab active" onclick="cambiarTab('todos')">Todos</button>
+    <button class="tab" onclick="cambiarTab('positivo')">Satisfechos</button>
+    <button class="tab" onclick="cambiarTab('negativo')">Disconformes</button>
+    <button class="tab" onclick="cambiarTab('neutro')">Neutros</button>
   </div>
 
-  <div class="actualizado" id="actualizado"></div>
+  <div class="lista-wrap" id="lista-wrap">
+    <div class="lista-item" style="color:#aaa;font-size:13px;">Cargando...</div>
+  </div>
+  <div class="paginacion">
+    <button id="btn-prev" onclick="paginaAnterior()" disabled>← Ant</button>
+    <span id="pag-info">1 / 1</span>
+    <button id="btn-next" onclick="paginaSiguiente()">Sig →</button>
+  </div>
+</div>
+
+<!-- MODAL PIN -->
+<div class="modal-bg" id="modal-bg" onclick="if(event.target===this)cerrarModal()">
+  <div class="modal">
+    <div class="modal-head">
+      <h3 id="modal-titulo">Conversación</h3>
+      <button class="modal-close" onclick="cerrarModal()">×</button>
+    </div>
+    <div id="modal-contenido">
+      <div class="modal-pin">
+        <input type="password" id="pin-input" placeholder="PIN" maxlength="6" onkeydown="if(event.key==='Enter')verificarPin()">
+        <button onclick="verificarPin()">Ver conversación</button>
+        <div class="error" id="pin-error">PIN incorrecto</div>
+      </div>
+    </div>
+  </div>
 </div>
 
 <script>
 const PASS = 'sm1009'
+const PIN  = 'sm2024'
+const POR_PAGINA = 15
+
+let datos = { satisfaccion: [] }
+let datosActuales = []
 let pagina = 0
-const POR_PAGINA = 8
-let datos = {}
-let pieInstance = null
-let datosTabla = []
+let tabActiva = 'todos'
+let vecindadActual = null
 
 function login() {
   if (document.getElementById('pwd').value === PASS) {
-    sessionStorage.setItem('auth', '1')
+    sessionStorage.setItem('auth','1')
     document.getElementById('login-screen').style.display = 'none'
     document.getElementById('dashboard').style.display = 'block'
     cargarDatos()
   } else {
-    document.getElementById('err').style.display = 'block'
+    document.getElementById('login-error').style.display = 'block'
   }
 }
 
-function logout() {
-  sessionStorage.removeItem('auth')
-  document.getElementById('dashboard').style.display = 'none'
-  document.getElementById('login-screen').style.display = 'flex'
-  document.getElementById('pwd').value = ''
+async function cargarDatos() {
+  try {
+    const r = await fetch('dashboard_data.json?v=' + Date.now(), {cache:'no-store'})
+    if (!r.ok) throw new Error()
+    datos = await r.json()
+  } catch(e) {
+    datos = { satisfaccion: [] }
+  }
+  document.getElementById('fecha-actual').textContent =
+    new Date().toLocaleDateString('es-AR',{weekday:'long',day:'numeric',month:'long',year:'numeric'})
+  aplicarFiltro()
+}
+
+function aplicarFiltro() {
+  const dias = parseInt(document.getElementById('periodo').value)
+  const sentFiltro = document.getElementById('filtro-sent').value
+  const sat = (datos.satisfaccion || []).filter(s => s.celular && s.celular.trim())
+
+  const ahora = new Date()
+  const filtradosPeriodo = dias === 0 ? sat : sat.filter(s => {
+    if (!s.fecha) return false
+    const diff = (ahora - new Date(s.fecha)) / (1000*60*60*24)
+    return diff <= dias
+  })
+
+  const pos = filtradosPeriodo.filter(s => s.sentimiento === 'positivo')
+  const neg = filtradosPeriodo.filter(s => s.sentimiento === 'negativo')
+  const neu = filtradosPeriodo.filter(s => s.sentimiento === 'neutro')
+  const total = filtradosPeriodo.length
+
+  document.getElementById('m-total').textContent = total
+  document.getElementById('m-pos').textContent = pos.length
+  document.getElementById('m-neg').textContent = neg.length
+  document.getElementById('m-neu').textContent = neu.length
+
+  const pct = n => total ? Math.round(n/total*100) : 0
+  document.getElementById('bar-pos').style.width = pct(pos.length)+'%'
+  document.getElementById('bar-neu').style.width = pct(neu.length)+'%'
+  document.getElementById('bar-neg').style.width = pct(neg.length)+'%'
+  document.getElementById('pct-pos').textContent = pct(pos.length)+'%'
+  document.getElementById('pct-neu').textContent = pct(neu.length)+'%'
+  document.getElementById('pct-neg').textContent = pct(neg.length)+'%'
+
+  // Aplicar filtro de sentimiento para la lista
+  if (sentFiltro === 'todos') {
+    datosActuales = filtradosPeriodo
+    tabActiva = 'todos'
+  } else {
+    datosActuales = filtradosPeriodo.filter(s => s.sentimiento === sentFiltro)
+    tabActiva = sentFiltro
+  }
+
+  // Actualizar tabs activos
+  document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'))
+  const tabMap = {'todos':0,'positivo':1,'negativo':2,'neutro':3}
+  document.querySelectorAll('.tab')[tabMap[tabActiva] || 0].classList.add('active')
+
+  pagina = 0
+  renderLista()
+}
+
+function cambiarTab(sent) {
+  tabActiva = sent
+  document.getElementById('filtro-sent').value = sent === 'todos' ? 'todos' : sent
+  aplicarFiltro()
+}
+
+function renderLista() {
+  const inicio = pagina * POR_PAGINA
+  const slice = datosActuales.slice(inicio, inicio + POR_PAGINA)
+  const totalPag = Math.ceil(datosActuales.length / POR_PAGINA) || 1
+
+  if (!slice.length) {
+    document.getElementById('lista-wrap').innerHTML = '<div class="lista-item" style="color:#aaa;font-size:13px;padding:24px;">Sin registros para este filtro</div>'
+  } else {
+    document.getElementById('lista-wrap').innerHTML = slice.map((d,i) => {
+      const cls = d.sentimiento === 'positivo' ? 'pos' : d.sentimiento === 'negativo' ? 'neg' : 'neu'
+      const label = d.sentimiento === 'positivo' ? 'satisfecho' : d.sentimiento === 'negativo' ? 'disconforme' : 'neutro'
+      const idx = inicio + i
+      return `<div class="lista-item">
+        <span class="badge ${cls}">${label}</span>
+        <div style="flex:1;min-width:0;">
+          <div class="item-cel">${d.celular}</div>
+          ${d.direccion ? `<div class="item-dir">📍 ${d.direccion}</div>` : ''}
+          ${d.mensaje ? `<div class="item-msg">"${d.mensaje}"</div>` : ''}
+          <div style="margin-top:6px;">
+            <button onclick="abrirConversacion(${idx})" style="font-size:11px;color:#2d6a4f;background:none;border:none;cursor:pointer;padding:0;">🔒 Ver conversación</button>
+          </div>
+        </div>
+      </div>`
+    }).join('')
+  }
+
+  document.getElementById('pag-info').textContent = `${pagina+1} / ${totalPag}`
+  document.getElementById('btn-prev').disabled = pagina === 0
+  document.getElementById('btn-next').disabled = pagina >= totalPag - 1
+}
+
+function paginaAnterior() { if (pagina > 0) { pagina--; renderLista() } }
+function paginaSiguiente() { if ((pagina+1)*POR_PAGINA < datosActuales.length) { pagina++; renderLista() } }
+
+function abrirConversacion(idx) {
+  vecindadActual = datosActuales[idx]
+  document.getElementById('modal-titulo').textContent = vecindadActual.celular || 'Conversación'
+  document.getElementById('pin-input').value = ''
+  document.getElementById('pin-error').style.display = 'none'
+  document.getElementById('modal-contenido').innerHTML = `
+    <div class="modal-pin">
+      <input type="password" id="pin-input" placeholder="PIN" maxlength="6" onkeydown="if(event.key==='Enter')verificarPin()">
+      <button onclick="verificarPin()">Ver conversación</button>
+      <div class="error" id="pin-error">PIN incorrecto</div>
+    </div>`
+  document.getElementById('modal-bg').classList.add('open')
+  setTimeout(() => document.getElementById('pin-input')?.focus(), 100)
+}
+
+function verificarPin() {
+  if (document.getElementById('pin-input').value === PIN) {
+    const d = vecindadActual
+    const cls = d.sentimiento === 'positivo' ? 'pos' : d.sentimiento === 'negativo' ? 'neg' : 'neu'
+    const label = d.sentimiento === 'positivo' ? 'satisfecho' : d.sentimiento === 'negativo' ? 'disconforme' : 'neutro'
+    document.getElementById('modal-contenido').innerHTML = `
+      <div class="modal-body">
+        <div style="margin-bottom:12px;">
+          <div style="font-size:13px;font-family:monospace;font-weight:600;">${d.celular}</div>
+          ${d.nombre ? `<div style="font-size:12px;color:#888;">${d.nombre}</div>` : ''}
+          ${d.direccion ? `<div style="font-size:12px;color:#888;">📍 ${d.direccion}</div>` : ''}
+          <span class="badge ${cls}" style="margin-top:4px;display:inline-block;">${label}</span>
+        </div>
+        ${d.mensaje ? `<div class="conv-item">
+          <div class="quien">Vecino</div>
+          <div class="conv-burbuja vecino">${d.mensaje}</div>
+        </div>` : '<div style="color:#aaa;font-size:13px;">Sin mensaje registrado</div>'}
+      </div>`
+  } else {
+    document.getElementById('pin-error').style.display = 'block'
+  }
+}
+
+function cerrarModal() {
+  document.getElementById('modal-bg').classList.remove('open')
+  vecindadActual = null
+}
+
+function descargarLista() {
+  const dias = parseInt(document.getElementById('periodo').value)
+  const sat = (datos.satisfaccion || []).filter(s => s.celular && s.celular.trim())
+  const ahora = new Date()
+  const lista = dias === 0 ? sat : sat.filter(s => {
+    if (!s.fecha) return false
+    return (ahora - new Date(s.fecha)) / (1000*60*60*24) <= dias
+  })
+
+  const header = 'celular,nombre,direccion,sentimiento,fecha\n'
+  const rows = lista.map(s => [
+    s.celular || '',
+    (s.nombre || '').replace(/,/g,' '),
+    (s.direccion || '').replace(/,/g,' ').replace(/\n/g,' '),
+    s.sentimiento || '',
+    (s.fecha || '').slice(0,10)
+  ].join(',')).join('\n')
+
+  const blob = new Blob(['\uFEFF' + header + rows], {type:'text/csv;charset=utf-8'})
+  const url = URL.createObjectURL(blob)
+  const a = document.createElement('a')
+  a.href = url
+  const periodo = dias === 0 ? 'completo' : `${dias}dias`
+  a.download = `vecinos_ambiente_${periodo}_${new Date().toISOString().slice(0,10)}.csv`
+  a.click()
+  URL.revokeObjectURL(url)
 }
 
 if (sessionStorage.getItem('auth') === '1') {
@@ -213,143 +415,6 @@ if (sessionStorage.getItem('auth') === '1') {
   document.getElementById('dashboard').style.display = 'block'
   cargarDatos()
 }
-
-async function cargarDatos() {
-  try {
-    const r = await fetch('dashboard_data.json?t=' + Date.now())
-    if (!r.ok) throw new Error()
-    datos = await r.json()
-  } catch(e) {
-    datos = {
-      satisfaccion: [
-        // datos cargados desde dashboard_data.json
-      ],
-      pedidos: { bot: 8, bam: 12, completados: 14, pendientes: 6 },
-      actualizado: new Date().toISOString()
-    }
-  }
-  renderDashboard()
-}
-
-function formatCel(n) {
-  if (!n || !n.trim()) return ''
-  // Si ya viene formateado con +54 9, devolverlo tal cual
-  if (/^\+54 9 /.test(n.trim())) return n.trim()
-  const limpio = (n||'').replace(/\D/g,'')
-  // Si tiene más de 13 dígitos es un ID interno, no teléfono
-  if (limpio.length > 13) return ''
-  const d = limpio.replace(/^549/,'').replace(/^54/,'').slice(-10)
-  return d.length === 10 ? '+54 9 ' + d.slice(0,4)+' '+d.slice(4,7)+'-'+d.slice(7) : ''
-}
-
-function renderDashboard() {
-  const s = datos.satisfaccion || []
-  const pos = s.filter(x => x.sentimiento === 'positivo')
-  const neg = s.filter(x => x.sentimiento === 'negativo')
-  const neu = s.filter(x => x.sentimiento === 'neutro')
-  const conDir = pos.filter(x => x.direccion)
-
-  document.getElementById('m-total').textContent = s.length
-  document.getElementById('m-pos').textContent = pos.length
-  document.getElementById('m-neu').textContent = neu.length
-  document.getElementById('m-neg').textContent = neg.length
-  document.getElementById('count-pos-dir').textContent = conDir.length + ' con dirección'
-
-  const p = datos.pedidos || {}
-  const total = (p.bot||0) + (p.bam||0)
-  const max = Math.max(p.bot||0, p.bam||0, 1)
-  document.getElementById('bar-bot').style.width = Math.round((p.bot||0)/max*100)+'%'
-  document.getElementById('bar-bam').style.width = Math.round((p.bam||0)/max*100)+'%'
-  document.getElementById('pct-bot').textContent = p.bot||0
-  document.getElementById('pct-bam').textContent = p.bam||0
-  document.getElementById('total-pedidos').textContent = total
-  document.getElementById('completados').textContent = p.completados||0
-  document.getElementById('pendientes').textContent = p.pendientes||0
-
-  document.getElementById('fecha-actual').textContent =
-    new Date().toLocaleDateString('es-AR',{weekday:'long',day:'numeric',month:'long',year:'numeric'})
-
-  if (datos.actualizado)
-    document.getElementById('actualizado').textContent =
-      'Última actualización: ' + new Date(datos.actualizado).toLocaleString('es-AR')
-
-  if (pieInstance) pieInstance.destroy()
-  pieInstance = new Chart(document.getElementById('pieChart'), {
-    type: 'doughnut',
-    data: {
-      labels: ['Satisfechos','Indiferentes','Disconformes'],
-      datasets: [{ data: [pos.length, neu.length, neg.length],
-        backgroundColor: ['#1D9E75','#888780','#D85A30'], borderWidth: 0 }]
-    },
-    options: { responsive: true, maintainAspectRatio: false,
-      plugins: { legend: { display: false } }, cutout: '65%' }
-  })
-
-  datosTabla = pos
-  pagina = 0
-  actualizarTabla()
-
-  const rec = datos.reclamos || {}
-  document.getElementById('rec-iniciados').textContent = rec.iniciados ?? '—'
-  document.getElementById('rec-proceso').textContent = rec.en_proceso ?? '—'
-  document.getElementById('rec-resueltos').textContent = rec.finalizados ?? '—'
-  document.getElementById('rec-derivados').textContent = rec.derivados ?? '—'
-  document.getElementById('rec-total').textContent = rec.total ?? '—'
-
-  // Total vecinos
-  document.getElementById('m-total').textContent = datos.totalVecinos ?? s.length
-
-  // Canales
-  const canales = datos.canales || {}
-  const colores = {
-    'WhatsApp Ambiente': '#1D9E75',
-    'Aplicación Móvil': '#378ADD',
-    'App Ciudad Digital': '#378ADD',
-    'Web': '#BA7517',
-    'Presencial': '#888780'
-  }
-  document.getElementById('canales-lista').innerHTML = Object.entries(canales).map(([canal, count]) => {
-    const color = colores[canal] || '#888780'
-    return `<div style="display:flex;align-items:center;gap:8px;padding:8px 12px;background:#f5f5f0;border-radius:8px;">
-      <span style="width:8px;height:8px;border-radius:50%;background:${color};flex-shrink:0;"></span>
-      <span style="font-size:13px;color:#1a1a1a;">${canal}</span>
-      <span style="font-size:13px;font-weight:500;color:#1a1a1a;margin-left:4px;">${count}</span>
-    </div>`
-  }).join('')
-
-  const el = document.getElementById('negativos-lista')
-  if (!neg.length) {
-    el.innerHTML = '<p style="font-size:13px;color:#aaa;padding:8px 0;">Sin registros negativos</p>'
-  } else {
-    el.innerHTML = neg.map(d => `
-      <div style="display:flex;gap:12px;padding:10px 0;border-bottom:0.5px solid #f0f0ec;align-items:flex-start;">
-        <span class="badge neg" style="white-space:nowrap;">disconforme</span>
-        <div>
-          <p style="font-size:12px;font-family:monospace;color:#888;margin:0 0 4px;">${formatCel(d.celular) ? formatCel(d.celular) : '<em style="color:#bbb">sin teléfono</em>'}${d.direccion?' · '+d.direccion:''}</p>
-          ${d.mensaje ? '<p style="font-size:13px;color:#1a1a1a;margin:0;">'+d.mensaje+'</p>' : ''}
-        </div>
-      </div>`).join('')
-  }
-}
-
-function actualizarTabla() {
-  const inicio = pagina * POR_PAGINA
-  const slice = datosTabla.slice(inicio, inicio + POR_PAGINA)
-  document.getElementById('tabla-body').innerHTML = slice.map(d => `
-    <tr>
-      <td style="font-family:monospace;font-size:12px;">${formatCel(d.celular||d.telefono||'') || '<em style="color:#bbb">sin teléfono</em>'}</td>
-      <td style="font-size:12px;">${d.direccion||'<span style="color:#aaa;font-style:italic;">sin dirección</span>'}</td>
-      <td style="font-size:11px;color:#888;">${d.canal||'WhatsApp'}</td>
-      <td style="text-align:center;"><span class="badge pos">satisfecho</span></td>
-    </tr>`).join('')
-  const totalPag = Math.ceil(datosTabla.length / POR_PAGINA)
-  document.getElementById('pag-info').textContent = (pagina+1)+' / '+totalPag
-  document.getElementById('btn-prev').disabled = pagina === 0
-  document.getElementById('btn-next').disabled = pagina >= totalPag - 1
-}
-
-function paginaAnterior() { if (pagina > 0) { pagina--; actualizarTabla(); } }
-function paginaSiguiente() { if ((pagina+1)*POR_PAGINA < datosTabla.length) { pagina++; actualizarTabla(); } }
 
 setInterval(() => { if (sessionStorage.getItem('auth')==='1') cargarDatos() }, 5*60*1000)
 </script>
