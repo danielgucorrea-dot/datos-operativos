@@ -33796,6 +33796,36 @@
       "distrito": null
     },
     {
+      "numero": "60886144299236",
+      "celular": "+54 9 3814 461-809",
+      "direccion": "",
+      "sentimiento": "neutro",
+      "mensaje": "Menu",
+      "fecha": "2026-06-26T15:00:04.944Z",
+      "canal": "WhatsApp Ambiente",
+      "nombre": "",
+      "telefono": "+54 9 3814 461-809",
+      "email": "",
+      "lat": null,
+      "lon": null,
+      "distrito": null
+    },
+    {
+      "numero": "60886144299236",
+      "celular": "+54 9 3814 461-809",
+      "direccion": "",
+      "sentimiento": "neutro",
+      "mensaje": "Hola",
+      "fecha": "2026-06-26T15:00:07.230Z",
+      "canal": "WhatsApp Ambiente",
+      "nombre": "",
+      "telefono": "+54 9 3814 461-809",
+      "email": "",
+      "lat": null,
+      "lon": null,
+      "distrito": null
+    },
+    {
       "numero": "3813486448",
       "canal": "Chat Center (Call Center)",
       "nombre": "Silvestre Esteban",
@@ -34802,11 +34832,11 @@
     "derivados": 42
   },
   "canales": {
-    "WhatsApp Ambiente": 2253,
+    "WhatsApp Ambiente": 2255,
     "Chat Center (Call Center)": 27,
     "Aplicación Móvil": 28,
     "Personalmente": 7
   },
-  "totalVecinos": 2315,
-  "actualizado": "2026-06-26T15:00:01.526Z"
+  "totalVecinos": 2317,
+  "actualizado": "2026-06-26T15:00:20.247Z"
 }
