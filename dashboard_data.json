@@ -26356,6 +26356,22 @@
       "distrito": null
     },
     {
+      "numero": "+543814469030",
+      "canal": "Aplicación Móvil",
+      "nombre": "Noelia Pata",
+      "telefono": "+543814469030",
+      "email": "noeliapata@gmail.com",
+      "direccion": "Pasaje Campo de las Carreras 1425, San Miguel de Tucumán, Tucumán",
+      "lat": "-26.838266592958554",
+      "lon": "-65.22134877741337",
+      "distrito": 10,
+      "sentimiento": "neutro",
+      "asunto": "Denuncia de establecimiento ",
+      "area": "Bromatología",
+      "estado": "INICIADO",
+      "fecha": "2026-06-27T17:52:01.000Z"
+    },
+    {
       "numero": "3816808312",
       "canal": "Aplicación Móvil",
       "nombre": "Paula Constanza  Palina D'Urso ",
@@ -63414,7 +63430,7 @@
     {
       "numero": "3813690084",
       "canal": "Chat Center (Call Center)",
-      "nombre": "Leonardo Suárez ",
+      "nombre": "Leonardo Su��rez ",
       "telefono": "3813690084",
       "email": "",
       "direccion": "San Miguel, Alberdi Norte, San Miguel de Tucumán, Departamento Capital, Tucumán, T4000, Argentina",
@@ -73531,15 +73547,15 @@
     "pendientes": 18
   },
   "reclamos": {
-    "total": 3174,
-    "iniciados": 13,
+    "total": 3175,
+    "iniciados": 14,
     "en_proceso": 1268,
     "finalizados": 1860,
     "derivados": 33
   },
   "canales": {
     "WhatsApp Ambiente": 1757,
-    "Aplicación Móvil": 1361,
+    "Aplicación Móvil": 1362,
     "Chat Center (Call Center)": 1424,
     "Agentes o Inspectores": 5,
     "Personalmente": 108,
@@ -73547,6 +73563,6 @@
     "Teléfono": 44,
     "Email Oficial": 1
   },
-  "totalVecinos": 4705,
-  "actualizado": "2026-06-27T17:30:57.282Z"
+  "totalVecinos": 4706,
+  "actualizado": "2026-06-27T18:00:07.816Z"
 }
