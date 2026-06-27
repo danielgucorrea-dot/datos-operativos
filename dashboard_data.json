@@ -26356,6 +26356,22 @@
       "distrito": null
     },
     {
+      "numero": "3816079619",
+      "canal": "Aplicación Móvil",
+      "nombre": "Hortensia Elizabeth  Usandivares ",
+      "telefono": "3816079619",
+      "email": "islamtucu18@gmail.com",
+      "direccion": "Reyes Peñaloza Antonio 608, San Miguel de Tucumán, Tucumán",
+      "lat": "-26.84455120727062",
+      "lon": "-65.19007120281458",
+      "distrito": 11,
+      "sentimiento": "neutro",
+      "asunto": "Basura en vía pública",
+      "area": "Ambiente",
+      "estado": "INICIADO",
+      "fecha": "2026-06-27T19:41:54.000Z"
+    },
+    {
       "numero": "3815094952",
       "canal": "Aplicación Móvil",
       "nombre": "CECILIA VERONICA RUIZ",
@@ -28281,7 +28297,7 @@
       "nombre": "MERIGLIO MARIELA",
       "telefono": "381 447-8421",
       "email": "",
-      "direccion": "Avenida Am��rica, Feput, San Miguel de Tucumán, Departamento Capital, Tucumán, T4000, Argentina",
+      "direccion": "Avenida América, Feput, San Miguel de Tucumán, Departamento Capital, Tucumán, T4000, Argentina",
       "lat": "-26.789712840413056",
       "lon": "-65.24361340500914",
       "distrito": 2,
@@ -72014,7 +72030,7 @@
       "lon": "-65.22875100374222",
       "distrito": 14,
       "sentimiento": "neutro",
-      "asunto": "Empresas habilitadas para limpieza de tanques y/o fumigación",
+      "asunto": "Empresas habilitadas para limpieza de tanques y/o fumigaci��n",
       "area": "Salud Ambiental",
       "estado": "FINALIZADO",
       "fecha": "2026-01-02T15:16:58.000Z"
@@ -73563,15 +73579,15 @@
     "pendientes": 19
   },
   "reclamos": {
-    "total": 3176,
-    "iniciados": 15,
+    "total": 3177,
+    "iniciados": 16,
     "en_proceso": 1268,
     "finalizados": 1860,
     "derivados": 33
   },
   "canales": {
     "WhatsApp Ambiente": 1757,
-    "Aplicación Móvil": 1363,
+    "Aplicación Móvil": 1364,
     "Chat Center (Call Center)": 1424,
     "Agentes o Inspectores": 5,
     "Personalmente": 108,
@@ -73579,6 +73595,6 @@
     "Teléfono": 44,
     "Email Oficial": 1
   },
-  "totalVecinos": 4707,
-  "actualizado": "2026-06-27T19:30:58.151Z"
+  "totalVecinos": 4708,
+  "actualizado": "2026-06-27T20:00:08.522Z"
 }
