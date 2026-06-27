@@ -26356,6 +26356,22 @@
       "distrito": null
     },
     {
+      "numero": "3865302433",
+      "canal": "Aplicación Móvil",
+      "nombre": "Daniela Alejandra Tonello",
+      "telefono": "3865302433",
+      "email": "daniela.a.tonello@gmail.com",
+      "direccion": "Avenida Mate de Luna 1600, San Miguel de Tucumán, Tucumán",
+      "lat": "-26.826522092848354",
+      "lon": "-65.22218495607376",
+      "distrito": 10,
+      "sentimiento": "neutro",
+      "asunto": "Ruidos molestos",
+      "area": "Salud Ambiental",
+      "estado": "INICIADO",
+      "fecha": "2026-06-27T21:06:46.000Z"
+    },
+    {
       "numero": "3816079619",
       "canal": "Aplicación Móvil",
       "nombre": "Hortensia Elizabeth  Usandivares ",
@@ -45438,7 +45454,7 @@
       "lon": "-65.22136023189348",
       "distrito": 14,
       "sentimiento": "neutro",
-      "asunto": "Recolección de residuos sin realizar",
+      "asunto": "Recolecci��n de residuos sin realizar",
       "area": "Secretaría de Ambiente",
       "estado": "EN PROCESO",
       "fecha": "2026-04-07T13:36:56.000Z"
@@ -72030,7 +72046,7 @@
       "lon": "-65.22875100374222",
       "distrito": 14,
       "sentimiento": "neutro",
-      "asunto": "Empresas habilitadas para limpieza de tanques y/o fumigaci��n",
+      "asunto": "Empresas habilitadas para limpieza de tanques y/o fumigación",
       "area": "Salud Ambiental",
       "estado": "FINALIZADO",
       "fecha": "2026-01-02T15:16:58.000Z"
@@ -73579,15 +73595,15 @@
     "pendientes": 19
   },
   "reclamos": {
-    "total": 3177,
-    "iniciados": 16,
+    "total": 3178,
+    "iniciados": 17,
     "en_proceso": 1268,
     "finalizados": 1860,
     "derivados": 33
   },
   "canales": {
     "WhatsApp Ambiente": 1757,
-    "Aplicación Móvil": 1364,
+    "Aplicación Móvil": 1365,
     "Chat Center (Call Center)": 1424,
     "Agentes o Inspectores": 5,
     "Personalmente": 108,
@@ -73595,6 +73611,6 @@
     "Teléfono": 44,
     "Email Oficial": 1
   },
-  "totalVecinos": 4708,
-  "actualizado": "2026-06-27T21:00:58.746Z"
+  "totalVecinos": 4709,
+  "actualizado": "2026-06-27T21:30:09.321Z"
 }
