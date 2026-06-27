@@ -26356,6 +26356,22 @@
       "distrito": null
     },
     {
+      "numero": "3814450357",
+      "canal": "Aplicación Móvil",
+      "nombre": "Cesar Daniel Lescano",
+      "telefono": "3814450357",
+      "email": "cedalescano@gmail.com",
+      "direccion": "Combate de Las Piedras 695, San Miguel de Tucumán, Tucumán",
+      "lat": "-26.834406743090423",
+      "lon": "-65.20860493183136",
+      "distrito": 10,
+      "sentimiento": "neutro",
+      "asunto": "Ruidos molestos",
+      "area": "Salud Ambiental",
+      "estado": "INICIADO",
+      "fecha": "2026-06-27T06:08:29.000Z"
+    },
+    {
       "numero": "3814183484",
       "canal": "Aplicación Móvil",
       "nombre": "Jorge Lobo",
@@ -73499,15 +73515,15 @@
     "pendientes": 16
   },
   "reclamos": {
-    "total": 3172,
-    "iniciados": 11,
+    "total": 3173,
+    "iniciados": 12,
     "en_proceso": 1268,
     "finalizados": 1860,
     "derivados": 33
   },
   "canales": {
     "WhatsApp Ambiente": 1757,
-    "Aplicación Móvil": 1359,
+    "Aplicación Móvil": 1360,
     "Chat Center (Call Center)": 1424,
     "Agentes o Inspectores": 5,
     "Personalmente": 108,
@@ -73515,6 +73531,6 @@
     "Teléfono": 44,
     "Email Oficial": 1
   },
-  "totalVecinos": 4703,
-  "actualizado": "2026-06-27T06:01:01.407Z"
+  "totalVecinos": 4704,
+  "actualizado": "2026-06-27T06:30:01.897Z"
 }
