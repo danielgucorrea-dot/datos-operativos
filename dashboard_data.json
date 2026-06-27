@@ -26356,6 +26356,22 @@
       "distrito": null
     },
     {
+      "numero": "3814779978",
+      "canal": "Chat Center (Call Center)",
+      "nombre": "Elías Ester",
+      "telefono": "3814779978",
+      "email": "",
+      "direccion": "1301, Calchaquíes, América, Vial 1, San Miguel de Tucumán, Departamento Capital, Tucumán, T4000, Argentina",
+      "lat": "-26.798327768423093",
+      "lon": "-65.20975923846198",
+      "distrito": 5,
+      "sentimiento": "neutro",
+      "asunto": "Barrido público deficiente o sin realizar",
+      "area": "Secretaría de Ambiente",
+      "estado": "DERIVADO",
+      "fecha": "2026-06-26T18:19:46.000Z"
+    },
+    {
       "numero": "3816437618",
       "canal": "Aplicación Móvil",
       "nombre": "Claudia Zamora ",
@@ -34543,7 +34559,7 @@
       "distrito": 16,
       "sentimiento": "neutro",
       "asunto": "Basura en vía pública",
-      "area": "Secretar��a de Ambiente",
+      "area": "Secretaría de Ambiente",
       "estado": "EN PROCESO",
       "fecha": "2026-05-16T18:30:42.000Z"
     },
@@ -62985,7 +63001,7 @@
       "nombre": "Alejandra Celeste Jimenex",
       "telefono": "2966212766",
       "email": "tanacalafate@hotmail.com",
-      "direccion": "España 2490, San Miguel de Tucumán, Tucumán",
+      "direccion": "España 2490, San Miguel de Tucumán, Tucum��n",
       "lat": "-26.81151060042729",
       "lon": "-65.23176614195108",
       "distrito": 3,
@@ -73467,22 +73483,22 @@
     "pendientes": 14
   },
   "reclamos": {
-    "total": 3170,
+    "total": 3171,
     "iniciados": 10,
     "en_proceso": 1268,
     "finalizados": 1860,
-    "derivados": 32
+    "derivados": 33
   },
   "canales": {
     "WhatsApp Ambiente": 1757,
+    "Chat Center (Call Center)": 1424,
     "Aplicación Móvil": 1358,
     "Agentes o Inspectores": 5,
-    "Chat Center (Call Center)": 1423,
     "Personalmente": 108,
     "Whatsapp": 5,
     "Teléfono": 44,
     "Email Oficial": 1
   },
-  "totalVecinos": 4701,
-  "actualizado": "2026-06-27T01:00:43.725Z"
+  "totalVecinos": 4702,
+  "actualizado": "2026-06-27T01:30:08.363Z"
 }
