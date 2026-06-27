@@ -26356,6 +26356,22 @@
       "distrito": null
     },
     {
+      "numero": "3815094952",
+      "canal": "Aplicación Móvil",
+      "nombre": "CECILIA VERONICA RUIZ",
+      "telefono": "3815094952",
+      "email": "cecilleruiz@gmail.com",
+      "direccion": "Delfin Gallo 80, San Miguel de Tucumán, Tucumán",
+      "lat": "-26.80226783441228",
+      "lon": "-65.1911997422576",
+      "distrito": 6,
+      "sentimiento": "neutro",
+      "asunto": "Quema de basura en vía pública",
+      "area": "Salud Ambiental",
+      "estado": "INICIADO",
+      "fecha": "2026-06-27T18:48:36.000Z"
+    },
+    {
       "numero": "+543814469030",
       "canal": "Aplicación Móvil",
       "nombre": "Noelia Pata",
@@ -28265,7 +28281,7 @@
       "nombre": "MERIGLIO MARIELA",
       "telefono": "381 447-8421",
       "email": "",
-      "direccion": "Avenida América, Feput, San Miguel de Tucumán, Departamento Capital, Tucumán, T4000, Argentina",
+      "direccion": "Avenida Am��rica, Feput, San Miguel de Tucumán, Departamento Capital, Tucumán, T4000, Argentina",
       "lat": "-26.789712840413056",
       "lon": "-65.24361340500914",
       "distrito": 2,
@@ -63430,7 +63446,7 @@
     {
       "numero": "3813690084",
       "canal": "Chat Center (Call Center)",
-      "nombre": "Leonardo Su��rez ",
+      "nombre": "Leonardo Suárez ",
       "telefono": "3813690084",
       "email": "",
       "direccion": "San Miguel, Alberdi Norte, San Miguel de Tucumán, Departamento Capital, Tucumán, T4000, Argentina",
@@ -73547,15 +73563,15 @@
     "pendientes": 18
   },
   "reclamos": {
-    "total": 3175,
-    "iniciados": 14,
+    "total": 3176,
+    "iniciados": 15,
     "en_proceso": 1268,
     "finalizados": 1860,
     "derivados": 33
   },
   "canales": {
     "WhatsApp Ambiente": 1757,
-    "Aplicación Móvil": 1362,
+    "Aplicación Móvil": 1363,
     "Chat Center (Call Center)": 1424,
     "Agentes o Inspectores": 5,
     "Personalmente": 108,
@@ -73563,6 +73579,6 @@
     "Teléfono": 44,
     "Email Oficial": 1
   },
-  "totalVecinos": 4706,
-  "actualizado": "2026-06-27T18:30:57.875Z"
+  "totalVecinos": 4707,
+  "actualizado": "2026-06-27T19:00:08.099Z"
 }
