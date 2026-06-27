@@ -26356,6 +26356,22 @@
       "distrito": null
     },
     {
+      "numero": "3816808312",
+      "canal": "Aplicación Móvil",
+      "nombre": "Paula Constanza  Palina D'Urso ",
+      "telefono": "3816808312",
+      "email": "paulacpalinad@gmail.com",
+      "direccion": "Entre Ríos 1030, San Miguel de Tucumán, Tucumán",
+      "lat": "-26.8459605",
+      "lon": "-65.2033474",
+      "distrito": 15,
+      "sentimiento": "neutro",
+      "asunto": "Ruidos molestos",
+      "area": "Salud Ambiental",
+      "estado": "INICIADO",
+      "fecha": "2026-06-27T11:22:47.000Z"
+    },
+    {
       "numero": "3814450357",
       "canal": "Aplicación Móvil",
       "nombre": "Cesar Daniel Lescano",
@@ -73510,20 +73526,20 @@
   ],
   "pedidos": {
     "bot": 0,
-    "bam": 16,
+    "bam": 26,
     "completados": 0,
-    "pendientes": 16
+    "pendientes": 26
   },
   "reclamos": {
-    "total": 3173,
-    "iniciados": 12,
+    "total": 3174,
+    "iniciados": 13,
     "en_proceso": 1268,
     "finalizados": 1860,
     "derivados": 33
   },
   "canales": {
     "WhatsApp Ambiente": 1757,
-    "Aplicación Móvil": 1360,
+    "Aplicación Móvil": 1361,
     "Chat Center (Call Center)": 1424,
     "Agentes o Inspectores": 5,
     "Personalmente": 108,
@@ -73531,6 +73547,6 @@
     "Teléfono": 44,
     "Email Oficial": 1
   },
-  "totalVecinos": 4704,
-  "actualizado": "2026-06-27T11:00:54.537Z"
+  "totalVecinos": 4705,
+  "actualizado": "2026-06-27T11:30:05.095Z"
 }
