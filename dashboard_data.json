@@ -26356,6 +26356,22 @@
       "distrito": null
     },
     {
+      "numero": "3816323446",
+      "canal": "Aplicación Móvil",
+      "nombre": "Mariana  Medina ",
+      "telefono": "3816323446",
+      "email": "mar2107med@gmail.com",
+      "direccion": "Bernabé Araóz 1363, San Miguel de Tucumán, Tucumán",
+      "lat": "-26.847327837871724",
+      "lon": "-65.2203781530261",
+      "distrito": 14,
+      "sentimiento": "neutro",
+      "asunto": "Denuncia de inspector",
+      "area": "Bromatología",
+      "estado": "INICIADO",
+      "fecha": "2026-06-28T16:06:30.000Z"
+    },
+    {
       "numero": "3816491123",
       "canal": "Aplicación Móvil",
       "nombre": "Monica Fernanda  Gonzalez ",
@@ -73403,15 +73419,15 @@
     "pendientes": 19
   },
   "reclamos": {
-    "total": 3166,
-    "iniciados": 20,
+    "total": 3167,
+    "iniciados": 21,
     "en_proceso": 1268,
     "finalizados": 1845,
     "derivados": 33
   },
   "canales": {
     "WhatsApp Ambiente": 1757,
-    "Aplicación Móvil": 1353,
+    "Aplicación Móvil": 1354,
     "Chat Center (Call Center)": 1424,
     "Agentes o Inspectores": 5,
     "Personalmente": 108,
@@ -73419,6 +73435,6 @@
     "Teléfono": 44,
     "Email Oficial": 1
   },
-  "totalVecinos": 4697,
-  "actualizado": "2026-06-28T16:00:59.687Z"
+  "totalVecinos": 4698,
+  "actualizado": "2026-06-28T16:30:02.908Z"
 }
