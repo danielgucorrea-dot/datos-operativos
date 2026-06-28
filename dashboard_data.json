@@ -26356,6 +26356,38 @@
       "distrito": null
     },
     {
+      "numero": "3813578611",
+      "canal": "Aplicación Móvil",
+      "nombre": "Luciana Alamino",
+      "telefono": "3813578611",
+      "email": "lucianaanabelalamino@gmail.com",
+      "direccion": "La Rioja 151, San Miguel de Tucumán, Tucumán",
+      "lat": "-26.831305484885032",
+      "lon": "-65.21314926445484",
+      "distrito": 10,
+      "sentimiento": "neutro",
+      "asunto": "Ruidos molestos",
+      "area": "Salud Ambiental",
+      "estado": "INICIADO",
+      "fecha": "2026-06-28T06:27:24.000Z"
+    },
+    {
+      "numero": "3816052594",
+      "canal": "Aplicación Móvil",
+      "nombre": "ALDO CARLOS  BELLIDO ",
+      "telefono": "3816052594",
+      "email": "bellidoaldoc@hotmail.com",
+      "direccion": "Avenida Francisco de Aguirre 255, San Miguel de Tucumán, Tucumán",
+      "lat": "-26.7953829",
+      "lon": "-65.19223579999999",
+      "distrito": 6,
+      "sentimiento": "neutro",
+      "asunto": "Ruidos molestos",
+      "area": "Salud Ambiental",
+      "estado": "INICIADO",
+      "fecha": "2026-06-28T06:05:13.000Z"
+    },
+    {
       "numero": "3865302433",
       "canal": "Aplicación Móvil",
       "nombre": "Daniela Alejandra Tonello",
@@ -45454,7 +45486,7 @@
       "lon": "-65.22136023189348",
       "distrito": 14,
       "sentimiento": "neutro",
-      "asunto": "Recolecci��n de residuos sin realizar",
+      "asunto": "Recolección de residuos sin realizar",
       "area": "Secretaría de Ambiente",
       "estado": "EN PROCESO",
       "fecha": "2026-04-07T13:36:56.000Z"
@@ -73355,15 +73387,15 @@
     "pendientes": 19
   },
   "reclamos": {
-    "total": 3163,
-    "iniciados": 17,
+    "total": 3165,
+    "iniciados": 19,
     "en_proceso": 1268,
     "finalizados": 1845,
     "derivados": 33
   },
   "canales": {
     "WhatsApp Ambiente": 1757,
-    "Aplicación Móvil": 1350,
+    "Aplicación Móvil": 1352,
     "Chat Center (Call Center)": 1424,
     "Agentes o Inspectores": 5,
     "Personalmente": 108,
@@ -73371,6 +73403,6 @@
     "Teléfono": 44,
     "Email Oficial": 1
   },
-  "totalVecinos": 4694,
-  "actualizado": "2026-06-28T06:01:01.399Z"
+  "totalVecinos": 4696,
+  "actualizado": "2026-06-28T06:30:11.314Z"
 }
