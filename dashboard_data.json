@@ -26356,6 +26356,22 @@
       "distrito": null
     },
     {
+      "numero": "3812069518",
+      "canal": "Aplicación Móvil",
+      "nombre": "Cristian Colque",
+      "telefono": "3812069518",
+      "email": "colquecristian.ts@gmail.com",
+      "direccion": "Cuba 1266, San Miguel de Tucumán, Tucumán",
+      "lat": "-26.832234734387637",
+      "lon": "-65.17643384635448",
+      "distrito": 11,
+      "sentimiento": "neutro",
+      "asunto": "Ruidos molestos",
+      "area": "Salud Ambiental",
+      "estado": "INICIADO",
+      "fecha": "2026-06-28T18:15:10.000Z"
+    },
+    {
       "numero": "3816323446",
       "canal": "Aplicación Móvil",
       "nombre": "Mariana  Medina ",
@@ -65209,7 +65225,7 @@
       "nombre": "Silvana Natalia Del Valle Durba",
       "telefono": "3813194341",
       "email": "silvanadurba@hotmail.com",
-      "direccion": "Paso de los Andes 1040, San Miguel de Tucumán, Tucumán",
+      "direccion": "Paso de los Andes 1040, San Miguel de Tucum��n, Tucumán",
       "lat": "-26.81241278234454",
       "lon": "-65.22259701043367",
       "distrito": 4,
@@ -73419,15 +73435,15 @@
     "pendientes": 19
   },
   "reclamos": {
-    "total": 3167,
-    "iniciados": 21,
+    "total": 3168,
+    "iniciados": 22,
     "en_proceso": 1268,
     "finalizados": 1845,
     "derivados": 33
   },
   "canales": {
     "WhatsApp Ambiente": 1757,
-    "Aplicación Móvil": 1354,
+    "Aplicación Móvil": 1355,
     "Chat Center (Call Center)": 1424,
     "Agentes o Inspectores": 5,
     "Personalmente": 108,
@@ -73435,6 +73451,6 @@
     "Teléfono": 44,
     "Email Oficial": 1
   },
-  "totalVecinos": 4698,
-  "actualizado": "2026-06-28T18:01:00.559Z"
+  "totalVecinos": 4699,
+  "actualizado": "2026-06-28T18:30:03.662Z"
 }
