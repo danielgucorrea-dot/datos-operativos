@@ -26356,6 +26356,22 @@
       "distrito": null
     },
     {
+      "numero": "3816491123",
+      "canal": "Aplicación Móvil",
+      "nombre": "Monica Fernanda  Gonzalez ",
+      "telefono": "3816491123",
+      "email": "tizilo202225@gmail.com",
+      "direccion": "Pasaje Pacheco de Melo 1144, San Miguel de Tucumán, Tucumán",
+      "lat": "-26.8113703",
+      "lon": "-65.2193747",
+      "distrito": 4,
+      "sentimiento": "neutro",
+      "asunto": "Recolección de Residuos No Habituales (cantidad reducida)",
+      "area": "Ambiente",
+      "estado": "INICIADO",
+      "fecha": "2026-06-28T15:10:44.000Z"
+    },
+    {
       "numero": "3813578611",
       "canal": "Aplicación Móvil",
       "nombre": "Luciana Alamino",
@@ -73387,15 +73403,15 @@
     "pendientes": 19
   },
   "reclamos": {
-    "total": 3165,
-    "iniciados": 19,
+    "total": 3166,
+    "iniciados": 20,
     "en_proceso": 1268,
     "finalizados": 1845,
     "derivados": 33
   },
   "canales": {
     "WhatsApp Ambiente": 1757,
-    "Aplicación Móvil": 1352,
+    "Aplicación Móvil": 1353,
     "Chat Center (Call Center)": 1424,
     "Agentes o Inspectores": 5,
     "Personalmente": 108,
@@ -73403,6 +73419,6 @@
     "Teléfono": 44,
     "Email Oficial": 1
   },
-  "totalVecinos": 4696,
-  "actualizado": "2026-06-28T15:00:59.363Z"
+  "totalVecinos": 4697,
+  "actualizado": "2026-06-28T15:30:02.246Z"
 }
