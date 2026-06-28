@@ -26356,6 +26356,38 @@
       "distrito": null
     },
     {
+      "numero": "3814019415",
+      "canal": "Aplicación Móvil",
+      "nombre": "MARINA CARINGELLI",
+      "telefono": "3814019415",
+      "email": "caringellim@gmail.com",
+      "direccion": "Perú 777, San Miguel de Tucumán, Tucumán",
+      "lat": "-26.809886654884014",
+      "lon": "-65.20357679575682",
+      "distrito": 5,
+      "sentimiento": "neutro",
+      "asunto": "Quema de basura en vía pública",
+      "area": "Salud Ambiental",
+      "estado": "INICIADO",
+      "fecha": "2026-06-28T19:42:43.000Z"
+    },
+    {
+      "numero": "3814019415",
+      "canal": "Aplicación Móvil",
+      "nombre": "MARINA CARINGELLI",
+      "telefono": "3814019415",
+      "email": "caringellim@gmail.com",
+      "direccion": "Pasaje Quilmes 1480, San Miguel de Tucumán, Tucumán",
+      "lat": "-26.8100346",
+      "lon": "-65.2041564",
+      "distrito": 5,
+      "sentimiento": "neutro",
+      "asunto": "Ruidos molestos",
+      "area": "Salud Ambiental",
+      "estado": "INICIADO",
+      "fecha": "2026-06-28T19:36:46.000Z"
+    },
+    {
       "numero": "3812069518",
       "canal": "Aplicación Móvil",
       "nombre": "Cristian Colque",
@@ -65225,7 +65257,7 @@
       "nombre": "Silvana Natalia Del Valle Durba",
       "telefono": "3813194341",
       "email": "silvanadurba@hotmail.com",
-      "direccion": "Paso de los Andes 1040, San Miguel de Tucum��n, Tucumán",
+      "direccion": "Paso de los Andes 1040, San Miguel de Tucumán, Tucumán",
       "lat": "-26.81241278234454",
       "lon": "-65.22259701043367",
       "distrito": 4,
@@ -73435,15 +73467,15 @@
     "pendientes": 19
   },
   "reclamos": {
-    "total": 3168,
-    "iniciados": 22,
+    "total": 3170,
+    "iniciados": 24,
     "en_proceso": 1268,
     "finalizados": 1845,
     "derivados": 33
   },
   "canales": {
     "WhatsApp Ambiente": 1757,
-    "Aplicación Móvil": 1355,
+    "Aplicación Móvil": 1357,
     "Chat Center (Call Center)": 1424,
     "Agentes o Inspectores": 5,
     "Personalmente": 108,
@@ -73451,6 +73483,6 @@
     "Teléfono": 44,
     "Email Oficial": 1
   },
-  "totalVecinos": 4699,
-  "actualizado": "2026-06-28T19:31:01.108Z"
+  "totalVecinos": 4701,
+  "actualizado": "2026-06-28T20:00:04.175Z"
 }
