@@ -26356,6 +26356,22 @@
       "distrito": null
     },
     {
+      "numero": "381 350-0710",
+      "canal": "Chat Center (Call Center)",
+      "nombre": "Campillo Yasmín Agostina ",
+      "telefono": "381 350-0710",
+      "email": "",
+      "direccion": "967, Adolfo Alsina, El Cruce, Villa Alem, San Miguel de Tucumán, Departamento Capital, Tucumán, T4000, Argentina",
+      "lat": "-26.84306880323413",
+      "lon": "-65.21499233569185",
+      "distrito": 15,
+      "sentimiento": "neutro",
+      "asunto": "Ruidos molestos",
+      "area": "Salud Ambiental",
+      "estado": "INICIADO",
+      "fecha": "2026-06-29T16:08:27.000Z"
+    },
+    {
       "numero": "3813039034",
       "canal": "Aplicación Móvil",
       "nombre": "Agustina  Grimaldi ",
@@ -61641,7 +61657,7 @@
       "nombre": "Olivera Jose Luis",
       "telefono": "3815959795",
       "email": "arquitectoluisolivera@gmail.com",
-      "direccion": "Maipú 1206",
+      "direccion": "Maip�� 1206",
       "lat": "-26.8138265",
       "lon": "-65.2038826",
       "distrito": 5,
@@ -73611,22 +73627,22 @@
     "pendientes": 25
   },
   "reclamos": {
-    "total": 3181,
-    "iniciados": 8,
+    "total": 3182,
+    "iniciados": 9,
     "en_proceso": 1262,
     "finalizados": 1875,
     "derivados": 36
   },
   "canales": {
     "WhatsApp Ambiente": 1757,
+    "Chat Center (Call Center)": 1434,
     "Aplicación Móvil": 1354,
-    "Chat Center (Call Center)": 1433,
     "Whatsapp": 7,
     "Personalmente": 109,
     "Agentes o Inspectores": 5,
     "Teléfono": 44,
     "Email Oficial": 1
   },
-  "totalVecinos": 4710,
-  "actualizado": "2026-06-29T16:00:46.657Z"
+  "totalVecinos": 4711,
+  "actualizado": "2026-06-29T16:30:05.275Z"
 }
