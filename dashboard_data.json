@@ -26368,7 +26368,7 @@
       "sentimiento": "neutro",
       "asunto": "Ruidos molestos",
       "area": "Salud Ambiental",
-      "estado": "INICIADO",
+      "estado": "EN PROCESO",
       "fecha": "2026-06-29T03:02:00.000Z"
     },
     {
@@ -26399,8 +26399,8 @@
       "distrito": 5,
       "sentimiento": "neutro",
       "asunto": "Quema de basura en vía pública",
-      "area": "Salud Ambiental",
-      "estado": "INICIADO",
+      "area": "Ambiente",
+      "estado": "DERIVADO",
       "fecha": "2026-06-28T19:42:43.000Z"
     },
     {
@@ -26416,7 +26416,7 @@
       "sentimiento": "neutro",
       "asunto": "Ruidos molestos",
       "area": "Salud Ambiental",
-      "estado": "INICIADO",
+      "estado": "EN PROCESO",
       "fecha": "2026-06-28T19:36:46.000Z"
     },
     {
@@ -26432,7 +26432,7 @@
       "sentimiento": "neutro",
       "asunto": "Ruidos molestos",
       "area": "Salud Ambiental",
-      "estado": "INICIADO",
+      "estado": "FINALIZADO",
       "fecha": "2026-06-28T18:15:10.000Z"
     },
     {
@@ -26480,7 +26480,7 @@
       "sentimiento": "neutro",
       "asunto": "Ruidos molestos",
       "area": "Salud Ambiental",
-      "estado": "INICIADO",
+      "estado": "EN PROCESO",
       "fecha": "2026-06-28T06:27:24.000Z"
     },
     {
@@ -26496,7 +26496,7 @@
       "sentimiento": "neutro",
       "asunto": "Ruidos molestos",
       "area": "Salud Ambiental",
-      "estado": "INICIADO",
+      "estado": "FINALIZADO",
       "fecha": "2026-06-28T06:05:13.000Z"
     },
     {
@@ -26512,7 +26512,7 @@
       "sentimiento": "neutro",
       "asunto": "Ruidos molestos",
       "area": "Salud Ambiental",
-      "estado": "INICIADO",
+      "estado": "FINALIZADO",
       "fecha": "2026-06-27T21:06:46.000Z"
     },
     {
@@ -26559,8 +26559,8 @@
       "distrito": 6,
       "sentimiento": "neutro",
       "asunto": "Quema de basura en vía pública",
-      "area": "Salud Ambiental",
-      "estado": "INICIADO",
+      "area": "Ambiente",
+      "estado": "DERIVADO",
       "fecha": "2026-06-27T18:48:36.000Z"
     },
     {
@@ -26608,7 +26608,7 @@
       "sentimiento": "neutro",
       "asunto": "Ruidos molestos",
       "area": "Salud Ambiental",
-      "estado": "INICIADO",
+      "estado": "FINALIZADO",
       "fecha": "2026-06-27T06:08:29.000Z"
     },
     {
@@ -26624,7 +26624,7 @@
       "sentimiento": "neutro",
       "asunto": "Ruidos molestos",
       "area": "Salud Ambiental",
-      "estado": "INICIADO",
+      "estado": "FINALIZADO",
       "fecha": "2026-06-27T02:43:24.000Z"
     },
     {
@@ -55113,7 +55113,7 @@
       "nombre": "Carolina Beatriz Rivero",
       "telefono": "3814035813",
       "email": "carolinabeatriz.rivero@gmail.com",
-      "direccion": "Doctor Nicasio Herrera 1798, San Miguel de Tucumán, Tucum��n",
+      "direccion": "Doctor Nicasio Herrera 1798, San Miguel de Tucumán, Tucumán",
       "lat": "-26.87316769610561",
       "lon": "-65.23542869836092",
       "distrito": 18,
@@ -73372,10 +73372,10 @@
   },
   "reclamos": {
     "total": 3164,
-    "iniciados": 27,
-    "en_proceso": 1268,
-    "finalizados": 1835,
-    "derivados": 34
+    "iniciados": 17,
+    "en_proceso": 1271,
+    "finalizados": 1840,
+    "derivados": 36
   },
   "canales": {
     "WhatsApp Ambiente": 1757,
@@ -73388,5 +73388,5 @@
     "Email Oficial": 1
   },
   "totalVecinos": 4695,
-  "actualizado": "2026-06-29T11:00:31.745Z"
+  "actualizado": "2026-06-29T11:30:02.960Z"
 }
