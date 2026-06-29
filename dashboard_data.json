@@ -26356,6 +26356,22 @@
       "distrito": null
     },
     {
+      "numero": "381 384-2467",
+      "canal": "Chat Center (Call Center)",
+      "nombre": "Gomez Victor",
+      "telefono": "381 384-2467",
+      "email": "",
+      "direccion": "301, Belisario Roldán, Agrimensor, San Miguel de Tucumán, Departamento Capital, Tucumán, T4000, Argentina",
+      "lat": "-26.81609831350275",
+      "lon": "-65.25630454633523",
+      "distrito": 9,
+      "sentimiento": "neutro",
+      "asunto": "Basura en vía pública",
+      "area": "Ambiente",
+      "estado": "INICIADO",
+      "fecha": "2026-06-29T15:31:30.000Z"
+    },
+    {
       "numero": "3814756161",
       "canal": "Chat Center (Call Center)",
       "nombre": "Jorge Rosales",
@@ -26368,7 +26384,7 @@
       "sentimiento": "neutro",
       "asunto": "Ruidos molestos",
       "area": "Salud Ambiental",
-      "estado": "INICIADO",
+      "estado": "FINALIZADO",
       "fecha": "2026-06-29T15:27:36.000Z"
     },
     {
@@ -26383,8 +26399,8 @@
       "distrito": 2,
       "sentimiento": "neutro",
       "asunto": "Basura en vía pública",
-      "area": "Ambiente",
-      "estado": "INICIADO",
+      "area": "Secretaría de Ambiente",
+      "estado": "EN PROCESO",
       "fecha": "2026-06-29T14:27:41.000Z"
     },
     {
@@ -50773,7 +50789,7 @@
     },
     {
       "numero": "0381565800",
-      "canal": "Aplicaci��n Móvil",
+      "canal": "Aplicación Móvil",
       "nombre": "MARIA BELEN VALERA",
       "telefono": "0381565800",
       "email": "vmariabelennn@gmail.com",
@@ -56293,7 +56309,7 @@
     },
     {
       "numero": "3814409080",
-      "canal": "Aplicación Móvil",
+      "canal": "Aplicaci��n Móvil",
       "nombre": "Ricardo  Brandan ",
       "telefono": "3814409080",
       "email": "rickybrandan@gmail.com",
@@ -60128,7 +60144,7 @@
       "sentimiento": "neutro",
       "asunto": "Basura en vía pública",
       "area": "Secretaría de Ambiente",
-      "estado": "EN PROCESO",
+      "estado": "FINALIZADO",
       "fecha": "2026-02-12T14:37:24.000Z"
     },
     {
@@ -60144,7 +60160,7 @@
       "sentimiento": "neutro",
       "asunto": "Persona arrojando basura",
       "area": "Secretaría de Ambiente",
-      "estado": "EN PROCESO",
+      "estado": "FINALIZADO",
       "fecha": "2026-02-12T14:36:30.000Z"
     },
     {
@@ -60176,7 +60192,7 @@
       "sentimiento": "neutro",
       "asunto": "Recolección de Residuos No Habituales (cantidad reducida)",
       "area": "Secretaría de Ambiente",
-      "estado": "EN PROCESO",
+      "estado": "FINALIZADO",
       "fecha": "2026-02-12T14:30:13.000Z"
     },
     {
@@ -60192,7 +60208,7 @@
       "sentimiento": "neutro",
       "asunto": "Recolección de Residuos No Habituales (cantidad reducida)",
       "area": "Secretaría de Ambiente",
-      "estado": "EN PROCESO",
+      "estado": "FINALIZADO",
       "fecha": "2026-02-12T14:25:35.000Z"
     },
     {
@@ -60224,7 +60240,7 @@
       "sentimiento": "neutro",
       "asunto": "Recolección de Residuos No Habituales (cantidad reducida)",
       "area": "Secretaría de Ambiente",
-      "estado": "EN PROCESO",
+      "estado": "FINALIZADO",
       "fecha": "2026-02-12T14:09:30.000Z"
     },
     {
@@ -60240,7 +60256,7 @@
       "sentimiento": "neutro",
       "asunto": "Basura en vía pública",
       "area": "Secretaría de Ambiente",
-      "estado": "EN PROCESO",
+      "estado": "FINALIZADO",
       "fecha": "2026-02-12T13:25:39.000Z"
     },
     {
@@ -60256,7 +60272,7 @@
       "sentimiento": "neutro",
       "asunto": "Pedido de cartelería: “No arrojar basura”",
       "area": "Secretaría de Ambiente",
-      "estado": "EN PROCESO",
+      "estado": "FINALIZADO",
       "fecha": "2026-02-12T13:15:35.000Z"
     },
     {
@@ -60272,7 +60288,7 @@
       "sentimiento": "neutro",
       "asunto": "Persona arrojando basura",
       "area": "Secretaría de Ambiente",
-      "estado": "EN PROCESO",
+      "estado": "FINALIZADO",
       "fecha": "2026-02-12T13:12:13.000Z"
     },
     {
@@ -60288,7 +60304,7 @@
       "sentimiento": "neutro",
       "asunto": "Basura en vía pública",
       "area": "Secretaría de Ambiente",
-      "estado": "EN PROCESO",
+      "estado": "FINALIZADO",
       "fecha": "2026-02-12T12:46:35.000Z"
     },
     {
@@ -60304,7 +60320,7 @@
       "sentimiento": "neutro",
       "asunto": "Recolección de Residuos No Habituales (cantidad reducida)",
       "area": "Secretaría de Ambiente",
-      "estado": "EN PROCESO",
+      "estado": "FINALIZADO",
       "fecha": "2026-02-12T12:42:25.000Z"
     },
     {
@@ -73574,20 +73590,20 @@
   ],
   "pedidos": {
     "bot": 0,
-    "bam": 81,
+    "bam": 23,
     "completados": 0,
-    "pendientes": 81
+    "pendientes": 23
   },
   "reclamos": {
-    "total": 3179,
-    "iniciados": 9,
-    "en_proceso": 1271,
-    "finalizados": 1863,
+    "total": 3180,
+    "iniciados": 8,
+    "en_proceso": 1261,
+    "finalizados": 1875,
     "derivados": 36
   },
   "canales": {
     "WhatsApp Ambiente": 1757,
-    "Chat Center (Call Center)": 1432,
+    "Chat Center (Call Center)": 1433,
     "Whatsapp": 7,
     "Aplicación Móvil": 1352,
     "Personalmente": 109,
@@ -73596,6 +73612,6 @@
     "Aplicaci��n Móvil": 1,
     "Email Oficial": 1
   },
-  "totalVecinos": 4708,
-  "actualizado": "2026-06-29T15:30:40.211Z"
+  "totalVecinos": 4709,
+  "actualizado": "2026-06-29T15:51:46.623Z"
 }
