@@ -26356,6 +26356,22 @@
       "distrito": null
     },
     {
+      "numero": "3813039034",
+      "canal": "Aplicación Móvil",
+      "nombre": "Agustina  Grimaldi ",
+      "telefono": "3813039034",
+      "email": "agustina_g21@hotmail.com",
+      "direccion": "General José de San Martín 3408, San Miguel de Tucumán, Tucumán",
+      "lat": "-26.820286745238256",
+      "lon": "-65.24714291095734",
+      "distrito": 9,
+      "sentimiento": "neutro",
+      "asunto": "Basura en vía pública",
+      "area": "Ambiente",
+      "estado": "INICIADO",
+      "fecha": "2026-06-29T15:57:29.000Z"
+    },
+    {
       "numero": "381 384-2467",
       "canal": "Chat Center (Call Center)",
       "nombre": "Gomez Victor",
@@ -26367,8 +26383,8 @@
       "distrito": 9,
       "sentimiento": "neutro",
       "asunto": "Basura en vía pública",
-      "area": "Ambiente",
-      "estado": "INICIADO",
+      "area": "Secretaría de Ambiente",
+      "estado": "EN PROCESO",
       "fecha": "2026-06-29T15:31:30.000Z"
     },
     {
@@ -56309,7 +56325,7 @@
     },
     {
       "numero": "3814409080",
-      "canal": "Aplicaci��n Móvil",
+      "canal": "Aplicación Móvil",
       "nombre": "Ricardo  Brandan ",
       "telefono": "3814409080",
       "email": "rickybrandan@gmail.com",
@@ -73590,28 +73606,27 @@
   ],
   "pedidos": {
     "bot": 0,
-    "bam": 23,
+    "bam": 25,
     "completados": 0,
-    "pendientes": 23
+    "pendientes": 25
   },
   "reclamos": {
-    "total": 3180,
+    "total": 3181,
     "iniciados": 8,
-    "en_proceso": 1261,
+    "en_proceso": 1262,
     "finalizados": 1875,
     "derivados": 36
   },
   "canales": {
     "WhatsApp Ambiente": 1757,
+    "Aplicación Móvil": 1354,
     "Chat Center (Call Center)": 1433,
     "Whatsapp": 7,
-    "Aplicación Móvil": 1352,
     "Personalmente": 109,
     "Agentes o Inspectores": 5,
     "Teléfono": 44,
-    "Aplicaci��n Móvil": 1,
     "Email Oficial": 1
   },
-  "totalVecinos": 4709,
-  "actualizado": "2026-06-29T15:51:46.623Z"
+  "totalVecinos": 4710,
+  "actualizado": "2026-06-29T16:00:04.973Z"
 }
