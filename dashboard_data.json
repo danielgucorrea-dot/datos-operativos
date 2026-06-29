@@ -18041,8 +18041,8 @@
       "mensaje": "Sí , pero en este caso está en jurisdicción de la Municipalidad de SMT y la basura la va desparramando también dentro de esta jurisdicción. Por favor ver de enviar a un control a ese lugar durante la hora señalada . También genera que los perros que andan sueltos se acerquen a las bolsas que se caen del camión, más de un perro por día es arrollado por los vehículos que circulan. Es sería la situación. Gracias",
       "telefono": "3814093871",
       "email": "edgardozarate@gmail.com",
-      "lat": "-26.84986180534421",
-      "lon": "-65.21000638604164",
+      "lat": "-26.849920435014436",
+      "lon": "-65.21004494279623",
       "distrito": 15
     },
     {
@@ -55113,7 +55113,7 @@
       "nombre": "Carolina Beatriz Rivero",
       "telefono": "3814035813",
       "email": "carolinabeatriz.rivero@gmail.com",
-      "direccion": "Doctor Nicasio Herrera 1798, San Miguel de Tucumán, Tucumán",
+      "direccion": "Doctor Nicasio Herrera 1798, San Miguel de Tucumán, Tucum��n",
       "lat": "-26.87316769610561",
       "lon": "-65.23542869836092",
       "distrito": 18,
@@ -64302,7 +64302,7 @@
       "lon": "-65.20325224846601",
       "distrito": 16,
       "sentimiento": "neutro",
-      "asunto": "Pedido de carteler��a: “No arrojar basura”",
+      "asunto": "Pedido de cartelería: “No arrojar basura”",
       "area": "Secretaría de Ambiente",
       "estado": "FINALIZADO",
       "fecha": "2026-01-30T10:37:06.000Z"
@@ -73366,13 +73366,13 @@
   ],
   "pedidos": {
     "bot": 0,
-    "bam": 19,
+    "bam": 20,
     "completados": 0,
-    "pendientes": 19
+    "pendientes": 20
   },
   "reclamos": {
-    "total": 3163,
-    "iniciados": 26,
+    "total": 3164,
+    "iniciados": 27,
     "en_proceso": 1268,
     "finalizados": 1835,
     "derivados": 34
@@ -73388,5 +73388,5 @@
     "Email Oficial": 1
   },
   "totalVecinos": 4695,
-  "actualizado": "2026-06-29T10:30:31.632Z"
+  "actualizado": "2026-06-29T11:00:02.713Z"
 }
