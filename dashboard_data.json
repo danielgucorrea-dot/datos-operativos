@@ -26356,6 +26356,22 @@
       "distrito": null
     },
     {
+      "numero": "3814756161",
+      "canal": "Chat Center (Call Center)",
+      "nombre": "Jorge Rosales",
+      "telefono": "3814756161",
+      "email": "",
+      "direccion": "266, Chacabuco, Barrio Sur, San Miguel de Tucumán, Departamento Capital, Tucumán, T4000, Argentina",
+      "lat": "-26.833889221943174",
+      "lon": "-65.20851061534262",
+      "distrito": 10,
+      "sentimiento": "neutro",
+      "asunto": "Ruidos molestos",
+      "area": "Salud Ambiental",
+      "estado": "INICIADO",
+      "fecha": "2026-06-29T15:27:36.000Z"
+    },
+    {
       "numero": "3816370848",
       "canal": "Whatsapp",
       "nombre": "Araoz, Patricia",
@@ -26512,7 +26528,7 @@
       "sentimiento": "neutro",
       "asunto": "Ruidos molestos",
       "area": "Salud Ambiental",
-      "estado": "INICIADO",
+      "estado": "EN PROCESO",
       "fecha": "2026-06-29T12:15:11.000Z"
     },
     {
@@ -32002,6 +32018,22 @@
       "area": "Salud Ambiental",
       "estado": "FINALIZADO",
       "fecha": "2026-05-30T03:09:38.000Z"
+    },
+    {
+      "numero": "93815316057",
+      "canal": "Aplicación Móvil",
+      "nombre": "Enzo Brunetti",
+      "telefono": "93815316057",
+      "email": "ebrunetti_cpn@hotmail.com",
+      "direccion": "Avenida Alem 54, San Miguel de Tucumán, Tucumán",
+      "lat": "-26.828828845146603",
+      "lon": "-65.21838024258614",
+      "distrito": 10,
+      "sentimiento": "neutro",
+      "asunto": "Actividades no permitidas. Venta, juegos, patotas",
+      "area": "Ambiente",
+      "estado": "DERIVADO",
+      "fecha": "2026-05-30T01:59:44.000Z"
     },
     {
       "numero": "3814800213",
@@ -50741,7 +50773,7 @@
     },
     {
       "numero": "0381565800",
-      "canal": "Aplicación Móvil",
+      "canal": "Aplicaci��n Móvil",
       "nombre": "MARIA BELEN VALERA",
       "telefono": "0381565800",
       "email": "vmariabelennn@gmail.com",
@@ -59904,7 +59936,7 @@
       "sentimiento": "neutro",
       "asunto": "Basura en vía pública",
       "area": "Secretaría de Ambiente",
-      "estado": "EN PROCESO",
+      "estado": "FINALIZADO",
       "fecha": "2026-02-13T12:22:54.000Z"
     },
     {
@@ -59936,7 +59968,7 @@
       "sentimiento": "neutro",
       "asunto": "Basura en vía pública",
       "area": "Secretaría de Ambiente",
-      "estado": "EN PROCESO",
+      "estado": "FINALIZADO",
       "fecha": "2026-02-13T10:40:35.000Z"
     },
     {
@@ -59968,7 +60000,7 @@
       "sentimiento": "neutro",
       "asunto": "Basura en vía pública",
       "area": "Secretaría de Ambiente",
-      "estado": "EN PROCESO",
+      "estado": "FINALIZADO",
       "fecha": "2026-02-12T21:34:43.000Z"
     },
     {
@@ -59984,7 +60016,7 @@
       "sentimiento": "neutro",
       "asunto": "Basura en vía pública",
       "area": "Secretaría de Ambiente",
-      "estado": "EN PROCESO",
+      "estado": "FINALIZADO",
       "fecha": "2026-02-12T21:23:09.000Z"
     },
     {
@@ -60000,7 +60032,7 @@
       "sentimiento": "neutro",
       "asunto": "Basura en vía pública",
       "area": "Secretaría de Ambiente",
-      "estado": "EN PROCESO",
+      "estado": "FINALIZADO",
       "fecha": "2026-02-12T20:25:46.000Z"
     },
     {
@@ -60016,7 +60048,7 @@
       "sentimiento": "neutro",
       "asunto": "Basura en vía pública",
       "area": "Secretaría de Ambiente",
-      "estado": "EN PROCESO",
+      "estado": "FINALIZADO",
       "fecha": "2026-02-12T19:57:12.000Z"
     },
     {
@@ -60032,7 +60064,7 @@
       "sentimiento": "neutro",
       "asunto": "Basura en vía pública",
       "area": "Secretaría de Ambiente",
-      "estado": "EN PROCESO",
+      "estado": "FINALIZADO",
       "fecha": "2026-02-12T17:34:01.000Z"
     },
     {
@@ -60080,7 +60112,7 @@
       "sentimiento": "neutro",
       "asunto": "Recolección de Residuos No Habituales (cantidad reducida)",
       "area": "Secretaría de Ambiente",
-      "estado": "EN PROCESO",
+      "estado": "FINALIZADO",
       "fecha": "2026-02-12T15:02:17.000Z"
     },
     {
@@ -73542,27 +73574,28 @@
   ],
   "pedidos": {
     "bot": 0,
-    "bam": 69,
+    "bam": 80,
     "completados": 0,
-    "pendientes": 69
+    "pendientes": 80
   },
   "reclamos": {
-    "total": 3177,
+    "total": 3179,
     "iniciados": 9,
-    "en_proceso": 1280,
-    "finalizados": 1853,
-    "derivados": 35
+    "en_proceso": 1271,
+    "finalizados": 1863,
+    "derivados": 36
   },
   "canales": {
     "WhatsApp Ambiente": 1757,
+    "Chat Center (Call Center)": 1432,
     "Whatsapp": 7,
-    "Chat Center (Call Center)": 1431,
     "Aplicación Móvil": 1352,
     "Personalmente": 109,
     "Agentes o Inspectores": 5,
     "Teléfono": 44,
+    "Aplicaci��n Móvil": 1,
     "Email Oficial": 1
   },
-  "totalVecinos": 4706,
-  "actualizado": "2026-06-29T15:00:39.904Z"
+  "totalVecinos": 4708,
+  "actualizado": "2026-06-29T15:30:04.832Z"
 }
