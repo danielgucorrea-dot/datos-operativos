@@ -26356,6 +26356,38 @@
       "distrito": null
     },
     {
+      "numero": "3814019415",
+      "canal": "Chat Center (Call Center)",
+      "nombre": "ANONIMO",
+      "telefono": "3814019415",
+      "email": "",
+      "direccion": "JUNIN 1482",
+      "lat": "-26.8100235",
+      "lon": "-65.2045769",
+      "distrito": 5,
+      "sentimiento": "neutro",
+      "asunto": "Ruidos molestos",
+      "area": "Salud Ambiental",
+      "estado": "INICIADO",
+      "fecha": "2026-06-29T13:26:20.000Z"
+    },
+    {
+      "numero": "3816660063",
+      "canal": "Chat Center (Call Center)",
+      "nombre": "Delgado Gabriel Gustavo",
+      "telefono": "3816660063",
+      "email": "",
+      "direccion": "Circunvalación Sur, Parque Sur, San Miguel de Tucumán, Departamento Capital, Tucumán, T4000, Argentina",
+      "lat": "-26.87737431370487",
+      "lon": "-65.22982422610926",
+      "distrito": 20,
+      "sentimiento": "neutro",
+      "asunto": "Basura en vía pública",
+      "area": "Ambiente",
+      "estado": "INICIADO",
+      "fecha": "2026-06-29T13:15:08.000Z"
+    },
+    {
       "numero": "3815439395",
       "canal": "Chat Center (Call Center)",
       "nombre": "Juan Ernesto Merletti",
@@ -26415,8 +26447,8 @@
       "distrito": 9,
       "sentimiento": "neutro",
       "asunto": "Persona arrojando basura",
-      "area": "Ambiente",
-      "estado": "INICIADO",
+      "area": "Secretaría de Ambiente",
+      "estado": "EN PROCESO",
       "fecha": "2026-06-29T12:28:26.000Z"
     },
     {
@@ -26559,8 +26591,8 @@
       "distrito": 4,
       "sentimiento": "neutro",
       "asunto": "Recolección de Residuos No Habituales (cantidad reducida)",
-      "area": "Ambiente",
-      "estado": "INICIADO",
+      "area": "Secretaría de Ambiente",
+      "estado": "EN PROCESO",
       "fecha": "2026-06-28T15:10:44.000Z"
     },
     {
@@ -26623,8 +26655,8 @@
       "distrito": 11,
       "sentimiento": "neutro",
       "asunto": "Basura en vía pública",
-      "area": "Ambiente",
-      "estado": "INICIADO",
+      "area": "Secretaría de Ambiente",
+      "estado": "EN PROCESO",
       "fecha": "2026-06-27T19:41:54.000Z"
     },
     {
@@ -26640,7 +26672,7 @@
       "sentimiento": "neutro",
       "asunto": "Barrido público deficiente o sin realizar",
       "area": "Secretaría de Ambiente",
-      "estado": "DERIVADO",
+      "estado": "EN PROCESO",
       "fecha": "2026-06-27T19:13:12.000Z"
     },
     {
@@ -26736,7 +26768,7 @@
       "sentimiento": "neutro",
       "asunto": "Barrido público deficiente o sin realizar",
       "area": "Secretaría de Ambiente",
-      "estado": "DERIVADO",
+      "estado": "EN PROCESO",
       "fecha": "2026-06-26T18:19:46.000Z"
     },
     {
@@ -28809,7 +28841,7 @@
       "nombre": "LAUTARO LEONEL  PEREZ",
       "telefono": "3813960662",
       "email": "perezlautaroleonel31@gmail.com",
-      "direccion": "Evaristo Carriego 1288, San Miguel de Tucumán, Tucumán",
+      "direccion": "Evaristo Carriego 1288, San Miguel de Tucumán, Tucum��n",
       "lat": "-26.84104696754463",
       "lon": "-65.17927128821611",
       "distrito": 11,
@@ -30537,7 +30569,7 @@
       "nombre": "Ruiz Florencia",
       "telefono": "3815077237",
       "email": "",
-      "direccion": "Escuela Lucas Alejandro Córdoba, 2590, Bernardino Rivadavia, San Miguel de Tucum��n, Departamento Capital, Tucumán, 4000, Argentina",
+      "direccion": "Escuela Lucas Alejandro Córdoba, 2590, Bernardino Rivadavia, San Miguel de Tucumán, Departamento Capital, Tucumán, 4000, Argentina",
       "lat": "-26.79801859333489",
       "lon": "-65.1935392853341",
       "distrito": 6,
@@ -49838,7 +49870,7 @@
       "lon": "-65.22787559777498",
       "distrito": 3,
       "sentimiento": "neutro",
-      "asunto": "Basura en vía p��blica",
+      "asunto": "Basura en vía pública",
       "area": "Secretaría de Ambiente",
       "estado": "EN PROCESO",
       "fecha": "2026-03-20T14:59:37.000Z"
@@ -60329,7 +60361,7 @@
       "nombre": "MAIA  LOBO",
       "telefono": "3816094217",
       "email": "maialobo68@gmail.com",
-      "direccion": "Manuel Alberti 433, San Miguel de Tucumán, Tucumán",
+      "direccion": "Manuel Alberti 433, San Miguel de Tucumán, Tucum��n",
       "lat": "-26.820142526325085",
       "lon": "-65.22622905671597",
       "distrito": 10,
@@ -73462,20 +73494,20 @@
   ],
   "pedidos": {
     "bot": 0,
-    "bam": 28,
+    "bam": 39,
     "completados": 0,
-    "pendientes": 28
+    "pendientes": 39
   },
   "reclamos": {
-    "total": 3171,
-    "iniciados": 16,
-    "en_proceso": 1273,
+    "total": 3173,
+    "iniciados": 13,
+    "en_proceso": 1280,
     "finalizados": 1845,
-    "derivados": 37
+    "derivados": 35
   },
   "canales": {
     "WhatsApp Ambiente": 1757,
-    "Chat Center (Call Center)": 1428,
+    "Chat Center (Call Center)": 1430,
     "Personalmente": 109,
     "Whatsapp": 6,
     "Aplicación Móvil": 1351,
@@ -73483,6 +73515,6 @@
     "Teléfono": 44,
     "Email Oficial": 1
   },
-  "totalVecinos": 4701,
-  "actualizado": "2026-06-29T13:00:32.718Z"
+  "totalVecinos": 4703,
+  "actualizado": "2026-06-29T13:30:03.929Z"
 }
