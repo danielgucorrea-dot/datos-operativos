@@ -23418,7 +23418,7 @@
     {
       "numero": "28935513460987",
       "celular": "3812173229",
-      "nombre": "Juan Martín  Guzmán",
+      "nombre": "Juan Mart��n  Guzmán",
       "direccion": "Amador Lucero 140, Municipalidad de San Miguel De Tucuman, Tucumán",
       "sentimiento": "neutro",
       "canal": "WhatsApp Ambiente",
@@ -26354,6 +26354,22 @@
       "lat": null,
       "lon": null,
       "distrito": null
+    },
+    {
+      "numero": "3816394851",
+      "canal": "Chat Center (Call Center)",
+      "nombre": "Villarreal Facundo",
+      "telefono": "3816394851",
+      "email": "",
+      "direccion": "monteagudo 2600",
+      "lat": "-26.8008801",
+      "lon": "-65.192874",
+      "distrito": 6,
+      "sentimiento": "neutro",
+      "asunto": "Basura en vía pública",
+      "area": "Ambiente",
+      "estado": "INICIADO",
+      "fecha": "2026-06-29T20:14:53.000Z"
     },
     {
       "numero": "3814630321",
@@ -60329,7 +60345,7 @@
       "nombre": "Virginia Alderete",
       "telefono": "3816269656",
       "email": "",
-      "direccion": "Tiro Federal, San Miguel de Tucum��n, Departamento Capital, Tucumán, T4000, Argentina",
+      "direccion": "Tiro Federal, San Miguel de Tucumán, Departamento Capital, Tucumán, T4000, Argentina",
       "lat": "-26.838175159069596",
       "lon": "-65.1775265823212",
       "distrito": 11,
@@ -61865,7 +61881,7 @@
       "nombre": "Irma Carolina  Sarverry Galo ",
       "telefono": "3815324867",
       "email": "irma.sg@live.com",
-      "direccion": "Alsina 242, San Miguel de Tucumán, Tucumán",
+      "direccion": "Alsina 242, San Miguel de Tucumán, Tucum��n",
       "lat": "-26.845564107987823",
       "lon": "-65.20403981208801",
       "distrito": 15,
@@ -73638,20 +73654,20 @@
   ],
   "pedidos": {
     "bot": 0,
-    "bam": 30,
+    "bam": 35,
     "completados": 0,
-    "pendientes": 30
+    "pendientes": 35
   },
   "reclamos": {
-    "total": 3183,
-    "iniciados": 10,
+    "total": 3184,
+    "iniciados": 11,
     "en_proceso": 1262,
     "finalizados": 1875,
     "derivados": 36
   },
   "canales": {
     "WhatsApp Ambiente": 1757,
-    "Chat Center (Call Center)": 1435,
+    "Chat Center (Call Center)": 1436,
     "Aplicación Móvil": 1354,
     "Whatsapp": 7,
     "Personalmente": 109,
@@ -73659,6 +73675,6 @@
     "Teléfono": 44,
     "Email Oficial": 1
   },
-  "totalVecinos": 4712,
-  "actualizado": "2026-06-29T20:01:00.458Z"
+  "totalVecinos": 4713,
+  "actualizado": "2026-06-29T20:16:12.839Z"
 }
