@@ -26356,6 +26356,38 @@
       "distrito": null
     },
     {
+      "numero": "3811111111",
+      "canal": "Personalmente",
+      "nombre": "ANONIMO",
+      "telefono": "3811111111",
+      "email": "",
+      "direccion": "147, Avenida Ejército del Norte, Floresta, San Miguel de Tucumán, Departamento Capital, Tucumán, T4000, Argentina",
+      "lat": "-26.823026127109003",
+      "lon": "-65.23175731620181",
+      "distrito": 9,
+      "sentimiento": "neutro",
+      "asunto": "Persona arrojando basura",
+      "area": "Ambiente",
+      "estado": "INICIADO",
+      "fecha": "2026-06-29T12:28:26.000Z"
+    },
+    {
+      "numero": "3816229342",
+      "canal": "Whatsapp",
+      "nombre": "Torkar,Luis",
+      "telefono": "3816229342",
+      "email": "",
+      "direccion": "Crisostomo Alvarez 1075",
+      "lat": "-26.8301525",
+      "lon": "-65.2137368",
+      "distrito": 10,
+      "sentimiento": "neutro",
+      "asunto": "Ruidos molestos",
+      "area": "Salud Ambiental",
+      "estado": "INICIADO",
+      "fecha": "2026-06-29T12:15:11.000Z"
+    },
+    {
       "numero": "3815543675",
       "canal": "Aplicación Móvil",
       "nombre": "JOSÉ LUIS  PICCINETTI ",
@@ -27360,7 +27392,7 @@
       "sentimiento": "neutro",
       "asunto": "Ruidos molestos",
       "area": "Salud Ambiental",
-      "estado": "EN PROCESO",
+      "estado": "FINALIZADO",
       "fecha": "2026-06-22T14:02:36.000Z"
     },
     {
@@ -27408,7 +27440,7 @@
       "sentimiento": "neutro",
       "asunto": "Ruidos molestos",
       "area": "Salud Ambiental",
-      "estado": "EN PROCESO",
+      "estado": "FINALIZADO",
       "fecha": "2026-06-22T02:26:11.000Z"
     },
     {
@@ -27424,7 +27456,7 @@
       "sentimiento": "neutro",
       "asunto": "Ruidos molestos",
       "area": "Salud Ambiental",
-      "estado": "EN PROCESO",
+      "estado": "FINALIZADO",
       "fecha": "2026-06-22T01:48:46.000Z"
     },
     {
@@ -73366,27 +73398,27 @@
   ],
   "pedidos": {
     "bot": 0,
-    "bam": 26,
+    "bam": 28,
     "completados": 0,
-    "pendientes": 26
+    "pendientes": 28
   },
   "reclamos": {
-    "total": 3164,
-    "iniciados": 17,
-    "en_proceso": 1271,
-    "finalizados": 1840,
+    "total": 3166,
+    "iniciados": 19,
+    "en_proceso": 1268,
+    "finalizados": 1843,
     "derivados": 36
   },
   "canales": {
     "WhatsApp Ambiente": 1757,
+    "Personalmente": 109,
+    "Whatsapp": 6,
     "Aplicación Móvil": 1351,
     "Chat Center (Call Center)": 1424,
     "Agentes o Inspectores": 5,
-    "Personalmente": 108,
-    "Whatsapp": 5,
     "Teléfono": 44,
     "Email Oficial": 1
   },
-  "totalVecinos": 4695,
-  "actualizado": "2026-06-29T12:00:32.361Z"
+  "totalVecinos": 4697,
+  "actualizado": "2026-06-29T12:30:03.428Z"
 }
