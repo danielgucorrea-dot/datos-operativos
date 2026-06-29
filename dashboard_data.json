@@ -26927,8 +26927,8 @@
       "distrito": 5,
       "sentimiento": "neutro",
       "asunto": "Persona arrojando basura",
-      "area": "Ambiente",
-      "estado": "INICIADO",
+      "area": "Secretaría de Ambiente",
+      "estado": "EN PROCESO",
       "fecha": "2026-06-25T17:58:35.000Z"
     },
     {
@@ -30537,7 +30537,7 @@
       "nombre": "Ruiz Florencia",
       "telefono": "3815077237",
       "email": "",
-      "direccion": "Escuela Lucas Alejandro Córdoba, 2590, Bernardino Rivadavia, San Miguel de Tucumán, Departamento Capital, Tucumán, 4000, Argentina",
+      "direccion": "Escuela Lucas Alejandro Córdoba, 2590, Bernardino Rivadavia, San Miguel de Tucum��n, Departamento Capital, Tucumán, 4000, Argentina",
       "lat": "-26.79801859333489",
       "lon": "-65.1935392853341",
       "distrito": 6,
@@ -49838,7 +49838,7 @@
       "lon": "-65.22787559777498",
       "distrito": 3,
       "sentimiento": "neutro",
-      "asunto": "Basura en vía pública",
+      "asunto": "Basura en vía p��blica",
       "area": "Secretaría de Ambiente",
       "estado": "EN PROCESO",
       "fecha": "2026-03-20T14:59:37.000Z"
@@ -60382,7 +60382,7 @@
       "lon": "-65.2363178412762",
       "distrito": 18,
       "sentimiento": "neutro",
-      "asunto": "Basura en v��a pública",
+      "asunto": "Basura en vía pública",
       "area": "Secretaría de Ambiente",
       "estado": "EN PROCESO",
       "fecha": "2026-02-11T17:42:33.000Z"
@@ -73468,8 +73468,8 @@
   },
   "reclamos": {
     "total": 3171,
-    "iniciados": 17,
-    "en_proceso": 1272,
+    "iniciados": 16,
+    "en_proceso": 1273,
     "finalizados": 1845,
     "derivados": 37
   },
@@ -73484,5 +73484,5 @@
     "Email Oficial": 1
   },
   "totalVecinos": 4701,
-  "actualizado": "2026-06-29T13:00:23.664Z"
+  "actualizado": "2026-06-29T13:00:32.718Z"
 }
