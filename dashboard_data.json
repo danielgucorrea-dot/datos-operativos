@@ -73542,9 +73542,9 @@
   ],
   "pedidos": {
     "bot": 0,
-    "bam": 64,
+    "bam": 68,
     "completados": 0,
-    "pendientes": 64
+    "pendientes": 68
   },
   "reclamos": {
     "total": 3177,
@@ -73564,5 +73564,5 @@
     "Email Oficial": 1
   },
   "totalVecinos": 4706,
-  "actualizado": "2026-06-29T14:30:33.370Z"
+  "actualizado": "2026-06-29T14:56:39.923Z"
 }
