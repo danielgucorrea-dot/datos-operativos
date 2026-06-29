@@ -26356,6 +26356,22 @@
       "distrito": null
     },
     {
+      "numero": "3816048172",
+      "canal": "Aplicación Móvil",
+      "nombre": "José María  Salazar Ritti ",
+      "telefono": "3816048172",
+      "email": "jmsalazar87@outlook.com",
+      "direccion": "Combate De Cangallo 1801, San Miguel de Tucumán, Tucumán",
+      "lat": "-26.867716725338838",
+      "lon": "-65.2353435382247",
+      "distrito": 18,
+      "sentimiento": "neutro",
+      "asunto": "Ruidos molestos",
+      "area": "Salud Ambiental",
+      "estado": "INICIADO",
+      "fecha": "2026-06-29T01:17:42.000Z"
+    },
+    {
       "numero": "3814019415",
       "canal": "Aplicación Móvil",
       "nombre": "MARINA CARINGELLI",
@@ -29221,7 +29237,7 @@
     },
     {
       "numero": "3815647784",
-      "canal": "Aplicaci��n Móvil",
+      "canal": "Aplicación Móvil",
       "nombre": "LUIS SALVATIERRA ",
       "telefono": "3815647784",
       "email": "luisedgardo713@gmail.com",
@@ -73339,23 +73355,22 @@
     "pendientes": 19
   },
   "reclamos": {
-    "total": 3161,
-    "iniciados": 24,
+    "total": 3162,
+    "iniciados": 25,
     "en_proceso": 1268,
     "finalizados": 1835,
     "derivados": 34
   },
   "canales": {
     "WhatsApp Ambiente": 1757,
-    "Aplicación Móvil": 1348,
+    "Aplicación Móvil": 1350,
     "Chat Center (Call Center)": 1424,
     "Agentes o Inspectores": 5,
     "Personalmente": 108,
     "Whatsapp": 5,
-    "Aplicaci��n Móvil": 1,
     "Teléfono": 44,
     "Email Oficial": 1
   },
-  "totalVecinos": 4693,
-  "actualizado": "2026-06-29T01:00:58.840Z"
+  "totalVecinos": 4694,
+  "actualizado": "2026-06-29T01:30:03.818Z"
 }
