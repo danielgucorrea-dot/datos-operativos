@@ -26356,6 +26356,22 @@
       "distrito": null
     },
     {
+      "numero": "3814630321",
+      "canal": "Chat Center (Call Center)",
+      "nombre": "Ale Norma Mercedes",
+      "telefono": "3814630321",
+      "email": "",
+      "direccion": "Alsina 1011",
+      "lat": "-26.8429193",
+      "lon": "-65.2158638",
+      "distrito": 15,
+      "sentimiento": "neutro",
+      "asunto": "Recolección de Residuos No Habituales (cantidad reducida)",
+      "area": "Ambiente",
+      "estado": "INICIADO",
+      "fecha": "2026-06-29T17:37:38.000Z"
+    },
+    {
       "numero": "381 350-0710",
       "canal": "Chat Center (Call Center)",
       "nombre": "Campillo Yasmín Agostina ",
@@ -60313,7 +60329,7 @@
       "nombre": "Virginia Alderete",
       "telefono": "3816269656",
       "email": "",
-      "direccion": "Tiro Federal, San Miguel de Tucumán, Departamento Capital, Tucumán, T4000, Argentina",
+      "direccion": "Tiro Federal, San Miguel de Tucum��n, Departamento Capital, Tucumán, T4000, Argentina",
       "lat": "-26.838175159069596",
       "lon": "-65.1775265823212",
       "distrito": 11,
@@ -61657,7 +61673,7 @@
       "nombre": "Olivera Jose Luis",
       "telefono": "3815959795",
       "email": "arquitectoluisolivera@gmail.com",
-      "direccion": "Maip�� 1206",
+      "direccion": "Maipú 1206",
       "lat": "-26.8138265",
       "lon": "-65.2038826",
       "distrito": 5,
@@ -73627,15 +73643,15 @@
     "pendientes": 25
   },
   "reclamos": {
-    "total": 3182,
-    "iniciados": 9,
+    "total": 3183,
+    "iniciados": 10,
     "en_proceso": 1262,
     "finalizados": 1875,
     "derivados": 36
   },
   "canales": {
     "WhatsApp Ambiente": 1757,
-    "Chat Center (Call Center)": 1434,
+    "Chat Center (Call Center)": 1435,
     "Aplicación Móvil": 1354,
     "Whatsapp": 7,
     "Personalmente": 109,
@@ -73643,6 +73659,6 @@
     "Teléfono": 44,
     "Email Oficial": 1
   },
-  "totalVecinos": 4711,
-  "actualizado": "2026-06-29T17:30:45.354Z"
+  "totalVecinos": 4712,
+  "actualizado": "2026-06-29T18:00:06.019Z"
 }
