@@ -26356,6 +26356,22 @@
       "distrito": null
     },
     {
+      "numero": "3815543675",
+      "canal": "Aplicación Móvil",
+      "nombre": "JOSÉ LUIS  PICCINETTI ",
+      "telefono": "3815543675",
+      "email": "joseluispicci@gmail.com",
+      "direccion": "Passaje Tierra del Fuego 2, San Miguel de Tucumán, Tucumán",
+      "lat": "-26.845811498487024",
+      "lon": "-65.20110111683607",
+      "distrito": 15,
+      "sentimiento": "neutro",
+      "asunto": "Ruidos molestos",
+      "area": "Salud Ambiental",
+      "estado": "INICIADO",
+      "fecha": "2026-06-29T03:02:00.000Z"
+    },
+    {
       "numero": "3816048172",
       "canal": "Aplicación Móvil",
       "nombre": "José María  Salazar Ritti ",
@@ -64286,7 +64302,7 @@
       "lon": "-65.20325224846601",
       "distrito": 16,
       "sentimiento": "neutro",
-      "asunto": "Pedido de cartelería: “No arrojar basura”",
+      "asunto": "Pedido de carteler��a: “No arrojar basura”",
       "area": "Secretaría de Ambiente",
       "estado": "FINALIZADO",
       "fecha": "2026-01-30T10:37:06.000Z"
@@ -73355,15 +73371,15 @@
     "pendientes": 19
   },
   "reclamos": {
-    "total": 3162,
-    "iniciados": 25,
+    "total": 3163,
+    "iniciados": 26,
     "en_proceso": 1268,
     "finalizados": 1835,
     "derivados": 34
   },
   "canales": {
     "WhatsApp Ambiente": 1757,
-    "Aplicación Móvil": 1350,
+    "Aplicación Móvil": 1351,
     "Chat Center (Call Center)": 1424,
     "Agentes o Inspectores": 5,
     "Personalmente": 108,
@@ -73371,6 +73387,6 @@
     "Teléfono": 44,
     "Email Oficial": 1
   },
-  "totalVecinos": 4694,
-  "actualizado": "2026-06-29T03:00:59.523Z"
+  "totalVecinos": 4695,
+  "actualizado": "2026-06-29T03:30:02.202Z"
 }
