@@ -18917,17 +18917,17 @@
     },
     {
       "numero": "66327230300217",
-      "celular": "3816863039",
-      "nombre": "Franco Soria ",
+      "celular": "381 686-3039",
+      "nombre": "Soria Franco",
       "direccion": "Tiro Federal, San Miguel de Tucumán, Departamento Capital, Tucumán, T4000, Argentina",
       "sentimiento": "neutro",
       "canal": "WhatsApp Ambiente",
       "fecha": "2026-04-29",
       "mensaje": "Están quemando cable ( en la cual sale humo negro) para sacarle el cobre. A la par de una ruta nacional donde pasan automóviles",
-      "telefono": "3816863039",
+      "telefono": "381 686-3039",
       "email": "",
-      "lat": "-26.839771010017394",
-      "lon": "-65.17809179325337",
+      "lat": "-26.83958301559296",
+      "lon": "-65.17809504918506",
       "distrito": 11
     },
     {
@@ -26356,6 +26356,22 @@
       "distrito": null
     },
     {
+      "numero": "3815305463",
+      "canal": "Chat Center (Call Center)",
+      "nombre": "Rubén Daniel Sotelo",
+      "telefono": "3815305463",
+      "email": "",
+      "direccion": "2798, Buenos Aires, Villa Angelina, Ex Ingenio Amalia, San Miguel de Tucumán, Departamento Capital, Tucumán, T4000, Argentina",
+      "lat": "-26.867309633245082",
+      "lon": "-65.21499425767091",
+      "distrito": 15,
+      "sentimiento": "neutro",
+      "asunto": "Pedido de cartelería: “No arrojar basura”",
+      "area": "Secretaría de Ambiente",
+      "estado": "EN PROCESO",
+      "fecha": "2026-06-29T13:52:19.000Z"
+    },
+    {
       "numero": "3814019415",
       "canal": "Chat Center (Call Center)",
       "nombre": "ANONIMO",
@@ -26383,8 +26399,8 @@
       "distrito": 20,
       "sentimiento": "neutro",
       "asunto": "Basura en vía pública",
-      "area": "Ambiente",
-      "estado": "INICIADO",
+      "area": "Secretaría de Ambiente",
+      "estado": "EN PROCESO",
       "fecha": "2026-06-29T13:15:08.000Z"
     },
     {
@@ -26399,8 +26415,8 @@
       "distrito": 4,
       "sentimiento": "neutro",
       "asunto": "Basura en vía pública",
-      "area": "Ambiente",
-      "estado": "INICIADO",
+      "area": "Secretaría de Ambiente",
+      "estado": "EN PROCESO",
       "fecha": "2026-06-29T12:57:51.000Z"
     },
     {
@@ -26415,8 +26431,8 @@
       "distrito": 6,
       "sentimiento": "neutro",
       "asunto": "Basura en vía pública",
-      "area": "Ambiente",
-      "estado": "INICIADO",
+      "area": "Secretaría de Ambiente",
+      "estado": "EN PROCESO",
       "fecha": "2026-06-29T12:55:20.000Z"
     },
     {
@@ -26431,8 +26447,8 @@
       "distrito": 17,
       "sentimiento": "neutro",
       "asunto": "Recolección de Residuos No Habituales (cantidad reducida)",
-      "area": "Ambiente",
-      "estado": "INICIADO",
+      "area": "Secretaría de Ambiente",
+      "estado": "EN PROCESO",
       "fecha": "2026-06-29T12:35:28.000Z"
     },
     {
@@ -26480,7 +26496,7 @@
       "sentimiento": "neutro",
       "asunto": "Recolección de residuos sin realizar",
       "area": "Secretaría de Ambiente",
-      "estado": "DERIVADO",
+      "estado": "EN PROCESO",
       "fecha": "2026-06-29T12:06:54.000Z"
     },
     {
@@ -28069,7 +28085,7 @@
     },
     {
       "numero": "3812169418",
-      "canal": "Aplicación Móvil",
+      "canal": "Aplicación M��vil",
       "nombre": "Beatriz  Molina ",
       "telefono": "3812169418",
       "email": "bettyamolina@gmail.com",
@@ -28841,7 +28857,7 @@
       "nombre": "LAUTARO LEONEL  PEREZ",
       "telefono": "3813960662",
       "email": "perezlautaroleonel31@gmail.com",
-      "direccion": "Evaristo Carriego 1288, San Miguel de Tucumán, Tucum��n",
+      "direccion": "Evaristo Carriego 1288, San Miguel de Tucumán, Tucumán",
       "lat": "-26.84104696754463",
       "lon": "-65.17927128821611",
       "distrito": 11,
@@ -60361,7 +60377,7 @@
       "nombre": "MAIA  LOBO",
       "telefono": "3816094217",
       "email": "maialobo68@gmail.com",
-      "direccion": "Manuel Alberti 433, San Miguel de Tucumán, Tucum��n",
+      "direccion": "Manuel Alberti 433, San Miguel de Tucumán, Tucumán",
       "lat": "-26.820142526325085",
       "lon": "-65.22622905671597",
       "distrito": 10,
@@ -73494,27 +73510,28 @@
   ],
   "pedidos": {
     "bot": 0,
-    "bam": 39,
+    "bam": 54,
     "completados": 0,
-    "pendientes": 39
+    "pendientes": 54
   },
   "reclamos": {
-    "total": 3173,
-    "iniciados": 13,
-    "en_proceso": 1280,
+    "total": 3175,
+    "iniciados": 8,
+    "en_proceso": 1288,
     "finalizados": 1845,
-    "derivados": 35
+    "derivados": 34
   },
   "canales": {
     "WhatsApp Ambiente": 1757,
-    "Chat Center (Call Center)": 1430,
+    "Chat Center (Call Center)": 1431,
     "Personalmente": 109,
     "Whatsapp": 6,
-    "Aplicación Móvil": 1351,
+    "Aplicación Móvil": 1350,
     "Agentes o Inspectores": 5,
+    "Aplicación M��vil": 1,
     "Teléfono": 44,
     "Email Oficial": 1
   },
-  "totalVecinos": 4703,
-  "actualizado": "2026-06-29T13:30:32.881Z"
+  "totalVecinos": 4704,
+  "actualizado": "2026-06-29T14:00:04.071Z"
 }
