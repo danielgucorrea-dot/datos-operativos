@@ -26356,6 +26356,22 @@
       "distrito": null
     },
     {
+      "numero": "3816370848",
+      "canal": "Whatsapp",
+      "nombre": "Araoz, Patricia",
+      "telefono": "3816370848",
+      "email": "",
+      "direccion": "Chile  4000",
+      "lat": "-26.8057734",
+      "lon": "-65.2390694",
+      "distrito": 2,
+      "sentimiento": "neutro",
+      "asunto": "Basura en vía pública",
+      "area": "Ambiente",
+      "estado": "INICIADO",
+      "fecha": "2026-06-29T14:27:41.000Z"
+    },
+    {
       "numero": "3815305463",
       "canal": "Chat Center (Call Center)",
       "nombre": "Rubén Daniel Sotelo",
@@ -28085,7 +28101,7 @@
     },
     {
       "numero": "3812169418",
-      "canal": "Aplicación M��vil",
+      "canal": "Aplicación Móvil",
       "nombre": "Beatriz  Molina ",
       "telefono": "3812169418",
       "email": "bettyamolina@gmail.com",
@@ -36943,7 +36959,7 @@
       "distrito": 9,
       "sentimiento": "neutro",
       "asunto": "Basura en vía pública",
-      "area": "Secretaría de Ambiente",
+      "area": "Secretar��a de Ambiente",
       "estado": "EN PROCESO",
       "fecha": "2026-05-09T17:17:16.000Z"
     },
@@ -59632,7 +59648,7 @@
       "sentimiento": "neutro",
       "asunto": "Recolección de residuos sin realizar",
       "area": "Secretaría de Ambiente",
-      "estado": "EN PROCESO",
+      "estado": "FINALIZADO",
       "fecha": "2026-02-13T21:27:50.000Z"
     },
     {
@@ -59680,7 +59696,7 @@
       "sentimiento": "neutro",
       "asunto": "Basura en vía pública",
       "area": "Secretaría de Ambiente",
-      "estado": "EN PROCESO",
+      "estado": "FINALIZADO",
       "fecha": "2026-02-13T19:38:43.000Z"
     },
     {
@@ -59744,7 +59760,7 @@
       "sentimiento": "neutro",
       "asunto": "Basura en vía pública",
       "area": "Secretaría de Ambiente",
-      "estado": "EN PROCESO",
+      "estado": "FINALIZADO",
       "fecha": "2026-02-13T16:39:04.000Z"
     },
     {
@@ -59760,7 +59776,7 @@
       "sentimiento": "neutro",
       "asunto": "Recolección de residuos sin realizar",
       "area": "Secretaría de Ambiente",
-      "estado": "EN PROCESO",
+      "estado": "FINALIZADO",
       "fecha": "2026-02-13T15:59:45.000Z"
     },
     {
@@ -59808,7 +59824,7 @@
       "sentimiento": "neutro",
       "asunto": "Recolección de residuos sin realizar",
       "area": "Secretaría de Ambiente",
-      "estado": "EN PROCESO",
+      "estado": "FINALIZADO",
       "fecha": "2026-02-13T14:40:35.000Z"
     },
     {
@@ -59824,7 +59840,7 @@
       "sentimiento": "neutro",
       "asunto": "Pedido de cartelería: “No arrojar basura”",
       "area": "Secretaría de Ambiente",
-      "estado": "EN PROCESO",
+      "estado": "FINALIZADO",
       "fecha": "2026-02-13T14:28:30.000Z"
     },
     {
@@ -59840,7 +59856,7 @@
       "sentimiento": "neutro",
       "asunto": "Basura en vía pública",
       "area": "Secretaría de Ambiente",
-      "estado": "EN PROCESO",
+      "estado": "FINALIZADO",
       "fecha": "2026-02-13T13:46:36.000Z"
     },
     {
@@ -59856,7 +59872,7 @@
       "sentimiento": "neutro",
       "asunto": "Recolección de residuos sin realizar",
       "area": "Secretaría de Ambiente",
-      "estado": "EN PROCESO",
+      "estado": "FINALIZADO",
       "fecha": "2026-02-13T13:22:04.000Z"
     },
     {
@@ -72782,7 +72798,7 @@
       "lon": "-65.1889582",
       "distrito": null,
       "sentimiento": "neutro",
-      "asunto": "Basura en vía pública",
+      "asunto": "Basura en v��a pública",
       "area": "Secretaría de Ambiente",
       "estado": "FINALIZADO",
       "fecha": "2025-12-30T15:12:36.000Z"
@@ -73510,28 +73526,27 @@
   ],
   "pedidos": {
     "bot": 0,
-    "bam": 54,
+    "bam": 64,
     "completados": 0,
-    "pendientes": 54
+    "pendientes": 64
   },
   "reclamos": {
-    "total": 3175,
-    "iniciados": 8,
-    "en_proceso": 1288,
-    "finalizados": 1845,
+    "total": 3176,
+    "iniciados": 9,
+    "en_proceso": 1280,
+    "finalizados": 1853,
     "derivados": 34
   },
   "canales": {
     "WhatsApp Ambiente": 1757,
+    "Whatsapp": 7,
     "Chat Center (Call Center)": 1431,
     "Personalmente": 109,
-    "Whatsapp": 6,
-    "Aplicación Móvil": 1350,
+    "Aplicación Móvil": 1351,
     "Agentes o Inspectores": 5,
-    "Aplicación M��vil": 1,
     "Teléfono": 44,
     "Email Oficial": 1
   },
-  "totalVecinos": 4704,
-  "actualizado": "2026-06-29T14:00:33.152Z"
+  "totalVecinos": 4705,
+  "actualizado": "2026-06-29T14:30:04.408Z"
 }
