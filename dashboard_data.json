@@ -26420,6 +26420,22 @@
       "fecha": "2026-06-29T13:15:08.000Z"
     },
     {
+      "numero": "3815415500",
+      "canal": "Aplicación Móvil",
+      "nombre": "Gerardo Sebastian Bulacio",
+      "telefono": "3815415500",
+      "email": "gsbulacio@gmail.com",
+      "direccion": "Cacique Atahualpa 1149, San Miguel de Tucumán, Tucumán",
+      "lat": "-26.83950870547154",
+      "lon": "-65.18092587590218",
+      "distrito": 11,
+      "sentimiento": "neutro",
+      "asunto": "Recolección de residuos sin realizar",
+      "area": "Secretaría de Ambiente",
+      "estado": "DERIVADO",
+      "fecha": "2026-06-29T13:01:21.000Z"
+    },
+    {
       "numero": "3815439395",
       "canal": "Chat Center (Call Center)",
       "nombre": "Juan Ernesto Merletti",
@@ -36959,7 +36975,7 @@
       "distrito": 9,
       "sentimiento": "neutro",
       "asunto": "Basura en vía pública",
-      "area": "Secretar��a de Ambiente",
+      "area": "Secretaría de Ambiente",
       "estado": "EN PROCESO",
       "fecha": "2026-05-09T17:17:16.000Z"
     },
@@ -72798,7 +72814,7 @@
       "lon": "-65.1889582",
       "distrito": null,
       "sentimiento": "neutro",
-      "asunto": "Basura en v��a pública",
+      "asunto": "Basura en vía pública",
       "area": "Secretaría de Ambiente",
       "estado": "FINALIZADO",
       "fecha": "2025-12-30T15:12:36.000Z"
@@ -73531,22 +73547,22 @@
     "pendientes": 64
   },
   "reclamos": {
-    "total": 3176,
+    "total": 3177,
     "iniciados": 9,
     "en_proceso": 1280,
     "finalizados": 1853,
-    "derivados": 34
+    "derivados": 35
   },
   "canales": {
     "WhatsApp Ambiente": 1757,
     "Whatsapp": 7,
     "Chat Center (Call Center)": 1431,
+    "Aplicación Móvil": 1352,
     "Personalmente": 109,
-    "Aplicación Móvil": 1351,
     "Agentes o Inspectores": 5,
     "Teléfono": 44,
     "Email Oficial": 1
   },
-  "totalVecinos": 4705,
-  "actualizado": "2026-06-29T14:30:24.203Z"
+  "totalVecinos": 4706,
+  "actualizado": "2026-06-29T14:30:33.370Z"
 }
