@@ -42861,6 +42861,22 @@
       "distrito": null
     },
     {
+      "numero": "381 345-5753",
+      "canal": "Chat Center (Call Center)",
+      "nombre": "Silvia Cipolla ",
+      "telefono": "381 345-5753",
+      "email": "",
+      "direccion": "1404, Matheu,  San Miguel de Tucumán, Departamento Capital, Tucumán, T4000, Argentina",
+      "lat": "-26.848645781149084",
+      "lon": "-65.22372017709819",
+      "distrito": 14,
+      "sentimiento": "neutro",
+      "asunto": "Basura en vía pública",
+      "area": "Ambiente",
+      "estado": "INICIADO",
+      "fecha": "2026-06-30T13:40:59.000Z"
+    },
+    {
       "numero": "381 - 4964018",
       "canal": "Chat Center (Call Center)",
       "nombre": "de Los Ríos Eudoro Héctor ",
@@ -46255,7 +46271,7 @@
     {
       "numero": "3816486312",
       "canal": "Chat Center (Call Center)",
-      "nombre": "Ibarra Juan Agustín ",
+      "nombre": "Ibarra Juan Agust��n ",
       "telefono": "3816486312",
       "email": "",
       "direccion": "199, Estados Unidos, San Miguel de Tucumán, Departamento Capital, Tucumán, T4000, Argentina",
@@ -74526,7 +74542,7 @@
     },
     {
       "numero": "3816221440",
-      "canal": "Aplicación M��vil",
+      "canal": "Aplicación Móvil",
       "nombre": "Jorge Maria Ocaranza",
       "telefono": "3816221440",
       "email": "joocaranza@gmail.com",
@@ -77022,7 +77038,7 @@
     },
     {
       "numero": "3814952544",
-      "canal": "Aplicación Móvil",
+      "canal": "Aplicación M��vil",
       "nombre": "Stella Gil",
       "telefono": "3814952544",
       "email": "smgil470@gmail.com",
@@ -89551,20 +89567,20 @@
   ],
   "pedidos": {
     "bot": 0,
-    "bam": 61,
+    "bam": 1567,
     "completados": 0,
-    "pendientes": 61
+    "pendientes": 1567
   },
   "reclamos": {
-    "total": 3143,
-    "iniciados": 9,
+    "total": 3144,
+    "iniciados": 10,
     "en_proceso": 1268,
     "finalizados": 1838,
     "derivados": 28
   },
   "canales": {
     "WhatsApp Ambiente": 1757,
-    "Chat Center (Call Center)": 1409,
+    "Chat Center (Call Center)": 1410,
     "Aplicación Móvil": 1345,
     "Whatsapp": 7,
     "Personalmente": 108,
@@ -89573,6 +89589,6 @@
     "Aplicación M��vil": 1,
     "Email Oficial": 1
   },
-  "totalVecinos": 4675,
-  "actualizado": "2026-06-30T13:38:31.869Z"
+  "totalVecinos": 4676,
+  "actualizado": "2026-06-30T13:44:37.019Z"
 }
