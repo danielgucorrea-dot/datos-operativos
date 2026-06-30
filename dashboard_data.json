@@ -26452,22 +26452,6 @@
       "fecha": "2026-06-29T16:08:27.000Z"
     },
     {
-      "numero": "3813039034",
-      "canal": "Aplicación Móvil",
-      "nombre": "Agustina  Grimaldi ",
-      "telefono": "3813039034",
-      "email": "agustina_g21@hotmail.com",
-      "direccion": "General José de San Martín 3408, San Miguel de Tucumán, Tucumán",
-      "lat": "-26.820286745238256",
-      "lon": "-65.24714291095734",
-      "distrito": 9,
-      "sentimiento": "neutro",
-      "asunto": "Basura en vía pública",
-      "area": "Ambiente",
-      "estado": "INICIADO",
-      "fecha": "2026-06-29T15:57:29.000Z"
-    },
-    {
       "numero": "381 384-2467",
       "canal": "Chat Center (Call Center)",
       "nombre": "Gomez Victor",
@@ -37733,7 +37717,7 @@
     },
     {
       "numero": "3816596311",
-      "canal": "Aplicaci��n Móvil",
+      "canal": "Aplicación Móvil",
       "nombre": "Marcelo  ARROYO ",
       "telefono": "3816596311",
       "email": "marceloalejandroarroyo9@gmail.com",
@@ -50462,7 +50446,7 @@
       "lon": "-65.21931130439043",
       "distrito": 4,
       "sentimiento": "neutro",
-      "asunto": "Basura en vía pública",
+      "asunto": "Basura en v��a pública",
       "area": "Secretaría de Ambiente",
       "estado": "EN PROCESO",
       "fecha": "2026-03-19T13:09:43.000Z"
@@ -58025,7 +58009,7 @@
       "nombre": "Jorge Maria Ocaranza",
       "telefono": "3816221440",
       "email": "joocaranza@gmail.com",
-      "direccion": "Crisóstomo Alvarez 2048, San Miguel de Tucumán, Tucum��n",
+      "direccion": "Crisóstomo Alvarez 2048, San Miguel de Tucumán, Tucumán",
       "lat": "-26.827371796954065",
       "lon": "-65.22870138287544",
       "distrito": 10,
@@ -73051,8 +73035,8 @@
     "pendientes": 61
   },
   "reclamos": {
-    "total": 3143,
-    "iniciados": 9,
+    "total": 3142,
+    "iniciados": 8,
     "en_proceso": 1264,
     "finalizados": 1834,
     "derivados": 36
@@ -73065,9 +73049,8 @@
     "Personalmente": 108,
     "Agentes o Inspectores": 4,
     "Teléfono": 43,
-    "Aplicaci��n Móvil": 1,
     "Email Oficial": 1
   },
-  "totalVecinos": 4675,
-  "actualizado": "2026-06-30T12:00:56.518Z"
+  "totalVecinos": 4674,
+  "actualizado": "2026-06-30T12:30:08.168Z"
 }
