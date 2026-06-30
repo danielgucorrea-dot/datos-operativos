@@ -43108,6 +43108,22 @@
       "distrito": null
     },
     {
+      "numero": " 381 364-1700",
+      "canal": "Chat Center (Call Center)",
+      "nombre": "Cabrera Claudia Tamara",
+      "telefono": " 381 364-1700",
+      "email": "",
+      "direccion": "Pasaje Lima, 2765, San Miguel de Tucumán, Departamento Capital, Tucumán, T4000, Argentina",
+      "lat": "-26.845827931039178",
+      "lon": "-65.24564914958204",
+      "distrito": 13,
+      "sentimiento": "neutro",
+      "asunto": "Arrojar productos contaminantes",
+      "area": "Salud Ambiental",
+      "estado": "INICIADO",
+      "fecha": "2026-06-30T15:55:46.000Z"
+    },
+    {
       "numero": "381 - 5127620",
       "canal": "Chat Center (Call Center)",
       "nombre": "Guzmán Francisco David ",
@@ -43151,8 +43167,8 @@
       "distrito": 14,
       "sentimiento": "neutro",
       "asunto": "Basura en vía pública",
-      "area": "Ambiente",
-      "estado": "INICIADO",
+      "area": "Secretaría de Ambiente",
+      "estado": "EN PROCESO",
       "fecha": "2026-06-30T13:40:59.000Z"
     },
     {
@@ -43168,7 +43184,7 @@
       "sentimiento": "neutro",
       "asunto": "Ruidos molestos",
       "area": "Salud Ambiental",
-      "estado": "INICIADO",
+      "estado": "EN PROCESO",
       "fecha": "2026-06-30T12:50:57.000Z"
     },
     {
@@ -59189,7 +59205,7 @@
     },
     {
       "numero": "3814470277",
-      "canal": "Aplicación M��vil",
+      "canal": "Aplicación Móvil",
       "nombre": "Cecilia  Di Bello",
       "telefono": "3814470277",
       "email": "cecidibello@gmail.com",
@@ -71545,7 +71561,7 @@
       "nombre": "Matias Daniel Mollica Ingalina ",
       "telefono": "3814014481",
       "email": "matimollica@gmail.com",
-      "direccion": "Martín Rodríguez 398, San Miguel de Tucumán, Tucumán",
+      "direccion": "Mart��n Rodríguez 398, San Miguel de Tucumán, Tucumán",
       "lat": "-26.81397804345563",
       "lon": "-65.26264674961567",
       "distrito": 9,
@@ -89846,28 +89862,27 @@
   ],
   "pedidos": {
     "bot": 0,
-    "bam": 1598,
+    "bam": 512,
     "completados": 0,
-    "pendientes": 1598
+    "pendientes": 512
   },
   "reclamos": {
-    "total": 3146,
-    "iniciados": 10,
-    "en_proceso": 1270,
+    "total": 3147,
+    "iniciados": 9,
+    "en_proceso": 1272,
     "finalizados": 1838,
     "derivados": 28
   },
   "canales": {
     "WhatsApp Ambiente": 1757,
-    "Chat Center (Call Center)": 1411,
+    "Chat Center (Call Center)": 1412,
     "Whatsapp": 8,
-    "Aplicación Móvil": 1345,
+    "Aplicación Móvil": 1346,
     "Personalmente": 108,
     "Agentes o Inspectores": 4,
     "Teléfono": 43,
-    "Aplicación M��vil": 1,
     "Email Oficial": 1
   },
-  "totalVecinos": 4678,
-  "actualizado": "2026-06-30T15:30:58.366Z"
+  "totalVecinos": 4679,
+  "actualizado": "2026-06-30T16:00:55.328Z"
 }
