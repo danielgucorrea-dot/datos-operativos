@@ -359,7 +359,10 @@ function verificarPin() {
     const d = vecindadActual
     const cls = d.sentimiento === 'positivo' ? 'pos' : d.sentimiento === 'negativo' ? 'neg' : 'neu'
     const label = d.sentimiento === 'positivo' ? 'Satisfecho' : d.sentimiento === 'negativo' ? 'Disconforme' : 'Neutro'
-    const msgMostrar = d.mensaje && d.mensaje.trim() ? d.mensaje : null
+
+    const evidencia = d.evidencia_clasificacion || []
+    const conv = d.conversacion_completa || (d.mensaje ? [d.mensaje] : [])
+
     document.getElementById('modal-contenido').innerHTML = `
       <div class="modal-body">
         <div style="margin-bottom:14px;padding-bottom:12px;border-bottom:1px solid #f0f0ea;">
@@ -368,13 +371,16 @@ function verificarPin() {
           ${d.direccion ? `<div style="font-size:12px;color:#888;margin-top:2px;">📍 ${d.direccion}</div>` : ''}
           ${d.fecha ? `<div style="font-size:11px;color:#aaa;margin-top:2px;">${d.fecha.slice(0,10)}</div>` : ''}
           <span class="badge ${cls}" style="margin-top:6px;display:inline-block;">${label}</span>
+          ${evidencia.length ? `<div style="font-size:11px;color:#888;margin-top:6px;">
+            <strong>Clasificado por:</strong> "${evidencia.join('", "')}"
+          </div>` : (label==='Neutro' ? '<div style="font-size:11px;color:#aaa;margin-top:6px;font-style:italic;">Sin frase de cierre/resolución detectada</div>' : '')}
         </div>
-        ${msgMostrar
-          ? `<div class="conv-item">
-              <div class="quien" style="font-size:11px;color:#888;margin-bottom:4px;">Mensaje del vecino</div>
-              <div class="conv-burbuja vecino" style="background:#f0f0ea;padding:10px 14px;border-radius:10px;font-size:13px;">${msgMostrar}</div>
-            </div>`
-          : '<div style="color:#aaa;font-size:13px;font-style:italic;">El vecino realizó una consulta sin dejar mensaje de texto.</div>'
+        ${conv.length
+          ? `<div style="font-size:11px;color:#888;margin-bottom:8px;">Mensajes del vecino (${conv.length})</div>
+             ${conv.map(m => `<div class="conv-item">
+                <div class="conv-burbuja vecino" style="background:#f0f0ea;padding:8px 12px;border-radius:10px;font-size:13px;margin-bottom:6px;">${m}</div>
+              </div>`).join('')}`
+          : '<div style="color:#aaa;font-size:13px;font-style:italic;">Sin mensajes de texto registrados.</div>'
         }
       </div>`
   } else {
