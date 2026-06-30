@@ -26367,8 +26367,8 @@
       "distrito": 8,
       "sentimiento": "neutro",
       "asunto": "Basura en vía pública",
-      "area": "Ambiente",
-      "estado": "INICIADO",
+      "area": "Secretaría de Ambiente",
+      "estado": "EN PROCESO",
       "fecha": "2026-06-30T04:44:03.000Z"
     },
     {
@@ -26383,8 +26383,8 @@
       "distrito": 7,
       "sentimiento": "neutro",
       "asunto": "Basura en vía pública",
-      "area": "Ambiente",
-      "estado": "INICIADO",
+      "area": "Secretaría de Ambiente",
+      "estado": "EN PROCESO",
       "fecha": "2026-06-29T22:20:07.000Z"
     },
     {
@@ -26432,7 +26432,7 @@
       "sentimiento": "neutro",
       "asunto": "Ruidos molestos",
       "area": "Salud Ambiental",
-      "estado": "INICIADO",
+      "estado": "FINALIZADO",
       "fecha": "2026-06-29T16:08:27.000Z"
     },
     {
@@ -27280,7 +27280,7 @@
       "sentimiento": "neutro",
       "asunto": "Ruidos molestos",
       "area": "Salud Ambiental",
-      "estado": "EN PROCESO",
+      "estado": "FINALIZADO",
       "fecha": "2026-06-25T11:28:20.000Z"
     },
     {
@@ -71593,7 +71593,7 @@
       "nombre": "Lucía Aldana Díaz",
       "telefono": "3816149597",
       "email": "lucyaldiaz@gmail.com",
-      "direccion": "Juramento 1330, San Miguel de Tucumán, Tucumán",
+      "direccion": "Juramento 1330, San Miguel de Tucumán, Tucum��n",
       "lat": "-26.82041510590079",
       "lon": "-65.17434809356928",
       "distrito": 8,
@@ -73030,15 +73030,15 @@
   ],
   "pedidos": {
     "bot": 0,
-    "bam": 49,
+    "bam": 57,
     "completados": 0,
-    "pendientes": 49
+    "pendientes": 57
   },
   "reclamos": {
     "total": 3142,
-    "iniciados": 13,
-    "en_proceso": 1262,
-    "finalizados": 1831,
+    "iniciados": 10,
+    "en_proceso": 1263,
+    "finalizados": 1833,
     "derivados": 36
   },
   "canales": {
@@ -73052,5 +73052,5 @@
     "Email Oficial": 1
   },
   "totalVecinos": 4674,
-  "actualizado": "2026-06-30T06:00:05.248Z"
+  "actualizado": "2026-06-30T11:30:08.656Z"
 }
