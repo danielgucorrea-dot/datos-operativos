@@ -89878,9 +89878,9 @@
   ],
   "pedidos": {
     "bot": 0,
-    "bam": 517,
+    "bam": 518,
     "completados": 0,
-    "pendientes": 517
+    "pendientes": 518
   },
   "reclamos": {
     "total": 3148,
@@ -89900,5 +89900,5 @@
     "Email Oficial": 1
   },
   "totalVecinos": 4680,
-  "actualizado": "2026-06-30T20:30:31.665Z"
+  "actualizado": "2026-06-30T20:30:57.191Z"
 }
