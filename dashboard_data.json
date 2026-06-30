@@ -43108,6 +43108,22 @@
       "distrito": null
     },
     {
+      "numero": "3812100501",
+      "canal": "Chat Center (Call Center)",
+      "nombre": "Maria Luisa Veliz",
+      "telefono": "3812100501",
+      "email": "",
+      "direccion": "Lavaisse, San Miguel de Tucumán, Departamento Capital, Tucumán, T4000, Argentina",
+      "lat": "-26.85281872219258",
+      "lon": "-65.22352943014266",
+      "distrito": 14,
+      "sentimiento": "neutro",
+      "asunto": "Basura en vía pública",
+      "area": "Ambiente",
+      "estado": "INICIADO",
+      "fecha": "2026-06-30T16:03:31.000Z"
+    },
+    {
       "numero": " 381 364-1700",
       "canal": "Chat Center (Call Center)",
       "nombre": "Cabrera Claudia Tamara",
@@ -46505,7 +46521,7 @@
       "nombre": "Melisa Panrorrilla",
       "telefono": "3814792078",
       "email": "melisapan2@gmail.com",
-      "direccion": "Balcarce 2450, San Miguel de Tucumán, Tucumán",
+      "direccion": "Balcarce 2450, San Miguel de Tucum��n, Tucumán",
       "lat": "-26.799939892400097",
       "lon": "-65.19106529653072",
       "distrito": 6,
@@ -59033,7 +59049,7 @@
       "nombre": "Dalma Nerea Sánchez ",
       "telefono": "3815397788",
       "email": "sanchesdalma31@gmail.com",
-      "direccion": "Julio Prebisch 884, San Miguel de Tucumán, Tucumán",
+      "direccion": "Julio Prebisch 884, San Miguel de Tucumán, Tucum��n",
       "lat": "-26.845997265362552",
       "lon": "-65.18643513321877",
       "distrito": 11,
@@ -71561,7 +71577,7 @@
       "nombre": "Matias Daniel Mollica Ingalina ",
       "telefono": "3814014481",
       "email": "matimollica@gmail.com",
-      "direccion": "Mart��n Rodríguez 398, San Miguel de Tucumán, Tucumán",
+      "direccion": "Martín Rodríguez 398, San Miguel de Tucumán, Tucumán",
       "lat": "-26.81397804345563",
       "lon": "-65.26264674961567",
       "distrito": 9,
@@ -80303,7 +80319,7 @@
       "distrito": 9,
       "sentimiento": "neutro",
       "asunto": "Basura en vía pública",
-      "area": "Secretaría de Ambiente",
+      "area": "Secretar��a de Ambiente",
       "estado": "EN PROCESO",
       "fecha": "2026-02-03T13:47:48.000Z"
     },
@@ -89867,15 +89883,15 @@
     "pendientes": 512
   },
   "reclamos": {
-    "total": 3147,
-    "iniciados": 9,
+    "total": 3148,
+    "iniciados": 10,
     "en_proceso": 1272,
     "finalizados": 1838,
     "derivados": 28
   },
   "canales": {
     "WhatsApp Ambiente": 1757,
-    "Chat Center (Call Center)": 1412,
+    "Chat Center (Call Center)": 1413,
     "Whatsapp": 8,
     "Aplicación Móvil": 1346,
     "Personalmente": 108,
@@ -89883,6 +89899,6 @@
     "Teléfono": 43,
     "Email Oficial": 1
   },
-  "totalVecinos": 4679,
-  "actualizado": "2026-06-30T16:00:58.243Z"
+  "totalVecinos": 4680,
+  "actualizado": "2026-06-30T16:14:29.764Z"
 }
