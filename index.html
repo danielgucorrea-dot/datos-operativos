@@ -6,7 +6,8 @@
   <meta http-equiv="Pragma" content="no-cache">
   <meta http-equiv="Expires" content="0">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Dashboard — Secretaría de Ambiente SMT</title>
+  <title>Datos Operativos</title>
+  <!-- build:20260630133309 -->
   <style>
     * { box-sizing: border-box; margin: 0; padding: 0; }
     body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; background: #f5f5f0; color: #1a1a1a; }
@@ -107,8 +108,8 @@
 <!-- LOGIN -->
 <div id="login-screen">
   <div class="login-box">
-    <h2>Secretaría de Ambiente</h2>
-    <p>Municipalidad de San Miguel de Tucumán</p>
+    <h2>Datos Operativos</h2>
+    <p>Sistema de gestión</p>
     <input type="password" id="pwd" placeholder="Contraseña" onkeydown="if(event.key==='Enter')login()">
     <button onclick="login()">Ingresar</button>
     <div id="login-error">Contraseña incorrecta</div>
@@ -359,10 +360,8 @@ function verificarPin() {
     const d = vecindadActual
     const cls = d.sentimiento === 'positivo' ? 'pos' : d.sentimiento === 'negativo' ? 'neg' : 'neu'
     const label = d.sentimiento === 'positivo' ? 'Satisfecho' : d.sentimiento === 'negativo' ? 'Disconforme' : 'Neutro'
-
     const evidencia = d.evidencia_clasificacion || []
     const conv = d.conversacion_completa || (d.mensaje ? [d.mensaje] : [])
-
     document.getElementById('modal-contenido').innerHTML = `
       <div class="modal-body">
         <div style="margin-bottom:14px;padding-bottom:12px;border-bottom:1px solid #f0f0ea;">
@@ -371,15 +370,10 @@ function verificarPin() {
           ${d.direccion ? `<div style="font-size:12px;color:#888;margin-top:2px;">📍 ${d.direccion}</div>` : ''}
           ${d.fecha ? `<div style="font-size:11px;color:#aaa;margin-top:2px;">${d.fecha.slice(0,10)}</div>` : ''}
           <span class="badge ${cls}" style="margin-top:6px;display:inline-block;">${label}</span>
-          ${evidencia.length ? `<div style="font-size:11px;color:#888;margin-top:6px;">
-            <strong>Clasificado por:</strong> "${evidencia.join('", "')}"
-          </div>` : (label==='Neutro' ? '<div style="font-size:11px;color:#aaa;margin-top:6px;font-style:italic;">Sin frase de cierre/resolución detectada</div>' : '')}
+          ${evidencia.length ? `<div style="font-size:11px;color:#888;margin-top:6px;"><strong>Clasificado por:</strong> "${evidencia.join('", "')}"</div>` : (label==='Neutro' ? '<div style="font-size:11px;color:#aaa;margin-top:6px;font-style:italic;">Sin frase de cierre/resolución detectada</div>' : '')}
         </div>
         ${conv.length
-          ? `<div style="font-size:11px;color:#888;margin-bottom:8px;">Mensajes del vecino (${conv.length})</div>
-             ${conv.map(m => `<div class="conv-item">
-                <div class="conv-burbuja vecino" style="background:#f0f0ea;padding:8px 12px;border-radius:10px;font-size:13px;margin-bottom:6px;">${m}</div>
-              </div>`).join('')}`
+          ? `<div style="font-size:11px;color:#888;margin-bottom:8px;">Mensajes del vecino (${conv.length})</div>` + conv.map(m => `<div class="conv-item"><div class="conv-burbuja vecino" style="background:#f0f0ea;padding:8px 12px;border-radius:10px;font-size:13px;margin-bottom:6px;">${m}</div></div>`).join('')
           : '<div style="color:#aaa;font-size:13px;font-style:italic;">Sin mensajes de texto registrados.</div>'
         }
       </div>`
