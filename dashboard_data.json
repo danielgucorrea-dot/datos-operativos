@@ -26356,6 +26356,22 @@
       "distrito": null
     },
     {
+      "numero": "3815543675",
+      "canal": "Chat Center (Call Center)",
+      "nombre": "JOSE LUIS PICCINETTI",
+      "telefono": "3815543675",
+      "email": "",
+      "direccion": "1000, Moreno, San Cayetano, Villa Alem, San Miguel de Tucumán, Departamento Capital, Tucumán, T4000, Argentina",
+      "lat": "-26.845730730185174",
+      "lon": "-65.201896319459",
+      "distrito": 15,
+      "sentimiento": "neutro",
+      "asunto": "Ruidos molestos",
+      "area": "Salud Ambiental",
+      "estado": "INICIADO",
+      "fecha": "2026-06-30T11:51:41.000Z"
+    },
+    {
       "numero": "0381632436",
       "canal": "Aplicación Móvil",
       "nombre": "RUBEN HUMBERTO CORONEL",
@@ -26399,8 +26415,8 @@
       "distrito": 6,
       "sentimiento": "neutro",
       "asunto": "Basura en vía pública",
-      "area": "Ambiente",
-      "estado": "INICIADO",
+      "area": "Secretaría de Ambiente",
+      "estado": "EN PROCESO",
       "fecha": "2026-06-29T20:14:53.000Z"
     },
     {
@@ -26415,8 +26431,8 @@
       "distrito": 15,
       "sentimiento": "neutro",
       "asunto": "Recolección de Residuos No Habituales (cantidad reducida)",
-      "area": "Ambiente",
-      "estado": "INICIADO",
+      "area": "Secretaría de Ambiente",
+      "estado": "EN PROCESO",
       "fecha": "2026-06-29T17:37:38.000Z"
     },
     {
@@ -26640,7 +26656,7 @@
       "sentimiento": "neutro",
       "asunto": "Ruidos molestos",
       "area": "Salud Ambiental",
-      "estado": "EN PROCESO",
+      "estado": "FINALIZADO",
       "fecha": "2026-06-29T12:15:11.000Z"
     },
     {
@@ -37717,7 +37733,7 @@
     },
     {
       "numero": "3816596311",
-      "canal": "Aplicación Móvil",
+      "canal": "Aplicaci��n Móvil",
       "nombre": "Marcelo  ARROYO ",
       "telefono": "3816596311",
       "email": "marceloalejandroarroyo9@gmail.com",
@@ -58009,7 +58025,7 @@
       "nombre": "Jorge Maria Ocaranza",
       "telefono": "3816221440",
       "email": "joocaranza@gmail.com",
-      "direccion": "Crisóstomo Alvarez 2048, San Miguel de Tucumán, Tucumán",
+      "direccion": "Crisóstomo Alvarez 2048, San Miguel de Tucumán, Tucum��n",
       "lat": "-26.827371796954065",
       "lon": "-65.22870138287544",
       "distrito": 10,
@@ -71593,7 +71609,7 @@
       "nombre": "Lucía Aldana Díaz",
       "telefono": "3816149597",
       "email": "lucyaldiaz@gmail.com",
-      "direccion": "Juramento 1330, San Miguel de Tucumán, Tucum��n",
+      "direccion": "Juramento 1330, San Miguel de Tucumán, Tucumán",
       "lat": "-26.82041510590079",
       "lon": "-65.17434809356928",
       "distrito": 8,
@@ -73030,27 +73046,28 @@
   ],
   "pedidos": {
     "bot": 0,
-    "bam": 57,
+    "bam": 61,
     "completados": 0,
-    "pendientes": 57
+    "pendientes": 61
   },
   "reclamos": {
-    "total": 3142,
-    "iniciados": 10,
-    "en_proceso": 1263,
-    "finalizados": 1833,
+    "total": 3143,
+    "iniciados": 9,
+    "en_proceso": 1264,
+    "finalizados": 1834,
     "derivados": 36
   },
   "canales": {
     "WhatsApp Ambiente": 1757,
-    "Aplicación Móvil": 1347,
-    "Chat Center (Call Center)": 1407,
+    "Chat Center (Call Center)": 1408,
+    "Aplicación Móvil": 1346,
     "Whatsapp": 7,
     "Personalmente": 108,
     "Agentes o Inspectores": 4,
     "Teléfono": 43,
+    "Aplicaci��n Móvil": 1,
     "Email Oficial": 1
   },
-  "totalVecinos": 4674,
-  "actualizado": "2026-06-30T11:30:08.656Z"
+  "totalVecinos": 4675,
+  "actualizado": "2026-06-30T12:00:07.746Z"
 }
