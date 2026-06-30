@@ -26356,6 +26356,22 @@
       "distrito": null
     },
     {
+      "numero": "0381632436",
+      "canal": "Aplicación Móvil",
+      "nombre": "RUBEN HUMBERTO CORONEL",
+      "telefono": "0381632436",
+      "email": "rubenhcoronel@gmail.com",
+      "direccion": "Diego de Villarroel 176, San Miguel de Tucumán, Tucumán",
+      "lat": "-26.818869083309444",
+      "lon": "-65.19120041280985",
+      "distrito": 8,
+      "sentimiento": "neutro",
+      "asunto": "Basura en vía pública",
+      "area": "Ambiente",
+      "estado": "INICIADO",
+      "fecha": "2026-06-30T04:44:03.000Z"
+    },
+    {
       "numero": "3816406860",
       "canal": "Aplicación Móvil",
       "nombre": "MARIA DE LA PAZ CASTRO",
@@ -43382,7 +43398,7 @@
     {
       "numero": "3815449399",
       "canal": "Aplicación Móvil",
-      "nombre": "Mar��a Marta  Matías ",
+      "nombre": "María Marta  Matías ",
       "telefono": "3815449399",
       "email": "tresemeproducciones@gmail.com",
       "direccion": "Próspero Mena 39, San Miguel de Tucumán, Tucumán",
@@ -73019,15 +73035,15 @@
     "pendientes": 49
   },
   "reclamos": {
-    "total": 3141,
-    "iniciados": 12,
+    "total": 3142,
+    "iniciados": 13,
     "en_proceso": 1262,
     "finalizados": 1831,
     "derivados": 36
   },
   "canales": {
     "WhatsApp Ambiente": 1757,
-    "Aplicación Móvil": 1346,
+    "Aplicación Móvil": 1347,
     "Chat Center (Call Center)": 1407,
     "Whatsapp": 7,
     "Personalmente": 108,
@@ -73035,6 +73051,6 @@
     "Teléfono": 43,
     "Email Oficial": 1
   },
-  "totalVecinos": 4673,
-  "actualizado": "2026-06-30T04:30:51.102Z"
+  "totalVecinos": 4674,
+  "actualizado": "2026-06-30T05:00:05.233Z"
 }
