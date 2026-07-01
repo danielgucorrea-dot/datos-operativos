@@ -77440,7 +77440,7 @@
       "sentimiento": "neutro",
       "asunto": "Persona arrojando basura",
       "area": "Secretaría de Ambiente",
-      "estado": "EN PROCESO",
+      "estado": "FINALIZADO",
       "fecha": "2026-02-11T19:47:51.000Z"
     },
     {
@@ -77456,7 +77456,7 @@
       "sentimiento": "neutro",
       "asunto": "Recolección de Residuos No Habituales (cantidad reducida)",
       "area": "Secretaría de Ambiente",
-      "estado": "EN PROCESO",
+      "estado": "FINALIZADO",
       "fecha": "2026-02-11T18:56:11.000Z"
     },
     {
@@ -77488,7 +77488,7 @@
       "sentimiento": "neutro",
       "asunto": "Basura en vía pública",
       "area": "Secretaría de Ambiente",
-      "estado": "EN PROCESO",
+      "estado": "FINALIZADO",
       "fecha": "2026-02-11T17:42:33.000Z"
     },
     {
@@ -77504,7 +77504,7 @@
       "sentimiento": "neutro",
       "asunto": "Basura en vía pública",
       "area": "Secretaría de Ambiente",
-      "estado": "EN PROCESO",
+      "estado": "FINALIZADO",
       "fecha": "2026-02-11T17:29:42.000Z"
     },
     {
@@ -77536,7 +77536,7 @@
       "sentimiento": "neutro",
       "asunto": "Basura en vía pública",
       "area": "Secretaría de Ambiente",
-      "estado": "EN PROCESO",
+      "estado": "FINALIZADO",
       "fecha": "2026-02-11T15:35:34.000Z"
     },
     {
@@ -77552,7 +77552,7 @@
       "sentimiento": "neutro",
       "asunto": "Recolección de residuos sin realizar",
       "area": "Secretaría de Ambiente",
-      "estado": "EN PROCESO",
+      "estado": "FINALIZADO",
       "fecha": "2026-02-11T14:57:52.000Z"
     },
     {
@@ -77568,7 +77568,7 @@
       "sentimiento": "neutro",
       "asunto": "Recolección de Residuos No Habituales (cantidad reducida)",
       "area": "Secretaría de Ambiente",
-      "estado": "EN PROCESO",
+      "estado": "FINALIZADO",
       "fecha": "2026-02-11T14:29:08.000Z"
     },
     {
@@ -77584,7 +77584,7 @@
       "sentimiento": "neutro",
       "asunto": "Recolección de Residuos No Habituales (cantidad reducida)",
       "area": "Secretaría de Ambiente",
-      "estado": "EN PROCESO",
+      "estado": "FINALIZADO",
       "fecha": "2026-02-11T13:35:37.000Z"
     },
     {
@@ -77600,7 +77600,7 @@
       "sentimiento": "neutro",
       "asunto": "Basura en vía pública",
       "area": "Secretaría de Ambiente",
-      "estado": "EN PROCESO",
+      "estado": "FINALIZADO",
       "fecha": "2026-02-11T13:29:56.000Z"
     },
     {
@@ -77616,7 +77616,7 @@
       "sentimiento": "neutro",
       "asunto": "Basura en vía pública",
       "area": "Secretaría de Ambiente",
-      "estado": "EN PROCESO",
+      "estado": "FINALIZADO",
       "fecha": "2026-02-11T13:05:58.000Z"
     },
     {
@@ -77632,7 +77632,7 @@
       "sentimiento": "neutro",
       "asunto": "Basura en vía pública",
       "area": "Secretaría de Ambiente",
-      "estado": "EN PROCESO",
+      "estado": "FINALIZADO",
       "fecha": "2026-02-11T12:49:57.000Z"
     },
     {
@@ -77648,7 +77648,7 @@
       "sentimiento": "neutro",
       "asunto": "Basura en vía pública",
       "area": "Secretaría de Ambiente",
-      "estado": "EN PROCESO",
+      "estado": "FINALIZADO",
       "fecha": "2026-02-11T12:30:20.000Z"
     },
     {
@@ -77664,7 +77664,7 @@
       "sentimiento": "neutro",
       "asunto": "Basura en vía pública",
       "area": "Secretaría de Ambiente",
-      "estado": "EN PROCESO",
+      "estado": "FINALIZADO",
       "fecha": "2026-02-11T12:26:06.000Z"
     },
     {
@@ -77680,7 +77680,7 @@
       "sentimiento": "neutro",
       "asunto": "Recolección de residuos sin realizar",
       "area": "Secretaría de Ambiente",
-      "estado": "EN PROCESO",
+      "estado": "FINALIZADO",
       "fecha": "2026-02-11T12:19:37.000Z"
     },
     {
@@ -89574,15 +89574,15 @@
   ],
   "pedidos": {
     "bot": 0,
-    "bam": 532,
+    "bam": 539,
     "completados": 0,
-    "pendientes": 532
+    "pendientes": 539
   },
   "reclamos": {
     "total": 3129,
     "iniciados": 10,
-    "en_proceso": 1267,
-    "finalizados": 1824,
+    "en_proceso": 1252,
+    "finalizados": 1839,
     "derivados": 28
   },
   "canales": {
@@ -89596,5 +89596,5 @@
     "Email Oficial": 1
   },
   "totalVecinos": 4661,
-  "actualizado": "2026-07-01T12:30:58.407Z"
+  "actualizado": "2026-07-01T13:00:04.297Z"
 }
