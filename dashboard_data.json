@@ -43108,6 +43108,38 @@
       "distrito": null
     },
     {
+      "numero": "3814633268",
+      "canal": "Aplicación Móvil",
+      "nombre": "Carolina  Cuadra ",
+      "telefono": "3814633268",
+      "email": "cuadracarolina12@gmail.com",
+      "direccion": "Benjamin Villafañe 2299, San Miguel de Tucumán, Tucumán",
+      "lat": "-26.801569965565164",
+      "lon": "-65.1865591853857",
+      "distrito": 7,
+      "sentimiento": "neutro",
+      "asunto": "Basura en vía pública",
+      "area": "Ambiente",
+      "estado": "INICIADO",
+      "fecha": "2026-07-01T14:07:27.000Z"
+    },
+    {
+      "numero": "3816409982",
+      "canal": "Chat Center (Call Center)",
+      "nombre": "Carrizo juan Carlos",
+      "telefono": "3816409982",
+      "email": "",
+      "direccion": "2785, Pasaje A. Pasqualini, Floresta, San Miguel de Tucumán, Departamento Capital, Tucumán, T4000, Argentina",
+      "lat": "-26.825142388264403",
+      "lon": "-65.24037101850047",
+      "distrito": 9,
+      "sentimiento": "neutro",
+      "asunto": "Basura en vía pública",
+      "area": "Secretaría de Ambiente",
+      "estado": "EN PROCESO",
+      "fecha": "2026-07-01T14:01:39.000Z"
+    },
+    {
       "numero": "3814776135",
       "canal": "Chat Center (Call Center)",
       "nombre": "Carlos Emilio Martinetti",
@@ -89574,27 +89606,27 @@
   ],
   "pedidos": {
     "bot": 0,
-    "bam": 559,
+    "bam": 566,
     "completados": 0,
-    "pendientes": 559
+    "pendientes": 566
   },
   "reclamos": {
-    "total": 3129,
-    "iniciados": 10,
-    "en_proceso": 1223,
+    "total": 3131,
+    "iniciados": 11,
+    "en_proceso": 1224,
     "finalizados": 1868,
     "derivados": 28
   },
   "canales": {
     "WhatsApp Ambiente": 1757,
-    "Chat Center (Call Center)": 1411,
+    "Aplicación Móvil": 1330,
+    "Chat Center (Call Center)": 1412,
     "Whatsapp": 8,
-    "Aplicación Móvil": 1329,
     "Personalmente": 108,
     "Agentes o Inspectores": 4,
     "Teléfono": 43,
     "Email Oficial": 1
   },
-  "totalVecinos": 4661,
-  "actualizado": "2026-07-01T14:00:59.143Z"
+  "totalVecinos": 4663,
+  "actualizado": "2026-07-01T14:30:04.619Z"
 }
