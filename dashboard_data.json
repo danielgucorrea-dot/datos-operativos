@@ -43108,6 +43108,22 @@
       "distrito": null
     },
     {
+      "numero": "381 664-9440",
+      "canal": "Chat Center (Call Center)",
+      "nombre": "Martin Sosa",
+      "telefono": "381 664-9440",
+      "email": "",
+      "direccion": "Jose Gorriti, Barrio San Miguel, Manantial Sur, San Miguel de Tucumán, Departamento Capital, Tucumán, T4128, Argentina",
+      "lat": "-26.851782334180317",
+      "lon": "-65.25650056167667",
+      "distrito": 17,
+      "sentimiento": "neutro",
+      "asunto": "Basura en vía pública",
+      "area": "Ambiente",
+      "estado": "INICIADO",
+      "fecha": "2026-07-01T11:11:26.000Z"
+    },
+    {
       "numero": "3812100501",
       "canal": "Chat Center (Call Center)",
       "nombre": "Maria Luisa Veliz",
@@ -46521,7 +46537,7 @@
       "nombre": "Melisa Panrorrilla",
       "telefono": "3814792078",
       "email": "melisapan2@gmail.com",
-      "direccion": "Balcarce 2450, San Miguel de Tucum��n, Tucumán",
+      "direccion": "Balcarce 2450, San Miguel de Tucumán, Tucumán",
       "lat": "-26.799939892400097",
       "lon": "-65.19106529653072",
       "distrito": 6,
@@ -59049,7 +59065,7 @@
       "nombre": "Dalma Nerea Sánchez ",
       "telefono": "3815397788",
       "email": "sanchesdalma31@gmail.com",
-      "direccion": "Julio Prebisch 884, San Miguel de Tucumán, Tucum��n",
+      "direccion": "Julio Prebisch 884, San Miguel de Tucumán, Tucumán",
       "lat": "-26.845997265362552",
       "lon": "-65.18643513321877",
       "distrito": 11,
@@ -80319,7 +80335,7 @@
       "distrito": 9,
       "sentimiento": "neutro",
       "asunto": "Basura en vía pública",
-      "area": "Secretar��a de Ambiente",
+      "area": "Secretaría de Ambiente",
       "estado": "EN PROCESO",
       "fecha": "2026-02-03T13:47:48.000Z"
     },
@@ -81577,7 +81593,7 @@
       "nombre": "Valdiviezo Luis",
       "telefono": "3815425303",
       "email": "",
-      "direccion": "Juan Padrós, El Salvador, San Miguel de Tucumán, Departamento Capital, Tucumán, T4000, Argentina",
+      "direccion": "Juan Padrós, El Salvador, San Miguel de Tucum��n, Departamento Capital, Tucumán, T4000, Argentina",
       "lat": "-26.864094163804115",
       "lon": "-65.21408988244475",
       "distrito": 15,
@@ -89542,20 +89558,20 @@
   ],
   "pedidos": {
     "bot": 0,
-    "bam": 518,
+    "bam": 519,
     "completados": 0,
-    "pendientes": 518
+    "pendientes": 519
   },
   "reclamos": {
-    "total": 3127,
-    "iniciados": 10,
+    "total": 3128,
+    "iniciados": 11,
     "en_proceso": 1272,
     "finalizados": 1817,
     "derivados": 28
   },
   "canales": {
     "WhatsApp Ambiente": 1757,
-    "Chat Center (Call Center)": 1409,
+    "Chat Center (Call Center)": 1410,
     "Whatsapp": 8,
     "Aplicación Móvil": 1329,
     "Personalmente": 108,
@@ -89563,6 +89579,6 @@
     "Teléfono": 43,
     "Email Oficial": 1
   },
-  "totalVecinos": 4659,
-  "actualizado": "2026-07-01T11:00:53.806Z"
+  "totalVecinos": 4660,
+  "actualizado": "2026-07-01T11:30:03.325Z"
 }
