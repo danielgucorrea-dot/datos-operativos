@@ -43135,8 +43135,8 @@
       "distrito": 17,
       "sentimiento": "neutro",
       "asunto": "Basura en vía pública",
-      "area": "Ambiente",
-      "estado": "INICIADO",
+      "area": "Secretaría de Ambiente",
+      "estado": "EN PROCESO",
       "fecha": "2026-07-01T11:11:26.000Z"
     },
     {
@@ -43151,8 +43151,8 @@
       "distrito": 14,
       "sentimiento": "neutro",
       "asunto": "Basura en vía pública",
-      "area": "Ambiente",
-      "estado": "INICIADO",
+      "area": "Secretaría de Ambiente",
+      "estado": "EN PROCESO",
       "fecha": "2026-06-30T16:03:31.000Z"
     },
     {
@@ -77328,7 +77328,7 @@
       "sentimiento": "neutro",
       "asunto": "Basura en vía pública",
       "area": "Secretaría de Ambiente",
-      "estado": "EN PROCESO",
+      "estado": "FINALIZADO",
       "fecha": "2026-02-12T10:27:22.000Z"
     },
     {
@@ -77344,7 +77344,7 @@
       "sentimiento": "neutro",
       "asunto": "Recolección de Residuos No Habituales (cantidad reducida)",
       "area": "Secretaría de Ambiente",
-      "estado": "EN PROCESO",
+      "estado": "FINALIZADO",
       "fecha": "2026-02-12T01:06:37.000Z"
     },
     {
@@ -77360,7 +77360,7 @@
       "sentimiento": "neutro",
       "asunto": "Pedido de cartelería: “No arrojar basura”",
       "area": "Secretaría de Ambiente",
-      "estado": "EN PROCESO",
+      "estado": "FINALIZADO",
       "fecha": "2026-02-12T01:03:58.000Z"
     },
     {
@@ -77376,7 +77376,7 @@
       "sentimiento": "neutro",
       "asunto": "Basura en vía pública",
       "area": "Secretaría de Ambiente",
-      "estado": "EN PROCESO",
+      "estado": "FINALIZADO",
       "fecha": "2026-02-11T21:05:39.000Z"
     },
     {
@@ -77392,7 +77392,7 @@
       "sentimiento": "neutro",
       "asunto": "Basura en vía pública",
       "area": "Secretaría de Ambiente",
-      "estado": "EN PROCESO",
+      "estado": "FINALIZADO",
       "fecha": "2026-02-11T20:56:31.000Z"
     },
     {
@@ -77408,7 +77408,7 @@
       "sentimiento": "neutro",
       "asunto": "Recolección de residuos sin realizar",
       "area": "Secretaría de Ambiente",
-      "estado": "EN PROCESO",
+      "estado": "FINALIZADO",
       "fecha": "2026-02-11T20:49:35.000Z"
     },
     {
@@ -77424,7 +77424,7 @@
       "sentimiento": "neutro",
       "asunto": "Recolección de residuos sin realizar",
       "area": "Secretaría de Ambiente",
-      "estado": "EN PROCESO",
+      "estado": "FINALIZADO",
       "fecha": "2026-02-11T20:36:06.000Z"
     },
     {
@@ -89574,15 +89574,15 @@
   ],
   "pedidos": {
     "bot": 0,
-    "bam": 527,
+    "bam": 532,
     "completados": 0,
-    "pendientes": 527
+    "pendientes": 532
   },
   "reclamos": {
     "total": 3129,
-    "iniciados": 12,
-    "en_proceso": 1272,
-    "finalizados": 1817,
+    "iniciados": 10,
+    "en_proceso": 1267,
+    "finalizados": 1824,
     "derivados": 28
   },
   "canales": {
@@ -89596,5 +89596,5 @@
     "Email Oficial": 1
   },
   "totalVecinos": 4661,
-  "actualizado": "2026-07-01T12:00:56.844Z"
+  "actualizado": "2026-07-01T12:30:06.208Z"
 }
