@@ -43119,8 +43119,8 @@
       "distrito": 7,
       "sentimiento": "neutro",
       "asunto": "Basura en vía pública",
-      "area": "Ambiente",
-      "estado": "INICIADO",
+      "area": "Secretaría de Ambiente",
+      "estado": "EN PROCESO",
       "fecha": "2026-07-01T14:07:27.000Z"
     },
     {
@@ -87374,7 +87374,7 @@
       "lon": "-65.2063",
       "distrito": 10,
       "sentimiento": "neutro",
-      "asunto": "Basura en vía pública",
+      "asunto": "Basura en vía p��blica",
       "area": "Secretaría de Ambiente",
       "estado": "FINALIZADO",
       "fecha": "2026-01-09T12:03:35.000Z"
@@ -89606,14 +89606,14 @@
   ],
   "pedidos": {
     "bot": 0,
-    "bam": 566,
+    "bam": 568,
     "completados": 0,
-    "pendientes": 566
+    "pendientes": 568
   },
   "reclamos": {
     "total": 3131,
-    "iniciados": 11,
-    "en_proceso": 1224,
+    "iniciados": 10,
+    "en_proceso": 1225,
     "finalizados": 1868,
     "derivados": 28
   },
@@ -89628,5 +89628,5 @@
     "Email Oficial": 1
   },
   "totalVecinos": 4663,
-  "actualizado": "2026-07-01T14:30:59.386Z"
+  "actualizado": "2026-07-01T14:51:10.728Z"
 }
