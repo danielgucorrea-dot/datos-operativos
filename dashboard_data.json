@@ -43108,6 +43108,22 @@
       "distrito": null
     },
     {
+      "numero": "3814776135",
+      "canal": "Chat Center (Call Center)",
+      "nombre": "Carlos Emilio Martinetti",
+      "telefono": "3814776135",
+      "email": "",
+      "direccion": "Escuela 9 de Julio, 112, Catamarca, San Miguel de Tucumán, Departamento Capital, Tucumán, 4000, Argentina",
+      "lat": "-26.8276139",
+      "lon": "-65.2130658",
+      "distrito": 10,
+      "sentimiento": "neutro",
+      "asunto": "Ruidos molestos",
+      "area": "Salud Ambiental",
+      "estado": "INICIADO",
+      "fecha": "2026-07-01T11:37:18.000Z"
+    },
+    {
       "numero": "381 664-9440",
       "canal": "Chat Center (Call Center)",
       "nombre": "Martin Sosa",
@@ -81593,7 +81609,7 @@
       "nombre": "Valdiviezo Luis",
       "telefono": "3815425303",
       "email": "",
-      "direccion": "Juan Padrós, El Salvador, San Miguel de Tucum��n, Departamento Capital, Tucumán, T4000, Argentina",
+      "direccion": "Juan Padrós, El Salvador, San Miguel de Tucumán, Departamento Capital, Tucumán, T4000, Argentina",
       "lat": "-26.864094163804115",
       "lon": "-65.21408988244475",
       "distrito": 15,
@@ -89558,20 +89574,20 @@
   ],
   "pedidos": {
     "bot": 0,
-    "bam": 519,
+    "bam": 527,
     "completados": 0,
-    "pendientes": 519
+    "pendientes": 527
   },
   "reclamos": {
-    "total": 3128,
-    "iniciados": 11,
+    "total": 3129,
+    "iniciados": 12,
     "en_proceso": 1272,
     "finalizados": 1817,
     "derivados": 28
   },
   "canales": {
     "WhatsApp Ambiente": 1757,
-    "Chat Center (Call Center)": 1410,
+    "Chat Center (Call Center)": 1411,
     "Whatsapp": 8,
     "Aplicación Móvil": 1329,
     "Personalmente": 108,
@@ -89579,6 +89595,6 @@
     "Teléfono": 43,
     "Email Oficial": 1
   },
-  "totalVecinos": 4660,
-  "actualizado": "2026-07-01T11:30:58.121Z"
+  "totalVecinos": 4661,
+  "actualizado": "2026-07-01T12:00:03.648Z"
 }
