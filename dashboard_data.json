@@ -77712,7 +77712,7 @@
       "sentimiento": "neutro",
       "asunto": "Recolección de residuos sin realizar",
       "area": "Secretaría de Ambiente",
-      "estado": "EN PROCESO",
+      "estado": "FINALIZADO",
       "fecha": "2026-02-11T11:49:01.000Z"
     },
     {
@@ -77728,7 +77728,7 @@
       "sentimiento": "neutro",
       "asunto": "Recolección de residuos sin realizar",
       "area": "Secretaría de Ambiente",
-      "estado": "EN PROCESO",
+      "estado": "FINALIZADO",
       "fecha": "2026-02-11T02:14:44.000Z"
     },
     {
@@ -77760,7 +77760,7 @@
       "sentimiento": "neutro",
       "asunto": "Basura en vía pública",
       "area": "Secretaría de Ambiente",
-      "estado": "EN PROCESO",
+      "estado": "FINALIZADO",
       "fecha": "2026-02-10T22:45:23.000Z"
     },
     {
@@ -77776,7 +77776,7 @@
       "sentimiento": "neutro",
       "asunto": "Recolección de Residuos No Habituales (cantidad reducida)",
       "area": "Secretaría de Ambiente",
-      "estado": "EN PROCESO",
+      "estado": "FINALIZADO",
       "fecha": "2026-02-10T21:56:36.000Z"
     },
     {
@@ -77792,7 +77792,7 @@
       "sentimiento": "neutro",
       "asunto": "Basura en vía pública",
       "area": "Secretaría de Ambiente",
-      "estado": "EN PROCESO",
+      "estado": "FINALIZADO",
       "fecha": "2026-02-10T21:51:31.000Z"
     },
     {
@@ -77824,7 +77824,7 @@
       "sentimiento": "neutro",
       "asunto": "Recolección de residuos sin realizar",
       "area": "Secretaría de Ambiente",
-      "estado": "EN PROCESO",
+      "estado": "FINALIZADO",
       "fecha": "2026-02-10T19:10:19.000Z"
     },
     {
@@ -77840,7 +77840,7 @@
       "sentimiento": "neutro",
       "asunto": "Recolección de Residuos No Habituales (cantidad reducida)",
       "area": "Secretaría de Ambiente",
-      "estado": "EN PROCESO",
+      "estado": "FINALIZADO",
       "fecha": "2026-02-10T17:12:12.000Z"
     },
     {
@@ -77856,7 +77856,7 @@
       "sentimiento": "neutro",
       "asunto": "Basura en vía pública",
       "area": "Secretaría de Ambiente",
-      "estado": "EN PROCESO",
+      "estado": "FINALIZADO",
       "fecha": "2026-02-10T17:00:26.000Z"
     },
     {
@@ -77872,7 +77872,7 @@
       "sentimiento": "neutro",
       "asunto": "Solicitud de Talleres Ambientales",
       "area": "Secretaría de Ambiente",
-      "estado": "EN PROCESO",
+      "estado": "FINALIZADO",
       "fecha": "2026-02-10T16:30:56.000Z"
     },
     {
@@ -77888,7 +77888,7 @@
       "sentimiento": "neutro",
       "asunto": "Basura en vía pública",
       "area": "Secretaría de Ambiente",
-      "estado": "EN PROCESO",
+      "estado": "FINALIZADO",
       "fecha": "2026-02-10T16:21:42.000Z"
     },
     {
@@ -77904,7 +77904,7 @@
       "sentimiento": "neutro",
       "asunto": "Basura en vía pública",
       "area": "Secretaría de Ambiente",
-      "estado": "EN PROCESO",
+      "estado": "FINALIZADO",
       "fecha": "2026-02-10T16:04:32.000Z"
     },
     {
@@ -77920,7 +77920,7 @@
       "sentimiento": "neutro",
       "asunto": "Barrido público deficiente o sin realizar",
       "area": "Secretaría de Ambiente",
-      "estado": "EN PROCESO",
+      "estado": "FINALIZADO",
       "fecha": "2026-02-10T15:51:40.000Z"
     },
     {
@@ -77936,7 +77936,7 @@
       "sentimiento": "neutro",
       "asunto": "Basura en vía pública",
       "area": "Secretaría de Ambiente",
-      "estado": "EN PROCESO",
+      "estado": "FINALIZADO",
       "fecha": "2026-02-10T15:28:21.000Z"
     },
     {
@@ -77968,7 +77968,7 @@
       "sentimiento": "neutro",
       "asunto": "Contenedor faltante o en mal estado",
       "area": "Secretaría de Ambiente",
-      "estado": "EN PROCESO",
+      "estado": "FINALIZADO",
       "fecha": "2026-02-10T15:22:20.000Z"
     },
     {
@@ -77984,7 +77984,7 @@
       "sentimiento": "neutro",
       "asunto": "Basura en vía pública",
       "area": "Secretaría de Ambiente",
-      "estado": "EN PROCESO",
+      "estado": "FINALIZADO",
       "fecha": "2026-02-10T15:17:51.000Z"
     },
     {
@@ -78032,7 +78032,7 @@
       "sentimiento": "neutro",
       "asunto": "Pedido de cartelería: “No arrojar basura”",
       "area": "Secretaría de Ambiente",
-      "estado": "EN PROCESO",
+      "estado": "FINALIZADO",
       "fecha": "2026-02-10T14:57:50.000Z"
     },
     {
@@ -89574,15 +89574,15 @@
   ],
   "pedidos": {
     "bot": 0,
-    "bam": 539,
+    "bam": 548,
     "completados": 0,
-    "pendientes": 539
+    "pendientes": 548
   },
   "reclamos": {
     "total": 3129,
     "iniciados": 10,
-    "en_proceso": 1252,
-    "finalizados": 1839,
+    "en_proceso": 1234,
+    "finalizados": 1857,
     "derivados": 28
   },
   "canales": {
@@ -89596,5 +89596,5 @@
     "Email Oficial": 1
   },
   "totalVecinos": 4661,
-  "actualizado": "2026-07-01T13:00:55.037Z"
+  "actualizado": "2026-07-01T13:30:04.076Z"
 }
