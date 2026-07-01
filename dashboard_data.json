@@ -78304,7 +78304,7 @@
       "sentimiento": "neutro",
       "asunto": "Basura en vía pública",
       "area": "Secretaría de Ambiente",
-      "estado": "EN PROCESO",
+      "estado": "FINALIZADO",
       "fecha": "2026-02-10T01:12:41.000Z"
     },
     {
@@ -89597,8 +89597,8 @@
   "reclamos": {
     "total": 3130,
     "iniciados": 9,
-    "en_proceso": 1225,
-    "finalizados": 1868,
+    "en_proceso": 1224,
+    "finalizados": 1869,
     "derivados": 28
   },
   "canales": {
@@ -89612,5 +89612,5 @@
     "Email Oficial": 1
   },
   "totalVecinos": 4662,
-  "actualizado": "2026-07-01T15:30:17.230Z"
+  "actualizado": "2026-07-01T15:30:44.338Z"
 }
