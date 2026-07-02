@@ -43183,6 +43183,21 @@
       "distrito": null
     },
     {
+      "numero": "188398757244952",
+      "celular": "+54 9 3813 923-913",
+      "direccion": "",
+      "sentimiento": "negativo",
+      "mensaje": "Una vez nos pidieron que dejemos las bolsas en la vereda de la carcel y mi papa dijo que no porque la gente la iba a romper y la basura quedaria tirada",
+      "fecha": "2026-07-02T13:22:42.806Z",
+      "canal": "WhatsApp Ambiente",
+      "nombre": "",
+      "telefono": "+54 9 3813 923-913",
+      "email": "",
+      "lat": null,
+      "lon": null,
+      "distrito": null
+    },
+    {
       "numero": "3815362019",
       "canal": "Aplicación Móvil",
       "nombre": "Hernan Cuenca",
@@ -89773,7 +89788,7 @@
     "derivados": 33
   },
   "canales": {
-    "WhatsApp Ambiente": 1762,
+    "WhatsApp Ambiente": 1763,
     "Aplicación Móvil": 1329,
     "Chat Center (Call Center)": 1418,
     "Whatsapp": 8,
@@ -89782,6 +89797,6 @@
     "Teléfono": 43,
     "Email Oficial": 1
   },
-  "totalVecinos": 4673,
-  "actualizado": "2026-07-02T13:21:58.808Z"
+  "totalVecinos": 4674,
+  "actualizado": "2026-07-02T13:22:43.217Z"
 }
