@@ -42839,6 +42839,36 @@
       "distrito": null
     },
     {
+      "numero": "83962466726065",
+      "celular": "+54 9 3814 797-925",
+      "direccion": "",
+      "sentimiento": "neutro",
+      "mensaje": "Buenas noches...para saber si me podrían retirar unas ramas de árbol que pode?",
+      "fecha": "2026-07-02T15:38:27.263Z",
+      "canal": "WhatsApp Ambiente",
+      "nombre": "",
+      "telefono": "+54 9 3814 797-925",
+      "email": "",
+      "lat": null,
+      "lon": null,
+      "distrito": null
+    },
+    {
+      "numero": "83962466726065",
+      "celular": "+54 9 3814 797-925",
+      "direccion": "",
+      "sentimiento": "neutro",
+      "mensaje": "En manantial sur",
+      "fecha": "2026-07-02T15:38:34.936Z",
+      "canal": "WhatsApp Ambiente",
+      "nombre": "",
+      "telefono": "+54 9 3814 797-925",
+      "email": "",
+      "lat": null,
+      "lon": null,
+      "distrito": null
+    },
+    {
       "numero": "3815362019",
       "canal": "Aplicación Móvil",
       "nombre": "Hernan Cuenca",
@@ -89493,7 +89523,7 @@
     "derivados": 28
   },
   "canales": {
-    "WhatsApp Ambiente": 1746,
+    "WhatsApp Ambiente": 1748,
     "Aplicación Móvil": 1332,
     "Chat Center (Call Center)": 1419,
     "Whatsapp": 8,
@@ -89502,6 +89532,6 @@
     "Teléfono": 43,
     "Email Oficial": 1
   },
-  "totalVecinos": 4661,
-  "actualizado": "2026-07-02T15:38:16.833Z"
+  "totalVecinos": 4663,
+  "actualizado": "2026-07-02T15:38:35.937Z"
 }

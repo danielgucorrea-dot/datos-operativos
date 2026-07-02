@@ -34100,5 +34100,21 @@
     "sentimiento": "positivo",
     "mensaje": "Excelente!\nMuchas gracias!💪",
     "fecha": "2026-07-02T14:12:55.660Z"
+  },
+  {
+    "numero": "83962466726065",
+    "celular": "+54 9 3814 797-925",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "mensaje": "Buenas noches...para saber si me podrían retirar unas ramas de árbol que pode?",
+    "fecha": "2026-07-02T15:38:27.263Z"
+  },
+  {
+    "numero": "83962466726065",
+    "celular": "+54 9 3814 797-925",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "mensaje": "En manantial sur",
+    "fecha": "2026-07-02T15:38:34.936Z"
   }
 ]
