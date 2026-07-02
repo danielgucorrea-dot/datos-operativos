@@ -42824,6 +42824,21 @@
       "distrito": null
     },
     {
+      "numero": "174569012867262",
+      "celular": "+54 9 3814 486-148",
+      "direccion": "",
+      "sentimiento": "positivo",
+      "mensaje": "Excelente!\nMuchas gracias!💪",
+      "fecha": "2026-07-02T14:12:55.660Z",
+      "canal": "WhatsApp Ambiente",
+      "nombre": "",
+      "telefono": "+54 9 3814 486-148",
+      "email": "",
+      "lat": null,
+      "lon": null,
+      "distrito": null
+    },
+    {
       "numero": "3815362019",
       "canal": "Aplicación Móvil",
       "nombre": "Hernan Cuenca",
@@ -42867,8 +42882,8 @@
       "distrito": 18,
       "sentimiento": "neutro",
       "asunto": "Quema de basura en vía pública",
-      "area": "Ambiente",
-      "estado": "DERIVADO",
+      "area": "Secretaría de Ambiente",
+      "estado": "EN PROCESO",
       "fecha": "2026-07-01T23:18:13.000Z"
     },
     {
@@ -42884,7 +42899,7 @@
       "sentimiento": "neutro",
       "asunto": "Recolección de residuos sin realizar",
       "area": "Secretaría de Ambiente",
-      "estado": "DERIVADO",
+      "estado": "EN PROCESO",
       "fecha": "2026-07-01T23:13:16.000Z"
     },
     {
@@ -71117,7 +71132,7 @@
       "nombre": "Elio Presser",
       "telefono": "3816048216",
       "email": "eliodpresser@hotmail.com",
-      "direccion": "Belisario Roldán 600, San Miguel de Tucumán, Provincia de Tucumán",
+      "direccion": "Belisario Roldán 600, San Miguel de Tucum��n, Provincia de Tucumán",
       "lat": "-26.812561200307222",
       "lon": "-65.25542791932821",
       "distrito": 9,
@@ -89489,12 +89504,12 @@
   "reclamos": {
     "total": 3136,
     "iniciados": 6,
-    "en_proceso": 1188,
+    "en_proceso": 1190,
     "finalizados": 1909,
-    "derivados": 33
+    "derivados": 31
   },
   "canales": {
-    "WhatsApp Ambiente": 1745,
+    "WhatsApp Ambiente": 1746,
     "Aplicación Móvil": 1333,
     "Chat Center (Call Center)": 1419,
     "Whatsapp": 8,
@@ -89503,6 +89518,6 @@
     "Teléfono": 43,
     "Email Oficial": 1
   },
-  "totalVecinos": 4661,
-  "actualizado": "2026-07-02T14:12:46.584Z"
+  "totalVecinos": 4662,
+  "actualizado": "2026-07-02T14:30:06.959Z"
 }
