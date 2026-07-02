@@ -42794,6 +42794,36 @@
       "distrito": null
     },
     {
+      "numero": "22548662202474",
+      "celular": "+54 9 3814 655-283",
+      "direccion": "",
+      "sentimiento": "neutro",
+      "mensaje": "3814655283",
+      "fecha": "2026-07-02T14:02:41.993Z",
+      "canal": "WhatsApp Ambiente",
+      "nombre": "",
+      "telefono": "+54 9 3814 655-283",
+      "email": "",
+      "lat": null,
+      "lon": null,
+      "distrito": null
+    },
+    {
+      "numero": "174569012867262",
+      "celular": "+54 9 3814 486-148",
+      "direccion": "",
+      "sentimiento": "neutro",
+      "mensaje": "Me confirmarías si se podrá realizar la recolección?🙏",
+      "fecha": "2026-07-02T14:04:02.978Z",
+      "canal": "WhatsApp Ambiente",
+      "nombre": "",
+      "telefono": "+54 9 3814 486-148",
+      "email": "",
+      "lat": null,
+      "lon": null,
+      "distrito": null
+    },
+    {
       "numero": "3815362019",
       "canal": "Aplicación Móvil",
       "nombre": "Hernan Cuenca",
@@ -89464,7 +89494,7 @@
     "derivados": 33
   },
   "canales": {
-    "WhatsApp Ambiente": 1743,
+    "WhatsApp Ambiente": 1745,
     "Aplicación Móvil": 1333,
     "Chat Center (Call Center)": 1419,
     "Whatsapp": 8,
@@ -89473,6 +89503,6 @@
     "Teléfono": 43,
     "Email Oficial": 1
   },
-  "totalVecinos": 4659,
-  "actualizado": "2026-07-02T14:02:32.452Z"
+  "totalVecinos": 4661,
+  "actualizado": "2026-07-02T14:04:04.293Z"
 }

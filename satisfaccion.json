@@ -34076,5 +34076,21 @@
       "Lo dejo en la vereda a partir de las 14 : 30?",
       "Las Piedras 773."
     ]
+  },
+  {
+    "numero": "22548662202474",
+    "celular": "+54 9 3814 655-283",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "mensaje": "3814655283",
+    "fecha": "2026-07-02T14:02:41.993Z"
+  },
+  {
+    "numero": "174569012867262",
+    "celular": "+54 9 3814 486-148",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "mensaje": "Me confirmarías si se podrá realizar la recolección?🙏",
+    "fecha": "2026-07-02T14:04:02.978Z"
   }
 ]
