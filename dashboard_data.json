@@ -42915,24 +42915,8 @@
       "sentimiento": "neutro",
       "asunto": "Contenedor faltante o en mal estado",
       "area": "Secretaría de Ambiente",
-      "estado": "DERIVADO",
+      "estado": "FINALIZADO",
       "fecha": "2026-07-01T23:12:32.000Z"
-    },
-    {
-      "numero": "3813049234",
-      "canal": "Aplicación Móvil",
-      "nombre": "LUCAS FRIAS",
-      "telefono": "3813049234",
-      "email": "lucasfrias789@gmail.com",
-      "direccion": "Mercedes de San Martín 1850–1898, Municipalidad de San Miguel De Tucuman, Tucumán",
-      "lat": "-26.871250644824794",
-      "lon": "-65.23651298135518",
-      "distrito": 18,
-      "sentimiento": "neutro",
-      "asunto": "Barrido público deficiente o sin realizar",
-      "area": "Secretaría de Ambiente",
-      "estado": "DERIVADO",
-      "fecha": "2026-07-01T23:12:08.000Z"
     },
     {
       "numero": "3816571175",
@@ -42947,7 +42931,7 @@
       "sentimiento": "neutro",
       "asunto": "Recolección de residuos sin realizar",
       "area": "Secretaría de Ambiente",
-      "estado": "DERIVADO",
+      "estado": "EN PROCESO",
       "fecha": "2026-07-01T20:02:37.000Z"
     },
     {
@@ -57500,7 +57484,7 @@
       "nombre": "Nilda Loretto",
       "telefono": "3816299473",
       "email": "nildaloretto@gmail.com",
-      "direccion": "Provincia de Corrientes 1590, San Miguel de Tucumán, Tucumán",
+      "direccion": "Provincia de Corrientes 1590, San Miguel de Tucumán, Tucum��n",
       "lat": "-26.81936966541225",
       "lon": "-65.21924525499344",
       "distrito": 10,
@@ -71132,7 +71116,7 @@
       "nombre": "Elio Presser",
       "telefono": "3816048216",
       "email": "eliodpresser@hotmail.com",
-      "direccion": "Belisario Roldán 600, San Miguel de Tucum��n, Provincia de Tucumán",
+      "direccion": "Belisario Roldán 600, San Miguel de Tucumán, Provincia de Tucumán",
       "lat": "-26.812561200307222",
       "lon": "-65.25542791932821",
       "distrito": 9,
@@ -89497,20 +89481,20 @@
   ],
   "pedidos": {
     "bot": 0,
-    "bam": 19,
+    "bam": 26,
     "completados": 0,
-    "pendientes": 19
+    "pendientes": 26
   },
   "reclamos": {
-    "total": 3136,
+    "total": 3135,
     "iniciados": 6,
-    "en_proceso": 1190,
-    "finalizados": 1909,
-    "derivados": 31
+    "en_proceso": 1191,
+    "finalizados": 1910,
+    "derivados": 28
   },
   "canales": {
     "WhatsApp Ambiente": 1746,
-    "Aplicación Móvil": 1333,
+    "Aplicación Móvil": 1332,
     "Chat Center (Call Center)": 1419,
     "Whatsapp": 8,
     "Personalmente": 108,
@@ -89518,6 +89502,6 @@
     "Teléfono": 43,
     "Email Oficial": 1
   },
-  "totalVecinos": 4662,
-  "actualizado": "2026-07-02T14:30:06.959Z"
+  "totalVecinos": 4661,
+  "actualizado": "2026-07-02T15:00:07.282Z"
 }
