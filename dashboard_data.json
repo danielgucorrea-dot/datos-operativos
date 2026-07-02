@@ -47097,7 +47097,7 @@
       "nombre": "Elena  Tameres dip",
       "telefono": "3816588364",
       "email": "elenatameres4@gmail.com",
-      "direccion": "Baltazar Aguirre 219, San Miguel de Tucum��n, Tucumán",
+      "direccion": "Baltazar Aguirre 219, San Miguel de Tucumán, Tucumán",
       "lat": "-26.827805921486352",
       "lon": "-65.23428473621607",
       "distrito": 9,
@@ -53317,7 +53317,7 @@
     },
     {
       "numero": "3815780575",
-      "canal": "Aplicación M��vil",
+      "canal": "Aplicación Móvil",
       "nombre": "BARBARA SAMANTA  BENEDETTI ",
       "telefono": "3815780575",
       "email": "sbarbyben@gmail.com",
@@ -70479,7 +70479,7 @@
       "distrito": 10,
       "sentimiento": "neutro",
       "asunto": "Basura en vía pública",
-      "area": "Secretaría de Ambiente",
+      "area": "Secretar��a de Ambiente",
       "estado": "EN PROCESO",
       "fecha": "2026-03-07T12:11:04.000Z"
     },
@@ -72254,7 +72254,7 @@
       "lon": "-65.26701103895903",
       "distrito": 17,
       "sentimiento": "neutro",
-      "asunto": "Pedido de cartelería: “No arrojar basura”",
+      "asunto": "Pedido de cartelería: “No arrojar basura��",
       "area": "Secretaría de Ambiente",
       "estado": "EN PROCESO",
       "fecha": "2026-03-02T12:40:57.000Z"
@@ -89699,15 +89699,14 @@
   },
   "canales": {
     "WhatsApp Ambiente": 1757,
-    "Aplicación Móvil": 1328,
+    "Aplicación Móvil": 1329,
     "Chat Center (Call Center)": 1418,
     "Whatsapp": 8,
     "Personalmente": 108,
     "Agentes o Inspectores": 4,
     "Teléfono": 43,
-    "Aplicación M��vil": 1,
     "Email Oficial": 1
   },
   "totalVecinos": 4668,
-  "actualizado": "2026-07-02T13:01:15.265Z"
+  "actualizado": "2026-07-02T13:08:23.671Z"
 }
