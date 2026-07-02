@@ -79411,7 +79411,7 @@
       "sentimiento": "neutro",
       "asunto": "Recolección de residuos sin realizar",
       "area": "Secretaría de Ambiente",
-      "estado": "EN PROCESO",
+      "estado": "FINALIZADO",
       "fecha": "2026-02-05T19:26:11.000Z"
     },
     {
@@ -79427,7 +79427,7 @@
       "sentimiento": "neutro",
       "asunto": "Basura en vía pública",
       "area": "Secretaría de Ambiente",
-      "estado": "EN PROCESO",
+      "estado": "FINALIZADO",
       "fecha": "2026-02-05T18:48:51.000Z"
     },
     {
@@ -79443,7 +79443,7 @@
       "sentimiento": "neutro",
       "asunto": "Basura en vía pública",
       "area": "Secretaría de Ambiente",
-      "estado": "EN PROCESO",
+      "estado": "FINALIZADO",
       "fecha": "2026-02-05T18:17:08.000Z"
     },
     {
@@ -79459,7 +79459,7 @@
       "sentimiento": "neutro",
       "asunto": "Recolección de residuos sin realizar",
       "area": "Secretaría de Ambiente",
-      "estado": "EN PROCESO",
+      "estado": "FINALIZADO",
       "fecha": "2026-02-05T18:06:55.000Z"
     },
     {
@@ -79475,7 +79475,7 @@
       "sentimiento": "neutro",
       "asunto": "Recolección de Residuos No Habituales (cantidad reducida)",
       "area": "Secretaría de Ambiente",
-      "estado": "EN PROCESO",
+      "estado": "FINALIZADO",
       "fecha": "2026-02-05T17:23:02.000Z"
     },
     {
@@ -79491,7 +79491,7 @@
       "sentimiento": "neutro",
       "asunto": "Recolección de Residuos No Habituales (cantidad reducida)",
       "area": "Secretaría de Ambiente",
-      "estado": "EN PROCESO",
+      "estado": "FINALIZADO",
       "fecha": "2026-02-05T16:11:18.000Z"
     },
     {
@@ -79507,7 +79507,7 @@
       "sentimiento": "neutro",
       "asunto": "Recolección de residuos sin realizar",
       "area": "Secretaría de Ambiente",
-      "estado": "EN PROCESO",
+      "estado": "FINALIZADO",
       "fecha": "2026-02-05T15:58:10.000Z"
     },
     {
@@ -79539,7 +79539,7 @@
       "sentimiento": "neutro",
       "asunto": "Recolección de Residuos No Habituales (cantidad reducida)",
       "area": "Secretaría de Ambiente",
-      "estado": "EN PROCESO",
+      "estado": "FINALIZADO",
       "fecha": "2026-02-05T15:27:07.000Z"
     },
     {
@@ -89488,8 +89488,8 @@
   "reclamos": {
     "total": 3135,
     "iniciados": 6,
-    "en_proceso": 1191,
-    "finalizados": 1910,
+    "en_proceso": 1182,
+    "finalizados": 1919,
     "derivados": 28
   },
   "canales": {
@@ -89503,5 +89503,5 @@
     "Email Oficial": 1
   },
   "totalVecinos": 4661,
-  "actualizado": "2026-07-02T15:00:07.282Z"
+  "actualizado": "2026-07-02T15:30:07.529Z"
 }
