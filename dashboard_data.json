@@ -43119,8 +43119,8 @@
       "distrito": 9,
       "sentimiento": "neutro",
       "asunto": "Basura en vía pública",
-      "area": "Ambiente",
-      "estado": "INICIADO",
+      "area": "Secretaría de Ambiente",
+      "estado": "EN PROCESO",
       "fecha": "2026-07-02T11:52:57.000Z"
     },
     {
@@ -46574,7 +46574,7 @@
       "lon": "-65.2145535",
       "distrito": 4,
       "sentimiento": "neutro",
-      "asunto": "Basura en vía p��blica",
+      "asunto": "Basura en vía pública",
       "area": "Secretaría de Ambiente",
       "estado": "EN PROCESO",
       "fecha": "2026-06-12T13:59:33.000Z"
@@ -47097,7 +47097,7 @@
       "nombre": "Elena  Tameres dip",
       "telefono": "3816588364",
       "email": "elenatameres4@gmail.com",
-      "direccion": "Baltazar Aguirre 219, San Miguel de Tucumán, Tucumán",
+      "direccion": "Baltazar Aguirre 219, San Miguel de Tucum��n, Tucumán",
       "lat": "-26.827805921486352",
       "lon": "-65.23428473621607",
       "distrito": 9,
@@ -49225,7 +49225,7 @@
       "nombre": "Enzo Brunetti",
       "telefono": "93815316057",
       "email": "ebrunetti_cpn@hotmail.com",
-      "direccion": "Avenida Alem 54, San Miguel de Tucum��n, Tucumán",
+      "direccion": "Avenida Alem 54, San Miguel de Tucumán, Tucumán",
       "lat": "-26.828828845146603",
       "lon": "-65.21838024258614",
       "distrito": 10,
@@ -53317,7 +53317,7 @@
     },
     {
       "numero": "3815780575",
-      "canal": "Aplicación Móvil",
+      "canal": "Aplicación M��vil",
       "nombre": "BARBARA SAMANTA  BENEDETTI ",
       "telefono": "3815780575",
       "email": "sbarbyben@gmail.com",
@@ -89686,27 +89686,28 @@
   ],
   "pedidos": {
     "bot": 0,
-    "bam": 18,
+    "bam": 19,
     "completados": 0,
-    "pendientes": 18
+    "pendientes": 19
   },
   "reclamos": {
     "total": 3136,
-    "iniciados": 8,
-    "en_proceso": 1187,
+    "iniciados": 7,
+    "en_proceso": 1188,
     "finalizados": 1908,
     "derivados": 33
   },
   "canales": {
     "WhatsApp Ambiente": 1757,
-    "Aplicación Móvil": 1329,
+    "Aplicación Móvil": 1328,
     "Chat Center (Call Center)": 1418,
     "Whatsapp": 8,
     "Personalmente": 108,
     "Agentes o Inspectores": 4,
     "Teléfono": 43,
+    "Aplicación M��vil": 1,
     "Email Oficial": 1
   },
   "totalVecinos": 4668,
-  "actualizado": "2026-07-02T12:51:11.905Z"
+  "actualizado": "2026-07-02T13:00:11.848Z"
 }
