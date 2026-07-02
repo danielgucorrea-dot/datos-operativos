@@ -34320,5 +34320,21 @@
     "conversacion_completa": [
       "Es eso nomas"
     ]
+  },
+  {
+    "numero": "188398757244952",
+    "celular": "+54 9 3813 923-913",
+    "direccion": null,
+    "sentimiento": "negativo",
+    "mensaje": "Un canasto para poner basura, personal no porque siempre hay gente que tira tambien",
+    "fecha": "2026-07-02T13:21:03.402Z"
+  },
+  {
+    "numero": "188398757244952",
+    "celular": "+54 9 3813 923-913",
+    "direccion": null,
+    "sentimiento": "negativo",
+    "mensaje": "El inconveniente que tengo es que sacamos la basura y a la media hora ya estan las bolsas rotas porque las colgamos en el arbol ya que no tenemos adonde poner",
+    "fecha": "2026-07-02T13:21:19.075Z"
   }
 ]

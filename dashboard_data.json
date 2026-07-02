@@ -43108,6 +43108,21 @@
       "distrito": null
     },
     {
+      "numero": "188398757244952",
+      "celular": "+54 9 3813 923-913",
+      "direccion": "",
+      "sentimiento": "negativo",
+      "mensaje": "Un canasto para poner basura, personal no porque siempre hay gente que tira tambien",
+      "fecha": "2026-07-02T13:21:03.402Z",
+      "canal": "WhatsApp Ambiente",
+      "nombre": "",
+      "telefono": "+54 9 3813 923-913",
+      "email": "",
+      "lat": null,
+      "lon": null,
+      "distrito": null
+    },
+    {
       "numero": "3815362019",
       "canal": "Aplicación Móvil",
       "nombre": "Hernan Cuenca",
@@ -89698,7 +89713,7 @@
     "derivados": 33
   },
   "canales": {
-    "WhatsApp Ambiente": 1757,
+    "WhatsApp Ambiente": 1758,
     "Aplicación Móvil": 1329,
     "Chat Center (Call Center)": 1418,
     "Whatsapp": 8,
@@ -89707,6 +89722,6 @@
     "Teléfono": 43,
     "Email Oficial": 1
   },
-  "totalVecinos": 4668,
-  "actualizado": "2026-07-02T13:20:33.592Z"
+  "totalVecinos": 4669,
+  "actualizado": "2026-07-02T13:21:19.041Z"
 }
