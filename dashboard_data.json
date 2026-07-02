@@ -43198,6 +43198,21 @@
       "distrito": null
     },
     {
+      "numero": "188398757244952",
+      "celular": "+54 9 3813 923-913",
+      "direccion": "",
+      "sentimiento": "neutro",
+      "mensaje": "Aaaaaa bien",
+      "fecha": "2026-07-02T13:24:17.824Z",
+      "canal": "WhatsApp Ambiente",
+      "nombre": "",
+      "telefono": "+54 9 3813 923-913",
+      "email": "",
+      "lat": null,
+      "lon": null,
+      "distrito": null
+    },
+    {
       "numero": "3815362019",
       "canal": "Aplicación Móvil",
       "nombre": "Hernan Cuenca",
@@ -89788,7 +89803,7 @@
     "derivados": 33
   },
   "canales": {
-    "WhatsApp Ambiente": 1763,
+    "WhatsApp Ambiente": 1764,
     "Aplicación Móvil": 1329,
     "Chat Center (Call Center)": 1418,
     "Whatsapp": 8,
@@ -89797,6 +89812,6 @@
     "Teléfono": 43,
     "Email Oficial": 1
   },
-  "totalVecinos": 4674,
-  "actualizado": "2026-07-02T13:22:43.217Z"
+  "totalVecinos": 4675,
+  "actualizado": "2026-07-02T13:24:18.800Z"
 }
