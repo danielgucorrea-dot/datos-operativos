@@ -43108,6 +43108,198 @@
       "distrito": null
     },
     {
+      "numero": "3815362019",
+      "canal": "Aplicación Móvil",
+      "nombre": "Hernan Cuenca",
+      "telefono": "3815362019",
+      "email": "hdcuencarios@gmail.com",
+      "direccion": "José C. Paz 3202, San Miguel de Tucumán, Tucumán",
+      "lat": "-26.823523543845486",
+      "lon": "-65.24528749287128",
+      "distrito": 9,
+      "sentimiento": "neutro",
+      "asunto": "Basura en vía pública",
+      "area": "Ambiente",
+      "estado": "INICIADO",
+      "fecha": "2026-07-02T11:52:57.000Z"
+    },
+    {
+      "numero": "381 510-2252",
+      "canal": "Chat Center (Call Center)",
+      "nombre": "Mónica García",
+      "telefono": "381 510-2252",
+      "email": "",
+      "direccion": "1898, Arenales, Juan XXIII, San Miguel de Tucumán, Departamento Capital, Tucumán, T4000, Argentina",
+      "lat": "-26.812293688758157",
+      "lon": "-65.2224526571031",
+      "distrito": 4,
+      "sentimiento": "neutro",
+      "asunto": "Basura en vía pública",
+      "area": "Secretaría de Ambiente",
+      "estado": "EN PROCESO",
+      "fecha": "2026-07-02T11:46:47.000Z"
+    },
+    {
+      "numero": "3813049234",
+      "canal": "Aplicación Móvil",
+      "nombre": "LUCAS FRIAS",
+      "telefono": "3813049234",
+      "email": "lucasfrias789@gmail.com",
+      "direccion": "Diagonal Francisca Jacques 3409–3499, Municipalidad de San Miguel De Tucuman, Tucumán",
+      "lat": "-26.87264851038765",
+      "lon": "-65.23456703871489",
+      "distrito": 18,
+      "sentimiento": "neutro",
+      "asunto": "Quema de basura en vía pública",
+      "area": "Ambiente",
+      "estado": "DERIVADO",
+      "fecha": "2026-07-01T23:18:13.000Z"
+    },
+    {
+      "numero": "3813049234",
+      "canal": "Aplicación Móvil",
+      "nombre": "LUCAS FRIAS",
+      "telefono": "3813049234",
+      "email": "lucasfrias789@gmail.com",
+      "direccion": "Profesor Miguel Ángel Torres 1801–1899, Municipalidad de San Miguel De Tucuman, Tucumán",
+      "lat": "-26.871584411471893",
+      "lon": "-65.23635640740395",
+      "distrito": 18,
+      "sentimiento": "neutro",
+      "asunto": "Recolección de residuos sin realizar",
+      "area": "Secretaría de Ambiente",
+      "estado": "DERIVADO",
+      "fecha": "2026-07-01T23:13:16.000Z"
+    },
+    {
+      "numero": "3813049234",
+      "canal": "Aplicación Móvil",
+      "nombre": "LUCAS FRIAS",
+      "telefono": "3813049234",
+      "email": "lucasfrias789@gmail.com",
+      "direccion": "Profesor Miguel Ángel Torres 1801–1899, Municipalidad de San Miguel De Tucuman, Tucumán",
+      "lat": "-26.87138343382391",
+      "lon": "-65.23654449731112",
+      "distrito": 18,
+      "sentimiento": "neutro",
+      "asunto": "Contenedor faltante o en mal estado",
+      "area": "Secretaría de Ambiente",
+      "estado": "DERIVADO",
+      "fecha": "2026-07-01T23:12:32.000Z"
+    },
+    {
+      "numero": "3813049234",
+      "canal": "Aplicación Móvil",
+      "nombre": "LUCAS FRIAS",
+      "telefono": "3813049234",
+      "email": "lucasfrias789@gmail.com",
+      "direccion": "Mercedes de San Martín 1850–1898, Municipalidad de San Miguel De Tucuman, Tucumán",
+      "lat": "-26.871250644824794",
+      "lon": "-65.23651298135518",
+      "distrito": 18,
+      "sentimiento": "neutro",
+      "asunto": "Barrido público deficiente o sin realizar",
+      "area": "Secretaría de Ambiente",
+      "estado": "DERIVADO",
+      "fecha": "2026-07-01T23:12:08.000Z"
+    },
+    {
+      "numero": "3816571175",
+      "canal": "Chat Center (Call Center)",
+      "nombre": "Carolina olea",
+      "telefono": "3816571175",
+      "email": "",
+      "direccion": " Blas parera 450",
+      "lat": "-26.8152376",
+      "lon": "-65.1748761",
+      "distrito": 8,
+      "sentimiento": "neutro",
+      "asunto": "Recolección de residuos sin realizar",
+      "area": "Secretaría de Ambiente",
+      "estado": "DERIVADO",
+      "fecha": "2026-07-01T20:02:37.000Z"
+    },
+    {
+      "numero": "3816223018",
+      "canal": "Chat Center (Call Center)",
+      "nombre": "Lucía Lanza",
+      "telefono": "3816223018",
+      "email": "",
+      "direccion": " Balcarce 890",
+      "lat": "-26.8200191",
+      "lon": "-65.1959847",
+      "distrito": 10,
+      "sentimiento": "neutro",
+      "asunto": "Ruidos molestos",
+      "area": "Salud Ambiental",
+      "estado": "EN PROCESO",
+      "fecha": "2026-07-01T18:31:54.000Z"
+    },
+    {
+      "numero": " 381 417-1174",
+      "canal": "Chat Center (Call Center)",
+      "nombre": "Judith Domingo",
+      "telefono": " 381 417-1174",
+      "email": "",
+      "direccion": "Villa Alem, San Miguel de Tucumán, Departamento Capital, Tucumán, T4000, Argentina",
+      "lat": "-26.855381041331512",
+      "lon": "-65.21876733278933",
+      "distrito": 15,
+      "sentimiento": "neutro",
+      "asunto": "Basura en vía pública",
+      "area": "Secretaría de Ambiente",
+      "estado": "EN PROCESO",
+      "fecha": "2026-07-01T18:30:43.000Z"
+    },
+    {
+      "numero": " 381 654-5127",
+      "canal": "Chat Center (Call Center)",
+      "nombre": "CInchicai Daiana",
+      "telefono": " 381 654-5127",
+      "email": "",
+      "direccion": "Avenida alem 2314",
+      "lat": "-26.853299",
+      "lon": "-65.2244533",
+      "distrito": 14,
+      "sentimiento": "neutro",
+      "asunto": "Basura en vía pública",
+      "area": "Secretaría de Ambiente",
+      "estado": "EN PROCESO",
+      "fecha": "2026-07-01T16:53:56.000Z"
+    },
+    {
+      "numero": "3815523221",
+      "canal": "Chat Center (Call Center)",
+      "nombre": "ROMANO BASUALDO SERGIO",
+      "telefono": "3815523221",
+      "email": "",
+      "direccion": "SAN JUAN 78",
+      "lat": "-26.8267942",
+      "lon": "-65.1969674",
+      "distrito": 10,
+      "sentimiento": "neutro",
+      "asunto": "Basura en vía pública",
+      "area": "Secretaría de Ambiente",
+      "estado": "EN PROCESO",
+      "fecha": "2026-07-01T15:54:15.000Z"
+    },
+    {
+      "numero": "3814809317",
+      "canal": "Chat Center (Call Center)",
+      "nombre": "Jerez Hortensia",
+      "telefono": "3814809317",
+      "email": "",
+      "direccion": " Santiago  2065 ",
+      "lat": "-26.8131829",
+      "lon": "-65.2571161",
+      "distrito": 9,
+      "sentimiento": "neutro",
+      "asunto": "Ruidos molestos",
+      "area": "Salud Ambiental",
+      "estado": "EN PROCESO",
+      "fecha": "2026-07-01T15:41:58.000Z"
+    },
+    {
       "numero": "3814633268",
       "canal": "Aplicación Móvil",
       "nombre": "Carolina  Cuadra ",
@@ -43152,7 +43344,7 @@
       "sentimiento": "neutro",
       "asunto": "Ruidos molestos",
       "area": "Salud Ambiental",
-      "estado": "INICIADO",
+      "estado": "EN PROCESO",
       "fecha": "2026-07-01T11:37:18.000Z"
     },
     {
@@ -43264,7 +43456,7 @@
       "sentimiento": "neutro",
       "asunto": "Ruidos molestos",
       "area": "Salud Ambiental",
-      "estado": "INICIADO",
+      "estado": "EN PROCESO",
       "fecha": "2026-06-30T11:51:41.000Z"
     },
     {
@@ -46382,7 +46574,7 @@
       "lon": "-65.2145535",
       "distrito": 4,
       "sentimiento": "neutro",
-      "asunto": "Basura en vía pública",
+      "asunto": "Basura en vía p��blica",
       "area": "Secretaría de Ambiente",
       "estado": "EN PROCESO",
       "fecha": "2026-06-12T13:59:33.000Z"
@@ -49033,7 +49225,7 @@
       "nombre": "Enzo Brunetti",
       "telefono": "93815316057",
       "email": "ebrunetti_cpn@hotmail.com",
-      "direccion": "Avenida Alem 54, San Miguel de Tucumán, Tucumán",
+      "direccion": "Avenida Alem 54, San Miguel de Tucum��n, Tucumán",
       "lat": "-26.828828845146603",
       "lon": "-65.21838024258614",
       "distrito": 10,
@@ -65598,7 +65790,7 @@
       "lon": "-65.25583830400527",
       "distrito": 17,
       "sentimiento": "neutro",
-      "asunto": "Basura en v��a pública",
+      "asunto": "Basura en vía pública",
       "area": "Secretaría de Ambiente",
       "estado": "EN PROCESO",
       "fecha": "2026-03-27T11:55:17.000Z"
@@ -78320,7 +78512,7 @@
       "sentimiento": "neutro",
       "asunto": "Basura en vía pública",
       "area": "Secretaría de Ambiente",
-      "estado": "EN PROCESO",
+      "estado": "FINALIZADO",
       "fecha": "2026-02-09T23:25:45.000Z"
     },
     {
@@ -78336,7 +78528,7 @@
       "sentimiento": "neutro",
       "asunto": "Basura en vía pública",
       "area": "Secretaría de Ambiente",
-      "estado": "EN PROCESO",
+      "estado": "FINALIZADO",
       "fecha": "2026-02-09T22:56:24.000Z"
     },
     {
@@ -78352,7 +78544,7 @@
       "sentimiento": "neutro",
       "asunto": "Basura en vía pública",
       "area": "Secretaría de Ambiente",
-      "estado": "EN PROCESO",
+      "estado": "FINALIZADO",
       "fecha": "2026-02-09T22:56:20.000Z"
     },
     {
@@ -78368,7 +78560,7 @@
       "sentimiento": "neutro",
       "asunto": "Recolección de residuos sin realizar",
       "area": "Secretaría de Ambiente",
-      "estado": "EN PROCESO",
+      "estado": "FINALIZADO",
       "fecha": "2026-02-09T21:54:32.000Z"
     },
     {
@@ -78384,7 +78576,7 @@
       "sentimiento": "neutro",
       "asunto": "Sacar basura generada por negocio de comidas",
       "area": "Secretaría de Ambiente",
-      "estado": "EN PROCESO",
+      "estado": "FINALIZADO",
       "fecha": "2026-02-09T21:47:37.000Z"
     },
     {
@@ -78400,7 +78592,7 @@
       "sentimiento": "neutro",
       "asunto": "Recolección de residuos sin realizar",
       "area": "Secretaría de Ambiente",
-      "estado": "EN PROCESO",
+      "estado": "FINALIZADO",
       "fecha": "2026-02-09T21:20:21.000Z"
     },
     {
@@ -78416,7 +78608,7 @@
       "sentimiento": "neutro",
       "asunto": "Recolección de residuos sin realizar",
       "area": "Secretaría de Ambiente",
-      "estado": "EN PROCESO",
+      "estado": "FINALIZADO",
       "fecha": "2026-02-09T21:11:12.000Z"
     },
     {
@@ -78432,7 +78624,7 @@
       "sentimiento": "neutro",
       "asunto": "Basura en vía pública",
       "area": "Secretaría de Ambiente",
-      "estado": "EN PROCESO",
+      "estado": "FINALIZADO",
       "fecha": "2026-02-09T20:54:44.000Z"
     },
     {
@@ -78448,7 +78640,7 @@
       "sentimiento": "neutro",
       "asunto": "Basura en vía pública",
       "area": "Secretaría de Ambiente",
-      "estado": "EN PROCESO",
+      "estado": "FINALIZADO",
       "fecha": "2026-02-09T20:05:08.000Z"
     },
     {
@@ -78464,7 +78656,7 @@
       "sentimiento": "neutro",
       "asunto": "Recolección de Residuos No Habituales (cantidad reducida)",
       "area": "Secretaría de Ambiente",
-      "estado": "EN PROCESO",
+      "estado": "FINALIZADO",
       "fecha": "2026-02-09T19:49:35.000Z"
     },
     {
@@ -78480,7 +78672,7 @@
       "sentimiento": "neutro",
       "asunto": "Contenedor faltante o en mal estado",
       "area": "Secretaría de Ambiente",
-      "estado": "EN PROCESO",
+      "estado": "FINALIZADO",
       "fecha": "2026-02-09T19:43:27.000Z"
     },
     {
@@ -78512,7 +78704,7 @@
       "sentimiento": "neutro",
       "asunto": "Persona arrojando basura",
       "area": "Secretaría de Ambiente",
-      "estado": "EN PROCESO",
+      "estado": "FINALIZADO",
       "fecha": "2026-02-09T19:00:53.000Z"
     },
     {
@@ -78528,7 +78720,7 @@
       "sentimiento": "neutro",
       "asunto": "Basura en vía pública",
       "area": "Secretaría de Ambiente",
-      "estado": "EN PROCESO",
+      "estado": "FINALIZADO",
       "fecha": "2026-02-09T18:12:38.000Z"
     },
     {
@@ -78576,7 +78768,7 @@
       "sentimiento": "neutro",
       "asunto": "Contenedor faltante o en mal estado",
       "area": "Secretaría de Ambiente",
-      "estado": "EN PROCESO",
+      "estado": "FINALIZADO",
       "fecha": "2026-02-09T15:55:15.000Z"
     },
     {
@@ -78592,7 +78784,7 @@
       "sentimiento": "neutro",
       "asunto": "Recolección de Residuos No Habituales (cantidad reducida)",
       "area": "Secretaría de Ambiente",
-      "estado": "EN PROCESO",
+      "estado": "FINALIZADO",
       "fecha": "2026-02-09T15:24:08.000Z"
     },
     {
@@ -78608,7 +78800,7 @@
       "sentimiento": "neutro",
       "asunto": "Basura en vía pública",
       "area": "Secretaría de Ambiente",
-      "estado": "EN PROCESO",
+      "estado": "FINALIZADO",
       "fecha": "2026-02-09T15:09:08.000Z"
     },
     {
@@ -78624,7 +78816,7 @@
       "sentimiento": "neutro",
       "asunto": "Recolección de Residuos No Habituales (cantidad reducida)",
       "area": "Secretaría de Ambiente",
-      "estado": "EN PROCESO",
+      "estado": "FINALIZADO",
       "fecha": "2026-02-09T13:27:17.000Z"
     },
     {
@@ -78640,7 +78832,7 @@
       "sentimiento": "neutro",
       "asunto": "Recolección de Residuos No Habituales (cantidad reducida)",
       "area": "Secretaría de Ambiente",
-      "estado": "EN PROCESO",
+      "estado": "FINALIZADO",
       "fecha": "2026-02-09T12:02:06.000Z"
     },
     {
@@ -78672,7 +78864,7 @@
       "sentimiento": "neutro",
       "asunto": "Basura en vía pública",
       "area": "Secretaría de Ambiente",
-      "estado": "EN PROCESO",
+      "estado": "FINALIZADO",
       "fecha": "2026-02-09T11:24:40.000Z"
     },
     {
@@ -78768,7 +78960,7 @@
       "sentimiento": "neutro",
       "asunto": "Basura en vía pública",
       "area": "Secretaría de Ambiente",
-      "estado": "EN PROCESO",
+      "estado": "FINALIZADO",
       "fecha": "2026-02-08T21:27:00.000Z"
     },
     {
@@ -78800,7 +78992,7 @@
       "sentimiento": "neutro",
       "asunto": "Recolección de residuos sin realizar",
       "area": "Secretaría de Ambiente",
-      "estado": "EN PROCESO",
+      "estado": "FINALIZADO",
       "fecha": "2026-02-08T20:51:44.000Z"
     },
     {
@@ -78896,7 +79088,7 @@
       "sentimiento": "neutro",
       "asunto": "Basura en vía pública",
       "area": "Secretaría de Ambiente",
-      "estado": "EN PROCESO",
+      "estado": "FINALIZADO",
       "fecha": "2026-02-08T02:09:23.000Z"
     },
     {
@@ -79008,7 +79200,7 @@
       "sentimiento": "neutro",
       "asunto": "Basura en vía pública",
       "area": "Secretaría de Ambiente",
-      "estado": "EN PROCESO",
+      "estado": "FINALIZADO",
       "fecha": "2026-02-07T02:20:25.000Z"
     },
     {
@@ -79040,7 +79232,7 @@
       "sentimiento": "neutro",
       "asunto": "Basura en vía pública",
       "area": "Secretaría de Ambiente",
-      "estado": "EN PROCESO",
+      "estado": "FINALIZADO",
       "fecha": "2026-02-06T22:30:48.000Z"
     },
     {
@@ -79056,7 +79248,7 @@
       "sentimiento": "neutro",
       "asunto": "Pedido de cartelería: “No arrojar basura”",
       "area": "Secretaría de Ambiente",
-      "estado": "EN PROCESO",
+      "estado": "FINALIZADO",
       "fecha": "2026-02-06T22:27:40.000Z"
     },
     {
@@ -79072,7 +79264,7 @@
       "sentimiento": "neutro",
       "asunto": "Barrido público deficiente o sin realizar",
       "area": "Secretaría de Ambiente",
-      "estado": "EN PROCESO",
+      "estado": "FINALIZADO",
       "fecha": "2026-02-06T22:26:53.000Z"
     },
     {
@@ -79088,7 +79280,7 @@
       "sentimiento": "neutro",
       "asunto": "Contenedor faltante o en mal estado",
       "area": "Secretaría de Ambiente",
-      "estado": "EN PROCESO",
+      "estado": "FINALIZADO",
       "fecha": "2026-02-06T19:00:30.000Z"
     },
     {
@@ -79120,7 +79312,7 @@
       "sentimiento": "neutro",
       "asunto": "Basura en vía pública",
       "area": "Secretaría de Ambiente",
-      "estado": "EN PROCESO",
+      "estado": "FINALIZADO",
       "fecha": "2026-02-06T17:06:50.000Z"
     },
     {
@@ -79152,7 +79344,7 @@
       "sentimiento": "neutro",
       "asunto": "Persona arrojando basura",
       "area": "Secretaría de Ambiente",
-      "estado": "EN PROCESO",
+      "estado": "FINALIZADO",
       "fecha": "2026-02-06T16:14:20.000Z"
     },
     {
@@ -79184,7 +79376,7 @@
       "sentimiento": "neutro",
       "asunto": "Recolección de residuos sin realizar",
       "area": "Secretaría de Ambiente",
-      "estado": "EN PROCESO",
+      "estado": "FINALIZADO",
       "fecha": "2026-02-06T15:56:34.000Z"
     },
     {
@@ -79200,7 +79392,7 @@
       "sentimiento": "neutro",
       "asunto": "Recolección de residuos sin realizar",
       "area": "Secretaría de Ambiente",
-      "estado": "EN PROCESO",
+      "estado": "FINALIZADO",
       "fecha": "2026-02-06T15:09:09.000Z"
     },
     {
@@ -79232,7 +79424,7 @@
       "sentimiento": "neutro",
       "asunto": "Recolección de residuos sin realizar",
       "area": "Secretaría de Ambiente",
-      "estado": "EN PROCESO",
+      "estado": "FINALIZADO",
       "fecha": "2026-02-06T13:11:46.000Z"
     },
     {
@@ -79248,7 +79440,7 @@
       "sentimiento": "neutro",
       "asunto": "Recolección de Residuos No Habituales (cantidad reducida)",
       "area": "Secretaría de Ambiente",
-      "estado": "EN PROCESO",
+      "estado": "FINALIZADO",
       "fecha": "2026-02-06T11:48:43.000Z"
     },
     {
@@ -79264,7 +79456,7 @@
       "sentimiento": "neutro",
       "asunto": "Contenedor faltante o en mal estado",
       "area": "Secretaría de Ambiente",
-      "estado": "EN PROCESO",
+      "estado": "FINALIZADO",
       "fecha": "2026-02-06T11:43:34.000Z"
     },
     {
@@ -79280,7 +79472,7 @@
       "sentimiento": "neutro",
       "asunto": "Recolección de residuos sin realizar",
       "area": "Secretaría de Ambiente",
-      "estado": "EN PROCESO",
+      "estado": "FINALIZADO",
       "fecha": "2026-02-06T03:19:50.000Z"
     },
     {
@@ -79296,7 +79488,7 @@
       "sentimiento": "neutro",
       "asunto": "Recolección de Residuos No Habituales (cantidad reducida)",
       "area": "Secretaría de Ambiente",
-      "estado": "EN PROCESO",
+      "estado": "FINALIZADO",
       "fecha": "2026-02-06T01:28:28.000Z"
     },
     {
@@ -79328,7 +79520,7 @@
       "sentimiento": "neutro",
       "asunto": "Recolección de Residuos No Habituales (cantidad reducida)",
       "area": "Secretaría de Ambiente",
-      "estado": "EN PROCESO",
+      "estado": "FINALIZADO",
       "fecha": "2026-02-05T22:48:22.000Z"
     },
     {
@@ -79344,7 +79536,7 @@
       "sentimiento": "neutro",
       "asunto": "Recolección de residuos sin realizar",
       "area": "Secretaría de Ambiente",
-      "estado": "EN PROCESO",
+      "estado": "FINALIZADO",
       "fecha": "2026-02-05T22:45:23.000Z"
     },
     {
@@ -79360,7 +79552,7 @@
       "sentimiento": "neutro",
       "asunto": "Recolección de residuos sin realizar",
       "area": "Secretaría de Ambiente",
-      "estado": "EN PROCESO",
+      "estado": "FINALIZADO",
       "fecha": "2026-02-05T21:32:44.000Z"
     },
     {
@@ -79376,7 +79568,7 @@
       "sentimiento": "neutro",
       "asunto": "Contenedor faltante o en mal estado",
       "area": "Secretaría de Ambiente",
-      "estado": "EN PROCESO",
+      "estado": "FINALIZADO",
       "fecha": "2026-02-05T20:55:58.000Z"
     },
     {
@@ -79392,7 +79584,7 @@
       "sentimiento": "neutro",
       "asunto": "Barrido público deficiente o sin realizar",
       "area": "Secretaría de Ambiente",
-      "estado": "EN PROCESO",
+      "estado": "FINALIZADO",
       "fecha": "2026-02-05T20:47:06.000Z"
     },
     {
@@ -79408,7 +79600,7 @@
       "sentimiento": "neutro",
       "asunto": "Basura en vía pública",
       "area": "Secretaría de Ambiente",
-      "estado": "EN PROCESO",
+      "estado": "FINALIZADO",
       "fecha": "2026-02-05T20:43:20.000Z"
     },
     {
@@ -79424,7 +79616,7 @@
       "sentimiento": "neutro",
       "asunto": "Recolección de residuos sin realizar",
       "area": "Secretaría de Ambiente",
-      "estado": "EN PROCESO",
+      "estado": "FINALIZADO",
       "fecha": "2026-02-05T20:21:35.000Z"
     },
     {
@@ -79440,7 +79632,7 @@
       "sentimiento": "neutro",
       "asunto": "Basura en vía pública",
       "area": "Secretaría de Ambiente",
-      "estado": "EN PROCESO",
+      "estado": "FINALIZADO",
       "fecha": "2026-02-05T19:43:12.000Z"
     },
     {
@@ -89343,7 +89535,7 @@
       "distrito": 10,
       "sentimiento": "neutro",
       "asunto": "Basura en vía pública",
-      "area": "Secretar��a de Ambiente",
+      "area": "Secretaría de Ambiente",
       "estado": "FINALIZADO",
       "fecha": "2026-01-02T23:33:07.000Z"
     },
@@ -89490,127 +89682,31 @@
       "area": "Salud Ambiental",
       "estado": "FINALIZADO",
       "fecha": "2026-01-02T03:04:58.000Z"
-    },
-    {
-      "numero": "3815647361",
-      "canal": "Aplicación Móvil",
-      "nombre": "Denise Barros",
-      "telefono": "3815647361",
-      "email": "denu365@gmail.com",
-      "direccion": "Calle Domingo Matheu 1846, San Miguel de Tucumán, Tucumán",
-      "lat": "-26.847192029254106",
-      "lon": "-65.23129943758249",
-      "distrito": 14,
-      "sentimiento": "neutro",
-      "asunto": "Ruidos molestos",
-      "area": "Salud Ambiental",
-      "estado": "FINALIZADO",
-      "fecha": "2026-01-02T02:40:20.000Z"
-    },
-    {
-      "numero": "3815647361",
-      "canal": "Aplicación Móvil",
-      "nombre": "Denise Barros",
-      "telefono": "3815647361",
-      "email": "denu365@gmail.com",
-      "direccion": "Calle Domingo Matheu 1863, San Miguel de Tucumán, Tucumán",
-      "lat": "-26.846933573637408",
-      "lon": "-65.23142985999584",
-      "distrito": 14,
-      "sentimiento": "neutro",
-      "asunto": "Ruidos molestos",
-      "area": "Salud Ambiental",
-      "estado": "FINALIZADO",
-      "fecha": "2026-01-02T02:27:26.000Z"
-    },
-    {
-      "numero": "3812037490",
-      "canal": "Aplicación Móvil",
-      "nombre": "Agustina Trujillo",
-      "telefono": "3812037490",
-      "email": "agustrujillo92@gmail.com",
-      "direccion": "Pasaje Vieytes 2026, San Miguel de Tucumán, Tucumán",
-      "lat": "-26.84589495900504",
-      "lon": "-65.23348845541477",
-      "distrito": 14,
-      "sentimiento": "neutro",
-      "asunto": "Ruidos molestos",
-      "area": "Salud Ambiental",
-      "estado": "FINALIZADO",
-      "fecha": "2026-01-01T23:20:10.000Z"
-    },
-    {
-      "numero": "3815523034",
-      "canal": "Aplicación Móvil",
-      "nombre": "Yonathan Daniel Bustos Valdez",
-      "telefono": "3815523034",
-      "email": "yonathan26.dkno@gmail.com",
-      "direccion": "Cacique Atahualpa 1129, Municipalidad de San Miguel De Tucuman, Tucumán",
-      "lat": "-26.839473703932665",
-      "lon": "-65.1812718808651",
-      "distrito": 11,
-      "sentimiento": "neutro",
-      "asunto": "Ruidos molestos",
-      "area": "Salud Ambiental",
-      "estado": "FINALIZADO",
-      "fecha": "2026-01-01T16:37:23.000Z"
-    },
-    {
-      "numero": "3814763420",
-      "canal": "Aplicación Móvil",
-      "nombre": "Gladys Costilla",
-      "telefono": "3814763420",
-      "email": "ely_libra07@hotmail.com",
-      "direccion": "Fleming 275, San Miguel de Tucumán, Tucumán",
-      "lat": "-26.84964822557441",
-      "lon": "-65.19766487181187",
-      "distrito": 16,
-      "sentimiento": "neutro",
-      "asunto": "Ruidos molestos",
-      "area": "Salud Ambiental",
-      "estado": "FINALIZADO",
-      "fecha": "2026-01-01T08:52:01.000Z"
-    },
-    {
-      "numero": "3815832866",
-      "canal": "Aplicación Móvil",
-      "nombre": "Mariana Belén Escobar ",
-      "telefono": "3815832866",
-      "email": "marianaescobar143@outlook.com",
-      "direccion": "Juan Larrea 2066, San Miguel de Tucumán, Tucumán",
-      "lat": "-26.845237144866203",
-      "lon": "-65.23381937295198",
-      "distrito": 14,
-      "sentimiento": "neutro",
-      "asunto": "Ruidos molestos",
-      "area": "Salud Ambiental",
-      "estado": "FINALIZADO",
-      "fecha": "2026-01-01T05:20:56.000Z"
     }
   ],
   "pedidos": {
     "bot": 0,
-    "bam": 572,
+    "bam": 18,
     "completados": 0,
-    "pendientes": 572
+    "pendientes": 18
   },
   "reclamos": {
-    "total": 3130,
-    "iniciados": 9,
-    "en_proceso": 1224,
-    "finalizados": 1869,
-    "derivados": 28
+    "total": 3136,
+    "iniciados": 8,
+    "en_proceso": 1187,
+    "finalizados": 1908,
+    "derivados": 33
   },
   "canales": {
     "WhatsApp Ambiente": 1757,
-    "Aplicación Móvil": 1330,
-    "Chat Center (Call Center)": 1411,
+    "Aplicación Móvil": 1329,
+    "Chat Center (Call Center)": 1418,
     "Whatsapp": 8,
     "Personalmente": 108,
     "Agentes o Inspectores": 4,
     "Teléfono": 43,
     "Email Oficial": 1
   },
-  "totalVecinos": 4662,
-  "actualizado": "2026-07-01T15:30:59.932Z"
+  "totalVecinos": 4668,
+  "actualizado": "2026-07-02T12:51:11.905Z"
 }
