@@ -1072,7 +1072,7 @@ async function procesarMensajeBAM(sock, msg) {
             try {
                 const carpetaMultas = path.join('dataset', 'multas')
                 if (!fs.existsSync(carpetaMultas)) fs.mkdirSync(carpetaMultas, { recursive: true })
-                const buffer = await downloadMediaMessage(msg, 'buffer', {})
+                const buffer = await downloadMediaMessage(msg, 'buffer', {}, { reuploadRequest: sock.updateMediaMessage })
                 const nombreArchivo = `${fecha.replace(/[:.]/g, '-')}.jpg`
                 fs.writeFileSync(path.join(carpetaMultas, nombreArchivo), buffer)
             } catch (e) {
@@ -1108,7 +1108,7 @@ async function procesarMensajeBAM(sock, msg) {
         try {
             const carpetaCategoria = path.join('dataset', categoria)
             if (!fs.existsSync(carpetaCategoria)) fs.mkdirSync(carpetaCategoria, { recursive: true })
-            const buffer = await downloadMediaMessage(msg, 'buffer', {})
+            const buffer = await downloadMediaMessage(msg, 'buffer', {}, { reuploadRequest: sock.updateMediaMessage })
             const nombreArchivo = `${fecha.replace(/[:.]/g, '-')}.jpg`
             fs.writeFileSync(path.join(carpetaCategoria, nombreArchivo), buffer)
         } catch (e) {
@@ -1883,7 +1883,7 @@ let pushEnCurso = false
 function subirDashboardAGitHub() {
     if (pushEnCurso) return
     pushEnCurso = true
-    exec('git add dashboard_data.json && git commit -m "actualizacion automatica" && git push origin master --force', 
+    exec('git add dashboard_data.json satisfaccion.json && git commit -m "actualizacion automatica" && git push origin master --force', 
         { cwd: 'C:\\wextractor' },
         (error, stdout, stderr) => {
             pushEnCurso = false
@@ -2337,7 +2337,7 @@ async function procesarMensaje(sock, msg) {
         if (tieneFoto) {
             try {
                 await sock.sendMessage(jid, { text: '🔍 Analizando tu foto...' })
-                const buffer = await downloadMediaMessage(msg, 'buffer', {})
+                const buffer = await downloadMediaMessage(msg, 'buffer', {}, { reuploadRequest: sock.updateMediaMessage })
                 const analisis = await analizarFoto(buffer, estado.tipo)
 
                 if (!analisis.esValida) {

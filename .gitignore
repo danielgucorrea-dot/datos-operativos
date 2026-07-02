@@ -1,0 +1,27 @@
+# ===== Secretos =====
+.env
+.env.*
+*.env.txt
+
+# ===== Dependencias =====
+node_modules/
+
+# ===== Credenciales de WhatsApp / Baileys (NUNCA subir) =====
+auth_info/
+auth_info_*/
+
+# ===== DATOS PERSONALES DE VECINOS — NO PUBLICAR (repo público) =====
+base_electoral.csv
+base_electoral.csv.bak
+
+conversaciones.json
+contactos.json
+reclamos.json
+pedidos.json
+multas.json
+lid_map.json
+dataset/
+
+# ===== Generados =====
+*.docx
+sheets_cache.json
