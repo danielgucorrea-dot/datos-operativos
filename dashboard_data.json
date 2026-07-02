@@ -43616,7 +43616,7 @@
       "sentimiento": "neutro",
       "asunto": "Ruidos molestos",
       "area": "Salud Ambiental",
-      "estado": "INICIADO",
+      "estado": "FINALIZADO",
       "fecha": "2026-06-29T13:26:20.000Z"
     },
     {
@@ -70479,7 +70479,7 @@
       "distrito": 10,
       "sentimiento": "neutro",
       "asunto": "Basura en vía pública",
-      "area": "Secretar��a de Ambiente",
+      "area": "Secretaría de Ambiente",
       "estado": "EN PROCESO",
       "fecha": "2026-03-07T12:11:04.000Z"
     },
@@ -72254,7 +72254,7 @@
       "lon": "-65.26701103895903",
       "distrito": 17,
       "sentimiento": "neutro",
-      "asunto": "Pedido de cartelería: “No arrojar basura��",
+      "asunto": "Pedido de cartelería: “No arrojar basura”",
       "area": "Secretaría de Ambiente",
       "estado": "EN PROCESO",
       "fecha": "2026-03-02T12:40:57.000Z"
@@ -89692,9 +89692,9 @@
   },
   "reclamos": {
     "total": 3136,
-    "iniciados": 7,
+    "iniciados": 6,
     "en_proceso": 1188,
-    "finalizados": 1908,
+    "finalizados": 1909,
     "derivados": 33
   },
   "canales": {
@@ -89708,5 +89708,5 @@
     "Email Oficial": 1
   },
   "totalVecinos": 4668,
-  "actualizado": "2026-07-02T13:08:23.671Z"
+  "actualizado": "2026-07-02T13:09:30.750Z"
 }
