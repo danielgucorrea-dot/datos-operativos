@@ -43123,6 +43123,36 @@
       "distrito": null
     },
     {
+      "numero": "188398757244952",
+      "celular": "+54 9 3813 923-913",
+      "direccion": "",
+      "sentimiento": "negativo",
+      "mensaje": "El inconveniente que tengo es que sacamos la basura y a la media hora ya estan las bolsas rotas porque las colgamos en el arbol ya que no tenemos adonde poner",
+      "fecha": "2026-07-02T13:21:19.075Z",
+      "canal": "WhatsApp Ambiente",
+      "nombre": "",
+      "telefono": "+54 9 3813 923-913",
+      "email": "",
+      "lat": null,
+      "lon": null,
+      "distrito": null
+    },
+    {
+      "numero": "190610749296853",
+      "celular": "+54 9 3816 111-385",
+      "direccion": "",
+      "sentimiento": "neutro",
+      "mensaje": "Matheu 437",
+      "fecha": "2026-07-02T13:21:27.231Z",
+      "canal": "WhatsApp Ambiente",
+      "nombre": "",
+      "telefono": "+54 9 3816 111-385",
+      "email": "",
+      "lat": null,
+      "lon": null,
+      "distrito": null
+    },
+    {
       "numero": "3815362019",
       "canal": "Aplicación Móvil",
       "nombre": "Hernan Cuenca",
@@ -89713,7 +89743,7 @@
     "derivados": 33
   },
   "canales": {
-    "WhatsApp Ambiente": 1758,
+    "WhatsApp Ambiente": 1760,
     "Aplicación Móvil": 1329,
     "Chat Center (Call Center)": 1418,
     "Whatsapp": 8,
@@ -89722,6 +89752,6 @@
     "Teléfono": 43,
     "Email Oficial": 1
   },
-  "totalVecinos": 4669,
-  "actualizado": "2026-07-02T13:21:19.041Z"
+  "totalVecinos": 4671,
+  "actualizado": "2026-07-02T13:21:28.233Z"
 }
