@@ -42918,14 +42918,19 @@
       "nombre": "",
       "direccion": "",
       "sentimiento": "neutro",
-      "ultimoMensaje": "Hola",
+      "ultimoMensaje": "Menu",
       "mensaje": "Hola",
       "fecha": "2026-07-03T15:39:56.993Z",
-      "ultimaActualizacion": "2026-07-03T15:39:56.993Z",
+      "ultimaActualizacion": "2026-07-03T15:44:24.096Z",
       "historialMensajes": [
         {
           "texto": "Hola",
           "fecha": "2026-07-03T15:39:56.993Z",
+          "sentimiento": "neutro"
+        },
+        {
+          "texto": "Menu",
+          "fecha": "2026-07-03T15:44:24.096Z",
           "sentimiento": "neutro"
         }
       ],
@@ -89537,5 +89542,5 @@
     "Email Oficial": 1
   },
   "totalVecinos": 4660,
-  "actualizado": "2026-07-03T15:44:03.207Z"
+  "actualizado": "2026-07-03T15:44:25.204Z"
 }

@@ -34168,14 +34168,19 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "neutro",
-    "ultimoMensaje": "Hola",
+    "ultimoMensaje": "Menu",
     "mensaje": "Hola",
     "fecha": "2026-07-03T15:39:56.993Z",
-    "ultimaActualizacion": "2026-07-03T15:39:56.993Z",
+    "ultimaActualizacion": "2026-07-03T15:44:24.096Z",
     "historialMensajes": [
       {
         "texto": "Hola",
         "fecha": "2026-07-03T15:39:56.993Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Menu",
+        "fecha": "2026-07-03T15:44:24.096Z",
         "sentimiento": "neutro"
       }
     ]
