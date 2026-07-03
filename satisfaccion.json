@@ -34296,10 +34296,10 @@
     "nombre": "",
     "direccion": "Florida 80",
     "sentimiento": "neutro",
-    "ultimoMensaje": "América 800",
+    "ultimoMensaje": "Pasaje popeye 3000",
     "mensaje": "Hola",
     "fecha": "2026-07-03T22:54:06.388Z",
-    "ultimaActualizacion": "2026-07-03T22:56:56.812Z",
+    "ultimaActualizacion": "2026-07-03T23:01:30.429Z",
     "historialMensajes": [
       {
         "texto": "Hola",
@@ -34319,6 +34319,11 @@
       {
         "texto": "América 800",
         "fecha": "2026-07-03T22:56:56.812Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Pasaje popeye 3000",
+        "fecha": "2026-07-03T23:01:30.429Z",
         "sentimiento": "neutro"
       }
     ]
