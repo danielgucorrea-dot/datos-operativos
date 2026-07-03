@@ -42859,10 +42859,10 @@
       "nombre": "",
       "direccion": "",
       "sentimiento": "negativo",
-      "ultimoMensaje": "Encontrarán escombros también",
+      "ultimoMensaje": "Se que están haciendo lo que no se hizo nunca, lamentablemente la gente es sucia y los q no lo somos tenemos que soportar vivir en la inmundicia.\nSería bueno que comiencen a multar a los que no limpian el frente de sus casa o tiran basura .recaudarian dinero p hacer obras",
       "mensaje": "Buen día",
       "fecha": "2026-07-03T15:33:57.824Z",
-      "ultimaActualizacion": "2026-07-03T15:35:43.177Z",
+      "ultimaActualizacion": "2026-07-03T15:41:39.642Z",
       "historialMensajes": [
         {
           "texto": "Buen día",
@@ -42887,6 +42887,11 @@
         {
           "texto": "Encontrarán escombros también",
           "fecha": "2026-07-03T15:35:43.177Z",
+          "sentimiento": "negativo"
+        },
+        {
+          "texto": "Se que están haciendo lo que no se hizo nunca, lamentablemente la gente es sucia y los q no lo somos tenemos que soportar vivir en la inmundicia.\nSería bueno que comiencen a multar a los que no limpia",
+          "fecha": "2026-07-03T15:41:39.642Z",
           "sentimiento": "negativo"
         }
       ],
@@ -89522,5 +89527,5 @@
     "Email Oficial": 1
   },
   "totalVecinos": 4660,
-  "actualizado": "2026-07-03T15:39:58.015Z"
+  "actualizado": "2026-07-03T15:41:40.625Z"
 }
