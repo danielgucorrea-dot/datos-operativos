@@ -34295,11 +34295,11 @@
     "celular": "+54 9 3812 081-709",
     "nombre": "",
     "direccion": "Florida 80",
-    "sentimiento": "positivo",
-    "ultimoMensaje": "Gracias",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "América 800",
     "mensaje": "Hola",
     "fecha": "2026-07-03T22:54:06.388Z",
-    "ultimaActualizacion": "2026-07-03T22:55:22.711Z",
+    "ultimaActualizacion": "2026-07-03T22:56:56.812Z",
     "historialMensajes": [
       {
         "texto": "Hola",
@@ -34315,6 +34315,11 @@
         "texto": "Gracias",
         "fecha": "2026-07-03T22:55:22.711Z",
         "sentimiento": "positivo"
+      },
+      {
+        "texto": "América 800",
+        "fecha": "2026-07-03T22:56:56.812Z",
+        "sentimiento": "neutro"
       }
     ]
   }
