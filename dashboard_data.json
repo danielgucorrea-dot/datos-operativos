@@ -43063,11 +43063,11 @@
       "celular": "+54 9 3812 081-709",
       "nombre": "",
       "direccion": "Florida 80",
-      "sentimiento": "neutro",
-      "ultimoMensaje": "Florida 80",
+      "sentimiento": "positivo",
+      "ultimoMensaje": "Gracias",
       "mensaje": "Hola",
       "fecha": "2026-07-03T22:54:06.388Z",
-      "ultimaActualizacion": "2026-07-03T22:55:00.293Z",
+      "ultimaActualizacion": "2026-07-03T22:55:22.711Z",
       "historialMensajes": [
         {
           "texto": "Hola",
@@ -43078,6 +43078,11 @@
           "texto": "Florida 80",
           "fecha": "2026-07-03T22:55:00.293Z",
           "sentimiento": "neutro"
+        },
+        {
+          "texto": "Gracias",
+          "fecha": "2026-07-03T22:55:22.711Z",
+          "sentimiento": "positivo"
         }
       ],
       "canal": "WhatsApp Ambiente",
@@ -43105,5 +43110,5 @@
     "WhatsApp Ambiente": 1752
   },
   "totalVecinos": 1752,
-  "actualizado": "2026-07-03T22:55:01.074Z"
+  "actualizado": "2026-07-03T22:55:23.710Z"
 }
