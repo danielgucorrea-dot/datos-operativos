@@ -34116,5 +34116,21 @@
     "sentimiento": "neutro",
     "mensaje": "En manantial sur",
     "fecha": "2026-07-02T15:38:34.936Z"
+  },
+  {
+    "numero": "134217811939414",
+    "celular": "+54 9 134217811939414",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "mensaje": "Buenos dias",
+    "fecha": "2026-07-03T15:05:35.490Z"
+  },
+  {
+    "numero": "134217811939414",
+    "celular": "+54 9 3816 416-927",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "mensaje": "Estoy en Yerba Buena. Cambiamos la cocina de un depto que se alquilaba. No hay nadie ahí ahora. La semana que viene van los nuevos inquilinos",
+    "fecha": "2026-07-03T15:07:29.294Z"
   }
 ]

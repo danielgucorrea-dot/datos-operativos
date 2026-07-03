@@ -42869,6 +42869,36 @@
       "distrito": null
     },
     {
+      "numero": "134217811939414",
+      "celular": "+54 9 134217811939414",
+      "direccion": "",
+      "sentimiento": "neutro",
+      "mensaje": "Buenos dias",
+      "fecha": "2026-07-03T15:05:35.490Z",
+      "canal": "WhatsApp Ambiente",
+      "nombre": "",
+      "telefono": "+54 9 134217811939414",
+      "email": "",
+      "lat": null,
+      "lon": null,
+      "distrito": null
+    },
+    {
+      "numero": "134217811939414",
+      "celular": "+54 9 3816 416-927",
+      "direccion": "",
+      "sentimiento": "neutro",
+      "mensaje": "Estoy en Yerba Buena. Cambiamos la cocina de un depto que se alquilaba. No hay nadie ahí ahora. La semana que viene van los nuevos inquilinos",
+      "fecha": "2026-07-03T15:07:29.294Z",
+      "canal": "WhatsApp Ambiente",
+      "nombre": "",
+      "telefono": "+54 9 3816 416-927",
+      "email": "",
+      "lat": null,
+      "lon": null,
+      "distrito": null
+    },
+    {
       "numero": "3814401913",
       "canal": "Aplicación Móvil",
       "nombre": "Olga Patricia  Moyano Herrera ",
@@ -89459,7 +89489,7 @@
     "derivados": 29
   },
   "canales": {
-    "WhatsApp Ambiente": 1748,
+    "WhatsApp Ambiente": 1750,
     "Aplicación Móvil": 1324,
     "Chat Center (Call Center)": 1423,
     "Whatsapp": 8,
@@ -89468,6 +89498,6 @@
     "Teléfono": 43,
     "Email Oficial": 1
   },
-  "totalVecinos": 4659,
-  "actualizado": "2026-07-03T15:05:24.463Z"
+  "totalVecinos": 4661,
+  "actualizado": "2026-07-03T15:07:30.602Z"
 }
