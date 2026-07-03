@@ -42899,6 +42899,21 @@
       "distrito": null
     },
     {
+      "numero": "22832113270855",
+      "celular": "+54 9 3815 759-433",
+      "direccion": "",
+      "sentimiento": "neutro",
+      "mensaje": "Hola! Buenas dias! Tenemos unas bolsas de escombro para descartar.",
+      "fecha": "2026-07-03T15:07:33.924Z",
+      "canal": "WhatsApp Ambiente",
+      "nombre": "",
+      "telefono": "+54 9 3815 759-433",
+      "email": "",
+      "lat": null,
+      "lon": null,
+      "distrito": null
+    },
+    {
       "numero": "3814401913",
       "canal": "Aplicación Móvil",
       "nombre": "Olga Patricia  Moyano Herrera ",
@@ -89489,7 +89504,7 @@
     "derivados": 29
   },
   "canales": {
-    "WhatsApp Ambiente": 1750,
+    "WhatsApp Ambiente": 1751,
     "Aplicación Móvil": 1324,
     "Chat Center (Call Center)": 1423,
     "Whatsapp": 8,
@@ -89498,6 +89513,6 @@
     "Teléfono": 43,
     "Email Oficial": 1
   },
-  "totalVecinos": 4661,
-  "actualizado": "2026-07-03T15:07:30.602Z"
+  "totalVecinos": 4662,
+  "actualizado": "2026-07-03T15:07:35.434Z"
 }
