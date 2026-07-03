@@ -34114,17 +34114,12 @@
     "celular": "+54 9 3813 534-174",
     "nombre": "",
     "direccion": "Prospero Mena 1500",
-    "sentimiento": "neutro",
-    "ultimoMensaje": "☝🏽 Libertad 1500",
+    "sentimiento": "negativo",
+    "ultimoMensaje": "Prospero Mena 1500😭",
     "mensaje": "Buen día",
     "fecha": "2026-07-03T15:33:57.824Z",
-    "ultimaActualizacion": "2026-07-03T15:48:18.033Z",
+    "ultimaActualizacion": "2026-07-03T15:49:12.258Z",
     "historialMensajes": [
-      {
-        "texto": "Buen dia🤗🤗🤗\nYa colocaron una tapa en la calle Libertad llegando a la Independencia \nPero cada vez más la gente acumula basura en el centrode las calles ,tanto en la calle Libertad cómo en la Prospe",
-        "fecha": "2026-07-03T15:35:04.144Z",
-        "sentimiento": "negativo"
-      },
       {
         "texto": "No se puede conducir por las calles de la basura acumulada en las esquinas",
         "fecha": "2026-07-03T15:35:05.786Z",
@@ -34169,6 +34164,11 @@
         "texto": "☝🏽 Libertad 1500",
         "fecha": "2026-07-03T15:48:18.033Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Prospero Mena 1500😭",
+        "fecha": "2026-07-03T15:49:12.258Z",
+        "sentimiento": "negativo"
       }
     ]
   },
