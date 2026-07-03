@@ -42914,6 +42914,21 @@
       "distrito": null
     },
     {
+      "numero": "134217811939414",
+      "celular": "+54 9 3816 416-927",
+      "direccion": "",
+      "sentimiento": "neutro",
+      "mensaje": "Es parecida a la foto",
+      "fecha": "2026-07-03T15:07:50.834Z",
+      "canal": "WhatsApp Ambiente",
+      "nombre": "",
+      "telefono": "+54 9 3816 416-927",
+      "email": "",
+      "lat": null,
+      "lon": null,
+      "distrito": null
+    },
+    {
       "numero": "3814401913",
       "canal": "Aplicación Móvil",
       "nombre": "Olga Patricia  Moyano Herrera ",
@@ -89504,7 +89519,7 @@
     "derivados": 29
   },
   "canales": {
-    "WhatsApp Ambiente": 1751,
+    "WhatsApp Ambiente": 1752,
     "Aplicación Móvil": 1324,
     "Chat Center (Call Center)": 1423,
     "Whatsapp": 8,
@@ -89513,6 +89528,6 @@
     "Teléfono": 43,
     "Email Oficial": 1
   },
-  "totalVecinos": 4662,
-  "actualizado": "2026-07-03T15:07:35.434Z"
+  "totalVecinos": 4663,
+  "actualizado": "2026-07-03T15:07:52.218Z"
 }
