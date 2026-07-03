@@ -42859,10 +42859,10 @@
       "nombre": "",
       "direccion": "",
       "sentimiento": "negativo",
-      "ultimoMensaje": "Se que están haciendo lo que no se hizo nunca, lamentablemente la gente es sucia y los q no lo somos tenemos que soportar vivir en la inmundicia.\nSería bueno que comiencen a multar a los que no limpian el frente de sus casa o tiran basura .recaudarian dinero p hacer obras",
+      "ultimoMensaje": "Hay vecinos que hace años tienen arena y ripio en el frente de sus casa y ahí está 🤷🏽‍♀️",
       "mensaje": "Buen día",
       "fecha": "2026-07-03T15:33:57.824Z",
-      "ultimaActualizacion": "2026-07-03T15:41:39.642Z",
+      "ultimaActualizacion": "2026-07-03T15:42:46.261Z",
       "historialMensajes": [
         {
           "texto": "Buen día",
@@ -42892,6 +42892,11 @@
         {
           "texto": "Se que están haciendo lo que no se hizo nunca, lamentablemente la gente es sucia y los q no lo somos tenemos que soportar vivir en la inmundicia.\nSería bueno que comiencen a multar a los que no limpia",
           "fecha": "2026-07-03T15:41:39.642Z",
+          "sentimiento": "negativo"
+        },
+        {
+          "texto": "Hay vecinos que hace años tienen arena y ripio en el frente de sus casa y ahí está 🤷🏽‍♀️",
+          "fecha": "2026-07-03T15:42:46.261Z",
           "sentimiento": "negativo"
         }
       ],
@@ -89527,5 +89532,5 @@
     "Email Oficial": 1
   },
   "totalVecinos": 4660,
-  "actualizado": "2026-07-03T15:41:40.625Z"
+  "actualizado": "2026-07-03T15:42:47.120Z"
 }
