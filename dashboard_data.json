@@ -89447,9 +89447,9 @@
   ],
   "pedidos": {
     "bot": 0,
-    "bam": 3,
+    "bam": 15,
     "completados": 0,
-    "pendientes": 3
+    "pendientes": 15
   },
   "reclamos": {
     "total": 3131,
@@ -89469,5 +89469,5 @@
     "Email Oficial": 1
   },
   "totalVecinos": 4659,
-  "actualizado": "2026-07-03T15:04:03.533Z"
+  "actualizado": "2026-07-03T15:05:24.463Z"
 }
