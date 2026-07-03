@@ -43057,6 +43057,30 @@
       "lat": null,
       "lon": null,
       "distrito": null
+    },
+    {
+      "numero": "262315647697148",
+      "celular": "+54 9 3812 081-709",
+      "nombre": "",
+      "direccion": "",
+      "sentimiento": "neutro",
+      "ultimoMensaje": "Hola",
+      "mensaje": "Hola",
+      "fecha": "2026-07-03T22:54:06.388Z",
+      "ultimaActualizacion": "2026-07-03T22:54:06.388Z",
+      "historialMensajes": [
+        {
+          "texto": "Hola",
+          "fecha": "2026-07-03T22:54:06.388Z",
+          "sentimiento": "neutro"
+        }
+      ],
+      "canal": "WhatsApp Ambiente",
+      "telefono": "+54 9 3812 081-709",
+      "email": "",
+      "lat": null,
+      "lon": null,
+      "distrito": null
     }
   ],
   "pedidos": {
@@ -43073,8 +43097,8 @@
     "derivados": 30
   },
   "canales": {
-    "WhatsApp Ambiente": 1751
+    "WhatsApp Ambiente": 1752
   },
-  "totalVecinos": 1751,
-  "actualizado": "2026-07-03T22:30:09.439Z"
+  "totalVecinos": 1752,
+  "actualizado": "2026-07-03T22:54:07.150Z"
 }
