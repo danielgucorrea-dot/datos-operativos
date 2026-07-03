@@ -34114,11 +34114,11 @@
     "celular": "+54 9 3813 534-174",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Miguel Lillo y Lavaisse",
+    "sentimiento": "negativo",
+    "ultimoMensaje": "Buen dia🤗🤗🤗\nYa colocaron una tapa en la calle Libertad llegando a la Independencia \nPero cada vez más la gente acumula basura en el centrode las calles ,tanto en la calle Libertad cómo en la Prospero Mena.\nNi que decir en la Lavaisse y Miguel Lillo",
     "mensaje": "Buen día",
     "fecha": "2026-07-03T15:33:57.824Z",
-    "ultimaActualizacion": "2026-07-03T15:34:43.640Z",
+    "ultimaActualizacion": "2026-07-03T15:35:04.144Z",
     "historialMensajes": [
       {
         "texto": "Buen día",
@@ -34129,6 +34129,11 @@
         "texto": "Miguel Lillo y Lavaisse",
         "fecha": "2026-07-03T15:34:43.640Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Buen dia🤗🤗🤗\nYa colocaron una tapa en la calle Libertad llegando a la Independencia \nPero cada vez más la gente acumula basura en el centrode las calles ,tanto en la calle Libertad cómo en la Prospe",
+        "fecha": "2026-07-03T15:35:04.144Z",
+        "sentimiento": "negativo"
       }
     ]
   }
