@@ -34108,5 +34108,28 @@
     "sentimiento": "neutro",
     "mensaje": "Okis gracias",
     "fecha": "2026-07-03T15:26:55.848Z"
+  },
+  {
+    "numero": "74951507878014",
+    "celular": "+54 9 3813 534-174",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Miguel Lillo y Lavaisse",
+    "mensaje": "Buen día",
+    "fecha": "2026-07-03T15:33:57.824Z",
+    "ultimaActualizacion": "2026-07-03T15:34:43.640Z",
+    "historialMensajes": [
+      {
+        "texto": "Buen día",
+        "fecha": "2026-07-03T15:33:57.824Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Miguel Lillo y Lavaisse",
+        "fecha": "2026-07-03T15:34:43.640Z",
+        "sentimiento": "neutro"
+      }
+    ]
   }
 ]

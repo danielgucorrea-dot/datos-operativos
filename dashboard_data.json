@@ -42854,6 +42854,35 @@
       "distrito": 10
     },
     {
+      "numero": "74951507878014",
+      "celular": "+54 9 3813 534-174",
+      "nombre": "",
+      "direccion": "",
+      "sentimiento": "neutro",
+      "ultimoMensaje": "Miguel Lillo y Lavaisse",
+      "mensaje": "Buen día",
+      "fecha": "2026-07-03T15:33:57.824Z",
+      "ultimaActualizacion": "2026-07-03T15:34:43.640Z",
+      "historialMensajes": [
+        {
+          "texto": "Buen día",
+          "fecha": "2026-07-03T15:33:57.824Z",
+          "sentimiento": "neutro"
+        },
+        {
+          "texto": "Miguel Lillo y Lavaisse",
+          "fecha": "2026-07-03T15:34:43.640Z",
+          "sentimiento": "neutro"
+        }
+      ],
+      "canal": "WhatsApp Ambiente",
+      "telefono": "+54 9 3813 534-174",
+      "email": "",
+      "lat": null,
+      "lon": null,
+      "distrito": null
+    },
+    {
       "numero": "3814401913",
       "canal": "Aplicación Móvil",
       "nombre": "Olga Patricia  Moyano Herrera ",
@@ -89432,9 +89461,9 @@
   ],
   "pedidos": {
     "bot": 0,
-    "bam": 19,
+    "bam": 20,
     "completados": 0,
-    "pendientes": 19
+    "pendientes": 20
   },
   "reclamos": {
     "total": 3131,
@@ -89444,7 +89473,7 @@
     "derivados": 29
   },
   "canales": {
-    "WhatsApp Ambiente": 1747,
+    "WhatsApp Ambiente": 1748,
     "Aplicación Móvil": 1324,
     "Chat Center (Call Center)": 1423,
     "Whatsapp": 8,
@@ -89453,6 +89482,6 @@
     "Teléfono": 43,
     "Email Oficial": 1
   },
-  "totalVecinos": 4658,
-  "actualizado": "2026-07-03T15:33:48.111Z"
+  "totalVecinos": 4659,
+  "actualizado": "2026-07-03T15:34:44.451Z"
 }
