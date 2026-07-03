@@ -34114,11 +34114,11 @@
     "celular": "+54 9 3813 534-174",
     "nombre": "",
     "direccion": "Prospero Mena 1500",
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Desde la Libertad 1500 hasta la Av Independencia.\nDesde la Prospero Mena 1500 hasta la Independencia \nMiguel Lillo 1800",
+    "sentimiento": "negativo",
+    "ultimoMensaje": "Basura y esconbros",
     "mensaje": "Buen día",
     "fecha": "2026-07-03T15:33:57.824Z",
-    "ultimaActualizacion": "2026-07-03T15:44:02.159Z",
+    "ultimaActualizacion": "2026-07-03T15:45:06.302Z",
     "historialMensajes": [
       {
         "texto": "Buen día",
@@ -34159,6 +34159,11 @@
         "texto": "Desde la Libertad 1500 hasta la Av Independencia.\nDesde la Prospero Mena 1500 hasta la Independencia \nMiguel Lillo 1800",
         "fecha": "2026-07-03T15:44:02.159Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Basura y esconbros",
+        "fecha": "2026-07-03T15:45:06.302Z",
+        "sentimiento": "negativo"
       }
     ]
   },
