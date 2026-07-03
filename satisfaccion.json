@@ -25273,7 +25273,7 @@
     "celular": "+54 9 3813 346-103",
     "nombre": "",
     "direccion": "barrio Parque",
-    "sentimiento": "negativo",
+    "sentimiento": "neutro",
     "evidencia_clasificacion": [],
     "canal": "WhatsApp Ambiente",
     "fecha": "2026-04-30",
@@ -25283,8 +25283,8 @@
       "Son 3 problemas, no tenemos contenedor en la cuadra para los departamentos de dicha, el camión que no tiene para levantar el contenedor y sacar la basura desbordando, se quitó el contenedor de la cuadra, los indigentes  se pasan todo el día sacando cartones y demás generando basural. Entonces los vecinos no quieren sacar la basura y ya no tenemos donde dejarla.",
       "Buen día, en la Estados Unidos y coronel Suárez, capital, el único contenedor de todo el barrio Parque, bajan camionetas dejando basuras y cajas de todos los tamaños, además de los indigentes quienes escarban el contenedor todo el día están metidos adentro sacando lo que los vehículos de paso dejan. Pongan contenedor en el barrio Parque Estados Unidos 1200 y en el barrio, ya que no hubo donde tirar la basura!!!!!"
     ],
-    "ultimoMensaje": "Buen día, en la Estados Unidos y coronel Suárez, capital, el único contenedor de todo el barrio Parque, bajan camionetas dejando basuras y cajas de todos los tamaños, además de los indigentes quienes escarban el contenedor todo el día están metidos adentro sacando lo que los vehículos de paso dejan. Pongan contenedor en el barrio Parque Estados Unidos 1200 y en el barrio, ya que no hubo donde tirar la basura!!!!!",
-    "ultimaActualizacion": "2026-07-03T16:22:14.642Z",
+    "ultimoMensaje": "Necesitamos dnde dejar la basura en calle Estados Unidos entre lola Mora y Mario bravo. Los únicos que tiene una canasto o alambre para dejar la basura son las casas, los monoblok NO.",
+    "ultimaActualizacion": "2026-07-03T16:22:25.019Z",
     "historialMensajes": [
       {
         "texto": "Buenas tardes necesitas presencia para gestionar donde tirar la basura",
@@ -25295,6 +25295,31 @@
         "texto": "Buen día, en la Estados Unidos y coronel Suárez, capital, el único contenedor de todo el barrio Parque, bajan camionetas dejando basuras y cajas de todos los tamaños, además de los indigentes quienes ",
         "fecha": "2026-07-03T16:22:14.642Z",
         "sentimiento": "negativo"
+      },
+      {
+        "texto": "Son 3 problemas, no tenemos contenedor en la cuadra para los departamentos de dicha, el camión que no tiene para levantar el contenedor y sacar la basura desbordando, se quitó el contenedor de la cuad",
+        "fecha": "2026-07-03T16:22:16.866Z",
+        "sentimiento": "negativo"
+      },
+      {
+        "texto": "Necesitamos dnde dejar la basura en calle Estados Unidos entre lola Mora y Mario bravo. Los únicos que tiene una canasto o alambre para dejar la basura son las casas, los monoblok NO.",
+        "fecha": "2026-07-03T16:22:19.003Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Buen día, en la Estados Unidos y coronel Suárez, capital, el único contenedor de todo el barrio Parque, bajan camionetas dejando basuras y cajas de todos los tamaños, además de los indigentes quienes ",
+        "fecha": "2026-07-03T16:22:21.047Z",
+        "sentimiento": "negativo"
+      },
+      {
+        "texto": "Son 3 problemas, no tenemos contenedor en la cuadra para los departamentos de dicha, el camión que no tiene para levantar el contenedor y sacar la basura desbordando, se quitó el contenedor de la cuad",
+        "fecha": "2026-07-03T16:22:23.057Z",
+        "sentimiento": "negativo"
+      },
+      {
+        "texto": "Necesitamos dnde dejar la basura en calle Estados Unidos entre lola Mora y Mario bravo. Los únicos que tiene una canasto o alambre para dejar la basura son las casas, los monoblok NO.",
+        "fecha": "2026-07-03T16:22:25.019Z",
+        "sentimiento": "neutro"
       }
     ]
   },
@@ -34128,17 +34153,12 @@
     "celular": "+54 9 3813 534-174",
     "nombre": "",
     "direccion": "Prospero Mena 1500",
-    "sentimiento": "negativo",
-    "ultimoMensaje": "Prospero Mena 1500😭",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Si.deben tener cuidado nada mas",
     "mensaje": "Buen día",
     "fecha": "2026-07-03T15:33:57.824Z",
-    "ultimaActualizacion": "2026-07-03T15:49:12.258Z",
+    "ultimaActualizacion": "2026-07-03T16:24:45.908Z",
     "historialMensajes": [
-      {
-        "texto": "No se puede conducir por las calles de la basura acumulada en las esquinas",
-        "fecha": "2026-07-03T15:35:05.786Z",
-        "sentimiento": "negativo"
-      },
       {
         "texto": "Encontrarán escombros también",
         "fecha": "2026-07-03T15:35:43.177Z",
@@ -34183,6 +34203,11 @@
         "texto": "Prospero Mena 1500😭",
         "fecha": "2026-07-03T15:49:12.258Z",
         "sentimiento": "negativo"
+      },
+      {
+        "texto": "Si.deben tener cuidado nada mas",
+        "fecha": "2026-07-03T16:24:45.908Z",
+        "sentimiento": "neutro"
       }
     ]
   },
