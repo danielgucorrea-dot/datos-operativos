@@ -34146,5 +34146,23 @@
         "sentimiento": "negativo"
       }
     ]
+  },
+  {
+    "numero": "60886144299236",
+    "celular": "+54 9 3814 461-809",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Hola",
+    "mensaje": "Hola",
+    "fecha": "2026-07-03T15:39:56.993Z",
+    "ultimaActualizacion": "2026-07-03T15:39:56.993Z",
+    "historialMensajes": [
+      {
+        "texto": "Hola",
+        "fecha": "2026-07-03T15:39:56.993Z",
+        "sentimiento": "neutro"
+      }
+    ]
   }
 ]
