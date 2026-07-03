@@ -43023,6 +43023,40 @@
       "lat": null,
       "lon": null,
       "distrito": null
+    },
+    {
+      "numero": "109049370660909",
+      "celular": "+54 9 3813 190-899",
+      "nombre": "",
+      "direccion": "",
+      "sentimiento": "neutro",
+      "ultimoMensaje": "Buenas tardes, soy Silvana Canseco,  coordinadora de Poiesis centro educativo terapéutico. Me compartieron su contacto para poder agendar un turno para poder visitar el predio de reciclaje de la calle Lamadrid pasando la avenida Adolfo de la Vega",
+      "mensaje": "Buenas tardes, soy Silvana Canseco,  coordinadora de Poiesis centro educativo terapéutico. Me compartieron su contacto para poder agendar un turno para poder visitar el predio de reciclaje de la calle Lamadrid pasando la avenida Adolfo de la Vega",
+      "fecha": "2026-07-03T17:09:57.099Z",
+      "ultimaActualizacion": "2026-07-03T17:11:34.982Z",
+      "historialMensajes": [
+        {
+          "texto": "Buenas tardes, soy Silvana Canseco,  coordinadora de Poiesis centro educativo terapéutico. Me compartieron su contacto para poder agendar un turno para poder visitar el predio de reciclaje de la calle",
+          "fecha": "2026-07-03T17:09:57.099Z",
+          "sentimiento": "neutro"
+        },
+        {
+          "texto": "Buenas tardes, soy Silvana Canseco,  coordinadora de Poiesis centro educativo terapéutico. Me compartieron su contacto para poder agendar un turno para poder visitar el predio de reciclaje de la calle",
+          "fecha": "2026-07-03T17:09:58.953Z",
+          "sentimiento": "neutro"
+        },
+        {
+          "texto": "Buenas tardes, soy Silvana Canseco,  coordinadora de Poiesis centro educativo terapéutico. Me compartieron su contacto para poder agendar un turno para poder visitar el predio de reciclaje de la calle",
+          "fecha": "2026-07-03T17:11:34.982Z",
+          "sentimiento": "neutro"
+        }
+      ],
+      "canal": "WhatsApp Ambiente",
+      "telefono": "+54 9 3813 190-899",
+      "email": "",
+      "lat": null,
+      "lon": null,
+      "distrito": null
     }
   ],
   "pedidos": {
@@ -43039,8 +43073,8 @@
     "derivados": 30
   },
   "canales": {
-    "WhatsApp Ambiente": 1750
+    "WhatsApp Ambiente": 1751
   },
-  "totalVecinos": 1750,
-  "actualizado": "2026-07-03T17:09:47.638Z"
+  "totalVecinos": 1751,
+  "actualizado": "2026-07-03T17:11:36.218Z"
 }
