@@ -42944,6 +42944,21 @@
       "distrito": null
     },
     {
+      "numero": "22832113270855",
+      "celular": "+54 9 3815 759-433",
+      "direccion": "",
+      "sentimiento": "positivo",
+      "mensaje": "Si. Muchas gracias.  Este es para calle Italia 236.",
+      "fecha": "2026-07-03T15:12:22.281Z",
+      "canal": "WhatsApp Ambiente",
+      "nombre": "",
+      "telefono": "+54 9 3815 759-433",
+      "email": "",
+      "lat": null,
+      "lon": null,
+      "distrito": null
+    },
+    {
       "numero": "3814401913",
       "canal": "Aplicación Móvil",
       "nombre": "Olga Patricia  Moyano Herrera ",
@@ -89522,9 +89537,9 @@
   ],
   "pedidos": {
     "bot": 0,
-    "bam": 15,
+    "bam": 16,
     "completados": 0,
-    "pendientes": 15
+    "pendientes": 16
   },
   "reclamos": {
     "total": 3131,
@@ -89534,7 +89549,7 @@
     "derivados": 29
   },
   "canales": {
-    "WhatsApp Ambiente": 1753,
+    "WhatsApp Ambiente": 1754,
     "Aplicación Móvil": 1324,
     "Chat Center (Call Center)": 1423,
     "Whatsapp": 8,
@@ -89543,6 +89558,6 @@
     "Teléfono": 43,
     "Email Oficial": 1
   },
-  "totalVecinos": 4664,
-  "actualizado": "2026-07-03T15:08:56.833Z"
+  "totalVecinos": 4665,
+  "actualizado": "2026-07-03T15:12:23.366Z"
 }
