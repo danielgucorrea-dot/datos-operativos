@@ -42858,11 +42858,11 @@
       "celular": "+54 9 3813 534-174",
       "nombre": "",
       "direccion": "",
-      "sentimiento": "neutro",
-      "ultimoMensaje": "Miguel Lillo y Lavaisse",
+      "sentimiento": "negativo",
+      "ultimoMensaje": "No se puede conducir por las calles de la basura acumulada en las esquinas",
       "mensaje": "Buen día",
       "fecha": "2026-07-03T15:33:57.824Z",
-      "ultimaActualizacion": "2026-07-03T15:34:43.640Z",
+      "ultimaActualizacion": "2026-07-03T15:35:05.786Z",
       "historialMensajes": [
         {
           "texto": "Buen día",
@@ -42873,6 +42873,16 @@
           "texto": "Miguel Lillo y Lavaisse",
           "fecha": "2026-07-03T15:34:43.640Z",
           "sentimiento": "neutro"
+        },
+        {
+          "texto": "Buen dia🤗🤗🤗\nYa colocaron una tapa en la calle Libertad llegando a la Independencia \nPero cada vez más la gente acumula basura en el centrode las calles ,tanto en la calle Libertad cómo en la Prospe",
+          "fecha": "2026-07-03T15:35:04.144Z",
+          "sentimiento": "negativo"
+        },
+        {
+          "texto": "No se puede conducir por las calles de la basura acumulada en las esquinas",
+          "fecha": "2026-07-03T15:35:05.786Z",
+          "sentimiento": "negativo"
         }
       ],
       "canal": "WhatsApp Ambiente",
@@ -89483,5 +89493,5 @@
     "Email Oficial": 1
   },
   "totalVecinos": 4659,
-  "actualizado": "2026-07-03T15:35:04.102Z"
+  "actualizado": "2026-07-03T15:35:42.881Z"
 }

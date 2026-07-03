@@ -34115,10 +34115,10 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "negativo",
-    "ultimoMensaje": "Buen dia🤗🤗🤗\nYa colocaron una tapa en la calle Libertad llegando a la Independencia \nPero cada vez más la gente acumula basura en el centrode las calles ,tanto en la calle Libertad cómo en la Prospero Mena.\nNi que decir en la Lavaisse y Miguel Lillo",
+    "ultimoMensaje": "No se puede conducir por las calles de la basura acumulada en las esquinas",
     "mensaje": "Buen día",
     "fecha": "2026-07-03T15:33:57.824Z",
-    "ultimaActualizacion": "2026-07-03T15:35:04.144Z",
+    "ultimaActualizacion": "2026-07-03T15:35:05.786Z",
     "historialMensajes": [
       {
         "texto": "Buen día",
@@ -34133,6 +34133,11 @@
       {
         "texto": "Buen dia🤗🤗🤗\nYa colocaron una tapa en la calle Libertad llegando a la Independencia \nPero cada vez más la gente acumula basura en el centrode las calles ,tanto en la calle Libertad cómo en la Prospe",
         "fecha": "2026-07-03T15:35:04.144Z",
+        "sentimiento": "negativo"
+      },
+      {
+        "texto": "No se puede conducir por las calles de la basura acumulada en las esquinas",
+        "fecha": "2026-07-03T15:35:05.786Z",
         "sentimiento": "negativo"
       }
     ]
