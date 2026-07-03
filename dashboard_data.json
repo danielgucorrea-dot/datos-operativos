@@ -42983,20 +42983,20 @@
   ],
   "pedidos": {
     "bot": 0,
-    "bam": 6,
+    "bam": 7,
     "completados": 0,
-    "pendientes": 6
+    "pendientes": 7
   },
   "reclamos": {
-    "total": 3131,
+    "total": 3132,
     "iniciados": 9,
     "en_proceso": 1099,
     "finalizados": 1994,
-    "derivados": 29
+    "derivados": 30
   },
   "canales": {
     "WhatsApp Ambiente": 1750
   },
   "totalVecinos": 1750,
-  "actualizado": "2026-07-03T15:57:47.777Z"
+  "actualizado": "2026-07-03T16:01:08.340Z"
 }
