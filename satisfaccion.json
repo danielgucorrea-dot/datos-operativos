@@ -34114,11 +34114,11 @@
     "celular": "+54 9 3813 534-174",
     "nombre": "",
     "direccion": "Prospero Mena 1500",
-    "sentimiento": "negativo",
-    "ultimoMensaje": "Basura y esconbros",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Igual en cada esquina de la calle Libertad",
     "mensaje": "Buen día",
     "fecha": "2026-07-03T15:33:57.824Z",
-    "ultimaActualizacion": "2026-07-03T15:45:06.302Z",
+    "ultimaActualizacion": "2026-07-03T15:46:31.891Z",
     "historialMensajes": [
       {
         "texto": "Buen día",
@@ -34164,6 +34164,11 @@
         "texto": "Basura y esconbros",
         "fecha": "2026-07-03T15:45:06.302Z",
         "sentimiento": "negativo"
+      },
+      {
+        "texto": "Igual en cada esquina de la calle Libertad",
+        "fecha": "2026-07-03T15:46:31.891Z",
+        "sentimiento": "neutro"
       }
     ]
   },
