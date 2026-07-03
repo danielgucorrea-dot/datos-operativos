@@ -42824,6 +42824,21 @@
       "distrito": 10
     },
     {
+      "numero": "112721584455923",
+      "celular": "3815726684",
+      "direccion": "Camaño 837, San Miguel de Tucumán, Tucumán",
+      "sentimiento": "neutro",
+      "mensaje": "Se puede sacar más cosas ?",
+      "fecha": "2026-07-03T15:25:38.244Z",
+      "canal": "WhatsApp Ambiente",
+      "nombre": "MILAGROS  DECIMA",
+      "telefono": "3815726684",
+      "email": "milydecima95@gmail.com",
+      "lat": "-26.84123573377676",
+      "lon": "-65.21297693252563",
+      "distrito": 10
+    },
+    {
       "numero": "3814401913",
       "canal": "Aplicación Móvil",
       "nombre": "Olga Patricia  Moyano Herrera ",
@@ -89414,7 +89429,7 @@
     "derivados": 29
   },
   "canales": {
-    "WhatsApp Ambiente": 1745,
+    "WhatsApp Ambiente": 1746,
     "Aplicación Móvil": 1324,
     "Chat Center (Call Center)": 1423,
     "Whatsapp": 8,
@@ -89423,6 +89438,6 @@
     "Teléfono": 43,
     "Email Oficial": 1
   },
-  "totalVecinos": 4656,
-  "actualizado": "2026-07-03T15:25:31.388Z"
+  "totalVecinos": 4657,
+  "actualizado": "2026-07-03T15:25:39.225Z"
 }
