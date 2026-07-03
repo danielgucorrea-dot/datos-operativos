@@ -42959,6 +42959,36 @@
       "distrito": null
     },
     {
+      "numero": "22832113270855",
+      "celular": "+54 9 3815 759-433",
+      "direccion": "",
+      "sentimiento": "neutro",
+      "mensaje": "Lo solicité para otro domicilio.",
+      "fecha": "2026-07-03T15:18:22.000Z",
+      "canal": "WhatsApp Ambiente",
+      "nombre": "",
+      "telefono": "+54 9 3815 759-433",
+      "email": "",
+      "lat": null,
+      "lon": null,
+      "distrito": null
+    },
+    {
+      "numero": "22832113270855",
+      "celular": "+54 9 3815 759-433",
+      "direccion": "",
+      "sentimiento": "neutro",
+      "mensaje": "Si.",
+      "fecha": "2026-07-03T15:18:54.225Z",
+      "canal": "WhatsApp Ambiente",
+      "nombre": "",
+      "telefono": "+54 9 3815 759-433",
+      "email": "",
+      "lat": null,
+      "lon": null,
+      "distrito": null
+    },
+    {
       "numero": "3814401913",
       "canal": "Aplicación Móvil",
       "nombre": "Olga Patricia  Moyano Herrera ",
@@ -89549,7 +89579,7 @@
     "derivados": 29
   },
   "canales": {
-    "WhatsApp Ambiente": 1754,
+    "WhatsApp Ambiente": 1756,
     "Aplicación Móvil": 1324,
     "Chat Center (Call Center)": 1423,
     "Whatsapp": 8,
@@ -89558,6 +89588,6 @@
     "Teléfono": 43,
     "Email Oficial": 1
   },
-  "totalVecinos": 4665,
-  "actualizado": "2026-07-03T15:18:12.824Z"
+  "totalVecinos": 4667,
+  "actualizado": "2026-07-03T15:18:55.567Z"
 }

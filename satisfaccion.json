@@ -34164,5 +34164,21 @@
     "sentimiento": "positivo",
     "mensaje": "Si. Muchas gracias.  Este es para calle Italia 236.",
     "fecha": "2026-07-03T15:12:22.281Z"
+  },
+  {
+    "numero": "22832113270855",
+    "celular": "+54 9 3815 759-433",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "mensaje": "Lo solicité para otro domicilio.",
+    "fecha": "2026-07-03T15:18:22.000Z"
+  },
+  {
+    "numero": "22832113270855",
+    "celular": "+54 9 3815 759-433",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "mensaje": "Si.",
+    "fecha": "2026-07-03T15:18:54.225Z"
   }
 ]
