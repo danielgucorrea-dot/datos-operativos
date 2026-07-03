@@ -34115,10 +34115,10 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "negativo",
-    "ultimoMensaje": "No se puede conducir por las calles de la basura acumulada en las esquinas",
+    "ultimoMensaje": "Encontrarán escombros también",
     "mensaje": "Buen día",
     "fecha": "2026-07-03T15:33:57.824Z",
-    "ultimaActualizacion": "2026-07-03T15:35:05.786Z",
+    "ultimaActualizacion": "2026-07-03T15:35:43.177Z",
     "historialMensajes": [
       {
         "texto": "Buen día",
@@ -34138,6 +34138,11 @@
       {
         "texto": "No se puede conducir por las calles de la basura acumulada en las esquinas",
         "fecha": "2026-07-03T15:35:05.786Z",
+        "sentimiento": "negativo"
+      },
+      {
+        "texto": "Encontrarán escombros también",
+        "fecha": "2026-07-03T15:35:43.177Z",
         "sentimiento": "negativo"
       }
     ]
