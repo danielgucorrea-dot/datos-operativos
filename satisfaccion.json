@@ -34200,11 +34200,11 @@
     "celular": "+54 9 3816 513-322",
     "nombre": "",
     "direccion": "Barrio Indiana",
-    "sentimiento": "positivo",
-    "ultimoMensaje": "Gcias.",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Pasaje Agustin Masa y Bolivar, Barrio Indiana",
     "mensaje": "Solicito retirar ramas de poda de pasaje Agustin Masa esquina Bolivar - Barrio Indiana. Gcias.",
     "fecha": "2026-07-03T15:56:20.226Z",
-    "ultimaActualizacion": "2026-07-03T15:57:46.798Z",
+    "ultimaActualizacion": "2026-07-03T16:06:51.928Z",
     "historialMensajes": [
       {
         "texto": "Solicito retirar ramas de poda de pasaje Agustin Masa esquina Bolivar - Barrio Indiana. Gcias.",
@@ -34215,6 +34215,11 @@
         "texto": "Gcias.",
         "fecha": "2026-07-03T15:57:46.798Z",
         "sentimiento": "positivo"
+      },
+      {
+        "texto": "Pasaje Agustin Masa y Bolivar, Barrio Indiana",
+        "fecha": "2026-07-03T16:06:51.928Z",
+        "sentimiento": "neutro"
       }
     ]
   }
