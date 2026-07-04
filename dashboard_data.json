@@ -43144,9 +43144,9 @@
   ],
   "pedidos": {
     "bot": 3,
-    "bam": 87,
+    "bam": 5,
     "completados": 0,
-    "pendientes": 90
+    "pendientes": 7
   },
   "reclamos": {
     "total": 3128,
@@ -43159,5 +43159,5 @@
     "WhatsApp Ambiente": 1753
   },
   "totalVecinos": 1753,
-  "actualizado": "2026-07-04T15:30:18.049Z"
+  "actualizado": "2026-07-04T16:00:18.531Z"
 }
