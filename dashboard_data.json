@@ -43110,15 +43110,15 @@
     "pendientes": 13
   },
   "reclamos": {
-    "total": 3132,
+    "total": 3126,
     "iniciados": 9,
     "en_proceso": 1099,
-    "finalizados": 1994,
+    "finalizados": 1988,
     "derivados": 30
   },
   "canales": {
     "WhatsApp Ambiente": 1752
   },
   "totalVecinos": 1752,
-  "actualizado": "2026-07-03T23:30:10.124Z"
+  "actualizado": "2026-07-04T00:00:10.249Z"
 }
