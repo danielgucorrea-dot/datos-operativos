@@ -10741,6 +10741,15 @@
         "Hace 5 días que vengo reclamando",
         "Hola me pasaron este número de la municipalidad para ver cdo pasan a retirar escombro"
       ],
+      "ultimoMensaje": "Hola. Cómo estas",
+      "ultimaActualizacion": "2026-07-04T21:52:56.403Z",
+      "historialMensajes": [
+        {
+          "texto": "Hola. Cómo estas",
+          "fecha": "2026-07-04T21:52:56.403Z",
+          "sentimiento": "neutro"
+        }
+      ],
       "telefono": "3813190694",
       "email": "",
       "lat": "-26.832168",
@@ -43192,5 +43201,5 @@
     "WhatsApp Ambiente": 1754
   },
   "totalVecinos": 1754,
-  "actualizado": "2026-07-04T21:52:47.029Z"
+  "actualizado": "2026-07-04T22:00:21.621Z"
 }

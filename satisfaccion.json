@@ -8709,6 +8709,15 @@
       "Si lo realice por la app",
       "Hace 5 días que vengo reclamando",
       "Hola me pasaron este número de la municipalidad para ver cdo pasan a retirar escombro"
+    ],
+    "ultimoMensaje": "Hola. Cómo estas",
+    "ultimaActualizacion": "2026-07-04T21:52:56.403Z",
+    "historialMensajes": [
+      {
+        "texto": "Hola. Cómo estas",
+        "fecha": "2026-07-04T21:52:56.403Z",
+        "sentimiento": "neutro"
+      }
     ]
   },
   {
