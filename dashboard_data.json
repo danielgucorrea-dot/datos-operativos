@@ -43108,10 +43108,10 @@
       "nombre": "",
       "direccion": "",
       "sentimiento": "neutro",
-      "ultimoMensaje": "Le envio fotos para q vean q el trabajo de cargarlo se hara entre hoy y mañana domingo.",
+      "ultimoMensaje": "El camion no puede entrar por lo blando del terreno....aqui se esta trabajando para dejar el lugar limpio....por q estaba usurpado por varias familias y finalmente se pudo sacar los ocupas con la justicia....un juicio q demoro varios años.",
       "mensaje": "Buen dia....soy el propietario del lote de BALTAZAR AGUIRRE 1059. Como le explique a los inspectores SR DECIMA Y SR MONACO....la idea era sacar el escombro hacia la calle para despues cargar en el contenedor...esto lo tenia q hacer asi por q el camion con el contenedor no puede entrar a la propiedad debido a lo blando del terreno....es por eso q hay q sacar el escombro a carretillas hasta la calle y luego subir al contenedor.\nGracias por la paciencia y disculpen las molestias de poner el escombro en la calle.\nLa mejor predisposicion tengo para hacerlo.....gracias.",
       "fecha": "2026-07-04T12:59:30.901Z",
-      "ultimaActualizacion": "2026-07-04T13:00:23.352Z",
+      "ultimaActualizacion": "2026-07-04T13:03:49.295Z",
       "historialMensajes": [
         {
           "texto": "Buen dia....soy el propietario del lote de BALTAZAR AGUIRRE 1059. Como le explique a los inspectores SR DECIMA Y SR MONACO....la idea era sacar el escombro hacia la calle para despues cargar en el con",
@@ -43121,6 +43121,11 @@
         {
           "texto": "Le envio fotos para q vean q el trabajo de cargarlo se hara entre hoy y mañana domingo.",
           "fecha": "2026-07-04T13:00:23.352Z",
+          "sentimiento": "neutro"
+        },
+        {
+          "texto": "El camion no puede entrar por lo blando del terreno....aqui se esta trabajando para dejar el lugar limpio....por q estaba usurpado por varias familias y finalmente se pudo sacar los ocupas con la just",
+          "fecha": "2026-07-04T13:03:49.295Z",
           "sentimiento": "neutro"
         }
       ],
@@ -43134,9 +43139,9 @@
   ],
   "pedidos": {
     "bot": 3,
-    "bam": 46,
+    "bam": 47,
     "completados": 0,
-    "pendientes": 49
+    "pendientes": 50
   },
   "reclamos": {
     "total": 3128,
@@ -43149,5 +43154,5 @@
     "WhatsApp Ambiente": 1753
   },
   "totalVecinos": 1753,
-  "actualizado": "2026-07-04T13:00:24.205Z"
+  "actualizado": "2026-07-04T13:03:50.256Z"
 }
