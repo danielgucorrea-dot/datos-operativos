@@ -43107,11 +43107,11 @@
       "celular": "+54 9 3813 015-653",
       "nombre": "",
       "direccion": "",
-      "sentimiento": "neutro",
-      "ultimoMensaje": "El camion no puede entrar por lo blando del terreno....aqui se esta trabajando para dejar el lugar limpio....por q estaba usurpado por varias familias y finalmente se pudo sacar los ocupas con la justicia....un juicio q demoro varios años.",
+      "sentimiento": "negativo",
+      "ultimoMensaje": "Aprovecho para contarles q este lugar es un vaciadero de basura y nadie viene a controlar ni poner multas a los q tiran basura.....",
       "mensaje": "Buen dia....soy el propietario del lote de BALTAZAR AGUIRRE 1059. Como le explique a los inspectores SR DECIMA Y SR MONACO....la idea era sacar el escombro hacia la calle para despues cargar en el contenedor...esto lo tenia q hacer asi por q el camion con el contenedor no puede entrar a la propiedad debido a lo blando del terreno....es por eso q hay q sacar el escombro a carretillas hasta la calle y luego subir al contenedor.\nGracias por la paciencia y disculpen las molestias de poner el escombro en la calle.\nLa mejor predisposicion tengo para hacerlo.....gracias.",
       "fecha": "2026-07-04T12:59:30.901Z",
-      "ultimaActualizacion": "2026-07-04T13:03:49.295Z",
+      "ultimaActualizacion": "2026-07-04T13:17:59.406Z",
       "historialMensajes": [
         {
           "texto": "Buen dia....soy el propietario del lote de BALTAZAR AGUIRRE 1059. Como le explique a los inspectores SR DECIMA Y SR MONACO....la idea era sacar el escombro hacia la calle para despues cargar en el con",
@@ -43127,6 +43127,11 @@
           "texto": "El camion no puede entrar por lo blando del terreno....aqui se esta trabajando para dejar el lugar limpio....por q estaba usurpado por varias familias y finalmente se pudo sacar los ocupas con la just",
           "fecha": "2026-07-04T13:03:49.295Z",
           "sentimiento": "neutro"
+        },
+        {
+          "texto": "Aprovecho para contarles q este lugar es un vaciadero de basura y nadie viene a controlar ni poner multas a los q tiran basura.....",
+          "fecha": "2026-07-04T13:17:59.406Z",
+          "sentimiento": "negativo"
         }
       ],
       "canal": "WhatsApp Ambiente",
@@ -43139,9 +43144,9 @@
   ],
   "pedidos": {
     "bot": 3,
-    "bam": 52,
+    "bam": 56,
     "completados": 0,
-    "pendientes": 55
+    "pendientes": 59
   },
   "reclamos": {
     "total": 3128,
@@ -43154,5 +43159,5 @@
     "WhatsApp Ambiente": 1753
   },
   "totalVecinos": 1753,
-  "actualizado": "2026-07-04T13:17:50.011Z"
+  "actualizado": "2026-07-04T13:30:17.144Z"
 }
