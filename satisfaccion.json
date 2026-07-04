@@ -34369,5 +34369,23 @@
         "sentimiento": "negativo"
       }
     ]
+  },
+  {
+    "numero": "144555831754876",
+    "celular": "+54 9 3816 030-495",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Hola!",
+    "mensaje": "Hola!",
+    "fecha": "2026-07-04T20:15:16.267Z",
+    "ultimaActualizacion": "2026-07-04T20:15:16.267Z",
+    "historialMensajes": [
+      {
+        "texto": "Hola!",
+        "fecha": "2026-07-04T20:15:16.267Z",
+        "sentimiento": "neutro"
+      }
+    ]
   }
 ]

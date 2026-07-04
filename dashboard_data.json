@@ -43149,6 +43149,30 @@
       "lat": null,
       "lon": null,
       "distrito": null
+    },
+    {
+      "numero": "144555831754876",
+      "celular": "+54 9 3816 030-495",
+      "nombre": "",
+      "direccion": "",
+      "sentimiento": "neutro",
+      "ultimoMensaje": "Hola!",
+      "mensaje": "Hola!",
+      "fecha": "2026-07-04T20:15:16.267Z",
+      "ultimaActualizacion": "2026-07-04T20:15:16.267Z",
+      "historialMensajes": [
+        {
+          "texto": "Hola!",
+          "fecha": "2026-07-04T20:15:16.267Z",
+          "sentimiento": "neutro"
+        }
+      ],
+      "canal": "WhatsApp Ambiente",
+      "telefono": "+54 9 3816 030-495",
+      "email": "",
+      "lat": null,
+      "lon": null,
+      "distrito": null
     }
   ],
   "pedidos": {
@@ -43165,8 +43189,8 @@
     "derivados": 30
   },
   "canales": {
-    "WhatsApp Ambiente": 1753
+    "WhatsApp Ambiente": 1754
   },
-  "totalVecinos": 1753,
-  "actualizado": "2026-07-04T20:15:06.917Z"
+  "totalVecinos": 1754,
+  "actualizado": "2026-07-04T20:30:20.588Z"
 }
