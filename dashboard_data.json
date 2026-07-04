@@ -43110,8 +43110,8 @@
     "pendientes": 13
   },
   "reclamos": {
-    "total": 3127,
-    "iniciados": 10,
+    "total": 3128,
+    "iniciados": 11,
     "en_proceso": 1099,
     "finalizados": 1988,
     "derivados": 30
@@ -43120,5 +43120,5 @@
     "WhatsApp Ambiente": 1752
   },
   "totalVecinos": 1752,
-  "actualizado": "2026-07-04T03:30:12.042Z"
+  "actualizado": "2026-07-04T04:00:12.316Z"
 }
