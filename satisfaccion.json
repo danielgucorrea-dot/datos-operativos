@@ -28885,6 +28885,15 @@
       "Seria para descacharreo",
       "Para pedir un contenedor",
       "Hola buenas"
+    ],
+    "ultimoMensaje": "Ya lo saque afuera avíseme cuando esté viniendo",
+    "ultimaActualizacion": "2026-07-04T17:54:25.906Z",
+    "historialMensajes": [
+      {
+        "texto": "Ya lo saque afuera avíseme cuando esté viniendo",
+        "fecha": "2026-07-04T17:54:25.906Z",
+        "sentimiento": "neutro"
+      }
     ]
   },
   {

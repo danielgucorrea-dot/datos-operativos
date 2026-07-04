@@ -36187,6 +36187,15 @@
         "Para pedir un contenedor",
         "Hola buenas"
       ],
+      "ultimoMensaje": "Ya lo saque afuera avíseme cuando esté viniendo",
+      "ultimaActualizacion": "2026-07-04T17:54:25.906Z",
+      "historialMensajes": [
+        {
+          "texto": "Ya lo saque afuera avíseme cuando esté viniendo",
+          "fecha": "2026-07-04T17:54:25.906Z",
+          "sentimiento": "neutro"
+        }
+      ],
       "telefono": "3815726684",
       "email": "milydecima95@gmail.com",
       "lat": "-26.84123573377676",
@@ -43159,5 +43168,5 @@
     "WhatsApp Ambiente": 1753
   },
   "totalVecinos": 1753,
-  "actualizado": "2026-07-04T17:54:14.678Z"
+  "actualizado": "2026-07-04T18:00:19.331Z"
 }
