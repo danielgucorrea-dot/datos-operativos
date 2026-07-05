@@ -43185,21 +43185,21 @@
     }
   ],
   "pedidos": {
-    "bot": 3,
+    "bot": 2,
     "bam": 6,
     "completados": 0,
     "pendientes": 8
   },
   "reclamos": {
-    "total": 3129,
+    "total": 3114,
     "iniciados": 12,
     "en_proceso": 1099,
-    "finalizados": 1988,
+    "finalizados": 1973,
     "derivados": 30
   },
   "canales": {
     "WhatsApp Ambiente": 1754
   },
   "totalVecinos": 1754,
-  "actualizado": "2026-07-04T23:30:22.183Z"
+  "actualizado": "2026-07-05T00:00:22.429Z"
 }
