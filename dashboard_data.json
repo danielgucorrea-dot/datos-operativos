@@ -43191,8 +43191,8 @@
     "pendientes": 8
   },
   "reclamos": {
-    "total": 3114,
-    "iniciados": 12,
+    "total": 3115,
+    "iniciados": 13,
     "en_proceso": 1099,
     "finalizados": 1973,
     "derivados": 30
@@ -43201,5 +43201,5 @@
     "WhatsApp Ambiente": 1754
   },
   "totalVecinos": 1754,
-  "actualizado": "2026-07-05T01:00:22.892Z"
+  "actualizado": "2026-07-05T01:30:23.205Z"
 }
