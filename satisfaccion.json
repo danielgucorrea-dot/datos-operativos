@@ -12311,8 +12311,8 @@
       "Quería hacer un reclamo sobre un basural",
       "Hola buen día"
     ],
-    "ultimaActualizacion": "2026-07-06T15:15:50.973Z",
-    "ultimoMensaje": "Y encima rompen las bolsas",
+    "ultimaActualizacion": "2026-07-06T15:16:00.139Z",
+    "ultimoMensaje": "Esta todo los días lleno de basura en el piso",
     "historialMensajes": [
       {
         "texto": "Hola buen dia",
@@ -12337,6 +12337,11 @@
       {
         "texto": "Y encima rompen las bolsas",
         "fecha": "2026-07-06T15:15:50.973Z",
+        "sentimiento": "negativo"
+      },
+      {
+        "texto": "Esta todo los días lleno de basura en el piso",
+        "fecha": "2026-07-06T15:16:00.139Z",
         "sentimiento": "negativo"
       }
     ]
