@@ -138,36 +138,16 @@
     "celular": "+54 9 3816 030-495",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "positivo",
-    "ultimoMensaje": "gracias",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Hola!",
     "mensaje": "Hola!",
     "fecha": "2026-07-04T20:15:16.267Z",
-    "ultimaActualizacion": "2026-07-06T12:29:22.727Z",
+    "ultimaActualizacion": "2026-07-04T20:15:16.267Z",
     "historialMensajes": [
       {
         "texto": "Hola!",
         "fecha": "2026-07-04T20:15:16.267Z",
         "sentimiento": "neutro"
-      },
-      {
-        "texto": "Hola! Buen dia!",
-        "fecha": "2026-07-06T12:24:52.014Z",
-        "sentimiento": "neutro"
-      },
-      {
-        "texto": "queria consultar, con quien me tengo que comunicar para que retiren un colchon de mi domicilio que esta para tirar",
-        "fecha": "2026-07-06T12:25:05.775Z",
-        "sentimiento": "neutro"
-      },
-      {
-        "texto": "bien",
-        "fecha": "2026-07-06T12:29:18.276Z",
-        "sentimiento": "positivo"
-      },
-      {
-        "texto": "gracias",
-        "fecha": "2026-07-06T12:29:22.727Z",
-        "sentimiento": "positivo"
       }
     ]
   },
@@ -241,10 +221,10 @@
     "nombre": "",
     "direccion": "Florida 80",
     "sentimiento": "neutro",
-    "ultimoMensaje": "hola buenos días , lo conuslto",
+    "ultimoMensaje": "Pasaje popeye 3000",
     "mensaje": "Hola",
     "fecha": "2026-07-03T22:54:06.388Z",
-    "ultimaActualizacion": "2026-07-06T12:24:55.594Z",
+    "ultimaActualizacion": "2026-07-03T23:01:30.429Z",
     "historialMensajes": [
       {
         "texto": "Hola",
@@ -269,11 +249,6 @@
       {
         "texto": "Pasaje popeye 3000",
         "fecha": "2026-07-03T23:01:30.429Z",
-        "sentimiento": "neutro"
-      },
-      {
-        "texto": "hola buenos días , lo conuslto",
-        "fecha": "2026-07-06T12:24:55.594Z",
         "sentimiento": "neutro"
       }
     ]
@@ -446,42 +421,6 @@
         "sentimiento": "neutro"
       }
     ]
-  },
-  {
-    "numero": "112721584455923",
-    "celular": "+54 9 3815 726-684",
-    "direccion": null,
-    "sentimiento": "neutro",
-    "mensaje": "Okis gracias",
-    "fecha": "2026-07-03T15:26:55.848Z",
-    "ultimaActualizacion": "2026-07-03T15:26:55.848Z"
-  },
-  {
-    "numero": "112721584455923",
-    "celular": "+54 9 3815 726-684",
-    "direccion": null,
-    "sentimiento": "neutro",
-    "mensaje": "Se puede sacar más cosas ?",
-    "fecha": "2026-07-03T15:25:38.244Z",
-    "ultimaActualizacion": "2026-07-03T15:25:38.244Z"
-  },
-  {
-    "numero": "112721584455923",
-    "celular": "+54 9 3815 726-684",
-    "direccion": null,
-    "sentimiento": "neutro",
-    "mensaje": "Okis",
-    "fecha": "2026-07-03T15:25:30.262Z",
-    "ultimaActualizacion": "2026-07-03T15:25:30.262Z"
-  },
-  {
-    "numero": "22832113270855",
-    "celular": "+54 9 3815 759-433",
-    "direccion": null,
-    "sentimiento": "neutro",
-    "mensaje": "Ok.👍👍",
-    "fecha": "2026-07-03T15:24:20.810Z",
-    "ultimaActualizacion": "2026-07-03T15:24:20.810Z"
   },
   {
     "numero": "190610749296853",
@@ -1666,6 +1605,26 @@
     "ultimaActualizacion": "2026-06-27"
   },
   {
+    "numero": "22832113270855",
+    "celular": "+54 9 3815 759-433",
+    "nombre": "",
+    "direccion": "Av Avellaneda 879",
+    "sentimiento": "neutro",
+    "evidencia_clasificacion": [],
+    "canal": "WhatsApp Ambiente",
+    "fecha": "2026-06-26",
+    "mensaje": "Hola! Buenas tardes! Tenemos unas bolsas de escombro para descartar.",
+    "conversacion_completa": [
+      "Ok. Muchas gracias.",
+      "Av Avellaneda 879",
+      "7 bolsa",
+      "Hola! Buenas tardes! Tenemos unas bolsas de escombro para descartar.",
+      "Hola! Buenos días! Tenemos unos sillones para descartar."
+    ],
+    "ultimaActualizacion": "2026-06-26",
+    "historialMensajes": []
+  },
+  {
     "numero": "216767150444575",
     "celular": "+54 9 3816 515-556",
     "nombre": "",
@@ -1965,25 +1924,6 @@
       "Hola buen dia ok",
       "Pasaje Irigoyen 884 capital, entre Av Sarmiento y calle Santa Fe",
       "Buenas Tardes me comunico con ustedes para retirar escombros.\nPasaje Irigoyen 884 , entre Av sarmiento y calle Santa Fe , capital.\nEnvio foto.\nMuchas Gcias"
-    ],
-    "ultimaActualizacion": "2026-06-26"
-  },
-  {
-    "numero": "22832113270855",
-    "celular": "+54 9 3815 759-433",
-    "nombre": "",
-    "direccion": "Av Avellaneda 879",
-    "sentimiento": "neutro",
-    "evidencia_clasificacion": [],
-    "canal": "WhatsApp Ambiente",
-    "fecha": "2026-06-26",
-    "mensaje": "Hola! Buenas tardes! Tenemos unas bolsas de escombro para descartar.",
-    "conversacion_completa": [
-      "Ok. Muchas gracias.",
-      "Av Avellaneda 879",
-      "7 bolsa",
-      "Hola! Buenas tardes! Tenemos unas bolsas de escombro para descartar.",
-      "Hola! Buenos días! Tenemos unos sillones para descartar."
     ],
     "ultimaActualizacion": "2026-06-26"
   },

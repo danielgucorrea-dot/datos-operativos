@@ -400,17 +400,19 @@ function descargarLista() {
   const sat = (datos.satisfaccion || []).filter(s => s.celular && s.celular.trim())
   const ahora = new Date()
   const lista = dias === 0 ? sat : sat.filter(s => {
-    if (!s.fecha) return false
-    return (ahora - new Date(s.fecha)) / (1000*60*60*24) <= dias
+    const fechaRef = s.ultimaActualizacion || s.fecha
+    if (!fechaRef) return false
+    return (ahora - new Date(fechaRef)) / (1000*60*60*24) <= dias
   })
 
-  const header = 'celular,nombre,direccion,sentimiento,fecha\n'
+  const header = 'celular,nombre,direccion,sentimiento,fecha,ultima_actualizacion\n'
   const rows = lista.map(s => [
     s.celular || '',
     (s.nombre || '').replace(/,/g,' '),
     (s.direccion || '').replace(/,/g,' ').replace(/\n/g,' '),
     s.sentimiento || '',
-    (s.fecha || '').slice(0,10)
+    (s.fecha || '').slice(0,10),
+    (s.ultimaActualizacion || s.fecha || '').slice(0,10)
   ].join(',')).join('\n')
 
   const blob = new Blob(['\uFEFF' + header + rows], {type:'text/csv;charset=utf-8'})
