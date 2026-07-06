@@ -38711,10 +38711,10 @@
     "nombre": "",
     "direccion": "Merced 244",
     "sentimiento": "neutro",
-    "ultimoMensaje": "virgen de la Merced 244.",
+    "ultimoMensaje": "puedo sacar de dos en dos  cada noche, o todo el mismo día?",
     "mensaje": "buen día quisiera sacar bolsas. de. escombros de mi domicilio, se puede?",
     "fecha": "2026-07-06T17:36:39.642Z",
-    "ultimaActualizacion": "2026-07-06T17:37:25.378Z",
+    "ultimaActualizacion": "2026-07-06T17:39:20.219Z",
     "historialMensajes": [
       {
         "texto": "buen día quisiera sacar bolsas. de. escombros de mi domicilio, se puede?",
@@ -38730,6 +38730,29 @@
         "texto": "virgen de la Merced 244.",
         "fecha": "2026-07-06T17:37:25.378Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "puedo sacar de dos en dos  cada noche, o todo el mismo día?",
+        "fecha": "2026-07-06T17:39:20.219Z",
+        "sentimiento": "neutro"
+      }
+    ]
+  },
+  {
+    "numero": "144555831754876",
+    "celular": "+54 9 3816 030-495",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Buenas tardes, este es el colchón que necesitaría que retiren",
+    "mensaje": "Buenas tardes, este es el colchón que necesitaría que retiren",
+    "fecha": "2026-07-06T17:37:28.869Z",
+    "ultimaActualizacion": "2026-07-06T17:37:28.869Z",
+    "historialMensajes": [
+      {
+        "texto": "Buenas tardes, este es el colchón que necesitaría que retiren",
+        "fecha": "2026-07-06T17:37:28.869Z",
+        "sentimiento": "positivo"
       }
     ]
   }
