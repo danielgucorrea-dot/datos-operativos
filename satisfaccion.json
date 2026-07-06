@@ -13702,7 +13702,15 @@
       "Buenos días perfecto",
       "Buenos días mi vecina de pje primera junta 1090 dejando su basura en la esquina de La Plata y pje primera junta"
     ],
-    "ultimaActualizacion": "2026-06-08"
+    "ultimaActualizacion": "2026-07-06T16:53:16.181Z",
+    "ultimoMensaje": "Buenas tardes",
+    "historialMensajes": [
+      {
+        "texto": "Buenas tardes",
+        "fecha": "2026-07-06T16:53:16.181Z",
+        "sentimiento": "neutro"
+      }
+    ]
   },
   {
     "numero": "226748671225860",
