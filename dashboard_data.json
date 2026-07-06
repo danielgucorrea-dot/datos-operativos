@@ -521,7 +521,15 @@
         "Quiero solicitar mi retiro de residuos no habituales",
         "Hola!"
       ],
-      "ultimaActualizacion": "2026-07-01",
+      "ultimaActualizacion": "2026-07-06T13:36:14.860Z",
+      "ultimoMensaje": "Neumáticos",
+      "historialMensajes": [
+        {
+          "texto": "Neumáticos",
+          "fecha": "2026-07-06T13:36:14.860Z",
+          "sentimiento": "neutro"
+        }
+      ],
       "telefono": "+54 9 3814 175-742",
       "email": "",
       "lat": null,
@@ -47415,6 +47423,30 @@
       "lat": null,
       "lon": null,
       "distrito": null
+    },
+    {
+      "numero": "262315647697148",
+      "celular": "+54 9 3812 081-709",
+      "nombre": "",
+      "direccion": "",
+      "sentimiento": "neutro",
+      "ultimoMensaje": "Pedile ubicación por favor",
+      "mensaje": "Pedile ubicación por favor",
+      "fecha": "2026-07-06T13:35:01.419Z",
+      "ultimaActualizacion": "2026-07-06T13:35:01.419Z",
+      "historialMensajes": [
+        {
+          "texto": "Pedile ubicación por favor",
+          "fecha": "2026-07-06T13:35:01.419Z",
+          "sentimiento": "neutro"
+        }
+      ],
+      "canal": "WhatsApp Ambiente",
+      "telefono": "+54 9 3812 081-709",
+      "email": "",
+      "lat": null,
+      "lon": null,
+      "distrito": null
     }
   ],
   "pedidos": {
@@ -47431,8 +47463,8 @@
     "derivados": 31
   },
   "canales": {
-    "WhatsApp Ambiente": 1854
+    "WhatsApp Ambiente": 1855
   },
-  "totalVecinos": 1854,
-  "actualizado": "2026-07-06T13:34:53.646Z"
+  "totalVecinos": 1855,
+  "actualizado": "2026-07-06T13:36:15.565Z"
 }

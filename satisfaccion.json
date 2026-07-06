@@ -411,7 +411,7 @@
   },
   {
     "numero": "192401784209648",
-    "celular": "",
+    "celular": "+54 9 3814 175-742",
     "nombre": "",
     "direccion": "",
     "sentimiento": "neutro",
@@ -423,7 +423,15 @@
       "Quiero solicitar mi retiro de residuos no habituales",
       "Hola!"
     ],
-    "ultimaActualizacion": "2026-07-01"
+    "ultimaActualizacion": "2026-07-06T13:36:14.860Z",
+    "ultimoMensaje": "Neumáticos",
+    "historialMensajes": [
+      {
+        "texto": "Neumáticos",
+        "fecha": "2026-07-06T13:36:14.860Z",
+        "sentimiento": "neutro"
+      }
+    ]
   },
   {
     "numero": "127912816689156",
@@ -38175,6 +38183,24 @@
         "texto": "Gracias!",
         "fecha": "2026-07-06T13:29:04.392Z",
         "sentimiento": "positivo"
+      }
+    ]
+  },
+  {
+    "numero": "262315647697148",
+    "celular": "+54 9 3812 081-709",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Pedile ubicación por favor",
+    "mensaje": "Pedile ubicación por favor",
+    "fecha": "2026-07-06T13:35:01.419Z",
+    "ultimaActualizacion": "2026-07-06T13:35:01.419Z",
+    "historialMensajes": [
+      {
+        "texto": "Pedile ubicación por favor",
+        "fecha": "2026-07-06T13:35:01.419Z",
+        "sentimiento": "neutro"
       }
     ]
   }
