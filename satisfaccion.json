@@ -18473,8 +18473,8 @@
       "Genial. Ahí le aviso. Marque sin querer",
       "Le pase tu número a una vecina que necesita  que le retiren residuos"
     ],
-    "ultimaActualizacion": "2026-07-06T14:58:31.434Z",
-    "ultimoMensaje": "Me lo podrían pasar x favor?",
+    "ultimaActualizacion": "2026-07-06T14:59:47.584Z",
+    "ultimoMensaje": "Lo tienen que generar ustedes",
     "historialMensajes": [
       {
         "texto": "Buenas",
@@ -18494,6 +18494,11 @@
       {
         "texto": "Me lo podrían pasar x favor?",
         "fecha": "2026-07-06T14:58:31.434Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Lo tienen que generar ustedes",
+        "fecha": "2026-07-06T14:59:47.584Z",
         "sentimiento": "neutro"
       }
     ]
