@@ -38433,16 +38433,21 @@
     "celular": "+54 9 3812 081-709",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Ya esta informado.",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Están pavimentando lo tendrían que hacer pie , lo agregamos a la orden de servicio",
     "mensaje": "Ya esta informado.",
     "fecha": "2026-07-06T14:37:45.762Z",
-    "ultimaActualizacion": "2026-07-06T14:37:45.762Z",
+    "ultimaActualizacion": "2026-07-06T14:56:51.140Z",
     "historialMensajes": [
       {
         "texto": "Ya esta informado.",
         "fecha": "2026-07-06T14:37:45.762Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Están pavimentando lo tendrían que hacer pie , lo agregamos a la orden de servicio",
+        "fecha": "2026-07-06T14:56:51.140Z",
+        "sentimiento": "positivo"
       }
     ]
   }
