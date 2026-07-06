@@ -12285,7 +12285,7 @@
     "celular": "+54 9 3815 572-832",
     "nombre": "",
     "direccion": "Barrio alejandro heredia",
-    "sentimiento": "neutro",
+    "sentimiento": "negativo",
     "evidencia_clasificacion": [],
     "canal": "WhatsApp Ambiente",
     "fecha": "2026-06-09",
@@ -12311,8 +12311,8 @@
       "Quería hacer un reclamo sobre un basural",
       "Hola buen día"
     ],
-    "ultimaActualizacion": "2026-07-06T15:19:42.559Z",
-    "ultimoMensaje": "9 de julio al 3850",
+    "ultimaActualizacion": "2026-07-06T15:20:03.528Z",
+    "ultimoMensaje": "Pusieron los canastos pero lo mismo todos los días rompen las bolsas",
     "historialMensajes": [
       {
         "texto": "Hola buen dia",
@@ -12353,6 +12353,11 @@
         "texto": "9 de julio al 3850",
         "fecha": "2026-07-06T15:19:42.559Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Pusieron los canastos pero lo mismo todos los días rompen las bolsas",
+        "fecha": "2026-07-06T15:20:03.528Z",
+        "sentimiento": "negativo"
       }
     ]
   },
