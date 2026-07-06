@@ -43240,6 +43240,30 @@
       "lat": null,
       "lon": null,
       "distrito": null
+    },
+    {
+      "numero": "188398757244952",
+      "celular": "+54 9 3813 923-913",
+      "nombre": "",
+      "direccion": "",
+      "sentimiento": "neutro",
+      "ultimoMensaje": "Hola buen dia",
+      "mensaje": "Hola buen dia",
+      "fecha": "2026-07-06T12:03:30.555Z",
+      "ultimaActualizacion": "2026-07-06T12:03:30.555Z",
+      "historialMensajes": [
+        {
+          "texto": "Hola buen dia",
+          "fecha": "2026-07-06T12:03:30.555Z",
+          "sentimiento": "neutro"
+        }
+      ],
+      "canal": "WhatsApp Ambiente",
+      "telefono": "+54 9 3813 923-913",
+      "email": "",
+      "lat": null,
+      "lon": null,
+      "distrito": null
     }
   ],
   "pedidos": {
@@ -43256,8 +43280,8 @@
     "derivados": 31
   },
   "canales": {
-    "WhatsApp Ambiente": 1756
+    "WhatsApp Ambiente": 1757
   },
-  "totalVecinos": 1756,
-  "actualizado": "2026-07-06T12:01:39.940Z"
+  "totalVecinos": 1757,
+  "actualizado": "2026-07-06T12:03:31.692Z"
 }

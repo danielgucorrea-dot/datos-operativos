@@ -34442,5 +34442,23 @@
         "sentimiento": "negativo"
       }
     ]
+  },
+  {
+    "numero": "188398757244952",
+    "celular": "+54 9 3813 923-913",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Hola buen dia",
+    "mensaje": "Hola buen dia",
+    "fecha": "2026-07-06T12:03:30.555Z",
+    "ultimaActualizacion": "2026-07-06T12:03:30.555Z",
+    "historialMensajes": [
+      {
+        "texto": "Hola buen dia",
+        "fecha": "2026-07-06T12:03:30.555Z",
+        "sentimiento": "neutro"
+      }
+    ]
   }
 ]
