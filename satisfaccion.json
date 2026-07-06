@@ -41,10 +41,10 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "neutro",
-    "ultimoMensaje": "Para saber si pueden retirar",
+    "ultimoMensaje": "Son 10 bolsas",
     "mensaje": "Hola",
     "fecha": "2026-07-06T11:59:04.630Z",
-    "ultimaActualizacion": "2026-07-06T13:07:09.185Z",
+    "ultimaActualizacion": "2026-07-06T13:07:41.146Z",
     "historialMensajes": [
       {
         "texto": "Hola",
@@ -64,6 +64,11 @@
       {
         "texto": "Para saber si pueden retirar",
         "fecha": "2026-07-06T13:07:09.185Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Son 10 bolsas",
+        "fecha": "2026-07-06T13:07:41.146Z",
         "sentimiento": "neutro"
       }
     ]
