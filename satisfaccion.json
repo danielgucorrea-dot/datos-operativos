@@ -38308,11 +38308,11 @@
     "celular": "+54 9 3815 756-006",
     "nombre": "",
     "direccion": "Peru 3350",
-    "sentimiento": "neutro",
-    "ultimoMensaje": "La dirección es Peru 3350",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Les rogaría que lo pudieran retirar , para no tener que dejar que los carros que pasan lo lleven y hagan basurales x ahí",
     "mensaje": "Buen día",
     "fecha": "2026-07-06T14:17:53.853Z",
-    "ultimaActualizacion": "2026-07-06T14:20:13.183Z",
+    "ultimaActualizacion": "2026-07-06T14:21:49.465Z",
     "historialMensajes": [
       {
         "texto": "Buen día",
@@ -38328,6 +38328,11 @@
         "texto": "La dirección es Peru 3350",
         "fecha": "2026-07-06T14:20:13.183Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Les rogaría que lo pudieran retirar , para no tener que dejar que los carros que pasan lo lleven y hagan basurales x ahí",
+        "fecha": "2026-07-06T14:21:49.465Z",
+        "sentimiento": "positivo"
       }
     ]
   }
