@@ -38270,16 +38270,21 @@
     "celular": "+54 9 3816 541-122",
     "nombre": "",
     "direccion": "Avda Siria 1558",
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Es a la par de mi casa. Avda Siria 1558",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Las bolsas están en el garage del auto,hasta que me informen Uds",
     "mensaje": "Es a la par de mi casa. Avda Siria 1558",
     "fecha": "2026-07-06T14:12:58.867Z",
-    "ultimaActualizacion": "2026-07-06T14:12:58.867Z",
+    "ultimaActualizacion": "2026-07-06T14:14:07.390Z",
     "historialMensajes": [
       {
         "texto": "Es a la par de mi casa. Avda Siria 1558",
         "fecha": "2026-07-06T14:12:58.867Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Las bolsas están en el garage del auto,hasta que me informen Uds",
+        "fecha": "2026-07-06T14:14:07.390Z",
+        "sentimiento": "positivo"
       }
     ]
   }
