@@ -29,11 +29,11 @@
       "celular": "+54 9 3812 077-677",
       "nombre": "",
       "direccion": "calle Santiago al 3000",
-      "sentimiento": "positivo",
-      "ultimoMensaje": "Muchísimas Gracias",
+      "sentimiento": "neutro",
+      "ultimoMensaje": "Quiero aclarar que el recolector siempre pasa, solo que no puede ingresar al pasaje x ser cerrado y angosto. Por eso las familias salimos hasta calle Santiago y dejamos ahí los residuos.",
       "mensaje": "Buenos días. Mi nombre es Pablo Bustos, soy vecino de calle Santiago al 3000. A esa altura está el Pje. Juan Luis Nougues, hay 15 familia, dónde el camión recolector no ingresa ya que es un paje cerrado. Antes había un cesto grande Pero de años y ya no sirve . Y las familias salimos hasta la calle Santiago y dejábamos ahí la bolsas de residuos.",
       "fecha": "2026-07-06T12:01:39.105Z",
-      "ultimaActualizacion": "2026-07-06T13:11:30.619Z",
+      "ultimaActualizacion": "2026-07-06T13:12:41.330Z",
       "historialMensajes": [
         {
           "texto": "Buenos días. Mi nombre es Pablo Bustos, soy vecino de calle Santiago al 3000. A esa altura está el Pje. Juan Luis Nougues, hay 15 familia, dónde el camión recolector no ingresa ya que es un paje cerra",
@@ -44,6 +44,11 @@
           "texto": "Muchísimas Gracias",
           "fecha": "2026-07-06T13:11:30.619Z",
           "sentimiento": "positivo"
+        },
+        {
+          "texto": "Quiero aclarar que el recolector siempre pasa, solo que no puede ingresar al pasaje x ser cerrado y angosto. Por eso las familias salimos hasta calle Santiago y dejamos ahí los residuos.",
+          "fecha": "2026-07-06T13:12:41.330Z",
+          "sentimiento": "neutro"
         }
       ],
       "canal": "WhatsApp Ambiente",
@@ -45018,5 +45023,5 @@
     "WhatsApp Ambiente": 1754
   },
   "totalVecinos": 1754,
-  "actualizado": "2026-07-06T13:11:31.585Z"
+  "actualizado": "2026-07-06T13:12:41.738Z"
 }
