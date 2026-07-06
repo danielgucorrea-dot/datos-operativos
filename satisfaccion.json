@@ -38297,12 +38297,12 @@
     "numero": "211449980965027",
     "celular": "+54 9 3815 756-006",
     "nombre": "",
-    "direccion": null,
-    "sentimiento": "negativo",
-    "ultimoMensaje": "Son unas ramas de una poda chica y hace una semana pedí a la empresa 9 de julio su recolección y todavía no lo hacen",
+    "direccion": "Peru 3350",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "La dirección es Peru 3350",
     "mensaje": "Buen día",
     "fecha": "2026-07-06T14:17:53.853Z",
-    "ultimaActualizacion": "2026-07-06T14:20:01.920Z",
+    "ultimaActualizacion": "2026-07-06T14:20:13.183Z",
     "historialMensajes": [
       {
         "texto": "Buen día",
@@ -38313,6 +38313,11 @@
         "texto": "Son unas ramas de una poda chica y hace una semana pedí a la empresa 9 de julio su recolección y todavía no lo hacen",
         "fecha": "2026-07-06T14:20:01.920Z",
         "sentimiento": "negativo"
+      },
+      {
+        "texto": "La dirección es Peru 3350",
+        "fecha": "2026-07-06T14:20:13.183Z",
+        "sentimiento": "neutro"
       }
     ]
   }
