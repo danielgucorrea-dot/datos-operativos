@@ -47362,6 +47362,30 @@
       "lat": null,
       "lon": null,
       "distrito": null
+    },
+    {
+      "numero": "136842137579702",
+      "celular": "3815012912",
+      "nombre": "Mónica  Fasolo ",
+      "direccion": "Buenos Aires 2500, San Miguel de Tucumán, Tucumán",
+      "sentimiento": "positivo",
+      "ultimoMensaje": "La foto corresponde al día sábado cuando el barrendero dejó la bolsa",
+      "mensaje": "La foto corresponde al día sábado cuando el barrendero dejó la bolsa",
+      "fecha": "2026-07-06T13:15:51.358Z",
+      "ultimaActualizacion": "2026-07-06T13:15:51.358Z",
+      "historialMensajes": [
+        {
+          "texto": "La foto corresponde al día sábado cuando el barrendero dejó la bolsa",
+          "fecha": "2026-07-06T13:15:51.358Z",
+          "sentimiento": "positivo"
+        }
+      ],
+      "canal": "WhatsApp Ambiente",
+      "telefono": "3815012912",
+      "email": "mifarano@yahoo.com.ar",
+      "lat": "-26.86423144760227",
+      "lon": "-65.21413397043943",
+      "distrito": 15
     }
   ],
   "pedidos": {
@@ -47378,8 +47402,8 @@
     "derivados": 31
   },
   "canales": {
-    "WhatsApp Ambiente": 1852
+    "WhatsApp Ambiente": 1853
   },
-  "totalVecinos": 1852,
-  "actualizado": "2026-07-06T13:15:48.392Z"
+  "totalVecinos": 1853,
+  "actualizado": "2026-07-06T13:15:52.328Z"
 }

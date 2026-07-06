@@ -38136,5 +38136,23 @@
         "sentimiento": "neutro"
       }
     ]
+  },
+  {
+    "numero": "136842137579702",
+    "celular": "+54 9 3815 012-912",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "positivo",
+    "ultimoMensaje": "La foto corresponde al día sábado cuando el barrendero dejó la bolsa",
+    "mensaje": "La foto corresponde al día sábado cuando el barrendero dejó la bolsa",
+    "fecha": "2026-07-06T13:15:51.358Z",
+    "ultimaActualizacion": "2026-07-06T13:15:51.358Z",
+    "historialMensajes": [
+      {
+        "texto": "La foto corresponde al día sábado cuando el barrendero dejó la bolsa",
+        "fecha": "2026-07-06T13:15:51.358Z",
+        "sentimiento": "positivo"
+      }
+    ]
   }
 ]
