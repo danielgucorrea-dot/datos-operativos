@@ -47508,6 +47508,30 @@
       "lat": null,
       "lon": null,
       "distrito": null
+    },
+    {
+      "numero": "96426428244054",
+      "celular": "+54 9 3816 541-122",
+      "nombre": "",
+      "direccion": "",
+      "sentimiento": "positivo",
+      "ultimoMensaje": "Ok. Ya se la envío",
+      "mensaje": "Ok. Ya se la envío",
+      "fecha": "2026-07-06T13:50:45.428Z",
+      "ultimaActualizacion": "2026-07-06T13:50:45.428Z",
+      "historialMensajes": [
+        {
+          "texto": "Ok. Ya se la envío",
+          "fecha": "2026-07-06T13:50:45.428Z",
+          "sentimiento": "positivo"
+        }
+      ],
+      "canal": "WhatsApp Ambiente",
+      "telefono": "+54 9 3816 541-122",
+      "email": "",
+      "lat": null,
+      "lon": null,
+      "distrito": null
     }
   ],
   "pedidos": {
@@ -47524,8 +47548,8 @@
     "derivados": 31
   },
   "canales": {
-    "WhatsApp Ambiente": 1855
+    "WhatsApp Ambiente": 1856
   },
-  "totalVecinos": 1855,
-  "actualizado": "2026-07-06T13:50:36.764Z"
+  "totalVecinos": 1856,
+  "actualizado": "2026-07-06T13:51:12.546Z"
 }
