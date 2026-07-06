@@ -34007,8 +34007,8 @@
         "Tengo una heladera, chapa  lavarropas y unas chapas viejas. Podrían pasar a buscar?",
         "Buen día!"
       ],
-      "ultimaActualizacion": "2026-07-06T14:01:42.549Z",
-      "ultimoMensaje": "También unos pedasia de segmento y piedra.",
+      "ultimaActualizacion": "2026-07-06T14:09:46.290Z",
+      "ultimoMensaje": "Isabel la Católica 619",
       "historialMensajes": [
         {
           "texto": "Buen día!",
@@ -34038,6 +34038,11 @@
         {
           "texto": "También unos pedasia de segmento y piedra.",
           "fecha": "2026-07-06T14:01:42.549Z",
+          "sentimiento": "neutro"
+        },
+        {
+          "texto": "Isabel la Católica 619",
+          "fecha": "2026-07-06T14:09:46.290Z",
           "sentimiento": "neutro"
         }
       ],
@@ -47576,9 +47581,9 @@
   ],
   "pedidos": {
     "bot": 2,
-    "bam": 33,
+    "bam": 34,
     "completados": 0,
-    "pendientes": 35
+    "pendientes": 36
   },
   "reclamos": {
     "total": 3087,
@@ -47591,5 +47596,5 @@
     "WhatsApp Ambiente": 1856
   },
   "totalVecinos": 1856,
-  "actualizado": "2026-07-06T14:09:18.863Z"
+  "actualizado": "2026-07-06T14:09:47.957Z"
 }

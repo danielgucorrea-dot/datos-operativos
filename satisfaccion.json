@@ -27465,8 +27465,8 @@
       "Tengo una heladera, chapa  lavarropas y unas chapas viejas. Podrían pasar a buscar?",
       "Buen día!"
     ],
-    "ultimaActualizacion": "2026-07-06T14:01:42.549Z",
-    "ultimoMensaje": "También unos pedasia de segmento y piedra.",
+    "ultimaActualizacion": "2026-07-06T14:09:46.290Z",
+    "ultimoMensaje": "Isabel la Católica 619",
     "historialMensajes": [
       {
         "texto": "Buen día!",
@@ -27496,6 +27496,11 @@
       {
         "texto": "También unos pedasia de segmento y piedra.",
         "fecha": "2026-07-06T14:01:42.549Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Isabel la Católica 619",
+        "fecha": "2026-07-06T14:09:46.290Z",
         "sentimiento": "neutro"
       }
     ]
