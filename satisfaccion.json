@@ -38248,29 +38248,6 @@
     ]
   },
   {
-    "numero": "262315647697148",
-    "celular": "+54 9 3812 081-709",
-    "nombre": "",
-    "direccion": null,
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Tendrían que entrar a pie  a recoger",
-    "mensaje": "Pedile ubicación por favor",
-    "fecha": "2026-07-06T13:35:01.419Z",
-    "ultimaActualizacion": "2026-07-06T13:44:00.927Z",
-    "historialMensajes": [
-      {
-        "texto": "Pedile ubicación por favor",
-        "fecha": "2026-07-06T13:35:01.419Z",
-        "sentimiento": "neutro"
-      },
-      {
-        "texto": "Tendrían que entrar a pie  a recoger",
-        "fecha": "2026-07-06T13:44:00.927Z",
-        "sentimiento": "neutro"
-      }
-    ]
-  },
-  {
     "numero": "223776419619010",
     "celular": "+54 9 3812 077-677",
     "nombre": "",
