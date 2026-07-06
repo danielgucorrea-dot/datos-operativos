@@ -12237,7 +12237,15 @@
       "Quería hacer un reclamo sobre un basural",
       "Hola buen día"
     ],
-    "ultimaActualizacion": "2026-06-09"
+    "ultimaActualizacion": "2026-07-06T13:42:42.239Z",
+    "ultimoMensaje": "Hola buen dia",
+    "historialMensajes": [
+      {
+        "texto": "Hola buen dia",
+        "fecha": "2026-07-06T13:42:42.239Z",
+        "sentimiento": "neutro"
+      }
+    ]
   },
   {
     "numero": "266631687180455",
@@ -27423,7 +27431,7 @@
     "celular": "+54 9 3815 326-436",
     "nombre": "",
     "direccion": "Isabel la Católica 619",
-    "sentimiento": "positivo",
+    "sentimiento": "neutro",
     "evidencia_clasificacion": [],
     "canal": "WhatsApp Ambiente",
     "fecha": "2026-05-04",
@@ -27437,8 +27445,8 @@
       "Tengo una heladera, chapa  lavarropas y unas chapas viejas. Podrían pasar a buscar?",
       "Buen día!"
     ],
-    "ultimaActualizacion": "2026-07-06T13:42:41.226Z",
-    "ultimoMensaje": "Necesito que recojan unas bolsas con escombros y otro tipo de basura no habitual.",
+    "ultimaActualizacion": "2026-07-06T13:43:43.008Z",
+    "ultimoMensaje": "Isabel la Católica 619\nPatricia Rodríguez.",
     "historialMensajes": [
       {
         "texto": "Buen día!",
@@ -27449,6 +27457,16 @@
         "texto": "Necesito que recojan unas bolsas con escombros y otro tipo de basura no habitual.",
         "fecha": "2026-07-06T13:42:41.226Z",
         "sentimiento": "positivo"
+      },
+      {
+        "texto": "Necesito que recojan unas bolsas con escombros y otro tipo de basura no habitual.",
+        "fecha": "2026-07-06T13:42:44.811Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Isabel la Católica 619\nPatricia Rodríguez.",
+        "fecha": "2026-07-06T13:43:43.008Z",
+        "sentimiento": "neutro"
       }
     ]
   },

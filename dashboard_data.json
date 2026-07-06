@@ -14984,7 +14984,15 @@
         "Quería hacer un reclamo sobre un basural",
         "Hola buen día"
       ],
-      "ultimaActualizacion": "2026-06-09",
+      "ultimaActualizacion": "2026-07-06T13:42:42.239Z",
+      "ultimoMensaje": "Hola buen dia",
+      "historialMensajes": [
+        {
+          "texto": "Hola buen dia",
+          "fecha": "2026-07-06T13:42:42.239Z",
+          "sentimiento": "neutro"
+        }
+      ],
       "telefono": "+54 9 3815 572-832",
       "email": "",
       "lat": null,
@@ -33979,12 +33987,27 @@
         "Tengo una heladera, chapa  lavarropas y unas chapas viejas. Podrían pasar a buscar?",
         "Buen día!"
       ],
-      "ultimaActualizacion": "2026-07-06T13:41:36.323Z",
-      "ultimoMensaje": "Buen día!",
+      "ultimaActualizacion": "2026-07-06T13:43:43.008Z",
+      "ultimoMensaje": "Isabel la Católica 619\nPatricia Rodríguez.",
       "historialMensajes": [
         {
           "texto": "Buen día!",
           "fecha": "2026-07-06T13:41:36.323Z",
+          "sentimiento": "neutro"
+        },
+        {
+          "texto": "Necesito que recojan unas bolsas con escombros y otro tipo de basura no habitual.",
+          "fecha": "2026-07-06T13:42:41.226Z",
+          "sentimiento": "positivo"
+        },
+        {
+          "texto": "Necesito que recojan unas bolsas con escombros y otro tipo de basura no habitual.",
+          "fecha": "2026-07-06T13:42:44.811Z",
+          "sentimiento": "positivo"
+        },
+        {
+          "texto": "Isabel la Católica 619\nPatricia Rodríguez.",
+          "fecha": "2026-07-06T13:43:43.008Z",
           "sentimiento": "neutro"
         }
       ],
@@ -47508,9 +47531,9 @@
   ],
   "pedidos": {
     "bot": 2,
-    "bam": 21,
+    "bam": 22,
     "completados": 0,
-    "pendientes": 23
+    "pendientes": 24
   },
   "reclamos": {
     "total": 3087,
@@ -47523,5 +47546,5 @@
     "WhatsApp Ambiente": 1856
   },
   "totalVecinos": 1856,
-  "actualizado": "2026-07-06T13:42:41.196Z"
+  "actualizado": "2026-07-06T13:43:44.179Z"
 }
