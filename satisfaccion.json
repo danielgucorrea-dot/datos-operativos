@@ -38898,5 +38898,28 @@
         "sentimiento": "neutro"
       }
     ]
+  },
+  {
+    "numero": "29076962164870",
+    "celular": "+54 9 3814 768-804",
+    "nombre": "",
+    "direccion": "Barrio primero de julio",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "3ra paralela ala francisco de aguarde 1.900",
+    "mensaje": "Barrio primero de julio",
+    "fecha": "2026-07-06T21:46:51.554Z",
+    "ultimaActualizacion": "2026-07-06T21:46:52.928Z",
+    "historialMensajes": [
+      {
+        "texto": "Barrio primero de julio",
+        "fecha": "2026-07-06T21:46:51.554Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "3ra paralela ala francisco de aguarde 1.900",
+        "fecha": "2026-07-06T21:46:52.928Z",
+        "sentimiento": "neutro"
+      }
+    ]
   }
 ]
