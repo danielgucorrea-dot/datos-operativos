@@ -38389,5 +38389,23 @@
         "sentimiento": "neutro"
       }
     ]
+  },
+  {
+    "numero": "262315647697148",
+    "celular": "+54 9 3812 081-709",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Ya esta informado.",
+    "mensaje": "Ya esta informado.",
+    "fecha": "2026-07-06T14:37:45.762Z",
+    "ultimaActualizacion": "2026-07-06T14:37:45.762Z",
+    "historialMensajes": [
+      {
+        "texto": "Ya esta informado.",
+        "fecha": "2026-07-06T14:37:45.762Z",
+        "sentimiento": "neutro"
+      }
+    ]
   }
 ]
