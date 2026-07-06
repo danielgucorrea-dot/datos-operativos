@@ -77,7 +77,7 @@
   },
   {
     "numero": "188398757244952",
-    "celular": "",
+    "celular": "+54 9 3813 923-913",
     "nombre": "",
     "direccion": "Av. Republica del Libano 2070",
     "sentimiento": "negativo",
@@ -116,7 +116,20 @@
       "Av. Republica del Libano 2070",
       "Hola buen dia"
     ],
-    "ultimaActualizacion": "2026-07-02"
+    "ultimaActualizacion": "2026-07-06T14:48:55.945Z",
+    "ultimoMensaje": "Sigo con el problema de la basura",
+    "historialMensajes": [
+      {
+        "texto": "Buenos dias",
+        "fecha": "2026-07-06T14:48:52.886Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Sigo con el problema de la basura",
+        "fecha": "2026-07-06T14:48:55.945Z",
+        "sentimiento": "negativo"
+      }
+    ]
   },
   {
     "numero": "45277713023176",
