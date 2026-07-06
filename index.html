@@ -241,9 +241,11 @@ function login() {
 
 async function cargarDatos() {
   try {
-    const r = await fetch('dashboard_data.json?v=' + Date.now(), {cache:'no-store'})
+    // Cargar satisfaccion.json directamente (más liviano que dashboard_data.json)
+    const r = await fetch('satisfaccion.json?v=' + Date.now(), {cache:'no-store'})
     if (!r.ok) throw new Error()
-    datos = await r.json()
+    const sat = await r.json()
+    datos = { satisfaccion: Array.isArray(sat) ? sat : (sat.satisfaccion || []) }
   } catch(e) {
     datos = { satisfaccion: [] }
   }

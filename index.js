@@ -1885,7 +1885,7 @@ let pushEnCurso = false
 function subirDashboardAGitHub() {
     if (pushEnCurso) return
     pushEnCurso = true
-    exec('git add dashboard_data.json satisfaccion.json && git commit -m "actualizacion automatica" && git push origin master --force', 
+    exec('git add satisfaccion.json && git commit -m "actualizacion automatica" && git push origin master --force', 
         { cwd: 'C:\\wextractor' },
         (error, stdout, stderr) => {
             pushEnCurso = false
