@@ -27436,7 +27436,7 @@
     "celular": "+54 9 3815 326-436",
     "nombre": "",
     "direccion": "Isabel la Católica 619",
-    "sentimiento": "neutro",
+    "sentimiento": "positivo",
     "evidencia_clasificacion": [],
     "canal": "WhatsApp Ambiente",
     "fecha": "2026-05-04",
@@ -27450,8 +27450,8 @@
       "Tengo una heladera, chapa  lavarropas y unas chapas viejas. Podrían pasar a buscar?",
       "Buen día!"
     ],
-    "ultimaActualizacion": "2026-07-06T13:43:43.008Z",
-    "ultimoMensaje": "Isabel la Católica 619\nPatricia Rodríguez.",
+    "ultimaActualizacion": "2026-07-06T14:15:55.123Z",
+    "ultimoMensaje": "Ok. Gracias",
     "historialMensajes": [
       {
         "texto": "Buen día!",
@@ -27472,6 +27472,11 @@
         "texto": "Isabel la Católica 619\nPatricia Rodríguez.",
         "fecha": "2026-07-06T13:43:43.008Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Ok. Gracias",
+        "fecha": "2026-07-06T14:15:55.123Z",
+        "sentimiento": "positivo"
       }
     ]
   },
