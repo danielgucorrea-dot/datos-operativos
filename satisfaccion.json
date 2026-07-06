@@ -38867,10 +38867,10 @@
     "nombre": "",
     "direccion": "Barrio primero de julio",
     "sentimiento": "neutro",
-    "ultimoMensaje": "Barrio primero de julio",
+    "ultimoMensaje": "3ra paralela ala francisco de aguarde 1.900",
     "mensaje": "Buenas tardes",
     "fecha": "2026-07-06T21:25:57.525Z",
-    "ultimaActualizacion": "2026-07-06T21:27:04.164Z",
+    "ultimaActualizacion": "2026-07-06T21:27:06.456Z",
     "historialMensajes": [
       {
         "texto": "Buenas tardes",
@@ -38890,6 +38890,11 @@
       {
         "texto": "Barrio primero de julio",
         "fecha": "2026-07-06T21:27:04.164Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "3ra paralela ala francisco de aguarde 1.900",
+        "fecha": "2026-07-06T21:27:06.456Z",
         "sentimiento": "neutro"
       }
     ]
