@@ -26,16 +26,21 @@
     "numero": "156564845547756",
     "celular": "+54 9 3815 171-395",
     "nombre": "",
-    "direccion": "",
+    "direccion": "José Colombres 1765",
     "sentimiento": "neutro",
-    "ultimoMensaje": "Buen día ya le envio",
+    "ultimoMensaje": "José Colombres 1765",
     "mensaje": "Buen día ya le envio",
     "fecha": "2026-07-06T13:15:46.117Z",
-    "ultimaActualizacion": "2026-07-06T13:15:46.117Z",
+    "ultimaActualizacion": "2026-07-06T14:21:09.166Z",
     "historialMensajes": [
       {
         "texto": "Buen día ya le envio",
         "fecha": "2026-07-06T13:15:46.117Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "José Colombres 1765",
+        "fecha": "2026-07-06T14:21:09.166Z",
         "sentimiento": "neutro"
       }
     ]
