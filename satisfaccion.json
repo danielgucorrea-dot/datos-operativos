@@ -80,7 +80,7 @@
     "celular": "+54 9 3813 923-913",
     "nombre": "",
     "direccion": "Av. Republica del Libano 2070",
-    "sentimiento": "neutro",
+    "sentimiento": "positivo",
     "evidencia_clasificacion": [
       "hace\\s+dias\\s+que",
       "no\\s+retira",
@@ -116,8 +116,8 @@
       "Av. Republica del Libano 2070",
       "Hola buen dia"
     ],
-    "ultimaActualizacion": "2026-07-06T15:25:22.376Z",
-    "ultimoMensaje": "Claro no puedo saber la hora exacto sino yo hasta les alcanzo",
+    "ultimaActualizacion": "2026-07-06T15:30:00.070Z",
+    "ultimoMensaje": "Y hay manera en la que me comuniqur con el recolector? Yo para buscar una solución a este tema porque seguira cortado por un buen tiempo",
     "historialMensajes": [
       {
         "texto": "Buenos dias",
@@ -158,6 +158,11 @@
         "texto": "Claro no puedo saber la hora exacto sino yo hasta les alcanzo",
         "fecha": "2026-07-06T15:25:22.376Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Y hay manera en la que me comuniqur con el recolector? Yo para buscar una solución a este tema porque seguira cortado por un buen tiempo",
+        "fecha": "2026-07-06T15:30:00.070Z",
+        "sentimiento": "positivo"
       }
     ]
   },
@@ -38582,11 +38587,11 @@
     "celular": "+54 9 3815 224-717",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "positivo",
-    "ultimoMensaje": "Sii ya se lo paso",
+    "sentimiento": "negativo",
+    "ultimoMensaje": "El lunes pasado lo cortaron los chicos de la municipalidad y nos dijeron q venían a buscarlo al día siguiente y no volvieron",
     "mensaje": "Buen día me comunico con ustedes para pedirles un favor: que me lleven los troncos de un árbol que me podaron.muchas gracias",
     "fecha": "2026-07-06T15:25:43.402Z",
-    "ultimaActualizacion": "2026-07-06T15:27:06.070Z",
+    "ultimaActualizacion": "2026-07-06T15:30:12.119Z",
     "historialMensajes": [
       {
         "texto": "Buen día me comunico con ustedes para pedirles un favor: que me lleven los troncos de un árbol que me podaron.muchas gracias",
@@ -38602,6 +38607,11 @@
         "texto": "Sii ya se lo paso",
         "fecha": "2026-07-06T15:27:06.070Z",
         "sentimiento": "positivo"
+      },
+      {
+        "texto": "El lunes pasado lo cortaron los chicos de la municipalidad y nos dijeron q venían a buscarlo al día siguiente y no volvieron",
+        "fecha": "2026-07-06T15:30:12.119Z",
+        "sentimiento": "negativo"
       }
     ]
   }
