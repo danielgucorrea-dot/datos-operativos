@@ -5,11 +5,11 @@
       "celular": "3815012912",
       "nombre": "Mónica  Fasolo ",
       "direccion": "Buenos Aires 2500, San Miguel de Tucumán, Tucumán",
-      "sentimiento": "positivo",
-      "ultimoMensaje": "Muchas gracias",
+      "sentimiento": "negativo",
+      "ultimoMensaje": "Buen día gente!!! \nReclamo porque tengo que estar con las cámaras controlando para que no haga un basural",
       "mensaje": "La foto corresponde al día sábado cuando el barrendero dejó la bolsa",
       "fecha": "2026-07-06T13:15:51.358Z",
-      "ultimaActualizacion": "2026-07-06T13:54:23.916Z",
+      "ultimaActualizacion": "2026-07-06T13:29:15.267Z",
       "historialMensajes": [
         {
           "texto": "La foto corresponde al día sábado cuando el barrendero dejó la bolsa",
@@ -20,11 +20,6 @@
           "texto": "Buen día gente!!! \nReclamo porque tengo que estar con las cámaras controlando para que no haga un basural",
           "fecha": "2026-07-06T13:29:15.267Z",
           "sentimiento": "negativo"
-        },
-        {
-          "texto": "Muchas gracias",
-          "fecha": "2026-07-06T13:54:23.916Z",
-          "sentimiento": "positivo"
         }
       ],
       "canal": "WhatsApp Ambiente",
@@ -40,19 +35,14 @@
       "nombre": "",
       "direccion": "",
       "sentimiento": "neutro",
-      "ultimoMensaje": "Aguardo comfirmacion",
+      "ultimoMensaje": "Buen día ya le envio",
       "mensaje": "Buen día ya le envio",
       "fecha": "2026-07-06T13:15:46.117Z",
-      "ultimaActualizacion": "2026-07-06T14:09:16.594Z",
+      "ultimaActualizacion": "2026-07-06T13:15:46.117Z",
       "historialMensajes": [
         {
           "texto": "Buen día ya le envio",
           "fecha": "2026-07-06T13:15:46.117Z",
-          "sentimiento": "neutro"
-        },
-        {
-          "texto": "Aguardo comfirmacion",
-          "fecha": "2026-07-06T14:09:16.594Z",
           "sentimiento": "neutro"
         }
       ],
@@ -522,7 +512,7 @@
       "celular": "+54 9 3814 175-742",
       "nombre": "",
       "direccion": "Barrio San Cayetano",
-      "sentimiento": "positivo",
+      "sentimiento": "neutro",
       "evidencia_clasificacion": [],
       "canal": "WhatsApp Ambiente",
       "fecha": "2026-07-01",
@@ -531,8 +521,8 @@
         "Quiero solicitar mi retiro de residuos no habituales",
         "Hola!"
       ],
-      "ultimaActualizacion": "2026-07-06T13:53:40.764Z",
-      "ultimoMensaje": "Ok cuando llegue le comparto",
+      "ultimaActualizacion": "2026-07-06T13:44:54.054Z",
+      "ultimoMensaje": "Pje 10/35 1850 Altura Ricardo Rojas al 400.Barrio San Cayetano",
       "historialMensajes": [
         {
           "texto": "Neumáticos",
@@ -568,11 +558,6 @@
           "texto": "Pje 10/35 1850 Altura Ricardo Rojas al 400.Barrio San Cayetano",
           "fecha": "2026-07-06T13:44:54.054Z",
           "sentimiento": "neutro"
-        },
-        {
-          "texto": "Ok cuando llegue le comparto",
-          "fecha": "2026-07-06T13:53:40.764Z",
-          "sentimiento": "positivo"
         }
       ],
       "telefono": "+54 9 3814 175-742",
@@ -34007,8 +33992,8 @@
         "Tengo una heladera, chapa  lavarropas y unas chapas viejas. Podrían pasar a buscar?",
         "Buen día!"
       ],
-      "ultimaActualizacion": "2026-07-06T14:10:23.254Z",
-      "ultimoMensaje": "Cuanto es lo que pueden llevar?",
+      "ultimaActualizacion": "2026-07-06T13:43:43.008Z",
+      "ultimoMensaje": "Isabel la Católica 619\nPatricia Rodríguez.",
       "historialMensajes": [
         {
           "texto": "Buen día!",
@@ -34028,26 +34013,6 @@
         {
           "texto": "Isabel la Católica 619\nPatricia Rodríguez.",
           "fecha": "2026-07-06T13:43:43.008Z",
-          "sentimiento": "neutro"
-        },
-        {
-          "texto": "En la bolsa negra grande restos dedos ventiladores y maderas cartones , algunos plásticos 4 bolsas escombros  5 de limpieza jardín.",
-          "fecha": "2026-07-06T14:01:10.424Z",
-          "sentimiento": "positivo"
-        },
-        {
-          "texto": "También unos pedasia de segmento y piedra.",
-          "fecha": "2026-07-06T14:01:42.549Z",
-          "sentimiento": "neutro"
-        },
-        {
-          "texto": "Isabel la Católica 619",
-          "fecha": "2026-07-06T14:09:46.290Z",
-          "sentimiento": "neutro"
-        },
-        {
-          "texto": "Cuanto es lo que pueden llevar?",
-          "fecha": "2026-07-06T14:10:23.254Z",
           "sentimiento": "neutro"
         }
       ],
@@ -47548,65 +47513,21 @@
       "numero": "96426428244054",
       "celular": "+54 9 3816 541-122",
       "nombre": "",
-      "direccion": "Avda Siria 1562",
+      "direccion": "Avda Siria 1558",
       "sentimiento": "neutro",
-      "ultimoMensaje": "Avda Siria 1562",
-      "mensaje": "Ok. Ya se la envío",
-      "fecha": "2026-07-06T13:50:45.428Z",
-      "ultimaActualizacion": "2026-07-06T14:11:12.817Z",
+      "ultimoMensaje": "Es a la par de mi casa. Avda Siria 1558",
+      "mensaje": "Es a la par de mi casa. Avda Siria 1558",
+      "fecha": "2026-07-06T14:12:58.867Z",
+      "ultimaActualizacion": "2026-07-06T14:12:58.867Z",
       "historialMensajes": [
         {
-          "texto": "Ok. Ya se la envío",
-          "fecha": "2026-07-06T13:50:45.428Z",
-          "sentimiento": "positivo"
-        },
-        {
-          "texto": "Estás son las bolsas con material.",
-          "fecha": "2026-07-06T13:55:44.006Z",
-          "sentimiento": "positivo"
-        },
-        {
-          "texto": "Avda Siria 1562. También en la vereda del vecino gente desconocida dejó residuos,podrían llevarlos por favor?",
-          "fecha": "2026-07-06T14:01:16.271Z",
-          "sentimiento": "neutro"
-        },
-        {
-          "texto": "A las bolsas la sacaron los plomeros,la llevo dentro de casa,no hay problemas. Gracias.",
-          "fecha": "2026-07-06T14:07:48.808Z",
-          "sentimiento": "positivo"
-        },
-        {
-          "texto": "Avda Siria 1562",
-          "fecha": "2026-07-06T14:11:12.817Z",
+          "texto": "Es a la par de mi casa. Avda Siria 1558",
+          "fecha": "2026-07-06T14:12:58.867Z",
           "sentimiento": "neutro"
         }
       ],
       "canal": "WhatsApp Ambiente",
       "telefono": "+54 9 3816 541-122",
-      "email": "",
-      "lat": null,
-      "lon": null,
-      "distrito": null
-    },
-    {
-      "numero": "180298465726605",
-      "celular": "+54 9 3815 391-601",
-      "nombre": "",
-      "direccion": "Succeeded in 18",
-      "sentimiento": "neutro",
-      "ultimoMensaje": "GitHub\n[danielgucorrea-dot/datos-operativos] pages build and deployment workflow run\n \n\n \npages build and deployment: Some jobs were not successful\n \nView workflow run\n \nStatus\tJob\tAnnotations\nbuild\t\npages build and deployment / build\nSucceeded in 18 seconds\n\nannotations for pages build and deployment / build 1\nreport-build-status\t\npages build and deployment / report-build-status\nSucceeded in 4 seconds\n\ndeploy\t\npages build and deployment / deploy\nFailed in 8 seconds",
-      "mensaje": "GitHub\n[danielgucorrea-dot/datos-operativos] pages build and deployment workflow run\n \n\n \npages build and deployment: Some jobs were not successful\n \nView workflow run\n \nStatus\tJob\tAnnotations\nbuild\t\npages build and deployment / build\nSucceeded in 18 seconds\n\nannotations for pages build and deployment / build 1\nreport-build-status\t\npages build and deployment / report-build-status\nSucceeded in 4 seconds\n\ndeploy\t\npages build and deployment / deploy\nFailed in 8 seconds",
-      "fecha": "2026-07-06T14:09:51.067Z",
-      "ultimaActualizacion": "2026-07-06T14:09:51.067Z",
-      "historialMensajes": [
-        {
-          "texto": "GitHub\n[danielgucorrea-dot/datos-operativos] pages build and deployment workflow run\n \n\n \npages build and deployment: Some jobs were not successful\n \nView workflow run\n \nStatus\tJob\tAnnotations\nbuild\t\n",
-          "fecha": "2026-07-06T14:09:51.067Z",
-          "sentimiento": "neutro"
-        }
-      ],
-      "canal": "WhatsApp Ambiente",
-      "telefono": "+54 9 3815 391-601",
       "email": "",
       "lat": null,
       "lon": null,
@@ -47627,8 +47548,8 @@
     "derivados": 31
   },
   "canales": {
-    "WhatsApp Ambiente": 1857
+    "WhatsApp Ambiente": 1856
   },
-  "totalVecinos": 1857,
-  "actualizado": "2026-07-06T14:11:13.716Z"
+  "totalVecinos": 1856,
+  "actualizado": "2026-07-06T14:12:59.780Z"
 }
