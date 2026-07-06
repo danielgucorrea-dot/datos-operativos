@@ -12315,7 +12315,7 @@
     "celular": "+54 9 3813 858-416",
     "nombre": "",
     "direccion": "barrio ciudad parque",
-    "sentimiento": "negativo",
+    "sentimiento": "neutro",
     "evidencia_clasificacion": [
       "no\\s+pasa",
       "no\\s+llega"
@@ -12337,7 +12337,15 @@
       "Genial si es para solicitar recolección de escombros ya los tengo en la vereda en bolsas",
       "Hola buen día"
     ],
-    "ultimaActualizacion": "2026-06-09"
+    "ultimaActualizacion": "2026-07-06T14:24:52.897Z",
+    "ultimoMensaje": "Hola buenos dias",
+    "historialMensajes": [
+      {
+        "texto": "Hola buenos dias",
+        "fecha": "2026-07-06T14:24:52.897Z",
+        "sentimiento": "neutro"
+      }
+    ]
   },
   {
     "numero": "93239495393447",
