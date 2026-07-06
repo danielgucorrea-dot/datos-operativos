@@ -22,16 +22,21 @@
     "celular": "+54 9 3812 077-677",
     "nombre": "",
     "direccion": "calle Santiago al 3000",
-    "sentimiento": "negativo",
-    "ultimoMensaje": "Buenos días. Mi nombre es Pablo Bustos, soy vecino de calle Santiago al 3000. A esa altura está el Pje. Juan Luis Nougues, hay 15 familia, dónde el camión recolector no ingresa ya que es un paje cerrado. Antes había un cesto grande Pero de años y ya no sirve . Y las familias salimos hasta la calle Santiago y dejábamos ahí la bolsas de residuos.",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Muchísimas Gracias",
     "mensaje": "Buenos días. Mi nombre es Pablo Bustos, soy vecino de calle Santiago al 3000. A esa altura está el Pje. Juan Luis Nougues, hay 15 familia, dónde el camión recolector no ingresa ya que es un paje cerrado. Antes había un cesto grande Pero de años y ya no sirve . Y las familias salimos hasta la calle Santiago y dejábamos ahí la bolsas de residuos.",
     "fecha": "2026-07-06T12:01:39.105Z",
-    "ultimaActualizacion": "2026-07-06T12:01:39.105Z",
+    "ultimaActualizacion": "2026-07-06T13:11:30.619Z",
     "historialMensajes": [
       {
         "texto": "Buenos días. Mi nombre es Pablo Bustos, soy vecino de calle Santiago al 3000. A esa altura está el Pje. Juan Luis Nougues, hay 15 familia, dónde el camión recolector no ingresa ya que es un paje cerra",
         "fecha": "2026-07-06T12:01:39.105Z",
         "sentimiento": "negativo"
+      },
+      {
+        "texto": "Muchísimas Gracias",
+        "fecha": "2026-07-06T13:11:30.619Z",
+        "sentimiento": "positivo"
       }
     ]
   },
