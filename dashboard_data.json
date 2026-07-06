@@ -47525,14 +47525,19 @@
       "nombre": "",
       "direccion": "",
       "sentimiento": "positivo",
-      "ultimoMensaje": "Ok. Ya se la envío",
+      "ultimoMensaje": "Estás son las bolsas con material.",
       "mensaje": "Ok. Ya se la envío",
       "fecha": "2026-07-06T13:50:45.428Z",
-      "ultimaActualizacion": "2026-07-06T13:50:45.428Z",
+      "ultimaActualizacion": "2026-07-06T13:55:44.006Z",
       "historialMensajes": [
         {
           "texto": "Ok. Ya se la envío",
           "fecha": "2026-07-06T13:50:45.428Z",
+          "sentimiento": "positivo"
+        },
+        {
+          "texto": "Estás son las bolsas con material.",
+          "fecha": "2026-07-06T13:55:44.006Z",
           "sentimiento": "positivo"
         }
       ],
@@ -47546,9 +47551,9 @@
   ],
   "pedidos": {
     "bot": 2,
-    "bam": 25,
+    "bam": 26,
     "completados": 0,
-    "pendientes": 27
+    "pendientes": 28
   },
   "reclamos": {
     "total": 3087,
@@ -47561,5 +47566,5 @@
     "WhatsApp Ambiente": 1856
   },
   "totalVecinos": 1856,
-  "actualizado": "2026-07-06T13:54:25.574Z"
+  "actualizado": "2026-07-06T13:55:46.090Z"
 }

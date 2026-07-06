@@ -38281,14 +38281,19 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "positivo",
-    "ultimoMensaje": "Ok. Ya se la envío",
+    "ultimoMensaje": "Estás son las bolsas con material.",
     "mensaje": "Ok. Ya se la envío",
     "fecha": "2026-07-06T13:50:45.428Z",
-    "ultimaActualizacion": "2026-07-06T13:50:45.428Z",
+    "ultimaActualizacion": "2026-07-06T13:55:44.006Z",
     "historialMensajes": [
       {
         "texto": "Ok. Ya se la envío",
         "fecha": "2026-07-06T13:50:45.428Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Estás son las bolsas con material.",
+        "fecha": "2026-07-06T13:55:44.006Z",
         "sentimiento": "positivo"
       }
     ]
