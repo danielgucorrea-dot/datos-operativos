@@ -38865,12 +38865,12 @@
     "numero": "238641402146859",
     "celular": "+54 9 3815 299-226",
     "nombre": "",
-    "direccion": null,
-    "sentimiento": "positivo",
-    "ultimoMensaje": "Necesitamos tirar los desechos de un incendio en el domicilio de mi hermana",
+    "direccion": "Barrio primero de julio",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Barrio primero de julio",
     "mensaje": "Buenas tardes",
     "fecha": "2026-07-06T21:25:57.525Z",
-    "ultimaActualizacion": "2026-07-06T21:26:41.612Z",
+    "ultimaActualizacion": "2026-07-06T21:27:04.164Z",
     "historialMensajes": [
       {
         "texto": "Buenas tardes",
@@ -38886,6 +38886,11 @@
         "texto": "Necesitamos tirar los desechos de un incendio en el domicilio de mi hermana",
         "fecha": "2026-07-06T21:26:41.612Z",
         "sentimiento": "positivo"
+      },
+      {
+        "texto": "Barrio primero de julio",
+        "fecha": "2026-07-06T21:27:04.164Z",
+        "sentimiento": "neutro"
       }
     ]
   }
