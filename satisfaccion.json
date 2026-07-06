@@ -116,8 +116,8 @@
       "Av. Republica del Libano 2070",
       "Hola buen dia"
     ],
-    "ultimaActualizacion": "2026-07-06T14:48:55.945Z",
-    "ultimoMensaje": "Sigo con el problema de la basura",
+    "ultimaActualizacion": "2026-07-06T14:55:18.856Z",
+    "ultimoMensaje": "Y no le quiero dar la basura a los chicos que pasan con carro porque la tiran en cualquier lado",
     "historialMensajes": [
       {
         "texto": "Buenos dias",
@@ -127,6 +127,21 @@
       {
         "texto": "Sigo con el problema de la basura",
         "fecha": "2026-07-06T14:48:55.945Z",
+        "sentimiento": "negativo"
+      },
+      {
+        "texto": "Sigue sin pasar",
+        "fecha": "2026-07-06T14:55:04.349Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Estoy hace dos semanas asi",
+        "fecha": "2026-07-06T14:55:05.750Z",
+        "sentimiento": "negativo"
+      },
+      {
+        "texto": "Y no le quiero dar la basura a los chicos que pasan con carro porque la tiran en cualquier lado",
+        "fecha": "2026-07-06T14:55:18.856Z",
         "sentimiento": "negativo"
       }
     ]
