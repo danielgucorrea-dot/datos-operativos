@@ -38248,14 +38248,19 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "neutro",
-    "ultimoMensaje": "Pedile ubicación por favor",
+    "ultimoMensaje": "Tendrían que entrar a pie  a recoger",
     "mensaje": "Pedile ubicación por favor",
     "fecha": "2026-07-06T13:35:01.419Z",
-    "ultimaActualizacion": "2026-07-06T13:35:01.419Z",
+    "ultimaActualizacion": "2026-07-06T13:44:00.927Z",
     "historialMensajes": [
       {
         "texto": "Pedile ubicación por favor",
         "fecha": "2026-07-06T13:35:01.419Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Tendrían que entrar a pie  a recoger",
+        "fecha": "2026-07-06T13:44:00.927Z",
         "sentimiento": "neutro"
       }
     ]
