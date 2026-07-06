@@ -38791,5 +38791,28 @@
         "sentimiento": "neutro"
       }
     ]
+  },
+  {
+    "numero": "269698360979471",
+    "celular": "+54 9 3814 757-401",
+    "nombre": "",
+    "direccion": "Santiago del estero 1209",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Vivo en el domicilio Santiago del estero 1209 entre marco Avellaneda y suipacha",
+    "mensaje": "Hola buenas tardes, tengo un colchón de 2 plazas para tirar, me pasaron su contacto diciendo que lo buscan desde la casa. Cuando sería posible que lo busquen?",
+    "fecha": "2026-07-06T18:29:52.330Z",
+    "ultimaActualizacion": "2026-07-06T18:29:56.613Z",
+    "historialMensajes": [
+      {
+        "texto": "Hola buenas tardes, tengo un colchón de 2 plazas para tirar, me pasaron su contacto diciendo que lo buscan desde la casa. Cuando sería posible que lo busquen?",
+        "fecha": "2026-07-06T18:29:52.330Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Vivo en el domicilio Santiago del estero 1209 entre marco Avellaneda y suipacha",
+        "fecha": "2026-07-06T18:29:56.613Z",
+        "sentimiento": "neutro"
+      }
+    ]
   }
 ]
