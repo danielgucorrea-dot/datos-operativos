@@ -38860,5 +38860,28 @@
         "sentimiento": "neutro"
       }
     ]
+  },
+  {
+    "numero": "238641402146859",
+    "celular": "+54 9 3815 299-226",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Tenemos una emergencia",
+    "mensaje": "Buenas tardes",
+    "fecha": "2026-07-06T21:25:57.525Z",
+    "ultimaActualizacion": "2026-07-06T21:26:00.028Z",
+    "historialMensajes": [
+      {
+        "texto": "Buenas tardes",
+        "fecha": "2026-07-06T21:25:57.525Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Tenemos una emergencia",
+        "fecha": "2026-07-06T21:26:00.028Z",
+        "sentimiento": "neutro"
+      }
+    ]
   }
 ]
