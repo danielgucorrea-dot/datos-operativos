@@ -38118,5 +38118,23 @@
       "Las Piedras 773."
     ],
     "ultimaActualizacion": "2026-03-31"
+  },
+  {
+    "numero": "156564845547756",
+    "celular": "+54 9 3815 171-395",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Buen día ya le envio",
+    "mensaje": "Buen día ya le envio",
+    "fecha": "2026-07-06T13:15:46.117Z",
+    "ultimaActualizacion": "2026-07-06T13:15:46.117Z",
+    "historialMensajes": [
+      {
+        "texto": "Buen día ya le envio",
+        "fecha": "2026-07-06T13:15:46.117Z",
+        "sentimiento": "neutro"
+      }
+    ]
   }
 ]
