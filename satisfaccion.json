@@ -38350,10 +38350,10 @@
     "nombre": "",
     "direccion": "Peru 3350",
     "sentimiento": "positivo",
-    "ultimoMensaje": "Les rogaría que lo pudieran retirar , para no tener que dejar que los carros que pasan lo lleven y hagan basurales x ahí",
+    "ultimoMensaje": "Muchas gracias",
     "mensaje": "Buen día",
     "fecha": "2026-07-06T14:17:53.853Z",
-    "ultimaActualizacion": "2026-07-06T14:21:49.465Z",
+    "ultimaActualizacion": "2026-07-06T14:43:18.110Z",
     "historialMensajes": [
       {
         "texto": "Buen día",
@@ -38373,6 +38373,11 @@
       {
         "texto": "Les rogaría que lo pudieran retirar , para no tener que dejar que los carros que pasan lo lleven y hagan basurales x ahí",
         "fecha": "2026-07-06T14:21:49.465Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Muchas gracias",
+        "fecha": "2026-07-06T14:43:18.110Z",
         "sentimiento": "positivo"
       }
     ]
