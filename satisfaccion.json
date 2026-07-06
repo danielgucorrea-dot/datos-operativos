@@ -38587,11 +38587,11 @@
     "celular": "+54 9 3815 224-717",
     "nombre": "",
     "direccion": "barrio san Miguel",
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Sii",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Dale muchísimas gracias",
     "mensaje": "Buen día me comunico con ustedes para pedirles un favor: que me lleven los troncos de un árbol que me podaron.muchas gracias",
     "fecha": "2026-07-06T15:25:43.402Z",
-    "ultimaActualizacion": "2026-07-06T15:32:48.618Z",
+    "ultimaActualizacion": "2026-07-06T15:36:24.073Z",
     "historialMensajes": [
       {
         "texto": "Buen día me comunico con ustedes para pedirles un favor: que me lleven los troncos de un árbol que me podaron.muchas gracias",
@@ -38627,6 +38627,11 @@
         "texto": "Sii",
         "fecha": "2026-07-06T15:32:48.618Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Dale muchísimas gracias",
+        "fecha": "2026-07-06T15:36:24.073Z",
+        "sentimiento": "positivo"
       }
     ]
   }
