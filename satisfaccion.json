@@ -34408,14 +34408,19 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "neutro",
-    "ultimoMensaje": "Hola",
+    "ultimoMensaje": "Necesito hacer una consulta",
     "mensaje": "Hola",
     "fecha": "2026-07-06T11:59:04.630Z",
-    "ultimaActualizacion": "2026-07-06T11:59:04.630Z",
+    "ultimaActualizacion": "2026-07-06T12:00:11.405Z",
     "historialMensajes": [
       {
         "texto": "Hola",
         "fecha": "2026-07-06T11:59:04.630Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Necesito hacer una consulta",
+        "fecha": "2026-07-06T12:00:11.405Z",
         "sentimiento": "neutro"
       }
     ]
