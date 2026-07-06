@@ -38327,5 +38327,23 @@
         "sentimiento": "positivo"
       }
     ]
+  },
+  {
+    "numero": "180298465726605",
+    "celular": "+54 9 3815 391-601",
+    "nombre": "",
+    "direccion": "Succeeded in 18",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "GitHub\n[danielgucorrea-dot/datos-operativos] pages build and deployment workflow run\n \n\n \npages build and deployment: Some jobs were not successful\n \nView workflow run\n \nStatus\tJob\tAnnotations\nbuild\t\npages build and deployment / build\nSucceeded in 18 seconds\n\nannotations for pages build and deployment / build 1\nreport-build-status\t\npages build and deployment / report-build-status\nSucceeded in 4 seconds\n\ndeploy\t\npages build and deployment / deploy\nFailed in 8 seconds",
+    "mensaje": "GitHub\n[danielgucorrea-dot/datos-operativos] pages build and deployment workflow run\n \n\n \npages build and deployment: Some jobs were not successful\n \nView workflow run\n \nStatus\tJob\tAnnotations\nbuild\t\npages build and deployment / build\nSucceeded in 18 seconds\n\nannotations for pages build and deployment / build 1\nreport-build-status\t\npages build and deployment / report-build-status\nSucceeded in 4 seconds\n\ndeploy\t\npages build and deployment / deploy\nFailed in 8 seconds",
+    "fecha": "2026-07-06T14:09:51.067Z",
+    "ultimaActualizacion": "2026-07-06T14:09:51.067Z",
+    "historialMensajes": [
+      {
+        "texto": "GitHub\n[danielgucorrea-dot/datos-operativos] pages build and deployment workflow run\n \n\n \npages build and deployment: Some jobs were not successful\n \nView workflow run\n \nStatus\tJob\tAnnotations\nbuild\t\n",
+        "fecha": "2026-07-06T14:09:51.067Z",
+        "sentimiento": "neutro"
+      }
+    ]
   }
 ]
