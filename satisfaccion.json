@@ -138,11 +138,11 @@
     "celular": "+54 9 3816 030-495",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "neutro",
-    "ultimoMensaje": "queria consultar, con quien me tengo que comunicar para que retiren un colchon de mi domicilio que esta para tirar",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "bien",
     "mensaje": "Hola!",
     "fecha": "2026-07-04T20:15:16.267Z",
-    "ultimaActualizacion": "2026-07-06T12:25:05.775Z",
+    "ultimaActualizacion": "2026-07-06T12:29:18.276Z",
     "historialMensajes": [
       {
         "texto": "Hola!",
@@ -158,6 +158,11 @@
         "texto": "queria consultar, con quien me tengo que comunicar para que retiren un colchon de mi domicilio que esta para tirar",
         "fecha": "2026-07-06T12:25:05.775Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "bien",
+        "fecha": "2026-07-06T12:29:18.276Z",
+        "sentimiento": "positivo"
       }
     ]
   },
