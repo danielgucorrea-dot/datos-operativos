@@ -187,11 +187,11 @@
     "celular": "+54 9 3813 015-653",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "positivo",
-    "ultimoMensaje": "Gracias a usteedes",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Aprovecho para contarles q este lugar es un vaciadero de basura y nadie viene a controlar ni poner multas a los q tiran basura.....",
     "mensaje": "Buen dia....soy el propietario del lote de BALTAZAR AGUIRRE 1059. Como le explique a los inspectores SR DECIMA Y SR MONACO....la idea era sacar el escombro hacia la calle para despues cargar en el contenedor...esto lo tenia q hacer asi por q el camion con el contenedor no puede entrar a la propiedad debido a lo blando del terreno....es por eso q hay q sacar el escombro a carretillas hasta la calle y luego subir al contenedor.\nGracias por la paciencia y disculpen las molestias de poner el escombro en la calle.\nLa mejor predisposicion tengo para hacerlo.....gracias.",
     "fecha": "2026-07-04T12:59:30.901Z",
-    "ultimaActualizacion": "2026-07-06T12:13:57.623Z",
+    "ultimaActualizacion": "2026-07-04T13:17:59.406Z",
     "historialMensajes": [
       {
         "texto": "Buen dia....soy el propietario del lote de BALTAZAR AGUIRRE 1059. Como le explique a los inspectores SR DECIMA Y SR MONACO....la idea era sacar el escombro hacia la calle para despues cargar en el con",
@@ -212,16 +212,6 @@
         "texto": "Aprovecho para contarles q este lugar es un vaciadero de basura y nadie viene a controlar ni poner multas a los q tiran basura.....",
         "fecha": "2026-07-04T13:17:59.406Z",
         "sentimiento": "neutro"
-      },
-      {
-        "texto": "No hay ningun problema",
-        "fecha": "2026-07-06T12:13:41.638Z",
-        "sentimiento": "neutro"
-      },
-      {
-        "texto": "Gracias a usteedes",
-        "fecha": "2026-07-06T12:13:57.623Z",
-        "sentimiento": "positivo"
       }
     ]
   },
@@ -387,10 +377,10 @@
     "nombre": "",
     "direccion": "Barrio Indiana",
     "sentimiento": "neutro",
-    "ultimoMensaje": "Mchas. Gcias.",
+    "ultimoMensaje": "Pasaje Agustin Masa y Bolivar, Barrio Indiana",
     "mensaje": "Solicito retirar ramas de poda de pasaje Agustin Masa esquina Bolivar - Barrio Indiana. Gcias.",
     "fecha": "2026-07-03T15:56:20.226Z",
-    "ultimaActualizacion": "2026-07-06T12:09:35.717Z",
+    "ultimaActualizacion": "2026-07-03T16:06:51.928Z",
     "historialMensajes": [
       {
         "texto": "Solicito retirar ramas de poda de pasaje Agustin Masa esquina Bolivar - Barrio Indiana. Gcias.",
@@ -405,11 +395,6 @@
       {
         "texto": "Pasaje Agustin Masa y Bolivar, Barrio Indiana",
         "fecha": "2026-07-03T16:06:51.928Z",
-        "sentimiento": "neutro"
-      },
-      {
-        "texto": "Mchas. Gcias.",
-        "fecha": "2026-07-06T12:09:35.717Z",
         "sentimiento": "neutro"
       }
     ]

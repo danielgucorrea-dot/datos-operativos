@@ -365,10 +365,11 @@ function verificarPin() {
     const cls = d.sentimiento === 'positivo' ? 'pos' : d.sentimiento === 'negativo' ? 'neg' : 'neu'
     const label = d.sentimiento === 'positivo' ? 'Satisfecho' : d.sentimiento === 'negativo' ? 'Disconforme' : 'Neutro'
     const evidencia = d.evidencia_clasificacion || []
-    // Soportar tanto el nuevo sistema (historialMensajes) como el histórico (conversacion_completa)
-    const convHistorial = d.historialMensajes ? d.historialMensajes.map(h => h.texto || h) : []
+    // Combinar historial completo + mensajes en vivo del nuevo sistema
     const convHistorico = d.conversacion_completa || (d.mensaje ? [d.mensaje] : [])
-    const conv = convHistorial.length > 0 ? convHistorial : convHistorico
+    const convVivo = d.historialMensajes ? d.historialMensajes.map(h => h.texto || h) : []
+    // Usar historial completo si existe, completar con mensajes vivos que no estén ya
+    const conv = convHistorico.length > 0 ? convHistorico : convVivo
     document.getElementById('modal-contenido').innerHTML = `
       <div class="modal-body">
         <div style="margin-bottom:14px;padding-bottom:12px;border-bottom:1px solid #f0f0ea;">

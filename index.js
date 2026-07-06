@@ -1716,7 +1716,9 @@ function actualizarDashboardData() {
                 fecha: r.fecha_hora_inicio || ''
             }))
 
+        // Solo incluir vecinos con celular real — no mezclar con entradas vacías
         const vecinosCompletos = [...vecinosWhatsApp, ...vecinosAPI]
+            .filter(v => v.celular && v.celular.trim())
 
         // Canales
         const porCanal = {}
@@ -1965,16 +1967,17 @@ function guardarSatisfaccion(data) {
 
 async function analizarSentimiento(texto) {
     try {
-        const pregunta = `Analiza el siguiente mensaje que un vecino le escribió a la Secretaría de Ambiente Municipal sobre el servicio de recolección de residuos.
+        const pregunta = `Sos un clasificador de satisfacción ciudadana para la Secretaría de Ambiente Municipal.
 
-Clasificalo en UNA de estas 3 categorías:
-- "positivo": agradecimiento, elogio, satisfacción con el servicio (ej: "gracias", "excelente", "muy rápido", "qué bueno")
-- "negativo": queja, enojo, disconformidad, reclamo por incumplimiento (ej: "nunca pasan", "pésimo servicio", "no vinieron", "qué mal")
-- "neutro": consulta, información, sin carga emocional clara (ej: "mi dirección es...", "cuándo pasan", saludos simples)
+Analizá si el vecino está satisfecho, insatisfecho o neutral CON EL SERVICIO QUE RECIBIÓ DIRECTAMENTE.
+
+- "positivo": el vecino agradece o elogia el servicio recibido (ej: "gracias por venir", "qué rápido", "excelente")
+- "negativo": el vecino se queja de que el servicio NO llegó a su domicilio (ej: "nunca vinieron a mi casa", "no retiraron mis residuos", "llevo semanas esperando")
+- "neutro": cualquier otro caso — reportes del barrio, consultas, información, saludos, descripciones de situaciones. Si el vecino reporta un problema del barrio pero NO se queja del servicio que ÉL recibió → es NEUTRO.
 
 Mensaje: "${texto}"
 
-Responde SOLO con JSON válido, sin texto adicional: {"sentimiento": "positivo" o "negativo" o "neutro"}`
+Respondé SOLO con JSON válido: {"sentimiento": "positivo"} o {"sentimiento": "negativo"} o {"sentimiento": "neutro"}`
 
         const response = await ollama.chat({
             model: 'llava:13b',
@@ -1998,40 +2001,141 @@ Responde SOLO con JSON válido, sin texto adicional: {"sentimiento": "positivo" 
 }
 
 // Procesa el sentimiento de forma asíncrona, sin bloquear la respuesta del bot
+// ============================================================
+// REGISTRO DE SATISFACCIÓN - 1 registro por vecino, actualizable
+// Arquitectura: upsert por número → reclasifica en cada mensaje
+// ============================================================
+function extraerDireccionDeTexto(texto) {
+    if (!texto || texto.length < 5) return ''
+    const t = texto
+
+    // P1: domicilio explícito
+    const mDom = t.match(/domicilio\s+((?:[A-Za-záéíóúñÁÉÍÓÚÑ]+\s+){0,3}\d{2,5}[a-zA-Z]?(?:\s*(?:\.{2,3}|\s)\s*dpto?\.?\s*\d+\w*)?)/i)
+    if (mDom) return mDom[1].trim()
+
+    // P2: "está en / ubicado en / vivo en X NUM"
+    const mEstaEn = t.match(/(?:está|esta|ubicado|ubicada|queda|vivo|vivimos|vive|departamento está en|depto está en)\s+en\s+([A-Za-záéíóúñÁÉÍÓÚÑ]+(?:\s+[A-Za-záéíóúñÁÉÍÓÚÑ]+){0,2}\s+\d{2,5})/i)
+    if (mEstaEn) return mEstaEn[1].trim()
+
+    // P3: barrio + manzana + lote
+    const mMzna = t.match(/((?:barrio\s+[A-Za-záéíóúñÁÉÍÓÚÑ]+\s+)?manzana\s+\w+\s+(?:lote|casa)\s+\d+)/i)
+    if (mMzna) return mMzna[1].trim()
+
+    // P4: barrio solo (nombre corto, sin verbos)
+    const mBarrio = t.match(/\b(barrio\s+[A-Za-záéíóúñÁÉÍÓÚÑ]{3,}(?:\s+[A-Za-záéíóúñÁÉÍÓÚÑ]+){0,2})\b/i)
+    if (mBarrio) {
+        const palabras = mBarrio[1].split(/\s+/)
+        const invalidas = new Set(['porque','que','xq','los','las','del','como','dos','tres','meses','dias','hace','desde','sin'])
+        if (palabras.length <= 4 && !palabras.slice(1).some(p => invalidas.has(p.toLowerCase())))
+            return mBarrio[1].trim()
+    }
+
+    // P5: av/calle/pje + nombre + numero
+    const mCalle = t.match(/\b((?:av\.?|avenida|calle|pje\.?|pasaje|diagonal)\s+[A-Za-záéíóúñÁÉÍÓÚÑ]+(?:\s+[A-Za-záéíóúñÁÉÍÓÚÑ]+){0,2}\s+(?:al\s+)?\d{2,5})\b/i)
+    if (mCalle) return mCalle[1].trim()
+
+    // P6: Nombre propio capitalizado + numero (con "al" opcional)
+    const NO_CALLE = new Set(['son','hace','tengo','desde','hasta','entre','partir','dentro','sera',
+        'donde','listo','senor','vamos','puedo','podemos','necesito','quiero','espero',
+        'bolsas','escombros','camion','dias','semanas','meses','años','metros','kg','kilos'])
+    const matches = [...t.matchAll(/\b([A-ZÁÉÍÓÚÑ][a-záéíóúñ]+(?:\s+[A-Za-záéíóúñÁÉÍÓÚÑ]+){0,2})\s+(?:al\s+)?(\d{2,5})\b/g)]
+    for (const m of matches) {
+        const palabra = m[1].trim()
+        const primera = palabra.split(/\s+/)[0].toLowerCase()
+            .replace(/[áéíóú]/g, c => ({á:'a',é:'e',í:'i',ó:'o',ú:'u'}[c]))
+        if (NO_CALLE.has(primera)) continue
+        // Limpiar saludos pegados (Buen dia X → X)
+        const palabras = palabra.split(/\s+/)
+        const SALUDOS = [['buen','dia'],['buenas','tardes'],['buenas','noches'],['buenos','dias']]
+        let inicio = 0
+        if (palabras.length >= 2) {
+            const p01 = [palabras[0].toLowerCase(), palabras[1].toLowerCase()]
+            if (SALUDOS.some(s => s[0] === p01[0] && s[1] === p01[1])) inicio = 2
+        }
+        const limpia = palabras.slice(inicio).join(' ')
+        if (!limpia) continue
+        if (['el','la','los','las','un','una'].includes(limpia.split(' ')[0].toLowerCase())) continue
+        return `${limpia} ${m[2]}`
+    }
+
+    return ''
+}
+
 function registrarSatisfaccion(numero, jid, texto, jidAlt) {
-    // No registrar números de prueba en satisfaccion
+    // Excluir números de prueba
     const numLimpio = numero.replace(/\D/g,'').replace(/^549/,'').replace(/^54/,'')
     const todosPrueba = [
         NUMERO_PRUEBA.replace(/^549/,''),
         ...NUMEROS_PRUEBA_EXTRA.map(n => n.replace(/^549/,''))
     ]
     if (todosPrueba.some(p => numLimpio === p.replace(/^549/,'') || numLimpio.endsWith(p.slice(-8)))) return
-    // No bloquea: corre en background
+
     analizarSentimiento(texto).then(sentimiento => {
         try {
             const datos = cargarSatisfaccion()
+            const celularReal = jidANumero(numero, jidAlt)
+            const ahora = new Date().toISOString()
 
-            // Buscar dirección del pedido más reciente de este número, si existe
+            // Extraer dirección del texto libre
+            const direccionTexto = extraerDireccionDeTexto(texto)
+
+            // Buscar también en pedidos formales
             const pedidos = cargarPedidos()
             const pedidoReciente = pedidos
                 .filter(p => p.numero === numero)
                 .sort((a, b) => new Date(b.fecha) - new Date(a.fecha))[0]
-            // Solo usar dirección del pedido, no el mensaje libre (evita textos incorrectos)
-            const direccion = pedidoReciente?.direccion || null
-            const celularReal = jidANumero(numero, jidAlt)
+            const direccionFinal = pedidoReciente?.direccion || direccionTexto || null
 
-            datos.push({
-                numero,
-                celular: celularReal, // vacío si no tenemos el numero real (no se inventa)
-                direccion,
-                sentimiento,
-                mensaje: texto,
-                fecha: new Date().toISOString()
-            })
+            // UPSERT: buscar registro existente del mismo vecino
+            const idx = datos.findIndex(d => d.numero === numero)
+
+            if (idx >= 0) {
+                // Actualizar registro existente
+                const registro = datos[idx]
+                const sentimientoAnterior = registro.sentimiento
+
+                // Actualizar sentimiento si cambió
+                registro.sentimiento = sentimiento
+                registro.ultimoMensaje = texto
+                registro.ultimaActualizacion = ahora
+
+                // Actualizar dirección si encontramos una nueva y no teníamos
+                if (direccionFinal && !registro.direccion) {
+                    registro.direccion = direccionFinal
+                }
+                // Actualizar celular si antes estaba vacío
+                if (celularReal && !registro.celular) {
+                    registro.celular = celularReal
+                }
+                // Agregar mensaje al historial (últimos 10)
+                if (!registro.historialMensajes) registro.historialMensajes = []
+                registro.historialMensajes.push({ texto: texto.slice(0,200), fecha: ahora, sentimiento })
+                if (registro.historialMensajes.length > 10) registro.historialMensajes.shift()
+
+                datos[idx] = registro
+
+                if (sentimientoAnterior !== sentimiento) {
+                    console.log(`🔄 [Satisfacción actualizada] +${numero}: ${sentimientoAnterior} → ${sentimiento}`)
+                }
+            } else {
+                // Nuevo vecino: crear registro
+                datos.push({
+                    numero,
+                    celular: celularReal,
+                    nombre: '',
+                    direccion: direccionFinal,
+                    sentimiento,
+                    ultimoMensaje: texto,
+                    mensaje: texto,
+                    fecha: ahora,
+                    ultimaActualizacion: ahora,
+                    historialMensajes: [{ texto: texto.slice(0,200), fecha: ahora, sentimiento }]
+                })
+                const emoji = sentimiento === 'positivo' ? '🟢' : sentimiento === 'negativo' ? '🔴' : '⚪'
+                console.log(`${emoji} [Nuevo vecino] +${numero}: ${sentimiento}`)
+            }
+
             guardarSatisfaccion(datos)
-
-            const emoji = sentimiento === 'positivo' ? '🟢' : sentimiento === 'negativo' ? '🔴' : '⚪'
-            console.log(`${emoji} [Satisfacción] +${numero}: ${sentimiento} - "${texto.slice(0, 50)}"`)
         } catch (e) {
             console.error('Error registrando satisfacción:', e.message)
         }
@@ -2054,6 +2158,20 @@ async function procesarMensaje(sock, msg) {
         else if (!buscarPNenMap(jid)) resolverPNdeLID(sock, jid)
     }
 
+    const contenidoMsg = desempaquetarMensaje(msg.message)
+    const texto = (contenidoMsg?.conversation
+        || contenidoMsg?.extendedTextMessage?.text
+        || '').trim()
+    const tieneFoto = !!(contenidoMsg?.imageMessage)
+    const numero = jid.replace('@s.whatsapp.net', '').replace('@lid', '')
+
+    // Registrar satisfacción de TODOS los vecinos reales ANTES del filtro de modo prueba
+    // (el modo prueba solo controla si el bot responde, no si registra datos)
+    if (texto && texto.length >= 3 && !esPersonalInterno(numero)) {
+        registrarSatisfaccion(numero, jid, texto, jidAlt)
+        setTimeout(actualizarDashboardData, 3000)
+    }
+
     // Filtro modo prueba: 3814461809 siempre responde; otros números de prueba solo fuera de horario operativo
     if (MODO_PRUEBA) {
         // Resolver número real del JID (puede ser @lid sin número visible)
@@ -2065,13 +2183,6 @@ async function procesarMensaje(sock, msg) {
         const esNumeroPruebaHorario = esPruebaHorarioActivo(jid)
         if (!esNumeroPrincipal && !esNumeroPruebaHorario) return
     }
-
-    const contenidoMsg = desempaquetarMensaje(msg.message)
-    const texto = (contenidoMsg?.conversation
-        || contenidoMsg?.extendedTextMessage?.text
-        || '').trim()
-    const tieneFoto = !!(contenidoMsg?.imageMessage)
-    const numero = jid.replace('@s.whatsapp.net', '').replace('@lid', '')
 
     if (!estados[jid]) estados[jid] = { paso: 'inicio' }
     const estado = estados[jid]
@@ -2086,11 +2197,7 @@ async function procesarMensaje(sock, msg) {
         return
     }
 
-    // Análisis de satisfacción en background (solo vecinos, no personal interno)
-    if (texto && texto.length >= 3 && !esPersonalInterno(numero)) {
-        registrarSatisfaccion(numero, jid, texto, jidAlt)
-        setTimeout(actualizarDashboardData, 3000) // actualizar dashboard 3 seg después
-    }
+    // (registro de satisfacción movido antes del filtro de modo prueba)
 
     const ahora = new Date()
     const hora = ahora.getHours()
@@ -2590,7 +2697,7 @@ async function iniciarBot() {
             }
 
             // Verificación de vencimientos cada 30 min
-            setInterval(() => verificarVencimientos(sock), 30 * 60 * 1000)
+            setInterval(() => verificarVencimientos(sock), 5 * 60 * 1000)
 
             // Consultar API de reclamos al arrancar
             actualizarReclamos()
@@ -2598,6 +2705,86 @@ async function iniciarBot() {
             // Scheduler de orden de servicio diaria a las 12:50hs
             programarGeneracionOrden(sock)
             console.log('🕐 Generación automática de orden de servicio programada: 12:50hs')
+
+            // ============================================================
+            // BACKFILL ACTIVO: leer chats recientes al arrancar
+            // Recupera mensajes perdidos durante cortes de luz o reinicios
+            // Espera 3 segundos para que WhatsApp termine de sincronizar
+            // ============================================================
+            setTimeout(async () => {
+                try {
+                    console.log('🔍 Iniciando backfill de mensajes perdidos...')
+                    const satActual = cargarSatisfaccion()
+                    const fechaUltimo = satActual
+                        .map(s => s.ultimaActualizacion || s.fecha || '')
+                        .filter(Boolean).sort().reverse()[0] || '2020-01-01'
+
+                    // Obtener todos los chats
+                    const chats = await sock.groupFetchAllParticipating().catch(() => ({}))
+                    const store = sock.store || null
+
+                    // Leer mensajes recientes de cada chat individual
+                    let backfillCount = 0
+                    const mensajesProcesados = new Set()
+
+                    // Obtener JIDs de vecinos conocidos desde lid_map y satisfaccion
+                    const lidMap = cargarLidMap()
+                    const jidsConocidos = new Set()
+
+                    // Agregar JIDs desde lid_map
+                    for (const lid of Object.keys(lidMap)) {
+                        jidsConocidos.add(lid.includes('@') ? lid : lid + '@lid')
+                    }
+                    // Agregar JIDs desde satisfaccion existente
+                    for (const s of satActual) {
+                        if (s.numero) {
+                            const jid = s.numero.includes('@') ? s.numero : s.numero + '@lid'
+                            jidsConocidos.add(jid)
+                        }
+                    }
+
+                    console.log(`🔍 Revisando ${jidsConocidos.size} chats conocidos...`)
+
+                    for (const jid of jidsConocidos) {
+                        if (jid.includes('@g.us')) continue
+                        try {
+                            // Cargar últimos 20 mensajes de cada chat
+                            const msgs = await sock.loadMessages(jid, 20, undefined, true)
+                                .catch(() => ({ messages: [] }))
+                            const lista = Array.isArray(msgs) ? msgs : (msgs.messages || [])
+
+                            for (const msg of lista) {
+                                if (!msg || msg.key?.fromMe) continue
+                                const ts = Number(msg.messageTimestamp) * 1000
+                                if (!ts) continue
+                                const fechaMsg = new Date(ts).toISOString()
+                                if (fechaMsg <= fechaUltimo) continue
+                                const msgId = msg.key?.id
+                                if (!msgId || mensajesProcesados.has(msgId)) continue
+                                mensajesProcesados.add(msgId)
+                                const numero = jid.replace('@s.whatsapp.net','').replace('@lid','')
+                                if (!numero || esPersonalInterno(numero)) continue
+                                const texto = (msg.message?.conversation
+                                    || msg.message?.extendedTextMessage?.text || '').trim()
+                                if (!texto || texto.length < 3) continue
+                                registrarSatisfaccion(numero, jid, texto, msg.key?.remoteJidAlt || null)
+                                backfillCount++
+                            }
+                        } catch (e) {
+                            // Silenciar errores por chat individual
+                        }
+                    }
+
+                    if (backfillCount > 0) {
+                        console.log(`📊 ${backfillCount} mensajes recuperados en backfill`)
+                        setTimeout(actualizarDashboardData, 5000)
+                    } else {
+                        console.log('📊 Backfill: sin mensajes nuevos pendientes')
+                    }
+                } catch (e) {
+                    console.error('Error en backfill:', e.message)
+                }
+            }, 3000)
         }
         if (connection === 'close') {
             console.log('🔄 Reconectando...')
@@ -2655,6 +2842,57 @@ async function iniciarBot() {
         if (actualizados > 0) {
             guardarPedidos(pedidos)
             console.log(`✅ ${actualizados} pedidos marcados como completados desde el historial`)
+        }
+
+        // ============================================================
+        // BACKFILL DE SATISFACCIÓN: procesar mensajes acumulados
+        // mientras el bot estuvo apagado (corte de luz, reinicio, etc.)
+        // Solo procesa mensajes más recientes que el último registro
+        // guardado para no reprocesar todo el historial cada vez.
+        // ============================================================
+        const satActual = cargarSatisfaccion()
+        // Encontrar la fecha del registro más reciente
+        const fechaUltimo = satActual
+            .map(s => s.ultimaActualizacion || s.fecha || '')
+            .filter(Boolean)
+            .sort()
+            .reverse()[0] || '2020-01-01'
+
+        let backfillCount = 0
+        // Ordenar mensajes por timestamp para procesar en orden cronológico
+        const mensajesOrdenados = [...messages]
+            .filter(msg => !msg.key.fromMe && !msg.key.remoteJid?.includes('@g.us'))
+            .sort((a, b) => (Number(a.messageTimestamp) || 0) - (Number(b.messageTimestamp) || 0))
+
+        for (const msg of mensajesOrdenados) {
+            try {
+                const ts = Number(msg.messageTimestamp) * 1000
+                const fechaMsg = new Date(ts).toISOString()
+
+                // Solo procesar mensajes posteriores al último registro guardado
+                if (fechaMsg <= fechaUltimo) continue
+
+                const jid = msg.key.remoteJid || ''
+                const jidAlt = msg.key.remoteJidAlt || null
+                const numero = jid.replace('@s.whatsapp.net','').replace('@lid','')
+                if (!numero || esPersonalInterno(numero)) continue
+
+                const texto = (msg.message?.conversation
+                    || msg.message?.extendedTextMessage?.text
+                    || '').trim()
+                if (!texto || texto.length < 3) continue
+
+                // Registrar en satisfacción (función ya existente, hace upsert)
+                registrarSatisfaccion(numero, jid, texto, jidAlt)
+                backfillCount++
+            } catch (e) {
+                // Silenciar errores individuales para no interrumpir el backfill
+            }
+        }
+
+        if (backfillCount > 0) {
+            console.log(`📊 ${backfillCount} mensajes procesados en backfill de satisfacción`)
+            setTimeout(actualizarDashboardData, 5000)
         }
 
         // Backfill del grupo BAM: capturar mensajes del historial que no se
