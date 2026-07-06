@@ -423,8 +423,8 @@
       "Quiero solicitar mi retiro de residuos no habituales",
       "Hola!"
     ],
-    "ultimaActualizacion": "2026-07-06T13:36:22.052Z",
-    "ultimoMensaje": "Ventana",
+    "ultimaActualizacion": "2026-07-06T13:36:40.244Z",
+    "ultimoMensaje": "Hierro de pileta pelopincho",
     "historialMensajes": [
       {
         "texto": "Neumáticos",
@@ -434,6 +434,11 @@
       {
         "texto": "Ventana",
         "fecha": "2026-07-06T13:36:22.052Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Hierro de pileta pelopincho",
+        "fecha": "2026-07-06T13:36:40.244Z",
         "sentimiento": "neutro"
       }
     ]
