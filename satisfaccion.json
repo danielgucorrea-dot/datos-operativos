@@ -18456,7 +18456,7 @@
     "celular": "+54 9 3815 100-023",
     "nombre": "",
     "direccion": "",
-    "sentimiento": "neutro",
+    "sentimiento": "positivo",
     "evidencia_clasificacion": [],
     "canal": "WhatsApp Ambiente",
     "fecha": "2026-06-01",
@@ -18473,8 +18473,8 @@
       "Genial. Ahí le aviso. Marque sin querer",
       "Le pase tu número a una vecina que necesita  que le retiren residuos"
     ],
-    "ultimaActualizacion": "2026-07-06T15:03:25.828Z",
-    "ultimoMensaje": "Si. El de rebe",
+    "ultimaActualizacion": "2026-07-06T15:03:36.389Z",
+    "ultimoMensaje": "Gracias",
     "historialMensajes": [
       {
         "texto": "Buenas",
@@ -18520,6 +18520,11 @@
         "texto": "Si. El de rebe",
         "fecha": "2026-07-06T15:03:25.828Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Gracias",
+        "fecha": "2026-07-06T15:03:36.389Z",
+        "sentimiento": "positivo"
       }
     ]
   },
