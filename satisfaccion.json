@@ -1,5 +1,41 @@
 [
   {
+    "numero": "136842137579702",
+    "celular": "+54 9 3815 012-912",
+    "nombre": "",
+    "direccion": "",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "La foto corresponde al día sábado cuando el barrendero dejó la bolsa",
+    "mensaje": "La foto corresponde al día sábado cuando el barrendero dejó la bolsa",
+    "fecha": "2026-07-06T13:15:51.358Z",
+    "ultimaActualizacion": "2026-07-06T13:15:51.358Z",
+    "historialMensajes": [
+      {
+        "texto": "La foto corresponde al día sábado cuando el barrendero dejó la bolsa",
+        "fecha": "2026-07-06T13:15:51.358Z",
+        "sentimiento": "positivo"
+      }
+    ]
+  },
+  {
+    "numero": "156564845547756",
+    "celular": "+54 9 3815 171-395",
+    "nombre": "",
+    "direccion": "",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Buen día ya le envio",
+    "mensaje": "Buen día ya le envio",
+    "fecha": "2026-07-06T13:15:46.117Z",
+    "ultimaActualizacion": "2026-07-06T13:15:46.117Z",
+    "historialMensajes": [
+      {
+        "texto": "Buen día ya le envio",
+        "fecha": "2026-07-06T13:15:46.117Z",
+        "sentimiento": "neutro"
+      }
+    ]
+  },
+  {
     "numero": "190610749296853",
     "celular": "+54 9 3816 111-385",
     "nombre": "",
@@ -2355,7 +2391,7 @@
     "numero": "200171413610498",
     "celular": "",
     "nombre": "",
-    "direccion": "",
+    "direccion": "Rioja 518",
     "sentimiento": "neutro",
     "evidencia_clasificacion": [],
     "canal": "WhatsApp Ambiente",
@@ -2973,7 +3009,7 @@
     "numero": "216767150444575",
     "celular": "+54 9 3816 515-556",
     "nombre": "",
-    "direccion": "",
+    "direccion": "La Plata 2626",
     "sentimiento": "negativo",
     "evidencia_clasificacion": [
       "no\\s+retira"
@@ -5643,7 +5679,7 @@
     "numero": "164510249824382",
     "celular": "+54 9 3816 374-877",
     "nombre": "",
-    "direccion": "",
+    "direccion": "Entre Ríos 728",
     "sentimiento": "negativo",
     "evidencia_clasificacion": [
       "no\\s+pasa"
@@ -7819,7 +7855,7 @@
     "numero": "153811519828223",
     "celular": "+54 9 3816 681-215",
     "nombre": "",
-    "direccion": "",
+    "direccion": "domingo García 981",
     "sentimiento": "positivo",
     "evidencia_clasificacion": [
       "ya pasaron"
@@ -8288,7 +8324,7 @@
     "numero": "18241397256285",
     "celular": "+54 9 3815 908-281",
     "nombre": "",
-    "direccion": "",
+    "direccion": "muñecas 485",
     "sentimiento": "neutro",
     "evidencia_clasificacion": [],
     "canal": "WhatsApp Ambiente",
@@ -10123,7 +10159,7 @@
     "numero": "265338834948187",
     "celular": "+54 9 3815 294-499",
     "nombre": "",
-    "direccion": "",
+    "direccion": "PASAJE COLON 2067",
     "sentimiento": "neutro",
     "evidencia_clasificacion": [],
     "canal": "WhatsApp Ambiente",
@@ -11038,7 +11074,7 @@
     "numero": "56500361949336",
     "celular": "+54 9 3815 644-721",
     "nombre": "",
-    "direccion": "",
+    "direccion": "Domingo García 983",
     "sentimiento": "neutro",
     "evidencia_clasificacion": [],
     "canal": "WhatsApp Ambiente",
@@ -11428,7 +11464,7 @@
     "numero": "183592823058468",
     "celular": "+54 9 3813 390-477",
     "nombre": "",
-    "direccion": "",
+    "direccion": "Entre Ríos 4200",
     "sentimiento": "neutro",
     "evidencia_clasificacion": [],
     "canal": "WhatsApp Ambiente",
@@ -13978,7 +14014,7 @@
     "numero": "5644325249157",
     "celular": "+54 9 3812 086-632",
     "nombre": "",
-    "direccion": "",
+    "direccion": "Paraguay 2466",
     "sentimiento": "neutro",
     "evidencia_clasificacion": [],
     "canal": "WhatsApp Ambiente",
@@ -15359,7 +15395,7 @@
     "numero": "208224460517550",
     "celular": "+54 9 3814 135-552",
     "nombre": "",
-    "direccion": "",
+    "direccion": "pje cabildo 1516",
     "sentimiento": "neutro",
     "evidencia_clasificacion": [],
     "canal": "WhatsApp Ambiente",
@@ -15639,7 +15675,7 @@
     "numero": "52922620604606",
     "celular": "+54 9 3815 400-082",
     "nombre": "",
-    "direccion": "",
+    "direccion": "ALSINA 660",
     "sentimiento": "neutro",
     "evidencia_clasificacion": [],
     "canal": "WhatsApp Ambiente",
@@ -15703,7 +15739,7 @@
     "numero": "237035084361780",
     "celular": "+54 9 3815 037-214",
     "nombre": "",
-    "direccion": "",
+    "direccion": "Inca garcilazo 3902",
     "sentimiento": "neutro",
     "evidencia_clasificacion": [],
     "canal": "WhatsApp Ambiente",
@@ -16244,7 +16280,7 @@
     "numero": "142940974374993",
     "celular": "+54 9 3814 405-739",
     "nombre": "",
-    "direccion": "",
+    "direccion": "La Rioja 746",
     "sentimiento": "neutro",
     "evidencia_clasificacion": [],
     "canal": "WhatsApp Ambiente",
@@ -16346,7 +16382,7 @@
     "numero": "89073343557690",
     "celular": "+54 9 3814 955-666",
     "nombre": "",
-    "direccion": "",
+    "direccion": "Las Piedras 2304",
     "sentimiento": "positivo",
     "evidencia_clasificacion": [
       "perfecto muchas gracias"
@@ -16515,7 +16551,7 @@
     "numero": "73783360667779",
     "celular": "+54 9 3815 139-699",
     "nombre": "",
-    "direccion": "",
+    "direccion": "La Rioja 31",
     "sentimiento": "neutro",
     "evidencia_clasificacion": [],
     "canal": "WhatsApp Ambiente",
@@ -19829,7 +19865,7 @@
     "numero": "181557042143476",
     "celular": "+54 9 3813 036-749",
     "nombre": "",
-    "direccion": "",
+    "direccion": "Las Piedras 74",
     "sentimiento": "neutro",
     "evidencia_clasificacion": [],
     "canal": "WhatsApp Ambiente",
@@ -19917,7 +19953,7 @@
     "numero": "270072039882949",
     "celular": "+54 9 3816 716-687",
     "nombre": "",
-    "direccion": "",
+    "direccion": "Las Piedras 3143",
     "sentimiento": "neutro",
     "evidencia_clasificacion": [],
     "canal": "WhatsApp Ambiente",
@@ -23062,7 +23098,7 @@
     "numero": "160906772254924",
     "celular": "+54 9 3815 948-547",
     "nombre": "",
-    "direccion": "",
+    "direccion": "Las Piedras 3332",
     "sentimiento": "neutro",
     "evidencia_clasificacion": [],
     "canal": "WhatsApp Ambiente",
@@ -23935,7 +23971,7 @@
     "numero": "56753798566080",
     "celular": "+54 9 1151 032-604",
     "nombre": "",
-    "direccion": "",
+    "direccion": "Tomás edison 757",
     "sentimiento": "neutro",
     "evidencia_clasificacion": [],
     "canal": "WhatsApp Ambiente",
@@ -25308,7 +25344,7 @@
     "numero": "72859892371697",
     "celular": "+54 9 3813 880-232",
     "nombre": "",
-    "direccion": "",
+    "direccion": "Entre Ríos 264",
     "sentimiento": "neutro",
     "evidencia_clasificacion": [],
     "canal": "WhatsApp Ambiente",
@@ -25566,7 +25602,7 @@
     "numero": "44281549058072",
     "celular": "+54 9 3816 099-975",
     "nombre": "",
-    "direccion": "",
+    "direccion": "americo vespucio 4000",
     "sentimiento": "positivo",
     "evidencia_clasificacion": [
       "ya pasaron",
@@ -25992,7 +26028,7 @@
     "numero": "124708821459177",
     "celular": "+54 9 3816 365-086",
     "nombre": "",
-    "direccion": "",
+    "direccion": "calle Italia 1768",
     "sentimiento": "neutro",
     "evidencia_clasificacion": [],
     "canal": "WhatsApp Ambiente",
@@ -26300,7 +26336,7 @@
     "numero": "134196303532140",
     "celular": "+54 9 3816 327-443",
     "nombre": "",
-    "direccion": "",
+    "direccion": "congreso 1053",
     "sentimiento": "neutro",
     "evidencia_clasificacion": [],
     "canal": "WhatsApp Ambiente",
@@ -28085,7 +28121,7 @@
     "numero": "206785512226849",
     "celular": "+54 9 3814 162-025",
     "nombre": "",
-    "direccion": "",
+    "direccion": "Alberdi 1079",
     "sentimiento": "neutro",
     "evidencia_clasificacion": [],
     "canal": "WhatsApp Ambiente",
@@ -30176,7 +30212,7 @@
     "numero": "207855009460374",
     "celular": "+54 9 3814 091-444",
     "nombre": "",
-    "direccion": "",
+    "direccion": "Corrientes 1360",
     "sentimiento": "neutro",
     "evidencia_clasificacion": [],
     "canal": "WhatsApp Ambiente",
@@ -31198,7 +31234,7 @@
     "numero": "100871702585372",
     "celular": "+54 9 3814 193-036",
     "nombre": "",
-    "direccion": "",
+    "direccion": "La Rioja 1001",
     "sentimiento": "neutro",
     "evidencia_clasificacion": [],
     "canal": "WhatsApp Ambiente",
@@ -31507,7 +31543,7 @@
     "numero": "190116878364738",
     "celular": "+54 9 3816 013-087",
     "nombre": "",
-    "direccion": "",
+    "direccion": "Larrea 2425",
     "sentimiento": "positivo",
     "evidencia_clasificacion": [
       "dale gracias"
@@ -32129,7 +32165,7 @@
     "numero": "193269250142350",
     "celular": "+54 9 3815 684-997",
     "nombre": "",
-    "direccion": "",
+    "direccion": "Entre Ríos 1564",
     "sentimiento": "neutro",
     "evidencia_clasificacion": [],
     "canal": "WhatsApp Ambiente",
@@ -33141,7 +33177,7 @@
     "numero": "24193668247777",
     "celular": "+54 9 3815 137-646",
     "nombre": "",
-    "direccion": "",
+    "direccion": "Entre Ríos 103",
     "sentimiento": "neutro",
     "evidencia_clasificacion": [],
     "canal": "WhatsApp Ambiente",
@@ -34718,7 +34754,7 @@
     "numero": "262091890004189",
     "celular": "+54 9 3815 351-888",
     "nombre": "",
-    "direccion": "",
+    "direccion": "Salvador M 42",
     "sentimiento": "neutro",
     "evidencia_clasificacion": [],
     "canal": "WhatsApp Ambiente",
@@ -34876,7 +34912,7 @@
     "numero": "104793074847944",
     "celular": "+54 9 3814 749-052",
     "nombre": "",
-    "direccion": "",
+    "direccion": "benjamin villafañe 1062",
     "sentimiento": "neutro",
     "evidencia_clasificacion": [],
     "canal": "WhatsApp Ambiente",
@@ -35901,7 +35937,7 @@
     "numero": "46037771235354",
     "celular": "+54 9 3816 374-798",
     "nombre": "",
-    "direccion": "",
+    "direccion": "celedonio Gutierrez 928",
     "sentimiento": "neutro",
     "evidencia_clasificacion": [],
     "canal": "WhatsApp Ambiente",
@@ -38107,7 +38143,7 @@
     "numero": "184258459090955",
     "celular": "+54 9 3813 313-699",
     "nombre": "",
-    "direccion": "",
+    "direccion": "Las Piedras 773",
     "sentimiento": "neutro",
     "evidencia_clasificacion": [],
     "canal": "WhatsApp Ambiente",
@@ -38118,51 +38154,5 @@
       "Las Piedras 773."
     ],
     "ultimaActualizacion": "2026-03-31"
-  },
-  {
-    "numero": "156564845547756",
-    "celular": "+54 9 3815 171-395",
-    "nombre": "",
-    "direccion": null,
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Listo!",
-    "mensaje": "Buen día ya le envio",
-    "fecha": "2026-07-06T13:15:46.117Z",
-    "ultimaActualizacion": "2026-07-06T13:22:18.686Z",
-    "historialMensajes": [
-      {
-        "texto": "Buen día ya le envio",
-        "fecha": "2026-07-06T13:15:46.117Z",
-        "sentimiento": "neutro"
-      },
-      {
-        "texto": "Listo!",
-        "fecha": "2026-07-06T13:22:18.686Z",
-        "sentimiento": "neutro"
-      }
-    ]
-  },
-  {
-    "numero": "136842137579702",
-    "celular": "+54 9 3815 012-912",
-    "nombre": "",
-    "direccion": "Buenos Aires 2500",
-    "sentimiento": "negativo",
-    "ultimoMensaje": "Ya misma bolsa sigue ahí en la esquina es en Buenos Aires 2500, esquina pasaje Juan Padrós, el camión pasaba los sábados y desde hace 2 sábados no pasa; la semana pasada se llevaron la bolsa el día martes",
-    "mensaje": "La foto corresponde al día sábado cuando el barrendero dejó la bolsa",
-    "fecha": "2026-07-06T13:15:51.358Z",
-    "ultimaActualizacion": "2026-07-06T13:21:48.839Z",
-    "historialMensajes": [
-      {
-        "texto": "La foto corresponde al día sábado cuando el barrendero dejó la bolsa",
-        "fecha": "2026-07-06T13:15:51.358Z",
-        "sentimiento": "positivo"
-      },
-      {
-        "texto": "Ya misma bolsa sigue ahí en la esquina es en Buenos Aires 2500, esquina pasaje Juan Padrós, el camión pasaba los sábados y desde hace 2 sábados no pasa; la semana pasada se llevaron la bolsa el día ma",
-        "fecha": "2026-07-06T13:21:48.839Z",
-        "sentimiento": "negativo"
-      }
-    ]
   }
 ]
