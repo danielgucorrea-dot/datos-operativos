@@ -9356,8 +9356,8 @@
     "numero": "164072079290498",
     "celular": "+54 9 3815 354-391",
     "nombre": "",
-    "direccion": "",
-    "sentimiento": "positivo",
+    "direccion": "Ayacucho 3550",
+    "sentimiento": "neutro",
     "evidencia_clasificacion": [],
     "canal": "WhatsApp Ambiente",
     "fecha": "2026-06-15",
@@ -9365,13 +9365,18 @@
     "conversacion_completa": [
       "Hola quisiera solicitar el camión tengo troncos de árboles que necesito hacer retirar!🙏🏻🙏🏻🙏🏻"
     ],
-    "ultimaActualizacion": "2026-07-06T14:59:21.035Z",
-    "ultimoMensaje": "Buen día son estos 2 troncos y unas ramas que necesito sacar!",
+    "ultimaActualizacion": "2026-07-06T14:59:24.005Z",
+    "ultimoMensaje": "Ayacucho 3550",
     "historialMensajes": [
       {
         "texto": "Buen día son estos 2 troncos y unas ramas que necesito sacar!",
         "fecha": "2026-07-06T14:59:21.035Z",
         "sentimiento": "positivo"
+      },
+      {
+        "texto": "Ayacucho 3550",
+        "fecha": "2026-07-06T14:59:24.005Z",
+        "sentimiento": "neutro"
       }
     ]
   },
