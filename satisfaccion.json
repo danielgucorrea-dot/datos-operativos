@@ -1105,7 +1105,7 @@
   },
   {
     "numero": "80952332136575",
-    "celular": "",
+    "celular": "+54 9 3812 150-131",
     "nombre": "",
     "direccion": "",
     "sentimiento": "neutro",
@@ -1116,7 +1116,20 @@
     "conversacion_completa": [
       "Buenas noches"
     ],
-    "ultimaActualizacion": "2026-07-01"
+    "ultimaActualizacion": "2026-07-06T17:53:18.545Z",
+    "ultimoMensaje": "Un mueble, 2 colchones, una chapa, 1 ventilador, 3 esqueletos de sillas",
+    "historialMensajes": [
+      {
+        "texto": "Buenas tardes \nEscribo para solicitar un retiro de residuos no habituales \nAdjunto las fotos",
+        "fecha": "2026-07-06T17:51:49.416Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Un mueble, 2 colchones, una chapa, 1 ventilador, 3 esqueletos de sillas",
+        "fecha": "2026-07-06T17:53:18.545Z",
+        "sentimiento": "neutro"
+      }
+    ]
   },
   {
     "numero": "173765887529013",
