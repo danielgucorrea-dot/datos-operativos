@@ -38264,5 +38264,23 @@
         "sentimiento": "neutro"
       }
     ]
+  },
+  {
+    "numero": "96426428244054",
+    "celular": "+54 9 3816 541-122",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Ok. Ya se la envío",
+    "mensaje": "Ok. Ya se la envío",
+    "fecha": "2026-07-06T13:50:45.428Z",
+    "ultimaActualizacion": "2026-07-06T13:50:45.428Z",
+    "historialMensajes": [
+      {
+        "texto": "Ok. Ya se la envío",
+        "fecha": "2026-07-06T13:50:45.428Z",
+        "sentimiento": "positivo"
+      }
+    ]
   }
 ]
