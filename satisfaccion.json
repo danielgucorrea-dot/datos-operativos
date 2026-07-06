@@ -139,10 +139,10 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "positivo",
-    "ultimoMensaje": "bien",
+    "ultimoMensaje": "gracias",
     "mensaje": "Hola!",
     "fecha": "2026-07-04T20:15:16.267Z",
-    "ultimaActualizacion": "2026-07-06T12:29:18.276Z",
+    "ultimaActualizacion": "2026-07-06T12:29:22.727Z",
     "historialMensajes": [
       {
         "texto": "Hola!",
@@ -162,6 +162,11 @@
       {
         "texto": "bien",
         "fecha": "2026-07-06T12:29:18.276Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "gracias",
+        "fecha": "2026-07-06T12:29:22.727Z",
         "sentimiento": "positivo"
       }
     ]
