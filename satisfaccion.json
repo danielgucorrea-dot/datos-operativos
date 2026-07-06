@@ -3209,7 +3209,7 @@
   },
   {
     "numero": "3307259084810",
-    "celular": "",
+    "celular": "+54 9 3813 924-750",
     "nombre": "",
     "direccion": "",
     "sentimiento": "neutro",
@@ -3220,7 +3220,15 @@
     "conversacion_completa": [
       "Hola"
     ],
-    "ultimaActualizacion": "2026-06-26"
+    "ultimaActualizacion": "2026-07-06T17:29:27.889Z",
+    "ultimoMensaje": "Buen día",
+    "historialMensajes": [
+      {
+        "texto": "Buen día",
+        "fecha": "2026-07-06T17:29:27.889Z",
+        "sentimiento": "neutro"
+      }
+    ]
   },
   {
     "numero": "103985486807279",
