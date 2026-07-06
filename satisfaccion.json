@@ -414,7 +414,7 @@
     "celular": "+54 9 3814 175-742",
     "nombre": "",
     "direccion": "Barrio San Cayetano",
-    "sentimiento": "neutro",
+    "sentimiento": "positivo",
     "evidencia_clasificacion": [],
     "canal": "WhatsApp Ambiente",
     "fecha": "2026-07-01",
@@ -423,8 +423,8 @@
       "Quiero solicitar mi retiro de residuos no habituales",
       "Hola!"
     ],
-    "ultimaActualizacion": "2026-07-06T13:44:54.054Z",
-    "ultimoMensaje": "Pje 10/35 1850 Altura Ricardo Rojas al 400.Barrio San Cayetano",
+    "ultimaActualizacion": "2026-07-06T13:53:40.764Z",
+    "ultimoMensaje": "Ok cuando llegue le comparto",
     "historialMensajes": [
       {
         "texto": "Neumáticos",
@@ -460,6 +460,11 @@
         "texto": "Pje 10/35 1850 Altura Ricardo Rojas al 400.Barrio San Cayetano",
         "fecha": "2026-07-06T13:44:54.054Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Ok cuando llegue le comparto",
+        "fecha": "2026-07-06T13:53:40.764Z",
+        "sentimiento": "positivo"
       }
     ]
   },
