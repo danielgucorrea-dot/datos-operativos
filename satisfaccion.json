@@ -38921,5 +38921,23 @@
         "sentimiento": "neutro"
       }
     ]
+  },
+  {
+    "numero": "127680955584679",
+    "celular": "+54 9 3814 470-700",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "negativo",
+    "ultimoMensaje": "Toda esta cuadra de la don bosco una mugre",
+    "mensaje": "Toda esta cuadra de la don bosco una mugre",
+    "fecha": "2026-07-06T22:20:32.211Z",
+    "ultimaActualizacion": "2026-07-06T22:20:32.211Z",
+    "historialMensajes": [
+      {
+        "texto": "Toda esta cuadra de la don bosco una mugre",
+        "fecha": "2026-07-06T22:20:32.211Z",
+        "sentimiento": "negativo"
+      }
+    ]
   }
 ]
