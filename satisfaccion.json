@@ -38866,11 +38866,11 @@
     "celular": "+54 9 3815 299-226",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Tenemos una emergencia",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Necesitamos tirar los desechos de un incendio en el domicilio de mi hermana",
     "mensaje": "Buenas tardes",
     "fecha": "2026-07-06T21:25:57.525Z",
-    "ultimaActualizacion": "2026-07-06T21:26:00.028Z",
+    "ultimaActualizacion": "2026-07-06T21:26:41.612Z",
     "historialMensajes": [
       {
         "texto": "Buenas tardes",
@@ -38881,6 +38881,11 @@
         "texto": "Tenemos una emergencia",
         "fecha": "2026-07-06T21:26:00.028Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Necesitamos tirar los desechos de un incendio en el domicilio de mi hermana",
+        "fecha": "2026-07-06T21:26:41.612Z",
+        "sentimiento": "positivo"
       }
     ]
   }
