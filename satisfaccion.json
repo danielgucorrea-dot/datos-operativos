@@ -38366,5 +38366,23 @@
         "sentimiento": "positivo"
       }
     ]
+  },
+  {
+    "numero": "211020350017762",
+    "celular": "+54 9 3814 132-770",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "hola",
+    "mensaje": "hola",
+    "fecha": "2026-07-06T14:28:13.467Z",
+    "ultimaActualizacion": "2026-07-06T14:28:13.467Z",
+    "historialMensajes": [
+      {
+        "texto": "hola",
+        "fecha": "2026-07-06T14:28:13.467Z",
+        "sentimiento": "neutro"
+      }
+    ]
   }
 ]
