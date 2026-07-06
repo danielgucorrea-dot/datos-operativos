@@ -3393,7 +3393,15 @@
       "Necesitamos con urgencia! Limpieza en pasaje victorino de la plaza 1799 y lavaise al 900 , es imposible transitar, están creando un basural!",
       "Buen dia"
     ],
-    "ultimaActualizacion": "2026-06-26"
+    "ultimaActualizacion": "2026-07-06T14:22:58.699Z",
+    "ultimoMensaje": "A que número debo denunciar",
+    "historialMensajes": [
+      {
+        "texto": "A que número debo denunciar",
+        "fecha": "2026-07-06T14:22:58.699Z",
+        "sentimiento": "neutro"
+      }
+    ]
   },
   {
     "numero": "207893647372459",
