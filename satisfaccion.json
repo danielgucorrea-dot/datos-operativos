@@ -18526,7 +18526,7 @@
     "celular": "+54 9 3815 100-023",
     "nombre": "",
     "direccion": "",
-    "sentimiento": "negativo",
+    "sentimiento": "positivo",
     "evidencia_clasificacion": [],
     "canal": "WhatsApp Ambiente",
     "fecha": "2026-06-01",
@@ -18543,14 +18543,9 @@
       "Genial. Ahí le aviso. Marque sin querer",
       "Le pase tu número a una vecina que necesita  que le retiren residuos"
     ],
-    "ultimaActualizacion": "2026-07-06T15:28:23.484Z",
-    "ultimoMensaje": "Me sale no valido",
+    "ultimaActualizacion": "2026-07-06T15:37:26.886Z",
+    "ultimoMensaje": "Perfecto",
     "historialMensajes": [
-      {
-        "texto": "Lo tienen que generar ustedes",
-        "fecha": "2026-07-06T14:59:47.584Z",
-        "sentimiento": "neutro"
-      },
       {
         "texto": "Si. Lo tengo mal agendado",
         "fecha": "2026-07-06T15:02:55.557Z",
@@ -18595,6 +18590,11 @@
         "texto": "Me sale no valido",
         "fecha": "2026-07-06T15:28:23.484Z",
         "sentimiento": "negativo"
+      },
+      {
+        "texto": "Perfecto",
+        "fecha": "2026-07-06T15:37:26.886Z",
+        "sentimiento": "positivo"
       }
     ]
   },
