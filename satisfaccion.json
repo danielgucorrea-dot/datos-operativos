@@ -37092,8 +37092,8 @@
       "Las cosas están en San Luis 122",
       "Ok! Gracias!"
     ],
-    "ultimaActualizacion": "2026-07-06T16:26:49.441Z",
-    "ultimoMensaje": "San Luis 131",
+    "ultimaActualizacion": "2026-07-06T16:27:14.243Z",
+    "ultimoMensaje": "A la altura del contenedor que está en la cuadra",
     "historialMensajes": [
       {
         "texto": "Buenas tardes",
@@ -37103,6 +37103,11 @@
       {
         "texto": "San Luis 131",
         "fecha": "2026-07-06T16:26:49.441Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "A la altura del contenedor que está en la cuadra",
+        "fecha": "2026-07-06T16:27:14.243Z",
         "sentimiento": "neutro"
       }
     ]
