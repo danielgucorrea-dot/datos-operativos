@@ -38125,14 +38125,19 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "neutro",
-    "ultimoMensaje": "Buen día ya le envio",
+    "ultimoMensaje": "Listo!",
     "mensaje": "Buen día ya le envio",
     "fecha": "2026-07-06T13:15:46.117Z",
-    "ultimaActualizacion": "2026-07-06T13:15:46.117Z",
+    "ultimaActualizacion": "2026-07-06T13:22:18.686Z",
     "historialMensajes": [
       {
         "texto": "Buen día ya le envio",
         "fecha": "2026-07-06T13:15:46.117Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Listo!",
+        "fecha": "2026-07-06T13:22:18.686Z",
         "sentimiento": "neutro"
       }
     ]
@@ -38141,17 +38146,22 @@
     "numero": "136842137579702",
     "celular": "+54 9 3815 012-912",
     "nombre": "",
-    "direccion": null,
-    "sentimiento": "positivo",
-    "ultimoMensaje": "La foto corresponde al día sábado cuando el barrendero dejó la bolsa",
+    "direccion": "Buenos Aires 2500",
+    "sentimiento": "negativo",
+    "ultimoMensaje": "Ya misma bolsa sigue ahí en la esquina es en Buenos Aires 2500, esquina pasaje Juan Padrós, el camión pasaba los sábados y desde hace 2 sábados no pasa; la semana pasada se llevaron la bolsa el día martes",
     "mensaje": "La foto corresponde al día sábado cuando el barrendero dejó la bolsa",
     "fecha": "2026-07-06T13:15:51.358Z",
-    "ultimaActualizacion": "2026-07-06T13:15:51.358Z",
+    "ultimaActualizacion": "2026-07-06T13:21:48.839Z",
     "historialMensajes": [
       {
         "texto": "La foto corresponde al día sábado cuando el barrendero dejó la bolsa",
         "fecha": "2026-07-06T13:15:51.358Z",
         "sentimiento": "positivo"
+      },
+      {
+        "texto": "Ya misma bolsa sigue ahí en la esquina es en Buenos Aires 2500, esquina pasaje Juan Padrós, el camión pasaba los sábados y desde hace 2 sábados no pasa; la semana pasada se llevaron la bolsa el día ma",
+        "fecha": "2026-07-06T13:21:48.839Z",
+        "sentimiento": "negativo"
       }
     ]
   }
