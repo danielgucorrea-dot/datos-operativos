@@ -12315,7 +12315,7 @@
     "celular": "+54 9 3813 858-416",
     "nombre": "",
     "direccion": "barrio ciudad parque",
-    "sentimiento": "neutro",
+    "sentimiento": "positivo",
     "evidencia_clasificacion": [
       "no\\s+pasa",
       "no\\s+llega"
@@ -12337,13 +12337,18 @@
       "Genial si es para solicitar recolección de escombros ya los tengo en la vereda en bolsas",
       "Hola buen día"
     ],
-    "ultimaActualizacion": "2026-07-06T14:24:52.897Z",
-    "ultimoMensaje": "Hola buenos dias",
+    "ultimaActualizacion": "2026-07-06T14:30:34.232Z",
+    "ultimoMensaje": "Pje bascary 4343 es la dirección",
     "historialMensajes": [
       {
         "texto": "Hola buenos dias",
         "fecha": "2026-07-06T14:24:52.897Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Pje bascary 4343 es la dirección",
+        "fecha": "2026-07-06T14:30:34.232Z",
+        "sentimiento": "positivo"
       }
     ]
   },
