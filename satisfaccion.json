@@ -40,11 +40,11 @@
     "celular": "+54 9 3813 025-838",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Necesito hacer una consulta",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Tengo unas bolsas de escombro",
     "mensaje": "Hola",
     "fecha": "2026-07-06T11:59:04.630Z",
-    "ultimaActualizacion": "2026-07-06T12:00:11.405Z",
+    "ultimaActualizacion": "2026-07-06T13:06:59.962Z",
     "historialMensajes": [
       {
         "texto": "Hola",
@@ -55,6 +55,11 @@
         "texto": "Necesito hacer una consulta",
         "fecha": "2026-07-06T12:00:11.405Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Tengo unas bolsas de escombro",
+        "fecha": "2026-07-06T13:06:59.962Z",
+        "sentimiento": "positivo"
       }
     ]
   },
