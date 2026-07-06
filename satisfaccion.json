@@ -18473,8 +18473,8 @@
       "Genial. Ahí le aviso. Marque sin querer",
       "Le pase tu número a una vecina que necesita  que le retiren residuos"
     ],
-    "ultimaActualizacion": "2026-07-06T15:03:17.229Z",
-    "ultimoMensaje": "Cuál otro?",
+    "ultimaActualizacion": "2026-07-06T15:03:25.828Z",
+    "ultimoMensaje": "Si. El de rebe",
     "historialMensajes": [
       {
         "texto": "Buenas",
@@ -18514,6 +18514,11 @@
       {
         "texto": "Cuál otro?",
         "fecha": "2026-07-06T15:03:17.229Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Si. El de rebe",
+        "fecha": "2026-07-06T15:03:25.828Z",
         "sentimiento": "neutro"
       }
     ]
