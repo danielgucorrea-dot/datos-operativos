@@ -9357,7 +9357,7 @@
     "celular": "+54 9 3815 354-391",
     "nombre": "",
     "direccion": "",
-    "sentimiento": "neutro",
+    "sentimiento": "positivo",
     "evidencia_clasificacion": [],
     "canal": "WhatsApp Ambiente",
     "fecha": "2026-06-15",
@@ -9365,7 +9365,15 @@
     "conversacion_completa": [
       "Hola quisiera solicitar el camión tengo troncos de árboles que necesito hacer retirar!🙏🏻🙏🏻🙏🏻"
     ],
-    "ultimaActualizacion": "2026-06-15"
+    "ultimaActualizacion": "2026-07-06T14:59:21.035Z",
+    "ultimoMensaje": "Buen día son estos 2 troncos y unas ramas que necesito sacar!",
+    "historialMensajes": [
+      {
+        "texto": "Buen día son estos 2 troncos y unas ramas que necesito sacar!",
+        "fecha": "2026-07-06T14:59:21.035Z",
+        "sentimiento": "positivo"
+      }
+    ]
   },
   {
     "numero": "110574016970964",
