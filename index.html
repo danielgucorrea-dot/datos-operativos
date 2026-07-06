@@ -258,10 +258,14 @@ function aplicarFiltro() {
   const sat = (datos.satisfaccion || []).filter(s => s.celular && s.celular.trim())
 
   const ahora = new Date()
-  const filtradosPeriodo = dias === 0 ? sat : sat.filter(s => {
+  const filtradosPeriodo = (dias === 0 ? sat : sat.filter(s => {
     if (!s.fecha) return false
     const diff = (ahora - new Date(s.fecha)) / (1000*60*60*24)
     return diff <= dias
+  })).sort((a, b) => {
+    const fa = a.ultimaActualizacion || a.fecha || ''
+    const fb = b.ultimaActualizacion || b.fecha || ''
+    return fb.localeCompare(fa)
   })
 
   const pos = filtradosPeriodo.filter(s => s.sentimiento === 'positivo')
@@ -361,14 +365,17 @@ function verificarPin() {
     const cls = d.sentimiento === 'positivo' ? 'pos' : d.sentimiento === 'negativo' ? 'neg' : 'neu'
     const label = d.sentimiento === 'positivo' ? 'Satisfecho' : d.sentimiento === 'negativo' ? 'Disconforme' : 'Neutro'
     const evidencia = d.evidencia_clasificacion || []
-    const conv = d.conversacion_completa || (d.mensaje ? [d.mensaje] : [])
+    // Soportar tanto el nuevo sistema (historialMensajes) como el histórico (conversacion_completa)
+    const convHistorial = d.historialMensajes ? d.historialMensajes.map(h => h.texto || h) : []
+    const convHistorico = d.conversacion_completa || (d.mensaje ? [d.mensaje] : [])
+    const conv = convHistorial.length > 0 ? convHistorial : convHistorico
     document.getElementById('modal-contenido').innerHTML = `
       <div class="modal-body">
         <div style="margin-bottom:14px;padding-bottom:12px;border-bottom:1px solid #f0f0ea;">
           <div style="font-size:14px;font-family:monospace;font-weight:700;">${d.celular || 'Sin número'}</div>
           ${d.nombre ? `<div style="font-size:12px;color:#666;margin-top:2px;">${d.nombre}</div>` : ''}
           ${d.direccion ? `<div style="font-size:12px;color:#888;margin-top:2px;">📍 ${d.direccion}</div>` : ''}
-          ${d.fecha ? `<div style="font-size:11px;color:#aaa;margin-top:2px;">${d.fecha.slice(0,10)}</div>` : ''}
+          ${(d.ultimaActualizacion || d.fecha) ? `<div style="font-size:11px;color:#aaa;margin-top:2px;">Último mensaje: ${(d.ultimaActualizacion || d.fecha).slice(0,10)}</div>` : ''}
           <span class="badge ${cls}" style="margin-top:6px;display:inline-block;">${label}</span>
           ${evidencia.length ? `<div style="font-size:11px;color:#888;margin-top:6px;"><strong>Clasificado por:</strong> "${evidencia.join('", "')}"</div>` : (label==='Neutro' ? '<div style="font-size:11px;color:#aaa;margin-top:6px;font-style:italic;">Sin frase de cierre/resolución detectada</div>' : '')}
         </div>
