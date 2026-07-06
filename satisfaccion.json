@@ -41,10 +41,10 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "neutro",
-    "ultimoMensaje": "Son 10 bolsas",
+    "ultimoMensaje": "Hay algún lugar donde llevar?",
     "mensaje": "Hola",
     "fecha": "2026-07-06T11:59:04.630Z",
-    "ultimaActualizacion": "2026-07-06T13:07:41.146Z",
+    "ultimaActualizacion": "2026-07-06T13:09:42.435Z",
     "historialMensajes": [
       {
         "texto": "Hola",
@@ -69,6 +69,11 @@
       {
         "texto": "Son 10 bolsas",
         "fecha": "2026-07-06T13:07:41.146Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Hay algún lugar donde llevar?",
+        "fecha": "2026-07-06T13:09:42.435Z",
         "sentimiento": "neutro"
       }
     ]
