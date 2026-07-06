@@ -3378,7 +3378,7 @@
     "celular": "+54 9 3814 130-934",
     "nombre": "",
     "direccion": "",
-    "sentimiento": "neutro",
+    "sentimiento": "negativo",
     "evidencia_clasificacion": [],
     "canal": "WhatsApp Ambiente",
     "fecha": "2026-06-26",
@@ -3393,13 +3393,18 @@
       "Necesitamos con urgencia! Limpieza en pasaje victorino de la plaza 1799 y lavaise al 900 , es imposible transitar, están creando un basural!",
       "Buen dia"
     ],
-    "ultimaActualizacion": "2026-07-06T14:22:58.699Z",
-    "ultimoMensaje": "A que número debo denunciar",
+    "ultimaActualizacion": "2026-07-06T14:24:20.087Z",
+    "ultimoMensaje": "Vecino de la misma cuadra,  solo que no lo hacen ellos si no pagan para que tiren",
     "historialMensajes": [
       {
         "texto": "A que número debo denunciar",
         "fecha": "2026-07-06T14:22:58.699Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Vecino de la misma cuadra,  solo que no lo hacen ellos si no pagan para que tiren",
+        "fecha": "2026-07-06T14:24:20.087Z",
+        "sentimiento": "negativo"
       }
     ]
   },
