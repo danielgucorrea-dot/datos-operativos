@@ -33988,7 +33988,7 @@
       "celular": "+54 9 3815 326-436",
       "nombre": "",
       "direccion": "Isabel la Católica 619",
-      "sentimiento": "positivo",
+      "sentimiento": "neutro",
       "evidencia_clasificacion": [],
       "canal": "WhatsApp Ambiente",
       "fecha": "2026-05-04",
@@ -34002,8 +34002,8 @@
         "Tengo una heladera, chapa  lavarropas y unas chapas viejas. Podrían pasar a buscar?",
         "Buen día!"
       ],
-      "ultimaActualizacion": "2026-07-06T14:01:10.424Z",
-      "ultimoMensaje": "En la bolsa negra grande restos dedos ventiladores y maderas cartones , algunos plásticos 4 bolsas escombros  5 de limpieza jardín.",
+      "ultimaActualizacion": "2026-07-06T14:01:42.549Z",
+      "ultimoMensaje": "También unos pedasia de segmento y piedra.",
       "historialMensajes": [
         {
           "texto": "Buen día!",
@@ -34029,6 +34029,11 @@
           "texto": "En la bolsa negra grande restos dedos ventiladores y maderas cartones , algunos plásticos 4 bolsas escombros  5 de limpieza jardín.",
           "fecha": "2026-07-06T14:01:10.424Z",
           "sentimiento": "positivo"
+        },
+        {
+          "texto": "También unos pedasia de segmento y piedra.",
+          "fecha": "2026-07-06T14:01:42.549Z",
+          "sentimiento": "neutro"
         }
       ],
       "telefono": "+54 9 3815 326-436",
@@ -47561,9 +47566,9 @@
   ],
   "pedidos": {
     "bot": 2,
-    "bam": 28,
+    "bam": 29,
     "completados": 0,
-    "pendientes": 30
+    "pendientes": 31
   },
   "reclamos": {
     "total": 3087,
@@ -47576,5 +47581,5 @@
     "WhatsApp Ambiente": 1856
   },
   "totalVecinos": 1856,
-  "actualizado": "2026-07-06T14:01:17.305Z"
+  "actualizado": "2026-07-06T14:01:43.510Z"
 }
