@@ -36169,5 +36169,28 @@
       "Las Piedras 773."
     ],
     "ultimaActualizacion": "2026-03-31"
+  },
+  {
+    "numero": "192401784209648",
+    "celular": "+54 9 3814 175-742",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Le envío las fotos de los residuos",
+    "mensaje": "Buenos días",
+    "fecha": "2026-07-06T13:04:47.982Z",
+    "ultimaActualizacion": "2026-07-06T13:05:12.430Z",
+    "historialMensajes": [
+      {
+        "texto": "Buenos días",
+        "fecha": "2026-07-06T13:04:47.982Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Le envío las fotos de los residuos",
+        "fecha": "2026-07-06T13:05:12.430Z",
+        "sentimiento": "neutro"
+      }
+    ]
   }
 ]

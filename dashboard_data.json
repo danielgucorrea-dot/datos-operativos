@@ -44945,6 +44945,35 @@
       "lat": null,
       "lon": null,
       "distrito": null
+    },
+    {
+      "numero": "192401784209648",
+      "celular": "+54 9 3814 175-742",
+      "nombre": "",
+      "direccion": "",
+      "sentimiento": "neutro",
+      "ultimoMensaje": "Le envío las fotos de los residuos",
+      "mensaje": "Buenos días",
+      "fecha": "2026-07-06T13:04:47.982Z",
+      "ultimaActualizacion": "2026-07-06T13:05:12.430Z",
+      "historialMensajes": [
+        {
+          "texto": "Buenos días",
+          "fecha": "2026-07-06T13:04:47.982Z",
+          "sentimiento": "neutro"
+        },
+        {
+          "texto": "Le envío las fotos de los residuos",
+          "fecha": "2026-07-06T13:05:12.430Z",
+          "sentimiento": "neutro"
+        }
+      ],
+      "canal": "WhatsApp Ambiente",
+      "telefono": "+54 9 3814 175-742",
+      "email": "",
+      "lat": null,
+      "lon": null,
+      "distrito": null
     }
   ],
   "pedidos": {
@@ -44961,8 +44990,8 @@
     "derivados": 31
   },
   "canales": {
-    "WhatsApp Ambiente": 1753
+    "WhatsApp Ambiente": 1754
   },
-  "totalVecinos": 1753,
-  "actualizado": "2026-07-06T13:04:39.246Z"
+  "totalVecinos": 1754,
+  "actualizado": "2026-07-06T13:05:12.870Z"
 }
