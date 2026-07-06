@@ -34285,11 +34285,11 @@
     "celular": "+54 9 3813 190-899",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Buenas tardes, soy Silvana Canseco,  coordinadora de Poiesis centro educativo terapéutico. Me compartieron su contacto para poder agendar un turno para poder visitar el predio de reciclaje de la calle Lamadrid pasando la avenida Adolfo de la Vega",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Buenos días,  muchas gracias",
     "mensaje": "Buenas tardes, soy Silvana Canseco,  coordinadora de Poiesis centro educativo terapéutico. Me compartieron su contacto para poder agendar un turno para poder visitar el predio de reciclaje de la calle Lamadrid pasando la avenida Adolfo de la Vega",
     "fecha": "2026-07-03T17:09:57.099Z",
-    "ultimaActualizacion": "2026-07-03T17:11:34.982Z",
+    "ultimaActualizacion": "2026-07-06T11:57:31.241Z",
     "historialMensajes": [
       {
         "texto": "Buenas tardes, soy Silvana Canseco,  coordinadora de Poiesis centro educativo terapéutico. Me compartieron su contacto para poder agendar un turno para poder visitar el predio de reciclaje de la calle",
@@ -34305,6 +34305,11 @@
         "texto": "Buenas tardes, soy Silvana Canseco,  coordinadora de Poiesis centro educativo terapéutico. Me compartieron su contacto para poder agendar un turno para poder visitar el predio de reciclaje de la calle",
         "fecha": "2026-07-03T17:11:34.982Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Buenos días,  muchas gracias",
+        "fecha": "2026-07-06T11:57:31.241Z",
+        "sentimiento": "positivo"
       }
     ]
   },
@@ -34393,6 +34398,24 @@
       {
         "texto": "Hola!",
         "fecha": "2026-07-04T20:15:16.267Z",
+        "sentimiento": "neutro"
+      }
+    ]
+  },
+  {
+    "numero": "177137420107887",
+    "celular": "+54 9 3813 025-838",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Hola",
+    "mensaje": "Hola",
+    "fecha": "2026-07-06T11:59:04.630Z",
+    "ultimaActualizacion": "2026-07-06T11:59:04.630Z",
+    "historialMensajes": [
+      {
+        "texto": "Hola",
+        "fecha": "2026-07-06T11:59:04.630Z",
         "sentimiento": "neutro"
       }
     ]
