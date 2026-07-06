@@ -169,14 +169,19 @@
       "nombre": "",
       "direccion": "",
       "sentimiento": "neutro",
-      "ultimoMensaje": "Hola!",
+      "ultimoMensaje": "Hola! Buen dia!",
       "mensaje": "Hola!",
       "fecha": "2026-07-04T20:15:16.267Z",
-      "ultimaActualizacion": "2026-07-04T20:15:16.267Z",
+      "ultimaActualizacion": "2026-07-06T12:24:52.014Z",
       "historialMensajes": [
         {
           "texto": "Hola!",
           "fecha": "2026-07-04T20:15:16.267Z",
+          "sentimiento": "neutro"
+        },
+        {
+          "texto": "Hola! Buen dia!",
+          "fecha": "2026-07-06T12:24:52.014Z",
           "sentimiento": "neutro"
         }
       ],
@@ -268,10 +273,10 @@
       "nombre": "",
       "direccion": "Florida 80",
       "sentimiento": "neutro",
-      "ultimoMensaje": "Pasaje popeye 3000",
+      "ultimoMensaje": "hola buenos días , lo conuslto",
       "mensaje": "Hola",
       "fecha": "2026-07-03T22:54:06.388Z",
-      "ultimaActualizacion": "2026-07-03T23:01:30.429Z",
+      "ultimaActualizacion": "2026-07-06T12:24:55.594Z",
       "historialMensajes": [
         {
           "texto": "Hola",
@@ -296,6 +301,11 @@
         {
           "texto": "Pasaje popeye 3000",
           "fecha": "2026-07-03T23:01:30.429Z",
+          "sentimiento": "neutro"
+        },
+        {
+          "texto": "hola buenos días , lo conuslto",
+          "fecha": "2026-07-06T12:24:55.594Z",
           "sentimiento": "neutro"
         }
       ],
@@ -45027,5 +45037,5 @@
     "WhatsApp Ambiente": 1757
   },
   "totalVecinos": 1757,
-  "actualizado": "2026-07-06T12:24:41.038Z"
+  "actualizado": "2026-07-06T12:24:56.225Z"
 }
