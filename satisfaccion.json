@@ -4,11 +4,11 @@
     "celular": "+54 9 3815 012-912",
     "nombre": "",
     "direccion": "",
-    "sentimiento": "negativo",
-    "ultimoMensaje": "Buen día gente!!! \nReclamo porque tengo que estar con las cámaras controlando para que no haga un basural",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Muchas gracias",
     "mensaje": "La foto corresponde al día sábado cuando el barrendero dejó la bolsa",
     "fecha": "2026-07-06T13:15:51.358Z",
-    "ultimaActualizacion": "2026-07-06T13:29:15.267Z",
+    "ultimaActualizacion": "2026-07-06T13:54:23.916Z",
     "historialMensajes": [
       {
         "texto": "La foto corresponde al día sábado cuando el barrendero dejó la bolsa",
@@ -19,6 +19,11 @@
         "texto": "Buen día gente!!! \nReclamo porque tengo que estar con las cámaras controlando para que no haga un basural",
         "fecha": "2026-07-06T13:29:15.267Z",
         "sentimiento": "negativo"
+      },
+      {
+        "texto": "Muchas gracias",
+        "fecha": "2026-07-06T13:54:23.916Z",
+        "sentimiento": "positivo"
       }
     ]
   },
