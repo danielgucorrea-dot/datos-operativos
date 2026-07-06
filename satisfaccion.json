@@ -38292,5 +38292,23 @@
         "sentimiento": "positivo"
       }
     ]
+  },
+  {
+    "numero": "211449980965027",
+    "celular": "+54 9 3815 756-006",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Buen día",
+    "mensaje": "Buen día",
+    "fecha": "2026-07-06T14:17:53.853Z",
+    "ultimaActualizacion": "2026-07-06T14:17:53.853Z",
+    "historialMensajes": [
+      {
+        "texto": "Buen día",
+        "fecha": "2026-07-06T14:17:53.853Z",
+        "sentimiento": "neutro"
+      }
+    ]
   }
 ]
