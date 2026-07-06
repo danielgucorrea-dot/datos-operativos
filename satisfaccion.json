@@ -38583,14 +38583,24 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "positivo",
-    "ultimoMensaje": "Buen día me comunico con ustedes para pedirles un favor: que me lleven los troncos de un árbol que me podaron.muchas gracias",
+    "ultimoMensaje": "Sii ya se lo paso",
     "mensaje": "Buen día me comunico con ustedes para pedirles un favor: que me lleven los troncos de un árbol que me podaron.muchas gracias",
     "fecha": "2026-07-06T15:25:43.402Z",
-    "ultimaActualizacion": "2026-07-06T15:25:43.402Z",
+    "ultimaActualizacion": "2026-07-06T15:27:06.070Z",
     "historialMensajes": [
       {
         "texto": "Buen día me comunico con ustedes para pedirles un favor: que me lleven los troncos de un árbol que me podaron.muchas gracias",
         "fecha": "2026-07-06T15:25:43.402Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Buen día me comunico con ustedes para pedirles un favor: que me lleven los troncos de un árbol que me podaron.muchas gracias",
+        "fecha": "2026-07-06T15:25:45.380Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Sii ya se lo paso",
+        "fecha": "2026-07-06T15:27:06.070Z",
         "sentimiento": "positivo"
       }
     ]
