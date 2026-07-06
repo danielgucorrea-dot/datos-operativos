@@ -38587,11 +38587,11 @@
     "celular": "+54 9 3815 224-717",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "negativo",
-    "ultimoMensaje": "El lunes pasado lo cortaron los chicos de la municipalidad y nos dijeron q venían a buscarlo al día siguiente y no volvieron",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Sii no hay problema",
     "mensaje": "Buen día me comunico con ustedes para pedirles un favor: que me lleven los troncos de un árbol que me podaron.muchas gracias",
     "fecha": "2026-07-06T15:25:43.402Z",
-    "ultimaActualizacion": "2026-07-06T15:30:12.119Z",
+    "ultimaActualizacion": "2026-07-06T15:30:52.895Z",
     "historialMensajes": [
       {
         "texto": "Buen día me comunico con ustedes para pedirles un favor: que me lleven los troncos de un árbol que me podaron.muchas gracias",
@@ -38612,6 +38612,11 @@
         "texto": "El lunes pasado lo cortaron los chicos de la municipalidad y nos dijeron q venían a buscarlo al día siguiente y no volvieron",
         "fecha": "2026-07-06T15:30:12.119Z",
         "sentimiento": "negativo"
+      },
+      {
+        "texto": "Sii no hay problema",
+        "fecha": "2026-07-06T15:30:52.895Z",
+        "sentimiento": "neutro"
       }
     ]
   }
