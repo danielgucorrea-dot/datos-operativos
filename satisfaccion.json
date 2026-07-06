@@ -12285,7 +12285,7 @@
     "celular": "+54 9 3815 572-832",
     "nombre": "",
     "direccion": "Barrio alejandro heredia",
-    "sentimiento": "neutro",
+    "sentimiento": "negativo",
     "evidencia_clasificacion": [],
     "canal": "WhatsApp Ambiente",
     "fecha": "2026-06-09",
@@ -12311,13 +12311,28 @@
       "Quería hacer un reclamo sobre un basural",
       "Hola buen día"
     ],
-    "ultimaActualizacion": "2026-07-06T13:42:42.239Z",
-    "ultimoMensaje": "Hola buen dia",
+    "ultimaActualizacion": "2026-07-06T15:15:45.527Z",
+    "ultimoMensaje": "Sos gente que vienen a tirar basura de otro lado",
     "historialMensajes": [
       {
         "texto": "Hola buen dia",
         "fecha": "2026-07-06T13:42:42.239Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Como puedo hacer ?",
+        "fecha": "2026-07-06T15:15:22.154Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Necesito hacer una denuncia sobre esto",
+        "fecha": "2026-07-06T15:15:24.818Z",
+        "sentimiento": "negativo"
+      },
+      {
+        "texto": "Sos gente que vienen a tirar basura de otro lado",
+        "fecha": "2026-07-06T15:15:45.527Z",
+        "sentimiento": "negativo"
       }
     ]
   },
