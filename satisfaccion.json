@@ -38665,5 +38665,23 @@
         "sentimiento": "positivo"
       }
     ]
+  },
+  {
+    "numero": "27964649545745",
+    "celular": "+54 9 3814 808-112",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Gracias",
+    "mensaje": "Gracias",
+    "fecha": "2026-07-06T16:29:30.728Z",
+    "ultimaActualizacion": "2026-07-06T16:29:30.728Z",
+    "historialMensajes": [
+      {
+        "texto": "Gracias",
+        "fecha": "2026-07-06T16:29:30.728Z",
+        "sentimiento": "positivo"
+      }
+    ]
   }
 ]
