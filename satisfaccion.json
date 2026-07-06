@@ -38298,16 +38298,21 @@
     "celular": "+54 9 3815 756-006",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Buen día",
+    "sentimiento": "negativo",
+    "ultimoMensaje": "Son unas ramas de una poda chica y hace una semana pedí a la empresa 9 de julio su recolección y todavía no lo hacen",
     "mensaje": "Buen día",
     "fecha": "2026-07-06T14:17:53.853Z",
-    "ultimaActualizacion": "2026-07-06T14:17:53.853Z",
+    "ultimaActualizacion": "2026-07-06T14:20:01.920Z",
     "historialMensajes": [
       {
         "texto": "Buen día",
         "fecha": "2026-07-06T14:17:53.853Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Son unas ramas de una poda chica y hace una semana pedí a la empresa 9 de julio su recolección y todavía no lo hacen",
+        "fecha": "2026-07-06T14:20:01.920Z",
+        "sentimiento": "negativo"
       }
     ]
   }
