@@ -34007,8 +34007,8 @@
         "Tengo una heladera, chapa  lavarropas y unas chapas viejas. Podrían pasar a buscar?",
         "Buen día!"
       ],
-      "ultimaActualizacion": "2026-07-06T14:09:46.290Z",
-      "ultimoMensaje": "Isabel la Católica 619",
+      "ultimaActualizacion": "2026-07-06T14:10:23.254Z",
+      "ultimoMensaje": "Cuanto es lo que pueden llevar?",
       "historialMensajes": [
         {
           "texto": "Buen día!",
@@ -34043,6 +34043,11 @@
         {
           "texto": "Isabel la Católica 619",
           "fecha": "2026-07-06T14:09:46.290Z",
+          "sentimiento": "neutro"
+        },
+        {
+          "texto": "Cuanto es lo que pueden llevar?",
+          "fecha": "2026-07-06T14:10:23.254Z",
           "sentimiento": "neutro"
         }
       ],
@@ -47620,5 +47625,5 @@
     "WhatsApp Ambiente": 1857
   },
   "totalVecinos": 1857,
-  "actualizado": "2026-07-06T14:09:52.892Z"
+  "actualizado": "2026-07-06T14:10:24.832Z"
 }
