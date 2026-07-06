@@ -169,10 +169,10 @@
       "nombre": "",
       "direccion": "",
       "sentimiento": "neutro",
-      "ultimoMensaje": "Hola! Buen dia!",
+      "ultimoMensaje": "queria consultar, con quien me tengo que comunicar para que retiren un colchon de mi domicilio que esta para tirar",
       "mensaje": "Hola!",
       "fecha": "2026-07-04T20:15:16.267Z",
-      "ultimaActualizacion": "2026-07-06T12:24:52.014Z",
+      "ultimaActualizacion": "2026-07-06T12:25:05.775Z",
       "historialMensajes": [
         {
           "texto": "Hola!",
@@ -182,6 +182,11 @@
         {
           "texto": "Hola! Buen dia!",
           "fecha": "2026-07-06T12:24:52.014Z",
+          "sentimiento": "neutro"
+        },
+        {
+          "texto": "queria consultar, con quien me tengo que comunicar para que retiren un colchon de mi domicilio que esta para tirar",
+          "fecha": "2026-07-06T12:25:05.775Z",
           "sentimiento": "neutro"
         }
       ],
@@ -45037,5 +45042,5 @@
     "WhatsApp Ambiente": 1757
   },
   "totalVecinos": 1757,
-  "actualizado": "2026-07-06T12:24:56.225Z"
+  "actualizado": "2026-07-06T12:25:06.151Z"
 }
