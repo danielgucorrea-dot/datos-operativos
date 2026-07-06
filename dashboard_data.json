@@ -40,14 +40,19 @@
       "nombre": "",
       "direccion": "",
       "sentimiento": "neutro",
-      "ultimoMensaje": "Buen día ya le envio",
+      "ultimoMensaje": "Aguardo comfirmacion",
       "mensaje": "Buen día ya le envio",
       "fecha": "2026-07-06T13:15:46.117Z",
-      "ultimaActualizacion": "2026-07-06T13:15:46.117Z",
+      "ultimaActualizacion": "2026-07-06T14:09:16.594Z",
       "historialMensajes": [
         {
           "texto": "Buen día ya le envio",
           "fecha": "2026-07-06T13:15:46.117Z",
+          "sentimiento": "neutro"
+        },
+        {
+          "texto": "Aguardo comfirmacion",
+          "fecha": "2026-07-06T14:09:16.594Z",
           "sentimiento": "neutro"
         }
       ],
@@ -47534,11 +47539,11 @@
       "celular": "+54 9 3816 541-122",
       "nombre": "",
       "direccion": "Avda Siria 1562",
-      "sentimiento": "neutro",
-      "ultimoMensaje": "Avda Siria 1562. También en la vereda del vecino gente desconocida dejó residuos,podrían llevarlos por favor?",
+      "sentimiento": "positivo",
+      "ultimoMensaje": "A las bolsas la sacaron los plomeros,la llevo dentro de casa,no hay problemas. Gracias.",
       "mensaje": "Ok. Ya se la envío",
       "fecha": "2026-07-06T13:50:45.428Z",
-      "ultimaActualizacion": "2026-07-06T14:01:16.271Z",
+      "ultimaActualizacion": "2026-07-06T14:07:48.808Z",
       "historialMensajes": [
         {
           "texto": "Ok. Ya se la envío",
@@ -47554,6 +47559,11 @@
           "texto": "Avda Siria 1562. También en la vereda del vecino gente desconocida dejó residuos,podrían llevarlos por favor?",
           "fecha": "2026-07-06T14:01:16.271Z",
           "sentimiento": "neutro"
+        },
+        {
+          "texto": "A las bolsas la sacaron los plomeros,la llevo dentro de casa,no hay problemas. Gracias.",
+          "fecha": "2026-07-06T14:07:48.808Z",
+          "sentimiento": "positivo"
         }
       ],
       "canal": "WhatsApp Ambiente",
@@ -47566,9 +47576,9 @@
   ],
   "pedidos": {
     "bot": 2,
-    "bam": 32,
+    "bam": 33,
     "completados": 0,
-    "pendientes": 34
+    "pendientes": 35
   },
   "reclamos": {
     "total": 3087,
@@ -47581,5 +47591,5 @@
     "WhatsApp Ambiente": 1856
   },
   "totalVecinos": 1856,
-  "actualizado": "2026-07-06T14:07:39.447Z"
+  "actualizado": "2026-07-06T14:09:18.863Z"
 }
