@@ -18460,8 +18460,8 @@
       "Genial. Ahí le aviso. Marque sin querer",
       "Le pase tu número a una vecina que necesita  que le retiren residuos"
     ],
-    "ultimaActualizacion": "2026-07-06T14:58:15.452Z",
-    "ultimoMensaje": "Necesito difundir este celu",
+    "ultimaActualizacion": "2026-07-06T14:58:24.244Z",
+    "ultimoMensaje": "Y nacho castillo me pide el QR",
     "historialMensajes": [
       {
         "texto": "Buenas",
@@ -18471,6 +18471,11 @@
       {
         "texto": "Necesito difundir este celu",
         "fecha": "2026-07-06T14:58:15.452Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Y nacho castillo me pide el QR",
+        "fecha": "2026-07-06T14:58:24.244Z",
         "sentimiento": "neutro"
       }
     ]
