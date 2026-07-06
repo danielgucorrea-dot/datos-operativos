@@ -47549,11 +47549,11 @@
       "celular": "+54 9 3816 541-122",
       "nombre": "",
       "direccion": "Avda Siria 1562",
-      "sentimiento": "positivo",
-      "ultimoMensaje": "A las bolsas la sacaron los plomeros,la llevo dentro de casa,no hay problemas. Gracias.",
+      "sentimiento": "neutro",
+      "ultimoMensaje": "Avda Siria 1562",
       "mensaje": "Ok. Ya se la envío",
       "fecha": "2026-07-06T13:50:45.428Z",
-      "ultimaActualizacion": "2026-07-06T14:07:48.808Z",
+      "ultimaActualizacion": "2026-07-06T14:11:12.817Z",
       "historialMensajes": [
         {
           "texto": "Ok. Ya se la envío",
@@ -47574,6 +47574,11 @@
           "texto": "A las bolsas la sacaron los plomeros,la llevo dentro de casa,no hay problemas. Gracias.",
           "fecha": "2026-07-06T14:07:48.808Z",
           "sentimiento": "positivo"
+        },
+        {
+          "texto": "Avda Siria 1562",
+          "fecha": "2026-07-06T14:11:12.817Z",
+          "sentimiento": "neutro"
         }
       ],
       "canal": "WhatsApp Ambiente",
@@ -47625,5 +47630,5 @@
     "WhatsApp Ambiente": 1857
   },
   "totalVecinos": 1857,
-  "actualizado": "2026-07-06T14:10:24.832Z"
+  "actualizado": "2026-07-06T14:11:13.716Z"
 }
