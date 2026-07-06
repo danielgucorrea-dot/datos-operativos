@@ -33979,7 +33979,15 @@
         "Tengo una heladera, chapa  lavarropas y unas chapas viejas. Podrían pasar a buscar?",
         "Buen día!"
       ],
-      "ultimaActualizacion": "2026-05-04",
+      "ultimaActualizacion": "2026-07-06T13:41:36.323Z",
+      "ultimoMensaje": "Buen día!",
+      "historialMensajes": [
+        {
+          "texto": "Buen día!",
+          "fecha": "2026-07-06T13:41:36.323Z",
+          "sentimiento": "neutro"
+        }
+      ],
       "telefono": "+54 9 3815 326-436",
       "email": "",
       "lat": null,
@@ -47515,5 +47523,5 @@
     "WhatsApp Ambiente": 1856
   },
   "totalVecinos": 1856,
-  "actualizado": "2026-07-06T13:41:01.046Z"
+  "actualizado": "2026-07-06T13:41:36.846Z"
 }
