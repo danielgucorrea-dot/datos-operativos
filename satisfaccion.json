@@ -80,7 +80,7 @@
     "celular": "+54 9 3813 923-913",
     "nombre": "",
     "direccion": "Av. Republica del Libano 2070",
-    "sentimiento": "positivo",
+    "sentimiento": "neutro",
     "evidencia_clasificacion": [
       "hace\\s+dias\\s+que",
       "no\\s+retira",
@@ -116,8 +116,8 @@
       "Av. Republica del Libano 2070",
       "Hola buen dia"
     ],
-    "ultimaActualizacion": "2026-07-06T15:20:26.807Z",
-    "ultimoMensaje": "Porque yo hasta puedo sacar la basura a esa hora asi no rompen las bolsas",
+    "ultimaActualizacion": "2026-07-06T15:25:22.376Z",
+    "ultimoMensaje": "Claro no puedo saber la hora exacto sino yo hasta les alcanzo",
     "historialMensajes": [
       {
         "texto": "Buenos dias",
@@ -153,6 +153,11 @@
         "texto": "Porque yo hasta puedo sacar la basura a esa hora asi no rompen las bolsas",
         "fecha": "2026-07-06T15:20:26.807Z",
         "sentimiento": "positivo"
+      },
+      {
+        "texto": "Claro no puedo saber la hora exacto sino yo hasta les alcanzo",
+        "fecha": "2026-07-06T15:25:22.376Z",
+        "sentimiento": "neutro"
       }
     ]
   },
