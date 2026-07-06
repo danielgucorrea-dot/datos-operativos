@@ -18473,8 +18473,8 @@
       "Genial. Ahí le aviso. Marque sin querer",
       "Le pase tu número a una vecina que necesita  que le retiren residuos"
     ],
-    "ultimaActualizacion": "2026-07-06T14:59:47.584Z",
-    "ultimoMensaje": "Lo tienen que generar ustedes",
+    "ultimaActualizacion": "2026-07-06T15:02:55.557Z",
+    "ultimoMensaje": "Si. Lo tengo mal agendado",
     "historialMensajes": [
       {
         "texto": "Buenas",
@@ -18499,6 +18499,11 @@
       {
         "texto": "Lo tienen que generar ustedes",
         "fecha": "2026-07-06T14:59:47.584Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Si. Lo tengo mal agendado",
+        "fecha": "2026-07-06T15:02:55.557Z",
         "sentimiento": "neutro"
       }
     ]
