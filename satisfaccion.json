@@ -38927,16 +38927,26 @@
     "celular": "+54 9 3814 470-700",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "negativo",
-    "ultimoMensaje": "Toda esta cuadra de la don bosco una mugre",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Graciasssss",
     "mensaje": "Toda esta cuadra de la don bosco una mugre",
     "fecha": "2026-07-06T22:20:32.211Z",
-    "ultimaActualizacion": "2026-07-06T22:20:32.211Z",
+    "ultimaActualizacion": "2026-07-06T22:35:10.717Z",
     "historialMensajes": [
       {
         "texto": "Toda esta cuadra de la don bosco una mugre",
         "fecha": "2026-07-06T22:20:32.211Z",
         "sentimiento": "negativo"
+      },
+      {
+        "texto": "Porfis porfis",
+        "fecha": "2026-07-06T22:35:08.601Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Graciasssss",
+        "fecha": "2026-07-06T22:35:10.717Z",
+        "sentimiento": "positivo"
       }
     ]
   }
