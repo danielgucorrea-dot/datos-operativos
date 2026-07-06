@@ -47551,14 +47551,14 @@
   ],
   "pedidos": {
     "bot": 2,
-    "bam": 26,
+    "bam": 28,
     "completados": 0,
-    "pendientes": 28
+    "pendientes": 30
   },
   "reclamos": {
     "total": 3087,
-    "iniciados": 20,
-    "en_proceso": 1099,
+    "iniciados": 18,
+    "en_proceso": 1101,
     "finalizados": 1937,
     "derivados": 31
   },
@@ -47566,5 +47566,5 @@
     "WhatsApp Ambiente": 1856
   },
   "totalVecinos": 1856,
-  "actualizado": "2026-07-06T13:55:46.090Z"
+  "actualizado": "2026-07-06T14:00:11.092Z"
 }
