@@ -38704,5 +38704,33 @@
         "sentimiento": "positivo"
       }
     ]
+  },
+  {
+    "numero": "274963940548843",
+    "celular": "+54 9 3814 637-440",
+    "nombre": "",
+    "direccion": "Merced 244",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "virgen de la Merced 244.",
+    "mensaje": "buen día quisiera sacar bolsas. de. escombros de mi domicilio, se puede?",
+    "fecha": "2026-07-06T17:36:39.642Z",
+    "ultimaActualizacion": "2026-07-06T17:37:25.378Z",
+    "historialMensajes": [
+      {
+        "texto": "buen día quisiera sacar bolsas. de. escombros de mi domicilio, se puede?",
+        "fecha": "2026-07-06T17:36:39.642Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "buen día quisiera sacar bolsas. de. escombros de mi domicilio, se puede?",
+        "fecha": "2026-07-06T17:36:42.425Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "virgen de la Merced 244.",
+        "fecha": "2026-07-06T17:37:25.378Z",
+        "sentimiento": "neutro"
+      }
+    ]
   }
 ]
