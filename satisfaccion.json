@@ -4302,7 +4302,7 @@
     "celular": "+54 9 3814 025-042",
     "nombre": "",
     "direccion": "calle Colombia 249",
-    "sentimiento": "negativo",
+    "sentimiento": "positivo",
     "evidencia_clasificacion": [
       "perfecto muchas gracias"
     ],
@@ -4341,8 +4341,8 @@
       "Muchas gracias. Saludos",
       "Buenos días. Mí nombre es Maximiliano Delfini Topa. Necesito utilizar este canal a fin de retirar residuos no convencionales y escombros ubicada en el acceso a un Consorcio de Propietarios ubicado el mismo en calle Colombia 249 ( entre Rivadavia y Monteagudo) de está ciudad capital. Acompaño fotografías"
     ],
-    "ultimaActualizacion": "2026-07-06T20:36:16.921Z",
-    "ultimoMensaje": "Eso no lo retira el basurero",
+    "ultimaActualizacion": "2026-07-06T20:36:21.960Z",
+    "ultimoMensaje": "Muchas gracias. Saludos",
     "historialMensajes": [
       {
         "texto": "Buenas tardes. Mí nombre es Maximiliano Delfini Topa. Necesito utilizar este canal a fin de retirar residuos no convencionales y escombros ubicada en el acceso a un Consorcio de Propietarios ubicado e",
@@ -4353,6 +4353,11 @@
         "texto": "Eso no lo retira el basurero",
         "fecha": "2026-07-06T20:36:16.921Z",
         "sentimiento": "negativo"
+      },
+      {
+        "texto": "Muchas gracias. Saludos",
+        "fecha": "2026-07-06T20:36:21.960Z",
+        "sentimiento": "positivo"
       }
     ]
   },
@@ -38856,4 +38861,4 @@
       }
     ]
   }
-]                                                                                                                
+]
