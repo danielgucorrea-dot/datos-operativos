@@ -18543,14 +18543,9 @@
       "Genial. Ahí le aviso. Marque sin querer",
       "Le pase tu número a una vecina que necesita  que le retiren residuos"
     ],
-    "ultimaActualizacion": "2026-07-06T15:37:26.886Z",
-    "ultimoMensaje": "Perfecto",
+    "ultimaActualizacion": "2026-07-06T15:37:29.157Z",
+    "ultimoMensaje": "Gracias",
     "historialMensajes": [
-      {
-        "texto": "Si. Lo tengo mal agendado",
-        "fecha": "2026-07-06T15:02:55.557Z",
-        "sentimiento": "neutro"
-      },
       {
         "texto": "Gracias!!",
         "fecha": "2026-07-06T15:03:03.127Z",
@@ -18594,6 +18589,11 @@
       {
         "texto": "Perfecto",
         "fecha": "2026-07-06T15:37:26.886Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Gracias",
+        "fecha": "2026-07-06T15:37:29.157Z",
         "sentimiento": "positivo"
       }
     ]
