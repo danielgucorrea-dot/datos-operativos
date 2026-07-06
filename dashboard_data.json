@@ -54,10 +54,10 @@
       "nombre": "",
       "direccion": "",
       "sentimiento": "neutro",
-      "ultimoMensaje": "Necesito hacer una consulta",
+      "ultimoMensaje": "Para saber si pueden retirar",
       "mensaje": "Hola",
       "fecha": "2026-07-06T11:59:04.630Z",
-      "ultimaActualizacion": "2026-07-06T12:00:11.405Z",
+      "ultimaActualizacion": "2026-07-06T13:07:09.185Z",
       "historialMensajes": [
         {
           "texto": "Hola",
@@ -67,6 +67,16 @@
         {
           "texto": "Necesito hacer una consulta",
           "fecha": "2026-07-06T12:00:11.405Z",
+          "sentimiento": "neutro"
+        },
+        {
+          "texto": "Tengo unas bolsas de escombro",
+          "fecha": "2026-07-06T13:06:59.962Z",
+          "sentimiento": "positivo"
+        },
+        {
+          "texto": "Para saber si pueden retirar",
+          "fecha": "2026-07-06T13:07:09.185Z",
           "sentimiento": "neutro"
         }
       ],
@@ -44993,5 +45003,5 @@
     "WhatsApp Ambiente": 1754
   },
   "totalVecinos": 1754,
-  "actualizado": "2026-07-06T13:06:59.943Z"
+  "actualizado": "2026-07-06T13:07:10.243Z"
 }
