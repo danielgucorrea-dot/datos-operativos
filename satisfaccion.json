@@ -27,11 +27,11 @@
     "celular": "+54 9 3815 171-395",
     "nombre": "",
     "direccion": "José Colombres 1765",
-    "sentimiento": "neutro",
-    "ultimoMensaje": "En realidad son 2 árboles , pero están ordenados los restos",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Bien",
     "mensaje": "Buen día ya le envio",
     "fecha": "2026-07-06T13:15:46.117Z",
-    "ultimaActualizacion": "2026-07-06T14:21:33.971Z",
+    "ultimaActualizacion": "2026-07-06T14:43:15.717Z",
     "historialMensajes": [
       {
         "texto": "Buen día ya le envio",
@@ -47,6 +47,11 @@
         "texto": "En realidad son 2 árboles , pero están ordenados los restos",
         "fecha": "2026-07-06T14:21:33.971Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Bien",
+        "fecha": "2026-07-06T14:43:15.717Z",
+        "sentimiento": "positivo"
       }
     ]
   },
