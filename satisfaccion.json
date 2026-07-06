@@ -423,8 +423,8 @@
       "Quiero solicitar mi retiro de residuos no habituales",
       "Hola!"
     ],
-    "ultimaActualizacion": "2026-07-06T13:37:05.221Z",
-    "ultimoMensaje": "Escombro",
+    "ultimaActualizacion": "2026-07-06T13:37:17.603Z",
+    "ultimoMensaje": "Puerta",
     "historialMensajes": [
       {
         "texto": "Neumáticos",
@@ -449,6 +449,11 @@
       {
         "texto": "Escombro",
         "fecha": "2026-07-06T13:37:05.221Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Puerta",
+        "fecha": "2026-07-06T13:37:17.603Z",
         "sentimiento": "neutro"
       }
     ]
