@@ -38814,5 +38814,28 @@
         "sentimiento": "neutro"
       }
     ]
+  },
+  {
+    "numero": "92616926486533",
+    "celular": "+54 9 3813 974-893",
+    "nombre": "",
+    "direccion": "barrio sarmiento",
+    "sentimiento": "negativo",
+    "ultimoMensaje": "Resto de limpieza del cordon cuneta ..desde 2019 NO TENEMOS PERSONAL DE LIMPIEZA DE CALLE",
+    "mensaje": "Buenad tarde ,necesito que retiren del frente de mi domicilio 5 bolsas  .barrio sarmiento",
+    "fecha": "2026-07-06T18:41:01.771Z",
+    "ultimaActualizacion": "2026-07-06T18:43:11.887Z",
+    "historialMensajes": [
+      {
+        "texto": "Buenad tarde ,necesito que retiren del frente de mi domicilio 5 bolsas  .barrio sarmiento",
+        "fecha": "2026-07-06T18:41:01.771Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Resto de limpieza del cordon cuneta ..desde 2019 NO TENEMOS PERSONAL DE LIMPIEZA DE CALLE",
+        "fecha": "2026-07-06T18:43:11.887Z",
+        "sentimiento": "negativo"
+      }
+    ]
   }
 ]
