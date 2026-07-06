@@ -38288,16 +38288,21 @@
     "celular": "+54 9 3812 077-677",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "neutro",
-    "ultimoMensaje": "https://maps.app.goo.gl/fznpwJXiwdxrCHZk7?g_st=aw",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Ok. Ya avisaré a todos los vecinos que estemos atentos los días y horarios que pasan ellos.",
     "mensaje": "https://maps.app.goo.gl/fznpwJXiwdxrCHZk7?g_st=aw",
     "fecha": "2026-07-06T13:39:04.479Z",
-    "ultimaActualizacion": "2026-07-06T13:39:04.479Z",
+    "ultimaActualizacion": "2026-07-06T14:25:32.456Z",
     "historialMensajes": [
       {
         "texto": "https://maps.app.goo.gl/fznpwJXiwdxrCHZk7?g_st=aw",
         "fecha": "2026-07-06T13:39:04.479Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Ok. Ya avisaré a todos los vecinos que estemos atentos los días y horarios que pasan ellos.",
+        "fecha": "2026-07-06T14:25:32.456Z",
+        "sentimiento": "positivo"
       }
     ]
   },
