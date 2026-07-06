@@ -116,8 +116,8 @@
       "Av. Republica del Libano 2070",
       "Hola buen dia"
     ],
-    "ultimaActualizacion": "2026-07-06T15:30:00.070Z",
-    "ultimoMensaje": "Y hay manera en la que me comuniqur con el recolector? Yo para buscar una solución a este tema porque seguira cortado por un buen tiempo",
+    "ultimaActualizacion": "2026-07-06T15:37:08.238Z",
+    "ultimoMensaje": "Bien",
     "historialMensajes": [
       {
         "texto": "Buenos dias",
@@ -162,6 +162,11 @@
       {
         "texto": "Y hay manera en la que me comuniqur con el recolector? Yo para buscar una solución a este tema porque seguira cortado por un buen tiempo",
         "fecha": "2026-07-06T15:30:00.070Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Bien",
+        "fecha": "2026-07-06T15:37:08.238Z",
         "sentimiento": "positivo"
       }
     ]
@@ -12305,7 +12310,7 @@
     "celular": "+54 9 3815 572-832",
     "nombre": "",
     "direccion": "Barrio alejandro heredia",
-    "sentimiento": "negativo",
+    "sentimiento": "positivo",
     "evidencia_clasificacion": [],
     "canal": "WhatsApp Ambiente",
     "fecha": "2026-06-09",
@@ -12331,14 +12336,9 @@
       "Quería hacer un reclamo sobre un basural",
       "Hola buen día"
     ],
-    "ultimaActualizacion": "2026-07-06T15:20:15.113Z",
-    "ultimoMensaje": "Hasta animales muertos tiran ahi",
+    "ultimaActualizacion": "2026-07-06T15:36:35.859Z",
+    "ultimoMensaje": "Bien muchas gracias",
     "historialMensajes": [
-      {
-        "texto": "Hola buen dia",
-        "fecha": "2026-07-06T13:42:42.239Z",
-        "sentimiento": "neutro"
-      },
       {
         "texto": "Como puedo hacer ?",
         "fecha": "2026-07-06T15:15:22.154Z",
@@ -12383,6 +12383,11 @@
         "texto": "Hasta animales muertos tiran ahi",
         "fecha": "2026-07-06T15:20:15.113Z",
         "sentimiento": "negativo"
+      },
+      {
+        "texto": "Bien muchas gracias",
+        "fecha": "2026-07-06T15:36:35.859Z",
+        "sentimiento": "positivo"
       }
     ]
   },
