@@ -47472,13 +47472,37 @@
       "lat": null,
       "lon": null,
       "distrito": null
+    },
+    {
+      "numero": "223776419619010",
+      "celular": "+54 9 3812 077-677",
+      "nombre": "",
+      "direccion": "",
+      "sentimiento": "neutro",
+      "ultimoMensaje": "https://maps.app.goo.gl/fznpwJXiwdxrCHZk7?g_st=aw",
+      "mensaje": "https://maps.app.goo.gl/fznpwJXiwdxrCHZk7?g_st=aw",
+      "fecha": "2026-07-06T13:39:04.479Z",
+      "ultimaActualizacion": "2026-07-06T13:39:04.479Z",
+      "historialMensajes": [
+        {
+          "texto": "https://maps.app.goo.gl/fznpwJXiwdxrCHZk7?g_st=aw",
+          "fecha": "2026-07-06T13:39:04.479Z",
+          "sentimiento": "neutro"
+        }
+      ],
+      "canal": "WhatsApp Ambiente",
+      "telefono": "+54 9 3812 077-677",
+      "email": "",
+      "lat": null,
+      "lon": null,
+      "distrito": null
     }
   ],
   "pedidos": {
     "bot": 2,
-    "bam": 18,
+    "bam": 19,
     "completados": 0,
-    "pendientes": 20
+    "pendientes": 21
   },
   "reclamos": {
     "total": 3087,
@@ -47488,8 +47512,8 @@
     "derivados": 31
   },
   "canales": {
-    "WhatsApp Ambiente": 1855
+    "WhatsApp Ambiente": 1856
   },
-  "totalVecinos": 1855,
-  "actualizado": "2026-07-06T13:37:18.238Z"
+  "totalVecinos": 1856,
+  "actualizado": "2026-07-06T13:39:05.070Z"
 }

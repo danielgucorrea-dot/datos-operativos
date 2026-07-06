@@ -38228,5 +38228,23 @@
         "sentimiento": "neutro"
       }
     ]
+  },
+  {
+    "numero": "223776419619010",
+    "celular": "+54 9 3812 077-677",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "https://maps.app.goo.gl/fznpwJXiwdxrCHZk7?g_st=aw",
+    "mensaje": "https://maps.app.goo.gl/fznpwJXiwdxrCHZk7?g_st=aw",
+    "fecha": "2026-07-06T13:39:04.479Z",
+    "ultimaActualizacion": "2026-07-06T13:39:04.479Z",
+    "historialMensajes": [
+      {
+        "texto": "https://maps.app.goo.gl/fznpwJXiwdxrCHZk7?g_st=aw",
+        "fecha": "2026-07-06T13:39:04.479Z",
+        "sentimiento": "neutro"
+      }
+    ]
   }
 ]
