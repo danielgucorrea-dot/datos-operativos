@@ -33988,7 +33988,7 @@
       "celular": "+54 9 3815 326-436",
       "nombre": "",
       "direccion": "Isabel la Católica 619",
-      "sentimiento": "neutro",
+      "sentimiento": "positivo",
       "evidencia_clasificacion": [],
       "canal": "WhatsApp Ambiente",
       "fecha": "2026-05-04",
@@ -34002,8 +34002,8 @@
         "Tengo una heladera, chapa  lavarropas y unas chapas viejas. Podrían pasar a buscar?",
         "Buen día!"
       ],
-      "ultimaActualizacion": "2026-07-06T13:43:43.008Z",
-      "ultimoMensaje": "Isabel la Católica 619\nPatricia Rodríguez.",
+      "ultimaActualizacion": "2026-07-06T14:01:10.424Z",
+      "ultimoMensaje": "En la bolsa negra grande restos dedos ventiladores y maderas cartones , algunos plásticos 4 bolsas escombros  5 de limpieza jardín.",
       "historialMensajes": [
         {
           "texto": "Buen día!",
@@ -34024,6 +34024,11 @@
           "texto": "Isabel la Católica 619\nPatricia Rodríguez.",
           "fecha": "2026-07-06T13:43:43.008Z",
           "sentimiento": "neutro"
+        },
+        {
+          "texto": "En la bolsa negra grande restos dedos ventiladores y maderas cartones , algunos plásticos 4 bolsas escombros  5 de limpieza jardín.",
+          "fecha": "2026-07-06T14:01:10.424Z",
+          "sentimiento": "positivo"
         }
       ],
       "telefono": "+54 9 3815 326-436",
@@ -47523,12 +47528,12 @@
       "numero": "96426428244054",
       "celular": "+54 9 3816 541-122",
       "nombre": "",
-      "direccion": "",
-      "sentimiento": "positivo",
-      "ultimoMensaje": "Estás son las bolsas con material.",
+      "direccion": "Avda Siria 1562",
+      "sentimiento": "neutro",
+      "ultimoMensaje": "Avda Siria 1562. También en la vereda del vecino gente desconocida dejó residuos,podrían llevarlos por favor?",
       "mensaje": "Ok. Ya se la envío",
       "fecha": "2026-07-06T13:50:45.428Z",
-      "ultimaActualizacion": "2026-07-06T13:55:44.006Z",
+      "ultimaActualizacion": "2026-07-06T14:01:16.271Z",
       "historialMensajes": [
         {
           "texto": "Ok. Ya se la envío",
@@ -47539,6 +47544,11 @@
           "texto": "Estás son las bolsas con material.",
           "fecha": "2026-07-06T13:55:44.006Z",
           "sentimiento": "positivo"
+        },
+        {
+          "texto": "Avda Siria 1562. También en la vereda del vecino gente desconocida dejó residuos,podrían llevarlos por favor?",
+          "fecha": "2026-07-06T14:01:16.271Z",
+          "sentimiento": "neutro"
         }
       ],
       "canal": "WhatsApp Ambiente",
@@ -47566,5 +47576,5 @@
     "WhatsApp Ambiente": 1856
   },
   "totalVecinos": 1856,
-  "actualizado": "2026-07-06T14:01:00.858Z"
+  "actualizado": "2026-07-06T14:01:17.305Z"
 }
