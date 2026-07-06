@@ -38586,12 +38586,12 @@
     "numero": "206223022489833",
     "celular": "+54 9 3815 224-717",
     "nombre": "",
-    "direccion": null,
+    "direccion": "barrio san Miguel",
     "sentimiento": "neutro",
-    "ultimoMensaje": "Sii no hay problema",
+    "ultimoMensaje": "1 pasaje sin nombre 236 altura Atahualpa 1126 barrio san Miguel 2",
     "mensaje": "Buen día me comunico con ustedes para pedirles un favor: que me lleven los troncos de un árbol que me podaron.muchas gracias",
     "fecha": "2026-07-06T15:25:43.402Z",
-    "ultimaActualizacion": "2026-07-06T15:30:52.895Z",
+    "ultimaActualizacion": "2026-07-06T15:32:17.014Z",
     "historialMensajes": [
       {
         "texto": "Buen día me comunico con ustedes para pedirles un favor: que me lleven los troncos de un árbol que me podaron.muchas gracias",
@@ -38616,6 +38616,11 @@
       {
         "texto": "Sii no hay problema",
         "fecha": "2026-07-06T15:30:52.895Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "1 pasaje sin nombre 236 altura Atahualpa 1126 barrio san Miguel 2",
+        "fecha": "2026-07-06T15:32:17.014Z",
         "sentimiento": "neutro"
       }
     ]
