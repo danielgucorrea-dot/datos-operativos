@@ -40900,9 +40900,9 @@
     },
     {
       "numero": "122965081510060",
-      "celular": "3814459316",
-      "nombre": "Camelli Emilia",
-      "direccion": "Pasaje Arenales 1900, SAN MIGUEL DE TUCUMAN, ARGENTINA, SAN MIGUEL DE TUCUMAN, ARGENTINA",
+      "celular": "+54 9 3814 459-316",
+      "nombre": "",
+      "direccion": "PJE ARENALES AL 1900",
       "sentimiento": "neutro",
       "evidencia_clasificacion": [],
       "canal": "WhatsApp Ambiente",
@@ -40916,11 +40916,11 @@
         "Disculpa x hacer ese descargo pero ya estoy cansada tengo 70 años y nunca vi a alguien que ponga bien en serio y multe tanto al trabajador como a los habitantes para ver si así tienen CULTURA  ,lo único que saben decir que estamos en democracia que democracia y democracia hagan bien las cosas",
         "Buen día Bendiciones 🙏 otra vez yo quejándome por el BARRENDERO DEL PJE ARENALES AL 1900 YA HACE 3 SEMANA QUE NO HACE SU TRABAJO VIENE PASA Y DA LA VUELTA EN LA ALBERTI Y SE PONE A CORTAR LOS YUYOS DE LA VEREDA DE UNA CASA (X SUPUESTO QUE LE PAGAN) Y ASÍ HACE TIEMPO PARA CUMPLIR HORARIO E IRSE A SU CASA ,LLEGA FIN DE MES COBRAR EL SUELDO DE ARRIBA XQ VECINOS DE ALREDEDOR TAMBIÉN ME COMENTAN QUE HACE MUCHO QUE NO PASA , NOSOTROS QUE PAGAMOS LOS IMPUESTOS MUNICIPAL PARA QUE ELLOS COBREN SU SUELDO Y NO TENEMOS EL SERVICIO COMO TIENE QUE SER , IGUAL EL RECOLECTOR DE LA NOCHE SI SE LES CAE UNA BOLSA DE BASURA NO LA ALZA O SE ROMPIO LA BOLSA QUEDA AHI LA BASURA DESPARRAMADA COMO NO LA JUNTA SI LLEVA PALA Y ESCOBA,NO ES MEJOR LOS VECINOS LA JUNTEMOS, SI ESTUVIERA EN OTRO PAIS ESTOS ATORRANTES  YA LO HUBIERAN HECHADO X CORRUPTOS OTRA PALABRAS NO LES CABE. YO SE LE ESTOY RECLAMANDO PERO VAN A SEGUIR HACIENDO LOS Q ELLOS LES PAREZCA , TOTAL AQUÍ ES TIERRA DE NADIE , Y NADIE CONTRALA X ESO ESTAMOS SOMOS DE CUARTA XQ  LAS AUTORIDADES NO HACEN LO QUE TIENEN QUE HACER CONTROLAR PARA QUE ESTO FUNCIONE ,SINO VIVA LA PEPA ,"
       ],
-      "telefono": "3814459316",
+      "telefono": "+54 9 3814 459-316",
       "email": "",
-      "lat": "-26.8388",
-      "lon": "-65.2063",
-      "distrito": 10
+      "lat": null,
+      "lon": null,
+      "distrito": null
     },
     {
       "numero": "33561461657839",
@@ -43191,15 +43191,15 @@
     "pendientes": 8
   },
   "reclamos": {
-    "total": 3117,
-    "iniciados": 15,
+    "total": 3085,
+    "iniciados": 19,
     "en_proceso": 1099,
-    "finalizados": 1973,
-    "derivados": 30
+    "finalizados": 1936,
+    "derivados": 31
   },
   "canales": {
     "WhatsApp Ambiente": 1754
   },
   "totalVecinos": 1754,
-  "actualizado": "2026-07-05T10:00:27.597Z"
+  "actualizado": "2026-07-06T11:41:46.853Z"
 }
