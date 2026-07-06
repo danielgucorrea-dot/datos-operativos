@@ -38286,10 +38286,10 @@
     "nombre": "",
     "direccion": "Avda Siria 1558",
     "sentimiento": "positivo",
-    "ultimoMensaje": "Las bolsas están en el garage del auto,hasta que me informen Uds",
+    "ultimoMensaje": "De acuerdo. Muchas gracias.",
     "mensaje": "Es a la par de mi casa. Avda Siria 1558",
     "fecha": "2026-07-06T14:12:58.867Z",
-    "ultimaActualizacion": "2026-07-06T14:14:07.390Z",
+    "ultimaActualizacion": "2026-07-06T14:21:55.841Z",
     "historialMensajes": [
       {
         "texto": "Es a la par de mi casa. Avda Siria 1558",
@@ -38299,6 +38299,11 @@
       {
         "texto": "Las bolsas están en el garage del auto,hasta que me informen Uds",
         "fecha": "2026-07-06T14:14:07.390Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "De acuerdo. Muchas gracias.",
+        "fecha": "2026-07-06T14:21:55.841Z",
         "sentimiento": "positivo"
       }
     ]
