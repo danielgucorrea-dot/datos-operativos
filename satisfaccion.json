@@ -4,16 +4,21 @@
     "celular": "+54 9 3815 012-912",
     "nombre": "",
     "direccion": "",
-    "sentimiento": "positivo",
-    "ultimoMensaje": "La foto corresponde al día sábado cuando el barrendero dejó la bolsa",
+    "sentimiento": "negativo",
+    "ultimoMensaje": "Buen día gente!!! \nReclamo porque tengo que estar con las cámaras controlando para que no haga un basural",
     "mensaje": "La foto corresponde al día sábado cuando el barrendero dejó la bolsa",
     "fecha": "2026-07-06T13:15:51.358Z",
-    "ultimaActualizacion": "2026-07-06T13:15:51.358Z",
+    "ultimaActualizacion": "2026-07-06T13:29:15.267Z",
     "historialMensajes": [
       {
         "texto": "La foto corresponde al día sábado cuando el barrendero dejó la bolsa",
         "fecha": "2026-07-06T13:15:51.358Z",
         "sentimiento": "positivo"
+      },
+      {
+        "texto": "Buen día gente!!! \nReclamo porque tengo que estar con las cámaras controlando para que no haga un basural",
+        "fecha": "2026-07-06T13:29:15.267Z",
+        "sentimiento": "negativo"
       }
     ]
   },
@@ -38154,5 +38159,23 @@
       "Las Piedras 773."
     ],
     "ultimaActualizacion": "2026-03-31"
+  },
+  {
+    "numero": "134217811939414",
+    "celular": "+54 9 3816 416-927",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Gracias!",
+    "mensaje": "Gracias!",
+    "fecha": "2026-07-06T13:29:04.392Z",
+    "ultimaActualizacion": "2026-07-06T13:29:04.392Z",
+    "historialMensajes": [
+      {
+        "texto": "Gracias!",
+        "fecha": "2026-07-06T13:29:04.392Z",
+        "sentimiento": "positivo"
+      }
+    ]
   }
 ]

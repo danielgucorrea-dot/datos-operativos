@@ -5,16 +5,21 @@
       "celular": "3815012912",
       "nombre": "Mónica  Fasolo ",
       "direccion": "Buenos Aires 2500, San Miguel de Tucumán, Tucumán",
-      "sentimiento": "positivo",
-      "ultimoMensaje": "La foto corresponde al día sábado cuando el barrendero dejó la bolsa",
+      "sentimiento": "negativo",
+      "ultimoMensaje": "Buen día gente!!! \nReclamo porque tengo que estar con las cámaras controlando para que no haga un basural",
       "mensaje": "La foto corresponde al día sábado cuando el barrendero dejó la bolsa",
       "fecha": "2026-07-06T13:15:51.358Z",
-      "ultimaActualizacion": "2026-07-06T13:15:51.358Z",
+      "ultimaActualizacion": "2026-07-06T13:29:15.267Z",
       "historialMensajes": [
         {
           "texto": "La foto corresponde al día sábado cuando el barrendero dejó la bolsa",
           "fecha": "2026-07-06T13:15:51.358Z",
           "sentimiento": "positivo"
+        },
+        {
+          "texto": "Buen día gente!!! \nReclamo porque tengo que estar con las cámaras controlando para que no haga un basural",
+          "fecha": "2026-07-06T13:29:15.267Z",
+          "sentimiento": "negativo"
         }
       ],
       "canal": "WhatsApp Ambiente",
@@ -47386,6 +47391,30 @@
       "lat": null,
       "lon": null,
       "distrito": null
+    },
+    {
+      "numero": "134217811939414",
+      "celular": "+54 9 3816 416-927",
+      "nombre": "",
+      "direccion": "",
+      "sentimiento": "positivo",
+      "ultimoMensaje": "Gracias!",
+      "mensaje": "Gracias!",
+      "fecha": "2026-07-06T13:29:04.392Z",
+      "ultimaActualizacion": "2026-07-06T13:29:04.392Z",
+      "historialMensajes": [
+        {
+          "texto": "Gracias!",
+          "fecha": "2026-07-06T13:29:04.392Z",
+          "sentimiento": "positivo"
+        }
+      ],
+      "canal": "WhatsApp Ambiente",
+      "telefono": "+54 9 3816 416-927",
+      "email": "",
+      "lat": null,
+      "lon": null,
+      "distrito": null
     }
   ],
   "pedidos": {
@@ -47402,8 +47431,8 @@
     "derivados": 31
   },
   "canales": {
-    "WhatsApp Ambiente": 1853
+    "WhatsApp Ambiente": 1854
   },
-  "totalVecinos": 1853,
-  "actualizado": "2026-07-06T13:28:54.990Z"
+  "totalVecinos": 1854,
+  "actualizado": "2026-07-06T13:29:15.853Z"
 }
