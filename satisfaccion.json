@@ -482,7 +482,7 @@
     "celular": "+54 9 3814 175-742",
     "nombre": "",
     "direccion": "Barrio San Cayetano",
-    "sentimiento": "neutro",
+    "sentimiento": "positivo",
     "evidencia_clasificacion": [],
     "canal": "WhatsApp Ambiente",
     "fecha": "2026-07-01",
@@ -491,14 +491,9 @@
       "Quiero solicitar mi retiro de residuos no habituales",
       "Hola!"
     ],
-    "ultimaActualizacion": "2026-07-07T11:28:50.033Z",
-    "ultimoMensaje": "Así es",
+    "ultimaActualizacion": "2026-07-07T11:35:40.802Z",
+    "ultimoMensaje": "Perfecto",
     "historialMensajes": [
-      {
-        "texto": "Neumáticos",
-        "fecha": "2026-07-06T13:36:14.860Z",
-        "sentimiento": "neutro"
-      },
       {
         "texto": "Ventana",
         "fecha": "2026-07-06T13:36:22.052Z",
@@ -538,6 +533,16 @@
         "texto": "Así es",
         "fecha": "2026-07-07T11:28:50.033Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Así figura en boleta de luz y demás",
+        "fecha": "2026-07-07T11:35:37.010Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Perfecto",
+        "fecha": "2026-07-07T11:35:40.802Z",
+        "sentimiento": "positivo"
       }
     ]
   },
