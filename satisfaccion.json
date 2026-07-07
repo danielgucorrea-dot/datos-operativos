@@ -480,8 +480,8 @@
       "Las cosas están en San Luis 122",
       "Ok! Gracias!"
     ],
-    "ultimaActualizacion": "2026-07-06T16:27:14.243Z",
-    "ultimoMensaje": "A la altura del contenedor que está en la cuadra",
+    "ultimaActualizacion": "2026-07-07T11:53:45.643Z",
+    "ultimoMensaje": "ok. Es una caja de aire acondicionado, la cual tiene ropa vieja, unos trajes blancos sin abrir, un almohadón, una faja. Me mudé y esa caja con esos ítems ya estaba en el departamento",
     "historialMensajes": [
       {
         "texto": "Buenas tardes",
@@ -496,6 +496,11 @@
       {
         "texto": "A la altura del contenedor que está en la cuadra",
         "fecha": "2026-07-06T16:27:14.243Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "ok. Es una caja de aire acondicionado, la cual tiene ropa vieja, unos trajes blancos sin abrir, un almohadón, una faja. Me mudé y esa caja con esos ítems ya estaba en el departamento",
+        "fecha": "2026-07-07T11:53:45.643Z",
         "sentimiento": "neutro"
       }
     ]
