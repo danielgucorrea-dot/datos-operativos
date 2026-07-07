@@ -323,7 +323,7 @@
     "celular": "+54 9 3812 150-131",
     "nombre": "",
     "direccion": "Córdoba 1145",
-    "sentimiento": "neutro",
+    "sentimiento": "positivo",
     "evidencia_clasificacion": [],
     "canal": "WhatsApp Ambiente",
     "fecha": "2026-07-01",
@@ -331,8 +331,8 @@
     "conversacion_completa": [
       "Buenas noches"
     ],
-    "ultimaActualizacion": "2026-07-07T12:34:53.252Z",
-    "ultimoMensaje": "Córdoba 1145",
+    "ultimaActualizacion": "2026-07-07T14:10:34.324Z",
+    "ultimoMensaje": "Perfecto \nMuchas gracias",
     "historialMensajes": [
       {
         "texto": "Buenas tardes \nEscribo para solicitar un retiro de residuos no habituales \nAdjunto las fotos",
@@ -348,6 +348,11 @@
         "texto": "Córdoba 1145",
         "fecha": "2026-07-07T12:34:53.252Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Perfecto \nMuchas gracias",
+        "fecha": "2026-07-07T14:10:34.324Z",
+        "sentimiento": "positivo"
       }
     ]
   },
@@ -39093,14 +39098,19 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "neutro",
-    "ultimoMensaje": "Buenos días",
+    "ultimoMensaje": "ok, de acuerdo, se entiende, gracias !!",
     "mensaje": "Buenos días",
     "fecha": "2026-07-07T13:40:30.588Z",
-    "ultimaActualizacion": "2026-07-07T13:40:30.588Z",
+    "ultimaActualizacion": "2026-07-07T14:10:31.603Z",
     "historialMensajes": [
       {
         "texto": "Buenos días",
         "fecha": "2026-07-07T13:40:30.588Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "ok, de acuerdo, se entiende, gracias !!",
+        "fecha": "2026-07-07T14:10:31.603Z",
         "sentimiento": "neutro"
       }
     ]
