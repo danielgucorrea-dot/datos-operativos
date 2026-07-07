@@ -38789,11 +38789,11 @@
     "celular": "+54 9 3816 030-495",
     "nombre": "",
     "direccion": "Alberdi 634",
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Cuando lo podrian buscar?",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Perfecto. Gracias",
     "mensaje": "Buenas tardes, este es el colchón que necesitaría que retiren",
     "fecha": "2026-07-06T17:37:28.869Z",
-    "ultimaActualizacion": "2026-07-07T11:48:09.267Z",
+    "ultimaActualizacion": "2026-07-07T11:50:44.619Z",
     "historialMensajes": [
       {
         "texto": "Buenas tardes, este es el colchón que necesitaría que retiren",
@@ -38829,6 +38829,11 @@
         "texto": "Cuando lo podrian buscar?",
         "fecha": "2026-07-07T11:48:09.267Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Perfecto. Gracias",
+        "fecha": "2026-07-07T11:50:44.619Z",
+        "sentimiento": "positivo"
       }
     ]
   },
