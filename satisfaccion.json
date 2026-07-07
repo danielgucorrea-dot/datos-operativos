@@ -39094,17 +39094,12 @@
     "celular": "+54 9 3812 162-232",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Si podían llevarme el sillon",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Bueno gracias",
     "mensaje": "Buenos días",
     "fecha": "2026-07-07T12:42:39.454Z",
-    "ultimaActualizacion": "2026-07-07T14:36:53.700Z",
+    "ultimaActualizacion": "2026-07-07T14:37:50.006Z",
     "historialMensajes": [
-      {
-        "texto": "Buenos días",
-        "fecha": "2026-07-07T12:42:40.581Z",
-        "sentimiento": "neutro"
-      },
       {
         "texto": "Consulto para q me retiren unos muebles",
         "fecha": "2026-07-07T12:43:31.566Z",
@@ -39149,6 +39144,11 @@
         "texto": "Si podían llevarme el sillon",
         "fecha": "2026-07-07T14:36:53.700Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Bueno gracias",
+        "fecha": "2026-07-07T14:37:50.006Z",
+        "sentimiento": "positivo"
       }
     ]
   },
