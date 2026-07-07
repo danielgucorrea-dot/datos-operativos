@@ -485,8 +485,8 @@
       "Las cosas están en San Luis 122",
       "Ok! Gracias!"
     ],
-    "ultimaActualizacion": "2026-07-07T11:53:45.643Z",
-    "ultimoMensaje": "ok. Es una caja de aire acondicionado, la cual tiene ropa vieja, unos trajes blancos sin abrir, un almohadón, una faja. Me mudé y esa caja con esos ítems ya estaba en el departamento",
+    "ultimaActualizacion": "2026-07-07T11:54:37.969Z",
+    "ultimoMensaje": "También hay unos picos plásticos de aplicadores para diabéticos usados. Dentro de la caja.",
     "historialMensajes": [
       {
         "texto": "Buenas tardes",
@@ -506,6 +506,11 @@
       {
         "texto": "ok. Es una caja de aire acondicionado, la cual tiene ropa vieja, unos trajes blancos sin abrir, un almohadón, una faja. Me mudé y esa caja con esos ítems ya estaba en el departamento",
         "fecha": "2026-07-07T11:53:45.643Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "También hay unos picos plásticos de aplicadores para diabéticos usados. Dentro de la caja.",
+        "fecha": "2026-07-07T11:54:37.969Z",
         "sentimiento": "neutro"
       }
     ]
