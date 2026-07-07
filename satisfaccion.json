@@ -39180,11 +39180,11 @@
     "celular": "+54 9 3816 269-022",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "negativo",
-    "ultimoMensaje": "Es menos de 5 bolsas",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Ahh ok",
     "mensaje": "Buen día",
     "fecha": "2026-07-07T14:34:16.840Z",
-    "ultimaActualizacion": "2026-07-07T14:36:22.307Z",
+    "ultimaActualizacion": "2026-07-07T14:36:38.304Z",
     "historialMensajes": [
       {
         "texto": "Buen día",
@@ -39205,6 +39205,11 @@
         "texto": "Es menos de 5 bolsas",
         "fecha": "2026-07-07T14:36:22.307Z",
         "sentimiento": "negativo"
+      },
+      {
+        "texto": "Ahh ok",
+        "fecha": "2026-07-07T14:36:38.304Z",
+        "sentimiento": "neutro"
       }
     ]
   }
