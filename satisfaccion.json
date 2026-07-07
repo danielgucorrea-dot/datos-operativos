@@ -422,7 +422,7 @@
     "celular": "+54 9 3813 924-750",
     "nombre": "",
     "direccion": "",
-    "sentimiento": "neutro",
+    "sentimiento": "positivo",
     "evidencia_clasificacion": [],
     "canal": "WhatsApp Ambiente",
     "fecha": "2026-06-26",
@@ -430,8 +430,8 @@
     "conversacion_completa": [
       "Hola"
     ],
-    "ultimaActualizacion": "2026-07-06T17:30:48.779Z",
-    "ultimoMensaje": "Hola",
+    "ultimaActualizacion": "2026-07-07T14:20:48.910Z",
+    "ultimoMensaje": "Es para a retiren unas cosas de mi domicilio q ta no sirven",
     "historialMensajes": [
       {
         "texto": "Buen día",
@@ -442,6 +442,11 @@
         "texto": "Hola",
         "fecha": "2026-07-06T17:30:48.779Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Es para a retiren unas cosas de mi domicilio q ta no sirven",
+        "fecha": "2026-07-07T14:20:48.910Z",
+        "sentimiento": "positivo"
       }
     ]
   },
