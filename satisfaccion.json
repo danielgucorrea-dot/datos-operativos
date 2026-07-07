@@ -39076,5 +39076,23 @@
         "sentimiento": "positivo"
       }
     ]
+  },
+  {
+    "numero": "41021283016847",
+    "celular": "+54 9 3815 476-411",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Buenos días",
+    "mensaje": "Buenos días",
+    "fecha": "2026-07-07T13:40:30.588Z",
+    "ultimaActualizacion": "2026-07-07T13:40:30.588Z",
+    "historialMensajes": [
+      {
+        "texto": "Buenos días",
+        "fecha": "2026-07-07T13:40:30.588Z",
+        "sentimiento": "neutro"
+      }
+    ]
   }
 ]
