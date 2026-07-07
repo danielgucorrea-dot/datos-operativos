@@ -422,7 +422,7 @@
     "celular": "+54 9 3813 924-750",
     "nombre": "",
     "direccion": "",
-    "sentimiento": "positivo",
+    "sentimiento": "neutro",
     "evidencia_clasificacion": [],
     "canal": "WhatsApp Ambiente",
     "fecha": "2026-06-26",
@@ -430,8 +430,8 @@
     "conversacion_completa": [
       "Hola"
     ],
-    "ultimaActualizacion": "2026-07-07T14:24:51.017Z",
-    "ultimoMensaje": "Ok ya te paso fotos y vos decime si los podrán llevar",
+    "ultimaActualizacion": "2026-07-07T14:44:42.913Z",
+    "ultimoMensaje": "Es un colchón de 2 plazas y una cama",
     "historialMensajes": [
       {
         "texto": "Buen día",
@@ -452,6 +452,11 @@
         "texto": "Ok ya te paso fotos y vos decime si los podrán llevar",
         "fecha": "2026-07-07T14:24:51.017Z",
         "sentimiento": "positivo"
+      },
+      {
+        "texto": "Es un colchón de 2 plazas y una cama",
+        "fecha": "2026-07-07T14:44:42.913Z",
+        "sentimiento": "neutro"
       }
     ]
   },
