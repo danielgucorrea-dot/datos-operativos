@@ -430,8 +430,8 @@
     "conversacion_completa": [
       "Hola"
     ],
-    "ultimaActualizacion": "2026-07-07T14:20:48.910Z",
-    "ultimoMensaje": "Es para a retiren unas cosas de mi domicilio q ta no sirven",
+    "ultimaActualizacion": "2026-07-07T14:24:51.017Z",
+    "ultimoMensaje": "Ok ya te paso fotos y vos decime si los podrán llevar",
     "historialMensajes": [
       {
         "texto": "Buen día",
@@ -446,6 +446,11 @@
       {
         "texto": "Es para a retiren unas cosas de mi domicilio q ta no sirven",
         "fecha": "2026-07-07T14:20:48.910Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Ok ya te paso fotos y vos decime si los podrán llevar",
+        "fecha": "2026-07-07T14:24:51.017Z",
         "sentimiento": "positivo"
       }
     ]
