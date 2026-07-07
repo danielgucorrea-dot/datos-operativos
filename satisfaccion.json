@@ -39368,5 +39368,23 @@
         "sentimiento": "neutro"
       }
     ]
+  },
+  {
+    "numero": "16454036516920",
+    "celular": "+54 9 3815 312-690",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Buenas tardes para hacer poda de los árboles de la vereda de casa que están rompiendo las raíces",
+    "mensaje": "Buenas tardes para hacer poda de los árboles de la vereda de casa que están rompiendo las raíces",
+    "fecha": "2026-07-07T21:50:33.035Z",
+    "ultimaActualizacion": "2026-07-07T21:50:33.035Z",
+    "historialMensajes": [
+      {
+        "texto": "Buenas tardes para hacer poda de los árboles de la vereda de casa que están rompiendo las raíces",
+        "fecha": "2026-07-07T21:50:33.035Z",
+        "sentimiento": "positivo"
+      }
+    ]
   }
 ]
