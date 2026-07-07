@@ -420,7 +420,7 @@
     "celular": "+54 9 3816 350-459",
     "nombre": "",
     "direccion": "pje primera junta al 1100",
-    "sentimiento": "neutro",
+    "sentimiento": "positivo",
     "evidencia_clasificacion": [],
     "canal": "WhatsApp Ambiente",
     "fecha": "2026-06-08",
@@ -433,8 +433,8 @@
       "Buenos días perfecto",
       "Buenos días mi vecina de pje primera junta 1090 dejando su basura en la esquina de La Plata y pje primera junta"
     ],
-    "ultimaActualizacion": "2026-07-07T11:53:54.965Z",
-    "ultimoMensaje": "Buenos días no porque no tengo el número del supervisor",
+    "ultimaActualizacion": "2026-07-07T12:25:36.716Z",
+    "ultimoMensaje": "Temprano paso el barrendero y dejo esto",
     "historialMensajes": [
       {
         "texto": "Buenas tardes",
@@ -445,6 +445,11 @@
         "texto": "Buenos días no porque no tengo el número del supervisor",
         "fecha": "2026-07-07T11:53:54.965Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Temprano paso el barrendero y dejo esto",
+        "fecha": "2026-07-07T12:25:36.716Z",
+        "sentimiento": "positivo"
       }
     ]
   },
@@ -471,7 +476,7 @@
     "celular": "+54 9 3815 373-303",
     "nombre": "",
     "direccion": "San Luis 122",
-    "sentimiento": "neutro",
+    "sentimiento": "positivo",
     "evidencia_clasificacion": [
       "ya retiraron"
     ],
@@ -485,8 +490,8 @@
       "Las cosas están en San Luis 122",
       "Ok! Gracias!"
     ],
-    "ultimaActualizacion": "2026-07-07T11:54:37.969Z",
-    "ultimoMensaje": "También hay unos picos plásticos de aplicadores para diabéticos usados. Dentro de la caja.",
+    "ultimaActualizacion": "2026-07-07T12:24:47.400Z",
+    "ultimoMensaje": "Ahh, ok. Muchas gracias",
     "historialMensajes": [
       {
         "texto": "Buenas tardes",
@@ -512,6 +517,11 @@
         "texto": "También hay unos picos plásticos de aplicadores para diabéticos usados. Dentro de la caja.",
         "fecha": "2026-07-07T11:54:37.969Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Ahh, ok. Muchas gracias",
+        "fecha": "2026-07-07T12:24:47.400Z",
+        "sentimiento": "positivo"
       }
     ]
   },
