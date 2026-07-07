@@ -39232,5 +39232,23 @@
         "sentimiento": "positivo"
       }
     ]
+  },
+  {
+    "numero": "217437047902212",
+    "celular": "+54 9 3816 042-575",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Hola, hola, ahora incluyo esos lugares",
+    "mensaje": "Hola, hola, ahora incluyo esos lugares",
+    "fecha": "2026-07-07T14:43:11.061Z",
+    "ultimaActualizacion": "2026-07-07T14:43:11.061Z",
+    "historialMensajes": [
+      {
+        "texto": "Hola, hola, ahora incluyo esos lugares",
+        "fecha": "2026-07-07T14:43:11.061Z",
+        "sentimiento": "positivo"
+      }
+    ]
   }
 ]
