@@ -312,7 +312,7 @@
     "numero": "80952332136575",
     "celular": "+54 9 3812 150-131",
     "nombre": "",
-    "direccion": "",
+    "direccion": "Córdoba 1145",
     "sentimiento": "neutro",
     "evidencia_clasificacion": [],
     "canal": "WhatsApp Ambiente",
@@ -321,8 +321,8 @@
     "conversacion_completa": [
       "Buenas noches"
     ],
-    "ultimaActualizacion": "2026-07-06T17:53:18.545Z",
-    "ultimoMensaje": "Un mueble, 2 colchones, una chapa, 1 ventilador, 3 esqueletos de sillas",
+    "ultimaActualizacion": "2026-07-07T12:34:53.252Z",
+    "ultimoMensaje": "Córdoba 1145",
     "historialMensajes": [
       {
         "texto": "Buenas tardes \nEscribo para solicitar un retiro de residuos no habituales \nAdjunto las fotos",
@@ -332,6 +332,11 @@
       {
         "texto": "Un mueble, 2 colchones, una chapa, 1 ventilador, 3 esqueletos de sillas",
         "fecha": "2026-07-06T17:53:18.545Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Córdoba 1145",
+        "fecha": "2026-07-07T12:34:53.252Z",
         "sentimiento": "neutro"
       }
     ]
