@@ -39080,10 +39080,10 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "neutro",
-    "ultimoMensaje": "Perdon",
+    "ultimoMensaje": "Las piedras  1105",
     "mensaje": "Buenos días",
     "fecha": "2026-07-07T12:42:39.454Z",
-    "ultimaActualizacion": "2026-07-07T14:19:17.541Z",
+    "ultimaActualizacion": "2026-07-07T14:20:26.995Z",
     "historialMensajes": [
       {
         "texto": "Buenos días",
@@ -39118,6 +39118,11 @@
       {
         "texto": "Perdon",
         "fecha": "2026-07-07T14:19:17.541Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Las piedras  1105",
+        "fecha": "2026-07-07T14:20:26.995Z",
         "sentimiento": "neutro"
       }
     ]
