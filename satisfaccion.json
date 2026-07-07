@@ -39350,5 +39350,23 @@
         "sentimiento": "neutro"
       }
     ]
+  },
+  {
+    "numero": "214907664486452",
+    "celular": "+54 9 3812 061-420",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Buen dia",
+    "mensaje": "Buen dia",
+    "fecha": "2026-07-07T21:21:40.953Z",
+    "ultimaActualizacion": "2026-07-07T21:21:40.953Z",
+    "historialMensajes": [
+      {
+        "texto": "Buen dia",
+        "fecha": "2026-07-07T21:21:40.953Z",
+        "sentimiento": "neutro"
+      }
+    ]
   }
 ]
