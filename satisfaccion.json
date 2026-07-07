@@ -39181,14 +39181,24 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "neutro",
-    "ultimoMensaje": "Buen día",
+    "ultimoMensaje": "Ahora están levantando del frente ramas",
     "mensaje": "Buen día",
     "fecha": "2026-07-07T14:34:16.840Z",
-    "ultimaActualizacion": "2026-07-07T14:34:16.840Z",
+    "ultimaActualizacion": "2026-07-07T14:35:35.920Z",
     "historialMensajes": [
       {
         "texto": "Buen día",
         "fecha": "2026-07-07T14:34:16.840Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Buen día",
+        "fecha": "2026-07-07T14:34:17.077Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Ahora están levantando del frente ramas",
+        "fecha": "2026-07-07T14:35:35.920Z",
         "sentimiento": "neutro"
       }
     ]
