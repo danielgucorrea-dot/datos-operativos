@@ -9007,7 +9007,7 @@
     "celular": "+54 9 3816 707-554",
     "nombre": "",
     "direccion": "",
-    "sentimiento": "neutro",
+    "sentimiento": "positivo",
     "evidencia_clasificacion": [],
     "canal": "WhatsApp Ambiente",
     "fecha": "2026-06-18",
@@ -9017,7 +9017,15 @@
       "Son restos de construcción pero no se ve con claridad porq  esta tapado de hojas.",
       "Buenas tardes"
     ],
-    "ultimaActualizacion": "2026-06-18"
+    "ultimaActualizacion": "2026-07-07T15:18:07.841Z",
+    "ultimoMensaje": "En Yerba Buena.\nSon 5 bolsas.",
+    "historialMensajes": [
+      {
+        "texto": "En Yerba Buena.\nSon 5 bolsas.",
+        "fecha": "2026-07-07T15:18:07.841Z",
+        "sentimiento": "positivo"
+      }
+    ]
   },
   {
     "numero": "120894773022864",
