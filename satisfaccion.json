@@ -39080,10 +39080,10 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "neutro",
-    "ultimoMensaje": "Es un sillón de 3 cuerpos",
+    "ultimoMensaje": "Y 1 cama",
     "mensaje": "Buenos días",
     "fecha": "2026-07-07T12:42:39.454Z",
-    "ultimaActualizacion": "2026-07-07T14:17:58.642Z",
+    "ultimaActualizacion": "2026-07-07T14:18:38.684Z",
     "historialMensajes": [
       {
         "texto": "Buenos días",
@@ -39108,6 +39108,11 @@
       {
         "texto": "Es un sillón de 3 cuerpos",
         "fecha": "2026-07-07T14:17:58.642Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Y 1 cama",
+        "fecha": "2026-07-07T14:18:38.684Z",
         "sentimiento": "neutro"
       }
     ]
