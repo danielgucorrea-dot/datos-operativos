@@ -421,7 +421,7 @@
     "numero": "3307259084810",
     "celular": "+54 9 3813 924-750",
     "nombre": "",
-    "direccion": "",
+    "direccion": "Pje. Caseros 1270",
     "sentimiento": "neutro",
     "evidencia_clasificacion": [],
     "canal": "WhatsApp Ambiente",
@@ -430,8 +430,8 @@
     "conversacion_completa": [
       "Hola"
     ],
-    "ultimaActualizacion": "2026-07-07T14:44:42.913Z",
-    "ultimoMensaje": "Es un colchón de 2 plazas y una cama",
+    "ultimaActualizacion": "2026-07-07T15:17:40.024Z",
+    "ultimoMensaje": "Entre Calles Chile y uruguay",
     "historialMensajes": [
       {
         "texto": "Buen día",
@@ -456,6 +456,16 @@
       {
         "texto": "Es un colchón de 2 plazas y una cama",
         "fecha": "2026-07-07T14:44:42.913Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Pje. Caseros 1270",
+        "fecha": "2026-07-07T15:17:35.976Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Entre Calles Chile y uruguay",
+        "fecha": "2026-07-07T15:17:40.024Z",
         "sentimiento": "neutro"
       }
     ]
