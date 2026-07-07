@@ -39048,5 +39048,28 @@
         "sentimiento": "neutro"
       }
     ]
+  },
+  {
+    "numero": "131378888835193",
+    "celular": "+54 9 3812 162-232",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Buenos días",
+    "mensaje": "Buenos días",
+    "fecha": "2026-07-07T12:42:39.454Z",
+    "ultimaActualizacion": "2026-07-07T12:42:40.581Z",
+    "historialMensajes": [
+      {
+        "texto": "Buenos días",
+        "fecha": "2026-07-07T12:42:39.454Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Buenos días",
+        "fecha": "2026-07-07T12:42:40.581Z",
+        "sentimiento": "neutro"
+      }
+    ]
   }
 ]
