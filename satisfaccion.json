@@ -38790,10 +38790,10 @@
     "nombre": "",
     "direccion": "Alberdi 634",
     "sentimiento": "neutro",
-    "ultimoMensaje": "Una consulta, el colchón esta en un depto y no lo puedo bajar por el ascensor",
+    "ultimoMensaje": "Ustedes solo lo retiran de la calle?",
     "mensaje": "Buenas tardes, este es el colchón que necesitaría que retiren",
     "fecha": "2026-07-06T17:37:28.869Z",
-    "ultimaActualizacion": "2026-07-07T11:46:14.368Z",
+    "ultimaActualizacion": "2026-07-07T11:46:36.687Z",
     "historialMensajes": [
       {
         "texto": "Buenas tardes, este es el colchón que necesitaría que retiren",
@@ -38813,6 +38813,11 @@
       {
         "texto": "Una consulta, el colchón esta en un depto y no lo puedo bajar por el ascensor",
         "fecha": "2026-07-07T11:46:14.368Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Ustedes solo lo retiran de la calle?",
+        "fecha": "2026-07-07T11:46:36.687Z",
         "sentimiento": "neutro"
       }
     ]
