@@ -39181,10 +39181,10 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "neutro",
-    "ultimoMensaje": "Espero el retiro ?",
+    "ultimoMensaje": "Si lo vamos a bajar de la vereda",
     "mensaje": "Buen día",
     "fecha": "2026-07-07T14:34:16.840Z",
-    "ultimaActualizacion": "2026-07-07T14:37:01.470Z",
+    "ultimaActualizacion": "2026-07-07T14:37:37.641Z",
     "historialMensajes": [
       {
         "texto": "Buen día",
@@ -39214,6 +39214,11 @@
       {
         "texto": "Espero el retiro ?",
         "fecha": "2026-07-07T14:37:01.470Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Si lo vamos a bajar de la vereda",
+        "fecha": "2026-07-07T14:37:37.641Z",
         "sentimiento": "neutro"
       }
     ]
