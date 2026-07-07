@@ -39080,10 +39080,10 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "neutro",
-    "ultimoMensaje": "Y 1 cama",
+    "ultimoMensaje": "Perdon",
     "mensaje": "Buenos días",
     "fecha": "2026-07-07T12:42:39.454Z",
-    "ultimaActualizacion": "2026-07-07T14:18:38.684Z",
+    "ultimaActualizacion": "2026-07-07T14:19:17.541Z",
     "historialMensajes": [
       {
         "texto": "Buenos días",
@@ -39113,6 +39113,11 @@
       {
         "texto": "Y 1 cama",
         "fecha": "2026-07-07T14:18:38.684Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Perdon",
+        "fecha": "2026-07-07T14:19:17.541Z",
         "sentimiento": "neutro"
       }
     ]
