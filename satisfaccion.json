@@ -39017,5 +39017,23 @@
       "Las Piedras 773."
     ],
     "ultimaActualizacion": "2026-03-31"
+  },
+  {
+    "numero": "189674463215637",
+    "celular": "+54 9 3815 677-061",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Buen día!",
+    "mensaje": "Buen día!",
+    "fecha": "2026-07-07T12:36:58.156Z",
+    "ultimaActualizacion": "2026-07-07T12:36:58.156Z",
+    "historialMensajes": [
+      {
+        "texto": "Buen día!",
+        "fecha": "2026-07-07T12:36:58.156Z",
+        "sentimiento": "neutro"
+      }
+    ]
   }
 ]
