@@ -301,10 +301,10 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "neutro",
-    "ultimoMensaje": "Hola",
+    "ultimoMensaje": "Menu",
     "mensaje": "Hola",
     "fecha": "2026-07-06T18:02:30.845Z",
-    "ultimaActualizacion": "2026-07-07T14:16:23.053Z",
+    "ultimaActualizacion": "2026-07-07T14:17:38.684Z",
     "historialMensajes": [
       {
         "texto": "Hola",
@@ -319,6 +319,11 @@
       {
         "texto": "Hola",
         "fecha": "2026-07-07T14:16:23.053Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Menu",
+        "fecha": "2026-07-07T14:17:38.684Z",
         "sentimiento": "neutro"
       }
     ]
