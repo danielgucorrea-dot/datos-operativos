@@ -39314,5 +39314,28 @@
         "sentimiento": "neutro"
       }
     ]
+  },
+  {
+    "numero": "246879283593411",
+    "celular": "+54 9 3814 766-932",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Buenas tardes, tengo que para tirar un colchón no se que día pasan ustedes ?",
+    "mensaje": "Buenas tardes, tengo que para tirar un colchón no se que día pasan ustedes ?",
+    "fecha": "2026-07-07T20:17:44.158Z",
+    "ultimaActualizacion": "2026-07-07T20:17:46.761Z",
+    "historialMensajes": [
+      {
+        "texto": "Buenas tardes, tengo que para tirar un colchón no se que día pasan ustedes ?",
+        "fecha": "2026-07-07T20:17:44.158Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Buenas tardes, tengo que para tirar un colchón no se que día pasan ustedes ?",
+        "fecha": "2026-07-07T20:17:46.761Z",
+        "sentimiento": "neutro"
+      }
+    ]
   }
 ]
