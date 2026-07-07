@@ -214,8 +214,8 @@
       "Muchas gracias. Saludos",
       "Buenos días. Mí nombre es Maximiliano Delfini Topa. Necesito utilizar este canal a fin de retirar residuos no convencionales y escombros ubicada en el acceso a un Consorcio de Propietarios ubicado el mismo en calle Colombia 249 ( entre Rivadavia y Monteagudo) de está ciudad capital. Acompaño fotografías"
     ],
-    "ultimaActualizacion": "2026-07-06T20:36:21.960Z",
-    "ultimoMensaje": "Muchas gracias. Saludos",
+    "ultimaActualizacion": "2026-07-07T13:55:49.022Z",
+    "ultimoMensaje": "Ok perfecto gracias",
     "historialMensajes": [
       {
         "texto": "Buenas tardes. Mí nombre es Maximiliano Delfini Topa. Necesito utilizar este canal a fin de retirar residuos no convencionales y escombros ubicada en el acceso a un Consorcio de Propietarios ubicado e",
@@ -230,6 +230,11 @@
       {
         "texto": "Muchas gracias. Saludos",
         "fecha": "2026-07-06T20:36:21.960Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Ok perfecto gracias",
+        "fecha": "2026-07-07T13:55:49.022Z",
         "sentimiento": "positivo"
       }
     ]
@@ -267,11 +272,11 @@
     "celular": "+54 9 3814 757-401",
     "nombre": "",
     "direccion": "Santiago del estero 1209",
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Vivo en el domicilio Santiago del estero 1209 entre marco Avellaneda y suipacha",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Muchas gracias!!",
     "mensaje": "Hola buenas tardes, tengo un colchón de 2 plazas para tirar, me pasaron su contacto diciendo que lo buscan desde la casa. Cuando sería posible que lo busquen?",
     "fecha": "2026-07-06T18:29:52.330Z",
-    "ultimaActualizacion": "2026-07-06T18:29:56.613Z",
+    "ultimaActualizacion": "2026-07-07T13:57:26.989Z",
     "historialMensajes": [
       {
         "texto": "Hola buenas tardes, tengo un colchón de 2 plazas para tirar, me pasaron su contacto diciendo que lo buscan desde la casa. Cuando sería posible que lo busquen?",
@@ -282,6 +287,11 @@
         "texto": "Vivo en el domicilio Santiago del estero 1209 entre marco Avellaneda y suipacha",
         "fecha": "2026-07-06T18:29:56.613Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Muchas gracias!!",
+        "fecha": "2026-07-07T13:57:26.989Z",
+        "sentimiento": "positivo"
       }
     ]
   },
