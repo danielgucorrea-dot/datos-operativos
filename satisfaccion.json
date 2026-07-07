@@ -26789,7 +26789,15 @@
       "Para q retiren restos de poda",
       "Hola"
     ],
-    "ultimaActualizacion": "2026-05-06"
+    "ultimaActualizacion": "2026-07-07T15:02:15.507Z",
+    "ultimoMensaje": "Buen dia",
+    "historialMensajes": [
+      {
+        "texto": "Buen dia",
+        "fecha": "2026-07-07T15:02:15.507Z",
+        "sentimiento": "neutro"
+      }
+    ]
   },
   {
     "numero": "185255327699062",
