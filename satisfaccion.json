@@ -39095,16 +39095,11 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "positivo",
-    "ultimoMensaje": "Bueno gracias",
+    "ultimoMensaje": "Le agradezco",
     "mensaje": "Buenos días",
     "fecha": "2026-07-07T12:42:39.454Z",
-    "ultimaActualizacion": "2026-07-07T14:37:50.006Z",
+    "ultimaActualizacion": "2026-07-07T14:38:02.751Z",
     "historialMensajes": [
-      {
-        "texto": "Consulto para q me retiren unos muebles",
-        "fecha": "2026-07-07T12:43:31.566Z",
-        "sentimiento": "positivo"
-      },
       {
         "texto": "Muchas gracias ya le envio",
         "fecha": "2026-07-07T14:15:55.134Z",
@@ -39148,6 +39143,11 @@
       {
         "texto": "Bueno gracias",
         "fecha": "2026-07-07T14:37:50.006Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Le agradezco",
+        "fecha": "2026-07-07T14:38:02.751Z",
         "sentimiento": "positivo"
       }
     ]
