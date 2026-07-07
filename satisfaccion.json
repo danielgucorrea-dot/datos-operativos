@@ -38790,10 +38790,10 @@
     "nombre": "",
     "direccion": "Alberdi 634",
     "sentimiento": "neutro",
-    "ultimoMensaje": "O lo pueden bajar por las escaleras?",
+    "ultimoMensaje": "Cuando lo podrian buscar?",
     "mensaje": "Buenas tardes, este es el colchón que necesitaría que retiren",
     "fecha": "2026-07-06T17:37:28.869Z",
-    "ultimaActualizacion": "2026-07-07T11:46:45.505Z",
+    "ultimaActualizacion": "2026-07-07T11:48:09.267Z",
     "historialMensajes": [
       {
         "texto": "Buenas tardes, este es el colchón que necesitaría que retiren",
@@ -38823,6 +38823,11 @@
       {
         "texto": "O lo pueden bajar por las escaleras?",
         "fecha": "2026-07-07T11:46:45.505Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Cuando lo podrian buscar?",
+        "fecha": "2026-07-07T11:48:09.267Z",
         "sentimiento": "neutro"
       }
     ]
