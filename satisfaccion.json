@@ -755,19 +755,9 @@
       "Av. Republica del Libano 2070",
       "Hola buen dia"
     ],
-    "ultimaActualizacion": "2026-07-06T15:37:08.238Z",
-    "ultimoMensaje": "Bien",
+    "ultimaActualizacion": "2026-07-07T15:48:08.401Z",
+    "ultimoMensaje": "Alguien va a pasar a retirar mi basura?",
     "historialMensajes": [
-      {
-        "texto": "Buenos dias",
-        "fecha": "2026-07-06T14:48:52.886Z",
-        "sentimiento": "neutro"
-      },
-      {
-        "texto": "Sigo con el problema de la basura",
-        "fecha": "2026-07-06T14:48:55.945Z",
-        "sentimiento": "negativo"
-      },
       {
         "texto": "Sigue sin pasar",
         "fecha": "2026-07-06T14:55:04.349Z",
@@ -806,6 +796,16 @@
       {
         "texto": "Bien",
         "fecha": "2026-07-06T15:37:08.238Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Hola buenas tardes",
+        "fecha": "2026-07-07T15:48:06.330Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Alguien va a pasar a retirar mi basura?",
+        "fecha": "2026-07-07T15:48:08.401Z",
         "sentimiento": "positivo"
       }
     ]
