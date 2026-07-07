@@ -552,12 +552,17 @@
       "Hace 5 días que vengo reclamando",
       "Hola me pasaron este número de la municipalidad para ver cdo pasan a retirar escombro"
     ],
-    "ultimaActualizacion": "2026-07-06T16:23:22.157Z",
-    "ultimoMensaje": "Hola si necesito que me retiren escombros",
+    "ultimaActualizacion": "2026-07-07T11:55:37.025Z",
+    "ultimoMensaje": "Las piedras 1471",
     "historialMensajes": [
       {
         "texto": "Hola si necesito que me retiren escombros",
         "fecha": "2026-07-06T16:23:22.157Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Las piedras 1471",
+        "fecha": "2026-07-07T11:55:37.025Z",
         "sentimiento": "neutro"
       }
     ]
