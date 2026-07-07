@@ -491,8 +491,8 @@
       "Quiero solicitar mi retiro de residuos no habituales",
       "Hola!"
     ],
-    "ultimaActualizacion": "2026-07-06T13:44:54.054Z",
-    "ultimoMensaje": "Pje 10/35 1850 Altura Ricardo Rojas al 400.Barrio San Cayetano",
+    "ultimaActualizacion": "2026-07-07T09:53:34.312Z",
+    "ultimoMensaje": "Buenos días! Le dejo la ubicación",
     "historialMensajes": [
       {
         "texto": "Neumáticos",
@@ -527,6 +527,11 @@
       {
         "texto": "Pje 10/35 1850 Altura Ricardo Rojas al 400.Barrio San Cayetano",
         "fecha": "2026-07-06T13:44:54.054Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Buenos días! Le dejo la ubicación",
+        "fecha": "2026-07-07T09:53:34.312Z",
         "sentimiento": "neutro"
       }
     ]
