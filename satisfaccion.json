@@ -1,79 +1,628 @@
 [
   {
-    "numero": "136842137579702",
-    "celular": "+54 9 3815 012-912",
+    "numero": "192401784209648",
+    "celular": "+54 9 3814 175-742",
     "nombre": "",
-    "direccion": "",
-    "sentimiento": "negativo",
-    "ultimoMensaje": "Buen día gente!!! \nReclamo porque tengo que estar con las cámaras controlando para que no haga un basural",
-    "mensaje": "La foto corresponde al día sábado cuando el barrendero dejó la bolsa",
-    "fecha": "2026-07-06T13:15:51.358Z",
-    "ultimaActualizacion": "2026-07-06T13:29:15.267Z",
-    "historialMensajes": [
-      {
-        "texto": "La foto corresponde al día sábado cuando el barrendero dejó la bolsa",
-        "fecha": "2026-07-06T13:15:51.358Z",
-        "sentimiento": "positivo"
-      },
-      {
-        "texto": "Buen día gente!!! \nReclamo porque tengo que estar con las cámaras controlando para que no haga un basural",
-        "fecha": "2026-07-06T13:29:15.267Z",
-        "sentimiento": "negativo"
-      }
-    ]
-  },
-  {
-    "numero": "156564845547756",
-    "celular": "+54 9 3815 171-395",
-    "nombre": "",
-    "direccion": "José Colombres 1765",
-    "sentimiento": "positivo",
-    "ultimoMensaje": "Bien",
-    "mensaje": "Buen día ya le envio",
-    "fecha": "2026-07-06T13:15:46.117Z",
-    "ultimaActualizacion": "2026-07-06T14:43:15.717Z",
-    "historialMensajes": [
-      {
-        "texto": "Buen día ya le envio",
-        "fecha": "2026-07-06T13:15:46.117Z",
-        "sentimiento": "neutro"
-      },
-      {
-        "texto": "José Colombres 1765",
-        "fecha": "2026-07-06T14:21:09.166Z",
-        "sentimiento": "neutro"
-      },
-      {
-        "texto": "En realidad son 2 árboles , pero están ordenados los restos",
-        "fecha": "2026-07-06T14:21:33.971Z",
-        "sentimiento": "neutro"
-      },
-      {
-        "texto": "Bien",
-        "fecha": "2026-07-06T14:43:15.717Z",
-        "sentimiento": "positivo"
-      }
-    ]
-  },
-  {
-    "numero": "190610749296853",
-    "celular": "+54 9 3816 111-385",
-    "nombre": "",
-    "direccion": "Matheu 437",
+    "direccion": "Barrio San Cayetano",
     "sentimiento": "neutro",
     "evidencia_clasificacion": [],
     "canal": "WhatsApp Ambiente",
-    "fecha": "2026-07-02",
-    "mensaje": "Hola Buenos Dias\nTengo 5 bolsitas para que me lo lleven por favor. \nLo tengo adentro de casa, para cuando me digan la saco",
+    "fecha": "2026-07-01",
+    "mensaje": "Quiero solicitar mi retiro de residuos no habituales",
     "conversacion_completa": [
-      "Matheu 437",
-      "Hola Buenos Dias\nTengo 5 bolsitas para que me lo lleven por favor. \nLo tengo adentro de casa, para cuando me digan la saco",
-      "Ok ok perdón. \nGracias",
-      "Hola buenas tardes\nTengo 4 bolsitas de escombros . \nPara que. Me lo lleven por favor. \nMatheu 437",
-      "Ok ok perdón. \nGracias",
-      "Hola buenas tardes\nTengo 4 bolsitas de escombros . \nPara que. Me lo lleven por favor. \nMatheu 437"
+      "Quiero solicitar mi retiro de residuos no habituales",
+      "Hola!"
     ],
-    "ultimaActualizacion": "2026-07-02"
+    "ultimaActualizacion": "2026-07-07T11:28:50.033Z",
+    "ultimoMensaje": "Así es",
+    "historialMensajes": [
+      {
+        "texto": "Neumáticos",
+        "fecha": "2026-07-06T13:36:14.860Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Ventana",
+        "fecha": "2026-07-06T13:36:22.052Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Hierro de pileta pelopincho",
+        "fecha": "2026-07-06T13:36:40.244Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Pileta pelopincho",
+        "fecha": "2026-07-06T13:36:55.004Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Escombro",
+        "fecha": "2026-07-06T13:37:05.221Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Puerta",
+        "fecha": "2026-07-06T13:37:17.603Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Pje 10/35 1850 Altura Ricardo Rojas al 400.Barrio San Cayetano",
+        "fecha": "2026-07-06T13:44:54.054Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Buenos días! Le dejo la ubicación",
+        "fecha": "2026-07-07T09:53:34.312Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Así es",
+        "fecha": "2026-07-07T11:28:50.033Z",
+        "sentimiento": "neutro"
+      }
+    ]
+  },
+  {
+    "numero": "280822359818407",
+    "celular": "+54 9 3865 750-663",
+    "nombre": "",
+    "direccion": "Barrio Villa Patria de",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Buenas noches. \nEn el Barrio Villa Patria de san Miguel de Tucumán estamos necesitando CONTENEDORES. El predio consta de Diez monoblocks con 16 Departamentos cada block por lo que se produce diariamente gran cantidad de residuos que deberían colocarse en unos cuantos Contenedores para el uso también de los demás vecinos sobre de la Silvano Bores, entre los que se cuentan gran cantidad de Comercios.\nQue tengan una buena semana. \nGracias de antemano.\n\nNota: dijeron que iban a venir a ver. No sé si lo hicieron pero tampoco solucionaron. Disculpe la insistencia.",
+    "mensaje": "Buenas noches. \nEn el Barrio Villa Patria de san Miguel de Tucumán estamos necesitando CONTENEDORES. El predio consta de Diez monoblocks con 16 Departamentos cada block por lo que se produce diariamente gran cantidad de residuos que deberían colocarse en unos cuantos Contenedores para el uso también de los demás vecinos sobre de la Silvano Bores, entre los que se cuentan gran cantidad de Comercios.\nQue tengan una buena semana. \nGracias de antemano.\n\nNota: dijeron que iban a venir a ver. No sé si lo hicieron pero tampoco solucionaron. Disculpe la insistencia.",
+    "fecha": "2026-07-07T04:08:23.126Z",
+    "ultimaActualizacion": "2026-07-07T04:08:23.126Z",
+    "historialMensajes": [
+      {
+        "texto": "Buenas noches. \nEn el Barrio Villa Patria de san Miguel de Tucumán estamos necesitando CONTENEDORES. El predio consta de Diez monoblocks con 16 Departamentos cada block por lo que se produce diariamen",
+        "fecha": "2026-07-07T04:08:23.126Z",
+        "sentimiento": "neutro"
+      }
+    ]
+  },
+  {
+    "numero": "127680955584679",
+    "celular": "+54 9 3814 470-700",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Graciasssss",
+    "mensaje": "Toda esta cuadra de la don bosco una mugre",
+    "fecha": "2026-07-06T22:20:32.211Z",
+    "ultimaActualizacion": "2026-07-06T22:35:10.717Z",
+    "historialMensajes": [
+      {
+        "texto": "Toda esta cuadra de la don bosco una mugre",
+        "fecha": "2026-07-06T22:20:32.211Z",
+        "sentimiento": "negativo"
+      },
+      {
+        "texto": "Porfis porfis",
+        "fecha": "2026-07-06T22:35:08.601Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Graciasssss",
+        "fecha": "2026-07-06T22:35:10.717Z",
+        "sentimiento": "positivo"
+      }
+    ]
+  },
+  {
+    "numero": "29076962164870",
+    "celular": "+54 9 3814 768-804",
+    "nombre": "",
+    "direccion": "Barrio primero de julio",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "3ra paralela ala francisco de aguarde 1.900",
+    "mensaje": "Barrio primero de julio",
+    "fecha": "2026-07-06T21:46:51.554Z",
+    "ultimaActualizacion": "2026-07-06T21:46:52.928Z",
+    "historialMensajes": [
+      {
+        "texto": "Barrio primero de julio",
+        "fecha": "2026-07-06T21:46:51.554Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "3ra paralela ala francisco de aguarde 1.900",
+        "fecha": "2026-07-06T21:46:52.928Z",
+        "sentimiento": "neutro"
+      }
+    ]
+  },
+  {
+    "numero": "238641402146859",
+    "celular": "+54 9 3815 299-226",
+    "nombre": "",
+    "direccion": "Barrio primero de julio",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "3ra paralela ala francisco de aguarde 1.900",
+    "mensaje": "Buenas tardes",
+    "fecha": "2026-07-06T21:25:57.525Z",
+    "ultimaActualizacion": "2026-07-06T21:27:06.456Z",
+    "historialMensajes": [
+      {
+        "texto": "Buenas tardes",
+        "fecha": "2026-07-06T21:25:57.525Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Tenemos una emergencia",
+        "fecha": "2026-07-06T21:26:00.028Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Necesitamos tirar los desechos de un incendio en el domicilio de mi hermana",
+        "fecha": "2026-07-06T21:26:41.612Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Barrio primero de julio",
+        "fecha": "2026-07-06T21:27:04.164Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "3ra paralela ala francisco de aguarde 1.900",
+        "fecha": "2026-07-06T21:27:06.456Z",
+        "sentimiento": "neutro"
+      }
+    ]
+  },
+  {
+    "numero": "246574223474779",
+    "celular": "+54 9 3814 025-042",
+    "nombre": "",
+    "direccion": "calle Colombia 249",
+    "sentimiento": "positivo",
+    "evidencia_clasificacion": [
+      "perfecto muchas gracias"
+    ],
+    "canal": "WhatsApp Ambiente",
+    "fecha": "2026-06-25",
+    "mensaje": "Perfecto muchas gracias por la gestión. Saludos",
+    "conversacion_completa": [
+      "Muchas gracias. Saludos",
+      "Buenos días. Hay tres bolsas. Además dejaron tabla de inodoro y otras cosas que el basurero no las lleva. Además dejaron unos palos que tampoco llevan.",
+      "Muchas gracias. Saludos",
+      "Saludos",
+      "Perfecto muchas gracias",
+      "Muchas gracias. Saludos",
+      "Buenos días. Mí nombre es Maximiliano Delfini Topa. Necesito utilizar este canal a fin de retirar residuos no convencionales y escombros ubicados en el acceso a un  Consorcio de Propietarios ubicado el mismo en calle España 1.462 ( entre 12 de Octubre y República del Libano)de está ciudad capital. Acompaño fotografías",
+      "Perfecto muchas gracias",
+      "Buenos dias",
+      "Muchas gracias. Saludos",
+      "Buenos días. Mí nombre es Maximiliano Delfini Topa. Necesito utilizar este canal a fin de retirar residuos no convencionales y escombros ubicados en el acceso a un  Consorcio de Propietarios ubicado el mismo en Colombia 249 ( entre Rivadavia y Monteagudo )de está ciudad capital. Acompaño fotografías",
+      "Muchas gracias. Saludos",
+      "Buenas tardes. Mí nombre es Maximiliano Delfini Topa. Necesito utilizar este canal a fin de retirar residuos no convencionales y escombros ubicada en el acceso a un Consorcio de Propietarios ubicado el mismo en Colombia 249 ( entre Rivadavia y Monteagudo )de está ciudad capital. Acompaño fotografías",
+      "Buen día gracias",
+      "Muchas gracias. Saludos",
+      "Buenas tardes. Mí nombre es Maximiliano Delfini Topa. Necesito utilizar este canal a fin de retirar residuos no convencionales y escombros ubicada en el acceso a un Consorcio de Propietarios ubicado el mismo en Crisostomo Álvarez 1.676 de está ciudad capital. Acompaño fotografías",
+      "Gracias",
+      "Muchas gracias por la gestión. Que tenga buen día",
+      "Ahí le reenvío la solicitud adjuntando fotografías",
+      "Muchas gracias Saludos",
+      "Buenos días. Mí nombre es Maximiliano Delfini Topa. Necesito utilizar este canal a fin de retirar residuos no convencionales y escombros ubicada en el acceso a un Consorcio de Propietarios ubicado el mismo en calle Colombia 249 ( entre Rivadavia y Monteagudo) de está ciudad capital. Acompaño fotografías",
+      "Están?",
+      "Buenos días",
+      "Gracias. Igualmente",
+      "Perfecto muchas gracias por la gestión. Saludos",
+      "Mí consulta es si lo pudieron cargar al pedido. Gracias. Saludos",
+      "Buenas día. Quería hacerle una consulta. El día martes efectúe un pedido a fin de que retiren residuos no convencionales y escombros que obstaculizan el transito de los peatones en la vía pública. El domicilio informado es en calle Colombia 249 ( entre Rivadavia y Monteagudo)",
+      "Muchas gracias. Saludos",
+      "Muchas gracias. Saludos",
+      "Buenos días. Mí nombre es Maximiliano Delfini Topa. Necesito utilizar este canal a fin de retirar residuos no convencionales y escombros ubicada en el acceso a un Consorcio de Propietarios ubicado el mismo en calle Colombia 249 ( entre Rivadavia y Monteagudo) de está ciudad capital. Acompaño fotografías"
+    ],
+    "ultimaActualizacion": "2026-07-06T20:36:21.960Z",
+    "ultimoMensaje": "Muchas gracias. Saludos",
+    "historialMensajes": [
+      {
+        "texto": "Buenas tardes. Mí nombre es Maximiliano Delfini Topa. Necesito utilizar este canal a fin de retirar residuos no convencionales y escombros ubicada en el acceso a un Consorcio de Propietarios ubicado e",
+        "fecha": "2026-07-06T20:35:47.837Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Eso no lo retira el basurero",
+        "fecha": "2026-07-06T20:36:16.921Z",
+        "sentimiento": "negativo"
+      },
+      {
+        "texto": "Muchas gracias. Saludos",
+        "fecha": "2026-07-06T20:36:21.960Z",
+        "sentimiento": "positivo"
+      }
+    ]
+  },
+  {
+    "numero": "92616926486533",
+    "celular": "+54 9 3813 974-893",
+    "nombre": "",
+    "direccion": "barrio sarmiento",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Mi direccion es EVARISTO CARRIEGO 1087 B.SARMIENTO",
+    "mensaje": "Buenad tarde ,necesito que retiren del frente de mi domicilio 5 bolsas  .barrio sarmiento",
+    "fecha": "2026-07-06T18:41:01.771Z",
+    "ultimaActualizacion": "2026-07-06T18:43:44.087Z",
+    "historialMensajes": [
+      {
+        "texto": "Buenad tarde ,necesito que retiren del frente de mi domicilio 5 bolsas  .barrio sarmiento",
+        "fecha": "2026-07-06T18:41:01.771Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Resto de limpieza del cordon cuneta ..desde 2019 NO TENEMOS PERSONAL DE LIMPIEZA DE CALLE",
+        "fecha": "2026-07-06T18:43:11.887Z",
+        "sentimiento": "negativo"
+      },
+      {
+        "texto": "Mi direccion es EVARISTO CARRIEGO 1087 B.SARMIENTO",
+        "fecha": "2026-07-06T18:43:44.087Z",
+        "sentimiento": "neutro"
+      }
+    ]
+  },
+  {
+    "numero": "269698360979471",
+    "celular": "+54 9 3814 757-401",
+    "nombre": "",
+    "direccion": "Santiago del estero 1209",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Vivo en el domicilio Santiago del estero 1209 entre marco Avellaneda y suipacha",
+    "mensaje": "Hola buenas tardes, tengo un colchón de 2 plazas para tirar, me pasaron su contacto diciendo que lo buscan desde la casa. Cuando sería posible que lo busquen?",
+    "fecha": "2026-07-06T18:29:52.330Z",
+    "ultimaActualizacion": "2026-07-06T18:29:56.613Z",
+    "historialMensajes": [
+      {
+        "texto": "Hola buenas tardes, tengo un colchón de 2 plazas para tirar, me pasaron su contacto diciendo que lo buscan desde la casa. Cuando sería posible que lo busquen?",
+        "fecha": "2026-07-06T18:29:52.330Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Vivo en el domicilio Santiago del estero 1209 entre marco Avellaneda y suipacha",
+        "fecha": "2026-07-06T18:29:56.613Z",
+        "sentimiento": "neutro"
+      }
+    ]
+  },
+  {
+    "numero": "60886144299236",
+    "celular": "+54 9 3814 461-809",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Menu",
+    "mensaje": "Hola",
+    "fecha": "2026-07-06T18:02:30.845Z",
+    "ultimaActualizacion": "2026-07-06T18:05:01.498Z",
+    "historialMensajes": [
+      {
+        "texto": "Hola",
+        "fecha": "2026-07-06T18:02:30.845Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Menu",
+        "fecha": "2026-07-06T18:05:01.498Z",
+        "sentimiento": "neutro"
+      }
+    ]
+  },
+  {
+    "numero": "80952332136575",
+    "celular": "+54 9 3812 150-131",
+    "nombre": "",
+    "direccion": "",
+    "sentimiento": "neutro",
+    "evidencia_clasificacion": [],
+    "canal": "WhatsApp Ambiente",
+    "fecha": "2026-07-01",
+    "mensaje": "Buenas noches",
+    "conversacion_completa": [
+      "Buenas noches"
+    ],
+    "ultimaActualizacion": "2026-07-06T17:53:18.545Z",
+    "ultimoMensaje": "Un mueble, 2 colchones, una chapa, 1 ventilador, 3 esqueletos de sillas",
+    "historialMensajes": [
+      {
+        "texto": "Buenas tardes \nEscribo para solicitar un retiro de residuos no habituales \nAdjunto las fotos",
+        "fecha": "2026-07-06T17:51:49.416Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Un mueble, 2 colchones, una chapa, 1 ventilador, 3 esqueletos de sillas",
+        "fecha": "2026-07-06T17:53:18.545Z",
+        "sentimiento": "neutro"
+      }
+    ]
+  },
+  {
+    "numero": "274963940548843",
+    "celular": "+54 9 3814 637-440",
+    "nombre": "",
+    "direccion": "Merced 244",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "puedo sacar de dos en dos  cada noche, o todo el mismo día?",
+    "mensaje": "buen día quisiera sacar bolsas. de. escombros de mi domicilio, se puede?",
+    "fecha": "2026-07-06T17:36:39.642Z",
+    "ultimaActualizacion": "2026-07-06T17:39:20.219Z",
+    "historialMensajes": [
+      {
+        "texto": "buen día quisiera sacar bolsas. de. escombros de mi domicilio, se puede?",
+        "fecha": "2026-07-06T17:36:39.642Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "buen día quisiera sacar bolsas. de. escombros de mi domicilio, se puede?",
+        "fecha": "2026-07-06T17:36:42.425Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "virgen de la Merced 244.",
+        "fecha": "2026-07-06T17:37:25.378Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "puedo sacar de dos en dos  cada noche, o todo el mismo día?",
+        "fecha": "2026-07-06T17:39:20.219Z",
+        "sentimiento": "neutro"
+      }
+    ]
+  },
+  {
+    "numero": "144555831754876",
+    "celular": "+54 9 3816 030-495",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Buenas tardes, este es el colchón que necesitaría que retiren",
+    "mensaje": "Buenas tardes, este es el colchón que necesitaría que retiren",
+    "fecha": "2026-07-06T17:37:28.869Z",
+    "ultimaActualizacion": "2026-07-06T17:37:28.869Z",
+    "historialMensajes": [
+      {
+        "texto": "Buenas tardes, este es el colchón que necesitaría que retiren",
+        "fecha": "2026-07-06T17:37:28.869Z",
+        "sentimiento": "positivo"
+      }
+    ]
+  },
+  {
+    "numero": "3307259084810",
+    "celular": "+54 9 3813 924-750",
+    "nombre": "",
+    "direccion": "",
+    "sentimiento": "neutro",
+    "evidencia_clasificacion": [],
+    "canal": "WhatsApp Ambiente",
+    "fecha": "2026-06-26",
+    "mensaje": "Hola",
+    "conversacion_completa": [
+      "Hola"
+    ],
+    "ultimaActualizacion": "2026-07-06T17:30:48.779Z",
+    "ultimoMensaje": "Hola",
+    "historialMensajes": [
+      {
+        "texto": "Buen día",
+        "fecha": "2026-07-06T17:29:27.889Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Hola",
+        "fecha": "2026-07-06T17:30:48.779Z",
+        "sentimiento": "neutro"
+      }
+    ]
+  },
+  {
+    "numero": "1640778219579",
+    "celular": "+54 9 3816 350-459",
+    "nombre": "",
+    "direccion": "pje primera junta al 1100",
+    "sentimiento": "neutro",
+    "evidencia_clasificacion": [],
+    "canal": "WhatsApp Ambiente",
+    "fecha": "2026-06-08",
+    "mensaje": "Buenos días el que dice ser dueño del sitio baldío sr Adrián Carrizo nuevamente está haciendo limpiar dicho lugar y deja toda la basura en La Plata y pje primera junta",
+    "conversacion_completa": [
+      "Ok",
+      "Hace una hora retiraron la basura depositada y ahora estoy por favor una solución",
+      "El sr Adrián Carrizo vive en pje primera junta al 1100",
+      "Buenos días el que dice ser dueño del sitio baldío sr Adrián Carrizo nuevamente está haciendo limpiar dicho lugar y deja toda la basura en La Plata y pje primera junta",
+      "Buenos días perfecto",
+      "Buenos días mi vecina de pje primera junta 1090 dejando su basura en la esquina de La Plata y pje primera junta"
+    ],
+    "ultimaActualizacion": "2026-07-06T16:53:16.181Z",
+    "ultimoMensaje": "Buenas tardes",
+    "historialMensajes": [
+      {
+        "texto": "Buenas tardes",
+        "fecha": "2026-07-06T16:53:16.181Z",
+        "sentimiento": "neutro"
+      }
+    ]
+  },
+  {
+    "numero": "27964649545745",
+    "celular": "+54 9 3814 808-112",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Gracias",
+    "mensaje": "Gracias",
+    "fecha": "2026-07-06T16:29:30.728Z",
+    "ultimaActualizacion": "2026-07-06T16:29:30.728Z",
+    "historialMensajes": [
+      {
+        "texto": "Gracias",
+        "fecha": "2026-07-06T16:29:30.728Z",
+        "sentimiento": "positivo"
+      }
+    ]
+  },
+  {
+    "numero": "108173113438237",
+    "celular": "+54 9 3815 373-303",
+    "nombre": "",
+    "direccion": "San Luis 122",
+    "sentimiento": "neutro",
+    "evidencia_clasificacion": [
+      "ya retiraron"
+    ],
+    "canal": "WhatsApp Ambiente",
+    "fecha": "2026-04-06",
+    "mensaje": "Si, ya retiraron las cosas. Gracias!",
+    "conversacion_completa": [
+      "Si, ya retiraron las cosas. Gracias!",
+      "Buen día, creo que ya no están. Me fijo bien al mediodía cuando vuelva.",
+      "A la par del contenedor plástico",
+      "Las cosas están en San Luis 122",
+      "Ok! Gracias!"
+    ],
+    "ultimaActualizacion": "2026-07-06T16:27:14.243Z",
+    "ultimoMensaje": "A la altura del contenedor que está en la cuadra",
+    "historialMensajes": [
+      {
+        "texto": "Buenas tardes",
+        "fecha": "2026-07-06T16:26:21.811Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "San Luis 131",
+        "fecha": "2026-07-06T16:26:49.441Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "A la altura del contenedor que está en la cuadra",
+        "fecha": "2026-07-06T16:27:14.243Z",
+        "sentimiento": "neutro"
+      }
+    ]
+  },
+  {
+    "numero": "46390076027110",
+    "celular": "+54 9 3813 190-694",
+    "nombre": "",
+    "direccion": "",
+    "sentimiento": "neutro",
+    "evidencia_clasificacion": [
+      "nunca\\s+lo\\s+realizaron",
+      "reclamo\\s+mediante\\s+un\\s+abogado",
+      "hace\\s+\\d+\\s+(dias|semanas)",
+      "no\\s+pasa"
+    ],
+    "canal": "WhatsApp Ambiente",
+    "fecha": "2026-06-10",
+    "mensaje": "Bueno mira tendré que hacer el reclamo mediante un abogado correspondiente que es allegado a la intendente que tengo pedido realizado y nunca lo realizaron",
+    "conversacion_completa": [
+      "Hola me pasaron este número de la municipalidad para ver cdo pasan a retirar escombro",
+      "Hola cómo estás",
+      "Hola buen día",
+      "Hola ahí te pasé fotos",
+      "Hola cómo estás",
+      "Bueno me veo abligada a elevar una nota sobre el servicio",
+      "Pasará a retirar el escombro?",
+      "Noooo cargue con la misma foto tengo todo",
+      "Bueno mira tendré que hacer el reclamo mediante un abogado correspondiente que es allegado a la intendente que tengo pedido realizado y nunca lo realizaron",
+      "Bueno pasa y retira las 5 bolsas q lleguen a 15 kg",
+      "Es la foto es la q te pasé",
+      "Por esta vez",
+      "Por favor será tan amable",
+      "Yo pasé fotos a la app",
+      "Bueno pero igual deben de recoger lo que puedan llevar",
+      "Esto no es lo que hay q recoger",
+      "Necesito por favor pasen a retirar el es escombro",
+      "Si lo realice por la app",
+      "Hace 5 días que vengo reclamando",
+      "Hola me pasaron este número de la municipalidad para ver cdo pasan a retirar escombro"
+    ],
+    "ultimaActualizacion": "2026-07-06T16:23:22.157Z",
+    "ultimoMensaje": "Hola si necesito que me retiren escombros",
+    "historialMensajes": [
+      {
+        "texto": "Hola si necesito que me retiren escombros",
+        "fecha": "2026-07-06T16:23:22.157Z",
+        "sentimiento": "neutro"
+      }
+    ]
+  },
+  {
+    "numero": "84379112099963",
+    "celular": "+54 9 3815 100-023",
+    "nombre": "",
+    "direccion": "",
+    "sentimiento": "neutro",
+    "evidencia_clasificacion": [],
+    "canal": "WhatsApp Ambiente",
+    "fecha": "2026-06-01",
+    "mensaje": "Buenos días, disculpe ayer en la tarde se acercó una vecina de la calle inca Garcilazo esquina Bernabé Araos y me preguntó con quién tiene que hablar porque en ese lugar los vecinos hicieron un basural tiran animales muertos, ella tiene un negocio justo en esa esquina, y también hay una placita donde van muchos niños \nEl nombre de la vecina es Amanda Juárez. Yo pasé por el lugar cuando salí de trabajar y saque esta foto de pasada",
+    "conversacion_completa": [
+      "Si. Ya hablo con kio",
+      "Gracias!",
+      "Esto es un basural. Para avisar al equipo",
+      "Buen dia",
+      "Buen día esto me pasa un vigilador de punto verde garcilaso",
+      "Buenos días, disculpe ayer en la tarde se acercó una vecina de la calle inca Garcilazo esquina Bernabé Araos y me preguntó con quién tiene que hablar porque en ese lugar los vecinos hicieron un basural tiran animales muertos, ella tiene un negocio justo en esa esquina, y también hay una placita donde van muchos niños \nEl nombre de la vecina es Amanda Juárez. Yo pasé por el lugar cuando salí de trabajar y saque esta foto de pasada",
+      "Gracias. Ya informo",
+      "Un vecino de mate de luna el 4000 me pide que se realice la denuncia que tienen un caño roto que ya hablaron con la SAT y no saben con quién más hablar para que los reparen",
+      "Genial. Ahí le aviso. Marque sin querer",
+      "Le pase tu número a una vecina que necesita  que le retiren residuos"
+    ],
+    "ultimaActualizacion": "2026-07-06T15:37:29.157Z",
+    "ultimoMensaje": "Gracias",
+    "historialMensajes": [
+      {
+        "texto": "Gracias!!",
+        "fecha": "2026-07-06T15:03:03.127Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Cuál otro?",
+        "fecha": "2026-07-06T15:03:17.229Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Si. El de rebe",
+        "fecha": "2026-07-06T15:03:25.828Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Gracias",
+        "fecha": "2026-07-06T15:03:36.389Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Pásame un nuevo qr",
+        "fecha": "2026-07-06T15:28:08.728Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Hacelo vos",
+        "fecha": "2026-07-06T15:28:14.568Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Por favor",
+        "fecha": "2026-07-06T15:28:17.050Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Me sale no valido",
+        "fecha": "2026-07-06T15:28:23.484Z",
+        "sentimiento": "negativo"
+      },
+      {
+        "texto": "Perfecto",
+        "fecha": "2026-07-06T15:37:26.886Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Gracias",
+        "fecha": "2026-07-06T15:37:29.157Z",
+        "sentimiento": "positivo"
+      }
+    ]
   },
   {
     "numero": "188398757244952",
@@ -170,6 +719,523 @@
         "sentimiento": "positivo"
       }
     ]
+  },
+  {
+    "numero": "104848926216240",
+    "celular": "+54 9 3815 572-832",
+    "nombre": "",
+    "direccion": "Barrio alejandro heredia",
+    "sentimiento": "neutro",
+    "evidencia_clasificacion": [],
+    "canal": "WhatsApp Ambiente",
+    "fecha": "2026-06-09",
+    "mensaje": "Le explico,yo estoy en Barrio alejandro heredia\n9 de julio al 3850,tengo un local de comida y Viven tirando basura o de lo contrario rompen las bolsas,También después de la inundaciones Pusieron cestos de basura Y tiran A la par de los cestos O si no también rompen las bolsas Y el basurero eso no se lleva",
+    "conversacion_completa": [
+      "Que solucion podrían darme ?",
+      "Bien muchas gracias",
+      "Ese sería el costado de la casa de mi vecina",
+      "Estoy ubicada en la 9 de julio al 3850",
+      "Ya hice un reclamo una ves",
+      "Le comento,en la esquina de mi casa tenemos cestos Pero siempre va a ver uno o dos que rompen las bolsas de la basura u eso el Camión de la basura no se los lleva y queda todo sucio,o si no tiran Animales muertos o si no no tiran ahí en los cestos Tiran la basura al costado de la casa de una vecina",
+      "Sii necesito hacer una denuncia",
+      "Hola buen dia",
+      "Bien Muchísimas gracias",
+      "Si puede ingresar",
+      "Si si",
+      "Muchas gracias",
+      "No se si podría enviarle fotos",
+      "Y necesitamos sacarlo urgente",
+      "Pero a la par de mi casa hay un basural",
+      "Le explico,yo estoy en Barrio alejandro heredia\n9 de julio al 3850,tengo un local de comida y Viven tirando basura o de lo contrario rompen las bolsas,También después de la inundaciones Pusieron cestos de basura Y tiran A la par de los cestos O si no también rompen las bolsas Y el basurero eso no se lleva",
+      "Bien Disculpe",
+      "Quería hacer un reclamo sobre un basural",
+      "Hola buen día"
+    ],
+    "ultimaActualizacion": "2026-07-06T15:36:35.859Z",
+    "ultimoMensaje": "Bien muchas gracias",
+    "historialMensajes": [
+      {
+        "texto": "Como puedo hacer ?",
+        "fecha": "2026-07-06T15:15:22.154Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Necesito hacer una denuncia sobre esto",
+        "fecha": "2026-07-06T15:15:24.818Z",
+        "sentimiento": "negativo"
+      },
+      {
+        "texto": "Sos gente que vienen a tirar basura de otro lado",
+        "fecha": "2026-07-06T15:15:45.527Z",
+        "sentimiento": "negativo"
+      },
+      {
+        "texto": "Y encima rompen las bolsas",
+        "fecha": "2026-07-06T15:15:50.973Z",
+        "sentimiento": "negativo"
+      },
+      {
+        "texto": "Esta todo los días lleno de basura en el piso",
+        "fecha": "2026-07-06T15:16:00.139Z",
+        "sentimiento": "negativo"
+      },
+      {
+        "texto": "Todas las bolsas rotas",
+        "fecha": "2026-07-06T15:16:09.587Z",
+        "sentimiento": "negativo"
+      },
+      {
+        "texto": "9 de julio al 3850",
+        "fecha": "2026-07-06T15:19:42.559Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Pusieron los canastos pero lo mismo todos los días rompen las bolsas",
+        "fecha": "2026-07-06T15:20:03.528Z",
+        "sentimiento": "negativo"
+      },
+      {
+        "texto": "Hasta animales muertos tiran ahi",
+        "fecha": "2026-07-06T15:20:15.113Z",
+        "sentimiento": "negativo"
+      },
+      {
+        "texto": "Bien muchas gracias",
+        "fecha": "2026-07-06T15:36:35.859Z",
+        "sentimiento": "positivo"
+      }
+    ]
+  },
+  {
+    "numero": "206223022489833",
+    "celular": "+54 9 3815 224-717",
+    "nombre": "",
+    "direccion": "barrio san Miguel",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Dale muchísimas gracias",
+    "mensaje": "Buen día me comunico con ustedes para pedirles un favor: que me lleven los troncos de un árbol que me podaron.muchas gracias",
+    "fecha": "2026-07-06T15:25:43.402Z",
+    "ultimaActualizacion": "2026-07-06T15:36:24.073Z",
+    "historialMensajes": [
+      {
+        "texto": "Buen día me comunico con ustedes para pedirles un favor: que me lleven los troncos de un árbol que me podaron.muchas gracias",
+        "fecha": "2026-07-06T15:25:43.402Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Buen día me comunico con ustedes para pedirles un favor: que me lleven los troncos de un árbol que me podaron.muchas gracias",
+        "fecha": "2026-07-06T15:25:45.380Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Sii ya se lo paso",
+        "fecha": "2026-07-06T15:27:06.070Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "El lunes pasado lo cortaron los chicos de la municipalidad y nos dijeron q venían a buscarlo al día siguiente y no volvieron",
+        "fecha": "2026-07-06T15:30:12.119Z",
+        "sentimiento": "negativo"
+      },
+      {
+        "texto": "Sii no hay problema",
+        "fecha": "2026-07-06T15:30:52.895Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "1 pasaje sin nombre 236 altura Atahualpa 1126 barrio san Miguel 2",
+        "fecha": "2026-07-06T15:32:17.014Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Sii",
+        "fecha": "2026-07-06T15:32:48.618Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Dale muchísimas gracias",
+        "fecha": "2026-07-06T15:36:24.073Z",
+        "sentimiento": "positivo"
+      }
+    ]
+  },
+  {
+    "numero": "164072079290498",
+    "celular": "+54 9 3815 354-391",
+    "nombre": "",
+    "direccion": "Ayacucho 3550",
+    "sentimiento": "neutro",
+    "evidencia_clasificacion": [],
+    "canal": "WhatsApp Ambiente",
+    "fecha": "2026-06-15",
+    "mensaje": "Hola quisiera solicitar el camión tengo troncos de árboles que necesito hacer retirar!🙏🏻🙏🏻🙏🏻",
+    "conversacion_completa": [
+      "Hola quisiera solicitar el camión tengo troncos de árboles que necesito hacer retirar!🙏🏻🙏🏻🙏🏻"
+    ],
+    "ultimaActualizacion": "2026-07-06T14:59:24.005Z",
+    "ultimoMensaje": "Ayacucho 3550",
+    "historialMensajes": [
+      {
+        "texto": "Buen día son estos 2 troncos y unas ramas que necesito sacar!",
+        "fecha": "2026-07-06T14:59:21.035Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Ayacucho 3550",
+        "fecha": "2026-07-06T14:59:24.005Z",
+        "sentimiento": "neutro"
+      }
+    ]
+  },
+  {
+    "numero": "262315647697148",
+    "celular": "+54 9 3812 081-709",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Están pavimentando lo tendrían que hacer pie , lo agregamos a la orden de servicio",
+    "mensaje": "Ya esta informado.",
+    "fecha": "2026-07-06T14:37:45.762Z",
+    "ultimaActualizacion": "2026-07-06T14:56:51.140Z",
+    "historialMensajes": [
+      {
+        "texto": "Ya esta informado.",
+        "fecha": "2026-07-06T14:37:45.762Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Están pavimentando lo tendrían que hacer pie , lo agregamos a la orden de servicio",
+        "fecha": "2026-07-06T14:56:51.140Z",
+        "sentimiento": "positivo"
+      }
+    ]
+  },
+  {
+    "numero": "211449980965027",
+    "celular": "+54 9 3815 756-006",
+    "nombre": "",
+    "direccion": "Peru 3350",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Muchas gracias",
+    "mensaje": "Buen día",
+    "fecha": "2026-07-06T14:17:53.853Z",
+    "ultimaActualizacion": "2026-07-06T14:43:18.110Z",
+    "historialMensajes": [
+      {
+        "texto": "Buen día",
+        "fecha": "2026-07-06T14:17:53.853Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Son unas ramas de una poda chica y hace una semana pedí a la empresa 9 de julio su recolección y todavía no lo hacen",
+        "fecha": "2026-07-06T14:20:01.920Z",
+        "sentimiento": "negativo"
+      },
+      {
+        "texto": "La dirección es Peru 3350",
+        "fecha": "2026-07-06T14:20:13.183Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Les rogaría que lo pudieran retirar , para no tener que dejar que los carros que pasan lo lleven y hagan basurales x ahí",
+        "fecha": "2026-07-06T14:21:49.465Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Muchas gracias",
+        "fecha": "2026-07-06T14:43:18.110Z",
+        "sentimiento": "positivo"
+      }
+    ]
+  },
+  {
+    "numero": "156564845547756",
+    "celular": "+54 9 3815 171-395",
+    "nombre": "",
+    "direccion": "José Colombres 1765",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Bien",
+    "mensaje": "Buen día ya le envio",
+    "fecha": "2026-07-06T13:15:46.117Z",
+    "ultimaActualizacion": "2026-07-06T14:43:15.717Z",
+    "historialMensajes": [
+      {
+        "texto": "Buen día ya le envio",
+        "fecha": "2026-07-06T13:15:46.117Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "José Colombres 1765",
+        "fecha": "2026-07-06T14:21:09.166Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "En realidad son 2 árboles , pero están ordenados los restos",
+        "fecha": "2026-07-06T14:21:33.971Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Bien",
+        "fecha": "2026-07-06T14:43:15.717Z",
+        "sentimiento": "positivo"
+      }
+    ]
+  },
+  {
+    "numero": "144036342046915",
+    "celular": "+54 9 3813 858-416",
+    "nombre": "",
+    "direccion": "barrio ciudad parque",
+    "sentimiento": "positivo",
+    "evidencia_clasificacion": [
+      "no\\s+pasa",
+      "no\\s+llega"
+    ],
+    "canal": "WhatsApp Ambiente",
+    "fecha": "2026-06-09",
+    "mensaje": "Para solicitar recolección de escombros ya lo saque a la vereda la dirección es pje bascary 4343 entre Santiago y corrientes barrio ciudad parque",
+    "conversacion_completa": [
+      "Si se lo Irán llevando así cierto de a poco? O pueden mandar el camion con la pala?",
+      "Esta bien si lo van llevando de a poco mientras se lo lleven gracias",
+      "No llevaron nada si pasaron sigue todo ahi",
+      "Pasaban con el camión y la pala me dijo un supervisor de esos q andan en la calle en camioneta que lo saque así de esa forma",
+      "Hola buenos dia siguen ahi como en la foto la misma cantidad no pasaron todavía",
+      "quedo a la espera gracias 🙏🏽🌱✨",
+      "Para solicitar recolección de escombros ya lo saque a la vereda la dirección es pje bascary 4343 entre Santiago y corrientes barrio ciudad parque",
+      "Hola buenos dia",
+      "Bueno genial si no llegan a llevarlo todo q lo vuelvo a solicitar o dps pasan no haria falta gracias 🌱",
+      "La dire es pje bascary 4343 entre Santiago y corrientes barrio Ciudad Parque",
+      "Genial si es para solicitar recolección de escombros ya los tengo en la vereda en bolsas",
+      "Hola buen día"
+    ],
+    "ultimaActualizacion": "2026-07-06T14:30:34.232Z",
+    "ultimoMensaje": "Pje bascary 4343 es la dirección",
+    "historialMensajes": [
+      {
+        "texto": "Hola buenos dias",
+        "fecha": "2026-07-06T14:24:52.897Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Pje bascary 4343 es la dirección",
+        "fecha": "2026-07-06T14:30:34.232Z",
+        "sentimiento": "positivo"
+      }
+    ]
+  },
+  {
+    "numero": "211020350017762",
+    "celular": "+54 9 3814 132-770",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "hola",
+    "mensaje": "hola",
+    "fecha": "2026-07-06T14:28:13.467Z",
+    "ultimaActualizacion": "2026-07-06T14:28:13.467Z",
+    "historialMensajes": [
+      {
+        "texto": "hola",
+        "fecha": "2026-07-06T14:28:13.467Z",
+        "sentimiento": "neutro"
+      }
+    ]
+  },
+  {
+    "numero": "223776419619010",
+    "celular": "+54 9 3812 077-677",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Ok. Ya avisaré a todos los vecinos que estemos atentos los días y horarios que pasan ellos.",
+    "mensaje": "https://maps.app.goo.gl/fznpwJXiwdxrCHZk7?g_st=aw",
+    "fecha": "2026-07-06T13:39:04.479Z",
+    "ultimaActualizacion": "2026-07-06T14:25:32.456Z",
+    "historialMensajes": [
+      {
+        "texto": "https://maps.app.goo.gl/fznpwJXiwdxrCHZk7?g_st=aw",
+        "fecha": "2026-07-06T13:39:04.479Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Ok. Ya avisaré a todos los vecinos que estemos atentos los días y horarios que pasan ellos.",
+        "fecha": "2026-07-06T14:25:32.456Z",
+        "sentimiento": "positivo"
+      }
+    ]
+  },
+  {
+    "numero": "84164212740231",
+    "celular": "+54 9 3814 130-934",
+    "nombre": "",
+    "direccion": "",
+    "sentimiento": "negativo",
+    "evidencia_clasificacion": [],
+    "canal": "WhatsApp Ambiente",
+    "fecha": "2026-06-26",
+    "mensaje": "Tengo infinidades de reclamo , pero no vienen a limpiar ...mande por redes sociales también y me facilitaron este número...por favor necesitamos manden personal a limpiar",
+    "conversacion_completa": [
+      "Ok , muchas gracias",
+      "Buen día a que número debo dirigirme para pedir un cartel que diga prohibido arrojar basura , por más que me manden personal con la maquina , siguen arrojando basura sin ir más lejos acabo de entrar a mi domicilio y una persona arrojando cartones y bolsas de basura, si podrían informarme Gracias",
+      "Necesitamos con urgencia! Limpieza en pasaje victorino de la plaza 1799 y lavaise al 900 , es imposible transitar, están creando un basural!",
+      "Buenas tardes por favor , se necesita personal de limpieza en pasaje victorino de la plaza 1799 esquina lavaisse al 900 , están creando un basural,  se han roto cañerías,  es foco de infección constante para los vecinos de esta cuadra...Por favor que no quede solo en tomarme el reclamo y en darme un número del mismo,  ya que son reiteradas las veces que me contacto solicitándolo y sigo sin tener respuesta de verlos venir a recoger ...les agradecería lo pongan con CARACTER DE URGENCIA. gracias",
+      "Ok, gracias 🙏ojalá se lleguen",
+      "Tengo infinidades de reclamo , pero no vienen a limpiar ...mande por redes sociales también y me facilitaron este número...por favor necesitamos manden personal a limpiar",
+      "Necesitamos con urgencia! Limpieza en pasaje victorino de la plaza 1799 y lavaise al 900 , es imposible transitar, están creando un basural!",
+      "Buen dia"
+    ],
+    "ultimaActualizacion": "2026-07-06T14:24:20.087Z",
+    "ultimoMensaje": "Vecino de la misma cuadra,  solo que no lo hacen ellos si no pagan para que tiren",
+    "historialMensajes": [
+      {
+        "texto": "A que número debo denunciar",
+        "fecha": "2026-07-06T14:22:58.699Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Vecino de la misma cuadra,  solo que no lo hacen ellos si no pagan para que tiren",
+        "fecha": "2026-07-06T14:24:20.087Z",
+        "sentimiento": "negativo"
+      }
+    ]
+  },
+  {
+    "numero": "96426428244054",
+    "celular": "+54 9 3816 541-122",
+    "nombre": "",
+    "direccion": "Avda Siria 1558",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "De acuerdo. Muchas gracias.",
+    "mensaje": "Es a la par de mi casa. Avda Siria 1558",
+    "fecha": "2026-07-06T14:12:58.867Z",
+    "ultimaActualizacion": "2026-07-06T14:21:55.841Z",
+    "historialMensajes": [
+      {
+        "texto": "Es a la par de mi casa. Avda Siria 1558",
+        "fecha": "2026-07-06T14:12:58.867Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Las bolsas están en el garage del auto,hasta que me informen Uds",
+        "fecha": "2026-07-06T14:14:07.390Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "De acuerdo. Muchas gracias.",
+        "fecha": "2026-07-06T14:21:55.841Z",
+        "sentimiento": "positivo"
+      }
+    ]
+  },
+  {
+    "numero": "65446778794144",
+    "celular": "+54 9 3815 326-436",
+    "nombre": "",
+    "direccion": "Isabel la Católica 619",
+    "sentimiento": "positivo",
+    "evidencia_clasificacion": [],
+    "canal": "WhatsApp Ambiente",
+    "fecha": "2026-05-04",
+    "mensaje": "Tengo una heladera, chapa  lavarropas y unas chapas viejas. Podrían pasar a buscar?",
+    "conversacion_completa": [
+      "Gracias.",
+      "Saqué  las cosas a la vereda. Sin darme cuenta,  llevaron todo.",
+      "Buenas tardes.",
+      "Perfecto. En un rato lo saco.  Gracias.",
+      "Isabel la Católica 619",
+      "Tengo una heladera, chapa  lavarropas y unas chapas viejas. Podrían pasar a buscar?",
+      "Buen día!"
+    ],
+    "ultimaActualizacion": "2026-07-06T14:15:55.123Z",
+    "ultimoMensaje": "Ok. Gracias",
+    "historialMensajes": [
+      {
+        "texto": "Buen día!",
+        "fecha": "2026-07-06T13:41:36.323Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Necesito que recojan unas bolsas con escombros y otro tipo de basura no habitual.",
+        "fecha": "2026-07-06T13:42:41.226Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Necesito que recojan unas bolsas con escombros y otro tipo de basura no habitual.",
+        "fecha": "2026-07-06T13:42:44.811Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Isabel la Católica 619\nPatricia Rodríguez.",
+        "fecha": "2026-07-06T13:43:43.008Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Ok. Gracias",
+        "fecha": "2026-07-06T14:15:55.123Z",
+        "sentimiento": "positivo"
+      }
+    ]
+  },
+  {
+    "numero": "136842137579702",
+    "celular": "+54 9 3815 012-912",
+    "nombre": "",
+    "direccion": "",
+    "sentimiento": "negativo",
+    "ultimoMensaje": "Buen día gente!!! \nReclamo porque tengo que estar con las cámaras controlando para que no haga un basural",
+    "mensaje": "La foto corresponde al día sábado cuando el barrendero dejó la bolsa",
+    "fecha": "2026-07-06T13:15:51.358Z",
+    "ultimaActualizacion": "2026-07-06T13:29:15.267Z",
+    "historialMensajes": [
+      {
+        "texto": "La foto corresponde al día sábado cuando el barrendero dejó la bolsa",
+        "fecha": "2026-07-06T13:15:51.358Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Buen día gente!!! \nReclamo porque tengo que estar con las cámaras controlando para que no haga un basural",
+        "fecha": "2026-07-06T13:29:15.267Z",
+        "sentimiento": "negativo"
+      }
+    ]
+  },
+  {
+    "numero": "134217811939414",
+    "celular": "+54 9 3816 416-927",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Gracias!",
+    "mensaje": "Gracias!",
+    "fecha": "2026-07-06T13:29:04.392Z",
+    "ultimaActualizacion": "2026-07-06T13:29:04.392Z",
+    "historialMensajes": [
+      {
+        "texto": "Gracias!",
+        "fecha": "2026-07-06T13:29:04.392Z",
+        "sentimiento": "positivo"
+      }
+    ]
+  },
+  {
+    "numero": "190610749296853",
+    "celular": "+54 9 3816 111-385",
+    "nombre": "",
+    "direccion": "Matheu 437",
+    "sentimiento": "neutro",
+    "evidencia_clasificacion": [],
+    "canal": "WhatsApp Ambiente",
+    "fecha": "2026-07-02",
+    "mensaje": "Hola Buenos Dias\nTengo 5 bolsitas para que me lo lleven por favor. \nLo tengo adentro de casa, para cuando me digan la saco",
+    "conversacion_completa": [
+      "Matheu 437",
+      "Hola Buenos Dias\nTengo 5 bolsitas para que me lo lleven por favor. \nLo tengo adentro de casa, para cuando me digan la saco",
+      "Ok ok perdón. \nGracias",
+      "Hola buenas tardes\nTengo 4 bolsitas de escombros . \nPara que. Me lo lleven por favor. \nMatheu 437",
+      "Ok ok perdón. \nGracias",
+      "Hola buenas tardes\nTengo 4 bolsitas de escombros . \nPara que. Me lo lleven por favor. \nMatheu 437"
+    ],
+    "ultimaActualizacion": "2026-07-02"
   },
   {
     "numero": "45277713023176",
@@ -476,75 +1542,6 @@
       "Donde se debe solicitar arreglo de pavimento roto? Ahora lo usan p tirar basura"
     ],
     "ultimaActualizacion": "2026-07-01"
-  },
-  {
-    "numero": "192401784209648",
-    "celular": "+54 9 3814 175-742",
-    "nombre": "",
-    "direccion": "Barrio San Cayetano",
-    "sentimiento": "positivo",
-    "evidencia_clasificacion": [],
-    "canal": "WhatsApp Ambiente",
-    "fecha": "2026-07-01",
-    "mensaje": "Quiero solicitar mi retiro de residuos no habituales",
-    "conversacion_completa": [
-      "Quiero solicitar mi retiro de residuos no habituales",
-      "Hola!"
-    ],
-    "ultimaActualizacion": "2026-07-07T11:35:42.653Z",
-    "ultimoMensaje": "Gracias",
-    "historialMensajes": [
-      {
-        "texto": "Hierro de pileta pelopincho",
-        "fecha": "2026-07-06T13:36:40.244Z",
-        "sentimiento": "neutro"
-      },
-      {
-        "texto": "Pileta pelopincho",
-        "fecha": "2026-07-06T13:36:55.004Z",
-        "sentimiento": "neutro"
-      },
-      {
-        "texto": "Escombro",
-        "fecha": "2026-07-06T13:37:05.221Z",
-        "sentimiento": "neutro"
-      },
-      {
-        "texto": "Puerta",
-        "fecha": "2026-07-06T13:37:17.603Z",
-        "sentimiento": "neutro"
-      },
-      {
-        "texto": "Pje 10/35 1850 Altura Ricardo Rojas al 400.Barrio San Cayetano",
-        "fecha": "2026-07-06T13:44:54.054Z",
-        "sentimiento": "neutro"
-      },
-      {
-        "texto": "Buenos días! Le dejo la ubicación",
-        "fecha": "2026-07-07T09:53:34.312Z",
-        "sentimiento": "neutro"
-      },
-      {
-        "texto": "Así es",
-        "fecha": "2026-07-07T11:28:50.033Z",
-        "sentimiento": "neutro"
-      },
-      {
-        "texto": "Así figura en boleta de luz y demás",
-        "fecha": "2026-07-07T11:35:37.010Z",
-        "sentimiento": "neutro"
-      },
-      {
-        "texto": "Perfecto",
-        "fecha": "2026-07-07T11:35:40.802Z",
-        "sentimiento": "positivo"
-      },
-      {
-        "texto": "Gracias",
-        "fecha": "2026-07-07T11:35:42.653Z",
-        "sentimiento": "positivo"
-      }
-    ]
   },
   {
     "numero": "127912816689156",
@@ -1117,34 +2114,6 @@
       "Hola, buen dia"
     ],
     "ultimaActualizacion": "2026-07-01"
-  },
-  {
-    "numero": "80952332136575",
-    "celular": "+54 9 3812 150-131",
-    "nombre": "",
-    "direccion": "",
-    "sentimiento": "neutro",
-    "evidencia_clasificacion": [],
-    "canal": "WhatsApp Ambiente",
-    "fecha": "2026-07-01",
-    "mensaje": "Buenas noches",
-    "conversacion_completa": [
-      "Buenas noches"
-    ],
-    "ultimaActualizacion": "2026-07-06T17:53:18.545Z",
-    "ultimoMensaje": "Un mueble, 2 colchones, una chapa, 1 ventilador, 3 esqueletos de sillas",
-    "historialMensajes": [
-      {
-        "texto": "Buenas tardes \nEscribo para solicitar un retiro de residuos no habituales \nAdjunto las fotos",
-        "fecha": "2026-07-06T17:51:49.416Z",
-        "sentimiento": "positivo"
-      },
-      {
-        "texto": "Un mueble, 2 colchones, una chapa, 1 ventilador, 3 esqueletos de sillas",
-        "fecha": "2026-07-06T17:53:18.545Z",
-        "sentimiento": "neutro"
-      }
-    ]
   },
   {
     "numero": "173765887529013",
@@ -3236,34 +4205,6 @@
     "ultimaActualizacion": "2026-06-26"
   },
   {
-    "numero": "3307259084810",
-    "celular": "+54 9 3813 924-750",
-    "nombre": "",
-    "direccion": "",
-    "sentimiento": "neutro",
-    "evidencia_clasificacion": [],
-    "canal": "WhatsApp Ambiente",
-    "fecha": "2026-06-26",
-    "mensaje": "Hola",
-    "conversacion_completa": [
-      "Hola"
-    ],
-    "ultimaActualizacion": "2026-07-06T17:30:48.779Z",
-    "ultimoMensaje": "Hola",
-    "historialMensajes": [
-      {
-        "texto": "Buen día",
-        "fecha": "2026-07-06T17:29:27.889Z",
-        "sentimiento": "neutro"
-      },
-      {
-        "texto": "Hola",
-        "fecha": "2026-07-06T17:30:48.779Z",
-        "sentimiento": "neutro"
-      }
-    ]
-  },
-  {
     "numero": "103985486807279",
     "celular": "",
     "nombre": "",
@@ -3471,41 +4412,6 @@
       "Necesitaria q pasen a retirar"
     ],
     "ultimaActualizacion": "2026-06-26"
-  },
-  {
-    "numero": "84164212740231",
-    "celular": "+54 9 3814 130-934",
-    "nombre": "",
-    "direccion": "",
-    "sentimiento": "negativo",
-    "evidencia_clasificacion": [],
-    "canal": "WhatsApp Ambiente",
-    "fecha": "2026-06-26",
-    "mensaje": "Tengo infinidades de reclamo , pero no vienen a limpiar ...mande por redes sociales también y me facilitaron este número...por favor necesitamos manden personal a limpiar",
-    "conversacion_completa": [
-      "Ok , muchas gracias",
-      "Buen día a que número debo dirigirme para pedir un cartel que diga prohibido arrojar basura , por más que me manden personal con la maquina , siguen arrojando basura sin ir más lejos acabo de entrar a mi domicilio y una persona arrojando cartones y bolsas de basura, si podrían informarme Gracias",
-      "Necesitamos con urgencia! Limpieza en pasaje victorino de la plaza 1799 y lavaise al 900 , es imposible transitar, están creando un basural!",
-      "Buenas tardes por favor , se necesita personal de limpieza en pasaje victorino de la plaza 1799 esquina lavaisse al 900 , están creando un basural,  se han roto cañerías,  es foco de infección constante para los vecinos de esta cuadra...Por favor que no quede solo en tomarme el reclamo y en darme un número del mismo,  ya que son reiteradas las veces que me contacto solicitándolo y sigo sin tener respuesta de verlos venir a recoger ...les agradecería lo pongan con CARACTER DE URGENCIA. gracias",
-      "Ok, gracias 🙏ojalá se lleguen",
-      "Tengo infinidades de reclamo , pero no vienen a limpiar ...mande por redes sociales también y me facilitaron este número...por favor necesitamos manden personal a limpiar",
-      "Necesitamos con urgencia! Limpieza en pasaje victorino de la plaza 1799 y lavaise al 900 , es imposible transitar, están creando un basural!",
-      "Buen dia"
-    ],
-    "ultimaActualizacion": "2026-07-06T14:24:20.087Z",
-    "ultimoMensaje": "Vecino de la misma cuadra,  solo que no lo hacen ellos si no pagan para que tiren",
-    "historialMensajes": [
-      {
-        "texto": "A que número debo denunciar",
-        "fecha": "2026-07-06T14:22:58.699Z",
-        "sentimiento": "neutro"
-      },
-      {
-        "texto": "Vecino de la misma cuadra,  solo que no lo hacen ellos si no pagan para que tiren",
-        "fecha": "2026-07-06T14:24:20.087Z",
-        "sentimiento": "negativo"
-      }
-    ]
   },
   {
     "numero": "207893647372459",
@@ -4311,70 +5217,6 @@
       "Buenas tardes. Quería consultar. Me posaron un árbol y tengo la vereda llena de ramas"
     ],
     "ultimaActualizacion": "2026-06-25"
-  },
-  {
-    "numero": "246574223474779",
-    "celular": "+54 9 3814 025-042",
-    "nombre": "",
-    "direccion": "calle Colombia 249",
-    "sentimiento": "positivo",
-    "evidencia_clasificacion": [
-      "perfecto muchas gracias"
-    ],
-    "canal": "WhatsApp Ambiente",
-    "fecha": "2026-06-25",
-    "mensaje": "Perfecto muchas gracias por la gestión. Saludos",
-    "conversacion_completa": [
-      "Muchas gracias. Saludos",
-      "Buenos días. Hay tres bolsas. Además dejaron tabla de inodoro y otras cosas que el basurero no las lleva. Además dejaron unos palos que tampoco llevan.",
-      "Muchas gracias. Saludos",
-      "Saludos",
-      "Perfecto muchas gracias",
-      "Muchas gracias. Saludos",
-      "Buenos días. Mí nombre es Maximiliano Delfini Topa. Necesito utilizar este canal a fin de retirar residuos no convencionales y escombros ubicados en el acceso a un  Consorcio de Propietarios ubicado el mismo en calle España 1.462 ( entre 12 de Octubre y República del Libano)de está ciudad capital. Acompaño fotografías",
-      "Perfecto muchas gracias",
-      "Buenos dias",
-      "Muchas gracias. Saludos",
-      "Buenos días. Mí nombre es Maximiliano Delfini Topa. Necesito utilizar este canal a fin de retirar residuos no convencionales y escombros ubicados en el acceso a un  Consorcio de Propietarios ubicado el mismo en Colombia 249 ( entre Rivadavia y Monteagudo )de está ciudad capital. Acompaño fotografías",
-      "Muchas gracias. Saludos",
-      "Buenas tardes. Mí nombre es Maximiliano Delfini Topa. Necesito utilizar este canal a fin de retirar residuos no convencionales y escombros ubicada en el acceso a un Consorcio de Propietarios ubicado el mismo en Colombia 249 ( entre Rivadavia y Monteagudo )de está ciudad capital. Acompaño fotografías",
-      "Buen día gracias",
-      "Muchas gracias. Saludos",
-      "Buenas tardes. Mí nombre es Maximiliano Delfini Topa. Necesito utilizar este canal a fin de retirar residuos no convencionales y escombros ubicada en el acceso a un Consorcio de Propietarios ubicado el mismo en Crisostomo Álvarez 1.676 de está ciudad capital. Acompaño fotografías",
-      "Gracias",
-      "Muchas gracias por la gestión. Que tenga buen día",
-      "Ahí le reenvío la solicitud adjuntando fotografías",
-      "Muchas gracias Saludos",
-      "Buenos días. Mí nombre es Maximiliano Delfini Topa. Necesito utilizar este canal a fin de retirar residuos no convencionales y escombros ubicada en el acceso a un Consorcio de Propietarios ubicado el mismo en calle Colombia 249 ( entre Rivadavia y Monteagudo) de está ciudad capital. Acompaño fotografías",
-      "Están?",
-      "Buenos días",
-      "Gracias. Igualmente",
-      "Perfecto muchas gracias por la gestión. Saludos",
-      "Mí consulta es si lo pudieron cargar al pedido. Gracias. Saludos",
-      "Buenas día. Quería hacerle una consulta. El día martes efectúe un pedido a fin de que retiren residuos no convencionales y escombros que obstaculizan el transito de los peatones en la vía pública. El domicilio informado es en calle Colombia 249 ( entre Rivadavia y Monteagudo)",
-      "Muchas gracias. Saludos",
-      "Muchas gracias. Saludos",
-      "Buenos días. Mí nombre es Maximiliano Delfini Topa. Necesito utilizar este canal a fin de retirar residuos no convencionales y escombros ubicada en el acceso a un Consorcio de Propietarios ubicado el mismo en calle Colombia 249 ( entre Rivadavia y Monteagudo) de está ciudad capital. Acompaño fotografías"
-    ],
-    "ultimaActualizacion": "2026-07-06T20:36:21.960Z",
-    "ultimoMensaje": "Muchas gracias. Saludos",
-    "historialMensajes": [
-      {
-        "texto": "Buenas tardes. Mí nombre es Maximiliano Delfini Topa. Necesito utilizar este canal a fin de retirar residuos no convencionales y escombros ubicada en el acceso a un Consorcio de Propietarios ubicado e",
-        "fecha": "2026-07-06T20:35:47.837Z",
-        "sentimiento": "positivo"
-      },
-      {
-        "texto": "Eso no lo retira el basurero",
-        "fecha": "2026-07-06T20:36:16.921Z",
-        "sentimiento": "negativo"
-      },
-      {
-        "texto": "Muchas gracias. Saludos",
-        "fecha": "2026-07-06T20:36:21.960Z",
-        "sentimiento": "positivo"
-      }
-    ]
   },
   {
     "numero": "116221932490935",
@@ -9437,34 +10279,6 @@
     "ultimaActualizacion": "2026-06-15"
   },
   {
-    "numero": "164072079290498",
-    "celular": "+54 9 3815 354-391",
-    "nombre": "",
-    "direccion": "Ayacucho 3550",
-    "sentimiento": "neutro",
-    "evidencia_clasificacion": [],
-    "canal": "WhatsApp Ambiente",
-    "fecha": "2026-06-15",
-    "mensaje": "Hola quisiera solicitar el camión tengo troncos de árboles que necesito hacer retirar!🙏🏻🙏🏻🙏🏻",
-    "conversacion_completa": [
-      "Hola quisiera solicitar el camión tengo troncos de árboles que necesito hacer retirar!🙏🏻🙏🏻🙏🏻"
-    ],
-    "ultimaActualizacion": "2026-07-06T14:59:24.005Z",
-    "ultimoMensaje": "Ayacucho 3550",
-    "historialMensajes": [
-      {
-        "texto": "Buen día son estos 2 troncos y unas ramas que necesito sacar!",
-        "fecha": "2026-07-06T14:59:21.035Z",
-        "sentimiento": "positivo"
-      },
-      {
-        "texto": "Ayacucho 3550",
-        "fecha": "2026-07-06T14:59:24.005Z",
-        "sentimiento": "neutro"
-      }
-    ]
-  },
-  {
     "numero": "110574016970964",
     "celular": "+54 9 3816 885-101",
     "nombre": "",
@@ -11442,53 +12256,6 @@
     "ultimaActualizacion": "2026-06-10"
   },
   {
-    "numero": "46390076027110",
-    "celular": "+54 9 3813 190-694",
-    "nombre": "",
-    "direccion": "",
-    "sentimiento": "neutro",
-    "evidencia_clasificacion": [
-      "nunca\\s+lo\\s+realizaron",
-      "reclamo\\s+mediante\\s+un\\s+abogado",
-      "hace\\s+\\d+\\s+(dias|semanas)",
-      "no\\s+pasa"
-    ],
-    "canal": "WhatsApp Ambiente",
-    "fecha": "2026-06-10",
-    "mensaje": "Bueno mira tendré que hacer el reclamo mediante un abogado correspondiente que es allegado a la intendente que tengo pedido realizado y nunca lo realizaron",
-    "conversacion_completa": [
-      "Hola me pasaron este número de la municipalidad para ver cdo pasan a retirar escombro",
-      "Hola cómo estás",
-      "Hola buen día",
-      "Hola ahí te pasé fotos",
-      "Hola cómo estás",
-      "Bueno me veo abligada a elevar una nota sobre el servicio",
-      "Pasará a retirar el escombro?",
-      "Noooo cargue con la misma foto tengo todo",
-      "Bueno mira tendré que hacer el reclamo mediante un abogado correspondiente que es allegado a la intendente que tengo pedido realizado y nunca lo realizaron",
-      "Bueno pasa y retira las 5 bolsas q lleguen a 15 kg",
-      "Es la foto es la q te pasé",
-      "Por esta vez",
-      "Por favor será tan amable",
-      "Yo pasé fotos a la app",
-      "Bueno pero igual deben de recoger lo que puedan llevar",
-      "Esto no es lo que hay q recoger",
-      "Necesito por favor pasen a retirar el es escombro",
-      "Si lo realice por la app",
-      "Hace 5 días que vengo reclamando",
-      "Hola me pasaron este número de la municipalidad para ver cdo pasan a retirar escombro"
-    ],
-    "ultimaActualizacion": "2026-07-06T16:23:22.157Z",
-    "ultimoMensaje": "Hola si necesito que me retiren escombros",
-    "historialMensajes": [
-      {
-        "texto": "Hola si necesito que me retiren escombros",
-        "fecha": "2026-07-06T16:23:22.157Z",
-        "sentimiento": "neutro"
-      }
-    ]
-  },
-  {
     "numero": "78405047431330",
     "celular": "+54 9 3813 852-055",
     "nombre": "",
@@ -12373,92 +13140,6 @@
     "ultimaActualizacion": "2026-06-09"
   },
   {
-    "numero": "104848926216240",
-    "celular": "+54 9 3815 572-832",
-    "nombre": "",
-    "direccion": "Barrio alejandro heredia",
-    "sentimiento": "positivo",
-    "evidencia_clasificacion": [],
-    "canal": "WhatsApp Ambiente",
-    "fecha": "2026-06-09",
-    "mensaje": "Le explico,yo estoy en Barrio alejandro heredia\n9 de julio al 3850,tengo un local de comida y Viven tirando basura o de lo contrario rompen las bolsas,También después de la inundaciones Pusieron cestos de basura Y tiran A la par de los cestos O si no también rompen las bolsas Y el basurero eso no se lleva",
-    "conversacion_completa": [
-      "Que solucion podrían darme ?",
-      "Bien muchas gracias",
-      "Ese sería el costado de la casa de mi vecina",
-      "Estoy ubicada en la 9 de julio al 3850",
-      "Ya hice un reclamo una ves",
-      "Le comento,en la esquina de mi casa tenemos cestos Pero siempre va a ver uno o dos que rompen las bolsas de la basura u eso el Camión de la basura no se los lleva y queda todo sucio,o si no tiran Animales muertos o si no no tiran ahí en los cestos Tiran la basura al costado de la casa de una vecina",
-      "Sii necesito hacer una denuncia",
-      "Hola buen dia",
-      "Bien Muchísimas gracias",
-      "Si puede ingresar",
-      "Si si",
-      "Muchas gracias",
-      "No se si podría enviarle fotos",
-      "Y necesitamos sacarlo urgente",
-      "Pero a la par de mi casa hay un basural",
-      "Le explico,yo estoy en Barrio alejandro heredia\n9 de julio al 3850,tengo un local de comida y Viven tirando basura o de lo contrario rompen las bolsas,También después de la inundaciones Pusieron cestos de basura Y tiran A la par de los cestos O si no también rompen las bolsas Y el basurero eso no se lleva",
-      "Bien Disculpe",
-      "Quería hacer un reclamo sobre un basural",
-      "Hola buen día"
-    ],
-    "ultimaActualizacion": "2026-07-06T15:36:35.859Z",
-    "ultimoMensaje": "Bien muchas gracias",
-    "historialMensajes": [
-      {
-        "texto": "Como puedo hacer ?",
-        "fecha": "2026-07-06T15:15:22.154Z",
-        "sentimiento": "neutro"
-      },
-      {
-        "texto": "Necesito hacer una denuncia sobre esto",
-        "fecha": "2026-07-06T15:15:24.818Z",
-        "sentimiento": "negativo"
-      },
-      {
-        "texto": "Sos gente que vienen a tirar basura de otro lado",
-        "fecha": "2026-07-06T15:15:45.527Z",
-        "sentimiento": "negativo"
-      },
-      {
-        "texto": "Y encima rompen las bolsas",
-        "fecha": "2026-07-06T15:15:50.973Z",
-        "sentimiento": "negativo"
-      },
-      {
-        "texto": "Esta todo los días lleno de basura en el piso",
-        "fecha": "2026-07-06T15:16:00.139Z",
-        "sentimiento": "negativo"
-      },
-      {
-        "texto": "Todas las bolsas rotas",
-        "fecha": "2026-07-06T15:16:09.587Z",
-        "sentimiento": "negativo"
-      },
-      {
-        "texto": "9 de julio al 3850",
-        "fecha": "2026-07-06T15:19:42.559Z",
-        "sentimiento": "neutro"
-      },
-      {
-        "texto": "Pusieron los canastos pero lo mismo todos los días rompen las bolsas",
-        "fecha": "2026-07-06T15:20:03.528Z",
-        "sentimiento": "negativo"
-      },
-      {
-        "texto": "Hasta animales muertos tiran ahi",
-        "fecha": "2026-07-06T15:20:15.113Z",
-        "sentimiento": "negativo"
-      },
-      {
-        "texto": "Bien muchas gracias",
-        "fecha": "2026-07-06T15:36:35.859Z",
-        "sentimiento": "positivo"
-      }
-    ]
-  },
-  {
     "numero": "266631687180455",
     "celular": "+54 9 3813 313-655",
     "nombre": "",
@@ -12492,48 +13173,6 @@
       "Hola buenas tardes! Donde puedo realizar el recamó y pedido del paso de la empresa 9 de julio por pasaje campo de las carreras 1550 toda la cuadra llena de basura días  y días y no la recogen, son bolsas normales con el pasar de los días los animales la rompen es un abandono total la cuadra"
     ],
     "ultimaActualizacion": "2026-06-09"
-  },
-  {
-    "numero": "144036342046915",
-    "celular": "+54 9 3813 858-416",
-    "nombre": "",
-    "direccion": "barrio ciudad parque",
-    "sentimiento": "positivo",
-    "evidencia_clasificacion": [
-      "no\\s+pasa",
-      "no\\s+llega"
-    ],
-    "canal": "WhatsApp Ambiente",
-    "fecha": "2026-06-09",
-    "mensaje": "Para solicitar recolección de escombros ya lo saque a la vereda la dirección es pje bascary 4343 entre Santiago y corrientes barrio ciudad parque",
-    "conversacion_completa": [
-      "Si se lo Irán llevando así cierto de a poco? O pueden mandar el camion con la pala?",
-      "Esta bien si lo van llevando de a poco mientras se lo lleven gracias",
-      "No llevaron nada si pasaron sigue todo ahi",
-      "Pasaban con el camión y la pala me dijo un supervisor de esos q andan en la calle en camioneta que lo saque así de esa forma",
-      "Hola buenos dia siguen ahi como en la foto la misma cantidad no pasaron todavía",
-      "quedo a la espera gracias 🙏🏽🌱✨",
-      "Para solicitar recolección de escombros ya lo saque a la vereda la dirección es pje bascary 4343 entre Santiago y corrientes barrio ciudad parque",
-      "Hola buenos dia",
-      "Bueno genial si no llegan a llevarlo todo q lo vuelvo a solicitar o dps pasan no haria falta gracias 🌱",
-      "La dire es pje bascary 4343 entre Santiago y corrientes barrio Ciudad Parque",
-      "Genial si es para solicitar recolección de escombros ya los tengo en la vereda en bolsas",
-      "Hola buen día"
-    ],
-    "ultimaActualizacion": "2026-07-06T14:30:34.232Z",
-    "ultimoMensaje": "Pje bascary 4343 es la dirección",
-    "historialMensajes": [
-      {
-        "texto": "Hola buenos dias",
-        "fecha": "2026-07-06T14:24:52.897Z",
-        "sentimiento": "neutro"
-      },
-      {
-        "texto": "Pje bascary 4343 es la dirección",
-        "fecha": "2026-07-06T14:30:34.232Z",
-        "sentimiento": "positivo"
-      }
-    ]
   },
   {
     "numero": "93239495393447",
@@ -13742,34 +14381,6 @@
       "Buenos dias"
     ],
     "ultimaActualizacion": "2026-06-08"
-  },
-  {
-    "numero": "1640778219579",
-    "celular": "+54 9 3816 350-459",
-    "nombre": "",
-    "direccion": "pje primera junta al 1100",
-    "sentimiento": "neutro",
-    "evidencia_clasificacion": [],
-    "canal": "WhatsApp Ambiente",
-    "fecha": "2026-06-08",
-    "mensaje": "Buenos días el que dice ser dueño del sitio baldío sr Adrián Carrizo nuevamente está haciendo limpiar dicho lugar y deja toda la basura en La Plata y pje primera junta",
-    "conversacion_completa": [
-      "Ok",
-      "Hace una hora retiraron la basura depositada y ahora estoy por favor una solución",
-      "El sr Adrián Carrizo vive en pje primera junta al 1100",
-      "Buenos días el que dice ser dueño del sitio baldío sr Adrián Carrizo nuevamente está haciendo limpiar dicho lugar y deja toda la basura en La Plata y pje primera junta",
-      "Buenos días perfecto",
-      "Buenos días mi vecina de pje primera junta 1090 dejando su basura en la esquina de La Plata y pje primera junta"
-    ],
-    "ultimaActualizacion": "2026-07-06T16:53:16.181Z",
-    "ultimoMensaje": "Buenas tardes",
-    "historialMensajes": [
-      {
-        "texto": "Buenas tardes",
-        "fecha": "2026-07-06T16:53:16.181Z",
-        "sentimiento": "neutro"
-      }
-    ]
   },
   {
     "numero": "226748671225860",
@@ -18595,83 +19206,6 @@
       "Buen dia"
     ],
     "ultimaActualizacion": "2026-06-01"
-  },
-  {
-    "numero": "84379112099963",
-    "celular": "+54 9 3815 100-023",
-    "nombre": "",
-    "direccion": "",
-    "sentimiento": "positivo",
-    "evidencia_clasificacion": [],
-    "canal": "WhatsApp Ambiente",
-    "fecha": "2026-06-01",
-    "mensaje": "Buenos días, disculpe ayer en la tarde se acercó una vecina de la calle inca Garcilazo esquina Bernabé Araos y me preguntó con quién tiene que hablar porque en ese lugar los vecinos hicieron un basural tiran animales muertos, ella tiene un negocio justo en esa esquina, y también hay una placita donde van muchos niños \nEl nombre de la vecina es Amanda Juárez. Yo pasé por el lugar cuando salí de trabajar y saque esta foto de pasada",
-    "conversacion_completa": [
-      "Si. Ya hablo con kio",
-      "Gracias!",
-      "Esto es un basural. Para avisar al equipo",
-      "Buen dia",
-      "Buen día esto me pasa un vigilador de punto verde garcilaso",
-      "Buenos días, disculpe ayer en la tarde se acercó una vecina de la calle inca Garcilazo esquina Bernabé Araos y me preguntó con quién tiene que hablar porque en ese lugar los vecinos hicieron un basural tiran animales muertos, ella tiene un negocio justo en esa esquina, y también hay una placita donde van muchos niños \nEl nombre de la vecina es Amanda Juárez. Yo pasé por el lugar cuando salí de trabajar y saque esta foto de pasada",
-      "Gracias. Ya informo",
-      "Un vecino de mate de luna el 4000 me pide que se realice la denuncia que tienen un caño roto que ya hablaron con la SAT y no saben con quién más hablar para que los reparen",
-      "Genial. Ahí le aviso. Marque sin querer",
-      "Le pase tu número a una vecina que necesita  que le retiren residuos"
-    ],
-    "ultimaActualizacion": "2026-07-06T15:37:29.157Z",
-    "ultimoMensaje": "Gracias",
-    "historialMensajes": [
-      {
-        "texto": "Gracias!!",
-        "fecha": "2026-07-06T15:03:03.127Z",
-        "sentimiento": "positivo"
-      },
-      {
-        "texto": "Cuál otro?",
-        "fecha": "2026-07-06T15:03:17.229Z",
-        "sentimiento": "neutro"
-      },
-      {
-        "texto": "Si. El de rebe",
-        "fecha": "2026-07-06T15:03:25.828Z",
-        "sentimiento": "neutro"
-      },
-      {
-        "texto": "Gracias",
-        "fecha": "2026-07-06T15:03:36.389Z",
-        "sentimiento": "positivo"
-      },
-      {
-        "texto": "Pásame un nuevo qr",
-        "fecha": "2026-07-06T15:28:08.728Z",
-        "sentimiento": "neutro"
-      },
-      {
-        "texto": "Hacelo vos",
-        "fecha": "2026-07-06T15:28:14.568Z",
-        "sentimiento": "neutro"
-      },
-      {
-        "texto": "Por favor",
-        "fecha": "2026-07-06T15:28:17.050Z",
-        "sentimiento": "neutro"
-      },
-      {
-        "texto": "Me sale no valido",
-        "fecha": "2026-07-06T15:28:23.484Z",
-        "sentimiento": "negativo"
-      },
-      {
-        "texto": "Perfecto",
-        "fecha": "2026-07-06T15:37:26.886Z",
-        "sentimiento": "positivo"
-      },
-      {
-        "texto": "Gracias",
-        "fecha": "2026-07-06T15:37:29.157Z",
-        "sentimiento": "positivo"
-      }
-    ]
   },
   {
     "numero": "209693691621612",
@@ -27710,55 +28244,6 @@
       "Buenas tardes"
     ],
     "ultimaActualizacion": "2026-05-04"
-  },
-  {
-    "numero": "65446778794144",
-    "celular": "+54 9 3815 326-436",
-    "nombre": "",
-    "direccion": "Isabel la Católica 619",
-    "sentimiento": "positivo",
-    "evidencia_clasificacion": [],
-    "canal": "WhatsApp Ambiente",
-    "fecha": "2026-05-04",
-    "mensaje": "Tengo una heladera, chapa  lavarropas y unas chapas viejas. Podrían pasar a buscar?",
-    "conversacion_completa": [
-      "Gracias.",
-      "Saqué  las cosas a la vereda. Sin darme cuenta,  llevaron todo.",
-      "Buenas tardes.",
-      "Perfecto. En un rato lo saco.  Gracias.",
-      "Isabel la Católica 619",
-      "Tengo una heladera, chapa  lavarropas y unas chapas viejas. Podrían pasar a buscar?",
-      "Buen día!"
-    ],
-    "ultimaActualizacion": "2026-07-06T14:15:55.123Z",
-    "ultimoMensaje": "Ok. Gracias",
-    "historialMensajes": [
-      {
-        "texto": "Buen día!",
-        "fecha": "2026-07-06T13:41:36.323Z",
-        "sentimiento": "neutro"
-      },
-      {
-        "texto": "Necesito que recojan unas bolsas con escombros y otro tipo de basura no habitual.",
-        "fecha": "2026-07-06T13:42:41.226Z",
-        "sentimiento": "positivo"
-      },
-      {
-        "texto": "Necesito que recojan unas bolsas con escombros y otro tipo de basura no habitual.",
-        "fecha": "2026-07-06T13:42:44.811Z",
-        "sentimiento": "positivo"
-      },
-      {
-        "texto": "Isabel la Católica 619\nPatricia Rodríguez.",
-        "fecha": "2026-07-06T13:43:43.008Z",
-        "sentimiento": "neutro"
-      },
-      {
-        "texto": "Ok. Gracias",
-        "fecha": "2026-07-06T14:15:55.123Z",
-        "sentimiento": "positivo"
-      }
-    ]
   },
   {
     "numero": "150010507354174",
@@ -37141,45 +37626,6 @@
     "ultimaActualizacion": "2026-04-06"
   },
   {
-    "numero": "108173113438237",
-    "celular": "+54 9 3815 373-303",
-    "nombre": "",
-    "direccion": "San Luis 122",
-    "sentimiento": "neutro",
-    "evidencia_clasificacion": [
-      "ya retiraron"
-    ],
-    "canal": "WhatsApp Ambiente",
-    "fecha": "2026-04-06",
-    "mensaje": "Si, ya retiraron las cosas. Gracias!",
-    "conversacion_completa": [
-      "Si, ya retiraron las cosas. Gracias!",
-      "Buen día, creo que ya no están. Me fijo bien al mediodía cuando vuelva.",
-      "A la par del contenedor plástico",
-      "Las cosas están en San Luis 122",
-      "Ok! Gracias!"
-    ],
-    "ultimaActualizacion": "2026-07-06T16:27:14.243Z",
-    "ultimoMensaje": "A la altura del contenedor que está en la cuadra",
-    "historialMensajes": [
-      {
-        "texto": "Buenas tardes",
-        "fecha": "2026-07-06T16:26:21.811Z",
-        "sentimiento": "neutro"
-      },
-      {
-        "texto": "San Luis 131",
-        "fecha": "2026-07-06T16:26:49.441Z",
-        "sentimiento": "neutro"
-      },
-      {
-        "texto": "A la altura del contenedor que está en la cuadra",
-        "fecha": "2026-07-06T16:27:14.243Z",
-        "sentimiento": "neutro"
-      }
-    ]
-  },
-  {
     "numero": "40111320375411",
     "celular": "+54 9 3812 011-545",
     "nombre": "",
@@ -38531,491 +38977,5 @@
       "Las Piedras 773."
     ],
     "ultimaActualizacion": "2026-03-31"
-  },
-  {
-    "numero": "134217811939414",
-    "celular": "+54 9 3816 416-927",
-    "nombre": "",
-    "direccion": null,
-    "sentimiento": "positivo",
-    "ultimoMensaje": "Gracias!",
-    "mensaje": "Gracias!",
-    "fecha": "2026-07-06T13:29:04.392Z",
-    "ultimaActualizacion": "2026-07-06T13:29:04.392Z",
-    "historialMensajes": [
-      {
-        "texto": "Gracias!",
-        "fecha": "2026-07-06T13:29:04.392Z",
-        "sentimiento": "positivo"
-      }
-    ]
-  },
-  {
-    "numero": "223776419619010",
-    "celular": "+54 9 3812 077-677",
-    "nombre": "",
-    "direccion": null,
-    "sentimiento": "positivo",
-    "ultimoMensaje": "Ok. Ya avisaré a todos los vecinos que estemos atentos los días y horarios que pasan ellos.",
-    "mensaje": "https://maps.app.goo.gl/fznpwJXiwdxrCHZk7?g_st=aw",
-    "fecha": "2026-07-06T13:39:04.479Z",
-    "ultimaActualizacion": "2026-07-06T14:25:32.456Z",
-    "historialMensajes": [
-      {
-        "texto": "https://maps.app.goo.gl/fznpwJXiwdxrCHZk7?g_st=aw",
-        "fecha": "2026-07-06T13:39:04.479Z",
-        "sentimiento": "neutro"
-      },
-      {
-        "texto": "Ok. Ya avisaré a todos los vecinos que estemos atentos los días y horarios que pasan ellos.",
-        "fecha": "2026-07-06T14:25:32.456Z",
-        "sentimiento": "positivo"
-      }
-    ]
-  },
-  {
-    "numero": "96426428244054",
-    "celular": "+54 9 3816 541-122",
-    "nombre": "",
-    "direccion": "Avda Siria 1558",
-    "sentimiento": "positivo",
-    "ultimoMensaje": "De acuerdo. Muchas gracias.",
-    "mensaje": "Es a la par de mi casa. Avda Siria 1558",
-    "fecha": "2026-07-06T14:12:58.867Z",
-    "ultimaActualizacion": "2026-07-06T14:21:55.841Z",
-    "historialMensajes": [
-      {
-        "texto": "Es a la par de mi casa. Avda Siria 1558",
-        "fecha": "2026-07-06T14:12:58.867Z",
-        "sentimiento": "neutro"
-      },
-      {
-        "texto": "Las bolsas están en el garage del auto,hasta que me informen Uds",
-        "fecha": "2026-07-06T14:14:07.390Z",
-        "sentimiento": "positivo"
-      },
-      {
-        "texto": "De acuerdo. Muchas gracias.",
-        "fecha": "2026-07-06T14:21:55.841Z",
-        "sentimiento": "positivo"
-      }
-    ]
-  },
-  {
-    "numero": "211449980965027",
-    "celular": "+54 9 3815 756-006",
-    "nombre": "",
-    "direccion": "Peru 3350",
-    "sentimiento": "positivo",
-    "ultimoMensaje": "Muchas gracias",
-    "mensaje": "Buen día",
-    "fecha": "2026-07-06T14:17:53.853Z",
-    "ultimaActualizacion": "2026-07-06T14:43:18.110Z",
-    "historialMensajes": [
-      {
-        "texto": "Buen día",
-        "fecha": "2026-07-06T14:17:53.853Z",
-        "sentimiento": "neutro"
-      },
-      {
-        "texto": "Son unas ramas de una poda chica y hace una semana pedí a la empresa 9 de julio su recolección y todavía no lo hacen",
-        "fecha": "2026-07-06T14:20:01.920Z",
-        "sentimiento": "negativo"
-      },
-      {
-        "texto": "La dirección es Peru 3350",
-        "fecha": "2026-07-06T14:20:13.183Z",
-        "sentimiento": "neutro"
-      },
-      {
-        "texto": "Les rogaría que lo pudieran retirar , para no tener que dejar que los carros que pasan lo lleven y hagan basurales x ahí",
-        "fecha": "2026-07-06T14:21:49.465Z",
-        "sentimiento": "positivo"
-      },
-      {
-        "texto": "Muchas gracias",
-        "fecha": "2026-07-06T14:43:18.110Z",
-        "sentimiento": "positivo"
-      }
-    ]
-  },
-  {
-    "numero": "211020350017762",
-    "celular": "+54 9 3814 132-770",
-    "nombre": "",
-    "direccion": null,
-    "sentimiento": "neutro",
-    "ultimoMensaje": "hola",
-    "mensaje": "hola",
-    "fecha": "2026-07-06T14:28:13.467Z",
-    "ultimaActualizacion": "2026-07-06T14:28:13.467Z",
-    "historialMensajes": [
-      {
-        "texto": "hola",
-        "fecha": "2026-07-06T14:28:13.467Z",
-        "sentimiento": "neutro"
-      }
-    ]
-  },
-  {
-    "numero": "262315647697148",
-    "celular": "+54 9 3812 081-709",
-    "nombre": "",
-    "direccion": null,
-    "sentimiento": "positivo",
-    "ultimoMensaje": "Están pavimentando lo tendrían que hacer pie , lo agregamos a la orden de servicio",
-    "mensaje": "Ya esta informado.",
-    "fecha": "2026-07-06T14:37:45.762Z",
-    "ultimaActualizacion": "2026-07-06T14:56:51.140Z",
-    "historialMensajes": [
-      {
-        "texto": "Ya esta informado.",
-        "fecha": "2026-07-06T14:37:45.762Z",
-        "sentimiento": "neutro"
-      },
-      {
-        "texto": "Están pavimentando lo tendrían que hacer pie , lo agregamos a la orden de servicio",
-        "fecha": "2026-07-06T14:56:51.140Z",
-        "sentimiento": "positivo"
-      }
-    ]
-  },
-  {
-    "numero": "206223022489833",
-    "celular": "+54 9 3815 224-717",
-    "nombre": "",
-    "direccion": "barrio san Miguel",
-    "sentimiento": "positivo",
-    "ultimoMensaje": "Dale muchísimas gracias",
-    "mensaje": "Buen día me comunico con ustedes para pedirles un favor: que me lleven los troncos de un árbol que me podaron.muchas gracias",
-    "fecha": "2026-07-06T15:25:43.402Z",
-    "ultimaActualizacion": "2026-07-06T15:36:24.073Z",
-    "historialMensajes": [
-      {
-        "texto": "Buen día me comunico con ustedes para pedirles un favor: que me lleven los troncos de un árbol que me podaron.muchas gracias",
-        "fecha": "2026-07-06T15:25:43.402Z",
-        "sentimiento": "positivo"
-      },
-      {
-        "texto": "Buen día me comunico con ustedes para pedirles un favor: que me lleven los troncos de un árbol que me podaron.muchas gracias",
-        "fecha": "2026-07-06T15:25:45.380Z",
-        "sentimiento": "positivo"
-      },
-      {
-        "texto": "Sii ya se lo paso",
-        "fecha": "2026-07-06T15:27:06.070Z",
-        "sentimiento": "positivo"
-      },
-      {
-        "texto": "El lunes pasado lo cortaron los chicos de la municipalidad y nos dijeron q venían a buscarlo al día siguiente y no volvieron",
-        "fecha": "2026-07-06T15:30:12.119Z",
-        "sentimiento": "negativo"
-      },
-      {
-        "texto": "Sii no hay problema",
-        "fecha": "2026-07-06T15:30:52.895Z",
-        "sentimiento": "neutro"
-      },
-      {
-        "texto": "1 pasaje sin nombre 236 altura Atahualpa 1126 barrio san Miguel 2",
-        "fecha": "2026-07-06T15:32:17.014Z",
-        "sentimiento": "neutro"
-      },
-      {
-        "texto": "Sii",
-        "fecha": "2026-07-06T15:32:48.618Z",
-        "sentimiento": "neutro"
-      },
-      {
-        "texto": "Dale muchísimas gracias",
-        "fecha": "2026-07-06T15:36:24.073Z",
-        "sentimiento": "positivo"
-      }
-    ]
-  },
-  {
-    "numero": "27964649545745",
-    "celular": "+54 9 3814 808-112",
-    "nombre": "",
-    "direccion": null,
-    "sentimiento": "positivo",
-    "ultimoMensaje": "Gracias",
-    "mensaje": "Gracias",
-    "fecha": "2026-07-06T16:29:30.728Z",
-    "ultimaActualizacion": "2026-07-06T16:29:30.728Z",
-    "historialMensajes": [
-      {
-        "texto": "Gracias",
-        "fecha": "2026-07-06T16:29:30.728Z",
-        "sentimiento": "positivo"
-      }
-    ]
-  },
-  {
-    "numero": "274963940548843",
-    "celular": "+54 9 3814 637-440",
-    "nombre": "",
-    "direccion": "Merced 244",
-    "sentimiento": "neutro",
-    "ultimoMensaje": "puedo sacar de dos en dos  cada noche, o todo el mismo día?",
-    "mensaje": "buen día quisiera sacar bolsas. de. escombros de mi domicilio, se puede?",
-    "fecha": "2026-07-06T17:36:39.642Z",
-    "ultimaActualizacion": "2026-07-06T17:39:20.219Z",
-    "historialMensajes": [
-      {
-        "texto": "buen día quisiera sacar bolsas. de. escombros de mi domicilio, se puede?",
-        "fecha": "2026-07-06T17:36:39.642Z",
-        "sentimiento": "positivo"
-      },
-      {
-        "texto": "buen día quisiera sacar bolsas. de. escombros de mi domicilio, se puede?",
-        "fecha": "2026-07-06T17:36:42.425Z",
-        "sentimiento": "positivo"
-      },
-      {
-        "texto": "virgen de la Merced 244.",
-        "fecha": "2026-07-06T17:37:25.378Z",
-        "sentimiento": "neutro"
-      },
-      {
-        "texto": "puedo sacar de dos en dos  cada noche, o todo el mismo día?",
-        "fecha": "2026-07-06T17:39:20.219Z",
-        "sentimiento": "neutro"
-      }
-    ]
-  },
-  {
-    "numero": "144555831754876",
-    "celular": "+54 9 3816 030-495",
-    "nombre": "",
-    "direccion": "Alberdi 634",
-    "sentimiento": "positivo",
-    "ultimoMensaje": "Perfecto. Gracias",
-    "mensaje": "Buenas tardes, este es el colchón que necesitaría que retiren",
-    "fecha": "2026-07-06T17:37:28.869Z",
-    "ultimaActualizacion": "2026-07-07T11:50:44.619Z",
-    "historialMensajes": [
-      {
-        "texto": "Buenas tardes, este es el colchón que necesitaría que retiren",
-        "fecha": "2026-07-06T17:37:28.869Z",
-        "sentimiento": "positivo"
-      },
-      {
-        "texto": "A la vuelta de hospital padilla",
-        "fecha": "2026-07-07T11:45:52.584Z",
-        "sentimiento": "neutro"
-      },
-      {
-        "texto": "Si, Alberdi 634",
-        "fecha": "2026-07-07T11:45:53.844Z",
-        "sentimiento": "neutro"
-      },
-      {
-        "texto": "Una consulta, el colchón esta en un depto y no lo puedo bajar por el ascensor",
-        "fecha": "2026-07-07T11:46:14.368Z",
-        "sentimiento": "neutro"
-      },
-      {
-        "texto": "Ustedes solo lo retiran de la calle?",
-        "fecha": "2026-07-07T11:46:36.687Z",
-        "sentimiento": "neutro"
-      },
-      {
-        "texto": "O lo pueden bajar por las escaleras?",
-        "fecha": "2026-07-07T11:46:45.505Z",
-        "sentimiento": "neutro"
-      },
-      {
-        "texto": "Cuando lo podrian buscar?",
-        "fecha": "2026-07-07T11:48:09.267Z",
-        "sentimiento": "neutro"
-      },
-      {
-        "texto": "Perfecto. Gracias",
-        "fecha": "2026-07-07T11:50:44.619Z",
-        "sentimiento": "positivo"
-      }
-    ]
-  },
-  {
-    "numero": "60886144299236",
-    "celular": "+54 9 3814 461-809",
-    "nombre": "",
-    "direccion": null,
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Menu",
-    "mensaje": "Hola",
-    "fecha": "2026-07-06T18:02:30.845Z",
-    "ultimaActualizacion": "2026-07-06T18:05:01.498Z",
-    "historialMensajes": [
-      {
-        "texto": "Hola",
-        "fecha": "2026-07-06T18:02:30.845Z",
-        "sentimiento": "neutro"
-      },
-      {
-        "texto": "Menu",
-        "fecha": "2026-07-06T18:05:01.498Z",
-        "sentimiento": "neutro"
-      }
-    ]
-  },
-  {
-    "numero": "269698360979471",
-    "celular": "+54 9 3814 757-401",
-    "nombre": "",
-    "direccion": "Santiago del estero 1209",
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Vivo en el domicilio Santiago del estero 1209 entre marco Avellaneda y suipacha",
-    "mensaje": "Hola buenas tardes, tengo un colchón de 2 plazas para tirar, me pasaron su contacto diciendo que lo buscan desde la casa. Cuando sería posible que lo busquen?",
-    "fecha": "2026-07-06T18:29:52.330Z",
-    "ultimaActualizacion": "2026-07-06T18:29:56.613Z",
-    "historialMensajes": [
-      {
-        "texto": "Hola buenas tardes, tengo un colchón de 2 plazas para tirar, me pasaron su contacto diciendo que lo buscan desde la casa. Cuando sería posible que lo busquen?",
-        "fecha": "2026-07-06T18:29:52.330Z",
-        "sentimiento": "positivo"
-      },
-      {
-        "texto": "Vivo en el domicilio Santiago del estero 1209 entre marco Avellaneda y suipacha",
-        "fecha": "2026-07-06T18:29:56.613Z",
-        "sentimiento": "neutro"
-      }
-    ]
-  },
-  {
-    "numero": "92616926486533",
-    "celular": "+54 9 3813 974-893",
-    "nombre": "",
-    "direccion": "barrio sarmiento",
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Mi direccion es EVARISTO CARRIEGO 1087 B.SARMIENTO",
-    "mensaje": "Buenad tarde ,necesito que retiren del frente de mi domicilio 5 bolsas  .barrio sarmiento",
-    "fecha": "2026-07-06T18:41:01.771Z",
-    "ultimaActualizacion": "2026-07-06T18:43:44.087Z",
-    "historialMensajes": [
-      {
-        "texto": "Buenad tarde ,necesito que retiren del frente de mi domicilio 5 bolsas  .barrio sarmiento",
-        "fecha": "2026-07-06T18:41:01.771Z",
-        "sentimiento": "positivo"
-      },
-      {
-        "texto": "Resto de limpieza del cordon cuneta ..desde 2019 NO TENEMOS PERSONAL DE LIMPIEZA DE CALLE",
-        "fecha": "2026-07-06T18:43:11.887Z",
-        "sentimiento": "negativo"
-      },
-      {
-        "texto": "Mi direccion es EVARISTO CARRIEGO 1087 B.SARMIENTO",
-        "fecha": "2026-07-06T18:43:44.087Z",
-        "sentimiento": "neutro"
-      }
-    ]
-  },
-  {
-    "numero": "238641402146859",
-    "celular": "+54 9 3815 299-226",
-    "nombre": "",
-    "direccion": "Barrio primero de julio",
-    "sentimiento": "neutro",
-    "ultimoMensaje": "3ra paralela ala francisco de aguarde 1.900",
-    "mensaje": "Buenas tardes",
-    "fecha": "2026-07-06T21:25:57.525Z",
-    "ultimaActualizacion": "2026-07-06T21:27:06.456Z",
-    "historialMensajes": [
-      {
-        "texto": "Buenas tardes",
-        "fecha": "2026-07-06T21:25:57.525Z",
-        "sentimiento": "neutro"
-      },
-      {
-        "texto": "Tenemos una emergencia",
-        "fecha": "2026-07-06T21:26:00.028Z",
-        "sentimiento": "neutro"
-      },
-      {
-        "texto": "Necesitamos tirar los desechos de un incendio en el domicilio de mi hermana",
-        "fecha": "2026-07-06T21:26:41.612Z",
-        "sentimiento": "positivo"
-      },
-      {
-        "texto": "Barrio primero de julio",
-        "fecha": "2026-07-06T21:27:04.164Z",
-        "sentimiento": "neutro"
-      },
-      {
-        "texto": "3ra paralela ala francisco de aguarde 1.900",
-        "fecha": "2026-07-06T21:27:06.456Z",
-        "sentimiento": "neutro"
-      }
-    ]
-  },
-  {
-    "numero": "29076962164870",
-    "celular": "+54 9 3814 768-804",
-    "nombre": "",
-    "direccion": "Barrio primero de julio",
-    "sentimiento": "neutro",
-    "ultimoMensaje": "3ra paralela ala francisco de aguarde 1.900",
-    "mensaje": "Barrio primero de julio",
-    "fecha": "2026-07-06T21:46:51.554Z",
-    "ultimaActualizacion": "2026-07-06T21:46:52.928Z",
-    "historialMensajes": [
-      {
-        "texto": "Barrio primero de julio",
-        "fecha": "2026-07-06T21:46:51.554Z",
-        "sentimiento": "neutro"
-      },
-      {
-        "texto": "3ra paralela ala francisco de aguarde 1.900",
-        "fecha": "2026-07-06T21:46:52.928Z",
-        "sentimiento": "neutro"
-      }
-    ]
-  },
-  {
-    "numero": "127680955584679",
-    "celular": "+54 9 3814 470-700",
-    "nombre": "",
-    "direccion": null,
-    "sentimiento": "positivo",
-    "ultimoMensaje": "Graciasssss",
-    "mensaje": "Toda esta cuadra de la don bosco una mugre",
-    "fecha": "2026-07-06T22:20:32.211Z",
-    "ultimaActualizacion": "2026-07-06T22:35:10.717Z",
-    "historialMensajes": [
-      {
-        "texto": "Toda esta cuadra de la don bosco una mugre",
-        "fecha": "2026-07-06T22:20:32.211Z",
-        "sentimiento": "negativo"
-      },
-      {
-        "texto": "Porfis porfis",
-        "fecha": "2026-07-06T22:35:08.601Z",
-        "sentimiento": "neutro"
-      },
-      {
-        "texto": "Graciasssss",
-        "fecha": "2026-07-06T22:35:10.717Z",
-        "sentimiento": "positivo"
-      }
-    ]
-  },
-  {
-    "numero": "280822359818407",
-    "celular": "+54 9 3865 750-663",
-    "nombre": "",
-    "direccion": "Barrio Villa Patria de",
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Buenas noches. \nEn el Barrio Villa Patria de san Miguel de Tucumán estamos necesitando CONTENEDORES. El predio consta de Diez monoblocks con 16 Departamentos cada block por lo que se produce diariamente gran cantidad de residuos que deberían colocarse en unos cuantos Contenedores para el uso también de los demás vecinos sobre de la Silvano Bores, entre los que se cuentan gran cantidad de Comercios.\nQue tengan una buena semana. \nGracias de antemano.\n\nNota: dijeron que iban a venir a ver. No sé si lo hicieron pero tampoco solucionaron. Disculpe la insistencia.",
-    "mensaje": "Buenas noches. \nEn el Barrio Villa Patria de san Miguel de Tucumán estamos necesitando CONTENEDORES. El predio consta de Diez monoblocks con 16 Departamentos cada block por lo que se produce diariamente gran cantidad de residuos que deberían colocarse en unos cuantos Contenedores para el uso también de los demás vecinos sobre de la Silvano Bores, entre los que se cuentan gran cantidad de Comercios.\nQue tengan una buena semana. \nGracias de antemano.\n\nNota: dijeron que iban a venir a ver. No sé si lo hicieron pero tampoco solucionaron. Disculpe la insistencia.",
-    "fecha": "2026-07-07T04:08:23.126Z",
-    "ultimaActualizacion": "2026-07-07T04:08:23.126Z",
-    "historialMensajes": [
-      {
-        "texto": "Buenas noches. \nEn el Barrio Villa Patria de san Miguel de Tucumán estamos necesitando CONTENEDORES. El predio consta de Diez monoblocks con 16 Departamentos cada block por lo que se produce diariamen",
-        "fecha": "2026-07-07T04:08:23.126Z",
-        "sentimiento": "neutro"
-      }
-    ]
   }
 ]
