@@ -39079,11 +39079,11 @@
     "celular": "+54 9 3812 162-232",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "positivo",
-    "ultimoMensaje": "Muchas gracias ya le envio",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Es un sillón de 3 cuerpos",
     "mensaje": "Buenos días",
     "fecha": "2026-07-07T12:42:39.454Z",
-    "ultimaActualizacion": "2026-07-07T14:15:55.134Z",
+    "ultimaActualizacion": "2026-07-07T14:17:58.642Z",
     "historialMensajes": [
       {
         "texto": "Buenos días",
@@ -39104,6 +39104,11 @@
         "texto": "Muchas gracias ya le envio",
         "fecha": "2026-07-07T14:15:55.134Z",
         "sentimiento": "positivo"
+      },
+      {
+        "texto": "Es un sillón de 3 cuerpos",
+        "fecha": "2026-07-07T14:17:58.642Z",
+        "sentimiento": "neutro"
       }
     ]
   },
