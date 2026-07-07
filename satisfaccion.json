@@ -38949,5 +38949,23 @@
         "sentimiento": "positivo"
       }
     ]
+  },
+  {
+    "numero": "280822359818407",
+    "celular": "+54 9 3865 750-663",
+    "nombre": "",
+    "direccion": "Barrio Villa Patria de",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Buenas noches. \nEn el Barrio Villa Patria de san Miguel de Tucumán estamos necesitando CONTENEDORES. El predio consta de Diez monoblocks con 16 Departamentos cada block por lo que se produce diariamente gran cantidad de residuos que deberían colocarse en unos cuantos Contenedores para el uso también de los demás vecinos sobre de la Silvano Bores, entre los que se cuentan gran cantidad de Comercios.\nQue tengan una buena semana. \nGracias de antemano.\n\nNota: dijeron que iban a venir a ver. No sé si lo hicieron pero tampoco solucionaron. Disculpe la insistencia.",
+    "mensaje": "Buenas noches. \nEn el Barrio Villa Patria de san Miguel de Tucumán estamos necesitando CONTENEDORES. El predio consta de Diez monoblocks con 16 Departamentos cada block por lo que se produce diariamente gran cantidad de residuos que deberían colocarse en unos cuantos Contenedores para el uso también de los demás vecinos sobre de la Silvano Bores, entre los que se cuentan gran cantidad de Comercios.\nQue tengan una buena semana. \nGracias de antemano.\n\nNota: dijeron que iban a venir a ver. No sé si lo hicieron pero tampoco solucionaron. Disculpe la insistencia.",
+    "fecha": "2026-07-07T04:08:23.126Z",
+    "ultimaActualizacion": "2026-07-07T04:08:23.126Z",
+    "historialMensajes": [
+      {
+        "texto": "Buenas noches. \nEn el Barrio Villa Patria de san Miguel de Tucumán estamos necesitando CONTENEDORES. El predio consta de Diez monoblocks con 16 Departamentos cada block por lo que se produce diariamen",
+        "fecha": "2026-07-07T04:08:23.126Z",
+        "sentimiento": "neutro"
+      }
+    ]
   }
 ]
