@@ -39286,5 +39286,33 @@
         "sentimiento": "positivo"
       }
     ]
+  },
+  {
+    "numero": "251401766760624",
+    "celular": "+54 9 3814 430-263",
+    "nombre": "",
+    "direccion": "Juan 2124",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "San Juan 2124 san Miguel de Tucumán",
+    "mensaje": "Buenas tardes para coordinar retiro de escombros en san Juan 2124",
+    "fecha": "2026-07-07T18:31:35.647Z",
+    "ultimaActualizacion": "2026-07-07T18:31:58.222Z",
+    "historialMensajes": [
+      {
+        "texto": "Buenas tardes para coordinar retiro de escombros en san Juan 2124",
+        "fecha": "2026-07-07T18:31:35.647Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Buenas tardes para coordinar retiro de escombros en san Juan 2124",
+        "fecha": "2026-07-07T18:31:38.235Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "San Juan 2124 san Miguel de Tucumán",
+        "fecha": "2026-07-07T18:31:58.222Z",
+        "sentimiento": "neutro"
+      }
+    ]
   }
 ]
