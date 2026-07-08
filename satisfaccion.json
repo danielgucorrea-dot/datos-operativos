@@ -39538,10 +39538,10 @@
     "nombre": "",
     "direccion": "Pasaje storni 3124",
     "sentimiento": "positivo",
-    "ultimoMensaje": "Nada más que esta desarmada puedo dejar la parrilla y que lo demás se lo lleven",
+    "ultimoMensaje": "Si si 👍🏼",
     "mensaje": "Buenos dias",
     "fecha": "2026-07-08T14:00:16.381Z",
-    "ultimaActualizacion": "2026-07-08T14:06:08.732Z",
+    "ultimaActualizacion": "2026-07-08T14:21:26.690Z",
     "historialMensajes": [
       {
         "texto": "Buenos dias",
@@ -39571,6 +39571,16 @@
       {
         "texto": "Nada más que esta desarmada puedo dejar la parrilla y que lo demás se lo lleven",
         "fecha": "2026-07-08T14:06:08.732Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Bien muchas gracias",
+        "fecha": "2026-07-08T14:17:40.624Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Si si 👍🏼",
+        "fecha": "2026-07-08T14:21:26.690Z",
         "sentimiento": "positivo"
       }
     ]
