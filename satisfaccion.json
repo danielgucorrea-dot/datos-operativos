@@ -39504,11 +39504,11 @@
     "celular": "+54 9 3814 174-411",
     "nombre": "",
     "direccion": "Mendoza 3045",
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Cuando puedo disponer los residuos las 5 bolsas en la vereda para que los retiren?",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Cuando pueden pasar a retirar las 5 bolsas que si pueden retirar? El resto de residuos es mi responsabilidad y ya tengo su destino",
     "mensaje": "Hola quisiera solicitar el retiro de residuos no habituales en Mendoza 3045. Cuando podrían retirarlos para dejarlos listos para ser retirados en la vereda?",
     "fecha": "2026-07-08T13:55:09.404Z",
-    "ultimaActualizacion": "2026-07-08T14:33:51.378Z",
+    "ultimaActualizacion": "2026-07-08T14:45:21.014Z",
     "historialMensajes": [
       {
         "texto": "Hola quisiera solicitar el retiro de residuos no habituales en Mendoza 3045. Cuando podrían retirarlos para dejarlos listos para ser retirados en la vereda?",
@@ -39539,6 +39539,11 @@
         "texto": "Cuando puedo disponer los residuos las 5 bolsas en la vereda para que los retiren?",
         "fecha": "2026-07-08T14:33:51.378Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Cuando pueden pasar a retirar las 5 bolsas que si pueden retirar? El resto de residuos es mi responsabilidad y ya tengo su destino",
+        "fecha": "2026-07-08T14:45:21.014Z",
+        "sentimiento": "positivo"
       }
     ]
   },
@@ -39636,11 +39641,11 @@
     "celular": "+54 9 3816 526-088",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "neutro",
-    "ultimoMensaje": "La.dirección es Combate de Las Piedras 3563",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Ok! Gracias",
     "mensaje": "Buenos días",
     "fecha": "2026-07-08T14:29:56.210Z",
-    "ultimaActualizacion": "2026-07-08T14:36:00.695Z",
+    "ultimaActualizacion": "2026-07-08T14:44:30.668Z",
     "historialMensajes": [
       {
         "texto": "Buenos días",
@@ -39656,6 +39661,11 @@
         "texto": "La.dirección es Combate de Las Piedras 3563",
         "fecha": "2026-07-08T14:36:00.695Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Ok! Gracias",
+        "fecha": "2026-07-08T14:44:30.668Z",
+        "sentimiento": "positivo"
       }
     ]
   }
