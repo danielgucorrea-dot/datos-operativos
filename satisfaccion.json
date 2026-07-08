@@ -20527,7 +20527,15 @@
       "Aveces pasan del lado del frente nada más que sería de la vereda número par \nY pasan una vez cada dos semanas por eso quería saber si que día son",
       "Quería saber si que días pasa el servicio de barrido Cordon cuneta \nEstoy en Lucas Cordoba 1400"
     ],
-    "ultimaActualizacion": "2026-05-29"
+    "ultimaActualizacion": "2026-07-08T13:28:33.800Z",
+    "ultimoMensaje": "Gracias",
+    "historialMensajes": [
+      {
+        "texto": "Gracias",
+        "fecha": "2026-07-08T13:28:33.800Z",
+        "sentimiento": "positivo"
+      }
+    ]
   },
   {
     "numero": "30563155083376",
@@ -39444,6 +39452,24 @@
       {
         "texto": "Buenos dias, 👍",
         "fecha": "2026-07-08T11:27:20.013Z",
+        "sentimiento": "neutro"
+      }
+    ]
+  },
+  {
+    "numero": "200850051993822",
+    "celular": "+54 9 200850051993822",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Hola",
+    "mensaje": "Hola",
+    "fecha": "2026-07-08T13:27:53.550Z",
+    "ultimaActualizacion": "2026-07-08T13:27:53.550Z",
+    "historialMensajes": [
+      {
+        "texto": "Hola",
+        "fecha": "2026-07-08T13:27:53.550Z",
         "sentimiento": "neutro"
       }
     ]
