@@ -982,11 +982,11 @@
     "celular": "+54 9 3812 081-709",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "positivo",
-    "ultimoMensaje": "Está en orden de servicio para ser controlada hoy , ya tendrían que haber pasado y recolectado de todos maneras le informo al inspector",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Si se comunican con el vecino",
     "mensaje": "Ya esta informado.",
     "fecha": "2026-07-06T14:37:45.762Z",
-    "ultimaActualizacion": "2026-07-08T15:50:27.119Z",
+    "ultimaActualizacion": "2026-07-08T17:11:01.836Z",
     "historialMensajes": [
       {
         "texto": "Ya esta informado.",
@@ -1007,6 +1007,11 @@
         "texto": "Está en orden de servicio para ser controlada hoy , ya tendrían que haber pasado y recolectado de todos maneras le informo al inspector",
         "fecha": "2026-07-08T15:50:27.119Z",
         "sentimiento": "positivo"
+      },
+      {
+        "texto": "Si se comunican con el vecino",
+        "fecha": "2026-07-08T17:11:01.836Z",
+        "sentimiento": "neutro"
       }
     ]
   },
