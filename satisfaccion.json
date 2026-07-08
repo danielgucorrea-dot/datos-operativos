@@ -2054,7 +2054,15 @@
       "Ya Made del teléfono de mi hijo",
       "Hola pran retira la basura no avituale de mi domicilio"
     ],
-    "ultimaActualizacion": "2026-07-01"
+    "ultimaActualizacion": "2026-07-08T17:52:56.844Z",
+    "ultimoMensaje": "Dicupe noca vinieron a retirar la basura de la bereda que me dijeron que la tenía dejar",
+    "historialMensajes": [
+      {
+        "texto": "Dicupe noca vinieron a retirar la basura de la bereda que me dijeron que la tenía dejar",
+        "fecha": "2026-07-08T17:52:56.844Z",
+        "sentimiento": "negativo"
+      }
+    ]
   },
   {
     "numero": "73577185439999",
@@ -29704,7 +29712,7 @@
     "celular": "+54 9 3813 006-709",
     "nombre": "",
     "direccion": "",
-    "sentimiento": "neutro",
+    "sentimiento": "positivo",
     "evidencia_clasificacion": [],
     "canal": "WhatsApp Ambiente",
     "fecha": "2026-04-30",
@@ -29716,7 +29724,15 @@
       "Tengo residuos  para tirar son unas bolsas de tierra y ramas... Y unas maderas .. cómo debo hacer",
       "Buenas tardes"
     ],
-    "ultimaActualizacion": "2026-04-30"
+    "ultimaActualizacion": "2026-07-08T17:54:48.848Z",
+    "ultimoMensaje": "Buenas tardes hice podar mi árbol como hago para q me lleven las ramas?",
+    "historialMensajes": [
+      {
+        "texto": "Buenas tardes hice podar mi árbol como hago para q me lleven las ramas?",
+        "fecha": "2026-07-08T17:54:48.848Z",
+        "sentimiento": "positivo"
+      }
+    ]
   },
   {
     "numero": "259665216692285",
