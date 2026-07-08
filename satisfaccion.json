@@ -39505,10 +39505,10 @@
     "nombre": "",
     "direccion": "Mendoza 3045",
     "sentimiento": "positivo",
-    "ultimoMensaje": "Ya les envio la foto",
+    "ultimoMensaje": "Dentro de las bolsas tengo residuos de construcción",
     "mensaje": "Hola quisiera solicitar el retiro de residuos no habituales en Mendoza 3045. Cuando podrían retirarlos para dejarlos listos para ser retirados en la vereda?",
     "fecha": "2026-07-08T13:55:09.404Z",
-    "ultimaActualizacion": "2026-07-08T13:58:53.128Z",
+    "ultimaActualizacion": "2026-07-08T14:25:49.323Z",
     "historialMensajes": [
       {
         "texto": "Hola quisiera solicitar el retiro de residuos no habituales en Mendoza 3045. Cuando podrían retirarlos para dejarlos listos para ser retirados en la vereda?",
@@ -39528,6 +39528,11 @@
       {
         "texto": "Ya les envio la foto",
         "fecha": "2026-07-08T13:58:53.128Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Dentro de las bolsas tengo residuos de construcción",
+        "fecha": "2026-07-08T14:25:49.323Z",
         "sentimiento": "positivo"
       }
     ]
