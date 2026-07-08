@@ -39744,16 +39744,26 @@
     "numero": "76884310282430",
     "celular": "+54 9 3814 157-862",
     "nombre": "",
-    "direccion": null,
+    "direccion": "Balcarce 1157",
     "sentimiento": "neutro",
-    "ultimoMensaje": "Buenos días",
+    "ultimoMensaje": "Dirección: Balcarce 1157",
     "mensaje": "Buenos días",
     "fecha": "2026-07-08T15:01:19.248Z",
-    "ultimaActualizacion": "2026-07-08T15:01:19.248Z",
+    "ultimaActualizacion": "2026-07-08T15:01:49.666Z",
     "historialMensajes": [
       {
         "texto": "Buenos días",
         "fecha": "2026-07-08T15:01:19.248Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Buenos días",
+        "fecha": "2026-07-08T15:01:21.660Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Dirección: Balcarce 1157",
+        "fecha": "2026-07-08T15:01:49.666Z",
         "sentimiento": "neutro"
       }
     ]
