@@ -39499,11 +39499,11 @@
     "celular": "+54 9 3814 174-411",
     "nombre": "",
     "direccion": "Mendoza 3045",
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Mendoza 3045, necesito saber cuándo pasarían ya que hoy es miércoles 8 de julio",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Ya les envio la foto",
     "mensaje": "Hola quisiera solicitar el retiro de residuos no habituales en Mendoza 3045. Cuando podrían retirarlos para dejarlos listos para ser retirados en la vereda?",
     "fecha": "2026-07-08T13:55:09.404Z",
-    "ultimaActualizacion": "2026-07-08T13:56:17.549Z",
+    "ultimaActualizacion": "2026-07-08T13:58:53.128Z",
     "historialMensajes": [
       {
         "texto": "Hola quisiera solicitar el retiro de residuos no habituales en Mendoza 3045. Cuando podrían retirarlos para dejarlos listos para ser retirados en la vereda?",
@@ -39519,6 +39519,11 @@
         "texto": "Mendoza 3045, necesito saber cuándo pasarían ya que hoy es miércoles 8 de julio",
         "fecha": "2026-07-08T13:56:17.549Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Ya les envio la foto",
+        "fecha": "2026-07-08T13:58:53.128Z",
+        "sentimiento": "positivo"
       }
     ]
   }
