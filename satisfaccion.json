@@ -39718,10 +39718,10 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "neutro",
-    "ultimoMensaje": "Quiero saber cómo es para q retiren bolsas de escombros?",
+    "ultimoMensaje": "Y eso cuánto tiempo puede tardar como máximo?",
     "mensaje": "Hola buen día",
     "fecha": "2026-07-08T14:55:04.915Z",
-    "ultimaActualizacion": "2026-07-08T14:55:37.625Z",
+    "ultimaActualizacion": "2026-07-08T15:02:47.404Z",
     "historialMensajes": [
       {
         "texto": "Hola buen día",
@@ -39736,6 +39736,11 @@
       {
         "texto": "Quiero saber cómo es para q retiren bolsas de escombros?",
         "fecha": "2026-07-08T14:55:37.625Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Y eso cuánto tiempo puede tardar como máximo?",
+        "fecha": "2026-07-08T15:02:47.404Z",
         "sentimiento": "neutro"
       }
     ]
