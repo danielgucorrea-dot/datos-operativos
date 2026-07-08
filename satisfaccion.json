@@ -39739,5 +39739,23 @@
         "sentimiento": "neutro"
       }
     ]
+  },
+  {
+    "numero": "76884310282430",
+    "celular": "+54 9 3814 157-862",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Buenos días",
+    "mensaje": "Buenos días",
+    "fecha": "2026-07-08T15:01:19.248Z",
+    "ultimaActualizacion": "2026-07-08T15:01:19.248Z",
+    "historialMensajes": [
+      {
+        "texto": "Buenos días",
+        "fecha": "2026-07-08T15:01:19.248Z",
+        "sentimiento": "neutro"
+      }
+    ]
   }
 ]
