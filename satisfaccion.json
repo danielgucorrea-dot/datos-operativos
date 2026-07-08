@@ -25107,7 +25107,7 @@
     "celular": "+54 9 3815 705-567",
     "nombre": "",
     "direccion": "calle Rondeau 106",
-    "sentimiento": "neutro",
+    "sentimiento": "positivo",
     "evidencia_clasificacion": [],
     "canal": "WhatsApp Ambiente",
     "fecha": "2026-05-15",
@@ -25116,8 +25116,8 @@
       "Bien, resguardo la aclaración. Muchas gracias.!",
       "Buenos días, consulto, podrian retirar 3 bolsitas de escombros, q las tengo en la vereda embolsadas, domicilio calle Rondeau 106 de está ciudad. Gracias!"
     ],
-    "ultimaActualizacion": "2026-07-08T15:59:02.591Z",
-    "ultimoMensaje": "Hoy día dejo en la vereda?",
+    "ultimaActualizacion": "2026-07-08T16:00:14.307Z",
+    "ultimoMensaje": "Bien, retiran antiguos caños de cemento?",
     "historialMensajes": [
       {
         "texto": "Buenos días podrían retirar 5 bolsitas de escombro, de calle Rondeau 106 de esta ciudad. Gracias",
@@ -25128,6 +25128,11 @@
         "texto": "Hoy día dejo en la vereda?",
         "fecha": "2026-07-08T15:59:02.591Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Bien, retiran antiguos caños de cemento?",
+        "fecha": "2026-07-08T16:00:14.307Z",
+        "sentimiento": "positivo"
       }
     ]
   },
