@@ -39531,5 +39531,23 @@
         "sentimiento": "positivo"
       }
     ]
+  },
+  {
+    "numero": "200889176481817",
+    "celular": "+54 9 3815 208-324",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Buenos dias",
+    "mensaje": "Buenos dias",
+    "fecha": "2026-07-08T14:00:16.381Z",
+    "ultimaActualizacion": "2026-07-08T14:00:16.381Z",
+    "historialMensajes": [
+      {
+        "texto": "Buenos dias",
+        "fecha": "2026-07-08T14:00:16.381Z",
+        "sentimiento": "neutro"
+      }
+    ]
   }
 ]
