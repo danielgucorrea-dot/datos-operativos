@@ -9017,12 +9017,17 @@
       "Son restos de construcción pero no se ve con claridad porq  esta tapado de hojas.",
       "Buenas tardes"
     ],
-    "ultimaActualizacion": "2026-07-07T15:18:07.841Z",
-    "ultimoMensaje": "En Yerba Buena.\nSon 5 bolsas.",
+    "ultimaActualizacion": "2026-07-08T11:28:06.637Z",
+    "ultimoMensaje": "Ah bien! Entendí  que este número   era del municipio de yerba buena. Gracias por responder",
     "historialMensajes": [
       {
         "texto": "En Yerba Buena.\nSon 5 bolsas.",
         "fecha": "2026-07-07T15:18:07.841Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Ah bien! Entendí  que este número   era del municipio de yerba buena. Gracias por responder",
+        "fecha": "2026-07-08T11:28:06.637Z",
         "sentimiento": "positivo"
       }
     ]
@@ -39421,6 +39426,24 @@
       {
         "texto": "Jujuy 1223",
         "fecha": "2026-07-08T00:28:24.827Z",
+        "sentimiento": "neutro"
+      }
+    ]
+  },
+  {
+    "numero": "177425199698010",
+    "celular": "+54 9 3815 785-065",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Buenos dias, 👍",
+    "mensaje": "Buenos dias, 👍",
+    "fecha": "2026-07-08T11:27:20.013Z",
+    "ultimaActualizacion": "2026-07-08T11:27:20.013Z",
+    "historialMensajes": [
+      {
+        "texto": "Buenos dias, 👍",
+        "fecha": "2026-07-08T11:27:20.013Z",
         "sentimiento": "neutro"
       }
     ]
