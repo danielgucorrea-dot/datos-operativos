@@ -39674,11 +39674,11 @@
     "celular": "+54 9 3865 252-551",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Tiene otro número de ahí",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Ok gracias",
     "mensaje": "Hola solo quería averiguar si me puede pasar los números de los albergue de San Miguel de Tucumán",
     "fecha": "2026-07-08T14:47:12.874Z",
-    "ultimaActualizacion": "2026-07-08T14:51:44.950Z",
+    "ultimaActualizacion": "2026-07-08T14:53:14.610Z",
     "historialMensajes": [
       {
         "texto": "Hola solo quería averiguar si me puede pasar los números de los albergue de San Miguel de Tucumán",
@@ -39693,6 +39693,39 @@
       {
         "texto": "Tiene otro número de ahí",
         "fecha": "2026-07-08T14:51:44.950Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Esque yo soy del exterior de un lugar llamado la tuna departamento Simoca y como yo quiero hacer trámites en el hospital necesito quedarme en un albergue donde me puedan ayudar con alojamiento y comid",
+        "fecha": "2026-07-08T14:53:11.864Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Ok gracias",
+        "fecha": "2026-07-08T14:53:14.610Z",
+        "sentimiento": "positivo"
+      }
+    ]
+  },
+  {
+    "numero": "73736166346831",
+    "celular": "+54 9 3815 241-910",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Hola buen día",
+    "mensaje": "Hola buen día",
+    "fecha": "2026-07-08T14:55:04.915Z",
+    "ultimaActualizacion": "2026-07-08T14:55:06.056Z",
+    "historialMensajes": [
+      {
+        "texto": "Hola buen día",
+        "fecha": "2026-07-08T14:55:04.915Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Hola buen día",
+        "fecha": "2026-07-08T14:55:06.056Z",
         "sentimiento": "neutro"
       }
     ]
