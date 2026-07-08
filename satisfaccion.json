@@ -39625,5 +39625,23 @@
         "sentimiento": "positivo"
       }
     ]
+  },
+  {
+    "numero": "206274411143264",
+    "celular": "+54 9 3816 526-088",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Buenos días",
+    "mensaje": "Buenos días",
+    "fecha": "2026-07-08T14:29:56.210Z",
+    "ultimaActualizacion": "2026-07-08T14:29:56.210Z",
+    "historialMensajes": [
+      {
+        "texto": "Buenos días",
+        "fecha": "2026-07-08T14:29:56.210Z",
+        "sentimiento": "neutro"
+      }
+    ]
   }
 ]
