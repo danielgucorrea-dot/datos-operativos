@@ -983,10 +983,10 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "positivo",
-    "ultimoMensaje": "Están pavimentando lo tendrían que hacer pie , lo agregamos a la orden de servicio",
+    "ultimoMensaje": "Está en orden de servicio para ser controlada hoy , ya tendrían que haber pasado y recolectado de todos maneras le informo al inspector",
     "mensaje": "Ya esta informado.",
     "fecha": "2026-07-06T14:37:45.762Z",
-    "ultimaActualizacion": "2026-07-06T14:56:51.140Z",
+    "ultimaActualizacion": "2026-07-08T15:50:27.119Z",
     "historialMensajes": [
       {
         "texto": "Ya esta informado.",
@@ -996,6 +996,16 @@
       {
         "texto": "Están pavimentando lo tendrían que hacer pie , lo agregamos a la orden de servicio",
         "fecha": "2026-07-06T14:56:51.140Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Pásame el número de tel por favor",
+        "fecha": "2026-07-08T15:50:24.350Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Está en orden de servicio para ser controlada hoy , ya tendrían que haber pasado y recolectado de todos maneras le informo al inspector",
+        "fecha": "2026-07-08T15:50:27.119Z",
         "sentimiento": "positivo"
       }
     ]
@@ -39793,6 +39803,24 @@
         "texto": "Bueno, gracias",
         "fecha": "2026-07-08T15:04:16.869Z",
         "sentimiento": "positivo"
+      }
+    ]
+  },
+  {
+    "numero": "105987075748055",
+    "celular": "+54 9 3814 466-507",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "negativo",
+    "ultimoMensaje": "Hola buenos días  ya hase 3 días no entra el basurero.",
+    "mensaje": "Hola buenos días  ya hase 3 días no entra el basurero.",
+    "fecha": "2026-07-08T15:54:26.861Z",
+    "ultimaActualizacion": "2026-07-08T15:54:26.861Z",
+    "historialMensajes": [
+      {
+        "texto": "Hola buenos días  ya hase 3 días no entra el basurero.",
+        "fecha": "2026-07-08T15:54:26.861Z",
+        "sentimiento": "negativo"
       }
     ]
   }
