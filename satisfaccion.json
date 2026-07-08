@@ -39811,16 +39811,21 @@
     "celular": "+54 9 3814 466-507",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "negativo",
-    "ultimoMensaje": "Hola buenos días  ya hase 3 días no entra el basurero.",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Juan carlos altavista. Es la dirección es unpasaje.",
     "mensaje": "Hola buenos días  ya hase 3 días no entra el basurero.",
     "fecha": "2026-07-08T15:54:26.861Z",
-    "ultimaActualizacion": "2026-07-08T15:54:26.861Z",
+    "ultimaActualizacion": "2026-07-08T15:56:16.027Z",
     "historialMensajes": [
       {
         "texto": "Hola buenos días  ya hase 3 días no entra el basurero.",
         "fecha": "2026-07-08T15:54:26.861Z",
         "sentimiento": "negativo"
+      },
+      {
+        "texto": "Juan carlos altavista. Es la dirección es unpasaje.",
+        "fecha": "2026-07-08T15:56:16.027Z",
+        "sentimiento": "neutro"
       }
     ]
   }
