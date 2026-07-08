@@ -39637,14 +39637,19 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "neutro",
-    "ultimoMensaje": "Buenos días",
+    "ultimoMensaje": "Necesito descartar un colchón de 1 plaza y media. Ya le saco foto",
     "mensaje": "Buenos días",
     "fecha": "2026-07-08T14:29:56.210Z",
-    "ultimaActualizacion": "2026-07-08T14:29:56.210Z",
+    "ultimaActualizacion": "2026-07-08T14:34:21.203Z",
     "historialMensajes": [
       {
         "texto": "Buenos días",
         "fecha": "2026-07-08T14:29:56.210Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Necesito descartar un colchón de 1 plaza y media. Ya le saco foto",
+        "fecha": "2026-07-08T14:34:21.203Z",
         "sentimiento": "neutro"
       }
     ]
