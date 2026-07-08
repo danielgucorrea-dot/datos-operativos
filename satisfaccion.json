@@ -7288,8 +7288,8 @@
       "Pasaron hoy por calle Alsina 3900 pero por la avenida no pasaron. Hay bastante basura, disculpe gracias",
       "Buenas noches! Disculpe podría comunicar mañana si podría pasar el basurero mañana en avenida Kirchner ex roca 4000 ?"
     ],
-    "ultimaActualizacion": "2026-07-08T13:30:07.991Z",
-    "ultimoMensaje": "No pasaron ayer al final el transporte 9 de julio",
+    "ultimaActualizacion": "2026-07-08T13:30:28.133Z",
+    "ultimoMensaje": "Y la dejé bien temprano a la basura 😣",
     "historialMensajes": [
       {
         "texto": "Hola buen día! Podría comunicar si puede pasar el basurero hoy en avenida Kirchner 4000 ? Muchas gracias",
@@ -7309,6 +7309,11 @@
       {
         "texto": "No pasaron ayer al final el transporte 9 de julio",
         "fecha": "2026-07-08T13:30:07.991Z",
+        "sentimiento": "negativo"
+      },
+      {
+        "texto": "Y la dejé bien temprano a la basura 😣",
+        "fecha": "2026-07-08T13:30:28.133Z",
         "sentimiento": "negativo"
       }
     ]
