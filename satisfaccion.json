@@ -39406,7 +39406,7 @@
     "ultimoMensaje": "San Juan 2124 san Miguel de Tucumán",
     "mensaje": "Buenas tardes para coordinar retiro de escombros en san Juan 2124",
     "fecha": "2026-07-07T18:31:35.647Z",
-    "ultimaActualizacion": "2026-07-07T18:31:58.222Z",
+    "ultimaActualizacion": "2026-07-08T21:29:06.051Z",
     "historialMensajes": [
       {
         "texto": "Buenas tardes para coordinar retiro de escombros en san Juan 2124",
@@ -39421,6 +39421,11 @@
       {
         "texto": "San Juan 2124 san Miguel de Tucumán",
         "fecha": "2026-07-07T18:31:58.222Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "San Juan 2124 san Miguel de Tucumán",
+        "fecha": "2026-07-08T21:29:06.051Z",
         "sentimiento": "neutro"
       }
     ]
