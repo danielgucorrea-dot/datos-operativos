@@ -25116,8 +25116,8 @@
       "Bien, resguardo la aclaración. Muchas gracias.!",
       "Buenos días, consulto, podrian retirar 3 bolsitas de escombros, q las tengo en la vereda embolsadas, domicilio calle Rondeau 106 de está ciudad. Gracias!"
     ],
-    "ultimaActualizacion": "2026-07-08T16:00:14.307Z",
-    "ultimoMensaje": "Bien, retiran antiguos caños de cemento?",
+    "ultimaActualizacion": "2026-07-08T16:02:16.173Z",
+    "ultimoMensaje": "Bien gracias!",
     "historialMensajes": [
       {
         "texto": "Buenos días podrían retirar 5 bolsitas de escombro, de calle Rondeau 106 de esta ciudad. Gracias",
@@ -25132,6 +25132,11 @@
       {
         "texto": "Bien, retiran antiguos caños de cemento?",
         "fecha": "2026-07-08T16:00:14.307Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Bien gracias!",
+        "fecha": "2026-07-08T16:02:16.173Z",
         "sentimiento": "positivo"
       }
     ]
