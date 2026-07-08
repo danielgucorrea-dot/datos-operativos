@@ -39386,5 +39386,23 @@
         "sentimiento": "positivo"
       }
     ]
+  },
+  {
+    "numero": "109624845963368",
+    "celular": "+54 9 3813 286-556",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Mi nombre es Fernanda",
+    "mensaje": "Mi nombre es Fernanda",
+    "fecha": "2026-07-08T00:27:03.174Z",
+    "ultimaActualizacion": "2026-07-08T00:27:03.174Z",
+    "historialMensajes": [
+      {
+        "texto": "Mi nombre es Fernanda",
+        "fecha": "2026-07-08T00:27:03.174Z",
+        "sentimiento": "neutro"
+      }
+    ]
   }
 ]
