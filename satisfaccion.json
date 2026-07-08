@@ -39504,11 +39504,11 @@
     "celular": "+54 9 3814 174-411",
     "nombre": "",
     "direccion": "Mendoza 3045",
-    "sentimiento": "positivo",
-    "ultimoMensaje": "Cuando pueden pasar a retirar las 5 bolsas que si pueden retirar? El resto de residuos es mi responsabilidad y ya tengo su destino",
+    "sentimiento": "negativo",
+    "ultimoMensaje": "Secretaria de ambiente no me estás ayudando, me estás negando un servicio como ciudadana. \nSolicité el retiro de escombros de 5 bolsas como ofrecen a cualquier ciudadana.  Así el medioambiente ni la provincia ni calidad de personas mejorará. No sé por qué pensé que desde esta secretaria habría una real intención de mejorar la vida en comunidad y con el medioambiente. No me sorprenden, perdida de recursos, tiempo y dinero.",
     "mensaje": "Hola quisiera solicitar el retiro de residuos no habituales en Mendoza 3045. Cuando podrían retirarlos para dejarlos listos para ser retirados en la vereda?",
     "fecha": "2026-07-08T13:55:09.404Z",
-    "ultimaActualizacion": "2026-07-08T14:45:21.014Z",
+    "ultimaActualizacion": "2026-07-08T14:58:19.313Z",
     "historialMensajes": [
       {
         "texto": "Hola quisiera solicitar el retiro de residuos no habituales en Mendoza 3045. Cuando podrían retirarlos para dejarlos listos para ser retirados en la vereda?",
@@ -39544,6 +39544,11 @@
         "texto": "Cuando pueden pasar a retirar las 5 bolsas que si pueden retirar? El resto de residuos es mi responsabilidad y ya tengo su destino",
         "fecha": "2026-07-08T14:45:21.014Z",
         "sentimiento": "positivo"
+      },
+      {
+        "texto": "Secretaria de ambiente no me estás ayudando, me estás negando un servicio como ciudadana. \nSolicité el retiro de escombros de 5 bolsas como ofrecen a cualquier ciudadana.  Así el medioambiente ni la p",
+        "fecha": "2026-07-08T14:58:19.313Z",
+        "sentimiento": "negativo"
       }
     ]
   },
