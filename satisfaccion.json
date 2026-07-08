@@ -39584,5 +39584,23 @@
         "sentimiento": "positivo"
       }
     ]
+  },
+  {
+    "numero": "214572388614275",
+    "celular": "+54 9 3815 063-008",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Hola, me comunico para saber como es el procedimiento para solicitar la recolección de residuos por limpieza de un terreno. Gracias",
+    "mensaje": "Hola, me comunico para saber como es el procedimiento para solicitar la recolección de residuos por limpieza de un terreno. Gracias",
+    "fecha": "2026-07-08T14:22:10.231Z",
+    "ultimaActualizacion": "2026-07-08T14:22:10.231Z",
+    "historialMensajes": [
+      {
+        "texto": "Hola, me comunico para saber como es el procedimiento para solicitar la recolección de residuos por limpieza de un terreno. Gracias",
+        "fecha": "2026-07-08T14:22:10.231Z",
+        "sentimiento": "neutro"
+      }
+    ]
   }
 ]
