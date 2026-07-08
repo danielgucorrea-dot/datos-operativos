@@ -39970,10 +39970,10 @@
     "nombre": "",
     "direccion": "San lorenzo 3321",
     "sentimiento": "neutro",
-    "ultimoMensaje": "San lorenzo 3321.",
+    "ultimoMensaje": "No tengo foto, ya que no saque la basura aun. Son escombros, un colchón viejo, unas maderas viejas. No es gran cantidad",
     "mensaje": "Hola quisiera solicitar el servicio para retirar escombros, colchón viejo",
     "fecha": "2026-07-08T23:29:48.584Z",
-    "ultimaActualizacion": "2026-07-08T23:30:06.982Z",
+    "ultimaActualizacion": "2026-07-08T23:30:39.513Z",
     "historialMensajes": [
       {
         "texto": "Hola quisiera solicitar el servicio para retirar escombros, colchón viejo",
@@ -39988,6 +39988,11 @@
       {
         "texto": "San lorenzo 3321.",
         "fecha": "2026-07-08T23:30:06.982Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "No tengo foto, ya que no saque la basura aun. Son escombros, un colchón viejo, unas maderas viejas. No es gran cantidad",
+        "fecha": "2026-07-08T23:30:39.513Z",
         "sentimiento": "neutro"
       }
     ]
