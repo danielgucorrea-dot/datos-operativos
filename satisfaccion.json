@@ -39392,11 +39392,11 @@
     "celular": "+54 9 3813 286-556",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Hola, buenas tardes",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Tengo ese platico que es para envalar",
     "mensaje": "Mi nombre es Fernanda",
     "fecha": "2026-07-08T00:27:03.174Z",
-    "ultimaActualizacion": "2026-07-08T00:27:04.309Z",
+    "ultimaActualizacion": "2026-07-08T00:27:52.578Z",
     "historialMensajes": [
       {
         "texto": "Mi nombre es Fernanda",
@@ -39407,6 +39407,11 @@
         "texto": "Hola, buenas tardes",
         "fecha": "2026-07-08T00:27:04.309Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Tengo ese platico que es para envalar",
+        "fecha": "2026-07-08T00:27:52.578Z",
+        "sentimiento": "positivo"
       }
     ]
   }
