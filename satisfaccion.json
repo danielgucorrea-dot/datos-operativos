@@ -39648,11 +39648,11 @@
     "celular": "+54 9 3815 063-008",
     "nombre": "",
     "direccion": "Asunción 535",
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Asunción 535 entre calles Santiago y Corrientes.",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Los sacamos hoy porque quienes viven aqui es una persona con discapacidad y jubilados, no había quien lo saque luego.",
     "mensaje": "Hola, me comunico para saber como es el procedimiento para solicitar la recolección de residuos por limpieza de un terreno. Gracias",
     "fecha": "2026-07-08T14:22:10.231Z",
-    "ultimaActualizacion": "2026-07-08T16:15:02.400Z",
+    "ultimaActualizacion": "2026-07-08T16:43:34.426Z",
     "historialMensajes": [
       {
         "texto": "Hola, me comunico para saber como es el procedimiento para solicitar la recolección de residuos por limpieza de un terreno. Gracias",
@@ -39668,6 +39668,11 @@
         "texto": "Asunción 535 entre calles Santiago y Corrientes.",
         "fecha": "2026-07-08T16:15:02.400Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Los sacamos hoy porque quienes viven aqui es una persona con discapacidad y jubilados, no había quien lo saque luego.",
+        "fecha": "2026-07-08T16:43:34.426Z",
+        "sentimiento": "positivo"
       }
     ]
   },
