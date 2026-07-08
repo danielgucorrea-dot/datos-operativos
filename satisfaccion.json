@@ -39717,11 +39717,11 @@
     "celular": "+54 9 3815 241-910",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Y eso cuánto tiempo puede tardar como máximo?",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Ok . Gracias",
     "mensaje": "Hola buen día",
     "fecha": "2026-07-08T14:55:04.915Z",
-    "ultimaActualizacion": "2026-07-08T15:02:47.404Z",
+    "ultimaActualizacion": "2026-07-08T15:04:31.494Z",
     "historialMensajes": [
       {
         "texto": "Hola buen día",
@@ -39742,6 +39742,11 @@
         "texto": "Y eso cuánto tiempo puede tardar como máximo?",
         "fecha": "2026-07-08T15:02:47.404Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Ok . Gracias",
+        "fecha": "2026-07-08T15:04:31.494Z",
+        "sentimiento": "positivo"
       }
     ]
   },
