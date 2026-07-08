@@ -14835,7 +14835,20 @@
       "Bueno",
       "Hola"
     ],
-    "ultimaActualizacion": "2026-06-06"
+    "ultimaActualizacion": "2026-07-08T21:39:58.586Z",
+    "ultimoMensaje": "kiero denunciar que basurero no pasa recoger la basura",
+    "historialMensajes": [
+      {
+        "texto": "hola",
+        "fecha": "2026-07-08T21:39:30.730Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "kiero denunciar que basurero no pasa recoger la basura",
+        "fecha": "2026-07-08T21:39:58.586Z",
+        "sentimiento": "negativo"
+      }
+    ]
   },
   {
     "numero": "70347269353670",
