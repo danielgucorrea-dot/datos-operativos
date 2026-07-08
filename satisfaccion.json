@@ -39750,11 +39750,11 @@
     "celular": "+54 9 3814 157-862",
     "nombre": "",
     "direccion": "Balcarce 1157",
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Dirección: Balcarce 1157",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Bueno, gracias",
     "mensaje": "Buenos días",
     "fecha": "2026-07-08T15:01:19.248Z",
-    "ultimaActualizacion": "2026-07-08T15:01:49.666Z",
+    "ultimaActualizacion": "2026-07-08T15:04:16.869Z",
     "historialMensajes": [
       {
         "texto": "Buenos días",
@@ -39770,6 +39770,11 @@
         "texto": "Dirección: Balcarce 1157",
         "fecha": "2026-07-08T15:01:49.666Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Bueno, gracias",
+        "fecha": "2026-07-08T15:04:16.869Z",
+        "sentimiento": "positivo"
       }
     ]
   }
