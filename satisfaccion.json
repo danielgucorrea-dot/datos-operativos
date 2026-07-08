@@ -39607,5 +39607,23 @@
         "sentimiento": "neutro"
       }
     ]
+  },
+  {
+    "numero": "138693134282769",
+    "celular": "+54 9 3814 406-711",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Buen día, agradecida de haber retirado los escombros.. muchas gracias 🫂",
+    "mensaje": "Buen día, agradecida de haber retirado los escombros.. muchas gracias 🫂",
+    "fecha": "2026-07-08T14:27:13.337Z",
+    "ultimaActualizacion": "2026-07-08T14:27:13.337Z",
+    "historialMensajes": [
+      {
+        "texto": "Buen día, agradecida de haber retirado los escombros.. muchas gracias 🫂",
+        "fecha": "2026-07-08T14:27:13.337Z",
+        "sentimiento": "positivo"
+      }
+    ]
   }
 ]
