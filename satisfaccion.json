@@ -39537,11 +39537,11 @@
     "celular": "+54 9 3815 208-324",
     "nombre": "",
     "direccion": "Pasaje storni 3124",
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Es una cama un ventilador y un tender",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Nada más que esta desarmada puedo dejar la parrilla y que lo demás se lo lleven",
     "mensaje": "Buenos dias",
     "fecha": "2026-07-08T14:00:16.381Z",
-    "ultimaActualizacion": "2026-07-08T14:03:37.363Z",
+    "ultimaActualizacion": "2026-07-08T14:06:08.732Z",
     "historialMensajes": [
       {
         "texto": "Buenos dias",
@@ -39567,6 +39567,11 @@
         "texto": "Es una cama un ventilador y un tender",
         "fecha": "2026-07-08T14:03:37.363Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Nada más que esta desarmada puedo dejar la parrilla y que lo demás se lo lleven",
+        "fecha": "2026-07-08T14:06:08.732Z",
+        "sentimiento": "positivo"
       }
     ]
   }
