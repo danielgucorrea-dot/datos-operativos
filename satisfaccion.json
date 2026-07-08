@@ -39713,10 +39713,10 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "neutro",
-    "ultimoMensaje": "Hola buen día",
+    "ultimoMensaje": "Quiero saber cómo es para q retiren bolsas de escombros?",
     "mensaje": "Hola buen día",
     "fecha": "2026-07-08T14:55:04.915Z",
-    "ultimaActualizacion": "2026-07-08T14:55:06.056Z",
+    "ultimaActualizacion": "2026-07-08T14:55:37.625Z",
     "historialMensajes": [
       {
         "texto": "Hola buen día",
@@ -39726,6 +39726,11 @@
       {
         "texto": "Hola buen día",
         "fecha": "2026-07-08T14:55:06.056Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Quiero saber cómo es para q retiren bolsas de escombros?",
+        "fecha": "2026-07-08T14:55:37.625Z",
         "sentimiento": "neutro"
       }
     ]
