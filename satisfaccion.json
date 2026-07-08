@@ -1113,8 +1113,8 @@
       "Genial si es para solicitar recolección de escombros ya los tengo en la vereda en bolsas",
       "Hola buen día"
     ],
-    "ultimaActualizacion": "2026-07-06T14:30:34.232Z",
-    "ultimoMensaje": "Pje bascary 4343 es la dirección",
+    "ultimaActualizacion": "2026-07-08T18:17:27.407Z",
+    "ultimoMensaje": "Hola buen día se puede llamar a este número o que número puedo llamar o que dirección me puedo acercar para hacer el pedido para q me retiren el escombro q tengo en la vereda gracias y bendiciones",
     "historialMensajes": [
       {
         "texto": "Hola buenos dias",
@@ -1124,6 +1124,11 @@
       {
         "texto": "Pje bascary 4343 es la dirección",
         "fecha": "2026-07-06T14:30:34.232Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Hola buen día se puede llamar a este número o que número puedo llamar o que dirección me puedo acercar para hacer el pedido para q me retiren el escombro q tengo en la vereda gracias y bendiciones",
+        "fecha": "2026-07-08T18:17:27.407Z",
         "sentimiento": "positivo"
       }
     ]
