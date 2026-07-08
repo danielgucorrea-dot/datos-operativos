@@ -39504,11 +39504,11 @@
     "celular": "+54 9 3814 174-411",
     "nombre": "",
     "direccion": "Mendoza 3045",
-    "sentimiento": "positivo",
-    "ultimoMensaje": "Dentro de las bolsas tengo residuos de construcción",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Cuando puedo disponer los residuos las 5 bolsas en la vereda para que los retiren?",
     "mensaje": "Hola quisiera solicitar el retiro de residuos no habituales en Mendoza 3045. Cuando podrían retirarlos para dejarlos listos para ser retirados en la vereda?",
     "fecha": "2026-07-08T13:55:09.404Z",
-    "ultimaActualizacion": "2026-07-08T14:25:49.323Z",
+    "ultimaActualizacion": "2026-07-08T14:33:51.378Z",
     "historialMensajes": [
       {
         "texto": "Hola quisiera solicitar el retiro de residuos no habituales en Mendoza 3045. Cuando podrían retirarlos para dejarlos listos para ser retirados en la vereda?",
@@ -39534,6 +39534,11 @@
         "texto": "Dentro de las bolsas tengo residuos de construcción",
         "fecha": "2026-07-08T14:25:49.323Z",
         "sentimiento": "positivo"
+      },
+      {
+        "texto": "Cuando puedo disponer los residuos las 5 bolsas en la vereda para que los retiren?",
+        "fecha": "2026-07-08T14:33:51.378Z",
+        "sentimiento": "neutro"
       }
     ]
   },
