@@ -39393,14 +39393,19 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "neutro",
-    "ultimoMensaje": "Mi nombre es Fernanda",
+    "ultimoMensaje": "Hola, buenas tardes",
     "mensaje": "Mi nombre es Fernanda",
     "fecha": "2026-07-08T00:27:03.174Z",
-    "ultimaActualizacion": "2026-07-08T00:27:03.174Z",
+    "ultimaActualizacion": "2026-07-08T00:27:04.309Z",
     "historialMensajes": [
       {
         "texto": "Mi nombre es Fernanda",
         "fecha": "2026-07-08T00:27:03.174Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Hola, buenas tardes",
+        "fecha": "2026-07-08T00:27:04.309Z",
         "sentimiento": "neutro"
       }
     ]
