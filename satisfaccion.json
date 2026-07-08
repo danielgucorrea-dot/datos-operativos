@@ -39361,11 +39361,11 @@
     "celular": "+54 9 3814 766-932",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Buenas tardes, tengo que para tirar un colchón no se que día pasan ustedes ?",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Bien gracias",
     "mensaje": "Buenas tardes, tengo que para tirar un colchón no se que día pasan ustedes ?",
     "fecha": "2026-07-07T20:17:44.158Z",
-    "ultimaActualizacion": "2026-07-07T20:17:46.761Z",
+    "ultimaActualizacion": "2026-07-08T13:44:48.576Z",
     "historialMensajes": [
       {
         "texto": "Buenas tardes, tengo que para tirar un colchón no se que día pasan ustedes ?",
@@ -39376,6 +39376,11 @@
         "texto": "Buenas tardes, tengo que para tirar un colchón no se que día pasan ustedes ?",
         "fecha": "2026-07-07T20:17:46.761Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Bien gracias",
+        "fecha": "2026-07-08T13:44:48.576Z",
+        "sentimiento": "positivo"
       }
     ]
   },
