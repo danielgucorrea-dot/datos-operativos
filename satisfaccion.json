@@ -39538,10 +39538,10 @@
     "nombre": "",
     "direccion": "Pasaje storni 3124",
     "sentimiento": "neutro",
-    "ultimoMensaje": "Tengo que sacar todo ya a la vereda o me avisaran cuando estén por venir",
+    "ultimoMensaje": "Es una cama un ventilador y un tender",
     "mensaje": "Buenos dias",
     "fecha": "2026-07-08T14:00:16.381Z",
-    "ultimaActualizacion": "2026-07-08T14:01:23.797Z",
+    "ultimaActualizacion": "2026-07-08T14:03:37.363Z",
     "historialMensajes": [
       {
         "texto": "Buenos dias",
@@ -39561,6 +39561,11 @@
       {
         "texto": "Tengo que sacar todo ya a la vereda o me avisaran cuando estén por venir",
         "fecha": "2026-07-08T14:01:23.797Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Es una cama un ventilador y un tender",
+        "fecha": "2026-07-08T14:03:37.363Z",
         "sentimiento": "neutro"
       }
     ]
