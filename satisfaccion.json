@@ -28358,8 +28358,8 @@
       "Serian tan amables de retirar 7 bolsitas de residuo de poda.?",
       "Buenas tardes."
     ],
-    "ultimaActualizacion": "2026-07-07T21:16:50.665Z",
-    "ultimoMensaje": "Ustedes retiran este tipo de materiales???",
+    "ultimaActualizacion": "2026-07-08T15:14:39.426Z",
+    "ultimoMensaje": "Mil gracias. Ya no vengan. Se llevaron el material la gente que pasa.",
     "historialMensajes": [
       {
         "texto": "Esta completo, con vidrios puestos.",
@@ -28369,6 +28369,11 @@
       {
         "texto": "Ustedes retiran este tipo de materiales???",
         "fecha": "2026-07-07T21:16:50.665Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Mil gracias. Ya no vengan. Se llevaron el material la gente que pasa.",
+        "fecha": "2026-07-08T15:14:39.426Z",
         "sentimiento": "neutro"
       }
     ]
