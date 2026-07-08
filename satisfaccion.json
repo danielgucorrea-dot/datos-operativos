@@ -39963,5 +39963,33 @@
         "sentimiento": "positivo"
       }
     ]
+  },
+  {
+    "numero": "215448545169499",
+    "celular": "+54 9 3816 710-489",
+    "nombre": "",
+    "direccion": "San lorenzo 3321",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "San lorenzo 3321.",
+    "mensaje": "Hola quisiera solicitar el servicio para retirar escombros, colchón viejo",
+    "fecha": "2026-07-08T23:29:48.584Z",
+    "ultimaActualizacion": "2026-07-08T23:30:06.982Z",
+    "historialMensajes": [
+      {
+        "texto": "Hola quisiera solicitar el servicio para retirar escombros, colchón viejo",
+        "fecha": "2026-07-08T23:29:48.584Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Hola quisiera solicitar el servicio para retirar escombros, colchón viejo",
+        "fecha": "2026-07-08T23:29:51.287Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "San lorenzo 3321.",
+        "fecha": "2026-07-08T23:30:06.982Z",
+        "sentimiento": "neutro"
+      }
+    ]
   }
 ]
