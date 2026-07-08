@@ -39391,12 +39391,12 @@
     "numero": "109624845963368",
     "celular": "+54 9 3813 286-556",
     "nombre": "",
-    "direccion": null,
+    "direccion": "Jujuy 1223",
     "sentimiento": "neutro",
-    "ultimoMensaje": "Ustedes lo llevan",
+    "ultimoMensaje": "Jujuy 1223",
     "mensaje": "Mi nombre es Fernanda",
     "fecha": "2026-07-08T00:27:03.174Z",
-    "ultimaActualizacion": "2026-07-08T00:27:58.358Z",
+    "ultimaActualizacion": "2026-07-08T00:28:24.827Z",
     "historialMensajes": [
       {
         "texto": "Mi nombre es Fernanda",
@@ -39416,6 +39416,11 @@
       {
         "texto": "Ustedes lo llevan",
         "fecha": "2026-07-08T00:27:58.358Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Jujuy 1223",
+        "fecha": "2026-07-08T00:28:24.827Z",
         "sentimiento": "neutro"
       }
     ]
