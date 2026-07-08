@@ -39536,16 +39536,21 @@
     "numero": "200889176481817",
     "celular": "+54 9 3815 208-324",
     "nombre": "",
-    "direccion": null,
+    "direccion": "Pasaje storni 3124",
     "sentimiento": "neutro",
-    "ultimoMensaje": "Buenos dias",
+    "ultimoMensaje": "Pasaje storni 3124 entre calles diego de rojas y Alberto rougues",
     "mensaje": "Buenos dias",
     "fecha": "2026-07-08T14:00:16.381Z",
-    "ultimaActualizacion": "2026-07-08T14:00:16.381Z",
+    "ultimaActualizacion": "2026-07-08T14:00:45.593Z",
     "historialMensajes": [
       {
         "texto": "Buenos dias",
         "fecha": "2026-07-08T14:00:16.381Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Pasaje storni 3124 entre calles diego de rojas y Alberto rougues",
+        "fecha": "2026-07-08T14:00:45.593Z",
         "sentimiento": "neutro"
       }
     ]
