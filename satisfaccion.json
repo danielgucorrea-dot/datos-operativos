@@ -39538,10 +39538,10 @@
     "nombre": "",
     "direccion": "Pasaje storni 3124",
     "sentimiento": "neutro",
-    "ultimoMensaje": "Buenos dias",
+    "ultimoMensaje": "Tengo que sacar todo ya a la vereda o me avisaran cuando estén por venir",
     "mensaje": "Buenos dias",
     "fecha": "2026-07-08T14:00:16.381Z",
-    "ultimaActualizacion": "2026-07-08T14:00:57.535Z",
+    "ultimaActualizacion": "2026-07-08T14:01:23.797Z",
     "historialMensajes": [
       {
         "texto": "Buenos dias",
@@ -39556,6 +39556,11 @@
       {
         "texto": "Buenos dias",
         "fecha": "2026-07-08T14:00:57.535Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Tengo que sacar todo ya a la vereda o me avisaran cuando estén por venir",
+        "fecha": "2026-07-08T14:01:23.797Z",
         "sentimiento": "neutro"
       }
     ]
