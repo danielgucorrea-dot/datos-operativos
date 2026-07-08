@@ -39674,16 +39674,21 @@
     "celular": "+54 9 3865 252-551",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Hola solo quería averiguar si me puede pasar los números de los albergue de San Miguel de Tucumán",
+    "sentimiento": "negativo",
+    "ultimoMensaje": "Ya le mandé mensaje una vez y ellos no contestan con ese número",
     "mensaje": "Hola solo quería averiguar si me puede pasar los números de los albergue de San Miguel de Tucumán",
     "fecha": "2026-07-08T14:47:12.874Z",
-    "ultimaActualizacion": "2026-07-08T14:47:12.874Z",
+    "ultimaActualizacion": "2026-07-08T14:51:42.010Z",
     "historialMensajes": [
       {
         "texto": "Hola solo quería averiguar si me puede pasar los números de los albergue de San Miguel de Tucumán",
         "fecha": "2026-07-08T14:47:12.874Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Ya le mandé mensaje una vez y ellos no contestan con ese número",
+        "fecha": "2026-07-08T14:51:42.010Z",
+        "sentimiento": "negativo"
       }
     ]
   }
