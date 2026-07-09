@@ -405,14 +405,19 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "positivo",
-    "ultimoMensaje": "Buenas tardes, este es el colchón que necesitaría que retiren",
+    "ultimoMensaje": "Buenas noches! Queria avisar que ya no hará falta que retiren el colchón. Cuando lo deje en la calle, se lo llevaron unas personas. Gracias",
     "mensaje": "Buenas tardes, este es el colchón que necesitaría que retiren",
     "fecha": "2026-07-06T17:37:28.869Z",
-    "ultimaActualizacion": "2026-07-06T17:37:28.869Z",
+    "ultimaActualizacion": "2026-07-09T00:53:14.799Z",
     "historialMensajes": [
       {
         "texto": "Buenas tardes, este es el colchón que necesitaría que retiren",
         "fecha": "2026-07-06T17:37:28.869Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Buenas noches! Queria avisar que ya no hará falta que retiren el colchón. Cuando lo deje en la calle, se lo llevaron unas personas. Gracias",
+        "fecha": "2026-07-09T00:53:14.799Z",
         "sentimiento": "positivo"
       }
     ]
