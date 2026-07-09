@@ -40031,14 +40031,19 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "neutro",
-    "ultimoMensaje": "Hola",
+    "ultimoMensaje": "Buenas noches quiero consultar sobre el servicio se pa ra, el retiro de materiales reciclables desde el domicilio",
     "mensaje": "Hola",
     "fecha": "2026-07-09T02:52:26.427Z",
-    "ultimaActualizacion": "2026-07-09T02:52:26.427Z",
+    "ultimaActualizacion": "2026-07-09T02:52:44.666Z",
     "historialMensajes": [
       {
         "texto": "Hola",
         "fecha": "2026-07-09T02:52:26.427Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Buenas noches quiero consultar sobre el servicio se pa ra, el retiro de materiales reciclables desde el domicilio",
+        "fecha": "2026-07-09T02:52:44.666Z",
         "sentimiento": "neutro"
       }
     ]
