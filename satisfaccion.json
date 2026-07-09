@@ -40024,5 +40024,23 @@
         "sentimiento": "neutro"
       }
     ]
+  },
+  {
+    "numero": "62113884200973",
+    "celular": "+54 9 3814 786-696",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Hola",
+    "mensaje": "Hola",
+    "fecha": "2026-07-09T02:52:26.427Z",
+    "ultimaActualizacion": "2026-07-09T02:52:26.427Z",
+    "historialMensajes": [
+      {
+        "texto": "Hola",
+        "fecha": "2026-07-09T02:52:26.427Z",
+        "sentimiento": "neutro"
+      }
+    ]
   }
 ]
