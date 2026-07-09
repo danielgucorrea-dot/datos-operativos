@@ -40075,5 +40075,33 @@
         "sentimiento": "neutro"
       }
     ]
+  },
+  {
+    "numero": "20362473562169",
+    "celular": "+54 9 3813 675-370",
+    "nombre": "",
+    "direccion": "calle España 190",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Tengo escombros para retirar de la calle España 190",
+    "mensaje": "Buenos días",
+    "fecha": "2026-07-09T14:47:53.141Z",
+    "ultimaActualizacion": "2026-07-09T14:47:57.689Z",
+    "historialMensajes": [
+      {
+        "texto": "Buenos días",
+        "fecha": "2026-07-09T14:47:53.141Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Buenos días",
+        "fecha": "2026-07-09T14:47:54.361Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Tengo escombros para retirar de la calle España 190",
+        "fecha": "2026-07-09T14:47:57.689Z",
+        "sentimiento": "positivo"
+      }
+    ]
   }
 ]
