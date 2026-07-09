@@ -40144,5 +40144,28 @@
         "sentimiento": "positivo"
       }
     ]
+  },
+  {
+    "numero": "200764622393559",
+    "celular": "+54 9 3814 639-428",
+    "nombre": "",
+    "direccion": "manzana 21 casa 16",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Manantial sur sector b manzana 21 casa 16",
+    "mensaje": "Buenas tardes",
+    "fecha": "2026-07-09T19:23:56.659Z",
+    "ultimaActualizacion": "2026-07-09T19:24:52.400Z",
+    "historialMensajes": [
+      {
+        "texto": "Buenas tardes",
+        "fecha": "2026-07-09T19:23:56.659Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Manantial sur sector b manzana 21 casa 16",
+        "fecha": "2026-07-09T19:24:52.400Z",
+        "sentimiento": "neutro"
+      }
+    ]
   }
 ]
