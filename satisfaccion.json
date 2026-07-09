@@ -40111,5 +40111,28 @@
         "sentimiento": "positivo"
       }
     ]
+  },
+  {
+    "numero": "27775687725211",
+    "celular": "+54 9 3816 290-551",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Yo quisiera para desagote del poso",
+    "mensaje": "Hola buenas tardes",
+    "fecha": "2026-07-09T18:13:57.643Z",
+    "ultimaActualizacion": "2026-07-09T18:14:14.392Z",
+    "historialMensajes": [
+      {
+        "texto": "Hola buenas tardes",
+        "fecha": "2026-07-09T18:13:57.643Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Yo quisiera para desagote del poso",
+        "fecha": "2026-07-09T18:14:14.392Z",
+        "sentimiento": "positivo"
+      }
+    ]
   }
 ]
