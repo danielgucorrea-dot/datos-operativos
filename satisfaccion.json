@@ -40047,5 +40047,33 @@
         "sentimiento": "neutro"
       }
     ]
+  },
+  {
+    "numero": "24056262877325",
+    "celular": "+54 9 3815 834-275",
+    "nombre": "",
+    "direccion": "Ayacucho 327",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Ayacucho 327 PB F",
+    "mensaje": "Hola! Buenos días. Quisiera solicitar el retiro de un termotanque. No sé dónde se descarta 🥺",
+    "fecha": "2026-07-09T12:53:04.791Z",
+    "ultimaActualizacion": "2026-07-09T12:56:09.592Z",
+    "historialMensajes": [
+      {
+        "texto": "Hola! Buenos días. Quisiera solicitar el retiro de un termotanque. No sé dónde se descarta 🥺",
+        "fecha": "2026-07-09T12:53:04.791Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Hola! Buenos días. Quisiera solicitar el retiro de un termotanque. No sé dónde se descarta 🥺",
+        "fecha": "2026-07-09T12:53:07.490Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Ayacucho 327 PB F",
+        "fecha": "2026-07-09T12:56:09.592Z",
+        "sentimiento": "neutro"
+      }
+    ]
   }
 ]
