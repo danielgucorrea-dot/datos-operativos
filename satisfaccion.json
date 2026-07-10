@@ -40536,5 +40536,33 @@
         "sentimiento": "neutro"
       }
     ]
+  },
+  {
+    "numero": "254180509925540",
+    "celular": "+54 9 59171057771",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "negativo",
+    "ultimoMensaje": "Quiero q me ayuden o se vea la manera de solucionar , los dos puntos q se usan como basurero frente a mi casa",
+    "mensaje": "Buenas tardes",
+    "fecha": "2026-07-10T18:05:12.447Z",
+    "ultimaActualizacion": "2026-07-10T18:07:18.680Z",
+    "historialMensajes": [
+      {
+        "texto": "Buenas tardes",
+        "fecha": "2026-07-10T18:05:12.447Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Buenas tardes",
+        "fecha": "2026-07-10T18:05:14.996Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Quiero q me ayuden o se vea la manera de solucionar , los dos puntos q se usan como basurero frente a mi casa",
+        "fecha": "2026-07-10T18:07:18.680Z",
+        "sentimiento": "negativo"
+      }
+    ]
   }
 ]
