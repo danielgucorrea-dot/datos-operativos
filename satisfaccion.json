@@ -40445,11 +40445,11 @@
     "celular": "+54 9 3815 803-537",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "negativo",
-    "ultimoMensaje": "Le paso la foto de los escombros de una pequeña obra",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Los dejo entonces e. La vereda y los retiran?",
     "mensaje": "Buen día",
     "fecha": "2026-07-10T15:04:43.724Z",
-    "ultimaActualizacion": "2026-07-10T15:05:00.337Z",
+    "ultimaActualizacion": "2026-07-10T15:05:47.373Z",
     "historialMensajes": [
       {
         "texto": "Buen día",
@@ -40460,6 +40460,11 @@
         "texto": "Le paso la foto de los escombros de una pequeña obra",
         "fecha": "2026-07-10T15:05:00.337Z",
         "sentimiento": "negativo"
+      },
+      {
+        "texto": "Los dejo entonces e. La vereda y los retiran?",
+        "fecha": "2026-07-10T15:05:47.373Z",
+        "sentimiento": "positivo"
       }
     ]
   }
