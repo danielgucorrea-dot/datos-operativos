@@ -40615,16 +40615,26 @@
     "numero": "26732497219686",
     "celular": "+54 9 3816 364-122",
     "nombre": "",
-    "direccion": null,
+    "direccion": "Junin 1748",
     "sentimiento": "neutro",
-    "ultimoMensaje": "Hola buenas",
+    "ultimoMensaje": "Junin 1748",
     "mensaje": "Hola buenas",
     "fecha": "2026-07-10T19:11:57.812Z",
-    "ultimaActualizacion": "2026-07-10T19:11:57.812Z",
+    "ultimaActualizacion": "2026-07-10T19:12:25.603Z",
     "historialMensajes": [
       {
         "texto": "Hola buenas",
         "fecha": "2026-07-10T19:11:57.812Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Hola buenas",
+        "fecha": "2026-07-10T19:12:00.311Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Junin 1748",
+        "fecha": "2026-07-10T19:12:25.603Z",
         "sentimiento": "neutro"
       }
     ]
