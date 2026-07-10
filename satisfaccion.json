@@ -40406,5 +40406,33 @@
         "sentimiento": "positivo"
       }
     ]
+  },
+  {
+    "numero": "184524797391050",
+    "celular": "+54 9 3814 901-448",
+    "nombre": "",
+    "direccion": "Barrio Teran",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Buen día por favor solicito traslado de residuos de la poda del árbol de mi vereda, pasaje Miguel Diaz 1530,  Barrio Teran.",
+    "mensaje": "Buen día. Soy una vecina del Barrio Teran.",
+    "fecha": "2026-07-10T14:57:31.671Z",
+    "ultimaActualizacion": "2026-07-10T14:58:08.879Z",
+    "historialMensajes": [
+      {
+        "texto": "Buen día. Soy una vecina del Barrio Teran.",
+        "fecha": "2026-07-10T14:57:31.671Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Buen día. Soy una vecina del Barrio Teran.",
+        "fecha": "2026-07-10T14:57:34.241Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Buen día por favor solicito traslado de residuos de la poda del árbol de mi vereda, pasaje Miguel Diaz 1530,  Barrio Teran.",
+        "fecha": "2026-07-10T14:58:08.879Z",
+        "sentimiento": "positivo"
+      }
+    ]
   }
 ]
