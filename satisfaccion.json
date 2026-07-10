@@ -40564,5 +40564,28 @@
         "sentimiento": "negativo"
       }
     ]
+  },
+  {
+    "numero": "66370297417829",
+    "celular": "+54 9 3812 075-876",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Hola buenas tardes",
+    "mensaje": "Hola buenas tardes",
+    "fecha": "2026-07-10T18:10:24.994Z",
+    "ultimaActualizacion": "2026-07-10T18:10:26.119Z",
+    "historialMensajes": [
+      {
+        "texto": "Hola buenas tardes",
+        "fecha": "2026-07-10T18:10:24.994Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Hola buenas tardes",
+        "fecha": "2026-07-10T18:10:26.119Z",
+        "sentimiento": "neutro"
+      }
+    ]
   }
 ]
