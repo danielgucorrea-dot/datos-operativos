@@ -40273,10 +40273,10 @@
     "nombre": "",
     "direccion": "Crisóstomo Alvarez 3245",
     "sentimiento": "neutro",
-    "ultimoMensaje": "Ubicadas en Crisóstomo Alvarez 3245",
+    "ultimoMensaje": "Hola",
     "mensaje": "Buen día",
     "fecha": "2026-07-10T12:41:47.369Z",
-    "ultimaActualizacion": "2026-07-10T12:43:19.194Z",
+    "ultimaActualizacion": "2026-07-10T14:27:59.477Z",
     "historialMensajes": [
       {
         "texto": "Buen día",
@@ -40291,6 +40291,11 @@
       {
         "texto": "Ubicadas en Crisóstomo Alvarez 3245",
         "fecha": "2026-07-10T12:43:19.194Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Hola",
+        "fecha": "2026-07-10T14:27:59.477Z",
         "sentimiento": "neutro"
       }
     ]
