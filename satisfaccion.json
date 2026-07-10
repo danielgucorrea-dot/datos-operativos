@@ -40490,5 +40490,28 @@
         "sentimiento": "neutro"
       }
     ]
+  },
+  {
+    "numero": "62204011380774",
+    "celular": "+54 9 3814 762-952",
+    "nombre": "",
+    "direccion": "Savedra 46",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Buenos días solicito el retiro de ramas de Savedra 46 esq. Pje Miguel Cane",
+    "mensaje": "Buenos días solicito el retiro de ramas de Savedra 46 esq. Pje Miguel Cane",
+    "fecha": "2026-07-10T15:21:06.384Z",
+    "ultimaActualizacion": "2026-07-10T15:21:08.958Z",
+    "historialMensajes": [
+      {
+        "texto": "Buenos días solicito el retiro de ramas de Savedra 46 esq. Pje Miguel Cane",
+        "fecha": "2026-07-10T15:21:06.384Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Buenos días solicito el retiro de ramas de Savedra 46 esq. Pje Miguel Cane",
+        "fecha": "2026-07-10T15:21:08.958Z",
+        "sentimiento": "neutro"
+      }
+    ]
   }
 ]
