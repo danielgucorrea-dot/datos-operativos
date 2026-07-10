@@ -23630,7 +23630,15 @@
       "Quiero solicitar el retiro de residuos no habituales",
       "Buenos días"
     ],
-    "ultimaActualizacion": "2026-05-20"
+    "ultimaActualizacion": "2026-07-10T19:10:49.115Z",
+    "ultimoMensaje": "Buenas tardes",
+    "historialMensajes": [
+      {
+        "texto": "Buenas tardes",
+        "fecha": "2026-07-10T19:10:49.115Z",
+        "sentimiento": "neutro"
+      }
+    ]
   },
   {
     "numero": "257775397502979",
@@ -40599,6 +40607,24 @@
       {
         "texto": "Constitución 1571 entre Manuel acevedo y fortunata garcia",
         "fecha": "2026-07-10T18:11:37.655Z",
+        "sentimiento": "neutro"
+      }
+    ]
+  },
+  {
+    "numero": "26732497219686",
+    "celular": "+54 9 3816 364-122",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Hola buenas",
+    "mensaje": "Hola buenas",
+    "fecha": "2026-07-10T19:11:57.812Z",
+    "ultimaActualizacion": "2026-07-10T19:11:57.812Z",
+    "historialMensajes": [
+      {
+        "texto": "Hola buenas",
+        "fecha": "2026-07-10T19:11:57.812Z",
         "sentimiento": "neutro"
       }
     ]
