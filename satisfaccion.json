@@ -40295,11 +40295,11 @@
     "celular": "+54 9 3815 081-080",
     "nombre": "",
     "direccion": "barrio Obispo Piedra Buena",
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Jose Hernandez 1257 barrio Obispo Piedra Buena",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Muchas gracias!!",
     "mensaje": "Buenos dias! Podrian pasar a recoger las ramas de mi domicilio? Ya llevan alli una semana , xf",
     "fecha": "2026-07-10T13:51:30.956Z",
-    "ultimaActualizacion": "2026-07-10T13:52:16.445Z",
+    "ultimaActualizacion": "2026-07-10T13:52:23.052Z",
     "historialMensajes": [
       {
         "texto": "Buenos dias! Podrian pasar a recoger las ramas de mi domicilio? Ya llevan alli una semana , xf",
@@ -40312,4 +40312,15 @@
         "sentimiento": "neutro"
       },
       {
-  
+        "texto": "Jose Hernandez 1257 barrio Obispo Piedra Buena",
+        "fecha": "2026-07-10T13:52:16.445Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Muchas gracias!!",
+        "fecha": "2026-07-10T13:52:23.052Z",
+        "sentimiento": "positivo"
+      }
+    ]
+  }
+]
