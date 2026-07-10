@@ -40681,12 +40681,12 @@
     "numero": "186822554607674",
     "celular": "+54 9 3815 173-169",
     "nombre": "",
-    "direccion": null,
-    "sentimiento": "positivo",
-    "ultimoMensaje": "En \nI domicilio del propiedad de san luis  807 tengo ramas de poda. Quisiera saber si la pueden retirar. Agradeceré me informen, gracias",
+    "direccion": "San luis 807",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "San luis 807 s\nM de tucuman",
     "mensaje": "En \nI domicilio del propiedad de san luis  807 tengo ramas de poda. Quisiera saber si la pueden retirar. Agradeceré me informen, gracias",
     "fecha": "2026-07-10T21:17:13.981Z",
-    "ultimaActualizacion": "2026-07-10T21:17:16.694Z",
+    "ultimaActualizacion": "2026-07-10T21:32:42.950Z",
     "historialMensajes": [
       {
         "texto": "En \nI domicilio del propiedad de san luis  807 tengo ramas de poda. Quisiera saber si la pueden retirar. Agradeceré me informen, gracias",
@@ -40697,6 +40697,11 @@
         "texto": "En \nI domicilio del propiedad de san luis  807 tengo ramas de poda. Quisiera saber si la pueden retirar. Agradeceré me informen, gracias",
         "fecha": "2026-07-10T21:17:16.694Z",
         "sentimiento": "positivo"
+      },
+      {
+        "texto": "San luis 807 s\nM de tucuman",
+        "fecha": "2026-07-10T21:32:42.950Z",
+        "sentimiento": "neutro"
       }
     ]
   },
