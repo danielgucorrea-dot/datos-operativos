@@ -40671,5 +40671,28 @@
         "sentimiento": "neutro"
       }
     ]
+  },
+  {
+    "numero": "186822554607674",
+    "celular": "+54 9 3815 173-169",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "positivo",
+    "ultimoMensaje": "En \nI domicilio del propiedad de san luis  807 tengo ramas de poda. Quisiera saber si la pueden retirar. Agradeceré me informen, gracias",
+    "mensaje": "En \nI domicilio del propiedad de san luis  807 tengo ramas de poda. Quisiera saber si la pueden retirar. Agradeceré me informen, gracias",
+    "fecha": "2026-07-10T21:17:13.981Z",
+    "ultimaActualizacion": "2026-07-10T21:17:16.694Z",
+    "historialMensajes": [
+      {
+        "texto": "En \nI domicilio del propiedad de san luis  807 tengo ramas de poda. Quisiera saber si la pueden retirar. Agradeceré me informen, gracias",
+        "fecha": "2026-07-10T21:17:13.981Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "En \nI domicilio del propiedad de san luis  807 tengo ramas de poda. Quisiera saber si la pueden retirar. Agradeceré me informen, gracias",
+        "fecha": "2026-07-10T21:17:16.694Z",
+        "sentimiento": "positivo"
+      }
+    ]
   }
 ]
