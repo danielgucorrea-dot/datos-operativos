@@ -40658,16 +40658,21 @@
     "numero": "157831625990303",
     "celular": "+54 9 3816 299-473",
     "nombre": "",
-    "direccion": null,
+    "direccion": "Santiago 2291",
     "sentimiento": "neutro",
-    "ultimoMensaje": "Buenas tardes",
+    "ultimoMensaje": "Santiago 2291",
     "mensaje": "Buenas tardes",
     "fecha": "2026-07-10T20:43:16.728Z",
-    "ultimaActualizacion": "2026-07-10T20:43:16.728Z",
+    "ultimaActualizacion": "2026-07-10T21:27:50.502Z",
     "historialMensajes": [
       {
         "texto": "Buenas tardes",
         "fecha": "2026-07-10T20:43:16.728Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Santiago 2291",
+        "fecha": "2026-07-10T21:27:50.502Z",
         "sentimiento": "neutro"
       }
     ]
