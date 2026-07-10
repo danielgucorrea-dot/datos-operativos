@@ -40445,11 +40445,11 @@
     "celular": "+54 9 3815 803-537",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "positivo",
-    "ultimoMensaje": "Los dejo entonces e. La vereda y los retiran?",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "9 de julio 1576",
     "mensaje": "Buen día",
     "fecha": "2026-07-10T15:04:43.724Z",
-    "ultimaActualizacion": "2026-07-10T15:05:47.373Z",
+    "ultimaActualizacion": "2026-07-10T15:06:29.497Z",
     "historialMensajes": [
       {
         "texto": "Buen día",
@@ -40465,6 +40465,11 @@
         "texto": "Los dejo entonces e. La vereda y los retiran?",
         "fecha": "2026-07-10T15:05:47.373Z",
         "sentimiento": "positivo"
+      },
+      {
+        "texto": "9 de julio 1576",
+        "fecha": "2026-07-10T15:06:29.497Z",
+        "sentimiento": "neutro"
       }
     ]
   }
