@@ -40569,12 +40569,12 @@
     "numero": "66370297417829",
     "celular": "+54 9 3812 075-876",
     "nombre": "",
-    "direccion": null,
+    "direccion": "Constitución 1571",
     "sentimiento": "neutro",
-    "ultimoMensaje": "Hola buenas tardes",
+    "ultimoMensaje": "Constitución 1571 entre Manuel acevedo y fortunata garcia",
     "mensaje": "Hola buenas tardes",
     "fecha": "2026-07-10T18:10:24.994Z",
-    "ultimaActualizacion": "2026-07-10T18:10:26.119Z",
+    "ultimaActualizacion": "2026-07-10T18:11:37.655Z",
     "historialMensajes": [
       {
         "texto": "Hola buenas tardes",
@@ -40584,6 +40584,11 @@
       {
         "texto": "Hola buenas tardes",
         "fecha": "2026-07-10T18:10:26.119Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Constitución 1571 entre Manuel acevedo y fortunata garcia",
+        "fecha": "2026-07-10T18:11:37.655Z",
         "sentimiento": "neutro"
       }
     ]
