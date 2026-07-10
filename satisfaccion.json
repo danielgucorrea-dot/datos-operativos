@@ -40211,11 +40211,11 @@
     "celular": "+54 9 3814 172-323",
     "nombre": "",
     "direccion": "Grimau y Galvez 775",
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Pasaje Cayetano Grimau y Galvez 775, entre Rondeau y Bolivar al 1000.",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Muchas gracias.",
     "mensaje": "Buenos días. Tenemos muchos escombros embolsados en la puerta de la casa. Ustedes podrían pasar por ellos? Muchas gracias.",
     "fecha": "2026-07-10T12:12:48.587Z",
-    "ultimaActualizacion": "2026-07-10T12:19:30.884Z",
+    "ultimaActualizacion": "2026-07-10T12:23:54.798Z",
     "historialMensajes": [
       {
         "texto": "Buenos días. Tenemos muchos escombros embolsados en la puerta de la casa. Ustedes podrían pasar por ellos? Muchas gracias.",
@@ -40231,6 +40231,11 @@
         "texto": "Pasaje Cayetano Grimau y Galvez 775, entre Rondeau y Bolivar al 1000.",
         "fecha": "2026-07-10T12:19:30.884Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Muchas gracias.",
+        "fecha": "2026-07-10T12:23:54.798Z",
+        "sentimiento": "positivo"
       }
     ]
   },
