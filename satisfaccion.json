@@ -40393,11 +40393,16 @@
     "ultimoMensaje": "Hola, buenos días!!!!!!, necesitaría que me retiren residuos de poda y de cesped de mi domicilio Avda.Republica del Líbano 1240 San Miguel de Tucumán, gracias.",
     "mensaje": "Hola, buenos días!!!!!!, necesitaría que me retiren residuos de poda y de cesped de mi domicilio Avda.Republica del Líbano 1240 San Miguel de Tucumán, gracias.",
     "fecha": "2026-07-10T14:32:36.534Z",
-    "ultimaActualizacion": "2026-07-10T14:32:36.534Z",
+    "ultimaActualizacion": "2026-07-10T14:32:38.429Z",
     "historialMensajes": [
       {
         "texto": "Hola, buenos días!!!!!!, necesitaría que me retiren residuos de poda y de cesped de mi domicilio Avda.Republica del Líbano 1240 San Miguel de Tucumán, gracias.",
         "fecha": "2026-07-10T14:32:36.534Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Hola, buenos días!!!!!!, necesitaría que me retiren residuos de poda y de cesped de mi domicilio Avda.Republica del Líbano 1240 San Miguel de Tucumán, gracias.",
+        "fecha": "2026-07-10T14:32:38.429Z",
         "sentimiento": "positivo"
       }
     ]
