@@ -40360,17 +40360,22 @@
     "numero": "1224149606529",
     "celular": "+54 9 3814 759-600",
     "nombre": "",
-    "direccion": null,
-    "sentimiento": "positivo",
-    "ultimoMensaje": "Buenos días. Quisiera solicitar el retiro de 5 bolsas con escombro de mi domicilio.",
+    "direccion": "San Miguel 893",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "San Miguel 893",
     "mensaje": "Buenos días. Quisiera solicitar el retiro de 5 bolsas con escombro de mi domicilio.",
     "fecha": "2026-07-10T13:58:42.243Z",
-    "ultimaActualizacion": "2026-07-10T13:58:42.243Z",
+    "ultimaActualizacion": "2026-07-10T14:00:04.774Z",
     "historialMensajes": [
       {
         "texto": "Buenos días. Quisiera solicitar el retiro de 5 bolsas con escombro de mi domicilio.",
         "fecha": "2026-07-10T13:58:42.243Z",
         "sentimiento": "positivo"
+      },
+      {
+        "texto": "San Miguel 893",
+        "fecha": "2026-07-10T14:00:04.774Z",
+        "sentimiento": "neutro"
       }
     ]
   }
