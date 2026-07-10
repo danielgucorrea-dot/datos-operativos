@@ -40355,5 +40355,23 @@
         "sentimiento": "neutro"
       }
     ]
+  },
+  {
+    "numero": "1224149606529",
+    "celular": "+54 9 3814 759-600",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Buenos días. Quisiera solicitar el retiro de 5 bolsas con escombro de mi domicilio.",
+    "mensaje": "Buenos días. Quisiera solicitar el retiro de 5 bolsas con escombro de mi domicilio.",
+    "fecha": "2026-07-10T13:58:42.243Z",
+    "ultimaActualizacion": "2026-07-10T13:58:42.243Z",
+    "historialMensajes": [
+      {
+        "texto": "Buenos días. Quisiera solicitar el retiro de 5 bolsas con escombro de mi domicilio.",
+        "fecha": "2026-07-10T13:58:42.243Z",
+        "sentimiento": "positivo"
+      }
+    ]
   }
 ]
