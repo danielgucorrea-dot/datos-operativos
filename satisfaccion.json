@@ -40653,5 +40653,23 @@
         "sentimiento": "neutro"
       }
     ]
+  },
+  {
+    "numero": "157831625990303",
+    "celular": "+54 9 3816 299-473",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Buenas tardes",
+    "mensaje": "Buenas tardes",
+    "fecha": "2026-07-10T20:43:16.728Z",
+    "ultimaActualizacion": "2026-07-10T20:43:16.728Z",
+    "historialMensajes": [
+      {
+        "texto": "Buenas tardes",
+        "fecha": "2026-07-10T20:43:16.728Z",
+        "sentimiento": "neutro"
+      }
+    ]
   }
 ]
