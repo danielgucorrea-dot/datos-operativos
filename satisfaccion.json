@@ -40057,7 +40057,7 @@
     "ultimoMensaje": "Hola",
     "mensaje": "Hola",
     "fecha": "2026-07-09T02:52:26.427Z",
-    "ultimaActualizacion": "2026-07-10T13:58:07.973Z",
+    "ultimaActualizacion": "2026-07-10T16:33:50.563Z",
     "historialMensajes": [
       {
         "texto": "Hola",
@@ -40072,6 +40072,11 @@
       {
         "texto": "Hola",
         "fecha": "2026-07-10T13:58:07.973Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Hola",
+        "fecha": "2026-07-10T16:33:50.563Z",
         "sentimiento": "neutro"
       }
     ]
