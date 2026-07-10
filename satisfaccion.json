@@ -23630,12 +23630,22 @@
       "Quiero solicitar el retiro de residuos no habituales",
       "Buenos días"
     ],
-    "ultimaActualizacion": "2026-07-10T19:10:49.115Z",
-    "ultimoMensaje": "Buenas tardes",
+    "ultimaActualizacion": "2026-07-10T19:23:47.998Z",
+    "ultimoMensaje": "Arena",
     "historialMensajes": [
       {
         "texto": "Buenas tardes",
         "fecha": "2026-07-10T19:10:49.115Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Restos de Membrana y tierra",
+        "fecha": "2026-07-10T19:23:17.541Z",
+        "sentimiento": "negativo"
+      },
+      {
+        "texto": "Arena",
+        "fecha": "2026-07-10T19:23:47.998Z",
         "sentimiento": "neutro"
       }
     ]
