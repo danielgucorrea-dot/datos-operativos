@@ -40167,5 +40167,33 @@
         "sentimiento": "neutro"
       }
     ]
+  },
+  {
+    "numero": "244186087485647",
+    "celular": "+54 9 3816 596-328",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Buenas",
+    "mensaje": "Buenas",
+    "fecha": "2026-07-10T01:19:18.791Z",
+    "ultimaActualizacion": "2026-07-10T01:19:43.648Z",
+    "historialMensajes": [
+      {
+        "texto": "Buenas",
+        "fecha": "2026-07-10T01:19:18.791Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Quiero hacer una consulta",
+        "fecha": "2026-07-10T01:19:20.719Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Buenas",
+        "fecha": "2026-07-10T01:19:43.648Z",
+        "sentimiento": "neutro"
+      }
+    ]
   }
 ]
