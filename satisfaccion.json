@@ -40472,5 +40472,23 @@
         "sentimiento": "neutro"
       }
     ]
+  },
+  {
+    "numero": "168087957594257",
+    "celular": "+54 9 3813 495-406",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Hola buenas quisiera saber que día podrían pasar por mi domicilio tengo colchón y unos muebles que necesitaría tirar por favor",
+    "mensaje": "Hola buenas quisiera saber que día podrían pasar por mi domicilio tengo colchón y unos muebles que necesitaría tirar por favor",
+    "fecha": "2026-07-10T15:15:45.326Z",
+    "ultimaActualizacion": "2026-07-10T15:15:45.326Z",
+    "historialMensajes": [
+      {
+        "texto": "Hola buenas quisiera saber que día podrían pasar por mi domicilio tengo colchón y unos muebles que necesitaría tirar por favor",
+        "fecha": "2026-07-10T15:15:45.326Z",
+        "sentimiento": "neutro"
+      }
+    ]
   }
 ]
