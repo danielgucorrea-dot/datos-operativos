@@ -40322,5 +40322,23 @@
         "sentimiento": "positivo"
       }
     ]
+  },
+  {
+    "numero": "252166203809908",
+    "celular": "+54 9 3816 446-151",
+    "nombre": "",
+    "direccion": "Pasaje Belisario Lopez 576",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Buen día. Por favor para retirar bolsas de escombros del Pasaje Belisario Lopez 576. Gracias",
+    "mensaje": "Buen día. Por favor para retirar bolsas de escombros del Pasaje Belisario Lopez 576. Gracias",
+    "fecha": "2026-07-10T13:53:39.295Z",
+    "ultimaActualizacion": "2026-07-10T13:53:39.295Z",
+    "historialMensajes": [
+      {
+        "texto": "Buen día. Por favor para retirar bolsas de escombros del Pasaje Belisario Lopez 576. Gracias",
+        "fecha": "2026-07-10T13:53:39.295Z",
+        "sentimiento": "positivo"
+      }
+    ]
   }
 ]
