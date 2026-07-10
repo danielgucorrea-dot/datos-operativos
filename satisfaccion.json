@@ -40210,12 +40210,12 @@
     "numero": "19121278304507",
     "celular": "+54 9 3814 172-323",
     "nombre": "",
-    "direccion": null,
-    "sentimiento": "positivo",
-    "ultimoMensaje": "Buenos días. Tenemos muchos escombros embolsados en la puerta de la casa. Ustedes podrían pasar por ellos? Muchas gracias.",
+    "direccion": "Grimau y Galvez 775",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Pasaje Cayetano Grimau y Galvez 775, entre Rondeau y Bolivar al 1000.",
     "mensaje": "Buenos días. Tenemos muchos escombros embolsados en la puerta de la casa. Ustedes podrían pasar por ellos? Muchas gracias.",
     "fecha": "2026-07-10T12:12:48.587Z",
-    "ultimaActualizacion": "2026-07-10T12:12:51.294Z",
+    "ultimaActualizacion": "2026-07-10T12:19:30.884Z",
     "historialMensajes": [
       {
         "texto": "Buenos días. Tenemos muchos escombros embolsados en la puerta de la casa. Ustedes podrían pasar por ellos? Muchas gracias.",
@@ -40226,6 +40226,29 @@
         "texto": "Buenos días. Tenemos muchos escombros embolsados en la puerta de la casa. Ustedes podrían pasar por ellos? Muchas gracias.",
         "fecha": "2026-07-10T12:12:51.294Z",
         "sentimiento": "positivo"
+      },
+      {
+        "texto": "Pasaje Cayetano Grimau y Galvez 775, entre Rondeau y Bolivar al 1000.",
+        "fecha": "2026-07-10T12:19:30.884Z",
+        "sentimiento": "neutro"
+      }
+    ]
+  },
+  {
+    "numero": "194003790225531",
+    "celular": "+54 9 3816 442-498",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Buen día, quiero solicitar el retiro de residuos no habituales de mi domicilio",
+    "mensaje": "Buen día, quiero solicitar el retiro de residuos no habituales de mi domicilio",
+    "fecha": "2026-07-10T12:19:21.108Z",
+    "ultimaActualizacion": "2026-07-10T12:19:21.108Z",
+    "historialMensajes": [
+      {
+        "texto": "Buen día, quiero solicitar el retiro de residuos no habituales de mi domicilio",
+        "fecha": "2026-07-10T12:19:21.108Z",
+        "sentimiento": "neutro"
       }
     ]
   }
