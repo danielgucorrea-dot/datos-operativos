@@ -40738,16 +40738,21 @@
     "celular": "+54 9 3816 768-108",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "positivo",
-    "ultimoMensaje": "Hola! Tengo escombros y trozos de durlok para retirar. Hay algún día de esta semana que puedan pasar? Es en la san Lorenzo y salta",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Debe estar embolsados de alguna forma específica?",
     "mensaje": "Hola! Tengo escombros y trozos de durlok para retirar. Hay algún día de esta semana que puedan pasar? Es en la san Lorenzo y salta",
     "fecha": "2026-07-10T21:46:04.049Z",
-    "ultimaActualizacion": "2026-07-10T21:46:04.049Z",
+    "ultimaActualizacion": "2026-07-10T21:57:01.959Z",
     "historialMensajes": [
       {
         "texto": "Hola! Tengo escombros y trozos de durlok para retirar. Hay algún día de esta semana que puedan pasar? Es en la san Lorenzo y salta",
         "fecha": "2026-07-10T21:46:04.049Z",
         "sentimiento": "positivo"
+      },
+      {
+        "texto": "Debe estar embolsados de alguna forma específica?",
+        "fecha": "2026-07-10T21:57:01.959Z",
+        "sentimiento": "neutro"
       }
     ]
   }
