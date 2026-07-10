@@ -40439,5 +40439,23 @@
         "sentimiento": "neutro"
       }
     ]
+  },
+  {
+    "numero": "58068058505253",
+    "celular": "+54 9 3815 803-537",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Buen día",
+    "mensaje": "Buen día",
+    "fecha": "2026-07-10T15:04:43.724Z",
+    "ultimaActualizacion": "2026-07-10T15:04:43.724Z",
+    "historialMensajes": [
+      {
+        "texto": "Buen día",
+        "fecha": "2026-07-10T15:04:43.724Z",
+        "sentimiento": "neutro"
+      }
+    ]
   }
 ]
