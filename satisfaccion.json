@@ -40173,11 +40173,11 @@
     "celular": "+54 9 3816 596-328",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Buenas",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Quiero pedir un contenedor nose como se hace si se paga luego lo llevan y así",
     "mensaje": "Buenas",
     "fecha": "2026-07-10T01:19:18.791Z",
-    "ultimaActualizacion": "2026-07-10T01:19:43.648Z",
+    "ultimaActualizacion": "2026-07-10T01:21:22.745Z",
     "historialMensajes": [
       {
         "texto": "Buenas",
@@ -40193,6 +40193,16 @@
         "texto": "Buenas",
         "fecha": "2026-07-10T01:19:43.648Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Quiero hacer una consulta",
+        "fecha": "2026-07-10T01:19:46.390Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Quiero pedir un contenedor nose como se hace si se paga luego lo llevan y así",
+        "fecha": "2026-07-10T01:21:22.745Z",
+        "sentimiento": "positivo"
       }
     ]
   }
