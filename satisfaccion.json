@@ -39653,26 +39653,11 @@
     "nombre": "",
     "direccion": "Pasaje storni 3124",
     "sentimiento": "neutro",
-    "ultimoMensaje": "Buenas tardes",
+    "ultimoMensaje": "Decirme si entre hoy o mañana pasarían a retirar los residuos",
     "mensaje": "Buenos dias",
     "fecha": "2026-07-08T14:00:16.381Z",
-    "ultimaActualizacion": "2026-07-09T18:26:10.088Z",
+    "ultimaActualizacion": "2026-07-10T11:47:30.501Z",
     "historialMensajes": [
-      {
-        "texto": "Buenos dias",
-        "fecha": "2026-07-08T14:00:16.381Z",
-        "sentimiento": "neutro"
-      },
-      {
-        "texto": "Pasaje storni 3124 entre calles diego de rojas y Alberto rougues",
-        "fecha": "2026-07-08T14:00:45.593Z",
-        "sentimiento": "neutro"
-      },
-      {
-        "texto": "Buenos dias",
-        "fecha": "2026-07-08T14:00:57.535Z",
-        "sentimiento": "neutro"
-      },
       {
         "texto": "Tengo que sacar todo ya a la vereda o me avisaran cuando estén por venir",
         "fecha": "2026-07-08T14:01:23.797Z",
@@ -39706,6 +39691,21 @@
       {
         "texto": "Buenas tardes",
         "fecha": "2026-07-09T18:26:10.088Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Buenos dias",
+        "fecha": "2026-07-10T11:47:06.514Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Queria consultar si sabría",
+        "fecha": "2026-07-10T11:47:07.826Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Decirme si entre hoy o mañana pasarían a retirar los residuos",
+        "fecha": "2026-07-10T11:47:30.501Z",
         "sentimiento": "neutro"
       }
     ]
