@@ -40694,5 +40694,33 @@
         "sentimiento": "positivo"
       }
     ]
+  },
+  {
+    "numero": "171240463548563",
+    "celular": "+54 9 3814 171-962",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Necesito me retiren un termotanque sin uso...cómo debo hacer?",
+    "mensaje": "Buenas tardes",
+    "fecha": "2026-07-10T21:25:28.482Z",
+    "ultimaActualizacion": "2026-07-10T21:26:28.013Z",
+    "historialMensajes": [
+      {
+        "texto": "Buenas tardes",
+        "fecha": "2026-07-10T21:25:28.482Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Buenas tardes",
+        "fecha": "2026-07-10T21:25:30.910Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Necesito me retiren un termotanque sin uso...cómo debo hacer?",
+        "fecha": "2026-07-10T21:26:28.013Z",
+        "sentimiento": "positivo"
+      }
+    ]
   }
 ]
