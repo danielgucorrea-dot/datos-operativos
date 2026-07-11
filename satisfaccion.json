@@ -40793,5 +40793,33 @@
         "sentimiento": "neutro"
       }
     ]
+  },
+  {
+    "numero": "277661179994359",
+    "celular": "+54 9 3816 245-090",
+    "nombre": "",
+    "direccion": "pasaje Juana Azurduy 761",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Mi nombre es Carolina Ibarra vivo en pasaje Juana Azurduy 761.",
+    "mensaje": "Buen día! Quisiera hacerle una consulta",
+    "fecha": "2026-07-11T13:51:28.353Z",
+    "ultimaActualizacion": "2026-07-11T13:51:33.571Z",
+    "historialMensajes": [
+      {
+        "texto": "Buen día! Quisiera hacerle una consulta",
+        "fecha": "2026-07-11T13:51:28.353Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Buen día! Quisiera hacerle una consulta",
+        "fecha": "2026-07-11T13:51:30.908Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Mi nombre es Carolina Ibarra vivo en pasaje Juana Azurduy 761.",
+        "fecha": "2026-07-11T13:51:33.571Z",
+        "sentimiento": "neutro"
+      }
+    ]
   }
 ]
