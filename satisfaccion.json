@@ -19505,7 +19505,7 @@
     "celular": "+54 9 3814 721-501",
     "nombre": "",
     "direccion": "",
-    "sentimiento": "positivo",
+    "sentimiento": "neutro",
     "evidencia_clasificacion": [
       "ya lo retiraron"
     ],
@@ -19515,7 +19515,20 @@
     "conversacion_completa": [
       "Gracias ya lo retiraron"
     ],
-    "ultimaActualizacion": "2026-06-01"
+    "ultimaActualizacion": "2026-07-11T13:20:11.920Z",
+    "ultimoMensaje": "Flojo el cartel",
+    "historialMensajes": [
+      {
+        "texto": "Hola, dónde tengo que dar aviso de como dejaron los cordones y mi vereda despues que terminaron una obra  buena en la sanjuan y belisario",
+        "fecha": "2026-07-11T13:18:23.823Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Flojo el cartel",
+        "fecha": "2026-07-11T13:20:11.920Z",
+        "sentimiento": "neutro"
+      }
+    ]
   },
   {
     "numero": "259249091420283",
