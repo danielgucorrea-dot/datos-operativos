@@ -40864,5 +40864,33 @@
         "sentimiento": "neutro"
       }
     ]
+  },
+  {
+    "numero": "176188182032464",
+    "celular": "+54 9 3815 114-904",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Soy de manantial sur 2500 viviendas..sector b",
+    "mensaje": "Buenas tardes...mi nombre es juan garcia y quería denuncia un basura en mi barrio",
+    "fecha": "2026-07-11T18:44:38.424Z",
+    "ultimaActualizacion": "2026-07-11T18:45:40.565Z",
+    "historialMensajes": [
+      {
+        "texto": "Buenas tardes...mi nombre es juan garcia y quería denuncia un basura en mi barrio",
+        "fecha": "2026-07-11T18:44:38.424Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Buenas tardes...mi nombre es juan garcia y quería denuncia un basura en mi barrio",
+        "fecha": "2026-07-11T18:44:40.975Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Soy de manantial sur 2500 viviendas..sector b",
+        "fecha": "2026-07-11T18:45:40.565Z",
+        "sentimiento": "neutro"
+      }
+    ]
   }
 ]
