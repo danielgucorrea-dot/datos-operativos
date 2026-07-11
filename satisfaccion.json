@@ -19515,8 +19515,8 @@
     "conversacion_completa": [
       "Gracias ya lo retiraron"
     ],
-    "ultimaActualizacion": "2026-07-11T13:22:46.273Z",
-    "ultimoMensaje": "Rompieron todo el cordon y mi vereda, dejaron asi",
+    "ultimaActualizacion": "2026-07-11T13:22:53.040Z",
+    "ultimoMensaje": "Sin arreglar",
     "historialMensajes": [
       {
         "texto": "Hola, dónde tengo que dar aviso de como dejaron los cordones y mi vereda despues que terminaron una obra  buena en la sanjuan y belisario",
@@ -19536,6 +19536,11 @@
       {
         "texto": "Rompieron todo el cordon y mi vereda, dejaron asi",
         "fecha": "2026-07-11T13:22:46.273Z",
+        "sentimiento": "negativo"
+      },
+      {
+        "texto": "Sin arreglar",
+        "fecha": "2026-07-11T13:22:53.040Z",
         "sentimiento": "negativo"
       }
     ]
