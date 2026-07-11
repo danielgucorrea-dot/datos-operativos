@@ -40930,5 +40930,33 @@
         "sentimiento": "negativo"
       }
     ]
+  },
+  {
+    "numero": "57338316767421",
+    "celular": "+54 9 3814 755-963",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Mi dirección es las heras 1579",
+    "mensaje": "Hola buenas tardes , para consultar x un contenedor  para cacherrerios?",
+    "fecha": "2026-07-11T21:03:50.657Z",
+    "ultimaActualizacion": "2026-07-11T21:04:31.904Z",
+    "historialMensajes": [
+      {
+        "texto": "Hola buenas tardes , para consultar x un contenedor  para cacherrerios?",
+        "fecha": "2026-07-11T21:03:50.657Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Hola buenas tardes , para consultar x un contenedor  para cacherrerios?",
+        "fecha": "2026-07-11T21:03:53.355Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Mi dirección es las heras 1579",
+        "fecha": "2026-07-11T21:04:31.904Z",
+        "sentimiento": "neutro"
+      }
+    ]
   }
 ]
