@@ -40871,10 +40871,10 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "neutro",
-    "ultimoMensaje": "Soy de manantial sur 2500 viviendas..sector b",
+    "ultimoMensaje": "Quería denuncia que hay unas personas del barrio que sacan basuras y las tiran en la esquina de mi casa...tiran de todo tipo de basura..hasta un perro muerto tiraron la otra ves..yo quería saber si ustedes me podrían dar una solución por favor",
     "mensaje": "Buenas tardes...mi nombre es juan garcia y quería denuncia un basura en mi barrio",
     "fecha": "2026-07-11T18:44:38.424Z",
-    "ultimaActualizacion": "2026-07-11T18:45:40.565Z",
+    "ultimaActualizacion": "2026-07-11T18:47:42.958Z",
     "historialMensajes": [
       {
         "texto": "Buenas tardes...mi nombre es juan garcia y quería denuncia un basura en mi barrio",
@@ -40889,6 +40889,11 @@
       {
         "texto": "Soy de manantial sur 2500 viviendas..sector b",
         "fecha": "2026-07-11T18:45:40.565Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Quería denuncia que hay unas personas del barrio que sacan basuras y las tiran en la esquina de mi casa...tiran de todo tipo de basura..hasta un perro muerto tiraron la otra ves..yo quería saber si us",
+        "fecha": "2026-07-11T18:47:42.958Z",
         "sentimiento": "neutro"
       }
     ]
