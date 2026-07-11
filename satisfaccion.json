@@ -40831,5 +40831,28 @@
         "sentimiento": "positivo"
       }
     ]
+  },
+  {
+    "numero": "145393417490598",
+    "celular": "+54 9 3813 983-175",
+    "nombre": "",
+    "direccion": "Constitución 1937",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Constitución 1937",
+    "mensaje": "Hola",
+    "fecha": "2026-07-11T15:05:41.305Z",
+    "ultimaActualizacion": "2026-07-11T15:06:11.109Z",
+    "historialMensajes": [
+      {
+        "texto": "Hola",
+        "fecha": "2026-07-11T15:05:41.305Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Constitución 1937",
+        "fecha": "2026-07-11T15:06:11.109Z",
+        "sentimiento": "neutro"
+      }
+    ]
   }
 ]
