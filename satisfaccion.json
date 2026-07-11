@@ -40907,5 +40907,28 @@
         "sentimiento": "neutro"
       }
     ]
+  },
+  {
+    "numero": "94768470188217",
+    "celular": "+54 9 3815 532-851",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "negativo",
+    "ultimoMensaje": "Buenas tardes necesito saber donde puedo hacer un reclamo por el basurero  que pasa en el camión\nYa tuve inconvenientes hace un tiempo atrás \nNo levantaba la basura \nEra según el porque no podía pasar \nListo lo solucionamos \nAhora este hombre que entre paréntesis  es muy atrevido no levanta todo \nEn ciertas ocacioneshay mucha  basura en la vereda \nWs porque en mi terreno hay 4 departamentos \nPero e pasa y grita \n A la mierda que sacaron basura \nAhora ultimamente levanta las bolsas y no se si lo hace a proposito las rompe no todas pero siempre una rompe y la rebolea a la vereda \nYa los otros dias salio mi hijo y lo vio \nPido ,suplico que lo cambien de zona ya que quiero evitar problemas\nLe pido tenga en cuenta mi pedido desde ya muchas gracias \nPasaje campo de las carreras 1683 Ciudadela es mi direccion",
+    "mensaje": "Buenas tardes necesito saber donde puedo hacer un reclamo por el basurero  que pasa en el camión\nYa tuve inconvenientes hace un tiempo atrás \nNo levantaba la basura \nEra según el porque no podía pasar \nListo lo solucionamos \nAhora este hombre que entre paréntesis  es muy atrevido no levanta todo \nEn ciertas ocacioneshay mucha  basura en la vereda \nWs porque en mi terreno hay 4 departamentos \nPero e pasa y grita \n A la mierda que sacaron basura \nAhora ultimamente levanta las bolsas y no se si lo hace a proposito las rompe no todas pero siempre una rompe y la rebolea a la vereda \nYa los otros dias salio mi hijo y lo vio \nPido ,suplico que lo cambien de zona ya que quiero evitar problemas\nLe pido tenga en cuenta mi pedido desde ya muchas gracias \nPasaje campo de las carreras 1683 Ciudadela es mi direccion",
+    "fecha": "2026-07-11T19:12:42.850Z",
+    "ultimaActualizacion": "2026-07-11T19:12:45.484Z",
+    "historialMensajes": [
+      {
+        "texto": "Buenas tardes necesito saber donde puedo hacer un reclamo por el basurero  que pasa en el camión\nYa tuve inconvenientes hace un tiempo atrás \nNo levantaba la basura \nEra según el porque no podía pasar",
+        "fecha": "2026-07-11T19:12:42.850Z",
+        "sentimiento": "negativo"
+      },
+      {
+        "texto": "Buenas tardes necesito saber donde puedo hacer un reclamo por el basurero  que pasa en el camión\nYa tuve inconvenientes hace un tiempo atrás \nNo levantaba la basura \nEra según el porque no podía pasar",
+        "fecha": "2026-07-11T19:12:45.484Z",
+        "sentimiento": "negativo"
+      }
+    ]
   }
 ]
