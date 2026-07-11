@@ -40799,11 +40799,11 @@
     "celular": "+54 9 3816 245-090",
     "nombre": "",
     "direccion": "pasaje Juana Azurduy 761",
-    "sentimiento": "negativo",
-    "ultimoMensaje": "Quisiera saber porque cuando pasa el camión de recolección de basura NO LEVANTA MI BOLSA DE CONSORCIO. Lleva en la vereda desde el día martes 7 miércoles 8. Viernes 10 y hoy sábado 11/07 /2026. A todos mis vecinos les recogen las bolsas.. pero en casa no.. porque?",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Lo saco por la noches justamente porque por aquí pasa tipo 5:30 a 6 de la mañana.. pero no levantan la bolsa.. me mudé hace poco por eso no tengo por el momento cesto de basura.. pero la bolsa es visible. Por favor necesito que lleven",
     "mensaje": "Buen día! Quisiera hacerle una consulta",
     "fecha": "2026-07-11T13:51:28.353Z",
-    "ultimaActualizacion": "2026-07-11T13:53:25.191Z",
+    "ultimaActualizacion": "2026-07-11T14:07:13.678Z",
     "historialMensajes": [
       {
         "texto": "Buen día! Quisiera hacerle una consulta",
@@ -40824,6 +40824,11 @@
         "texto": "Quisiera saber porque cuando pasa el camión de recolección de basura NO LEVANTA MI BOLSA DE CONSORCIO. Lleva en la vereda desde el día martes 7 miércoles 8. Viernes 10 y hoy sábado 11/07 /2026. A todo",
         "fecha": "2026-07-11T13:53:25.191Z",
         "sentimiento": "negativo"
+      },
+      {
+        "texto": "Lo saco por la noches justamente porque por aquí pasa tipo 5:30 a 6 de la mañana.. pero no levantan la bolsa.. me mudé hace poco por eso no tengo por el momento cesto de basura.. pero la bolsa es visi",
+        "fecha": "2026-07-11T14:07:13.678Z",
+        "sentimiento": "positivo"
       }
     ]
   }
