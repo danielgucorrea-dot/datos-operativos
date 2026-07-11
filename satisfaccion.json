@@ -19505,7 +19505,7 @@
     "celular": "+54 9 3814 721-501",
     "nombre": "",
     "direccion": "San Juan al 4200",
-    "sentimiento": "negativo",
+    "sentimiento": "positivo",
     "evidencia_clasificacion": [
       "ya lo retiraron"
     ],
@@ -19515,8 +19515,8 @@
     "conversacion_completa": [
       "Gracias ya lo retiraron"
     ],
-    "ultimaActualizacion": "2026-07-11T13:22:53.040Z",
-    "ultimoMensaje": "Sin arreglar",
+    "ultimaActualizacion": "2026-07-11T13:23:16.395Z",
+    "ultimoMensaje": "Toda la la basura quedo en los cordones",
     "historialMensajes": [
       {
         "texto": "Hola, dónde tengo que dar aviso de como dejaron los cordones y mi vereda despues que terminaron una obra  buena en la sanjuan y belisario",
@@ -19542,6 +19542,11 @@
         "texto": "Sin arreglar",
         "fecha": "2026-07-11T13:22:53.040Z",
         "sentimiento": "negativo"
+      },
+      {
+        "texto": "Toda la la basura quedo en los cordones",
+        "fecha": "2026-07-11T13:23:16.395Z",
+        "sentimiento": "positivo"
       }
     ]
   },
