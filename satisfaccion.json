@@ -40871,10 +40871,10 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "neutro",
-    "ultimoMensaje": "Quería denuncia que hay unas personas del barrio que sacan basuras y las tiran en la esquina de mi casa...tiran de todo tipo de basura..hasta un perro muerto tiraron la otra ves..yo quería saber si ustedes me podrían dar una solución por favor",
+    "ultimoMensaje": "Yo los conozco y se donde viven",
     "mensaje": "Buenas tardes...mi nombre es juan garcia y quería denuncia un basura en mi barrio",
     "fecha": "2026-07-11T18:44:38.424Z",
-    "ultimaActualizacion": "2026-07-11T18:47:42.958Z",
+    "ultimaActualizacion": "2026-07-11T18:48:43.900Z",
     "historialMensajes": [
       {
         "texto": "Buenas tardes...mi nombre es juan garcia y quería denuncia un basura en mi barrio",
@@ -40894,6 +40894,16 @@
       {
         "texto": "Quería denuncia que hay unas personas del barrio que sacan basuras y las tiran en la esquina de mi casa...tiran de todo tipo de basura..hasta un perro muerto tiraron la otra ves..yo quería saber si us",
         "fecha": "2026-07-11T18:47:42.958Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Ese es el basural, y los que tiran la basura ahi",
+        "fecha": "2026-07-11T18:48:41.014Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Yo los conozco y se donde viven",
+        "fecha": "2026-07-11T18:48:43.900Z",
         "sentimiento": "neutro"
       }
     ]
