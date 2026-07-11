@@ -19504,7 +19504,7 @@
     "numero": "149250197438486",
     "celular": "+54 9 3814 721-501",
     "nombre": "",
-    "direccion": "",
+    "direccion": "San Juan al 4200",
     "sentimiento": "neutro",
     "evidencia_clasificacion": [
       "ya lo retiraron"
@@ -19515,8 +19515,8 @@
     "conversacion_completa": [
       "Gracias ya lo retiraron"
     ],
-    "ultimaActualizacion": "2026-07-11T13:20:11.920Z",
-    "ultimoMensaje": "Flojo el cartel",
+    "ultimaActualizacion": "2026-07-11T13:22:27.668Z",
+    "ultimoMensaje": "San Juan al 4200",
     "historialMensajes": [
       {
         "texto": "Hola, dónde tengo que dar aviso de como dejaron los cordones y mi vereda despues que terminaron una obra  buena en la sanjuan y belisario",
@@ -19526,6 +19526,11 @@
       {
         "texto": "Flojo el cartel",
         "fecha": "2026-07-11T13:20:11.920Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "San Juan al 4200",
+        "fecha": "2026-07-11T13:22:27.668Z",
         "sentimiento": "neutro"
       }
     ]
