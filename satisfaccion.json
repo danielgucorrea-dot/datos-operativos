@@ -40838,10 +40838,10 @@
     "nombre": "",
     "direccion": "Constitución 1937",
     "sentimiento": "neutro",
-    "ultimoMensaje": "Constitución 1937",
+    "ultimoMensaje": "San Miguel de Tucumán",
     "mensaje": "Hola",
     "fecha": "2026-07-11T15:05:41.305Z",
-    "ultimaActualizacion": "2026-07-11T15:06:11.109Z",
+    "ultimaActualizacion": "2026-07-11T15:06:17.044Z",
     "historialMensajes": [
       {
         "texto": "Hola",
@@ -40851,6 +40851,11 @@
       {
         "texto": "Constitución 1937",
         "fecha": "2026-07-11T15:06:11.109Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "San Miguel de Tucumán",
+        "fecha": "2026-07-11T15:06:17.044Z",
         "sentimiento": "neutro"
       }
     ]
