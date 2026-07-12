@@ -40965,14 +40965,24 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "neutro",
-    "ultimoMensaje": "Hola buenas",
+    "ultimoMensaje": "En esta zona",
     "mensaje": "Hola buenas",
     "fecha": "2026-07-12T12:26:42.568Z",
-    "ultimaActualizacion": "2026-07-12T12:26:42.568Z",
+    "ultimaActualizacion": "2026-07-12T12:26:46.088Z",
     "historialMensajes": [
       {
         "texto": "Hola buenas",
         "fecha": "2026-07-12T12:26:42.568Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Quería preguntar a qué hora pasa el basurero",
+        "fecha": "2026-07-12T12:26:44.755Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "En esta zona",
+        "fecha": "2026-07-12T12:26:46.088Z",
         "sentimiento": "neutro"
       }
     ]
