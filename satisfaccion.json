@@ -40986,5 +40986,23 @@
         "sentimiento": "neutro"
       }
     ]
+  },
+  {
+    "numero": "57161988214797",
+    "celular": "+54 9 3815 748-544",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Hola buen día",
+    "mensaje": "Hola buen día",
+    "fecha": "2026-07-12T12:53:59.045Z",
+    "ultimaActualizacion": "2026-07-12T12:53:59.045Z",
+    "historialMensajes": [
+      {
+        "texto": "Hola buen día",
+        "fecha": "2026-07-12T12:53:59.045Z",
+        "sentimiento": "neutro"
+      }
+    ]
   }
 ]
