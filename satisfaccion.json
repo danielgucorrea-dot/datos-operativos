@@ -41045,5 +41045,28 @@
         "sentimiento": "positivo"
       }
     ]
+  },
+  {
+    "numero": "154305357205625",
+    "celular": "+54 9 3813 441-210",
+    "nombre": "",
+    "direccion": "Barrio independencia",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Quiero el contenedor de vuelta gracias",
+    "mensaje": "Barrio independencia",
+    "fecha": "2026-07-12T22:31:24.323Z",
+    "ultimaActualizacion": "2026-07-12T22:32:07.367Z",
+    "historialMensajes": [
+      {
+        "texto": "Barrio independencia",
+        "fecha": "2026-07-12T22:31:24.323Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Quiero el contenedor de vuelta gracias",
+        "fecha": "2026-07-12T22:32:07.367Z",
+        "sentimiento": "positivo"
+      }
+    ]
   }
 ]
