@@ -40958,5 +40958,23 @@
         "sentimiento": "neutro"
       }
     ]
+  },
+  {
+    "numero": "94434167402541",
+    "celular": "+54 9 3816 441-042",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Hola buenas",
+    "mensaje": "Hola buenas",
+    "fecha": "2026-07-12T12:26:42.568Z",
+    "ultimaActualizacion": "2026-07-12T12:26:42.568Z",
+    "historialMensajes": [
+      {
+        "texto": "Hola buenas",
+        "fecha": "2026-07-12T12:26:42.568Z",
+        "sentimiento": "neutro"
+      }
+    ]
   }
 ]
