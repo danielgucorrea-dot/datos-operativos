@@ -41022,5 +41022,28 @@
         "sentimiento": "neutro"
       }
     ]
+  },
+  {
+    "numero": "12589203513455",
+    "celular": "+54 9 3815 847-739",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Necesito recolección de poda. Envío foto y punto GPS.",
+    "mensaje": "Hola",
+    "fecha": "2026-07-12T20:20:53.293Z",
+    "ultimaActualizacion": "2026-07-12T20:21:12.861Z",
+    "historialMensajes": [
+      {
+        "texto": "Hola",
+        "fecha": "2026-07-12T20:20:53.293Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Necesito recolección de poda. Envío foto y punto GPS.",
+        "fecha": "2026-07-12T20:21:12.861Z",
+        "sentimiento": "positivo"
+      }
+    ]
   }
 ]
