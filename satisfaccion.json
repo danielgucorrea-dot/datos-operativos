@@ -39489,11 +39489,11 @@
     "celular": "+54 9 3815 677-061",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Buenas",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Primero que nada, gracias por  el servicio para retirar los residuos",
     "mensaje": "Buen día!",
     "fecha": "2026-07-07T12:36:58.156Z",
-    "ultimaActualizacion": "2026-07-13T14:54:58.515Z",
+    "ultimaActualizacion": "2026-07-13T15:39:39.782Z",
     "historialMensajes": [
       {
         "texto": "Buen día!",
@@ -39514,6 +39514,11 @@
         "texto": "Buenas",
         "fecha": "2026-07-13T14:54:58.515Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Primero que nada, gracias por  el servicio para retirar los residuos",
+        "fecha": "2026-07-13T15:39:39.782Z",
+        "sentimiento": "positivo"
       }
     ]
   },
@@ -42066,6 +42071,24 @@
         "texto": "Ya retiraron los residuos",
         "fecha": "2026-07-13T15:29:52.882Z",
         "sentimiento": "positivo"
+      }
+    ]
+  },
+  {
+    "numero": "275672576581876",
+    "celular": "+54 9 3813 591-194",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "negativo",
+    "ultimoMensaje": "Hola buenos días quería hacer cortar ese árbol llame muchas veces pero bueno me dicen si pero no vienen quiero hacerlo cortar  desde el piso a un metro no sacar porque se me rompería la vereda",
+    "mensaje": "Hola buenos días quería hacer cortar ese árbol llame muchas veces pero bueno me dicen si pero no vienen quiero hacerlo cortar  desde el piso a un metro no sacar porque se me rompería la vereda",
+    "fecha": "2026-07-13T15:39:51.943Z",
+    "ultimaActualizacion": "2026-07-13T15:39:51.943Z",
+    "historialMensajes": [
+      {
+        "texto": "Hola buenos días quería hacer cortar ese árbol llame muchas veces pero bueno me dicen si pero no vienen quiero hacerlo cortar  desde el piso a un metro no sacar porque se me rompería la vereda",
+        "fecha": "2026-07-13T15:39:51.943Z",
+        "sentimiento": "negativo"
       }
     ]
   }
