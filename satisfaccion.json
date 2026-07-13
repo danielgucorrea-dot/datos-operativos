@@ -42677,5 +42677,28 @@
         "sentimiento": "positivo"
       }
     ]
+  },
+  {
+    "numero": "68556452577375",
+    "celular": "+54 9 3814 013-352",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Me comunico para solicitar por favor el  retiro de electrodomésticos (📺 tv viejos para tirar) son 9. En mi domicilio",
+    "mensaje": "Buenas tardes",
+    "fecha": "2026-07-13T21:49:42.142Z",
+    "ultimaActualizacion": "2026-07-13T21:52:03.822Z",
+    "historialMensajes": [
+      {
+        "texto": "Buenas tardes",
+        "fecha": "2026-07-13T21:49:42.142Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Me comunico para solicitar por favor el  retiro de electrodomésticos (📺 tv viejos para tirar) son 9. En mi domicilio",
+        "fecha": "2026-07-13T21:52:03.822Z",
+        "sentimiento": "positivo"
+      }
+    ]
   }
 ]
