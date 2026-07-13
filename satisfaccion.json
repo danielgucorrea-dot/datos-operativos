@@ -6909,7 +6909,7 @@
     "celular": "+54 9 3813 640-517",
     "nombre": "",
     "direccion": "Don Bosco 3927",
-    "sentimiento": "positivo",
+    "sentimiento": "neutro",
     "evidencia_clasificacion": [],
     "canal": "WhatsApp Ambiente",
     "fecha": "2026-06-23",
@@ -6925,13 +6925,18 @@
       "Buen día",
       "Buenos días"
     ],
-    "ultimaActualizacion": "2026-07-13T12:33:27.196Z",
-    "ultimoMensaje": "Buen día. Para retirar ramas de una planta.",
+    "ultimaActualizacion": "2026-07-13T12:33:40.688Z",
+    "ultimoMensaje": "Don Bosco 3927",
     "historialMensajes": [
       {
         "texto": "Buen día. Para retirar ramas de una planta.",
         "fecha": "2026-07-13T12:33:27.196Z",
         "sentimiento": "positivo"
+      },
+      {
+        "texto": "Don Bosco 3927",
+        "fecha": "2026-07-13T12:33:40.688Z",
+        "sentimiento": "neutro"
       }
     ]
   },
