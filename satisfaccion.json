@@ -39764,17 +39764,12 @@
     "celular": "+54 9 3815 208-324",
     "nombre": "",
     "direccion": "Pasaje storni 3124",
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Buen dia",
+    "sentimiento": "negativo",
+    "ultimoMensaje": "Si aun no lo retiraron",
     "mensaje": "Buenos dias",
     "fecha": "2026-07-08T14:00:16.381Z",
-    "ultimaActualizacion": "2026-07-13T12:14:26.866Z",
+    "ultimaActualizacion": "2026-07-13T12:14:39.543Z",
     "historialMensajes": [
-      {
-        "texto": "Es una cama un ventilador y un tender",
-        "fecha": "2026-07-08T14:03:37.363Z",
-        "sentimiento": "neutro"
-      },
       {
         "texto": "Nada más que esta desarmada puedo dejar la parrilla y que lo demás se lo lleven",
         "fecha": "2026-07-08T14:06:08.732Z",
@@ -39819,6 +39814,11 @@
         "texto": "Buen dia",
         "fecha": "2026-07-13T12:14:26.866Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Si aun no lo retiraron",
+        "fecha": "2026-07-13T12:14:39.543Z",
+        "sentimiento": "negativo"
       }
     ]
   },
