@@ -40536,10 +40536,10 @@
     "nombre": "",
     "direccion": "barrio Obispo Piedra Buena",
     "sentimiento": "negativo",
-    "ultimoMensaje": "Pasa todo el dia el camion y no lo ve??",
+    "ultimoMensaje": "O sea q si yo no reclamo y encima tengo q mandar foto, nadie se encarga de esto!!! Q bien!!!!",
     "mensaje": "Buenos dias! Podrian pasar a recoger las ramas de mi domicilio? Ya llevan alli una semana , xf",
     "fecha": "2026-07-10T13:51:30.956Z",
-    "ultimaActualizacion": "2026-07-13T12:21:35.894Z",
+    "ultimaActualizacion": "2026-07-13T12:40:53.351Z",
     "historialMensajes": [
       {
         "texto": "Buenos dias! Podrian pasar a recoger las ramas de mi domicilio? Ya llevan alli una semana , xf",
@@ -40569,6 +40569,11 @@
       {
         "texto": "Pasa todo el dia el camion y no lo ve??",
         "fecha": "2026-07-13T12:21:35.894Z",
+        "sentimiento": "negativo"
+      },
+      {
+        "texto": "O sea q si yo no reclamo y encima tengo q mandar foto, nadie se encarga de esto!!! Q bien!!!!",
+        "fecha": "2026-07-13T12:40:53.351Z",
         "sentimiento": "negativo"
       }
     ]
