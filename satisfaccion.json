@@ -41112,10 +41112,10 @@
     "nombre": "",
     "direccion": "Constitución 1937",
     "sentimiento": "neutro",
-    "ultimoMensaje": "Se puede solicitar un contenedor?",
+    "ultimoMensaje": "Ah bien perdón usted sabe dónde puedo solicitar un contenedor?",
     "mensaje": "Hola",
     "fecha": "2026-07-11T15:05:41.305Z",
-    "ultimaActualizacion": "2026-07-13T14:20:52.046Z",
+    "ultimaActualizacion": "2026-07-13T14:28:24.381Z",
     "historialMensajes": [
       {
         "texto": "Hola",
@@ -41145,6 +41145,11 @@
       {
         "texto": "Se puede solicitar un contenedor?",
         "fecha": "2026-07-13T14:20:52.046Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Ah bien perdón usted sabe dónde puedo solicitar un contenedor?",
+        "fecha": "2026-07-13T14:28:24.381Z",
         "sentimiento": "neutro"
       }
     ]
