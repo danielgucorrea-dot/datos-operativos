@@ -41500,11 +41500,11 @@
     "celular": "+54 9 3813 862-692",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "negativo",
-    "ultimoMensaje": "Nesecito el servicio de recoleccion",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Es para recoger ramas del arbol q fue podado",
     "mensaje": "Buenos dias",
     "fecha": "2026-07-13T12:35:14.200Z",
-    "ultimaActualizacion": "2026-07-13T12:39:36.070Z",
+    "ultimaActualizacion": "2026-07-13T14:58:41.580Z",
     "historialMensajes": [
       {
         "texto": "Buenos dias",
@@ -41515,6 +41515,11 @@
         "texto": "Nesecito el servicio de recoleccion",
         "fecha": "2026-07-13T12:39:36.070Z",
         "sentimiento": "negativo"
+      },
+      {
+        "texto": "Es para recoger ramas del arbol q fue podado",
+        "fecha": "2026-07-13T14:58:41.580Z",
+        "sentimiento": "positivo"
       }
     ]
   },
