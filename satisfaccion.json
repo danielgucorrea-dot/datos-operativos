@@ -41619,16 +41619,21 @@
     "celular": "+54 9 3815 082-060",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Buenos días",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Para retiro de residuos de poda",
     "mensaje": "Buenos días",
     "fecha": "2026-07-13T14:10:30.772Z",
-    "ultimaActualizacion": "2026-07-13T14:10:30.772Z",
+    "ultimaActualizacion": "2026-07-13T14:10:37.876Z",
     "historialMensajes": [
       {
         "texto": "Buenos días",
         "fecha": "2026-07-13T14:10:30.772Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Para retiro de residuos de poda",
+        "fecha": "2026-07-13T14:10:37.876Z",
+        "sentimiento": "positivo"
       }
     ]
   }
