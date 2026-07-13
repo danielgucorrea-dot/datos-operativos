@@ -2053,7 +2053,7 @@
     "celular": "+54 9 3816 222-164",
     "nombre": "",
     "direccion": "",
-    "sentimiento": "negativo",
+    "sentimiento": "positivo",
     "evidencia_clasificacion": [
       "no vinieron"
     ],
@@ -2089,13 +2089,18 @@
       "Ya Made del teléfono de mi hijo",
       "Hola pran retira la basura no avituale de mi domicilio"
     ],
-    "ultimaActualizacion": "2026-07-08T17:52:56.844Z",
-    "ultimoMensaje": "Dicupe noca vinieron a retirar la basura de la bereda que me dijeron que la tenía dejar",
+    "ultimaActualizacion": "2026-07-13T20:44:20.536Z",
+    "ultimoMensaje": "Gracias pero ya  la basura la sacaron",
     "historialMensajes": [
       {
         "texto": "Dicupe noca vinieron a retirar la basura de la bereda que me dijeron que la tenía dejar",
         "fecha": "2026-07-08T17:52:56.844Z",
         "sentimiento": "negativo"
+      },
+      {
+        "texto": "Gracias pero ya  la basura la sacaron",
+        "fecha": "2026-07-13T20:44:20.536Z",
+        "sentimiento": "positivo"
       }
     ]
   },
@@ -42569,6 +42574,24 @@
       {
         "texto": "Buenas tardes, soy un vecino de Barrio Congreso calle Mejico 4500\nQuería saber si me pueden retirar las ramas de una poda de un árbol ficus , por favor",
         "fecha": "2026-07-13T19:49:54.489Z",
+        "sentimiento": "positivo"
+      }
+    ]
+  },
+  {
+    "numero": "265716875952231",
+    "celular": "+54 9 3815 696-998",
+    "nombre": "",
+    "direccion": "pasaje garibaldi 48",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Buenas tardes para solicitar el retiro de 5 bolsas de escombros en pasaje garibaldi 48",
+    "mensaje": "Buenas tardes para solicitar el retiro de 5 bolsas de escombros en pasaje garibaldi 48",
+    "fecha": "2026-07-13T20:43:40.688Z",
+    "ultimaActualizacion": "2026-07-13T20:43:40.688Z",
+    "historialMensajes": [
+      {
+        "texto": "Buenas tardes para solicitar el retiro de 5 bolsas de escombros en pasaje garibaldi 48",
+        "fecha": "2026-07-13T20:43:40.688Z",
         "sentimiento": "positivo"
       }
     ]
