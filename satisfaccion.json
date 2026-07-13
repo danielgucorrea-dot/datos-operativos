@@ -41588,11 +41588,11 @@
     "celular": "+54 9 3816 684-407",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "neutro",
-    "ultimoMensaje": "si...ya lo pase",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "ok ya mando",
     "mensaje": "buen dia",
     "fecha": "2026-07-13T12:35:57.936Z",
-    "ultimaActualizacion": "2026-07-13T14:50:59.221Z",
+    "ultimaActualizacion": "2026-07-13T15:28:35.868Z",
     "historialMensajes": [
       {
         "texto": "buen dia",
@@ -41613,6 +41613,11 @@
         "texto": "si...ya lo pase",
         "fecha": "2026-07-13T14:50:59.221Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "ok ya mando",
+        "fecha": "2026-07-13T15:28:35.868Z",
+        "sentimiento": "positivo"
       }
     ]
   },
