@@ -42165,10 +42165,10 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "neutro",
-    "ultimoMensaje": "Me pasaron este número como del programa SE PA RÁ",
+    "ultimoMensaje": "Son bolsas de consorcio con papeles, ahora no tengo fotos",
     "mensaje": "Buenos días, quería solicitar su servicio",
     "fecha": "2026-07-13T15:23:32.459Z",
-    "ultimaActualizacion": "2026-07-13T15:46:40.568Z",
+    "ultimaActualizacion": "2026-07-13T16:31:20.621Z",
     "historialMensajes": [
       {
         "texto": "Buenos días, quería solicitar su servicio",
@@ -42183,6 +42183,11 @@
       {
         "texto": "Me pasaron este número como del programa SE PA RÁ",
         "fecha": "2026-07-13T15:46:40.568Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Son bolsas de consorcio con papeles, ahora no tengo fotos",
+        "fecha": "2026-07-13T16:31:20.621Z",
         "sentimiento": "neutro"
       }
     ]
