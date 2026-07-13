@@ -1111,7 +1111,7 @@
     "celular": "+54 9 3813 858-416",
     "nombre": "",
     "direccion": "barrio ciudad parque",
-    "sentimiento": "positivo",
+    "sentimiento": "neutro",
     "evidencia_clasificacion": [
       "no\\s+pasa",
       "no\\s+llega"
@@ -1133,8 +1133,8 @@
       "Genial si es para solicitar recolección de escombros ya los tengo en la vereda en bolsas",
       "Hola buen día"
     ],
-    "ultimaActualizacion": "2026-07-08T18:17:27.407Z",
-    "ultimoMensaje": "Hola buen día se puede llamar a este número o que número puedo llamar o que dirección me puedo acercar para hacer el pedido para q me retiren el escombro q tengo en la vereda gracias y bendiciones",
+    "ultimaActualizacion": "2026-07-13T14:05:11.735Z",
+    "ultimoMensaje": "Hola buen día si ya lo solicite varias veces y no pasan todavía lo saque así porque uds me dijeron que lo saque así de esa forma para retirarlo con la pala 😌",
     "historialMensajes": [
       {
         "texto": "Hola buenos dias",
@@ -1150,6 +1150,11 @@
         "texto": "Hola buen día se puede llamar a este número o que número puedo llamar o que dirección me puedo acercar para hacer el pedido para q me retiren el escombro q tengo en la vereda gracias y bendiciones",
         "fecha": "2026-07-08T18:17:27.407Z",
         "sentimiento": "positivo"
+      },
+      {
+        "texto": "Hola buen día si ya lo solicite varias veces y no pasan todavía lo saque así porque uds me dijeron que lo saque así de esa forma para retirarlo con la pala 😌",
+        "fecha": "2026-07-13T14:05:11.735Z",
+        "sentimiento": "neutro"
       }
     ]
   },
@@ -40941,11 +40946,11 @@
     "celular": "+54 9 3816 299-473",
     "nombre": "",
     "direccion": "Santiago 2291",
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Santiago 2291",
+    "sentimiento": "negativo",
+    "ultimoMensaje": "Buen dia.Si. Basura en la vía pública como lo muestra la imagen",
     "mensaje": "Buenas tardes",
     "fecha": "2026-07-10T20:43:16.728Z",
-    "ultimaActualizacion": "2026-07-10T21:27:50.502Z",
+    "ultimaActualizacion": "2026-07-13T14:02:41.409Z",
     "historialMensajes": [
       {
         "texto": "Buenas tardes",
@@ -40956,6 +40961,11 @@
         "texto": "Santiago 2291",
         "fecha": "2026-07-10T21:27:50.502Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Buen dia.Si. Basura en la vía pública como lo muestra la imagen",
+        "fecha": "2026-07-13T14:02:41.409Z",
+        "sentimiento": "negativo"
       }
     ]
   },
