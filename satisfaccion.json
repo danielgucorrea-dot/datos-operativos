@@ -41557,5 +41557,23 @@
         "sentimiento": "neutro"
       }
     ]
+  },
+  {
+    "numero": "263006785155159",
+    "celular": "+54 9 3816 499-655",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Hola buenos días.",
+    "mensaje": "Hola buenos días.",
+    "fecha": "2026-07-13T14:06:30.862Z",
+    "ultimaActualizacion": "2026-07-13T14:06:30.862Z",
+    "historialMensajes": [
+      {
+        "texto": "Hola buenos días.",
+        "fecha": "2026-07-13T14:06:30.862Z",
+        "sentimiento": "neutro"
+      }
+    ]
   }
 ]
