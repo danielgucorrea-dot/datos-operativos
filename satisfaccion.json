@@ -41374,11 +41374,11 @@
     "celular": "+54 9 3815 748-544",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Tengo bastante en la vereda de las casa",
+    "sentimiento": "negativo",
+    "ultimoMensaje": "Ah no la tengo en bolsas,",
     "mensaje": "Hola buen día",
     "fecha": "2026-07-12T12:53:59.045Z",
-    "ultimaActualizacion": "2026-07-13T14:37:17.765Z",
+    "ultimaActualizacion": "2026-07-13T15:21:18.707Z",
     "historialMensajes": [
       {
         "texto": "Hola buen día",
@@ -41394,6 +41394,11 @@
         "texto": "Tengo bastante en la vereda de las casa",
         "fecha": "2026-07-13T14:37:17.765Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Ah no la tengo en bolsas,",
+        "fecha": "2026-07-13T15:21:18.707Z",
+        "sentimiento": "negativo"
       }
     ]
   },
