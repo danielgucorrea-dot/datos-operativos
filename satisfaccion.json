@@ -40300,10 +40300,10 @@
     "nombre": "",
     "direccion": "calle España 190",
     "sentimiento": "neutro",
-    "ultimoMensaje": "Siguen las cajas y hay varias bolsas de escombros",
+    "ultimoMensaje": "No sabía. Ya las dejé afuera",
     "mensaje": "Buenos días",
     "fecha": "2026-07-09T14:47:53.141Z",
-    "ultimaActualizacion": "2026-07-13T12:35:06.595Z",
+    "ultimaActualizacion": "2026-07-13T12:39:43.282Z",
     "historialMensajes": [
       {
         "texto": "Buenos días",
@@ -40333,6 +40333,11 @@
       {
         "texto": "Siguen las cajas y hay varias bolsas de escombros",
         "fecha": "2026-07-13T12:35:06.595Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "No sabía. Ya las dejé afuera",
+        "fecha": "2026-07-13T12:39:43.282Z",
         "sentimiento": "neutro"
       }
     ]
