@@ -41868,16 +41868,21 @@
     "celular": "+54 9 3815 827-814",
     "nombre": "",
     "direccion": "Av. Gdor del campo al 1100",
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Hola buen día!\nQuería saber si pueden mandar a alguien o no se como seria. \nPor el tema que hay un perro muerto sobre la plata banda de la Av. Gdor del campo al 1100",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Muchas gracias",
     "mensaje": "Hola buen día!\nQuería saber si pueden mandar a alguien o no se como seria. \nPor el tema que hay un perro muerto sobre la plata banda de la Av. Gdor del campo al 1100",
     "fecha": "2026-07-13T14:23:24.306Z",
-    "ultimaActualizacion": "2026-07-13T14:23:24.306Z",
+    "ultimaActualizacion": "2026-07-13T15:28:40.972Z",
     "historialMensajes": [
       {
         "texto": "Hola buen día!\nQuería saber si pueden mandar a alguien o no se como seria. \nPor el tema que hay un perro muerto sobre la plata banda de la Av. Gdor del campo al 1100",
         "fecha": "2026-07-13T14:23:24.306Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Muchas gracias",
+        "fecha": "2026-07-13T15:28:40.972Z",
+        "sentimiento": "positivo"
       }
     ]
   },
