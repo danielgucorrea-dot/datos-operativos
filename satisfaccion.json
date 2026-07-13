@@ -3081,7 +3081,15 @@
       "Batalla de chacabuco 3805 entre calles doctor teodoro combes y Manuel gonzalo casas. Barrio san ramon nonato",
       "Buenas tardes"
     ],
-    "ultimaActualizacion": "2026-06-29"
+    "ultimaActualizacion": "2026-07-13T20:04:44.373Z",
+    "ultimoMensaje": "Hola, buenas tardes",
+    "historialMensajes": [
+      {
+        "texto": "Hola, buenas tardes",
+        "fecha": "2026-07-13T20:04:44.373Z",
+        "sentimiento": "neutro"
+      }
+    ]
   },
   {
     "numero": "166245416607755",
