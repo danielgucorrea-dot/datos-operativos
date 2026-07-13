@@ -41708,11 +41708,11 @@
     "celular": "+54 9 3816 550-208",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Dirección: junin 2050",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Perfecto envío foto",
     "mensaje": "Hola buen día para solicitar recolección de residuos no habituales",
     "fecha": "2026-07-13T13:46:47.413Z",
-    "ultimaActualizacion": "2026-07-13T13:47:50.613Z",
+    "ultimaActualizacion": "2026-07-13T15:22:20.322Z",
     "historialMensajes": [
       {
         "texto": "Hola buen día para solicitar recolección de residuos no habituales",
@@ -41728,6 +41728,11 @@
         "texto": "Dirección: junin 2050",
         "fecha": "2026-07-13T13:47:50.613Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Perfecto envío foto",
+        "fecha": "2026-07-13T15:22:20.322Z",
+        "sentimiento": "positivo"
       }
     ]
   },
@@ -41939,6 +41944,24 @@
       {
         "texto": "Ok muchas gracias",
         "fecha": "2026-07-13T15:03:08.103Z",
+        "sentimiento": "positivo"
+      }
+    ]
+  },
+  {
+    "numero": "33135739814054",
+    "celular": "+54 9 3815 644-372",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Buenos días, quería solicitar su servicio",
+    "mensaje": "Buenos días, quería solicitar su servicio",
+    "fecha": "2026-07-13T15:23:32.459Z",
+    "ultimaActualizacion": "2026-07-13T15:23:32.459Z",
+    "historialMensajes": [
+      {
+        "texto": "Buenos días, quería solicitar su servicio",
+        "fecha": "2026-07-13T15:23:32.459Z",
         "sentimiento": "positivo"
       }
     ]
