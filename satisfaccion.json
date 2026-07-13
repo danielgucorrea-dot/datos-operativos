@@ -41704,10 +41704,10 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "positivo",
-    "ultimoMensaje": "ahh perfecto, muchas gracias!",
+    "ultimoMensaje": "perfecto, aviso por este medio?",
     "mensaje": "Buenos dias",
     "fecha": "2026-07-13T14:26:11.118Z",
-    "ultimaActualizacion": "2026-07-13T14:26:17.230Z",
+    "ultimaActualizacion": "2026-07-13T14:28:09.378Z",
     "historialMensajes": [
       {
         "texto": "Buenos dias",
@@ -41717,6 +41717,11 @@
       {
         "texto": "ahh perfecto, muchas gracias!",
         "fecha": "2026-07-13T14:26:17.230Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "perfecto, aviso por este medio?",
+        "fecha": "2026-07-13T14:28:09.378Z",
         "sentimiento": "positivo"
       }
     ]
