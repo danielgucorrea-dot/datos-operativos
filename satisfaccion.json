@@ -41369,17 +41369,22 @@
     "numero": "57669180256288",
     "celular": "+54 9 3812 011-972",
     "nombre": "",
-    "direccion": null,
-    "sentimiento": "positivo",
-    "ultimoMensaje": "Buenos día \nMe dirijo a ustedes a fin de comunicarles que necesito retiren ramas de la vereda de mi domicilio , resultado de poda de una planta de mora.",
+    "direccion": "Pje Benjamín Paz 111",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Domicilio\nPje Benjamín Paz 111\n\nEsquina Crisóstomo Alvarez 2750\nSra Norma García \n\nEnvío foto",
     "mensaje": "Buenos día \nMe dirijo a ustedes a fin de comunicarles que necesito retiren ramas de la vereda de mi domicilio , resultado de poda de una planta de mora.",
     "fecha": "2026-07-13T12:59:55.699Z",
-    "ultimaActualizacion": "2026-07-13T12:59:55.699Z",
+    "ultimaActualizacion": "2026-07-13T13:01:19.516Z",
     "historialMensajes": [
       {
         "texto": "Buenos día \nMe dirijo a ustedes a fin de comunicarles que necesito retiren ramas de la vereda de mi domicilio , resultado de poda de una planta de mora.",
         "fecha": "2026-07-13T12:59:55.699Z",
         "sentimiento": "positivo"
+      },
+      {
+        "texto": "Domicilio\nPje Benjamín Paz 111\n\nEsquina Crisóstomo Alvarez 2750\nSra Norma García \n\nEnvío foto",
+        "fecha": "2026-07-13T13:01:19.516Z",
+        "sentimiento": "neutro"
       }
     ]
   }
