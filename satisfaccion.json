@@ -42283,5 +42283,23 @@
         "sentimiento": "positivo"
       }
     ]
+  },
+  {
+    "numero": "190138789437692",
+    "celular": "+54 9 3815 462-038",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Muchas gracias lo esperamos",
+    "mensaje": "Muchas gracias lo esperamos",
+    "fecha": "2026-07-13T16:15:31.146Z",
+    "ultimaActualizacion": "2026-07-13T16:15:31.146Z",
+    "historialMensajes": [
+      {
+        "texto": "Muchas gracias lo esperamos",
+        "fecha": "2026-07-13T16:15:31.146Z",
+        "sentimiento": "positivo"
+      }
+    ]
   }
 ]
