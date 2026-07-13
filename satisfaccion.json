@@ -42385,10 +42385,10 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "negativo",
-    "ultimoMensaje": "Y tiraron escombro dentro del contenedor... asi que el camion recolector no puede levantarlo",
+    "ultimoMensaje": "Los vecimos pedimos retirar el contenedor ya que desde que lo pusieron aqui se incremento la suciedad de la esquina y se hizo muy insegura...",
     "mensaje": "Hay mucha basura que no son residuos",
     "fecha": "2026-07-13T17:28:14.060Z",
-    "ultimaActualizacion": "2026-07-13T17:29:08.052Z",
+    "ultimaActualizacion": "2026-07-13T17:30:45.441Z",
     "historialMensajes": [
       {
         "texto": "Hay mucha basura que no son residuos",
@@ -42398,6 +42398,11 @@
       {
         "texto": "Y tiraron escombro dentro del contenedor... asi que el camion recolector no puede levantarlo",
         "fecha": "2026-07-13T17:29:08.052Z",
+        "sentimiento": "negativo"
+      },
+      {
+        "texto": "Los vecimos pedimos retirar el contenedor ya que desde que lo pusieron aqui se incremento la suciedad de la esquina y se hizo muy insegura...",
+        "fecha": "2026-07-13T17:30:45.441Z",
         "sentimiento": "negativo"
       }
     ]
