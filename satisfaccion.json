@@ -40477,11 +40477,11 @@
     "celular": "+54 9 3814 011-846",
     "nombre": "",
     "direccion": "Crisóstomo Alvarez 3245",
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Hola",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Gracias",
     "mensaje": "Buen día",
     "fecha": "2026-07-10T12:41:47.369Z",
-    "ultimaActualizacion": "2026-07-10T14:27:59.477Z",
+    "ultimaActualizacion": "2026-07-13T12:34:45.646Z",
     "historialMensajes": [
       {
         "texto": "Buen día",
@@ -40502,6 +40502,11 @@
         "texto": "Hola",
         "fecha": "2026-07-10T14:27:59.477Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Gracias",
+        "fecha": "2026-07-13T12:34:45.646Z",
+        "sentimiento": "positivo"
       }
     ]
   },
