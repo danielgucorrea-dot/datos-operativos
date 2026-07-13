@@ -42221,10 +42221,10 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "neutro",
-    "ultimoMensaje": "Esta semana de licencia",
+    "ultimoMensaje": "Pasame el número María se comunica",
     "mensaje": "Holaaaa",
     "fecha": "2026-07-13T16:04:46.819Z",
-    "ultimaActualizacion": "2026-07-13T16:04:52.086Z",
+    "ultimaActualizacion": "2026-07-13T16:14:43.408Z",
     "historialMensajes": [
       {
         "texto": "Holaaaa",
@@ -42234,6 +42234,11 @@
       {
         "texto": "Esta semana de licencia",
         "fecha": "2026-07-13T16:04:52.086Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Pasame el número María se comunica",
+        "fecha": "2026-07-13T16:14:43.408Z",
         "sentimiento": "neutro"
       }
     ]
