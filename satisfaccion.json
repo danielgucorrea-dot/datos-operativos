@@ -41703,16 +41703,21 @@
     "celular": "+54 9 3816 426-637",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Buenos dias",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "ahh perfecto, muchas gracias!",
     "mensaje": "Buenos dias",
     "fecha": "2026-07-13T14:26:11.118Z",
-    "ultimaActualizacion": "2026-07-13T14:26:11.118Z",
+    "ultimaActualizacion": "2026-07-13T14:26:17.230Z",
     "historialMensajes": [
       {
         "texto": "Buenos dias",
         "fecha": "2026-07-13T14:26:11.118Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "ahh perfecto, muchas gracias!",
+        "fecha": "2026-07-13T14:26:17.230Z",
+        "sentimiento": "positivo"
       }
     ]
   }
