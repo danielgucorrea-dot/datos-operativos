@@ -42462,5 +42462,28 @@
         "sentimiento": "neutro"
       }
     ]
+  },
+  {
+    "numero": "50191138873376",
+    "celular": "+54 9 3814 775-796",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Quería saber si como podemos coordinar asi me retiran el resto de la poda de una santa rita que tengo en la puerta de mi casa",
+    "mensaje": "Buenas tardes",
+    "fecha": "2026-07-13T18:34:25.616Z",
+    "ultimaActualizacion": "2026-07-13T18:34:43.688Z",
+    "historialMensajes": [
+      {
+        "texto": "Buenas tardes",
+        "fecha": "2026-07-13T18:34:25.616Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Quería saber si como podemos coordinar asi me retiran el resto de la poda de una santa rita que tengo en la puerta de mi casa",
+        "fecha": "2026-07-13T18:34:43.688Z",
+        "sentimiento": "positivo"
+      }
+    ]
   }
 ]
