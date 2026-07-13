@@ -5066,12 +5066,17 @@
       "Retiró de ramas de árbol de la vereda. \nDirección santa fe 4130, san Miguel de Tucumán",
       "Hola buenas tardes"
     ],
-    "ultimaActualizacion": "2026-07-13T17:28:37.849Z",
-    "ultimoMensaje": "Hola",
+    "ultimaActualizacion": "2026-07-13T17:29:43.124Z",
+    "ultimoMensaje": "Ramas de árbol en santa fe 4130, san Miguel d Tucumán",
     "historialMensajes": [
       {
         "texto": "Hola",
         "fecha": "2026-07-13T17:28:37.849Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Ramas de árbol en santa fe 4130, san Miguel d Tucumán",
+        "fecha": "2026-07-13T17:29:43.124Z",
         "sentimiento": "neutro"
       }
     ]
