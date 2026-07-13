@@ -2053,7 +2053,7 @@
     "celular": "+54 9 3816 222-164",
     "nombre": "",
     "direccion": "",
-    "sentimiento": "positivo",
+    "sentimiento": "neutro",
     "evidencia_clasificacion": [
       "no vinieron"
     ],
@@ -2089,8 +2089,8 @@
       "Ya Made del teléfono de mi hijo",
       "Hola pran retira la basura no avituale de mi domicilio"
     ],
-    "ultimaActualizacion": "2026-07-13T20:44:20.536Z",
-    "ultimoMensaje": "Gracias pero ya  la basura la sacaron",
+    "ultimaActualizacion": "2026-07-13T20:44:23.258Z",
+    "ultimoMensaje": "Ojalá mi mamá no los moleste más",
     "historialMensajes": [
       {
         "texto": "Dicupe noca vinieron a retirar la basura de la bereda que me dijeron que la tenía dejar",
@@ -2101,6 +2101,11 @@
         "texto": "Gracias pero ya  la basura la sacaron",
         "fecha": "2026-07-13T20:44:20.536Z",
         "sentimiento": "positivo"
+      },
+      {
+        "texto": "Ojalá mi mamá no los moleste más",
+        "fecha": "2026-07-13T20:44:23.258Z",
+        "sentimiento": "neutro"
       }
     ]
   },
