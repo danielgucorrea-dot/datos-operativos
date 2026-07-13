@@ -40654,11 +40654,11 @@
     "celular": "+54 9 3814 759-600",
     "nombre": "",
     "direccion": "San Miguel 893",
-    "sentimiento": "neutro",
-    "ultimoMensaje": "San Miguel 893",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Muy bien. Gracias.",
     "mensaje": "Buenos días. Quisiera solicitar el retiro de 5 bolsas con escombro de mi domicilio.",
     "fecha": "2026-07-10T13:58:42.243Z",
-    "ultimaActualizacion": "2026-07-10T14:00:04.774Z",
+    "ultimaActualizacion": "2026-07-13T13:34:53.197Z",
     "historialMensajes": [
       {
         "texto": "Buenos días. Quisiera solicitar el retiro de 5 bolsas con escombro de mi domicilio.",
@@ -40669,6 +40669,11 @@
         "texto": "San Miguel 893",
         "fecha": "2026-07-10T14:00:04.774Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Muy bien. Gracias.",
+        "fecha": "2026-07-13T13:34:53.197Z",
+        "sentimiento": "positivo"
       }
     ]
   },
