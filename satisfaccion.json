@@ -40360,10 +40360,10 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "neutro",
-    "ultimoMensaje": "Cuánto sería lo máximo que retiran aproximadamente y cada cuánto",
+    "ultimoMensaje": "Bien, aguardo la respuesta. Gracias",
     "mensaje": "Hola",
     "fecha": "2026-07-09T02:52:26.427Z",
-    "ultimaActualizacion": "2026-07-13T15:19:07.108Z",
+    "ultimaActualizacion": "2026-07-13T15:43:20.918Z",
     "historialMensajes": [
       {
         "texto": "Hola",
@@ -40398,6 +40398,11 @@
       {
         "texto": "Cuánto sería lo máximo que retiran aproximadamente y cada cuánto",
         "fecha": "2026-07-13T15:19:07.108Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Bien, aguardo la respuesta. Gracias",
+        "fecha": "2026-07-13T15:43:20.918Z",
         "sentimiento": "neutro"
       }
     ]
