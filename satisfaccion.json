@@ -40847,11 +40847,11 @@
     "celular": "+54 9 3812 075-876",
     "nombre": "",
     "direccion": "Constitución 1571",
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Constitución 1571 entre Manuel acevedo y fortunata garcia",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Muchas gracias",
     "mensaje": "Hola buenas tardes",
     "fecha": "2026-07-10T18:10:24.994Z",
-    "ultimaActualizacion": "2026-07-10T18:11:37.655Z",
+    "ultimaActualizacion": "2026-07-13T13:21:34.476Z",
     "historialMensajes": [
       {
         "texto": "Hola buenas tardes",
@@ -40867,6 +40867,11 @@
         "texto": "Constitución 1571 entre Manuel acevedo y fortunata garcia",
         "fecha": "2026-07-10T18:11:37.655Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Muchas gracias",
+        "fecha": "2026-07-13T13:21:34.476Z",
+        "sentimiento": "positivo"
       }
     ]
   },
