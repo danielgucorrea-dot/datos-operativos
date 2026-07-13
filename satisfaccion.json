@@ -41396,10 +41396,10 @@
     "nombre": "",
     "direccion": "Pje Benjamín Paz 111",
     "sentimiento": "positivo",
-    "ultimoMensaje": "Muchas gracias \nMuy amables\nEspero por sus servicios \nAtte",
+    "ultimoMensaje": "Ok gracias",
     "mensaje": "Buenos día \nMe dirijo a ustedes a fin de comunicarles que necesito retiren ramas de la vereda de mi domicilio , resultado de poda de una planta de mora.",
     "fecha": "2026-07-13T12:59:55.699Z",
-    "ultimaActualizacion": "2026-07-13T13:14:10.318Z",
+    "ultimaActualizacion": "2026-07-13T13:23:00.121Z",
     "historialMensajes": [
       {
         "texto": "Buenos día \nMe dirijo a ustedes a fin de comunicarles que necesito retiren ramas de la vereda de mi domicilio , resultado de poda de una planta de mora.",
@@ -41414,6 +41414,11 @@
       {
         "texto": "Muchas gracias \nMuy amables\nEspero por sus servicios \nAtte",
         "fecha": "2026-07-13T13:14:10.318Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Ok gracias",
+        "fecha": "2026-07-13T13:23:00.121Z",
         "sentimiento": "positivo"
       }
     ]
