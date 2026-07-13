@@ -39490,10 +39490,10 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "positivo",
-    "ultimoMensaje": "Primero que nada, gracias por  el servicio para retirar los residuos",
+    "ultimoMensaje": "Quería consultar si puedo pedir el servicio de nuevo para retirar las bolsas que me quedaron",
     "mensaje": "Buen día!",
     "fecha": "2026-07-07T12:36:58.156Z",
-    "ultimaActualizacion": "2026-07-13T15:39:39.782Z",
+    "ultimaActualizacion": "2026-07-13T15:40:18.368Z",
     "historialMensajes": [
       {
         "texto": "Buen día!",
@@ -39518,6 +39518,11 @@
       {
         "texto": "Primero que nada, gracias por  el servicio para retirar los residuos",
         "fecha": "2026-07-13T15:39:39.782Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Quería consultar si puedo pedir el servicio de nuevo para retirar las bolsas que me quedaron",
+        "fecha": "2026-07-13T15:40:18.368Z",
         "sentimiento": "positivo"
       }
     ]
@@ -40861,11 +40866,11 @@
     "celular": "+54 9 3815 803-537",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "positivo",
-    "ultimoMensaje": "Perfecto, entonces les dejo cinco bolsas para que se lleven?",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "La verdad es la primera vez que pido el servicio, no fue con mala intención que saqué las bolsas, ya me ocupo de eso… es un poco confuso el servicio, ya que lo leí en la página y decía que si podía ser Escombro de pequeñas modificaciones y esto no es tanto en cantidad…\nno se preocupe, ya voy a hablar con el referente barrial  si la municipalidad no me ofrece algún servicio",
     "mensaje": "Buen día",
     "fecha": "2026-07-10T15:04:43.724Z",
-    "ultimaActualizacion": "2026-07-13T15:39:36.207Z",
+    "ultimaActualizacion": "2026-07-13T15:40:27.633Z",
     "historialMensajes": [
       {
         "texto": "Buen día",
@@ -40911,6 +40916,11 @@
         "texto": "Perfecto, entonces les dejo cinco bolsas para que se lleven?",
         "fecha": "2026-07-13T15:39:36.207Z",
         "sentimiento": "positivo"
+      },
+      {
+        "texto": "La verdad es la primera vez que pido el servicio, no fue con mala intención que saqué las bolsas, ya me ocupo de eso… es un poco confuso el servicio, ya que lo leí en la página y decía que si podía se",
+        "fecha": "2026-07-13T15:40:27.633Z",
+        "sentimiento": "neutro"
       }
     ]
   },
