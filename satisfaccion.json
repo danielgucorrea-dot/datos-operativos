@@ -40946,11 +40946,11 @@
     "celular": "+54 9 3816 299-473",
     "nombre": "",
     "direccion": "Santiago 2291",
-    "sentimiento": "negativo",
-    "ultimoMensaje": "Buen dia.Si. Basura en la vía pública como lo muestra la imagen",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Muchas gracias",
     "mensaje": "Buenas tardes",
     "fecha": "2026-07-10T20:43:16.728Z",
-    "ultimaActualizacion": "2026-07-13T14:02:41.409Z",
+    "ultimaActualizacion": "2026-07-13T14:06:21.397Z",
     "historialMensajes": [
       {
         "texto": "Buenas tardes",
@@ -40966,6 +40966,11 @@
         "texto": "Buen dia.Si. Basura en la vía pública como lo muestra la imagen",
         "fecha": "2026-07-13T14:02:41.409Z",
         "sentimiento": "negativo"
+      },
+      {
+        "texto": "Muchas gracias",
+        "fecha": "2026-07-13T14:06:21.397Z",
+        "sentimiento": "positivo"
       }
     ]
   },
