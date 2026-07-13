@@ -40812,10 +40812,10 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "neutro",
-    "ultimoMensaje": "Buen día",
+    "ultimoMensaje": "Cuantas bolsas llevan Uds",
     "mensaje": "Buen día",
     "fecha": "2026-07-10T15:04:43.724Z",
-    "ultimaActualizacion": "2026-07-13T12:49:59.870Z",
+    "ultimaActualizacion": "2026-07-13T15:06:17.141Z",
     "historialMensajes": [
       {
         "texto": "Buen día",
@@ -40840,6 +40840,11 @@
       {
         "texto": "Buen día",
         "fecha": "2026-07-13T12:49:59.870Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Cuantas bolsas llevan Uds",
+        "fecha": "2026-07-13T15:06:17.141Z",
         "sentimiento": "neutro"
       }
     ]
