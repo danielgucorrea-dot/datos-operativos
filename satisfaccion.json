@@ -39898,17 +39898,12 @@
     "celular": "+54 9 3815 208-324",
     "nombre": "",
     "direccion": "Pasaje storni 3124",
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Bueno",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Muchas gracias",
     "mensaje": "Buenos dias",
     "fecha": "2026-07-08T14:00:16.381Z",
-    "ultimaActualizacion": "2026-07-13T15:14:23.241Z",
+    "ultimaActualizacion": "2026-07-13T15:14:26.729Z",
     "historialMensajes": [
-      {
-        "texto": "Buenos dias",
-        "fecha": "2026-07-10T11:47:06.514Z",
-        "sentimiento": "neutro"
-      },
       {
         "texto": "Queria consultar si sabría",
         "fecha": "2026-07-10T11:47:07.826Z",
@@ -39953,6 +39948,11 @@
         "texto": "Bueno",
         "fecha": "2026-07-13T15:14:23.241Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Muchas gracias",
+        "fecha": "2026-07-13T15:14:26.729Z",
+        "sentimiento": "positivo"
       }
     ]
   },
