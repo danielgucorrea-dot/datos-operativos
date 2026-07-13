@@ -10961,7 +10961,7 @@
     "celular": "+54 9 3812 157-939",
     "nombre": "",
     "direccion": "barrio ampliación elena white",
-    "sentimiento": "neutro",
+    "sentimiento": "positivo",
     "evidencia_clasificacion": [],
     "canal": "WhatsApp Ambiente",
     "fecha": "2026-06-12",
@@ -10978,8 +10978,8 @@
       "Vivo barrio ampliación elena white.  Calle 86.31 OS  ENTRE pasaje marti cura brochero.  Mando asi xq en el mapa no figura aun el cartel q puso la municipalidad d la americo vespucio. Y cura brochero.",
       "Hola quiera saber para que lleven unas ramas d mora.  Q tengo en la veredad por favor"
     ],
-    "ultimaActualizacion": "2026-07-13T15:46:33.240Z",
-    "ultimoMensaje": "Y cura brochero.  Asi se llama em realidad el pasaje y la calle pero no les figura a la municipalidad todavía no se xq en el GPS tampoco",
+    "ultimaActualizacion": "2026-07-13T15:56:56.131Z",
+    "ultimoMensaje": "Gracias",
     "historialMensajes": [
       {
         "texto": "Hola me comunico para recolección d unas ramas q tengo en mi vereda y para hacer un reclamo d limpieza en la vía pública mas precisamente en la calle q están tapando, d ramas y d basura frente mi casa",
@@ -11015,6 +11015,11 @@
         "texto": "Y cura brochero.  Asi se llama em realidad el pasaje y la calle pero no les figura a la municipalidad todavía no se xq en el GPS tampoco",
         "fecha": "2026-07-13T15:46:33.240Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Gracias",
+        "fecha": "2026-07-13T15:56:56.131Z",
+        "sentimiento": "positivo"
       }
     ]
   },
