@@ -40324,11 +40324,11 @@
     "celular": "+54 9 3814 786-696",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "positivo",
-    "ultimoMensaje": "La idea es poner dos tachos de basura en el edificio uno para plástico y otro para papel y cartón. Esta semana los traen y cuando se llenen llamarlos a ustedes para que los retiren es posible, el edificio es en virgen de la merced al 100",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Cuánto sería lo máximo que retiran aproximadamente y cada cuánto",
     "mensaje": "Hola",
     "fecha": "2026-07-09T02:52:26.427Z",
-    "ultimaActualizacion": "2026-07-13T15:17:55.207Z",
+    "ultimaActualizacion": "2026-07-13T15:19:07.108Z",
     "historialMensajes": [
       {
         "texto": "Hola",
@@ -40359,6 +40359,11 @@
         "texto": "La idea es poner dos tachos de basura en el edificio uno para plástico y otro para papel y cartón. Esta semana los traen y cuando se llenen llamarlos a ustedes para que los retiren es posible, el edif",
         "fecha": "2026-07-13T15:17:55.207Z",
         "sentimiento": "positivo"
+      },
+      {
+        "texto": "Cuánto sería lo máximo que retiran aproximadamente y cada cuánto",
+        "fecha": "2026-07-13T15:19:07.108Z",
+        "sentimiento": "neutro"
       }
     ]
   },
