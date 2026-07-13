@@ -42682,12 +42682,12 @@
     "numero": "68556452577375",
     "celular": "+54 9 3814 013-352",
     "nombre": "",
-    "direccion": null,
+    "direccion": "es don Bosco 2704",
     "sentimiento": "neutro",
-    "ultimoMensaje": "Si puede ser en horario de siesta de 15hs en adelante el jueves o viernes de esta semana por favor.",
+    "ultimoMensaje": "Mi domicilio es don Bosco 2704 PB dto al lado derecho del portero",
     "mensaje": "Buenas tardes",
     "fecha": "2026-07-13T21:49:42.142Z",
-    "ultimaActualizacion": "2026-07-13T21:58:46.724Z",
+    "ultimaActualizacion": "2026-07-13T22:00:38.222Z",
     "historialMensajes": [
       {
         "texto": "Buenas tardes",
@@ -42707,6 +42707,11 @@
       {
         "texto": "Si puede ser en horario de siesta de 15hs en adelante el jueves o viernes de esta semana por favor.",
         "fecha": "2026-07-13T21:58:46.724Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Mi domicilio es don Bosco 2704 PB dto al lado derecho del portero",
+        "fecha": "2026-07-13T22:00:38.222Z",
         "sentimiento": "neutro"
       }
     ]
