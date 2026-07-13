@@ -42260,5 +42260,23 @@
         "sentimiento": "negativo"
       }
     ]
+  },
+  {
+    "numero": "193716044169249",
+    "celular": "+54 9 3813 027-252",
+    "nombre": "",
+    "direccion": "Barrio Ciudadela",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Buenas tardes, soy Lourdes Tabera. Quería saber como puedo acceder al servicio de recolección de objetos. Tengo unas placas de durlock y unos cajones. Soy de Lavalle 1933, Barrio Ciudadela",
+    "mensaje": "Buenas tardes, soy Lourdes Tabera. Quería saber como puedo acceder al servicio de recolección de objetos. Tengo unas placas de durlock y unos cajones. Soy de Lavalle 1933, Barrio Ciudadela",
+    "fecha": "2026-07-13T16:12:47.667Z",
+    "ultimaActualizacion": "2026-07-13T16:12:47.667Z",
+    "historialMensajes": [
+      {
+        "texto": "Buenas tardes, soy Lourdes Tabera. Quería saber como puedo acceder al servicio de recolección de objetos. Tengo unas placas de durlock y unos cajones. Soy de Lavalle 1933, Barrio Ciudadela",
+        "fecha": "2026-07-13T16:12:47.667Z",
+        "sentimiento": "positivo"
+      }
+    ]
   }
 ]
