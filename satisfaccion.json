@@ -42636,5 +42636,28 @@
         "sentimiento": "positivo"
       }
     ]
+  },
+  {
+    "numero": "144328131375182",
+    "celular": "+54 9 3814 435-899",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Para la recolección de residuos no habituales este es el nro?",
+    "mensaje": "Buenas tardes",
+    "fecha": "2026-07-13T21:11:35.101Z",
+    "ultimaActualizacion": "2026-07-13T21:12:09.392Z",
+    "historialMensajes": [
+      {
+        "texto": "Buenas tardes",
+        "fecha": "2026-07-13T21:11:35.101Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Para la recolección de residuos no habituales este es el nro?",
+        "fecha": "2026-07-13T21:12:09.392Z",
+        "sentimiento": "neutro"
+      }
+    ]
   }
 ]
