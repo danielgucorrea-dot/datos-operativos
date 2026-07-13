@@ -40244,10 +40244,10 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "neutro",
-    "ultimoMensaje": "Hola",
+    "ultimoMensaje": "Buen día",
     "mensaje": "Hola",
     "fecha": "2026-07-09T02:52:26.427Z",
-    "ultimaActualizacion": "2026-07-10T16:33:50.563Z",
+    "ultimaActualizacion": "2026-07-13T13:12:27.612Z",
     "historialMensajes": [
       {
         "texto": "Hola",
@@ -40267,6 +40267,11 @@
       {
         "texto": "Hola",
         "fecha": "2026-07-10T16:33:50.563Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Buen día",
+        "fecha": "2026-07-13T13:12:27.612Z",
         "sentimiento": "neutro"
       }
     ]
@@ -41380,11 +41385,11 @@
     "celular": "+54 9 3812 011-972",
     "nombre": "",
     "direccion": "Pje Benjamín Paz 111",
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Domicilio\nPje Benjamín Paz 111\n\nEsquina Crisóstomo Alvarez 2750\nSra Norma García \n\nEnvío foto",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Muchas gracias \nMuy amables\nEspero por sus servicios \nAtte",
     "mensaje": "Buenos día \nMe dirijo a ustedes a fin de comunicarles que necesito retiren ramas de la vereda de mi domicilio , resultado de poda de una planta de mora.",
     "fecha": "2026-07-13T12:59:55.699Z",
-    "ultimaActualizacion": "2026-07-13T13:01:19.516Z",
+    "ultimaActualizacion": "2026-07-13T13:14:10.318Z",
     "historialMensajes": [
       {
         "texto": "Buenos día \nMe dirijo a ustedes a fin de comunicarles que necesito retiren ramas de la vereda de mi domicilio , resultado de poda de una planta de mora.",
@@ -41395,6 +41400,11 @@
         "texto": "Domicilio\nPje Benjamín Paz 111\n\nEsquina Crisóstomo Alvarez 2750\nSra Norma García \n\nEnvío foto",
         "fecha": "2026-07-13T13:01:19.516Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Muchas gracias \nMuy amables\nEspero por sus servicios \nAtte",
+        "fecha": "2026-07-13T13:14:10.318Z",
+        "sentimiento": "positivo"
       }
     ]
   }
