@@ -41622,11 +41622,11 @@
     "celular": "+54 9 3815 343-081",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Ya pido",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Ya embolsare el resto",
     "mensaje": "Hola buenos dias",
     "fecha": "2026-07-13T11:46:23.052Z",
-    "ultimaActualizacion": "2026-07-13T14:47:11.872Z",
+    "ultimaActualizacion": "2026-07-13T16:08:29.070Z",
     "historialMensajes": [
       {
         "texto": "Hola buenos dias",
@@ -41642,6 +41642,16 @@
         "texto": "Ya pido",
         "fecha": "2026-07-13T14:47:11.872Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Gracias",
+        "fecha": "2026-07-13T16:08:25.731Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Ya embolsare el resto",
+        "fecha": "2026-07-13T16:08:29.070Z",
+        "sentimiento": "positivo"
       }
     ]
   },
