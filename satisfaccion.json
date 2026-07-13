@@ -3452,7 +3452,7 @@
   },
   {
     "numero": "32465758515445",
-    "celular": "",
+    "celular": "+54 9 3814 149-066",
     "nombre": "",
     "direccion": "Marcos Paz 1887",
     "sentimiento": "positivo",
@@ -3469,7 +3469,15 @@
       "Buenos días. Quisiera solicitar el retiro de residuos no habituales en Marcos Paz 1887. Se trata de un colchón grande y escombros.\n\nAgradecería que me informen el día y horario en que pueden realizar el retiro. Muchas gracias.",
       "Buenos días. Quisiera solicitar el retiro de residuos no habituales en Marcos Paz 1887. Se trata de un colchón grande y escombros.\n\nAgradecería que me informen el día y horario en que pueden realizar el retiro. Muchas gracias."
     ],
-    "ultimaActualizacion": "2026-06-29"
+    "ultimaActualizacion": "2026-07-13T16:20:06.802Z",
+    "ultimoMensaje": "Buenos días! Le envío fotos del colchón y los escombros para retirar de Marcos Paz 1887.",
+    "historialMensajes": [
+      {
+        "texto": "Buenos días! Le envío fotos del colchón y los escombros para retirar de Marcos Paz 1887.",
+        "fecha": "2026-07-13T16:20:06.802Z",
+        "sentimiento": "positivo"
+      }
+    ]
   },
   {
     "numero": "269930490536154",
