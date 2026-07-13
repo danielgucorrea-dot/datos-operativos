@@ -39966,11 +39966,11 @@
     "celular": "+54 9 3815 063-008",
     "nombre": "",
     "direccion": "Asunción 535",
-    "sentimiento": "positivo",
-    "ultimoMensaje": "Si, pero maquinaria? Son bolsas y lo único suelto son las ramas y hojas",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Entendido",
     "mensaje": "Hola, me comunico para saber como es el procedimiento para solicitar la recolección de residuos por limpieza de un terreno. Gracias",
     "fecha": "2026-07-08T14:22:10.231Z",
-    "ultimaActualizacion": "2026-07-13T15:08:15.819Z",
+    "ultimaActualizacion": "2026-07-13T15:24:40.144Z",
     "historialMensajes": [
       {
         "texto": "Hola, me comunico para saber como es el procedimiento para solicitar la recolección de residuos por limpieza de un terreno. Gracias",
@@ -40001,6 +40001,11 @@
         "texto": "Si, pero maquinaria? Son bolsas y lo único suelto son las ramas y hojas",
         "fecha": "2026-07-13T15:08:15.819Z",
         "sentimiento": "positivo"
+      },
+      {
+        "texto": "Entendido",
+        "fecha": "2026-07-13T15:24:40.144Z",
+        "sentimiento": "neutro"
       }
     ]
   },
