@@ -39765,16 +39765,11 @@
     "nombre": "",
     "direccion": "Pasaje storni 3124",
     "sentimiento": "neutro",
-    "ultimoMensaje": "Decirme si entre hoy o mañana pasarían a retirar los residuos",
+    "ultimoMensaje": "Buen dia",
     "mensaje": "Buenos dias",
     "fecha": "2026-07-08T14:00:16.381Z",
-    "ultimaActualizacion": "2026-07-10T11:47:30.501Z",
+    "ultimaActualizacion": "2026-07-13T12:14:26.866Z",
     "historialMensajes": [
-      {
-        "texto": "Tengo que sacar todo ya a la vereda o me avisaran cuando estén por venir",
-        "fecha": "2026-07-08T14:01:23.797Z",
-        "sentimiento": "neutro"
-      },
       {
         "texto": "Es una cama un ventilador y un tender",
         "fecha": "2026-07-08T14:03:37.363Z",
@@ -39818,6 +39813,11 @@
       {
         "texto": "Decirme si entre hoy o mañana pasarían a retirar los residuos",
         "fecha": "2026-07-10T11:47:30.501Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Buen dia",
+        "fecha": "2026-07-13T12:14:26.866Z",
         "sentimiento": "neutro"
       }
     ]
