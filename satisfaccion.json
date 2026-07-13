@@ -42439,5 +42439,28 @@
         "sentimiento": "neutro"
       }
     ]
+  },
+  {
+    "numero": "66834137104429",
+    "celular": "+54 9 3815 154-274",
+    "nombre": "",
+    "direccion": "barrio san Alberto capitan",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Para solicitar un contenedor para arrojar escombros y artículos grandes es para barrio san Alberto capitan melian de leguizamon 1262",
+    "mensaje": "Hola buenos días",
+    "fecha": "2026-07-13T18:27:13.163Z",
+    "ultimaActualizacion": "2026-07-13T18:27:58.989Z",
+    "historialMensajes": [
+      {
+        "texto": "Hola buenos días",
+        "fecha": "2026-07-13T18:27:13.163Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Para solicitar un contenedor para arrojar escombros y artículos grandes es para barrio san Alberto capitan melian de leguizamon 1262",
+        "fecha": "2026-07-13T18:27:58.989Z",
+        "sentimiento": "neutro"
+      }
+    ]
   }
 ]
