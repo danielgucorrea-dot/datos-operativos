@@ -37757,8 +37757,8 @@
     "numero": "238512569852109",
     "celular": "+54 9 3815 897-369",
     "nombre": "",
-    "direccion": "",
-    "sentimiento": "neutro",
+    "direccion": "Próspero Mena 740",
+    "sentimiento": "positivo",
     "evidencia_clasificacion": [
       "muchas gracias\\s*$"
     ],
@@ -37772,8 +37772,8 @@
       "Buen día",
       "Buen día, ok, muchas gracias."
     ],
-    "ultimaActualizacion": "2026-07-13T11:26:21.937Z",
-    "ultimoMensaje": "Buen día de nuevo",
+    "ultimaActualizacion": "2026-07-13T14:57:47.148Z",
+    "ultimoMensaje": "Buen día, Próspero Mena 740, de todos modos, el barrendero acumuló todo y según mí vecina pasa hoy el camión del barrendero por la cuadra. Pero por las dudas se lo agradezco.",
     "historialMensajes": [
       {
         "texto": "Buen día, donde denunció que 2 personas se tomaron el trabajo de estar casi una hora tirando basura enfrente de mí casa? Adjunto video y fotos.",
@@ -37794,6 +37794,11 @@
         "texto": "Buen día de nuevo",
         "fecha": "2026-07-13T11:26:21.937Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Buen día, Próspero Mena 740, de todos modos, el barrendero acumuló todo y según mí vecina pasa hoy el camión del barrendero por la cuadra. Pero por las dudas se lo agradezco.",
+        "fecha": "2026-07-13T14:57:47.148Z",
+        "sentimiento": "positivo"
       }
     ]
   },
