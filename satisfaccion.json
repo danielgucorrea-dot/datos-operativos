@@ -40452,11 +40452,11 @@
     "celular": "+54 9 3815 081-080",
     "nombre": "",
     "direccion": "barrio Obispo Piedra Buena",
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Buenos dias!!!",
+    "sentimiento": "negativo",
+    "ultimoMensaje": "Pasa todo el dia el camion y no lo ve??",
     "mensaje": "Buenos dias! Podrian pasar a recoger las ramas de mi domicilio? Ya llevan alli una semana , xf",
     "fecha": "2026-07-10T13:51:30.956Z",
-    "ultimaActualizacion": "2026-07-13T12:21:09.631Z",
+    "ultimaActualizacion": "2026-07-13T12:21:35.894Z",
     "historialMensajes": [
       {
         "texto": "Buenos dias! Podrian pasar a recoger las ramas de mi domicilio? Ya llevan alli una semana , xf",
@@ -40482,6 +40482,11 @@
         "texto": "Buenos dias!!!",
         "fecha": "2026-07-13T12:21:09.631Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Pasa todo el dia el camion y no lo ve??",
+        "fecha": "2026-07-13T12:21:35.894Z",
+        "sentimiento": "negativo"
       }
     ]
   },
