@@ -37639,7 +37639,7 @@
     "celular": "+54 9 3815 897-369",
     "nombre": "",
     "direccion": "",
-    "sentimiento": "negativo",
+    "sentimiento": "positivo",
     "evidencia_clasificacion": [
       "muchas gracias\\s*$"
     ],
@@ -37653,8 +37653,8 @@
       "Buen día",
       "Buen día, ok, muchas gracias."
     ],
-    "ultimaActualizacion": "2026-07-13T09:31:49.259Z",
-    "ultimoMensaje": "En las fotos no se ve pero es mucha la basura",
+    "ultimaActualizacion": "2026-07-13T09:48:14.862Z",
+    "ultimoMensaje": "Empezaron antes de la medianoche y terminaron como 40' después, según la cámara.",
     "historialMensajes": [
       {
         "texto": "Buen día, donde denunció que 2 personas se tomaron el trabajo de estar casi una hora tirando basura enfrente de mí casa? Adjunto video y fotos.",
@@ -37665,6 +37665,11 @@
         "texto": "En las fotos no se ve pero es mucha la basura",
         "fecha": "2026-07-13T09:31:49.259Z",
         "sentimiento": "negativo"
+      },
+      {
+        "texto": "Empezaron antes de la medianoche y terminaron como 40' después, según la cámara.",
+        "fecha": "2026-07-13T09:48:14.862Z",
+        "sentimiento": "positivo"
       }
     ]
   },
