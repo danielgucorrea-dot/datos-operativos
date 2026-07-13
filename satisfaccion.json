@@ -41865,11 +41865,11 @@
     "celular": "+54 9 3814 664-447",
     "nombre": "",
     "direccion": "barrio sur",
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Las piedras 1026 8° A (barrio sur)",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Tengo 10 bolsas",
     "mensaje": "Buen día para pedir servicio de residuo no habituales tengo bolsas con escombros",
     "fecha": "2026-07-13T14:15:33.092Z",
-    "ultimaActualizacion": "2026-07-13T14:16:00.753Z",
+    "ultimaActualizacion": "2026-07-13T15:31:46.166Z",
     "historialMensajes": [
       {
         "texto": "Buen día para pedir servicio de residuo no habituales tengo bolsas con escombros",
@@ -41880,6 +41880,11 @@
         "texto": "Las piedras 1026 8° A (barrio sur)",
         "fecha": "2026-07-13T14:16:00.753Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Tengo 10 bolsas",
+        "fecha": "2026-07-13T15:31:46.166Z",
+        "sentimiento": "positivo"
       }
     ]
   },
