@@ -39966,11 +39966,11 @@
     "celular": "+54 9 3815 063-008",
     "nombre": "",
     "direccion": "Asunción 535",
-    "sentimiento": "positivo",
-    "ultimoMensaje": "Sí, sigamos!",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Entendido. Gracias",
     "mensaje": "Hola, me comunico para saber como es el procedimiento para solicitar la recolección de residuos por limpieza de un terreno. Gracias",
     "fecha": "2026-07-08T14:22:10.231Z",
-    "ultimaActualizacion": "2026-07-13T15:30:00.617Z",
+    "ultimaActualizacion": "2026-07-13T15:31:07.767Z",
     "historialMensajes": [
       {
         "texto": "Hola, me comunico para saber como es el procedimiento para solicitar la recolección de residuos por limpieza de un terreno. Gracias",
@@ -40011,6 +40011,11 @@
         "texto": "Sí, sigamos!",
         "fecha": "2026-07-13T15:30:00.617Z",
         "sentimiento": "positivo"
+      },
+      {
+        "texto": "Entendido. Gracias",
+        "fecha": "2026-07-13T15:31:07.767Z",
+        "sentimiento": "neutro"
       }
     ]
   },
