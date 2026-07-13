@@ -40811,11 +40811,11 @@
     "celular": "+54 9 3815 803-537",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Cuantas bolsas llevan Uds",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Así coordinamos y pueden llevar los residuos",
     "mensaje": "Buen día",
     "fecha": "2026-07-10T15:04:43.724Z",
-    "ultimaActualizacion": "2026-07-13T15:06:17.141Z",
+    "ultimaActualizacion": "2026-07-13T15:06:31.353Z",
     "historialMensajes": [
       {
         "texto": "Buen día",
@@ -40846,6 +40846,11 @@
         "texto": "Cuantas bolsas llevan Uds",
         "fecha": "2026-07-13T15:06:17.141Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Así coordinamos y pueden llevar los residuos",
+        "fecha": "2026-07-13T15:06:31.353Z",
+        "sentimiento": "positivo"
       }
     ]
   },
