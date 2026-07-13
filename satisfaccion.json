@@ -42705,5 +42705,23 @@
         "sentimiento": "neutro"
       }
     ]
+  },
+  {
+    "numero": "226920469946504",
+    "celular": "+54 9 3816 451-705",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Buenas tardes",
+    "mensaje": "Buenas tardes",
+    "fecha": "2026-07-13T21:55:37.110Z",
+    "ultimaActualizacion": "2026-07-13T21:55:37.110Z",
+    "historialMensajes": [
+      {
+        "texto": "Buenas tardes",
+        "fecha": "2026-07-13T21:55:37.110Z",
+        "sentimiento": "neutro"
+      }
+    ]
   }
 ]
