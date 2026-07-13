@@ -40299,11 +40299,11 @@
     "celular": "+54 9 3815 510-600",
     "nombre": "",
     "direccion": "barrio judicial alturas Ayacucho",
-    "sentimiento": "positivo",
-    "ultimoMensaje": "Muchas gracias",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Quería consultar si puedo en ese viaje que busque la basura sacar una cosas que ya no sirven es madera y otras cosas ??",
     "mensaje": "Buenos días hoy cortaron el pasto en los espacios baldio  en el barrio judicial alturas Ayacucho 1900 dejaron lo que juntaron en la calle necesitaría que lo recojan por favor ya que la calles son angostas",
     "fecha": "2026-07-08T16:06:53.752Z",
-    "ultimaActualizacion": "2026-07-13T12:34:02.765Z",
+    "ultimaActualizacion": "2026-07-13T18:12:58.797Z",
     "historialMensajes": [
       {
         "texto": "Buenos días hoy cortaron el pasto en los espacios baldio  en el barrio judicial alturas Ayacucho 1900 dejaron lo que juntaron en la calle necesitaría que lo recojan por favor ya que la calles son ango",
@@ -40339,6 +40339,11 @@
         "texto": "Muchas gracias",
         "fecha": "2026-07-13T12:34:02.765Z",
         "sentimiento": "positivo"
+      },
+      {
+        "texto": "Quería consultar si puedo en ese viaje que busque la basura sacar una cosas que ya no sirven es madera y otras cosas ??",
+        "fecha": "2026-07-13T18:12:58.797Z",
+        "sentimiento": "neutro"
       }
     ]
   },
@@ -41249,12 +41254,12 @@
     "numero": "2925023772763",
     "celular": "+54 9 3816 768-108",
     "nombre": "",
-    "direccion": null,
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Debe estar embolsados de alguna forma específica?",
+    "direccion": "pje Benito lynch 3351",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Buen día! Muchas gracias! Le hago una consulta, bolsas de pasto y trozos de madera, se llevan? Para mi domicilio en pje Benito lynch 3351",
     "mensaje": "Hola! Tengo escombros y trozos de durlok para retirar. Hay algún día de esta semana que puedan pasar? Es en la san Lorenzo y salta",
     "fecha": "2026-07-10T21:46:04.049Z",
-    "ultimaActualizacion": "2026-07-10T21:57:01.959Z",
+    "ultimaActualizacion": "2026-07-13T18:11:09.458Z",
     "historialMensajes": [
       {
         "texto": "Hola! Tengo escombros y trozos de durlok para retirar. Hay algún día de esta semana que puedan pasar? Es en la san Lorenzo y salta",
@@ -41265,6 +41270,11 @@
         "texto": "Debe estar embolsados de alguna forma específica?",
         "fecha": "2026-07-10T21:57:01.959Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Buen día! Muchas gracias! Le hago una consulta, bolsas de pasto y trozos de madera, se llevan? Para mi domicilio en pje Benito lynch 3351",
+        "fecha": "2026-07-13T18:11:09.458Z",
+        "sentimiento": "positivo"
       }
     ]
   },
