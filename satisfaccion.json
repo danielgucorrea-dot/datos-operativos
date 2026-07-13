@@ -42485,5 +42485,28 @@
         "sentimiento": "positivo"
       }
     ]
+  },
+  {
+    "numero": "86492152074308",
+    "celular": "+54 9 3815 641-384",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Me pasaron esté número para averiguar sobre residuos no habituales",
+    "mensaje": "Buenas tardes",
+    "fecha": "2026-07-13T19:15:53.795Z",
+    "ultimaActualizacion": "2026-07-13T19:16:31.386Z",
+    "historialMensajes": [
+      {
+        "texto": "Buenas tardes",
+        "fecha": "2026-07-13T19:15:53.795Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Me pasaron esté número para averiguar sobre residuos no habituales",
+        "fecha": "2026-07-13T19:16:31.386Z",
+        "sentimiento": "neutro"
+      }
+    ]
   }
 ]
