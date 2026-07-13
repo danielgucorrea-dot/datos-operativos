@@ -41728,10 +41728,10 @@
     "nombre": "",
     "direccion": "Santa fe 3379",
     "sentimiento": "neutro",
-    "ultimoMensaje": "Santa fe 3379",
+    "ultimoMensaje": "Santa fe y castro barros",
     "mensaje": "Buenos días, quisiera solicitar el servicio para retirar... Cómo debo hacer?",
     "fecha": "2026-07-13T13:19:16.454Z",
-    "ultimaActualizacion": "2026-07-13T15:49:04.814Z",
+    "ultimaActualizacion": "2026-07-13T15:49:16.609Z",
     "historialMensajes": [
       {
         "texto": "Buenos días, quisiera solicitar el servicio para retirar... Cómo debo hacer?",
@@ -41756,6 +41756,11 @@
       {
         "texto": "Santa fe 3379",
         "fecha": "2026-07-13T15:49:04.814Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Santa fe y castro barros",
+        "fecha": "2026-07-13T15:49:16.609Z",
         "sentimiento": "neutro"
       }
     ]
