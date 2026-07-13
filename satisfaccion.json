@@ -39817,17 +39817,12 @@
     "celular": "+54 9 3815 208-324",
     "nombre": "",
     "direccion": "Pasaje storni 3124",
-    "sentimiento": "positivo",
-    "ultimoMensaje": "Ya le envio",
+    "sentimiento": "negativo",
+    "ultimoMensaje": "Lo entre de nuevo porque me llevaron el ventilador ya",
     "mensaje": "Buenos dias",
     "fecha": "2026-07-08T14:00:16.381Z",
-    "ultimaActualizacion": "2026-07-13T12:33:02.164Z",
+    "ultimaActualizacion": "2026-07-13T12:43:36.048Z",
     "historialMensajes": [
-      {
-        "texto": "Bien muchas gracias",
-        "fecha": "2026-07-08T14:17:40.624Z",
-        "sentimiento": "positivo"
-      },
       {
         "texto": "Si si 👍🏼",
         "fecha": "2026-07-08T14:21:26.690Z",
@@ -39872,6 +39867,11 @@
         "texto": "Ya le envio",
         "fecha": "2026-07-13T12:33:02.164Z",
         "sentimiento": "positivo"
+      },
+      {
+        "texto": "Lo entre de nuevo porque me llevaron el ventilador ya",
+        "fecha": "2026-07-13T12:43:36.048Z",
+        "sentimiento": "negativo"
       }
     ]
   },
