@@ -41112,10 +41112,10 @@
     "nombre": "",
     "direccion": "Constitución 1937",
     "sentimiento": "neutro",
-    "ultimoMensaje": "Holaa buen dia",
+    "ultimoMensaje": "Se puede solicitar un contenedor?",
     "mensaje": "Hola",
     "fecha": "2026-07-11T15:05:41.305Z",
-    "ultimaActualizacion": "2026-07-13T14:20:07.396Z",
+    "ultimaActualizacion": "2026-07-13T14:20:52.046Z",
     "historialMensajes": [
       {
         "texto": "Hola",
@@ -41135,6 +41135,16 @@
       {
         "texto": "Holaa buen dia",
         "fecha": "2026-07-13T14:20:07.396Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Tenemos escombros, ramas y algunos cacharros viejos",
+        "fecha": "2026-07-13T14:20:43.558Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Se puede solicitar un contenedor?",
+        "fecha": "2026-07-13T14:20:52.046Z",
         "sentimiento": "neutro"
       }
     ]
