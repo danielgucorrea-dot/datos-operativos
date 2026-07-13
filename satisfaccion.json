@@ -40933,11 +40933,11 @@
     "celular": "+54 9 3816 364-122",
     "nombre": "",
     "direccion": "Junin 1748",
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Junin 1748",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "11 bolsas de escombros",
     "mensaje": "Hola buenas",
     "fecha": "2026-07-10T19:11:57.812Z",
-    "ultimaActualizacion": "2026-07-10T19:12:25.603Z",
+    "ultimaActualizacion": "2026-07-13T14:50:14.216Z",
     "historialMensajes": [
       {
         "texto": "Hola buenas",
@@ -40953,6 +40953,11 @@
         "texto": "Junin 1748",
         "fecha": "2026-07-10T19:12:25.603Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "11 bolsas de escombros",
+        "fecha": "2026-07-13T14:50:14.216Z",
+        "sentimiento": "positivo"
       }
     ]
   },
