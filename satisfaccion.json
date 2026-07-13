@@ -40194,10 +40194,10 @@
     "nombre": "",
     "direccion": "Ayacucho 327",
     "sentimiento": "neutro",
-    "ultimoMensaje": "Ayacucho 327 PB F",
+    "ultimoMensaje": "San Lorenzo 906 portón negro",
     "mensaje": "Hola! Buenos días. Quisiera solicitar el retiro de un termotanque. No sé dónde se descarta 🥺",
     "fecha": "2026-07-09T12:53:04.791Z",
-    "ultimaActualizacion": "2026-07-09T12:56:09.592Z",
+    "ultimaActualizacion": "2026-07-13T12:12:23.469Z",
     "historialMensajes": [
       {
         "texto": "Hola! Buenos días. Quisiera solicitar el retiro de un termotanque. No sé dónde se descarta 🥺",
@@ -40212,6 +40212,11 @@
       {
         "texto": "Ayacucho 327 PB F",
         "fecha": "2026-07-09T12:56:09.592Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "San Lorenzo 906 portón negro",
+        "fecha": "2026-07-13T12:12:23.469Z",
         "sentimiento": "neutro"
       }
     ]
