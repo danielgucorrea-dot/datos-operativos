@@ -42600,5 +42600,23 @@
         "sentimiento": "positivo"
       }
     ]
+  },
+  {
+    "numero": "45539588632671",
+    "celular": "+54 9 3813 001-644",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Buenas tardes! Tengo bolsas de escombros en mi domicilio. Como tramito para que me lo retiren? Muchas gracias",
+    "mensaje": "Buenas tardes! Tengo bolsas de escombros en mi domicilio. Como tramito para que me lo retiren? Muchas gracias",
+    "fecha": "2026-07-13T20:44:46.936Z",
+    "ultimaActualizacion": "2026-07-13T20:44:46.936Z",
+    "historialMensajes": [
+      {
+        "texto": "Buenas tardes! Tengo bolsas de escombros en mi domicilio. Como tramito para que me lo retiren? Muchas gracias",
+        "fecha": "2026-07-13T20:44:46.936Z",
+        "sentimiento": "positivo"
+      }
+    ]
   }
 ]
