@@ -14524,7 +14524,20 @@
       "Me pueden avisar 🙏",
       "Hola buenas tardes quisiera hacer una denuncia por un vecino que tiro toda su basura en medio de la calle , perjudicando a los peatones y vehículos que circulan sobre esta calle.\nLa dirección es sargento Cabral 1800 entre Colombia y pasaje holmbergs (barrio Echeverría)"
     ],
-    "ultimaActualizacion": "2026-06-08"
+    "ultimaActualizacion": "2026-07-13T16:55:20.289Z",
+    "ultimoMensaje": "Calle Colombia 2542 soy Marisa Tabernero",
+    "historialMensajes": [
+      {
+        "texto": "Hola buenas tardes podrían ustedes pasar a buscar una parte de hormigón que quedó en la vereda y una bolsa con tierra 🙏",
+        "fecha": "2026-07-13T16:55:09.798Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Calle Colombia 2542 soy Marisa Tabernero",
+        "fecha": "2026-07-13T16:55:20.289Z",
+        "sentimiento": "neutro"
+      }
+    ]
   },
   {
     "numero": "43495268061324",
