@@ -906,11 +906,11 @@
     "celular": "+54 9 3815 224-717",
     "nombre": "",
     "direccion": "barrio san Miguel",
-    "sentimiento": "positivo",
-    "ultimoMensaje": "Buen día Sr,Sra por favor necesito que me saquen los troncos del árbol \"por favor\"",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Si no pueden con los troncos aunque sea las ramas",
     "mensaje": "Buen día me comunico con ustedes para pedirles un favor: que me lleven los troncos de un árbol que me podaron.muchas gracias",
     "fecha": "2026-07-06T15:25:43.402Z",
-    "ultimaActualizacion": "2026-07-13T12:57:07.651Z",
+    "ultimaActualizacion": "2026-07-13T13:04:31.800Z",
     "historialMensajes": [
       {
         "texto": "Buen día me comunico con ustedes para pedirles un favor: que me lleven los troncos de un árbol que me podaron.muchas gracias",
@@ -956,6 +956,11 @@
         "texto": "Buen día Sr,Sra por favor necesito que me saquen los troncos del árbol \"por favor\"",
         "fecha": "2026-07-13T12:57:07.651Z",
         "sentimiento": "positivo"
+      },
+      {
+        "texto": "Si no pueden con los troncos aunque sea las ramas",
+        "fecha": "2026-07-13T13:04:31.800Z",
+        "sentimiento": "neutro"
       }
     ]
   },
