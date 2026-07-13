@@ -40194,10 +40194,10 @@
     "nombre": "",
     "direccion": "Ayacucho 327",
     "sentimiento": "neutro",
-    "ultimoMensaje": "San Lorenzo 906 portón negro",
+    "ultimoMensaje": "Ustedes me avisarían cuando lo buscan?",
     "mensaje": "Hola! Buenos días. Quisiera solicitar el retiro de un termotanque. No sé dónde se descarta 🥺",
     "fecha": "2026-07-09T12:53:04.791Z",
-    "ultimaActualizacion": "2026-07-13T12:12:23.469Z",
+    "ultimaActualizacion": "2026-07-13T12:12:31.023Z",
     "historialMensajes": [
       {
         "texto": "Hola! Buenos días. Quisiera solicitar el retiro de un termotanque. No sé dónde se descarta 🥺",
@@ -40218,6 +40218,11 @@
         "texto": "San Lorenzo 906 portón negro",
         "fecha": "2026-07-13T12:12:23.469Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Ustedes me avisarían cuando lo buscan?",
+        "fecha": "2026-07-13T12:12:31.023Z",
+        "sentimiento": "neutro"
       }
     ]
   },
@@ -40226,11 +40231,11 @@
     "celular": "+54 9 3813 675-370",
     "nombre": "",
     "direccion": "calle España 190",
-    "sentimiento": "positivo",
-    "ultimoMensaje": "Tengo escombros para retirar de la calle España 190",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Estoy en un velorio del padre de mis hijos whora",
     "mensaje": "Buenos días",
     "fecha": "2026-07-09T14:47:53.141Z",
-    "ultimaActualizacion": "2026-07-09T14:47:57.689Z",
+    "ultimaActualizacion": "2026-07-13T12:12:32.902Z",
     "historialMensajes": [
       {
         "texto": "Buenos días",
@@ -40246,6 +40251,11 @@
         "texto": "Tengo escombros para retirar de la calle España 190",
         "fecha": "2026-07-09T14:47:57.689Z",
         "sentimiento": "positivo"
+      },
+      {
+        "texto": "Estoy en un velorio del padre de mis hijos whora",
+        "fecha": "2026-07-13T12:12:32.902Z",
+        "sentimiento": "neutro"
       }
     ]
   },
