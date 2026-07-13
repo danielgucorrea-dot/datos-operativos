@@ -7136,7 +7136,7 @@
     "celular": "+54 9 3816 361-773",
     "nombre": "",
     "direccion": "Pasaje Petit de Murat 200",
-    "sentimiento": "neutro",
+    "sentimiento": "negativo",
     "evidencia_clasificacion": [],
     "canal": "WhatsApp Ambiente",
     "fecha": "2026-06-23",
@@ -7150,8 +7150,8 @@
       "Dirección Pasaje Petit de Murat 200 (alt camino del Perú al 200)",
       "Buen día"
     ],
-    "ultimaActualizacion": "2026-07-13T14:51:09.109Z",
-    "ultimoMensaje": "Dirección Pasaje Petit de Murat 200 (alt camino del Perú al 200)",
+    "ultimaActualizacion": "2026-07-13T14:52:05.274Z",
+    "ultimoMensaje": "Ya mandé mensaje varias veces, vienen levantan dos bolsas y se van, y siguen tirando más ramas y basura, se hizo muy grande el basural ya, necesito vengan y saquen todo con las ramas incluidas",
     "historialMensajes": [
       {
         "texto": "Buen día",
@@ -7162,6 +7162,11 @@
         "texto": "Dirección Pasaje Petit de Murat 200 (alt camino del Perú al 200)",
         "fecha": "2026-07-13T14:51:09.109Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Ya mandé mensaje varias veces, vienen levantan dos bolsas y se van, y siguen tirando más ramas y basura, se hizo muy grande el basural ya, necesito vengan y saquen todo con las ramas incluidas",
+        "fecha": "2026-07-13T14:52:05.274Z",
+        "sentimiento": "negativo"
       }
     ]
   },
