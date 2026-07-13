@@ -40232,10 +40232,10 @@
     "nombre": "",
     "direccion": "calle España 190",
     "sentimiento": "neutro",
-    "ultimoMensaje": "Estoy en un velorio del padre de mis hijos whora",
+    "ultimoMensaje": "Están los escombros y se sacaron cajas de cartón y no sé si se la habrán llevado los cartoneros",
     "mensaje": "Buenos días",
     "fecha": "2026-07-09T14:47:53.141Z",
-    "ultimaActualizacion": "2026-07-13T12:12:32.902Z",
+    "ultimaActualizacion": "2026-07-13T12:13:18.256Z",
     "historialMensajes": [
       {
         "texto": "Buenos días",
@@ -40255,6 +40255,11 @@
       {
         "texto": "Estoy en un velorio del padre de mis hijos whora",
         "fecha": "2026-07-13T12:12:32.902Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Están los escombros y se sacaron cajas de cartón y no sé si se la habrán llevado los cartoneros",
+        "fecha": "2026-07-13T12:13:18.256Z",
         "sentimiento": "neutro"
       }
     ]
