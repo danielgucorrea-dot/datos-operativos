@@ -42411,5 +42411,23 @@
         "sentimiento": "negativo"
       }
     ]
+  },
+  {
+    "numero": "56831141507150",
+    "celular": "+54 9 3812 208-279",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Hola",
+    "mensaje": "Hola",
+    "fecha": "2026-07-13T17:39:57.852Z",
+    "ultimaActualizacion": "2026-07-13T17:39:57.852Z",
+    "historialMensajes": [
+      {
+        "texto": "Hola",
+        "fecha": "2026-07-13T17:39:57.852Z",
+        "sentimiento": "neutro"
+      }
+    ]
   }
 ]
