@@ -41467,11 +41467,11 @@
     "celular": "+54 9 3815 748-544",
     "nombre": "",
     "direccion": "Congreso de Tucumán 2707",
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Congreso de Tucumán 2707",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Muchísimas gracias",
     "mensaje": "Hola buen día",
     "fecha": "2026-07-12T12:53:59.045Z",
-    "ultimaActualizacion": "2026-07-13T15:57:02.761Z",
+    "ultimaActualizacion": "2026-07-13T15:59:33.673Z",
     "historialMensajes": [
       {
         "texto": "Hola buen día",
@@ -41502,6 +41502,11 @@
         "texto": "Congreso de Tucumán 2707",
         "fecha": "2026-07-13T15:57:02.761Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Muchísimas gracias",
+        "fecha": "2026-07-13T15:59:33.673Z",
+        "sentimiento": "positivo"
       }
     ]
   },
