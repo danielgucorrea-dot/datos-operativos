@@ -40811,11 +40811,11 @@
     "celular": "+54 9 3815 803-537",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "positivo",
-    "ultimoMensaje": "Así coordinamos y pueden llevar los residuos",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Qué solución me daría",
     "mensaje": "Buen día",
     "fecha": "2026-07-10T15:04:43.724Z",
-    "ultimaActualizacion": "2026-07-13T15:06:31.353Z",
+    "ultimaActualizacion": "2026-07-13T15:06:34.119Z",
     "historialMensajes": [
       {
         "texto": "Buen día",
@@ -40851,6 +40851,11 @@
         "texto": "Así coordinamos y pueden llevar los residuos",
         "fecha": "2026-07-13T15:06:31.353Z",
         "sentimiento": "positivo"
+      },
+      {
+        "texto": "Qué solución me daría",
+        "fecha": "2026-07-13T15:06:34.119Z",
+        "sentimiento": "neutro"
       }
     ]
   },
