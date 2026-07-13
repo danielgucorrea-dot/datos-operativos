@@ -41907,11 +41907,11 @@
     "celular": "+54 9 3816 550-208",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "negativo",
-    "ultimoMensaje": "Pero me dijeron que no las saqué a la vereda hasta q ustedes vayan",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Si por favor",
     "mensaje": "Hola buen día para solicitar recolección de residuos no habituales",
     "fecha": "2026-07-13T13:46:47.413Z",
-    "ultimaActualizacion": "2026-07-13T15:46:07.245Z",
+    "ultimaActualizacion": "2026-07-13T17:26:33.383Z",
     "historialMensajes": [
       {
         "texto": "Hola buen día para solicitar recolección de residuos no habituales",
@@ -41937,6 +41937,11 @@
         "texto": "Pero me dijeron que no las saqué a la vereda hasta q ustedes vayan",
         "fecha": "2026-07-13T15:46:07.245Z",
         "sentimiento": "negativo"
+      },
+      {
+        "texto": "Si por favor",
+        "fecha": "2026-07-13T17:26:33.383Z",
+        "sentimiento": "neutro"
       }
     ]
   },
@@ -42357,6 +42362,24 @@
       {
         "texto": "Buenas tardes. Me comunique con el numero de higiene urbana y no me da respuesta. Alguien tiro un animal muerto en mi casa. Necesito que alguien se lo lleve por favor",
         "fecha": "2026-07-13T17:10:19.907Z",
+        "sentimiento": "negativo"
+      }
+    ]
+  },
+  {
+    "numero": "254854886907965",
+    "celular": "+54 9 3815 002-027",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "negativo",
+    "ultimoMensaje": "Hay mucha basura que no son residuos",
+    "mensaje": "Hay mucha basura que no son residuos",
+    "fecha": "2026-07-13T17:28:14.060Z",
+    "ultimaActualizacion": "2026-07-13T17:28:14.060Z",
+    "historialMensajes": [
+      {
+        "texto": "Hay mucha basura que no son residuos",
+        "fecha": "2026-07-13T17:28:14.060Z",
         "sentimiento": "negativo"
       }
     ]
