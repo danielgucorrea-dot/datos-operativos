@@ -41498,11 +41498,11 @@
     "celular": "+54 9 3816 684-407",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "positivo",
-    "ultimoMensaje": "es mucha cantidad...tiene q contratar un contenedor",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "si...ya lo pase",
     "mensaje": "buen dia",
     "fecha": "2026-07-13T12:35:57.936Z",
-    "ultimaActualizacion": "2026-07-13T12:40:14.525Z",
+    "ultimaActualizacion": "2026-07-13T14:50:59.221Z",
     "historialMensajes": [
       {
         "texto": "buen dia",
@@ -41518,6 +41518,11 @@
         "texto": "es mucha cantidad...tiene q contratar un contenedor",
         "fecha": "2026-07-13T12:40:14.525Z",
         "sentimiento": "positivo"
+      },
+      {
+        "texto": "si...ya lo pase",
+        "fecha": "2026-07-13T14:50:59.221Z",
+        "sentimiento": "neutro"
       }
     ]
   },
