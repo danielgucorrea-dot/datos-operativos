@@ -41866,10 +41866,10 @@
     "nombre": "",
     "direccion": "barrio sur",
     "sentimiento": "positivo",
-    "ultimoMensaje": "Tengo 10 bolsas",
+    "ultimoMensaje": "Perfecto",
     "mensaje": "Buen día para pedir servicio de residuo no habituales tengo bolsas con escombros",
     "fecha": "2026-07-13T14:15:33.092Z",
-    "ultimaActualizacion": "2026-07-13T15:31:46.166Z",
+    "ultimaActualizacion": "2026-07-13T15:34:02.341Z",
     "historialMensajes": [
       {
         "texto": "Buen día para pedir servicio de residuo no habituales tengo bolsas con escombros",
@@ -41884,6 +41884,11 @@
       {
         "texto": "Tengo 10 bolsas",
         "fecha": "2026-07-13T15:31:46.166Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Perfecto",
+        "fecha": "2026-07-13T15:34:02.341Z",
         "sentimiento": "positivo"
       }
     ]
