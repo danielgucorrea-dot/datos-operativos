@@ -41520,11 +41520,11 @@
     "celular": "+54 9 3816 550-208",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "positivo",
-    "ultimoMensaje": "Restos de poda domiciliaria",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Dirección: junin 2050",
     "mensaje": "Hola buen día para solicitar recolección de residuos no habituales",
     "fecha": "2026-07-13T13:46:47.413Z",
-    "ultimaActualizacion": "2026-07-13T13:47:02.938Z",
+    "ultimaActualizacion": "2026-07-13T13:47:50.613Z",
     "historialMensajes": [
       {
         "texto": "Hola buen día para solicitar recolección de residuos no habituales",
@@ -41535,6 +41535,11 @@
         "texto": "Restos de poda domiciliaria",
         "fecha": "2026-07-13T13:47:02.938Z",
         "sentimiento": "positivo"
+      },
+      {
+        "texto": "Dirección: junin 2050",
+        "fecha": "2026-07-13T13:47:50.613Z",
+        "sentimiento": "neutro"
       }
     ]
   }
