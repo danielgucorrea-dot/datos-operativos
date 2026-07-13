@@ -41313,10 +41313,10 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "positivo",
-    "ultimoMensaje": "y ya se le habia retirado todo y esta pidiendo de nuevo?",
+    "ultimoMensaje": "es mucha cantidad...tiene q contratar un contenedor",
     "mensaje": "buen dia",
     "fecha": "2026-07-13T12:35:57.936Z",
-    "ultimaActualizacion": "2026-07-13T12:36:12.072Z",
+    "ultimaActualizacion": "2026-07-13T12:40:14.525Z",
     "historialMensajes": [
       {
         "texto": "buen dia",
@@ -41326,6 +41326,11 @@
       {
         "texto": "y ya se le habia retirado todo y esta pidiendo de nuevo?",
         "fecha": "2026-07-13T12:36:12.072Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "es mucha cantidad...tiene q contratar un contenedor",
+        "fecha": "2026-07-13T12:40:14.525Z",
         "sentimiento": "positivo"
       }
     ]
