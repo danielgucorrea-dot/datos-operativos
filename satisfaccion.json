@@ -42711,16 +42711,21 @@
     "celular": "+54 9 3816 451-705",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Buenas tardes",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Para solicitar el retiro de ramas y hojas",
     "mensaje": "Buenas tardes",
     "fecha": "2026-07-13T21:55:37.110Z",
-    "ultimaActualizacion": "2026-07-13T21:55:37.110Z",
+    "ultimaActualizacion": "2026-07-13T21:56:18.210Z",
     "historialMensajes": [
       {
         "texto": "Buenas tardes",
         "fecha": "2026-07-13T21:55:37.110Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Para solicitar el retiro de ramas y hojas",
+        "fecha": "2026-07-13T21:56:18.210Z",
+        "sentimiento": "positivo"
       }
     ]
   }
