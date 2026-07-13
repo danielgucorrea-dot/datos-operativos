@@ -40386,16 +40386,21 @@
     "celular": "+54 9 3816 442-498",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Buen día, quiero solicitar el retiro de residuos no habituales de mi domicilio",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Buen día, muchas gracias!",
     "mensaje": "Buen día, quiero solicitar el retiro de residuos no habituales de mi domicilio",
     "fecha": "2026-07-10T12:19:21.108Z",
-    "ultimaActualizacion": "2026-07-10T12:19:21.108Z",
+    "ultimaActualizacion": "2026-07-13T12:18:40.433Z",
     "historialMensajes": [
       {
         "texto": "Buen día, quiero solicitar el retiro de residuos no habituales de mi domicilio",
         "fecha": "2026-07-10T12:19:21.108Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Buen día, muchas gracias!",
+        "fecha": "2026-07-13T12:18:40.433Z",
+        "sentimiento": "positivo"
       }
     ]
   },
