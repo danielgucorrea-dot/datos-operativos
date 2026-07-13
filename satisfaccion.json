@@ -41514,5 +41514,23 @@
         "sentimiento": "positivo"
       }
     ]
+  },
+  {
+    "numero": "266112096849944",
+    "celular": "+54 9 3816 550-208",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Hola buen día para solicitar recolección de residuos no habituales",
+    "mensaje": "Hola buen día para solicitar recolección de residuos no habituales",
+    "fecha": "2026-07-13T13:46:47.413Z",
+    "ultimaActualizacion": "2026-07-13T13:46:47.413Z",
+    "historialMensajes": [
+      {
+        "texto": "Hola buen día para solicitar recolección de residuos no habituales",
+        "fecha": "2026-07-13T13:46:47.413Z",
+        "sentimiento": "neutro"
+      }
+    ]
   }
 ]
