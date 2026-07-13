@@ -42513,5 +42513,28 @@
         "sentimiento": "neutro"
       }
     ]
+  },
+  {
+    "numero": "205780640866433",
+    "celular": "+54 9 3814 122-389",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Necesito hacer un pedido de recomendación de basura no habitual",
+    "mensaje": "Buenas tardes",
+    "fecha": "2026-07-13T19:43:03.548Z",
+    "ultimaActualizacion": "2026-07-13T19:44:26.154Z",
+    "historialMensajes": [
+      {
+        "texto": "Buenas tardes",
+        "fecha": "2026-07-13T19:43:03.548Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Necesito hacer un pedido de recomendación de basura no habitual",
+        "fecha": "2026-07-13T19:44:26.154Z",
+        "sentimiento": "positivo"
+      }
+    ]
   }
 ]
