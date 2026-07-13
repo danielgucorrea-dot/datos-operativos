@@ -41655,10 +41655,10 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "neutro",
-    "ultimoMensaje": "Entonces sería el ropero,la TV y la estufa lo q se llevarían?",
+    "ultimoMensaje": "Para q día habría retiro?",
     "mensaje": "Buenos días, quisiera solicitar el servicio para retirar... Cómo debo hacer?",
     "fecha": "2026-07-13T13:19:16.454Z",
-    "ultimaActualizacion": "2026-07-13T15:24:11.983Z",
+    "ultimaActualizacion": "2026-07-13T15:26:07.681Z",
     "historialMensajes": [
       {
         "texto": "Buenos días, quisiera solicitar el servicio para retirar... Cómo debo hacer?",
@@ -41673,6 +41673,11 @@
       {
         "texto": "Entonces sería el ropero,la TV y la estufa lo q se llevarían?",
         "fecha": "2026-07-13T15:24:11.983Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Para q día habría retiro?",
+        "fecha": "2026-07-13T15:26:07.681Z",
         "sentimiento": "neutro"
       }
     ]
