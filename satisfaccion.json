@@ -41281,5 +41281,23 @@
         "sentimiento": "neutro"
       }
     ]
+  },
+  {
+    "numero": "246432439209990",
+    "celular": "+54 9 3816 684-407",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "buen dia",
+    "mensaje": "buen dia",
+    "fecha": "2026-07-13T12:35:57.936Z",
+    "ultimaActualizacion": "2026-07-13T12:35:57.936Z",
+    "historialMensajes": [
+      {
+        "texto": "buen dia",
+        "fecha": "2026-07-13T12:35:57.936Z",
+        "sentimiento": "neutro"
+      }
+    ]
   }
 ]
