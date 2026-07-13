@@ -41644,16 +41644,21 @@
     "celular": "+54 9 3813 476-771",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "positivo",
-    "ultimoMensaje": "Buenos días, quisiera solicitar el servicio para retirar... Cómo debo hacer?",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Es un ropero desarmado, un tv , y cacharros",
     "mensaje": "Buenos días, quisiera solicitar el servicio para retirar... Cómo debo hacer?",
     "fecha": "2026-07-13T13:19:16.454Z",
-    "ultimaActualizacion": "2026-07-13T13:19:16.454Z",
+    "ultimaActualizacion": "2026-07-13T15:22:17.228Z",
     "historialMensajes": [
       {
         "texto": "Buenos días, quisiera solicitar el servicio para retirar... Cómo debo hacer?",
         "fecha": "2026-07-13T13:19:16.454Z",
         "sentimiento": "positivo"
+      },
+      {
+        "texto": "Es un ropero desarmado, un tv , y cacharros",
+        "fecha": "2026-07-13T15:22:17.228Z",
+        "sentimiento": "neutro"
       }
     ]
   },
