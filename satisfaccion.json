@@ -42683,11 +42683,11 @@
     "celular": "+54 9 3814 013-352",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "positivo",
-    "ultimoMensaje": "Me comunico para solicitar por favor el  retiro de electrodomésticos (📺 tv viejos para tirar) son 9. En mi domicilio",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Son algunos grandes y otros pequeños",
     "mensaje": "Buenas tardes",
     "fecha": "2026-07-13T21:49:42.142Z",
-    "ultimaActualizacion": "2026-07-13T21:52:03.822Z",
+    "ultimaActualizacion": "2026-07-13T21:53:15.791Z",
     "historialMensajes": [
       {
         "texto": "Buenas tardes",
@@ -42698,6 +42698,11 @@
         "texto": "Me comunico para solicitar por favor el  retiro de electrodomésticos (📺 tv viejos para tirar) son 9. En mi domicilio",
         "fecha": "2026-07-13T21:52:03.822Z",
         "sentimiento": "positivo"
+      },
+      {
+        "texto": "Son algunos grandes y otros pequeños",
+        "fecha": "2026-07-13T21:53:15.791Z",
+        "sentimiento": "neutro"
       }
     ]
   }
