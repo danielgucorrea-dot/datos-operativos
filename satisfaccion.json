@@ -41874,11 +41874,11 @@
     "celular": "+54 9 3813 916-200",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "positivo",
-    "ultimoMensaje": "Quería saber cómo tengo que hacer para que vengan a levantar ramas",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Cuánto tiempo tardan para venir",
     "mensaje": "Hola buenos días",
     "fecha": "2026-07-13T13:37:57.391Z",
-    "ultimaActualizacion": "2026-07-13T13:41:51.538Z",
+    "ultimaActualizacion": "2026-07-13T17:10:21.991Z",
     "historialMensajes": [
       {
         "texto": "Hola buenos días",
@@ -41889,6 +41889,11 @@
         "texto": "Quería saber cómo tengo que hacer para que vengan a levantar ramas",
         "fecha": "2026-07-13T13:41:51.538Z",
         "sentimiento": "positivo"
+      },
+      {
+        "texto": "Cuánto tiempo tardan para venir",
+        "fecha": "2026-07-13T17:10:21.991Z",
+        "sentimiento": "neutro"
       }
     ]
   },
@@ -42330,6 +42335,24 @@
         "texto": "Muchas gracias lo esperamos",
         "fecha": "2026-07-13T16:15:31.146Z",
         "sentimiento": "positivo"
+      }
+    ]
+  },
+  {
+    "numero": "213679068954631",
+    "celular": "+54 9 3813 996-126",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "negativo",
+    "ultimoMensaje": "Buenas tardes. Me comunique con el numero de higiene urbana y no me da respuesta. Alguien tiro un animal muerto en mi casa. Necesito que alguien se lo lleve por favor",
+    "mensaje": "Buenas tardes. Me comunique con el numero de higiene urbana y no me da respuesta. Alguien tiro un animal muerto en mi casa. Necesito que alguien se lo lleve por favor",
+    "fecha": "2026-07-13T17:10:19.907Z",
+    "ultimaActualizacion": "2026-07-13T17:10:19.907Z",
+    "historialMensajes": [
+      {
+        "texto": "Buenas tardes. Me comunique con el numero de higiene urbana y no me da respuesta. Alguien tiro un animal muerto en mi casa. Necesito que alguien se lo lleve por favor",
+        "fecha": "2026-07-13T17:10:19.907Z",
+        "sentimiento": "negativo"
       }
     ]
   }
