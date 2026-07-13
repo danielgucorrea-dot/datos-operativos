@@ -41893,14 +41893,24 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "neutro",
-    "ultimoMensaje": "Buenos dias",
+    "ultimoMensaje": "Van a poder venir?",
     "mensaje": "Buenos dias",
     "fecha": "2026-07-13T13:22:26.483Z",
-    "ultimaActualizacion": "2026-07-13T13:22:26.483Z",
+    "ultimaActualizacion": "2026-07-13T20:27:17.539Z",
     "historialMensajes": [
       {
         "texto": "Buenos dias",
         "fecha": "2026-07-13T13:22:26.483Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Disculpe",
+        "fecha": "2026-07-13T20:27:14.708Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Van a poder venir?",
+        "fecha": "2026-07-13T20:27:17.539Z",
         "sentimiento": "neutro"
       }
     ]
