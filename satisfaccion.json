@@ -5054,7 +5054,7 @@
   },
   {
     "numero": "252634355228694",
-    "celular": "",
+    "celular": "+54 9 3814 019-640",
     "nombre": "",
     "direccion": "Dirección santa fe 4130",
     "sentimiento": "neutro",
@@ -5066,7 +5066,15 @@
       "Retiró de ramas de árbol de la vereda. \nDirección santa fe 4130, san Miguel de Tucumán",
       "Hola buenas tardes"
     ],
-    "ultimaActualizacion": "2026-06-25"
+    "ultimaActualizacion": "2026-07-13T17:28:37.849Z",
+    "ultimoMensaje": "Hola",
+    "historialMensajes": [
+      {
+        "texto": "Hola",
+        "fecha": "2026-07-13T17:28:37.849Z",
+        "sentimiento": "neutro"
+      }
+    ]
   },
   {
     "numero": "32379909496840",
