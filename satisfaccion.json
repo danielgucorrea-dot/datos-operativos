@@ -7150,7 +7150,15 @@
       "Dirección Pasaje Petit de Murat 200 (alt camino del Perú al 200)",
       "Buen día"
     ],
-    "ultimaActualizacion": "2026-06-23"
+    "ultimaActualizacion": "2026-07-13T14:50:52.185Z",
+    "ultimoMensaje": "Buen día",
+    "historialMensajes": [
+      {
+        "texto": "Buen día",
+        "fecha": "2026-07-13T14:50:52.185Z",
+        "sentimiento": "neutro"
+      }
+    ]
   },
   {
     "numero": "260816251175165",
@@ -23724,14 +23732,9 @@
       "Quiero solicitar el retiro de residuos no habituales",
       "Buenos días"
     ],
-    "ultimaActualizacion": "2026-07-13T14:50:42.066Z",
-    "ultimoMensaje": "7 de Membrana y tierra",
+    "ultimaActualizacion": "2026-07-13T14:50:54.647Z",
+    "ultimoMensaje": "Podrían retirar eso?",
     "historialMensajes": [
-      {
-        "texto": "Restos de Membrana y tierra",
-        "fecha": "2026-07-10T19:23:17.541Z",
-        "sentimiento": "negativo"
-      },
       {
         "texto": "Arena",
         "fecha": "2026-07-10T19:23:47.998Z",
@@ -23775,6 +23778,11 @@
       {
         "texto": "7 de Membrana y tierra",
         "fecha": "2026-07-13T14:50:42.066Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Podrían retirar eso?",
+        "fecha": "2026-07-13T14:50:54.647Z",
         "sentimiento": "neutro"
       }
     ]
