@@ -41726,12 +41726,12 @@
     "numero": "190868363411537",
     "celular": "+54 9 3813 476-771",
     "nombre": "",
-    "direccion": null,
+    "direccion": "Santa fe 3379",
     "sentimiento": "neutro",
-    "ultimoMensaje": "Para q día habría retiro?",
+    "ultimoMensaje": "Santa fe 3379",
     "mensaje": "Buenos días, quisiera solicitar el servicio para retirar... Cómo debo hacer?",
     "fecha": "2026-07-13T13:19:16.454Z",
-    "ultimaActualizacion": "2026-07-13T15:26:07.681Z",
+    "ultimaActualizacion": "2026-07-13T15:49:04.814Z",
     "historialMensajes": [
       {
         "texto": "Buenos días, quisiera solicitar el servicio para retirar... Cómo debo hacer?",
@@ -41751,6 +41751,11 @@
       {
         "texto": "Para q día habría retiro?",
         "fecha": "2026-07-13T15:26:07.681Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Santa fe 3379",
+        "fecha": "2026-07-13T15:49:04.814Z",
         "sentimiento": "neutro"
       }
     ]
