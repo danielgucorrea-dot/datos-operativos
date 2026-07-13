@@ -39899,16 +39899,11 @@
     "nombre": "",
     "direccion": "Pasaje storni 3124",
     "sentimiento": "neutro",
-    "ultimoMensaje": "Si ya se pero las guarde ayer",
+    "ultimoMensaje": "O trabajan hasta los domingos?",
     "mensaje": "Buenos dias",
     "fecha": "2026-07-08T14:00:16.381Z",
-    "ultimaActualizacion": "2026-07-13T15:12:09.539Z",
+    "ultimaActualizacion": "2026-07-13T15:12:17.069Z",
     "historialMensajes": [
-      {
-        "texto": "Buenos dias quería hacer una consulta",
-        "fecha": "2026-07-09T18:25:56.096Z",
-        "sentimiento": "neutro"
-      },
       {
         "texto": "Buenas tardes",
         "fecha": "2026-07-09T18:26:10.088Z",
@@ -39952,6 +39947,11 @@
       {
         "texto": "Si ya se pero las guarde ayer",
         "fecha": "2026-07-13T15:12:09.539Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "O trabajan hasta los domingos?",
+        "fecha": "2026-07-13T15:12:17.069Z",
         "sentimiento": "neutro"
       }
     ]
