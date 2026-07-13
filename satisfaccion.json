@@ -42380,14 +42380,19 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "negativo",
-    "ultimoMensaje": "Hay mucha basura que no son residuos",
+    "ultimoMensaje": "Y tiraron escombro dentro del contenedor... asi que el camion recolector no puede levantarlo",
     "mensaje": "Hay mucha basura que no son residuos",
     "fecha": "2026-07-13T17:28:14.060Z",
-    "ultimaActualizacion": "2026-07-13T17:28:14.060Z",
+    "ultimaActualizacion": "2026-07-13T17:29:08.052Z",
     "historialMensajes": [
       {
         "texto": "Hay mucha basura que no son residuos",
         "fecha": "2026-07-13T17:28:14.060Z",
+        "sentimiento": "negativo"
+      },
+      {
+        "texto": "Y tiraron escombro dentro del contenedor... asi que el camion recolector no puede levantarlo",
+        "fecha": "2026-07-13T17:29:08.052Z",
         "sentimiento": "negativo"
       }
     ]
