@@ -29827,7 +29827,7 @@
     "celular": "+54 9 3813 006-709",
     "nombre": "",
     "direccion": "",
-    "sentimiento": "positivo",
+    "sentimiento": "neutro",
     "evidencia_clasificacion": [],
     "canal": "WhatsApp Ambiente",
     "fecha": "2026-04-30",
@@ -29839,8 +29839,8 @@
       "Tengo residuos  para tirar son unas bolsas de tierra y ramas... Y unas maderas .. cómo debo hacer",
       "Buenas tardes"
     ],
-    "ultimaActualizacion": "2026-07-10T12:32:14.901Z",
-    "ultimoMensaje": "Buen día tengo estás ramas q hice podar el árbol de casa...cómo debo hacer para q lo lleven?",
+    "ultimaActualizacion": "2026-07-13T12:19:16.124Z",
+    "ultimoMensaje": "Si .debo prepararlo en bolsa s?",
     "historialMensajes": [
       {
         "texto": "Buenas tardes hice podar mi árbol como hago para q me lleven las ramas?",
@@ -29851,6 +29851,11 @@
         "texto": "Buen día tengo estás ramas q hice podar el árbol de casa...cómo debo hacer para q lo lleven?",
         "fecha": "2026-07-10T12:32:14.901Z",
         "sentimiento": "positivo"
+      },
+      {
+        "texto": "Si .debo prepararlo en bolsa s?",
+        "fecha": "2026-07-13T12:19:16.124Z",
+        "sentimiento": "neutro"
       }
     ]
   },
