@@ -41112,10 +41112,10 @@
     "nombre": "",
     "direccion": "Constitución 1937",
     "sentimiento": "neutro",
-    "ultimoMensaje": "San Miguel de Tucumán",
+    "ultimoMensaje": "Holaa buen dia",
     "mensaje": "Hola",
     "fecha": "2026-07-11T15:05:41.305Z",
-    "ultimaActualizacion": "2026-07-11T15:06:17.044Z",
+    "ultimaActualizacion": "2026-07-13T14:20:07.396Z",
     "historialMensajes": [
       {
         "texto": "Hola",
@@ -41130,6 +41130,11 @@
       {
         "texto": "San Miguel de Tucumán",
         "fecha": "2026-07-11T15:06:17.044Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Holaa buen dia",
+        "fecha": "2026-07-13T14:20:07.396Z",
         "sentimiento": "neutro"
       }
     ]
