@@ -39470,10 +39470,10 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "neutro",
-    "ultimoMensaje": "Buen día! Escombros",
+    "ultimoMensaje": "Buenas",
     "mensaje": "Buen día!",
     "fecha": "2026-07-07T12:36:58.156Z",
-    "ultimaActualizacion": "2026-07-07T14:44:00.360Z",
+    "ultimaActualizacion": "2026-07-13T14:54:58.515Z",
     "historialMensajes": [
       {
         "texto": "Buen día!",
@@ -39488,6 +39488,11 @@
       {
         "texto": "Buen día! Escombros",
         "fecha": "2026-07-07T14:44:00.360Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Buenas",
+        "fecha": "2026-07-13T14:54:58.515Z",
         "sentimiento": "neutro"
       }
     ]
