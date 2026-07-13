@@ -40682,11 +40682,11 @@
     "celular": "+54 9 3814 774-282",
     "nombre": "",
     "direccion": "Republica del Líbano 1240",
-    "sentimiento": "positivo",
-    "ultimoMensaje": "Hola, buenos días!!!!!!, necesitaría que me retiren residuos de poda y de cesped de mi domicilio Avda.Republica del Líbano 1240 San Miguel de Tucumán, gracias.",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Hola, buenos días!!!!!",
     "mensaje": "Hola, buenos días!!!!!!, necesitaría que me retiren residuos de poda y de cesped de mi domicilio Avda.Republica del Líbano 1240 San Miguel de Tucumán, gracias.",
     "fecha": "2026-07-10T14:32:36.534Z",
-    "ultimaActualizacion": "2026-07-10T14:32:38.429Z",
+    "ultimaActualizacion": "2026-07-13T13:46:25.425Z",
     "historialMensajes": [
       {
         "texto": "Hola, buenos días!!!!!!, necesitaría que me retiren residuos de poda y de cesped de mi domicilio Avda.Republica del Líbano 1240 San Miguel de Tucumán, gracias.",
@@ -40697,6 +40697,11 @@
         "texto": "Hola, buenos días!!!!!!, necesitaría que me retiren residuos de poda y de cesped de mi domicilio Avda.Republica del Líbano 1240 San Miguel de Tucumán, gracias.",
         "fecha": "2026-07-10T14:32:38.429Z",
         "sentimiento": "positivo"
+      },
+      {
+        "texto": "Hola, buenos días!!!!!",
+        "fecha": "2026-07-13T13:46:25.425Z",
+        "sentimiento": "neutro"
       }
     ]
   },
@@ -41487,16 +41492,21 @@
     "celular": "+54 9 3813 916-200",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Hola buenos días",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Quería saber cómo tengo que hacer para que vengan a levantar ramas",
     "mensaje": "Hola buenos días",
     "fecha": "2026-07-13T13:37:57.391Z",
-    "ultimaActualizacion": "2026-07-13T13:37:57.391Z",
+    "ultimaActualizacion": "2026-07-13T13:41:51.538Z",
     "historialMensajes": [
       {
         "texto": "Hola buenos días",
         "fecha": "2026-07-13T13:37:57.391Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Quería saber cómo tengo que hacer para que vengan a levantar ramas",
+        "fecha": "2026-07-13T13:41:51.538Z",
+        "sentimiento": "positivo"
       }
     ]
   }
