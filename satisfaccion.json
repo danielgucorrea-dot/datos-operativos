@@ -41353,11 +41353,11 @@
     "celular": "+54 9 3815 532-851",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "negativo",
-    "ultimoMensaje": "El dia Sabado fue que se le rompio la bolsa y la tiro en el medio de la calle\nEl dia lunes yo saque una caja de pollo vacia cuando la levanto se subio al camion y la volvio a pulsear para la vereda\nEl parece se enoja poque hay mucha basura  pero aca son varios departamentos \nAveces hay mucha otras nada \nYo no me po dre a discutir con el \nNo es lo que corresponde \nYo no falto el respeto  a nadie y pido que eso sea reciproco\nMuchas gra ia",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Aca el sabado pasa mas de las 13 y los dias  de semana a las 20 mas o menos",
     "mensaje": "Buenas tardes necesito saber donde puedo hacer un reclamo por el basurero  que pasa en el camión\nYa tuve inconvenientes hace un tiempo atrás \nNo levantaba la basura \nEra según el porque no podía pasar \nListo lo solucionamos \nAhora este hombre que entre paréntesis  es muy atrevido no levanta todo \nEn ciertas ocacioneshay mucha  basura en la vereda \nWs porque en mi terreno hay 4 departamentos \nPero e pasa y grita \n A la mierda que sacaron basura \nAhora ultimamente levanta las bolsas y no se si lo hace a proposito las rompe no todas pero siempre una rompe y la rebolea a la vereda \nYa los otros dias salio mi hijo y lo vio \nPido ,suplico que lo cambien de zona ya que quiero evitar problemas\nLe pido tenga en cuenta mi pedido desde ya muchas gracias \nPasaje campo de las carreras 1683 Ciudadela es mi direccion",
     "fecha": "2026-07-11T19:12:42.850Z",
-    "ultimaActualizacion": "2026-07-13T15:34:42.889Z",
+    "ultimaActualizacion": "2026-07-13T15:50:55.742Z",
     "historialMensajes": [
       {
         "texto": "Buenas tardes necesito saber donde puedo hacer un reclamo por el basurero  que pasa en el camión\nYa tuve inconvenientes hace un tiempo atrás \nNo levantaba la basura \nEra según el porque no podía pasar",
@@ -41373,6 +41373,11 @@
         "texto": "El dia Sabado fue que se le rompio la bolsa y la tiro en el medio de la calle\nEl dia lunes yo saque una caja de pollo vacia cuando la levanto se subio al camion y la volvio a pulsear para la vereda\nEl",
         "fecha": "2026-07-13T15:34:42.889Z",
         "sentimiento": "negativo"
+      },
+      {
+        "texto": "Aca el sabado pasa mas de las 13 y los dias  de semana a las 20 mas o menos",
+        "fecha": "2026-07-13T15:50:55.742Z",
+        "sentimiento": "neutro"
       }
     ]
   },
