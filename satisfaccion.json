@@ -19656,8 +19656,8 @@
     "conversacion_completa": [
       "Gracias ya lo retiraron"
     ],
-    "ultimaActualizacion": "2026-07-11T13:23:32.383Z",
-    "ultimoMensaje": "Solo limpiaron la punta de la esquina",
+    "ultimaActualizacion": "2026-07-13T19:34:16.328Z",
+    "ultimoMensaje": "gracias",
     "historialMensajes": [
       {
         "texto": "Hola, dónde tengo que dar aviso de como dejaron los cordones y mi vereda despues que terminaron una obra  buena en la sanjuan y belisario",
@@ -19692,6 +19692,11 @@
       {
         "texto": "Solo limpiaron la punta de la esquina",
         "fecha": "2026-07-11T13:23:32.383Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "gracias",
+        "fecha": "2026-07-13T19:34:16.328Z",
         "sentimiento": "positivo"
       }
     ]
