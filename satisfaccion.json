@@ -41871,14 +41871,19 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "positivo",
-    "ultimoMensaje": "Ok,no sabía,son 10 bolsas medianas",
+    "ultimoMensaje": "Ok muchas gracias",
     "mensaje": "Ok,no sabía,son 10 bolsas medianas",
     "fecha": "2026-07-13T15:01:16.244Z",
-    "ultimaActualizacion": "2026-07-13T15:01:16.244Z",
+    "ultimaActualizacion": "2026-07-13T15:03:08.103Z",
     "historialMensajes": [
       {
         "texto": "Ok,no sabía,son 10 bolsas medianas",
         "fecha": "2026-07-13T15:01:16.244Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Ok muchas gracias",
+        "fecha": "2026-07-13T15:03:08.103Z",
         "sentimiento": "positivo"
       }
     ]
