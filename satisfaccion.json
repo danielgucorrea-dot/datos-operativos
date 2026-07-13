@@ -42536,5 +42536,23 @@
         "sentimiento": "positivo"
       }
     ]
+  },
+  {
+    "numero": "86032624148592",
+    "celular": "+54 9 3815 210-089",
+    "nombre": "",
+    "direccion": "Barrio Congreso calle Mejico",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Buenas tardes, soy un vecino de Barrio Congreso calle Mejico 4500\nQuería saber si me pueden retirar las ramas de una poda de un árbol ficus , por favor",
+    "mensaje": "Buenas tardes, soy un vecino de Barrio Congreso calle Mejico 4500\nQuería saber si me pueden retirar las ramas de una poda de un árbol ficus , por favor",
+    "fecha": "2026-07-13T19:49:54.489Z",
+    "ultimaActualizacion": "2026-07-13T19:49:54.489Z",
+    "historialMensajes": [
+      {
+        "texto": "Buenas tardes, soy un vecino de Barrio Congreso calle Mejico 4500\nQuería saber si me pueden retirar las ramas de una poda de un árbol ficus , por favor",
+        "fecha": "2026-07-13T19:49:54.489Z",
+        "sentimiento": "positivo"
+      }
+    ]
   }
 ]
