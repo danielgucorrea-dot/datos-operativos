@@ -23673,8 +23673,8 @@
       "Quiero solicitar el retiro de residuos no habituales",
       "Buenos días"
     ],
-    "ultimaActualizacion": "2026-07-13T12:30:49.201Z",
-    "ultimoMensaje": "Buenos días",
+    "ultimaActualizacion": "2026-07-13T12:31:49.144Z",
+    "ultimoMensaje": "Av. Independencia 1756 \nSan Miguel de Tucumán",
     "historialMensajes": [
       {
         "texto": "Buenas tardes",
@@ -23699,6 +23699,11 @@
       {
         "texto": "Buenos días",
         "fecha": "2026-07-13T12:30:49.201Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Av. Independencia 1756 \nSan Miguel de Tucumán",
+        "fecha": "2026-07-13T12:31:49.144Z",
         "sentimiento": "neutro"
       }
     ]
