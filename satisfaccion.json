@@ -23742,14 +23742,9 @@
       "Quiero solicitar el retiro de residuos no habituales",
       "Buenos días"
     ],
-    "ultimaActualizacion": "2026-07-13T14:54:25.729Z",
-    "ultimoMensaje": "4 de arena y 1 de Membrana y tierra",
+    "ultimaActualizacion": "2026-07-13T14:56:48.114Z",
+    "ultimoMensaje": "Bueno, muchas gracias",
     "historialMensajes": [
-      {
-        "texto": "Av. Independencia 1756 \nSan Miguel de Tucumán",
-        "fecha": "2026-07-13T12:31:49.144Z",
-        "sentimiento": "neutro"
-      },
       {
         "texto": "Solicitamos el retiro de residuos",
         "fecha": "2026-07-13T12:32:07.792Z",
@@ -23793,6 +23788,11 @@
       {
         "texto": "4 de arena y 1 de Membrana y tierra",
         "fecha": "2026-07-13T14:54:25.729Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Bueno, muchas gracias",
+        "fecha": "2026-07-13T14:56:48.114Z",
         "sentimiento": "positivo"
       }
     ]
