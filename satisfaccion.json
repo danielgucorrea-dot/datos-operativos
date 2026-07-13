@@ -29826,7 +29826,7 @@
     "numero": "235815363993814",
     "celular": "+54 9 3813 006-709",
     "nombre": "",
-    "direccion": "",
+    "direccion": "Calle Italia 919",
     "sentimiento": "neutro",
     "evidencia_clasificacion": [],
     "canal": "WhatsApp Ambiente",
@@ -29839,8 +29839,8 @@
       "Tengo residuos  para tirar son unas bolsas de tierra y ramas... Y unas maderas .. cómo debo hacer",
       "Buenas tardes"
     ],
-    "ultimaActualizacion": "2026-07-13T12:19:16.124Z",
-    "ultimoMensaje": "Si .debo prepararlo en bolsa s?",
+    "ultimaActualizacion": "2026-07-13T12:19:34.790Z",
+    "ultimoMensaje": "Calle Italia 919...",
     "historialMensajes": [
       {
         "texto": "Buenas tardes hice podar mi árbol como hago para q me lleven las ramas?",
@@ -29855,6 +29855,11 @@
       {
         "texto": "Si .debo prepararlo en bolsa s?",
         "fecha": "2026-07-13T12:19:16.124Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Calle Italia 919...",
+        "fecha": "2026-07-13T12:19:34.790Z",
         "sentimiento": "neutro"
       }
     ]
