@@ -42385,10 +42385,10 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "negativo",
-    "ultimoMensaje": "Los vecimos pedimos retirar el contenedor ya que desde que lo pusieron aqui se incremento la suciedad de la esquina y se hizo muy insegura...",
+    "ultimoMensaje": "Y cada vez que reclamamos a las personas que no dejen escombos... maderas... huesos de las carnicerias... siĺas plasticas etc... nos hacen amenazas  e insultan",
     "mensaje": "Hay mucha basura que no son residuos",
     "fecha": "2026-07-13T17:28:14.060Z",
-    "ultimaActualizacion": "2026-07-13T17:30:45.441Z",
+    "ultimaActualizacion": "2026-07-13T17:32:21.398Z",
     "historialMensajes": [
       {
         "texto": "Hay mucha basura que no son residuos",
@@ -42403,6 +42403,11 @@
       {
         "texto": "Los vecimos pedimos retirar el contenedor ya que desde que lo pusieron aqui se incremento la suciedad de la esquina y se hizo muy insegura...",
         "fecha": "2026-07-13T17:30:45.441Z",
+        "sentimiento": "negativo"
+      },
+      {
+        "texto": "Y cada vez que reclamamos a las personas que no dejen escombos... maderas... huesos de las carnicerias... siĺas plasticas etc... nos hacen amenazas  e insultan",
+        "fecha": "2026-07-13T17:32:21.398Z",
         "sentimiento": "negativo"
       }
     ]
