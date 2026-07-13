@@ -41679,5 +41679,23 @@
         "sentimiento": "neutro"
       }
     ]
+  },
+  {
+    "numero": "116891913855201",
+    "celular": "+54 9 3815 827-814",
+    "nombre": "",
+    "direccion": "Av. Gdor del campo al 1100",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Hola buen día!\nQuería saber si pueden mandar a alguien o no se como seria. \nPor el tema que hay un perro muerto sobre la plata banda de la Av. Gdor del campo al 1100",
+    "mensaje": "Hola buen día!\nQuería saber si pueden mandar a alguien o no se como seria. \nPor el tema que hay un perro muerto sobre la plata banda de la Av. Gdor del campo al 1100",
+    "fecha": "2026-07-13T14:23:24.306Z",
+    "ultimaActualizacion": "2026-07-13T14:23:24.306Z",
+    "historialMensajes": [
+      {
+        "texto": "Hola buen día!\nQuería saber si pueden mandar a alguien o no se como seria. \nPor el tema que hay un perro muerto sobre la plata banda de la Av. Gdor del campo al 1100",
+        "fecha": "2026-07-13T14:23:24.306Z",
+        "sentimiento": "neutro"
+      }
+    ]
   }
 ]
