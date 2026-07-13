@@ -41086,5 +41086,23 @@
         "sentimiento": "positivo"
       }
     ]
+  },
+  {
+    "numero": "111158132477970",
+    "celular": "+54 9 3816 575-653",
+    "nombre": "",
+    "direccion": "Ohiggins 886",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Buenos día por favor necesito que pasen por mi domicilio a retirar poda de unas enredaderas .Pje .Ohiggins 886 .Desde ya muy agradecida.",
+    "mensaje": "Buenos día por favor necesito que pasen por mi domicilio a retirar poda de unas enredaderas .Pje .Ohiggins 886 .Desde ya muy agradecida.",
+    "fecha": "2026-07-13T10:49:33.113Z",
+    "ultimaActualizacion": "2026-07-13T10:49:33.113Z",
+    "historialMensajes": [
+      {
+        "texto": "Buenos día por favor necesito que pasen por mi domicilio a retirar poda de unas enredaderas .Pje .Ohiggins 886 .Desde ya muy agradecida.",
+        "fecha": "2026-07-13T10:49:33.113Z",
+        "sentimiento": "positivo"
+      }
+    ]
   }
 ]
