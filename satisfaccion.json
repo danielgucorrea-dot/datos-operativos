@@ -41645,10 +41645,10 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "neutro",
-    "ultimoMensaje": "Es un ropero desarmado, un tv , y cacharros",
+    "ultimoMensaje": "Entonces sería el ropero,la TV y la estufa lo q se llevarían?",
     "mensaje": "Buenos días, quisiera solicitar el servicio para retirar... Cómo debo hacer?",
     "fecha": "2026-07-13T13:19:16.454Z",
-    "ultimaActualizacion": "2026-07-13T15:22:17.228Z",
+    "ultimaActualizacion": "2026-07-13T15:24:11.983Z",
     "historialMensajes": [
       {
         "texto": "Buenos días, quisiera solicitar el servicio para retirar... Cómo debo hacer?",
@@ -41658,6 +41658,11 @@
       {
         "texto": "Es un ropero desarmado, un tv , y cacharros",
         "fecha": "2026-07-13T15:22:17.228Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Entonces sería el ropero,la TV y la estufa lo q se llevarían?",
+        "fecha": "2026-07-13T15:24:11.983Z",
         "sentimiento": "neutro"
       }
     ]
