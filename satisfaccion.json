@@ -41836,5 +41836,23 @@
         "sentimiento": "negativo"
       }
     ]
+  },
+  {
+    "numero": "45102022041636",
+    "celular": "+54 9 3816 599-295",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Hola",
+    "mensaje": "Hola",
+    "fecha": "2026-07-13T14:57:00.934Z",
+    "ultimaActualizacion": "2026-07-13T14:57:00.934Z",
+    "historialMensajes": [
+      {
+        "texto": "Hola",
+        "fecha": "2026-07-13T14:57:00.934Z",
+        "sentimiento": "neutro"
+      }
+    ]
   }
 ]
