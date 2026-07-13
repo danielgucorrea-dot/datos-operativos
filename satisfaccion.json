@@ -42684,10 +42684,10 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "neutro",
-    "ultimoMensaje": "Son algunos grandes y otros pequeños",
+    "ultimoMensaje": "Si puede ser en horario de siesta de 15hs en adelante el jueves o viernes de esta semana por favor.",
     "mensaje": "Buenas tardes",
     "fecha": "2026-07-13T21:49:42.142Z",
-    "ultimaActualizacion": "2026-07-13T21:53:15.791Z",
+    "ultimaActualizacion": "2026-07-13T21:58:46.724Z",
     "historialMensajes": [
       {
         "texto": "Buenas tardes",
@@ -42702,6 +42702,11 @@
       {
         "texto": "Son algunos grandes y otros pequeños",
         "fecha": "2026-07-13T21:53:15.791Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Si puede ser en horario de siesta de 15hs en adelante el jueves o viernes de esta semana por favor.",
+        "fecha": "2026-07-13T21:58:46.724Z",
         "sentimiento": "neutro"
       }
     ]
