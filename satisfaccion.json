@@ -41314,11 +41314,11 @@
     "celular": "+54 9 3815 413-775",
     "nombre": "",
     "direccion": "Deben ser 10",
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Bueno, lo que se pueda está bien, calle matienzo 591, entre Lamadrid y lavalle",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Bueno muchísimas gracias",
     "mensaje": "Buenos días, necesito saber cómo tengo que hacer para hacer llevar unos escombros que tengo afuera de la casa",
     "fecha": "2026-07-12T14:07:35.936Z",
-    "ultimaActualizacion": "2026-07-13T14:40:40.321Z",
+    "ultimaActualizacion": "2026-07-13T14:43:56.900Z",
     "historialMensajes": [
       {
         "texto": "Buenos días, necesito saber cómo tengo que hacer para hacer llevar unos escombros que tengo afuera de la casa",
@@ -41334,6 +41334,11 @@
         "texto": "Bueno, lo que se pueda está bien, calle matienzo 591, entre Lamadrid y lavalle",
         "fecha": "2026-07-13T14:40:40.321Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Bueno muchísimas gracias",
+        "fecha": "2026-07-13T14:43:56.900Z",
+        "sentimiento": "positivo"
       }
     ]
   },
@@ -41406,11 +41411,11 @@
     "celular": "+54 9 3815 343-081",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "positivo",
-    "ultimoMensaje": "Quisiera saber cómo solicitar la recolección de escombros de mi domicilio, juramento de la bandera 164",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Ya pido",
     "mensaje": "Hola buenos dias",
     "fecha": "2026-07-13T11:46:23.052Z",
-    "ultimaActualizacion": "2026-07-13T11:46:48.469Z",
+    "ultimaActualizacion": "2026-07-13T14:47:11.872Z",
     "historialMensajes": [
       {
         "texto": "Hola buenos dias",
@@ -41421,6 +41426,11 @@
         "texto": "Quisiera saber cómo solicitar la recolección de escombros de mi domicilio, juramento de la bandera 164",
         "fecha": "2026-07-13T11:46:48.469Z",
         "sentimiento": "positivo"
+      },
+      {
+        "texto": "Ya pido",
+        "fecha": "2026-07-13T14:47:11.872Z",
+        "sentimiento": "neutro"
       }
     ]
   },
