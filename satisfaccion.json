@@ -5985,7 +5985,15 @@
     "conversacion_completa": [
       "Hola buenas como le va, sabe q tengo afuera de mi casa unas bolsas con ripio nose si ustedes podrian llevarlo."
     ],
-    "ultimaActualizacion": "2026-06-24"
+    "ultimaActualizacion": "2026-07-13T13:31:50.386Z",
+    "ultimoMensaje": "Hola buenas",
+    "historialMensajes": [
+      {
+        "texto": "Hola buenas",
+        "fecha": "2026-07-13T13:31:50.386Z",
+        "sentimiento": "neutro"
+      }
+    ]
   },
   {
     "numero": "58836807327991",
@@ -39744,14 +39752,19 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "neutro",
-    "ultimoMensaje": "Buenos dias, 👍",
+    "ultimoMensaje": "Hola buenos dias, bien vuelva, relevo y consulto y te doy la respuesta, gracias",
     "mensaje": "Buenos dias, 👍",
     "fecha": "2026-07-08T11:27:20.013Z",
-    "ultimaActualizacion": "2026-07-08T11:27:20.013Z",
+    "ultimaActualizacion": "2026-07-13T13:32:43.097Z",
     "historialMensajes": [
       {
         "texto": "Buenos dias, 👍",
         "fecha": "2026-07-08T11:27:20.013Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Hola buenos dias, bien vuelva, relevo y consulto y te doy la respuesta, gracias",
+        "fecha": "2026-07-13T13:32:43.097Z",
         "sentimiento": "neutro"
       }
     ]
