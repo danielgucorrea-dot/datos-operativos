@@ -41762,10 +41762,10 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "positivo",
-    "ultimoMensaje": "Quería saber cmo se pide el contenedor para sacar unos muebles y cosas para tirar. Ya q no entrar en los contenedores de basura.  Desde ya muchas",
+    "ultimoMensaje": "Perfecto. Muchas gracias x contestar",
     "mensaje": "Hola buenos días.",
     "fecha": "2026-07-13T14:06:30.862Z",
-    "ultimaActualizacion": "2026-07-13T14:08:22.738Z",
+    "ultimaActualizacion": "2026-07-13T15:26:58.123Z",
     "historialMensajes": [
       {
         "texto": "Hola buenos días.",
@@ -41776,6 +41776,11 @@
         "texto": "Quería saber cmo se pide el contenedor para sacar unos muebles y cosas para tirar. Ya q no entrar en los contenedores de basura.  Desde ya muchas",
         "fecha": "2026-07-13T14:08:22.738Z",
         "sentimiento": "positivo"
+      },
+      {
+        "texto": "Perfecto. Muchas gracias x contestar",
+        "fecha": "2026-07-13T15:26:58.123Z",
+        "sentimiento": "positivo"
       }
     ]
   },
@@ -41785,14 +41790,19 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "positivo",
-    "ultimoMensaje": "Buen día. En la esquina de calle Florida y Miguel Lillo falta una tapa de registro de la calle (cloacas), y se llena de basura. Por favor podrían poner una tapa? Desde ya muchas gracias.",
+    "ultimoMensaje": "Gracias",
     "mensaje": "Buen día. En la esquina de calle Florida y Miguel Lillo falta una tapa de registro de la calle (cloacas), y se llena de basura. Por favor podrían poner una tapa? Desde ya muchas gracias.",
     "fecha": "2026-07-13T14:08:20.599Z",
-    "ultimaActualizacion": "2026-07-13T14:08:20.599Z",
+    "ultimaActualizacion": "2026-07-13T15:27:12.225Z",
     "historialMensajes": [
       {
         "texto": "Buen día. En la esquina de calle Florida y Miguel Lillo falta una tapa de registro de la calle (cloacas), y se llena de basura. Por favor podrían poner una tapa? Desde ya muchas gracias.",
         "fecha": "2026-07-13T14:08:20.599Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Gracias",
+        "fecha": "2026-07-13T15:27:12.225Z",
         "sentimiento": "positivo"
       }
     ]
