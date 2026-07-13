@@ -41313,17 +41313,22 @@
     "numero": "62856930296041",
     "celular": "+54 9 3815 413-775",
     "nombre": "",
-    "direccion": null,
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Buenos días, necesito saber cómo tengo que hacer para hacer llevar unos escombros que tengo afuera de la casa",
+    "direccion": "Deben ser 10",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Deben ser 10 bolsas hasta la mitad",
     "mensaje": "Buenos días, necesito saber cómo tengo que hacer para hacer llevar unos escombros que tengo afuera de la casa",
     "fecha": "2026-07-12T14:07:35.936Z",
-    "ultimaActualizacion": "2026-07-12T14:07:35.936Z",
+    "ultimaActualizacion": "2026-07-13T14:37:36.261Z",
     "historialMensajes": [
       {
         "texto": "Buenos días, necesito saber cómo tengo que hacer para hacer llevar unos escombros que tengo afuera de la casa",
         "fecha": "2026-07-12T14:07:35.936Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Deben ser 10 bolsas hasta la mitad",
+        "fecha": "2026-07-13T14:37:36.261Z",
+        "sentimiento": "positivo"
       }
     ]
   },
