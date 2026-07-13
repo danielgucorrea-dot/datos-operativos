@@ -41771,11 +41771,11 @@
     "celular": "+54 9 3815 114-803",
     "nombre": "",
     "direccion": "Pasaje petit 200",
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Pasaje petit 200 altura camino del peru",
+    "sentimiento": "negativo",
+    "ultimoMensaje": "Ya los vecinos hicieron 2 o 3 veces el reclamo y no vino nadie",
     "mensaje": "Buenos días necesito porfavor que vengan a recojer la basura la gente tira cada vez más en el mismo lugar",
     "fecha": "2026-07-13T14:48:48.783Z",
-    "ultimaActualizacion": "2026-07-13T14:49:34.092Z",
+    "ultimaActualizacion": "2026-07-13T14:49:50.914Z",
     "historialMensajes": [
       {
         "texto": "Buenos días necesito porfavor que vengan a recojer la basura la gente tira cada vez más en el mismo lugar",
@@ -41786,6 +41786,11 @@
         "texto": "Pasaje petit 200 altura camino del peru",
         "fecha": "2026-07-13T14:49:34.092Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Ya los vecinos hicieron 2 o 3 veces el reclamo y no vino nadie",
+        "fecha": "2026-07-13T14:49:50.914Z",
+        "sentimiento": "negativo"
       }
     ]
   }
