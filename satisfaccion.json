@@ -42659,5 +42659,23 @@
         "sentimiento": "neutro"
       }
     ]
+  },
+  {
+    "numero": "235621989789921",
+    "celular": "+54 9 3815 774-394",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Hola buen día. Mi nombre es Julieta Malangone.\nYo mandé mensajes por Instagram y quise mandar por correo pero me daba inexistente.\nYo realice la capacitación de forma presencial pero la verdad que no pude hacer el virtual. Estuve con mi abuela enferma y muchos problemas respecto a eso, con la cabeza en otro lado la verdad y se me pasó la fecha límite de evaluación virtual. \nLe agradecería muchísimo si es que existe la posibilidad de extender la fecha o si podrían hacer la excepción así puedo rendir. Por favor. Hice un esfuerzo muy grande para poder ir a la capacitación presencial.\nDesde ya, muchas gracias",
+    "mensaje": "Hola buen día. Mi nombre es Julieta Malangone.\nYo mandé mensajes por Instagram y quise mandar por correo pero me daba inexistente.\nYo realice la capacitación de forma presencial pero la verdad que no pude hacer el virtual. Estuve con mi abuela enferma y muchos problemas respecto a eso, con la cabeza en otro lado la verdad y se me pasó la fecha límite de evaluación virtual. \nLe agradecería muchísimo si es que existe la posibilidad de extender la fecha o si podrían hacer la excepción así puedo rendir. Por favor. Hice un esfuerzo muy grande para poder ir a la capacitación presencial.\nDesde ya, muchas gracias",
+    "fecha": "2026-07-13T21:23:29.625Z",
+    "ultimaActualizacion": "2026-07-13T21:23:29.625Z",
+    "historialMensajes": [
+      {
+        "texto": "Hola buen día. Mi nombre es Julieta Malangone.\nYo mandé mensajes por Instagram y quise mandar por correo pero me daba inexistente.\nYo realice la capacitación de forma presencial pero la verdad que no ",
+        "fecha": "2026-07-13T21:23:29.625Z",
+        "sentimiento": "positivo"
+      }
+    ]
   }
 ]
