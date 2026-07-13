@@ -40058,11 +40058,11 @@
     "celular": "+54 9 3815 510-600",
     "nombre": "",
     "direccion": "barrio judicial alturas Ayacucho",
-    "sentimiento": "negativo",
-    "ultimoMensaje": "Está en la calle cortaron el pasto de los espacios baldío y dejaron todo en la calle",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Buenos días aún no",
     "mensaje": "Buenos días hoy cortaron el pasto en los espacios baldio  en el barrio judicial alturas Ayacucho 1900 dejaron lo que juntaron en la calle necesitaría que lo recojan por favor ya que la calles son angostas",
     "fecha": "2026-07-08T16:06:53.752Z",
-    "ultimaActualizacion": "2026-07-08T16:07:31.003Z",
+    "ultimaActualizacion": "2026-07-13T12:22:15.568Z",
     "historialMensajes": [
       {
         "texto": "Buenos días hoy cortaron el pasto en los espacios baldio  en el barrio judicial alturas Ayacucho 1900 dejaron lo que juntaron en la calle necesitaría que lo recojan por favor ya que la calles son ango",
@@ -40083,6 +40083,11 @@
         "texto": "Está en la calle cortaron el pasto de los espacios baldío y dejaron todo en la calle",
         "fecha": "2026-07-08T16:07:31.003Z",
         "sentimiento": "negativo"
+      },
+      {
+        "texto": "Buenos días aún no",
+        "fecha": "2026-07-13T12:22:15.568Z",
+        "sentimiento": "neutro"
       }
     ]
   },
