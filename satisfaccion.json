@@ -41132,5 +41132,23 @@
         "sentimiento": "positivo"
       }
     ]
+  },
+  {
+    "numero": "198363182063752",
+    "celular": "+54 9 3816 379-309",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Hola buen dia \nQueria consultar si tendrian un camion libre \nPara retirar una montaña de maderas viejas que tengo en mi casa para desechar",
+    "mensaje": "Hola buen dia \nQueria consultar si tendrian un camion libre \nPara retirar una montaña de maderas viejas que tengo en mi casa para desechar",
+    "fecha": "2026-07-13T12:08:06.032Z",
+    "ultimaActualizacion": "2026-07-13T12:08:06.032Z",
+    "historialMensajes": [
+      {
+        "texto": "Hola buen dia \nQueria consultar si tendrian un camion libre \nPara retirar una montaña de maderas viejas que tengo en mi casa para desechar",
+        "fecha": "2026-07-13T12:08:06.032Z",
+        "sentimiento": "positivo"
+      }
+    ]
   }
 ]
