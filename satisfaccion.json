@@ -41151,11 +41151,11 @@
     "celular": "+54 9 3816 245-090",
     "nombre": "",
     "direccion": "pasaje Juana Azurduy 761",
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Recién llego a la casa del trabajo..",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Le agradezco muchísimo por responder",
     "mensaje": "Buen día! Quisiera hacerle una consulta",
     "fecha": "2026-07-11T13:51:28.353Z",
-    "ultimaActualizacion": "2026-07-13T15:17:56.636Z",
+    "ultimaActualizacion": "2026-07-13T15:19:11.539Z",
     "historialMensajes": [
       {
         "texto": "Buen día! Quisiera hacerle una consulta",
@@ -41186,6 +41186,11 @@
         "texto": "Recién llego a la casa del trabajo..",
         "fecha": "2026-07-13T15:17:56.636Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Le agradezco muchísimo por responder",
+        "fecha": "2026-07-13T15:19:11.539Z",
+        "sentimiento": "positivo"
       }
     ]
   },
