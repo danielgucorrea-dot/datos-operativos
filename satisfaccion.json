@@ -40304,11 +40304,11 @@
     "celular": "+54 9 3813 675-370",
     "nombre": "",
     "direccion": "calle España 190",
-    "sentimiento": "neutro",
-    "ultimoMensaje": "No puedo sacar foto ahors",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Gracias",
     "mensaje": "Buenos días",
     "fecha": "2026-07-09T14:47:53.141Z",
-    "ultimaActualizacion": "2026-07-13T12:40:08.469Z",
+    "ultimaActualizacion": "2026-07-13T12:47:41.460Z",
     "historialMensajes": [
       {
         "texto": "Buenos días",
@@ -40354,6 +40354,11 @@
         "texto": "No puedo sacar foto ahors",
         "fecha": "2026-07-13T12:40:08.469Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Gracias",
+        "fecha": "2026-07-13T12:47:41.460Z",
+        "sentimiento": "positivo"
       }
     ]
   },
