@@ -42201,14 +42201,19 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "neutro",
-    "ultimoMensaje": "Holaaaa",
+    "ultimoMensaje": "Esta semana de licencia",
     "mensaje": "Holaaaa",
     "fecha": "2026-07-13T16:04:46.819Z",
-    "ultimaActualizacion": "2026-07-13T16:04:46.819Z",
+    "ultimaActualizacion": "2026-07-13T16:04:52.086Z",
     "historialMensajes": [
       {
         "texto": "Holaaaa",
         "fecha": "2026-07-13T16:04:46.819Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Esta semana de licencia",
+        "fecha": "2026-07-13T16:04:52.086Z",
         "sentimiento": "neutro"
       }
     ]
