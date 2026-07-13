@@ -10961,7 +10961,7 @@
     "celular": "+54 9 3812 157-939",
     "nombre": "",
     "direccion": "barrio ampliación elena white",
-    "sentimiento": "positivo",
+    "sentimiento": "neutro",
     "evidencia_clasificacion": [],
     "canal": "WhatsApp Ambiente",
     "fecha": "2026-06-12",
@@ -10978,8 +10978,8 @@
       "Vivo barrio ampliación elena white.  Calle 86.31 OS  ENTRE pasaje marti cura brochero.  Mando asi xq en el mapa no figura aun el cartel q puso la municipalidad d la americo vespucio. Y cura brochero.",
       "Hola quiera saber para que lleven unas ramas d mora.  Q tengo en la veredad por favor"
     ],
-    "ultimaActualizacion": "2026-07-13T15:17:48.704Z",
-    "ultimoMensaje": "Perdón por el costado d la calle 86.31 tb el camión vera la  basura por q esta sobre cuneta y la calle ,  ya estamos cansados los q tiran la basura hay vienen carreros carros todo tiran hay le puedo mandar fotos d donde se ubica la basura",
+    "ultimaActualizacion": "2026-07-13T15:46:33.240Z",
+    "ultimoMensaje": "Y cura brochero.  Asi se llama em realidad el pasaje y la calle pero no les figura a la municipalidad todavía no se xq en el GPS tampoco",
     "historialMensajes": [
       {
         "texto": "Hola me comunico para recolección d unas ramas q tengo en mi vereda y para hacer un reclamo d limpieza en la vía pública mas precisamente en la calle q están tapando, d ramas y d basura frente mi casa",
@@ -11010,6 +11010,11 @@
         "texto": "Perdón por el costado d la calle 86.31 tb el camión vera la  basura por q esta sobre cuneta y la calle ,  ya estamos cansados los q tiran la basura hay vienen carreros carros todo tiran hay le puedo m",
         "fecha": "2026-07-13T15:17:48.704Z",
         "sentimiento": "positivo"
+      },
+      {
+        "texto": "Y cura brochero.  Asi se llama em realidad el pasaje y la calle pero no les figura a la municipalidad todavía no se xq en el GPS tampoco",
+        "fecha": "2026-07-13T15:46:33.240Z",
+        "sentimiento": "neutro"
       }
     ]
   },
@@ -42077,14 +42082,19 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "positivo",
-    "ultimoMensaje": "Buenos días, quería solicitar su servicio",
+    "ultimoMensaje": "Necesito para sacar papel, cartón y algo de tapitas de gaseosas",
     "mensaje": "Buenos días, quería solicitar su servicio",
     "fecha": "2026-07-13T15:23:32.459Z",
-    "ultimaActualizacion": "2026-07-13T15:23:32.459Z",
+    "ultimaActualizacion": "2026-07-13T15:46:14.075Z",
     "historialMensajes": [
       {
         "texto": "Buenos días, quería solicitar su servicio",
         "fecha": "2026-07-13T15:23:32.459Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Necesito para sacar papel, cartón y algo de tapitas de gaseosas",
+        "fecha": "2026-07-13T15:46:14.075Z",
         "sentimiento": "positivo"
       }
     ]
