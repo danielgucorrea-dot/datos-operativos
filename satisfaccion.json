@@ -41568,16 +41568,21 @@
     "celular": "+54 9 3816 499-655",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Hola buenos días.",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Quería saber cmo se pide el contenedor para sacar unos muebles y cosas para tirar. Ya q no entrar en los contenedores de basura.  Desde ya muchas",
     "mensaje": "Hola buenos días.",
     "fecha": "2026-07-13T14:06:30.862Z",
-    "ultimaActualizacion": "2026-07-13T14:06:30.862Z",
+    "ultimaActualizacion": "2026-07-13T14:08:22.738Z",
     "historialMensajes": [
       {
         "texto": "Hola buenos días.",
         "fecha": "2026-07-13T14:06:30.862Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Quería saber cmo se pide el contenedor para sacar unos muebles y cosas para tirar. Ya q no entrar en los contenedores de basura.  Desde ya muchas",
+        "fecha": "2026-07-13T14:08:22.738Z",
+        "sentimiento": "positivo"
       }
     ]
   },
