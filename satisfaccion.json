@@ -40711,10 +40711,10 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "neutro",
-    "ultimoMensaje": "9 de julio 1576",
+    "ultimoMensaje": "Buen día",
     "mensaje": "Buen día",
     "fecha": "2026-07-10T15:04:43.724Z",
-    "ultimaActualizacion": "2026-07-10T15:06:29.497Z",
+    "ultimaActualizacion": "2026-07-13T12:49:59.870Z",
     "historialMensajes": [
       {
         "texto": "Buen día",
@@ -40734,6 +40734,11 @@
       {
         "texto": "9 de julio 1576",
         "fecha": "2026-07-10T15:06:29.497Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Buen día",
+        "fecha": "2026-07-13T12:49:59.870Z",
         "sentimiento": "neutro"
       }
     ]
