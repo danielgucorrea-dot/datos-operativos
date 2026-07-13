@@ -25339,7 +25339,7 @@
     "celular": "+54 9 3815 705-567",
     "nombre": "",
     "direccion": "calle Rondeau 106",
-    "sentimiento": "positivo",
+    "sentimiento": "neutro",
     "evidencia_clasificacion": [],
     "canal": "WhatsApp Ambiente",
     "fecha": "2026-05-15",
@@ -25348,8 +25348,8 @@
       "Bien, resguardo la aclaración. Muchas gracias.!",
       "Buenos días, consulto, podrian retirar 3 bolsitas de escombros, q las tengo en la vereda embolsadas, domicilio calle Rondeau 106 de está ciudad. Gracias!"
     ],
-    "ultimaActualizacion": "2026-07-13T14:10:29.342Z",
-    "ultimoMensaje": "Buenos días podrían retirar 4 bolsitas de escombro, de calle Rondeau 106 de esta ciudad. Gracias",
+    "ultimaActualizacion": "2026-07-13T15:38:10.860Z",
+    "ultimoMensaje": "Disculpe la pregunta, tendría que contratar un contenedor?",
     "historialMensajes": [
       {
         "texto": "Buenos días podrían retirar 5 bolsitas de escombro, de calle Rondeau 106 de esta ciudad. Gracias",
@@ -25375,6 +25375,11 @@
         "texto": "Buenos días podrían retirar 4 bolsitas de escombro, de calle Rondeau 106 de esta ciudad. Gracias",
         "fecha": "2026-07-13T14:10:29.342Z",
         "sentimiento": "positivo"
+      },
+      {
+        "texto": "Disculpe la pregunta, tendría que contratar un contenedor?",
+        "fecha": "2026-07-13T15:38:10.860Z",
+        "sentimiento": "neutro"
       }
     ]
   },
@@ -40851,11 +40856,11 @@
     "celular": "+54 9 3815 803-537",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Qué solución me daría",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Perfecto, entonces les dejo cinco bolsas para que se lleven?",
     "mensaje": "Buen día",
     "fecha": "2026-07-10T15:04:43.724Z",
-    "ultimaActualizacion": "2026-07-13T15:06:34.119Z",
+    "ultimaActualizacion": "2026-07-13T15:39:36.207Z",
     "historialMensajes": [
       {
         "texto": "Buen día",
@@ -40896,6 +40901,11 @@
         "texto": "Qué solución me daría",
         "fecha": "2026-07-13T15:06:34.119Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Perfecto, entonces les dejo cinco bolsas para que se lleven?",
+        "fecha": "2026-07-13T15:39:36.207Z",
+        "sentimiento": "positivo"
       }
     ]
   },
