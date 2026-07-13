@@ -40299,11 +40299,11 @@
     "celular": "+54 9 3813 675-370",
     "nombre": "",
     "direccion": "calle España 190",
-    "sentimiento": "neutro",
-    "ultimoMensaje": "No sabía. Ya las dejé afuera",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Creo q eran 3 bolsas de escombros y cartones",
     "mensaje": "Buenos días",
     "fecha": "2026-07-09T14:47:53.141Z",
-    "ultimaActualizacion": "2026-07-13T12:39:43.282Z",
+    "ultimaActualizacion": "2026-07-13T12:39:58.240Z",
     "historialMensajes": [
       {
         "texto": "Buenos días",
@@ -40339,6 +40339,11 @@
         "texto": "No sabía. Ya las dejé afuera",
         "fecha": "2026-07-13T12:39:43.282Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Creo q eran 3 bolsas de escombros y cartones",
+        "fecha": "2026-07-13T12:39:58.240Z",
+        "sentimiento": "positivo"
       }
     ]
   },
