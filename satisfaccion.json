@@ -41462,11 +41462,11 @@
     "celular": "+54 9 3815 748-544",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "negativo",
-    "ultimoMensaje": "Ah no la tengo en bolsas,",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Lo bajamos a la calle",
     "mensaje": "Hola buen día",
     "fecha": "2026-07-12T12:53:59.045Z",
-    "ultimaActualizacion": "2026-07-13T15:21:18.707Z",
+    "ultimaActualizacion": "2026-07-13T15:54:11.301Z",
     "historialMensajes": [
       {
         "texto": "Hola buen día",
@@ -41487,6 +41487,11 @@
         "texto": "Ah no la tengo en bolsas,",
         "fecha": "2026-07-13T15:21:18.707Z",
         "sentimiento": "negativo"
+      },
+      {
+        "texto": "Lo bajamos a la calle",
+        "fecha": "2026-07-13T15:54:11.301Z",
+        "sentimiento": "positivo"
       }
     ]
   },
