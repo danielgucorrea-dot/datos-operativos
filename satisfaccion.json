@@ -41287,14 +41287,24 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "neutro",
-    "ultimoMensaje": "Hola buen día",
+    "ultimoMensaje": "Tengo bastante en la vereda de las casa",
     "mensaje": "Hola buen día",
     "fecha": "2026-07-12T12:53:59.045Z",
-    "ultimaActualizacion": "2026-07-12T12:53:59.045Z",
+    "ultimaActualizacion": "2026-07-13T14:37:17.765Z",
     "historialMensajes": [
       {
         "texto": "Hola buen día",
         "fecha": "2026-07-12T12:53:59.045Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Es para saber como tengo q hacer para solicitar para q me lleven escombros",
+        "fecha": "2026-07-13T14:37:15.491Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Tengo bastante en la vereda de las casa",
+        "fecha": "2026-07-13T14:37:17.765Z",
         "sentimiento": "neutro"
       }
     ]
