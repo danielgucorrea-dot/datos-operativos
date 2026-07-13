@@ -41274,16 +41274,21 @@
     "celular": "+54 9 3813 862-692",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Buenos dias",
+    "sentimiento": "negativo",
+    "ultimoMensaje": "Nesecito el servicio de recoleccion",
     "mensaje": "Buenos dias",
     "fecha": "2026-07-13T12:35:14.200Z",
-    "ultimaActualizacion": "2026-07-13T12:35:14.200Z",
+    "ultimaActualizacion": "2026-07-13T12:39:36.070Z",
     "historialMensajes": [
       {
         "texto": "Buenos dias",
         "fecha": "2026-07-13T12:35:14.200Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Nesecito el servicio de recoleccion",
+        "fecha": "2026-07-13T12:39:36.070Z",
+        "sentimiento": "negativo"
       }
     ]
   },
