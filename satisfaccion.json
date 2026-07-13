@@ -41607,11 +41607,11 @@
     "celular": "+54 9 3813 441-210",
     "nombre": "",
     "direccion": "Barrio independencia",
-    "sentimiento": "positivo",
-    "ultimoMensaje": "Quiero el contenedor de vuelta gracias",
+    "sentimiento": "negativo",
+    "ultimoMensaje": "Yo tenía mi contenedor y vinieron dos empleados de la municipalidad con la nueve de julio me mintieron q en todo el barrió iban a colocar estos cestos como pueden ver retrocedimos 20años y los vecinos los tenemos de floreros a la mugre, mi nombre es ADRIAN CORTALEZZI, av independencia 3100 y Diego de roja",
     "mensaje": "Barrio independencia",
     "fecha": "2026-07-12T22:31:24.323Z",
-    "ultimaActualizacion": "2026-07-12T22:32:07.367Z",
+    "ultimaActualizacion": "2026-07-13T16:58:03.725Z",
     "historialMensajes": [
       {
         "texto": "Barrio independencia",
@@ -41622,6 +41622,11 @@
         "texto": "Quiero el contenedor de vuelta gracias",
         "fecha": "2026-07-12T22:32:07.367Z",
         "sentimiento": "positivo"
+      },
+      {
+        "texto": "Yo tenía mi contenedor y vinieron dos empleados de la municipalidad con la nueve de julio me mintieron q en todo el barrió iban a colocar estos cestos como pueden ver retrocedimos 20años y los vecinos",
+        "fecha": "2026-07-13T16:58:03.725Z",
+        "sentimiento": "negativo"
       }
     ]
   },
