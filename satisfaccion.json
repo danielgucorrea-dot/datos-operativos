@@ -39966,11 +39966,11 @@
     "celular": "+54 9 3815 063-008",
     "nombre": "",
     "direccion": "Asunción 535",
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Entendido",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Sí, sigamos!",
     "mensaje": "Hola, me comunico para saber como es el procedimiento para solicitar la recolección de residuos por limpieza de un terreno. Gracias",
     "fecha": "2026-07-08T14:22:10.231Z",
-    "ultimaActualizacion": "2026-07-13T15:24:40.144Z",
+    "ultimaActualizacion": "2026-07-13T15:30:00.617Z",
     "historialMensajes": [
       {
         "texto": "Hola, me comunico para saber como es el procedimiento para solicitar la recolección de residuos por limpieza de un terreno. Gracias",
@@ -40006,6 +40006,11 @@
         "texto": "Entendido",
         "fecha": "2026-07-13T15:24:40.144Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Sí, sigamos!",
+        "fecha": "2026-07-13T15:30:00.617Z",
+        "sentimiento": "positivo"
       }
     ]
   },
@@ -42002,6 +42007,24 @@
       {
         "texto": "Buenos días, quería solicitar su servicio",
         "fecha": "2026-07-13T15:23:32.459Z",
+        "sentimiento": "positivo"
+      }
+    ]
+  },
+  {
+    "numero": "87196526756083",
+    "celular": "+54 9 3813 036-794",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Ya retiraron los residuos",
+    "mensaje": "Ya retiraron los residuos",
+    "fecha": "2026-07-13T15:29:52.882Z",
+    "ultimaActualizacion": "2026-07-13T15:29:52.882Z",
+    "historialMensajes": [
+      {
+        "texto": "Ya retiraron los residuos",
+        "fecha": "2026-07-13T15:29:52.882Z",
         "sentimiento": "positivo"
       }
     ]
