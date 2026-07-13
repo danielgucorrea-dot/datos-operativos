@@ -41138,10 +41138,10 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "neutro",
-    "ultimoMensaje": "Mi dirección es las heras 1579",
+    "ultimoMensaje": "Buenos dias",
     "mensaje": "Hola buenas tardes , para consultar x un contenedor  para cacherrerios?",
     "fecha": "2026-07-11T21:03:50.657Z",
-    "ultimaActualizacion": "2026-07-11T21:04:31.904Z",
+    "ultimaActualizacion": "2026-07-13T13:18:39.732Z",
     "historialMensajes": [
       {
         "texto": "Hola buenas tardes , para consultar x un contenedor  para cacherrerios?",
@@ -41156,6 +41156,11 @@
       {
         "texto": "Mi dirección es las heras 1579",
         "fecha": "2026-07-11T21:04:31.904Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Buenos dias",
+        "fecha": "2026-07-13T13:18:39.732Z",
         "sentimiento": "neutro"
       }
     ]
