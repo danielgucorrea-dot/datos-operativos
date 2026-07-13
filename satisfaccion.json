@@ -41697,5 +41697,23 @@
         "sentimiento": "neutro"
       }
     ]
+  },
+  {
+    "numero": "183188961923283",
+    "celular": "+54 9 3816 426-637",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Buenos dias",
+    "mensaje": "Buenos dias",
+    "fecha": "2026-07-13T14:26:11.118Z",
+    "ultimaActualizacion": "2026-07-13T14:26:11.118Z",
+    "historialMensajes": [
+      {
+        "texto": "Buenos dias",
+        "fecha": "2026-07-13T14:26:11.118Z",
+        "sentimiento": "neutro"
+      }
+    ]
   }
 ]
