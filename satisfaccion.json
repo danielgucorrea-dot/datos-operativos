@@ -41875,10 +41875,10 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "neutro",
-    "ultimoMensaje": "Cuánto tiempo tardan para venir",
+    "ultimoMensaje": "Haci se saca a la vereda",
     "mensaje": "Hola buenos días",
     "fecha": "2026-07-13T13:37:57.391Z",
-    "ultimaActualizacion": "2026-07-13T17:10:21.991Z",
+    "ultimaActualizacion": "2026-07-13T17:10:34.363Z",
     "historialMensajes": [
       {
         "texto": "Hola buenos días",
@@ -41893,6 +41893,11 @@
       {
         "texto": "Cuánto tiempo tardan para venir",
         "fecha": "2026-07-13T17:10:21.991Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Haci se saca a la vereda",
+        "fecha": "2026-07-13T17:10:34.363Z",
         "sentimiento": "neutro"
       }
     ]
