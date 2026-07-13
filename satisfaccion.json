@@ -41796,11 +41796,11 @@
     "celular": "+54 9 3816 550-208",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "positivo",
-    "ultimoMensaje": "Perfecto envío foto",
+    "sentimiento": "negativo",
+    "ultimoMensaje": "Pero me dijeron que no las saqué a la vereda hasta q ustedes vayan",
     "mensaje": "Hola buen día para solicitar recolección de residuos no habituales",
     "fecha": "2026-07-13T13:46:47.413Z",
-    "ultimaActualizacion": "2026-07-13T15:22:20.322Z",
+    "ultimaActualizacion": "2026-07-13T15:46:07.245Z",
     "historialMensajes": [
       {
         "texto": "Hola buen día para solicitar recolección de residuos no habituales",
@@ -41821,6 +41821,11 @@
         "texto": "Perfecto envío foto",
         "fecha": "2026-07-13T15:22:20.322Z",
         "sentimiento": "positivo"
+      },
+      {
+        "texto": "Pero me dijeron que no las saqué a la vereda hasta q ustedes vayan",
+        "fecha": "2026-07-13T15:46:07.245Z",
+        "sentimiento": "negativo"
       }
     ]
   },
