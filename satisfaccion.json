@@ -23704,7 +23704,7 @@
     "celular": "+54 9 3813 500-478",
     "nombre": "",
     "direccion": "Av independencia 1756",
-    "sentimiento": "negativo",
+    "sentimiento": "positivo",
     "evidencia_clasificacion": [],
     "canal": "WhatsApp Ambiente",
     "fecha": "2026-05-20",
@@ -23724,8 +23724,8 @@
       "Quiero solicitar el retiro de residuos no habituales",
       "Buenos días"
     ],
-    "ultimaActualizacion": "2026-07-13T12:32:40.487Z",
-    "ultimoMensaje": "Restos de Membrana y tierra",
+    "ultimaActualizacion": "2026-07-13T14:50:21.473Z",
+    "ultimoMensaje": "4 bolsas de arena",
     "historialMensajes": [
       {
         "texto": "Buenas tardes",
@@ -23771,6 +23771,11 @@
         "texto": "Restos de Membrana y tierra",
         "fecha": "2026-07-13T12:32:40.487Z",
         "sentimiento": "negativo"
+      },
+      {
+        "texto": "4 bolsas de arena",
+        "fecha": "2026-07-13T14:50:21.473Z",
+        "sentimiento": "positivo"
       }
     ]
   },
