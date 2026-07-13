@@ -41070,10 +41070,10 @@
     "nombre": "",
     "direccion": "Junin 1748",
     "sentimiento": "positivo",
-    "ultimoMensaje": "11 bolsas de escombros",
+    "ultimoMensaje": "Dale gracias",
     "mensaje": "Hola buenas",
     "fecha": "2026-07-10T19:11:57.812Z",
-    "ultimaActualizacion": "2026-07-13T14:50:14.216Z",
+    "ultimaActualizacion": "2026-07-13T15:51:20.417Z",
     "historialMensajes": [
       {
         "texto": "Hola buenas",
@@ -41093,6 +41093,11 @@
       {
         "texto": "11 bolsas de escombros",
         "fecha": "2026-07-13T14:50:14.216Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Dale gracias",
+        "fecha": "2026-07-13T15:51:20.417Z",
         "sentimiento": "positivo"
       }
     ]
