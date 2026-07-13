@@ -7150,12 +7150,17 @@
       "Dirección Pasaje Petit de Murat 200 (alt camino del Perú al 200)",
       "Buen día"
     ],
-    "ultimaActualizacion": "2026-07-13T14:50:52.185Z",
-    "ultimoMensaje": "Buen día",
+    "ultimaActualizacion": "2026-07-13T14:51:09.109Z",
+    "ultimoMensaje": "Dirección Pasaje Petit de Murat 200 (alt camino del Perú al 200)",
     "historialMensajes": [
       {
         "texto": "Buen día",
         "fecha": "2026-07-13T14:50:52.185Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Dirección Pasaje Petit de Murat 200 (alt camino del Perú al 200)",
+        "fecha": "2026-07-13T14:51:09.109Z",
         "sentimiento": "neutro"
       }
     ]
