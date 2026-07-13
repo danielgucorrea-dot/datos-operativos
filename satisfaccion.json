@@ -41313,11 +41313,11 @@
     "celular": "+54 9 3814 755-963",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Buenos dias",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Bien gracias",
     "mensaje": "Hola buenas tardes , para consultar x un contenedor  para cacherrerios?",
     "fecha": "2026-07-11T21:03:50.657Z",
-    "ultimaActualizacion": "2026-07-13T13:18:39.732Z",
+    "ultimaActualizacion": "2026-07-13T15:24:20.323Z",
     "historialMensajes": [
       {
         "texto": "Hola buenas tardes , para consultar x un contenedor  para cacherrerios?",
@@ -41338,6 +41338,11 @@
         "texto": "Buenos dias",
         "fecha": "2026-07-13T13:18:39.732Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Bien gracias",
+        "fecha": "2026-07-13T15:24:20.323Z",
+        "sentimiento": "positivo"
       }
     ]
   },
