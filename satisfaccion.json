@@ -907,10 +907,10 @@
     "nombre": "",
     "direccion": "barrio san Miguel",
     "sentimiento": "positivo",
-    "ultimoMensaje": "Dale muchísimas gracias",
+    "ultimoMensaje": "Buen día Sr,Sra por favor necesito que me saquen los troncos del árbol \"por favor\"",
     "mensaje": "Buen día me comunico con ustedes para pedirles un favor: que me lleven los troncos de un árbol que me podaron.muchas gracias",
     "fecha": "2026-07-06T15:25:43.402Z",
-    "ultimaActualizacion": "2026-07-06T15:36:24.073Z",
+    "ultimaActualizacion": "2026-07-13T12:57:07.651Z",
     "historialMensajes": [
       {
         "texto": "Buen día me comunico con ustedes para pedirles un favor: que me lleven los troncos de un árbol que me podaron.muchas gracias",
@@ -950,6 +950,11 @@
       {
         "texto": "Dale muchísimas gracias",
         "fecha": "2026-07-06T15:36:24.073Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Buen día Sr,Sra por favor necesito que me saquen los troncos del árbol \"por favor\"",
+        "fecha": "2026-07-13T12:57:07.651Z",
         "sentimiento": "positivo"
       }
     ]
@@ -41356,6 +41361,24 @@
       {
         "texto": "es mucha cantidad...tiene q contratar un contenedor",
         "fecha": "2026-07-13T12:40:14.525Z",
+        "sentimiento": "positivo"
+      }
+    ]
+  },
+  {
+    "numero": "57669180256288",
+    "celular": "+54 9 3812 011-972",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Buenos día \nMe dirijo a ustedes a fin de comunicarles que necesito retiren ramas de la vereda de mi domicilio , resultado de poda de una planta de mora.",
+    "mensaje": "Buenos día \nMe dirijo a ustedes a fin de comunicarles que necesito retiren ramas de la vereda de mi domicilio , resultado de poda de una planta de mora.",
+    "fecha": "2026-07-13T12:59:55.699Z",
+    "ultimaActualizacion": "2026-07-13T12:59:55.699Z",
+    "historialMensajes": [
+      {
+        "texto": "Buenos día \nMe dirijo a ustedes a fin de comunicarles que necesito retiren ramas de la vereda de mi domicilio , resultado de poda de una planta de mora.",
+        "fecha": "2026-07-13T12:59:55.699Z",
         "sentimiento": "positivo"
       }
     ]
