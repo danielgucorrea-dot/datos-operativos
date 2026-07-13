@@ -41109,5 +41109,28 @@
         "sentimiento": "positivo"
       }
     ]
+  },
+  {
+    "numero": "241922824224964",
+    "celular": "+54 9 3815 343-081",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Quisiera saber cómo solicitar la recolección de escombros de mi domicilio, juramento de la bandera 164",
+    "mensaje": "Hola buenos dias",
+    "fecha": "2026-07-13T11:46:23.052Z",
+    "ultimaActualizacion": "2026-07-13T11:46:48.469Z",
+    "historialMensajes": [
+      {
+        "texto": "Hola buenos dias",
+        "fecha": "2026-07-13T11:46:23.052Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Quisiera saber cómo solicitar la recolección de escombros de mi domicilio, juramento de la bandera 164",
+        "fecha": "2026-07-13T11:46:48.469Z",
+        "sentimiento": "positivo"
+      }
+    ]
   }
 ]
