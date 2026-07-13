@@ -23653,7 +23653,7 @@
     "celular": "+54 9 3813 500-478",
     "nombre": "",
     "direccion": "Av independencia 1756",
-    "sentimiento": "neutro",
+    "sentimiento": "positivo",
     "evidencia_clasificacion": [],
     "canal": "WhatsApp Ambiente",
     "fecha": "2026-05-20",
@@ -23673,8 +23673,8 @@
       "Quiero solicitar el retiro de residuos no habituales",
       "Buenos días"
     ],
-    "ultimaActualizacion": "2026-07-13T12:31:49.144Z",
-    "ultimoMensaje": "Av. Independencia 1756 \nSan Miguel de Tucumán",
+    "ultimaActualizacion": "2026-07-13T12:32:07.792Z",
+    "ultimoMensaje": "Solicitamos el retiro de residuos",
     "historialMensajes": [
       {
         "texto": "Buenas tardes",
@@ -23705,6 +23705,11 @@
         "texto": "Av. Independencia 1756 \nSan Miguel de Tucumán",
         "fecha": "2026-07-13T12:31:49.144Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Solicitamos el retiro de residuos",
+        "fecha": "2026-07-13T12:32:07.792Z",
+        "sentimiento": "positivo"
       }
     ]
   },
