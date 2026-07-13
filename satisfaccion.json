@@ -41456,10 +41456,10 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "positivo",
-    "ultimoMensaje": "Necesito recolección de poda. Envío foto y punto GPS.",
+    "ultimoMensaje": "Bien. Gracias",
     "mensaje": "Hola",
     "fecha": "2026-07-12T20:20:53.293Z",
-    "ultimaActualizacion": "2026-07-12T20:21:12.861Z",
+    "ultimaActualizacion": "2026-07-13T15:30:10.716Z",
     "historialMensajes": [
       {
         "texto": "Hola",
@@ -41469,6 +41469,11 @@
       {
         "texto": "Necesito recolección de poda. Envío foto y punto GPS.",
         "fecha": "2026-07-12T20:21:12.861Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Bien. Gracias",
+        "fecha": "2026-07-13T15:30:10.716Z",
         "sentimiento": "positivo"
       }
     ]
