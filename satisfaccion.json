@@ -41580,5 +41580,23 @@
         "sentimiento": "neutro"
       }
     ]
+  },
+  {
+    "numero": "252492554227949",
+    "celular": "+54 9 3813 011-848",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Buen día. En la esquina de calle Florida y Miguel Lillo falta una tapa de registro de la calle (cloacas), y se llena de basura. Por favor podrían poner una tapa? Desde ya muchas gracias.",
+    "mensaje": "Buen día. En la esquina de calle Florida y Miguel Lillo falta una tapa de registro de la calle (cloacas), y se llena de basura. Por favor podrían poner una tapa? Desde ya muchas gracias.",
+    "fecha": "2026-07-13T14:08:20.599Z",
+    "ultimaActualizacion": "2026-07-13T14:08:20.599Z",
+    "historialMensajes": [
+      {
+        "texto": "Buen día. En la esquina de calle Florida y Miguel Lillo falta una tapa de registro de la calle (cloacas), y se llena de basura. Por favor podrían poner una tapa? Desde ya muchas gracias.",
+        "fecha": "2026-07-13T14:08:20.599Z",
+        "sentimiento": "positivo"
+      }
+    ]
   }
 ]
