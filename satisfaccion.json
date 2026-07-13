@@ -37639,7 +37639,7 @@
     "celular": "+54 9 3815 897-369",
     "nombre": "",
     "direccion": "",
-    "sentimiento": "positivo",
+    "sentimiento": "negativo",
     "evidencia_clasificacion": [
       "muchas gracias\\s*$"
     ],
@@ -37653,7 +37653,20 @@
       "Buen día",
       "Buen día, ok, muchas gracias."
     ],
-    "ultimaActualizacion": "2026-04-07"
+    "ultimaActualizacion": "2026-07-13T09:31:49.259Z",
+    "ultimoMensaje": "En las fotos no se ve pero es mucha la basura",
+    "historialMensajes": [
+      {
+        "texto": "Buen día, donde denunció que 2 personas se tomaron el trabajo de estar casi una hora tirando basura enfrente de mí casa? Adjunto video y fotos.",
+        "fecha": "2026-07-13T09:31:16.980Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "En las fotos no se ve pero es mucha la basura",
+        "fecha": "2026-07-13T09:31:49.259Z",
+        "sentimiento": "negativo"
+      }
+    ]
   },
   {
     "numero": "132431055220967",
