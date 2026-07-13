@@ -37777,8 +37777,8 @@
       "Buen día",
       "Buen día, ok, muchas gracias."
     ],
-    "ultimaActualizacion": "2026-07-13T14:57:47.148Z",
-    "ultimoMensaje": "Buen día, Próspero Mena 740, de todos modos, el barrendero acumuló todo y según mí vecina pasa hoy el camión del barrendero por la cuadra. Pero por las dudas se lo agradezco.",
+    "ultimaActualizacion": "2026-07-13T15:31:34.633Z",
+    "ultimoMensaje": "Ya pasaron los chicos del camión y levantaron todo.Muchas gracias",
     "historialMensajes": [
       {
         "texto": "Buen día, donde denunció que 2 personas se tomaron el trabajo de estar casi una hora tirando basura enfrente de mí casa? Adjunto video y fotos.",
@@ -37803,6 +37803,11 @@
       {
         "texto": "Buen día, Próspero Mena 740, de todos modos, el barrendero acumuló todo y según mí vecina pasa hoy el camión del barrendero por la cuadra. Pero por las dudas se lo agradezco.",
         "fecha": "2026-07-13T14:57:47.148Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Ya pasaron los chicos del camión y levantaron todo.Muchas gracias",
+        "fecha": "2026-07-13T15:31:34.633Z",
         "sentimiento": "positivo"
       }
     ]
