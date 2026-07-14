@@ -41780,11 +41780,11 @@
     "celular": "+54 9 3813 862-692",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "positivo",
-    "ultimoMensaje": "Es para recoger ramas del arbol q fue podado",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Buenos dias",
     "mensaje": "Buenos dias",
     "fecha": "2026-07-13T12:35:14.200Z",
-    "ultimaActualizacion": "2026-07-13T14:58:41.580Z",
+    "ultimaActualizacion": "2026-07-14T11:30:39.684Z",
     "historialMensajes": [
       {
         "texto": "Buenos dias",
@@ -41800,6 +41800,11 @@
         "texto": "Es para recoger ramas del arbol q fue podado",
         "fecha": "2026-07-13T14:58:41.580Z",
         "sentimiento": "positivo"
+      },
+      {
+        "texto": "Buenos dias",
+        "fecha": "2026-07-14T11:30:39.684Z",
+        "sentimiento": "neutro"
       }
     ]
   },
@@ -41880,10 +41885,10 @@
     "nombre": "",
     "direccion": "Santa fe 3379",
     "sentimiento": "positivo",
-    "ultimoMensaje": "Ok gracias",
+    "ultimoMensaje": "Buenos días, quisiera solicitar el servicio para retirar... Cómo debo hacer?",
     "mensaje": "Buenos días, quisiera solicitar el servicio para retirar... Cómo debo hacer?",
     "fecha": "2026-07-13T13:19:16.454Z",
-    "ultimaActualizacion": "2026-07-13T16:00:31.661Z",
+    "ultimaActualizacion": "2026-07-14T11:30:39.732Z",
     "historialMensajes": [
       {
         "texto": "Buenos días, quisiera solicitar el servicio para retirar... Cómo debo hacer?",
@@ -41919,6 +41924,11 @@
         "texto": "Ok gracias",
         "fecha": "2026-07-13T16:00:31.661Z",
         "sentimiento": "positivo"
+      },
+      {
+        "texto": "Buenos días, quisiera solicitar el servicio para retirar... Cómo debo hacer?",
+        "fecha": "2026-07-14T11:30:39.732Z",
+        "sentimiento": "positivo"
       }
     ]
   },
@@ -41928,10 +41938,10 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "neutro",
-    "ultimoMensaje": "Van a poder venir?",
+    "ultimoMensaje": "Buenos dias",
     "mensaje": "Buenos dias",
     "fecha": "2026-07-13T13:22:26.483Z",
-    "ultimaActualizacion": "2026-07-13T20:27:17.539Z",
+    "ultimaActualizacion": "2026-07-14T11:30:46.230Z",
     "historialMensajes": [
       {
         "texto": "Buenos dias",
@@ -41946,6 +41956,11 @@
       {
         "texto": "Van a poder venir?",
         "fecha": "2026-07-13T20:27:17.539Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Buenos dias",
+        "fecha": "2026-07-14T11:30:46.230Z",
         "sentimiento": "neutro"
       }
     ]
@@ -42031,11 +42046,11 @@
     "celular": "+54 9 3816 499-655",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "positivo",
-    "ultimoMensaje": "Perfecto. Muchas gracias x contestar",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Hola buenos días.",
     "mensaje": "Hola buenos días.",
     "fecha": "2026-07-13T14:06:30.862Z",
-    "ultimaActualizacion": "2026-07-13T15:26:58.123Z",
+    "ultimaActualizacion": "2026-07-14T11:30:46.276Z",
     "historialMensajes": [
       {
         "texto": "Hola buenos días.",
@@ -42051,6 +42066,11 @@
         "texto": "Perfecto. Muchas gracias x contestar",
         "fecha": "2026-07-13T15:26:58.123Z",
         "sentimiento": "positivo"
+      },
+      {
+        "texto": "Hola buenos días.",
+        "fecha": "2026-07-14T11:30:46.276Z",
+        "sentimiento": "neutro"
       }
     ]
   },
@@ -42083,10 +42103,10 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "neutro",
-    "ultimoMensaje": "Dónde debería llamar?",
+    "ultimoMensaje": "Buenos días",
     "mensaje": "Buenos días",
     "fecha": "2026-07-13T14:10:30.772Z",
-    "ultimaActualizacion": "2026-07-13T14:10:50.623Z",
+    "ultimaActualizacion": "2026-07-14T11:30:46.321Z",
     "historialMensajes": [
       {
         "texto": "Buenos días",
@@ -42101,6 +42121,11 @@
       {
         "texto": "Dónde debería llamar?",
         "fecha": "2026-07-13T14:10:50.623Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Buenos días",
+        "fecha": "2026-07-14T11:30:46.321Z",
         "sentimiento": "neutro"
       }
     ]
