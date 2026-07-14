@@ -9657,8 +9657,8 @@
       "Pje 1 de mayo 1050",
       "Hola"
     ],
-    "ultimaActualizacion": "2026-07-14T14:34:47.178Z",
-    "ultimoMensaje": "B obispo piedrabuena",
+    "ultimaActualizacion": "2026-07-14T16:30:54.454Z",
+    "ultimoMensaje": "....",
     "historialMensajes": [
       {
         "texto": "Hola buenos dias",
@@ -9678,6 +9678,11 @@
       {
         "texto": "B obispo piedrabuena",
         "fecha": "2026-07-14T14:34:47.178Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "....",
+        "fecha": "2026-07-14T16:30:54.454Z",
         "sentimiento": "neutro"
       }
     ]
