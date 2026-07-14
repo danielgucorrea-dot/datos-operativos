@@ -41309,10 +41309,10 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "neutro",
-    "ultimoMensaje": "Buen.dia, quedo atenta a su.pronta respuesta",
+    "ultimoMensaje": "Buenas tardes, quisiera saber sobre la informacion y requerimiento de  lineas arriba 👆🏼 compartida, q solucion hay????",
     "mensaje": "Buenas tardes",
     "fecha": "2026-07-10T18:05:12.447Z",
-    "ultimaActualizacion": "2026-07-13T13:40:12.571Z",
+    "ultimaActualizacion": "2026-07-14T21:58:29.943Z",
     "historialMensajes": [
       {
         "texto": "Buenas tardes",
@@ -41342,6 +41342,11 @@
       {
         "texto": "Buen.dia, quedo atenta a su.pronta respuesta",
         "fecha": "2026-07-13T13:40:12.571Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Buenas tardes, quisiera saber sobre la informacion y requerimiento de  lineas arriba 👆🏼 compartida, q solucion hay????",
+        "fecha": "2026-07-14T21:58:29.943Z",
         "sentimiento": "neutro"
       }
     ]
