@@ -44352,12 +44352,12 @@
     "numero": "2181994438801",
     "celular": "+54 9 3814 176-611",
     "nombre": "",
-    "direccion": null,
-    "sentimiento": "positivo",
-    "ultimoMensaje": "Necesito que pasen a retirar unas bolsas  grandes de mi domicilio son de poda de jardinería y el basurero no las lleva",
+    "direccion": "es san Lorenzo 3427",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Mi domicilio es san Lorenzo 3427\nSon 14 bolsas cerradas están en la vereda",
     "mensaje": "Hola buenas tardes",
     "fecha": "2026-07-14T16:57:54.774Z",
-    "ultimaActualizacion": "2026-07-14T16:58:32.535Z",
+    "ultimaActualizacion": "2026-07-14T16:59:04.395Z",
     "historialMensajes": [
       {
         "texto": "Hola buenas tardes",
@@ -44368,6 +44368,11 @@
         "texto": "Necesito que pasen a retirar unas bolsas  grandes de mi domicilio son de poda de jardinería y el basurero no las lleva",
         "fecha": "2026-07-14T16:58:32.535Z",
         "sentimiento": "positivo"
+      },
+      {
+        "texto": "Mi domicilio es san Lorenzo 3427\nSon 14 bolsas cerradas están en la vereda",
+        "fecha": "2026-07-14T16:59:04.395Z",
+        "sentimiento": "neutro"
       }
     ]
   }
