@@ -42347,10 +42347,10 @@
     "nombre": "",
     "direccion": "Lamadrid 955",
     "sentimiento": "neutro",
-    "ultimoMensaje": "Lamadrid 955",
+    "ultimoMensaje": "En q horario pasa?? Mañana trabajamos horario reducido por el partido",
     "mensaje": "Buenos días, quería solicitar su servicio",
     "fecha": "2026-07-13T15:23:32.459Z",
-    "ultimaActualizacion": "2026-07-14T12:05:24.071Z",
+    "ultimaActualizacion": "2026-07-14T12:05:45.397Z",
     "historialMensajes": [
       {
         "texto": "Buenos días, quería solicitar su servicio",
@@ -42390,6 +42390,11 @@
       {
         "texto": "Lamadrid 955",
         "fecha": "2026-07-14T12:05:24.071Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "En q horario pasa?? Mañana trabajamos horario reducido por el partido",
+        "fecha": "2026-07-14T12:05:45.397Z",
         "sentimiento": "neutro"
       }
     ]
