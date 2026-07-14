@@ -44611,7 +44611,7 @@
     "ultimoMensaje": "Necesito sacar escombros",
     "mensaje": "Buenas tardes",
     "fecha": "2026-07-14T19:19:37.652Z",
-    "ultimaActualizacion": "2026-07-14T19:19:43.014Z",
+    "ultimaActualizacion": "2026-07-14T19:19:45.910Z",
     "historialMensajes": [
       {
         "texto": "Buenas tardes",
@@ -44621,6 +44621,11 @@
       {
         "texto": "Necesito sacar escombros",
         "fecha": "2026-07-14T19:19:43.014Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Necesito sacar escombros",
+        "fecha": "2026-07-14T19:19:45.910Z",
         "sentimiento": "positivo"
       }
     ]
