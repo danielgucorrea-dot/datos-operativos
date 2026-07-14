@@ -43618,16 +43618,21 @@
     "celular": "+54 9 3815 233-299",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "positivo",
-    "ultimoMensaje": "Buenos días. Necesito sacar amas de la poda de un mango.",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Pasaje 1 de noviembre 1424, altura bolivia al 1300",
     "mensaje": "Buenos días. Necesito sacar amas de la poda de un mango.",
     "fecha": "2026-07-14T14:05:38.129Z",
-    "ultimaActualizacion": "2026-07-14T14:05:38.129Z",
+    "ultimaActualizacion": "2026-07-14T14:07:33.533Z",
     "historialMensajes": [
       {
         "texto": "Buenos días. Necesito sacar amas de la poda de un mango.",
         "fecha": "2026-07-14T14:05:38.129Z",
         "sentimiento": "positivo"
+      },
+      {
+        "texto": "Pasaje 1 de noviembre 1424, altura bolivia al 1300",
+        "fecha": "2026-07-14T14:07:33.533Z",
+        "sentimiento": "neutro"
       }
     ]
   }
