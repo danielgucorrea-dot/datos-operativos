@@ -42884,16 +42884,21 @@
     "celular": "+54 9 3815 901-714",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "positivo",
-    "ultimoMensaje": "Buenas noches\nNecesito que retiren los escombros de mi vereda\nComo debo tramitar?",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Buen día!!",
     "mensaje": "Buenas noches\nNecesito que retiren los escombros de mi vereda\nComo debo tramitar?",
     "fecha": "2026-07-13T22:51:46.610Z",
-    "ultimaActualizacion": "2026-07-13T22:51:46.610Z",
+    "ultimaActualizacion": "2026-07-14T11:41:53.679Z",
     "historialMensajes": [
       {
         "texto": "Buenas noches\nNecesito que retiren los escombros de mi vereda\nComo debo tramitar?",
         "fecha": "2026-07-13T22:51:46.610Z",
         "sentimiento": "positivo"
+      },
+      {
+        "texto": "Buen día!!",
+        "fecha": "2026-07-14T11:41:53.679Z",
+        "sentimiento": "neutro"
       }
     ]
   },
