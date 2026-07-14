@@ -43647,14 +43647,19 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "neutro",
-    "ultimoMensaje": "Hola",
+    "ultimoMensaje": "Buen día.",
     "mensaje": "Hola",
     "fecha": "2026-07-14T13:02:02.289Z",
-    "ultimaActualizacion": "2026-07-14T13:02:02.289Z",
+    "ultimaActualizacion": "2026-07-14T16:19:38.714Z",
     "historialMensajes": [
       {
         "texto": "Hola",
         "fecha": "2026-07-14T13:02:02.289Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Buen día.",
+        "fecha": "2026-07-14T16:19:38.714Z",
         "sentimiento": "neutro"
       }
     ]
@@ -44192,14 +44197,19 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "neutro",
-    "ultimoMensaje": "Buen día",
+    "ultimoMensaje": "Cómo debo hacer para coordinar para que retiren unas ramas de unos árboles que podé?",
     "mensaje": "Buen día",
     "fecha": "2026-07-14T16:14:45.343Z",
-    "ultimaActualizacion": "2026-07-14T16:14:45.343Z",
+    "ultimaActualizacion": "2026-07-14T16:15:08.486Z",
     "historialMensajes": [
       {
         "texto": "Buen día",
         "fecha": "2026-07-14T16:14:45.343Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Cómo debo hacer para coordinar para que retiren unas ramas de unos árboles que podé?",
+        "fecha": "2026-07-14T16:15:08.486Z",
         "sentimiento": "neutro"
       }
     ]
