@@ -10016,7 +10016,15 @@
       "Gracias!!",
       "Buenos días. Vivo en Tomas Edison 250. Hace tres días que el recolector de basura no pasa"
     ],
-    "ultimaActualizacion": "2026-06-16"
+    "ultimaActualizacion": "2026-07-14T13:36:26.993Z",
+    "ultimoMensaje": "Buenos días. Vivo en Tomas Edison 250. Dos días que el recolector de basura no pasa",
+    "historialMensajes": [
+      {
+        "texto": "Buenos días. Vivo en Tomas Edison 250. Dos días que el recolector de basura no pasa",
+        "fecha": "2026-07-14T13:36:26.993Z",
+        "sentimiento": "negativo"
+      }
+    ]
   },
   {
     "numero": "112979232211121",
