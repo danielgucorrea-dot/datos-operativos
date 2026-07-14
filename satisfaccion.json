@@ -5578,7 +5578,7 @@
     "celular": "+54 9 3815 283-002",
     "nombre": "",
     "direccion": "Emilio Castelar 1374",
-    "sentimiento": "neutro",
+    "sentimiento": "positivo",
     "evidencia_clasificacion": [
       "perfecto muchas gracias"
     ],
@@ -5591,8 +5591,8 @@
       "Buen Dia necesitaria que retiren bolsas con restos de obra",
       "Buenas noches necesitaria que retiren de mi domicilio bolsas con materiales de obra"
     ],
-    "ultimaActualizacion": "2026-07-14T13:40:44.240Z",
-    "ultimoMensaje": "Emilio Castelar 1374",
+    "ultimaActualizacion": "2026-07-14T14:36:40.822Z",
+    "ultimoMensaje": "Bien muchas gracias",
     "historialMensajes": [
       {
         "texto": "Buenos Dias necesitaria que pasen a retirar bolsas con restos de obra",
@@ -5608,6 +5608,11 @@
         "texto": "Emilio Castelar 1374",
         "fecha": "2026-07-14T13:40:44.240Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Bien muchas gracias",
+        "fecha": "2026-07-14T14:36:40.822Z",
+        "sentimiento": "positivo"
       }
     ]
   },
