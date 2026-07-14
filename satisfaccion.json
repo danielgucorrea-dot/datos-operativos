@@ -43223,5 +43223,23 @@
         "sentimiento": "positivo"
       }
     ]
+  },
+  {
+    "numero": "113340043018340",
+    "celular": "+54 9 3812 455-576",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Hola",
+    "mensaje": "Hola",
+    "fecha": "2026-07-14T13:02:02.289Z",
+    "ultimaActualizacion": "2026-07-14T13:02:02.289Z",
+    "historialMensajes": [
+      {
+        "texto": "Hola",
+        "fecha": "2026-07-14T13:02:02.289Z",
+        "sentimiento": "neutro"
+      }
+    ]
   }
 ]
