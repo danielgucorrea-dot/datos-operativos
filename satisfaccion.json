@@ -5497,7 +5497,7 @@
     "celular": "+54 9 3815 262-295",
     "nombre": "",
     "direccion": "calle Catamarca 1892",
-    "sentimiento": "positivo",
+    "sentimiento": "negativo",
     "evidencia_clasificacion": [],
     "canal": "WhatsApp Ambiente",
     "fecha": "2026-06-25",
@@ -5515,8 +5515,8 @@
       "Son bolsas de consorcio. Cuando llegue a casa le saco fotos",
       "Buenos días. Este número no recibe llamadas verdad?\nQuería anotarme para ver si me podrán retirar 3 bolsas de pasto de la calle Catamarca 1892 casi esquina Venezuela. Es altura Siria al 1800"
     ],
-    "ultimaActualizacion": "2026-07-13T12:46:36.269Z",
-    "ultimoMensaje": "Perfecto gracias. Será q cargaran las dos cosas. La famosa colchoneta y las bolsas de yuyos ?",
+    "ultimaActualizacion": "2026-07-14T16:21:02.739Z",
+    "ultimoMensaje": "Buen día. Aviso q no retiraron aun la famosa colchoneta de perro q esta ennel pasaje Padilla Y Barcena al 1890 casi esquina Venezuela. También lo llaman pasaje Catamarca . A una cuadra del Hospital Avellaneda",
     "historialMensajes": [
       {
         "texto": "Buen día. Será q se puede buscar estas bolsas de pasto de pasaje Catamarca 1890  o también llamado pasaje Padilla y Barcena  hay un portón negro.   Es al lado donde está la colchoneta de perro que ya ",
@@ -5527,6 +5527,11 @@
         "texto": "Perfecto gracias. Será q cargaran las dos cosas. La famosa colchoneta y las bolsas de yuyos ?",
         "fecha": "2026-07-13T12:46:36.269Z",
         "sentimiento": "positivo"
+      },
+      {
+        "texto": "Buen día. Aviso q no retiraron aun la famosa colchoneta de perro q esta ennel pasaje Padilla Y Barcena al 1890 casi esquina Venezuela. También lo llaman pasaje Catamarca . A una cuadra del Hospital Av",
+        "fecha": "2026-07-14T16:21:02.739Z",
+        "sentimiento": "negativo"
       }
     ]
   },
