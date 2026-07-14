@@ -43139,12 +43139,12 @@
     "numero": "24735421362246",
     "celular": "+54 9 3814 460-812",
     "nombre": "",
-    "direccion": null,
-    "sentimiento": "positivo",
-    "ultimoMensaje": "Son 24 bolsas. Mando fotos",
+    "direccion": "San Lorenzo 149",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "1er piso",
     "mensaje": "Buenos días, quisiera saber cómo gestionar el retiro de bolsas de escombros de mi domicilio",
     "fecha": "2026-07-14T12:18:10.095Z",
-    "ultimaActualizacion": "2026-07-14T12:38:48.278Z",
+    "ultimaActualizacion": "2026-07-14T12:50:47.617Z",
     "historialMensajes": [
       {
         "texto": "Buenos días, quisiera saber cómo gestionar el retiro de bolsas de escombros de mi domicilio",
@@ -43155,6 +43155,16 @@
         "texto": "Son 24 bolsas. Mando fotos",
         "fecha": "2026-07-14T12:38:48.278Z",
         "sentimiento": "positivo"
+      },
+      {
+        "texto": "San Lorenzo 149",
+        "fecha": "2026-07-14T12:50:43.101Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "1er piso",
+        "fecha": "2026-07-14T12:50:47.617Z",
+        "sentimiento": "neutro"
       }
     ]
   }
