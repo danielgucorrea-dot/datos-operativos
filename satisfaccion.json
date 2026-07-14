@@ -41544,11 +41544,11 @@
     "celular": "+54 9 3815 748-544",
     "nombre": "",
     "direccion": "Congreso de Tucumán 2707",
-    "sentimiento": "positivo",
-    "ultimoMensaje": "Muchísimas gracias",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Hola buen día",
     "mensaje": "Hola buen día",
     "fecha": "2026-07-12T12:53:59.045Z",
-    "ultimaActualizacion": "2026-07-13T15:59:33.673Z",
+    "ultimaActualizacion": "2026-07-14T11:30:36.313Z",
     "historialMensajes": [
       {
         "texto": "Hola buen día",
@@ -41584,6 +41584,11 @@
         "texto": "Muchísimas gracias",
         "fecha": "2026-07-13T15:59:33.673Z",
         "sentimiento": "positivo"
+      },
+      {
+        "texto": "Hola buen día",
+        "fecha": "2026-07-14T11:30:36.313Z",
+        "sentimiento": "neutro"
       }
     ]
   },
@@ -41593,10 +41598,10 @@
     "nombre": "",
     "direccion": "Deben ser 10",
     "sentimiento": "positivo",
-    "ultimoMensaje": "Bueno muchísimas gracias",
+    "ultimoMensaje": "Buenos días, necesito saber cómo tengo que hacer para hacer llevar unos escombros que tengo afuera de la casa",
     "mensaje": "Buenos días, necesito saber cómo tengo que hacer para hacer llevar unos escombros que tengo afuera de la casa",
     "fecha": "2026-07-12T14:07:35.936Z",
-    "ultimaActualizacion": "2026-07-13T14:43:56.900Z",
+    "ultimaActualizacion": "2026-07-14T11:30:36.380Z",
     "historialMensajes": [
       {
         "texto": "Buenos días, necesito saber cómo tengo que hacer para hacer llevar unos escombros que tengo afuera de la casa",
@@ -41617,6 +41622,11 @@
         "texto": "Bueno muchísimas gracias",
         "fecha": "2026-07-13T14:43:56.900Z",
         "sentimiento": "positivo"
+      },
+      {
+        "texto": "Buenos días, necesito saber cómo tengo que hacer para hacer llevar unos escombros que tengo afuera de la casa",
+        "fecha": "2026-07-14T11:30:36.380Z",
+        "sentimiento": "positivo"
       }
     ]
   },
@@ -41625,11 +41635,11 @@
     "celular": "+54 9 3815 847-739",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "positivo",
-    "ultimoMensaje": "Bien. Gracias",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Hola",
     "mensaje": "Hola",
     "fecha": "2026-07-12T20:20:53.293Z",
-    "ultimaActualizacion": "2026-07-13T15:30:10.716Z",
+    "ultimaActualizacion": "2026-07-14T11:30:36.347Z",
     "historialMensajes": [
       {
         "texto": "Hola",
@@ -41645,6 +41655,11 @@
         "texto": "Bien. Gracias",
         "fecha": "2026-07-13T15:30:10.716Z",
         "sentimiento": "positivo"
+      },
+      {
+        "texto": "Hola",
+        "fecha": "2026-07-14T11:30:36.347Z",
+        "sentimiento": "neutro"
       }
     ]
   },
@@ -41699,11 +41714,11 @@
     "celular": "+54 9 3815 343-081",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "positivo",
-    "ultimoMensaje": "Ya embolsare el resto",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Hola buenos dias",
     "mensaje": "Hola buenos dias",
     "fecha": "2026-07-13T11:46:23.052Z",
-    "ultimaActualizacion": "2026-07-13T16:08:29.070Z",
+    "ultimaActualizacion": "2026-07-14T11:30:36.413Z",
     "historialMensajes": [
       {
         "texto": "Hola buenos dias",
@@ -41729,6 +41744,11 @@
         "texto": "Ya embolsare el resto",
         "fecha": "2026-07-13T16:08:29.070Z",
         "sentimiento": "positivo"
+      },
+      {
+        "texto": "Hola buenos dias",
+        "fecha": "2026-07-14T11:30:36.413Z",
+        "sentimiento": "neutro"
       }
     ]
   },
@@ -41741,11 +41761,16 @@
     "ultimoMensaje": "Hola buen dia \nQueria consultar si tendrian un camion libre \nPara retirar una montaña de maderas viejas que tengo en mi casa para desechar",
     "mensaje": "Hola buen dia \nQueria consultar si tendrian un camion libre \nPara retirar una montaña de maderas viejas que tengo en mi casa para desechar",
     "fecha": "2026-07-13T12:08:06.032Z",
-    "ultimaActualizacion": "2026-07-13T12:08:06.032Z",
+    "ultimaActualizacion": "2026-07-14T11:30:36.447Z",
     "historialMensajes": [
       {
         "texto": "Hola buen dia \nQueria consultar si tendrian un camion libre \nPara retirar una montaña de maderas viejas que tengo en mi casa para desechar",
         "fecha": "2026-07-13T12:08:06.032Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Hola buen dia \nQueria consultar si tendrian un camion libre \nPara retirar una montaña de maderas viejas que tengo en mi casa para desechar",
+        "fecha": "2026-07-14T11:30:36.447Z",
         "sentimiento": "positivo"
       }
     ]
