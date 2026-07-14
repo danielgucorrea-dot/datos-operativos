@@ -44185,5 +44185,23 @@
         "sentimiento": "positivo"
       }
     ]
+  },
+  {
+    "numero": "217810844307573",
+    "celular": "+54 9 3813 199-124",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Buen día",
+    "mensaje": "Buen día",
+    "fecha": "2026-07-14T16:14:45.343Z",
+    "ultimaActualizacion": "2026-07-14T16:14:45.343Z",
+    "historialMensajes": [
+      {
+        "texto": "Buen día",
+        "fecha": "2026-07-14T16:14:45.343Z",
+        "sentimiento": "neutro"
+      }
+    ]
   }
 ]
