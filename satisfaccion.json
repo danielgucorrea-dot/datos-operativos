@@ -36558,8 +36558,8 @@
       "Tengo un equipo de gym. Una caminadora está impecable pero ocupa mucho lugar",
       "Hola buen día"
     ],
-    "ultimaActualizacion": "2026-07-14T13:42:37.959Z",
-    "ultimoMensaje": "Pasaje primera junta 1273",
+    "ultimaActualizacion": "2026-07-14T13:42:57.765Z",
+    "ultimoMensaje": "Villa Alem",
     "historialMensajes": [
       {
         "texto": "Hola buen día",
@@ -36569,6 +36569,11 @@
       {
         "texto": "Pasaje primera junta 1273",
         "fecha": "2026-07-14T13:42:37.959Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Villa Alem",
+        "fecha": "2026-07-14T13:42:57.765Z",
         "sentimiento": "neutro"
       }
     ]
