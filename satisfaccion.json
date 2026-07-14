@@ -9624,7 +9624,15 @@
       "Pje 1 de mayo 1050",
       "Hola"
     ],
-    "ultimaActualizacion": "2026-06-17"
+    "ultimaActualizacion": "2026-07-14T14:33:32.741Z",
+    "ultimoMensaje": "Hola buenos dias",
+    "historialMensajes": [
+      {
+        "texto": "Hola buenos dias",
+        "fecha": "2026-07-14T14:33:32.741Z",
+        "sentimiento": "neutro"
+      }
+    ]
   },
   {
     "numero": "197173643899061",
