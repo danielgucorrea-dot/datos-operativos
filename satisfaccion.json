@@ -7200,7 +7200,7 @@
     "celular": "+54 9 3815 936-381",
     "nombre": "",
     "direccion": "José Colombres 1723",
-    "sentimiento": "positivo",
+    "sentimiento": "neutro",
     "evidencia_clasificacion": [
       "quisiera agradecer",
       "perfecto muchas gracias"
@@ -7239,7 +7239,15 @@
       "Me pasaron este número para recolección de unos escombros que dejaron en mi vereda",
       "Hola buen día"
     ],
-    "ultimaActualizacion": "2026-06-23"
+    "ultimaActualizacion": "2026-07-14T19:44:57.962Z",
+    "ultimoMensaje": "Buenas tardes",
+    "historialMensajes": [
+      {
+        "texto": "Buenas tardes",
+        "fecha": "2026-07-14T19:44:57.962Z",
+        "sentimiento": "neutro"
+      }
+    ]
   },
   {
     "numero": "9084040388820",
