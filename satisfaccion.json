@@ -42978,16 +42978,21 @@
     "celular": "+54 9 3815 479-853",
     "nombre": "",
     "direccion": "calle ESTEBAN DE ECHEVERRIA 347",
-    "sentimiento": "positivo",
-    "ultimoMensaje": "Buenas tardes para que puedan retirar, ramas en calle ESTEBAN DE ECHEVERRIA 347  Y PASAJE DON BOSCO ALTURA MATE DE LUNA 4.400 ENTRE MENDOZAVY SAN JUAN ESTAN ACOMODADAS POR FAVOR MUCHAS GRACIAS",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Muchas gracias mas tardecito le envio las fotos estoy en el medico",
     "mensaje": "Buenas tardes para que puedan retirar, ramas en calle ESTEBAN DE ECHEVERRIA 347  Y PASAJE DON BOSCO ALTURA MATE DE LUNA 4.400 ENTRE MENDOZAVY SAN JUAN ESTAN ACOMODADAS POR FAVOR MUCHAS GRACIAS",
     "fecha": "2026-07-13T20:57:26.370Z",
-    "ultimaActualizacion": "2026-07-13T20:57:26.370Z",
+    "ultimaActualizacion": "2026-07-14T13:52:56.434Z",
     "historialMensajes": [
       {
         "texto": "Buenas tardes para que puedan retirar, ramas en calle ESTEBAN DE ECHEVERRIA 347  Y PASAJE DON BOSCO ALTURA MATE DE LUNA 4.400 ENTRE MENDOZAVY SAN JUAN ESTAN ACOMODADAS POR FAVOR MUCHAS GRACIAS",
         "fecha": "2026-07-13T20:57:26.370Z",
         "sentimiento": "positivo"
+      },
+      {
+        "texto": "Muchas gracias mas tardecito le envio las fotos estoy en el medico",
+        "fecha": "2026-07-14T13:52:56.434Z",
+        "sentimiento": "neutro"
       }
     ]
   },
@@ -43025,14 +43030,19 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "positivo",
-    "ultimoMensaje": "Hola buen día. Mi nombre es Julieta Malangone.\nYo mandé mensajes por Instagram y quise mandar por correo pero me daba inexistente.\nYo realice la capacitación de forma presencial pero la verdad que no pude hacer el virtual. Estuve con mi abuela enferma y muchos problemas respecto a eso, con la cabeza en otro lado la verdad y se me pasó la fecha límite de evaluación virtual. \nLe agradecería muchísimo si es que existe la posibilidad de extender la fecha o si podrían hacer la excepción así puedo rendir. Por favor. Hice un esfuerzo muy grande para poder ir a la capacitación presencial.\nDesde ya, muchas gracias",
+    "ultimoMensaje": "Gracias",
     "mensaje": "Hola buen día. Mi nombre es Julieta Malangone.\nYo mandé mensajes por Instagram y quise mandar por correo pero me daba inexistente.\nYo realice la capacitación de forma presencial pero la verdad que no pude hacer el virtual. Estuve con mi abuela enferma y muchos problemas respecto a eso, con la cabeza en otro lado la verdad y se me pasó la fecha límite de evaluación virtual. \nLe agradecería muchísimo si es que existe la posibilidad de extender la fecha o si podrían hacer la excepción así puedo rendir. Por favor. Hice un esfuerzo muy grande para poder ir a la capacitación presencial.\nDesde ya, muchas gracias",
     "fecha": "2026-07-13T21:23:29.625Z",
-    "ultimaActualizacion": "2026-07-13T21:23:29.625Z",
+    "ultimaActualizacion": "2026-07-14T13:52:40.553Z",
     "historialMensajes": [
       {
         "texto": "Hola buen día. Mi nombre es Julieta Malangone.\nYo mandé mensajes por Instagram y quise mandar por correo pero me daba inexistente.\nYo realice la capacitación de forma presencial pero la verdad que no ",
         "fecha": "2026-07-13T21:23:29.625Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Gracias",
+        "fecha": "2026-07-14T13:52:40.553Z",
         "sentimiento": "positivo"
       }
     ]
