@@ -43147,11 +43147,11 @@
     "celular": "+54 9 3816 631-620",
     "nombre": "",
     "direccion": "Marcos Paz 3865",
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Será q pasan a buscarlo?",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "ok, pasarían entonces hasta el jueves a mas tardar?",
     "mensaje": "La dirección es: Marcos Paz  3865, entre esquiu y godoy cruz",
     "fecha": "2026-07-14T12:12:19.421Z",
-    "ultimaActualizacion": "2026-07-14T12:50:15.120Z",
+    "ultimaActualizacion": "2026-07-14T13:15:01.115Z",
     "historialMensajes": [
       {
         "texto": "La dirección es: Marcos Paz  3865, entre esquiu y godoy cruz",
@@ -43167,6 +43167,11 @@
         "texto": "Será q pasan a buscarlo?",
         "fecha": "2026-07-14T12:50:15.120Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "ok, pasarían entonces hasta el jueves a mas tardar?",
+        "fecha": "2026-07-14T13:15:01.115Z",
+        "sentimiento": "positivo"
       }
     ]
   },
