@@ -44583,5 +44583,23 @@
         "sentimiento": "neutro"
       }
     ]
+  },
+  {
+    "numero": "18425510383720",
+    "celular": "+54 9 3816 972-617",
+    "nombre": "",
+    "direccion": "pje carlos gardel 1078",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Buenas tardes podrían retirar de la vereda de mi casa 10 bolsa de escombro de aproximadamente 15kgrs cada una.\nMi nombre es Atilio Doña mi domicilio es pje carlos gardel 1078 altura av coronel suarez al 1200 san miguel de tucuman",
+    "mensaje": "Buenas tardes podrían retirar de la vereda de mi casa 10 bolsa de escombro de aproximadamente 15kgrs cada una.\nMi nombre es Atilio Doña mi domicilio es pje carlos gardel 1078 altura av coronel suarez al 1200 san miguel de tucuman",
+    "fecha": "2026-07-14T19:10:05.951Z",
+    "ultimaActualizacion": "2026-07-14T19:10:05.951Z",
+    "historialMensajes": [
+      {
+        "texto": "Buenas tardes podrían retirar de la vereda de mi casa 10 bolsa de escombro de aproximadamente 15kgrs cada una.\nMi nombre es Atilio Doña mi domicilio es pje carlos gardel 1078 altura av coronel suarez ",
+        "fecha": "2026-07-14T19:10:05.951Z",
+        "sentimiento": "positivo"
+      }
+    ]
   }
 ]
