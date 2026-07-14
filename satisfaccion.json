@@ -43157,10 +43157,10 @@
     "nombre": "",
     "direccion": "Juan José pasó 203",
     "sentimiento": "neutro",
-    "ultimoMensaje": "Aaaa ok ok gracias perdón",
+    "ultimoMensaje": "Aaaa bueno",
     "mensaje": "Buen día",
     "fecha": "2026-07-14T10:03:46.562Z",
-    "ultimaActualizacion": "2026-07-14T14:01:47.309Z",
+    "ultimaActualizacion": "2026-07-14T14:02:11.766Z",
     "historialMensajes": [
       {
         "texto": "Buen día",
@@ -43180,6 +43180,11 @@
       {
         "texto": "Aaaa ok ok gracias perdón",
         "fecha": "2026-07-14T14:01:47.309Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Aaaa bueno",
+        "fecha": "2026-07-14T14:02:11.766Z",
         "sentimiento": "neutro"
       }
     ]
