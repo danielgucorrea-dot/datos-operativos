@@ -43081,17 +43081,12 @@
     "celular": "+54 9 3813 001-644",
     "nombre": "",
     "direccion": "Barrio America",
-    "sentimiento": "negativo",
-    "ultimoMensaje": "Solo me quedan estas bolsas",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Pueden retirar esas bolsas",
     "mensaje": "Buenas tardes! Tengo bolsas de escombros en mi domicilio. Como tramito para que me lo retiren? Muchas gracias",
     "fecha": "2026-07-13T20:44:46.936Z",
-    "ultimaActualizacion": "2026-07-14T16:25:47.710Z",
+    "ultimaActualizacion": "2026-07-14T16:26:52.522Z",
     "historialMensajes": [
-      {
-        "texto": "No tengo para pagar x eso los llame",
-        "fecha": "2026-07-14T13:48:45.256Z",
-        "sentimiento": "negativo"
-      },
       {
         "texto": "Que me retiren lo que indican ustedes",
         "fecha": "2026-07-14T13:49:33.659Z",
@@ -43136,6 +43131,11 @@
         "texto": "Solo me quedan estas bolsas",
         "fecha": "2026-07-14T16:25:47.710Z",
         "sentimiento": "negativo"
+      },
+      {
+        "texto": "Pueden retirar esas bolsas",
+        "fecha": "2026-07-14T16:26:52.522Z",
+        "sentimiento": "positivo"
       }
     ]
   },
