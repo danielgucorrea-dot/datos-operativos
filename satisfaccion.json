@@ -41991,10 +41991,10 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "neutro",
-    "ultimoMensaje": "Buenos dias",
+    "ultimoMensaje": "Buen dia",
     "mensaje": "Buenos dias",
     "fecha": "2026-07-13T13:22:26.483Z",
-    "ultimaActualizacion": "2026-07-14T11:30:46.230Z",
+    "ultimaActualizacion": "2026-07-14T13:14:08.458Z",
     "historialMensajes": [
       {
         "texto": "Buenos dias",
@@ -42014,6 +42014,11 @@
       {
         "texto": "Buenos dias",
         "fecha": "2026-07-14T11:30:46.230Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Buen dia",
+        "fecha": "2026-07-14T13:14:08.458Z",
         "sentimiento": "neutro"
       }
     ]
@@ -43281,11 +43286,16 @@
     "ultimoMensaje": "Buenos días necesitamos nos retiren ramas y algo de escombros Mendoza 970",
     "mensaje": "Buenos días necesitamos nos retiren ramas y algo de escombros Mendoza 970",
     "fecha": "2026-07-14T13:13:41.384Z",
-    "ultimaActualizacion": "2026-07-14T13:13:41.384Z",
+    "ultimaActualizacion": "2026-07-14T13:13:43.286Z",
     "historialMensajes": [
       {
         "texto": "Buenos días necesitamos nos retiren ramas y algo de escombros Mendoza 970",
         "fecha": "2026-07-14T13:13:41.384Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Buenos días necesitamos nos retiren ramas y algo de escombros Mendoza 970",
+        "fecha": "2026-07-14T13:13:43.286Z",
         "sentimiento": "positivo"
       }
     ]
