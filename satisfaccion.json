@@ -42550,10 +42550,10 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "neutro",
-    "ultimoMensaje": "Buen día",
+    "ultimoMensaje": "Si ya le paso",
     "mensaje": "Buenas tardes , por lavaisse y moreno , no levantaron la basura",
     "fecha": "2026-07-13T16:09:23.157Z",
-    "ultimaActualizacion": "2026-07-14T13:51:28.256Z",
+    "ultimaActualizacion": "2026-07-14T13:51:32.143Z",
     "historialMensajes": [
       {
         "texto": "Buenas tardes , por lavaisse y moreno , no levantaron la basura",
@@ -42568,6 +42568,11 @@
       {
         "texto": "Buen día",
         "fecha": "2026-07-14T13:51:28.256Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Si ya le paso",
+        "fecha": "2026-07-14T13:51:32.143Z",
         "sentimiento": "neutro"
       }
     ]
