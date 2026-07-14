@@ -42962,5 +42962,33 @@
         "sentimiento": "positivo"
       }
     ]
+  },
+  {
+    "numero": "152716202504436",
+    "celular": "+54 9 3814 958-561",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "negativo",
+    "ultimoMensaje": "Asi amanecio hoy esto después lo van hacer un basural",
+    "mensaje": "Hola",
+    "fecha": "2026-07-14T11:50:01.926Z",
+    "ultimaActualizacion": "2026-07-14T11:51:16.490Z",
+    "historialMensajes": [
+      {
+        "texto": "Hola",
+        "fecha": "2026-07-14T11:50:01.926Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Hola",
+        "fecha": "2026-07-14T11:50:03.073Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Asi amanecio hoy esto después lo van hacer un basural",
+        "fecha": "2026-07-14T11:51:16.490Z",
+        "sentimiento": "negativo"
+      }
+    ]
   }
 ]
