@@ -43646,11 +43646,11 @@
     "celular": "+54 9 3812 455-576",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Buen día.",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Tengo que enviar una foto? Son ramas de árbol con hojas",
     "mensaje": "Hola",
     "fecha": "2026-07-14T13:02:02.289Z",
-    "ultimaActualizacion": "2026-07-14T16:19:38.714Z",
+    "ultimaActualizacion": "2026-07-14T16:20:12.079Z",
     "historialMensajes": [
       {
         "texto": "Hola",
@@ -43661,6 +43661,11 @@
         "texto": "Buen día.",
         "fecha": "2026-07-14T16:19:38.714Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Tengo que enviar una foto? Son ramas de árbol con hojas",
+        "fecha": "2026-07-14T16:20:12.079Z",
+        "sentimiento": "positivo"
       }
     ]
   },
