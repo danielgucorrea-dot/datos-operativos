@@ -10069,12 +10069,17 @@
       "Gracias!!",
       "Buenos días. Vivo en Tomas Edison 250. Hace tres días que el recolector de basura no pasa"
     ],
-    "ultimaActualizacion": "2026-07-14T13:36:26.993Z",
-    "ultimoMensaje": "Buenos días. Vivo en Tomas Edison 250. Dos días que el recolector de basura no pasa",
+    "ultimaActualizacion": "2026-07-14T14:39:57.008Z",
+    "ultimoMensaje": "Todavía no pasó",
     "historialMensajes": [
       {
         "texto": "Buenos días. Vivo en Tomas Edison 250. Dos días que el recolector de basura no pasa",
         "fecha": "2026-07-14T13:36:26.993Z",
+        "sentimiento": "negativo"
+      },
+      {
+        "texto": "Todavía no pasó",
+        "fecha": "2026-07-14T14:39:57.008Z",
         "sentimiento": "negativo"
       }
     ]
@@ -43914,6 +43919,24 @@
         "texto": "Buenas",
         "fecha": "2026-07-14T14:35:10.918Z",
         "sentimiento": "neutro"
+      }
+    ]
+  },
+  {
+    "numero": "79508518506714",
+    "celular": "+54 9 3813 483-088",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Hola buen dia estaría necesitando si me podrían venir a sacar unas ramas de un árbol que podaron.Y estan adentro de mi domicilio",
+    "mensaje": "Hola buen dia estaría necesitando si me podrían venir a sacar unas ramas de un árbol que podaron.Y estan adentro de mi domicilio",
+    "fecha": "2026-07-14T14:39:30.197Z",
+    "ultimaActualizacion": "2026-07-14T14:39:30.197Z",
+    "historialMensajes": [
+      {
+        "texto": "Hola buen dia estaría necesitando si me podrían venir a sacar unas ramas de un árbol que podaron.Y estan adentro de mi domicilio",
+        "fecha": "2026-07-14T14:39:30.197Z",
+        "sentimiento": "positivo"
       }
     ]
   }
