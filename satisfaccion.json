@@ -42714,11 +42714,11 @@
     "celular": "+54 9 3812 208-279",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Hola si. Es para pedir x unos vecinos que tiene montañas de arenay piedra justo donde hay una rotonda de retorno xq es un pasaje sin salida",
+    "sentimiento": "negativo",
+    "ultimoMensaje": "Ellos no tienen vehículo entonces todo los materiales descargan allí y me perjudica para realizar en el día muchas maniobras para poder salir de mi domicilio",
     "mensaje": "Hola",
     "fecha": "2026-07-13T17:39:57.852Z",
-    "ultimaActualizacion": "2026-07-14T14:31:32.845Z",
+    "ultimaActualizacion": "2026-07-14T14:32:32.014Z",
     "historialMensajes": [
       {
         "texto": "Hola",
@@ -42734,6 +42734,11 @@
         "texto": "Hola si. Es para pedir x unos vecinos que tiene montañas de arenay piedra justo donde hay una rotonda de retorno xq es un pasaje sin salida",
         "fecha": "2026-07-14T14:31:32.845Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Ellos no tienen vehículo entonces todo los materiales descargan allí y me perjudica para realizar en el día muchas maniobras para poder salir de mi domicilio",
+        "fecha": "2026-07-14T14:32:32.014Z",
+        "sentimiento": "negativo"
       }
     ]
   },
