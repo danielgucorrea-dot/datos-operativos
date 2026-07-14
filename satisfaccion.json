@@ -44601,5 +44601,28 @@
         "sentimiento": "positivo"
       }
     ]
+  },
+  {
+    "numero": "142056194334803",
+    "celular": "+54 9 3814 055-010",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Necesito sacar escombros",
+    "mensaje": "Buenas tardes",
+    "fecha": "2026-07-14T19:19:37.652Z",
+    "ultimaActualizacion": "2026-07-14T19:19:43.014Z",
+    "historialMensajes": [
+      {
+        "texto": "Buenas tardes",
+        "fecha": "2026-07-14T19:19:37.652Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Necesito sacar escombros",
+        "fecha": "2026-07-14T19:19:43.014Z",
+        "sentimiento": "positivo"
+      }
+    ]
   }
 ]
