@@ -40654,11 +40654,11 @@
     "celular": "+54 9 3814 786-696",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Bien, aguardo la respuesta. Gracias",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Buenas tardes, quería saber si habías podido consultar sobre lo que te pregunté ayer",
     "mensaje": "Hola",
     "fecha": "2026-07-09T02:52:26.427Z",
-    "ultimaActualizacion": "2026-07-13T15:43:20.918Z",
+    "ultimaActualizacion": "2026-07-14T16:08:57.002Z",
     "historialMensajes": [
       {
         "texto": "Hola",
@@ -40699,6 +40699,11 @@
         "texto": "Bien, aguardo la respuesta. Gracias",
         "fecha": "2026-07-13T15:43:20.918Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Buenas tardes, quería saber si habías podido consultar sobre lo que te pregunté ayer",
+        "fecha": "2026-07-14T16:08:57.002Z",
+        "sentimiento": "positivo"
       }
     ]
   },
