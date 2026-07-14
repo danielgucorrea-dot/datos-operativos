@@ -43609,11 +43609,11 @@
     "celular": "+54 9 3816 465-208",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Policial 4 Mz D.caaa9 frente ala plaza  del barrio",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Vidrios gruesos tengo dr una puerta vlindex",
     "mensaje": "Buen dia",
     "fecha": "2026-07-14T13:31:48.562Z",
-    "ultimaActualizacion": "2026-07-14T14:18:37.936Z",
+    "ultimaActualizacion": "2026-07-14T14:27:39.592Z",
     "historialMensajes": [
       {
         "texto": "Buen dia",
@@ -43634,6 +43634,11 @@
         "texto": "Policial 4 Mz D.caaa9 frente ala plaza  del barrio",
         "fecha": "2026-07-14T14:18:37.936Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Vidrios gruesos tengo dr una puerta vlindex",
+        "fecha": "2026-07-14T14:27:39.592Z",
+        "sentimiento": "positivo"
       }
     ]
   },
