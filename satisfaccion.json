@@ -42746,10 +42746,10 @@
     "nombre": "",
     "direccion": "barrio judicial",
     "sentimiento": "neutro",
-    "ultimoMensaje": "Mi domicilio es pasaje amado Nervo 1938 barrio judicial, el pasaje queda paralela a la jujuy al 1900 detrás de la GNC Amalia",
+    "ultimoMensaje": "Necesita que le envié otra foto o esa está bien",
     "mensaje": "Buenas tardes",
     "fecha": "2026-07-13T19:43:03.548Z",
-    "ultimaActualizacion": "2026-07-14T13:07:43.488Z",
+    "ultimaActualizacion": "2026-07-14T13:08:37.189Z",
     "historialMensajes": [
       {
         "texto": "Buenas tardes",
@@ -42774,6 +42774,11 @@
       {
         "texto": "Mi domicilio es pasaje amado Nervo 1938 barrio judicial, el pasaje queda paralela a la jujuy al 1900 detrás de la GNC Amalia",
         "fecha": "2026-07-14T13:07:43.488Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Necesita que le envié otra foto o esa está bien",
+        "fecha": "2026-07-14T13:08:37.189Z",
         "sentimiento": "neutro"
       }
     ]
