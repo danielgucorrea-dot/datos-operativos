@@ -42852,10 +42852,10 @@
     "nombre": "",
     "direccion": "barrio judicial",
     "sentimiento": "positivo",
-    "ultimoMensaje": "Bien",
+    "ultimoMensaje": "Bien gracias",
     "mensaje": "Buenas tardes",
     "fecha": "2026-07-13T19:43:03.548Z",
-    "ultimaActualizacion": "2026-07-14T14:09:57.120Z",
+    "ultimaActualizacion": "2026-07-14T14:11:24.559Z",
     "historialMensajes": [
       {
         "texto": "Buenas tardes",
@@ -42895,6 +42895,11 @@
       {
         "texto": "Bien",
         "fecha": "2026-07-14T14:09:57.120Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Bien gracias",
+        "fecha": "2026-07-14T14:11:24.559Z",
         "sentimiento": "positivo"
       }
     ]
