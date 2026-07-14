@@ -42963,11 +42963,11 @@
     "celular": "+54 9 3815 706-775",
     "nombre": "",
     "direccion": "avenida Belgrano Al 1829",
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Av. Belgrano 1829",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Necesito servicios de reconexión porque son ramas y hojas",
     "mensaje": "Soy vecina de la avenida Belgrano Al 1829. Necesito el servicio de recolección porque Tengo bolsas de hojas y ramas.",
     "fecha": "2026-07-14T11:03:30.396Z",
-    "ultimaActualizacion": "2026-07-14T11:58:12.953Z",
+    "ultimaActualizacion": "2026-07-14T11:58:59.474Z",
     "historialMensajes": [
       {
         "texto": "Soy vecina de la avenida Belgrano Al 1829. Necesito el servicio de recolección porque Tengo bolsas de hojas y ramas.",
@@ -42983,6 +42983,11 @@
         "texto": "Av. Belgrano 1829",
         "fecha": "2026-07-14T11:58:12.953Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Necesito servicios de reconexión porque son ramas y hojas",
+        "fecha": "2026-07-14T11:58:59.474Z",
+        "sentimiento": "positivo"
       }
     ]
   },
