@@ -3393,7 +3393,15 @@
       "Es basura que tiraron los vecinos y se está generando un basural",
       "Levantamiento de basura, residuos de podas y escombros: Corrientes 3530"
     ],
-    "ultimaActualizacion": "2026-06-29"
+    "ultimaActualizacion": "2026-07-14T16:00:34.330Z",
+    "ultimoMensaje": "Buen díaa, para realizar un pedido",
+    "historialMensajes": [
+      {
+        "texto": "Buen díaa, para realizar un pedido",
+        "fecha": "2026-07-14T16:00:34.330Z",
+        "sentimiento": "positivo"
+      }
+    ]
   },
   {
     "numero": "137327452102830",
