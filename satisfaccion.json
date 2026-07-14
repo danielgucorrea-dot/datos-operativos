@@ -43562,10 +43562,10 @@
     "nombre": "",
     "direccion": "Mendoza 970",
     "sentimiento": "neutro",
-    "ultimoMensaje": "Se puede incluir pedazos de membrana",
+    "ultimoMensaje": "Por favor  necesitarismo nos digan un día. Es mucho",
     "mensaje": "Buenos días necesitamos nos retiren ramas y algo de escombros Mendoza 970",
     "fecha": "2026-07-14T13:13:41.384Z",
-    "ultimaActualizacion": "2026-07-14T14:33:01.768Z",
+    "ultimaActualizacion": "2026-07-14T14:34:29.621Z",
     "historialMensajes": [
       {
         "texto": "Buenos días necesitamos nos retiren ramas y algo de escombros Mendoza 970",
@@ -43595,6 +43595,11 @@
       {
         "texto": "Se puede incluir pedazos de membrana",
         "fecha": "2026-07-14T14:33:01.768Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Por favor  necesitarismo nos digan un día. Es mucho",
+        "fecha": "2026-07-14T14:34:29.621Z",
         "sentimiento": "neutro"
       }
     ]
