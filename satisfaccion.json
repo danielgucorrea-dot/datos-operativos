@@ -43451,16 +43451,21 @@
     "numero": "48181077381203",
     "celular": "+54 9 3815 337-154",
     "nombre": "",
-    "direccion": null,
+    "direccion": "Balcarce 627",
     "sentimiento": "neutro",
-    "ultimoMensaje": "Buenos días uds retiran escombros?",
+    "ultimoMensaje": "Balcarce 627",
     "mensaje": "Buenos días uds retiran escombros?",
     "fecha": "2026-07-14T13:35:40.448Z",
-    "ultimaActualizacion": "2026-07-14T13:35:40.448Z",
+    "ultimaActualizacion": "2026-07-14T13:44:34.725Z",
     "historialMensajes": [
       {
         "texto": "Buenos días uds retiran escombros?",
         "fecha": "2026-07-14T13:35:40.448Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Balcarce 627",
+        "fecha": "2026-07-14T13:44:34.725Z",
         "sentimiento": "neutro"
       }
     ]
