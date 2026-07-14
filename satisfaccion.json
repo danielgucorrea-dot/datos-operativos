@@ -44380,5 +44380,23 @@
         "sentimiento": "positivo"
       }
     ]
+  },
+  {
+    "numero": "92019758264505",
+    "celular": "+54 9 3816 607-788",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Buenas tardes, se puede solicitar para que retiren restos de ramas y pasto que tengo embolsado?",
+    "mensaje": "Buenas tardes, se puede solicitar para que retiren restos de ramas y pasto que tengo embolsado?",
+    "fecha": "2026-07-14T16:59:10.863Z",
+    "ultimaActualizacion": "2026-07-14T16:59:10.863Z",
+    "historialMensajes": [
+      {
+        "texto": "Buenas tardes, se puede solicitar para que retiren restos de ramas y pasto que tengo embolsado?",
+        "fecha": "2026-07-14T16:59:10.863Z",
+        "sentimiento": "positivo"
+      }
+    ]
   }
 ]
