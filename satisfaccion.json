@@ -43398,10 +43398,10 @@
     "nombre": "",
     "direccion": "Barrio Ampliación Congreso",
     "sentimiento": "neutro",
-    "ultimoMensaje": "Entre calles Lucio Mansilla y pasaje Gatti altura 2.000 de esas calles",
+    "ultimoMensaje": "Y la dirección exacta de mi casa es Don Orione 4332",
     "mensaje": "Buenos días como están",
     "fecha": "2026-07-14T12:59:17.999Z",
-    "ultimaActualizacion": "2026-07-14T13:58:19.754Z",
+    "ultimaActualizacion": "2026-07-14T13:59:31.446Z",
     "historialMensajes": [
       {
         "texto": "Buenos días como están",
@@ -43426,6 +43426,11 @@
       {
         "texto": "Entre calles Lucio Mansilla y pasaje Gatti altura 2.000 de esas calles",
         "fecha": "2026-07-14T13:58:19.754Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Y la dirección exacta de mi casa es Don Orione 4332",
+        "fecha": "2026-07-14T13:59:31.446Z",
         "sentimiento": "neutro"
       }
     ]
