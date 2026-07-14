@@ -3081,7 +3081,7 @@
     "celular": "+54 9 3813 606-278",
     "nombre": "",
     "direccion": "Barrio san ramon nonato",
-    "sentimiento": "neutro",
+    "sentimiento": "negativo",
     "evidencia_clasificacion": [],
     "canal": "WhatsApp Ambiente",
     "fecha": "2026-06-29",
@@ -3096,13 +3096,18 @@
       "Batalla de chacabuco 3805 entre calles doctor teodoro combes y Manuel gonzalo casas. Barrio san ramon nonato",
       "Buenas tardes"
     ],
-    "ultimaActualizacion": "2026-07-13T20:04:44.373Z",
-    "ultimoMensaje": "Hola, buenas tardes",
+    "ultimaActualizacion": "2026-07-14T14:16:23.460Z",
+    "ultimoMensaje": "Hola, buenos dias.\nTenía un pedido para retiro de restos de construcción del dia 17 de junio. Y todavía no se llegaron. Queria saber si pasarían o que tiempo de espera manejan",
     "historialMensajes": [
       {
         "texto": "Hola, buenas tardes",
         "fecha": "2026-07-13T20:04:44.373Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Hola, buenos dias.\nTenía un pedido para retiro de restos de construcción del dia 17 de junio. Y todavía no se llegaron. Queria saber si pasarían o que tiempo de espera manejan",
+        "fecha": "2026-07-14T14:16:23.460Z",
+        "sentimiento": "negativo"
       }
     ]
   },
