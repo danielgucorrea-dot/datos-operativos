@@ -42360,12 +42360,12 @@
     "numero": "45102022041636",
     "celular": "+54 9 3816 599-295",
     "nombre": "",
-    "direccion": null,
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Hola",
+    "direccion": "avenida América 1900",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Buenos días solicito el retiro de ramas y troncos pequeños. De avenida América 1900 esquina Venezuela. \nEn el horario de la mañana.",
     "mensaje": "Hola",
     "fecha": "2026-07-13T14:57:00.934Z",
-    "ultimaActualizacion": "2026-07-14T11:31:13.090Z",
+    "ultimaActualizacion": "2026-07-14T13:41:40.571Z",
     "historialMensajes": [
       {
         "texto": "Hola",
@@ -42376,6 +42376,11 @@
         "texto": "Hola",
         "fecha": "2026-07-14T11:31:13.090Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Buenos días solicito el retiro de ramas y troncos pequeños. De avenida América 1900 esquina Venezuela. \nEn el horario de la mañana.",
+        "fecha": "2026-07-14T13:41:40.571Z",
+        "sentimiento": "positivo"
       }
     ]
   },
@@ -43459,11 +43464,16 @@
     "ultimoMensaje": "Buenos dias .Uds recogen medicamentos vencidos ?",
     "mensaje": "Buenos dias .Uds recogen medicamentos vencidos ?",
     "fecha": "2026-07-14T13:41:37.852Z",
-    "ultimaActualizacion": "2026-07-14T13:41:37.852Z",
+    "ultimaActualizacion": "2026-07-14T13:41:42.852Z",
     "historialMensajes": [
       {
         "texto": "Buenos dias .Uds recogen medicamentos vencidos ?",
         "fecha": "2026-07-14T13:41:37.852Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Buenos dias .Uds recogen medicamentos vencidos ?",
+        "fecha": "2026-07-14T13:41:42.852Z",
         "sentimiento": "neutro"
       }
     ]
