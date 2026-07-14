@@ -44065,5 +44065,23 @@
         "sentimiento": "neutro"
       }
     ]
+  },
+  {
+    "numero": "71687466918006",
+    "celular": "+54 9 3815 757-234",
+    "nombre": "",
+    "direccion": "Fortunata García 1683",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Fortunata García 1683",
+    "mensaje": "Fortunata García 1683",
+    "fecha": "2026-07-14T15:36:33.960Z",
+    "ultimaActualizacion": "2026-07-14T15:36:33.960Z",
+    "historialMensajes": [
+      {
+        "texto": "Fortunata García 1683",
+        "fecha": "2026-07-14T15:36:33.960Z",
+        "sentimiento": "neutro"
+      }
+    ]
   }
 ]
