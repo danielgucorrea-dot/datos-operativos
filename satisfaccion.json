@@ -44320,11 +44320,11 @@
     "celular": "+54 9 3815 067-924",
     "nombre": "",
     "direccion": "Juramento 125",
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Residuos vegetales de poda. \n\nDirección: Juramento 125.",
+    "sentimiento": "negativo",
+    "ultimoMensaje": "La basura acumulada que se ve es en el n° 123 ¿Será posible que le recojan? La vecina que vive ahí es anciana y vive sola. Le tiran basura en la puerta permanentemente...",
     "mensaje": "Hola",
     "fecha": "2026-07-14T16:34:05.049Z",
-    "ultimaActualizacion": "2026-07-14T16:38:39.266Z",
+    "ultimaActualizacion": "2026-07-14T16:40:51.769Z",
     "historialMensajes": [
       {
         "texto": "Hola",
@@ -44335,6 +44335,11 @@
         "texto": "Residuos vegetales de poda. \n\nDirección: Juramento 125.",
         "fecha": "2026-07-14T16:38:39.266Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "La basura acumulada que se ve es en el n° 123 ¿Será posible que le recojan? La vecina que vive ahí es anciana y vive sola. Le tiran basura en la puerta permanentemente...",
+        "fecha": "2026-07-14T16:40:51.769Z",
+        "sentimiento": "negativo"
       }
     ]
   }
