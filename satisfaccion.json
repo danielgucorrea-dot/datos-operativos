@@ -43789,7 +43789,7 @@
     "ultimoMensaje": "Retiran residuos de obra embolsados de barrio Kennedy?",
     "mensaje": "Buenos dias",
     "fecha": "2026-07-14T14:20:39.021Z",
-    "ultimaActualizacion": "2026-07-14T14:21:01.890Z",
+    "ultimaActualizacion": "2026-07-14T14:21:05.487Z",
     "historialMensajes": [
       {
         "texto": "Buenos dias",
@@ -43799,6 +43799,11 @@
       {
         "texto": "Retiran residuos de obra embolsados de barrio Kennedy?",
         "fecha": "2026-07-14T14:21:01.890Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Retiran residuos de obra embolsados de barrio Kennedy?",
+        "fecha": "2026-07-14T14:21:05.487Z",
         "sentimiento": "neutro"
       }
     ]
