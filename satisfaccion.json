@@ -44256,5 +44256,23 @@
         "sentimiento": "neutro"
       }
     ]
+  },
+  {
+    "numero": "252260693078137",
+    "celular": "+54 9 3815 730-657",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Buendía",
+    "mensaje": "Buendía",
+    "fecha": "2026-07-14T16:26:00.634Z",
+    "ultimaActualizacion": "2026-07-14T16:26:00.634Z",
+    "historialMensajes": [
+      {
+        "texto": "Buendía",
+        "fecha": "2026-07-14T16:26:00.634Z",
+        "sentimiento": "neutro"
+      }
+    ]
   }
 ]
