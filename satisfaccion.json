@@ -44088,10 +44088,10 @@
     "nombre": "",
     "direccion": "Balcarce 369",
     "sentimiento": "neutro",
-    "ultimoMensaje": "Balcarce 369",
+    "ultimoMensaje": "Buenas tardes, recibieron mis msj?",
     "mensaje": "Buenas",
     "fecha": "2026-07-14T14:35:09.739Z",
-    "ultimaActualizacion": "2026-07-14T14:43:28.613Z",
+    "ultimaActualizacion": "2026-07-14T18:18:45.751Z",
     "historialMensajes": [
       {
         "texto": "Buenas",
@@ -44106,6 +44106,11 @@
       {
         "texto": "Balcarce 369",
         "fecha": "2026-07-14T14:43:28.613Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Buenas tardes, recibieron mis msj?",
+        "fecha": "2026-07-14T18:18:45.751Z",
         "sentimiento": "neutro"
       }
     ]
