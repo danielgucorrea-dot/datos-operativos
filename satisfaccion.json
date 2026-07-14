@@ -43895,10 +43895,10 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "positivo",
-    "ultimoMensaje": "Son 6 bolsas de residuos y 1 caja",
+    "ultimoMensaje": "6 bolsas medianas no grandes",
     "mensaje": "Buenos dias .Uds recogen medicamentos vencidos ?",
     "fecha": "2026-07-14T13:41:37.852Z",
-    "ultimaActualizacion": "2026-07-14T15:09:01.929Z",
+    "ultimaActualizacion": "2026-07-14T20:06:43.984Z",
     "historialMensajes": [
       {
         "texto": "Buenos dias .Uds recogen medicamentos vencidos ?",
@@ -43913,6 +43913,11 @@
       {
         "texto": "Son 6 bolsas de residuos y 1 caja",
         "fecha": "2026-07-14T15:09:01.929Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "6 bolsas medianas no grandes",
+        "fecha": "2026-07-14T20:06:43.984Z",
         "sentimiento": "positivo"
       }
     ]
