@@ -42885,10 +42885,10 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "neutro",
-    "ultimoMensaje": "Buen día!!",
+    "ultimoMensaje": "Soy de ASUNCIÓN AL 2500",
     "mensaje": "Buenas noches\nNecesito que retiren los escombros de mi vereda\nComo debo tramitar?",
     "fecha": "2026-07-13T22:51:46.610Z",
-    "ultimaActualizacion": "2026-07-14T11:41:53.679Z",
+    "ultimaActualizacion": "2026-07-14T11:43:55.548Z",
     "historialMensajes": [
       {
         "texto": "Buenas noches\nNecesito que retiren los escombros de mi vereda\nComo debo tramitar?",
@@ -42898,6 +42898,11 @@
       {
         "texto": "Buen día!!",
         "fecha": "2026-07-14T11:41:53.679Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Soy de ASUNCIÓN AL 2500",
+        "fecha": "2026-07-14T11:43:55.548Z",
         "sentimiento": "neutro"
       }
     ]
