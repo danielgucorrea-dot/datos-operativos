@@ -42575,11 +42575,11 @@
     "celular": "+54 9 3815 002-027",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "negativo",
-    "ultimoMensaje": "Y cada vez que reclamamos a las personas que no dejen escombos... maderas... huesos de las carnicerias... siĺas plasticas etc... nos hacen amenazas  e insultan",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Buen dia muchas gracias por la repuesta... esa nota va dirigida a que autoridad?",
     "mensaje": "Hay mucha basura que no son residuos",
     "fecha": "2026-07-13T17:28:14.060Z",
-    "ultimaActualizacion": "2026-07-13T17:32:21.398Z",
+    "ultimaActualizacion": "2026-07-14T12:50:41.881Z",
     "historialMensajes": [
       {
         "texto": "Hay mucha basura que no son residuos",
@@ -42600,6 +42600,11 @@
         "texto": "Y cada vez que reclamamos a las personas que no dejen escombos... maderas... huesos de las carnicerias... siĺas plasticas etc... nos hacen amenazas  e insultan",
         "fecha": "2026-07-13T17:32:21.398Z",
         "sentimiento": "negativo"
+      },
+      {
+        "texto": "Buen dia muchas gracias por la repuesta... esa nota va dirigida a que autoridad?",
+        "fecha": "2026-07-14T12:50:41.881Z",
+        "sentimiento": "positivo"
       }
     ]
   },
@@ -43108,10 +43113,10 @@
     "nombre": "",
     "direccion": "Marcos Paz 3865",
     "sentimiento": "neutro",
-    "ultimoMensaje": "quisiera solicitar el retiro de residuos no habituales",
+    "ultimoMensaje": "Será q pasan a buscarlo?",
     "mensaje": "La dirección es: Marcos Paz  3865, entre esquiu y godoy cruz",
     "fecha": "2026-07-14T12:12:19.421Z",
-    "ultimaActualizacion": "2026-07-14T12:12:37.158Z",
+    "ultimaActualizacion": "2026-07-14T12:50:15.120Z",
     "historialMensajes": [
       {
         "texto": "La dirección es: Marcos Paz  3865, entre esquiu y godoy cruz",
@@ -43121,6 +43126,11 @@
       {
         "texto": "quisiera solicitar el retiro de residuos no habituales",
         "fecha": "2026-07-14T12:12:37.158Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Será q pasan a buscarlo?",
+        "fecha": "2026-07-14T12:50:15.120Z",
         "sentimiento": "neutro"
       }
     ]
