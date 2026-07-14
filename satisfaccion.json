@@ -42914,11 +42914,16 @@
     "ultimoMensaje": "Soy vecina de la avenida Belgrano Al 1829. Necesito el servicio de recolección porque Tengo bolsas de hojas y ramas.",
     "mensaje": "Soy vecina de la avenida Belgrano Al 1829. Necesito el servicio de recolección porque Tengo bolsas de hojas y ramas.",
     "fecha": "2026-07-14T11:03:30.396Z",
-    "ultimaActualizacion": "2026-07-14T11:03:30.396Z",
+    "ultimaActualizacion": "2026-07-14T11:31:19.317Z",
     "historialMensajes": [
       {
         "texto": "Soy vecina de la avenida Belgrano Al 1829. Necesito el servicio de recolección porque Tengo bolsas de hojas y ramas.",
         "fecha": "2026-07-14T11:03:30.396Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Soy vecina de la avenida Belgrano Al 1829. Necesito el servicio de recolección porque Tengo bolsas de hojas y ramas.",
+        "fecha": "2026-07-14T11:31:19.317Z",
         "sentimiento": "positivo"
       }
     ]
