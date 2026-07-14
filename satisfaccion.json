@@ -43855,11 +43855,16 @@
     "ultimoMensaje": "Hola buenos dias",
     "mensaje": "Hola buenos dias",
     "fecha": "2026-07-14T14:34:03.500Z",
-    "ultimaActualizacion": "2026-07-14T14:34:03.500Z",
+    "ultimaActualizacion": "2026-07-14T14:34:09.951Z",
     "historialMensajes": [
       {
         "texto": "Hola buenos dias",
         "fecha": "2026-07-14T14:34:03.500Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Hola buenos dias",
+        "fecha": "2026-07-14T14:34:09.951Z",
         "sentimiento": "neutro"
       }
     ]
