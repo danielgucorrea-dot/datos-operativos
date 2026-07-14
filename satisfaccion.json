@@ -44190,14 +44190,19 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "neutro",
-    "ultimoMensaje": "Hola buenas tardes",
+    "ultimoMensaje": "Dirección exacta: altura muñeca 2150 psj eliceo cantón 550",
     "mensaje": "Hola buenas tardes",
     "fecha": "2026-07-14T15:30:37.429Z",
-    "ultimaActualizacion": "2026-07-14T15:30:37.429Z",
+    "ultimaActualizacion": "2026-07-14T19:57:59.652Z",
     "historialMensajes": [
       {
         "texto": "Hola buenas tardes",
         "fecha": "2026-07-14T15:30:37.429Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Dirección exacta: altura muñeca 2150 psj eliceo cantón 550",
+        "fecha": "2026-07-14T19:57:59.652Z",
         "sentimiento": "neutro"
       }
     ]
