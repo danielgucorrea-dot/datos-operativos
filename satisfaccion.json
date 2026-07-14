@@ -44239,11 +44239,11 @@
     "celular": "+54 9 3815 668-711",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Buenos dias",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Quisiera saber si pueden enviar un contenedor para sacar residuos, muebles viejos, restos de poda, objetos en desuso. De una casa que está inhabilitada",
     "mensaje": "Buenos dias",
     "fecha": "2026-07-14T16:25:42.910Z",
-    "ultimaActualizacion": "2026-07-14T16:25:43.968Z",
+    "ultimaActualizacion": "2026-07-14T16:29:07.167Z",
     "historialMensajes": [
       {
         "texto": "Buenos dias",
@@ -44254,6 +44254,11 @@
         "texto": "Buenos dias",
         "fecha": "2026-07-14T16:25:43.968Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Quisiera saber si pueden enviar un contenedor para sacar residuos, muebles viejos, restos de poda, objetos en desuso. De una casa que está inhabilitada",
+        "fecha": "2026-07-14T16:29:07.167Z",
+        "sentimiento": "positivo"
       }
     ]
   },
