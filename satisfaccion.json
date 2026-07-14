@@ -43467,10 +43467,10 @@
     "nombre": "",
     "direccion": "Pje Fierro 2934",
     "sentimiento": "neutro",
-    "ultimoMensaje": "Pje Fierro 2934",
+    "ultimoMensaje": "B°Gente de Prensa",
     "mensaje": "Hola mb dias",
     "fecha": "2026-07-14T11:56:06.973Z",
-    "ultimaActualizacion": "2026-07-14T16:32:38.331Z",
+    "ultimaActualizacion": "2026-07-14T16:32:56.428Z",
     "historialMensajes": [
       {
         "texto": "Hola mb dias",
@@ -43490,6 +43490,11 @@
       {
         "texto": "Pje Fierro 2934",
         "fecha": "2026-07-14T16:32:38.331Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "B°Gente de Prensa",
+        "fecha": "2026-07-14T16:32:56.428Z",
         "sentimiento": "neutro"
       }
     ]
