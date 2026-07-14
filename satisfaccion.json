@@ -44263,10 +44263,10 @@
     "nombre": "",
     "direccion": "Malabia 2150",
     "sentimiento": "neutro",
-    "ultimoMensaje": "Malabia 2150",
+    "ultimoMensaje": "Barrio victoria 2 san Miguel de Tucumán",
     "mensaje": "Buendía",
     "fecha": "2026-07-14T16:26:00.634Z",
-    "ultimaActualizacion": "2026-07-14T16:26:40.185Z",
+    "ultimaActualizacion": "2026-07-14T16:27:11.782Z",
     "historialMensajes": [
       {
         "texto": "Buendía",
@@ -44276,6 +44276,11 @@
       {
         "texto": "Malabia 2150",
         "fecha": "2026-07-14T16:26:40.185Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Barrio victoria 2 san Miguel de Tucumán",
+        "fecha": "2026-07-14T16:27:11.782Z",
         "sentimiento": "neutro"
       }
     ]
