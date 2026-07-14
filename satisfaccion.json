@@ -43200,17 +43200,27 @@
     "numero": "175707128885261",
     "celular": "+54 9 3815 715-194",
     "nombre": "",
-    "direccion": null,
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Buenos días como están",
+    "direccion": "Barrio Ampliación Congreso",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Muchas gracias",
     "mensaje": "Buenos días como están",
     "fecha": "2026-07-14T12:59:17.999Z",
-    "ultimaActualizacion": "2026-07-14T12:59:17.999Z",
+    "ultimaActualizacion": "2026-07-14T13:00:41.304Z",
     "historialMensajes": [
       {
         "texto": "Buenos días como están",
         "fecha": "2026-07-14T12:59:17.999Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Barrio Ampliación Congreso, Casa 10 Manzana C",
+        "fecha": "2026-07-14T13:00:33.420Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Muchas gracias",
+        "fecha": "2026-07-14T13:00:41.304Z",
+        "sentimiento": "positivo"
       }
     ]
   }
