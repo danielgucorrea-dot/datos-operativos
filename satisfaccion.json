@@ -43738,12 +43738,12 @@
     "numero": "128887807840435",
     "celular": "+54 9 3815 782-613",
     "nombre": "",
-    "direccion": null,
+    "direccion": "Dirección San Lorenzo 2424",
     "sentimiento": "neutro",
-    "ultimoMensaje": "Buenos días",
+    "ultimoMensaje": "Dirección San Lorenzo 2424",
     "mensaje": "Buenos días",
     "fecha": "2026-07-14T14:17:47.865Z",
-    "ultimaActualizacion": "2026-07-14T14:17:50.928Z",
+    "ultimaActualizacion": "2026-07-14T14:19:30.081Z",
     "historialMensajes": [
       {
         "texto": "Buenos días",
@@ -43753,6 +43753,11 @@
       {
         "texto": "Buenos días",
         "fecha": "2026-07-14T14:17:50.928Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Dirección San Lorenzo 2424",
+        "fecha": "2026-07-14T14:19:30.081Z",
         "sentimiento": "neutro"
       }
     ]
