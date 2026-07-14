@@ -42080,10 +42080,10 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "positivo",
-    "ultimoMensaje": "Gracias",
+    "ultimoMensaje": "Buen día. En la esquina de calle Florida y Miguel Lillo falta una tapa de registro de la calle (cloacas), y se llena de basura. Por favor podrían poner una tapa? Desde ya muchas gracias.",
     "mensaje": "Buen día. En la esquina de calle Florida y Miguel Lillo falta una tapa de registro de la calle (cloacas), y se llena de basura. Por favor podrían poner una tapa? Desde ya muchas gracias.",
     "fecha": "2026-07-13T14:08:20.599Z",
-    "ultimaActualizacion": "2026-07-13T15:27:12.225Z",
+    "ultimaActualizacion": "2026-07-14T11:30:48.725Z",
     "historialMensajes": [
       {
         "texto": "Buen día. En la esquina de calle Florida y Miguel Lillo falta una tapa de registro de la calle (cloacas), y se llena de basura. Por favor podrían poner una tapa? Desde ya muchas gracias.",
@@ -42093,6 +42093,11 @@
       {
         "texto": "Gracias",
         "fecha": "2026-07-13T15:27:12.225Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Buen día. En la esquina de calle Florida y Miguel Lillo falta una tapa de registro de la calle (cloacas), y se llena de basura. Por favor podrían poner una tapa? Desde ya muchas gracias.",
+        "fecha": "2026-07-14T11:30:48.725Z",
         "sentimiento": "positivo"
       }
     ]
@@ -42303,11 +42308,11 @@
     "celular": "+54 9 3815 644-372",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Son bolsas de consorcio con papeles, ahora no tengo fotos",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Buenos días, quería solicitar su servicio",
     "mensaje": "Buenos días, quería solicitar su servicio",
     "fecha": "2026-07-13T15:23:32.459Z",
-    "ultimaActualizacion": "2026-07-13T16:31:20.621Z",
+    "ultimaActualizacion": "2026-07-14T11:30:51.178Z",
     "historialMensajes": [
       {
         "texto": "Buenos días, quería solicitar su servicio",
@@ -42328,6 +42333,11 @@
         "texto": "Son bolsas de consorcio con papeles, ahora no tengo fotos",
         "fecha": "2026-07-13T16:31:20.621Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Buenos días, quería solicitar su servicio",
+        "fecha": "2026-07-14T11:30:51.178Z",
+        "sentimiento": "positivo"
       }
     ]
   },
