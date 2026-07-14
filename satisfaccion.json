@@ -44502,5 +44502,28 @@
         "sentimiento": "positivo"
       }
     ]
+  },
+  {
+    "numero": "37590191333570",
+    "celular": "+54 9 3813 662-162",
+    "nombre": "",
+    "direccion": "Plaza 1750",
+    "sentimiento": "negativo",
+    "ultimoMensaje": "Buenas tardes , una vecina de pasaje Victorino de la Plaza 1750 Yanina mana está construyendo en su casa y tirando todo el escombro en la esquina de pasaje Victorino de la Plaza y Lavaisse , ayer llamamos a la ppc vinieron un ratito y se fueron y siguen tirando , es un abandono total",
+    "mensaje": "Buenas tardes , una vecina de pasaje Victorino de la Plaza 1750 Yanina mana está construyendo en su casa y tirando todo el escombro en la esquina de pasaje Victorino de la Plaza y Lavaisse , ayer llamamos a la ppc vinieron un ratito y se fueron y siguen tirando , es un abandono total",
+    "fecha": "2026-07-14T17:47:09.113Z",
+    "ultimaActualizacion": "2026-07-14T17:47:10.974Z",
+    "historialMensajes": [
+      {
+        "texto": "Buenas tardes , una vecina de pasaje Victorino de la Plaza 1750 Yanina mana está construyendo en su casa y tirando todo el escombro en la esquina de pasaje Victorino de la Plaza y Lavaisse , ayer llam",
+        "fecha": "2026-07-14T17:47:09.113Z",
+        "sentimiento": "negativo"
+      },
+      {
+        "texto": "Buenas tardes , una vecina de pasaje Victorino de la Plaza 1750 Yanina mana está construyendo en su casa y tirando todo el escombro en la esquina de pasaje Victorino de la Plaza y Lavaisse , ayer llam",
+        "fecha": "2026-07-14T17:47:10.974Z",
+        "sentimiento": "negativo"
+      }
+    ]
   }
 ]
