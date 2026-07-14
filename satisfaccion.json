@@ -42756,5 +42756,28 @@
         "sentimiento": "positivo"
       }
     ]
+  },
+  {
+    "numero": "171480897831140",
+    "celular": "+54 9 3815 391-385",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Quería pedirle si puede retirar de mi domicilio unas bolsas de escombro",
+    "mensaje": "Buen día",
+    "fecha": "2026-07-14T10:03:46.562Z",
+    "ultimaActualizacion": "2026-07-14T10:04:20.998Z",
+    "historialMensajes": [
+      {
+        "texto": "Buen día",
+        "fecha": "2026-07-14T10:03:46.562Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Quería pedirle si puede retirar de mi domicilio unas bolsas de escombro",
+        "fecha": "2026-07-14T10:04:20.998Z",
+        "sentimiento": "positivo"
+      }
+    ]
   }
 ]
