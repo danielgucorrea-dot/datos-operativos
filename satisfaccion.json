@@ -42271,11 +42271,16 @@
     "ultimoMensaje": "Hola",
     "mensaje": "Hola",
     "fecha": "2026-07-13T14:57:00.934Z",
-    "ultimaActualizacion": "2026-07-13T14:57:00.934Z",
+    "ultimaActualizacion": "2026-07-14T11:31:13.090Z",
     "historialMensajes": [
       {
         "texto": "Hola",
         "fecha": "2026-07-13T14:57:00.934Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Hola",
+        "fecha": "2026-07-14T11:31:13.090Z",
         "sentimiento": "neutro"
       }
     ]
@@ -42748,10 +42753,10 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "neutro",
-    "ultimoMensaje": "Para la recolección de residuos no habituales este es el nro?",
+    "ultimoMensaje": "Buenas tardes",
     "mensaje": "Buenas tardes",
     "fecha": "2026-07-13T21:11:35.101Z",
-    "ultimaActualizacion": "2026-07-13T21:12:09.392Z",
+    "ultimaActualizacion": "2026-07-14T11:31:13.044Z",
     "historialMensajes": [
       {
         "texto": "Buenas tardes",
@@ -42761,6 +42766,11 @@
       {
         "texto": "Para la recolección de residuos no habituales este es el nro?",
         "fecha": "2026-07-13T21:12:09.392Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Buenas tardes",
+        "fecha": "2026-07-14T11:31:13.044Z",
         "sentimiento": "neutro"
       }
     ]
