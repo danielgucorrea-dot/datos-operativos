@@ -43761,5 +43761,41 @@
         "sentimiento": "neutro"
       }
     ]
+  },
+  {
+    "numero": "232327816962185",
+    "celular": "+54 9 3815 569-465",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "positivo",
+    "ultimoMensaje": "6 bolsas",
+    "mensaje": "6 bolsas",
+    "fecha": "2026-07-14T14:19:33.285Z",
+    "ultimaActualizacion": "2026-07-14T14:19:33.285Z",
+    "historialMensajes": [
+      {
+        "texto": "6 bolsas",
+        "fecha": "2026-07-14T14:19:33.285Z",
+        "sentimiento": "positivo"
+      }
+    ]
+  },
+  {
+    "numero": "195026042806440",
+    "celular": "+54 9 3815 856-279",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Buenos dias",
+    "mensaje": "Buenos dias",
+    "fecha": "2026-07-14T14:20:39.021Z",
+    "ultimaActualizacion": "2026-07-14T14:20:39.021Z",
+    "historialMensajes": [
+      {
+        "texto": "Buenos dias",
+        "fecha": "2026-07-14T14:20:39.021Z",
+        "sentimiento": "neutro"
+      }
+    ]
   }
 ]
