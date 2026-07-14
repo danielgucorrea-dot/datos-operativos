@@ -43120,16 +43120,21 @@
     "celular": "+54 9 3814 460-812",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Buenos días, quisiera saber cómo gestionar el retiro de bolsas de escombros de mi domicilio",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Son 24 bolsas. Mando fotos",
     "mensaje": "Buenos días, quisiera saber cómo gestionar el retiro de bolsas de escombros de mi domicilio",
     "fecha": "2026-07-14T12:18:10.095Z",
-    "ultimaActualizacion": "2026-07-14T12:18:10.095Z",
+    "ultimaActualizacion": "2026-07-14T12:38:48.278Z",
     "historialMensajes": [
       {
         "texto": "Buenos días, quisiera saber cómo gestionar el retiro de bolsas de escombros de mi domicilio",
         "fecha": "2026-07-14T12:18:10.095Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Son 24 bolsas. Mando fotos",
+        "fecha": "2026-07-14T12:38:48.278Z",
+        "sentimiento": "positivo"
       }
     ]
   }
