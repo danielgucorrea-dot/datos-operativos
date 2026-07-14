@@ -43081,17 +43081,12 @@
     "celular": "+54 9 3813 001-644",
     "nombre": "",
     "direccion": "Barrio America",
-    "sentimiento": "positivo",
-    "ultimoMensaje": "Ok.. me vuelvo a comunicar cuando me queden menos bolsas para retirar",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Buen dia",
     "mensaje": "Buenas tardes! Tengo bolsas de escombros en mi domicilio. Como tramito para que me lo retiren? Muchas gracias",
     "fecha": "2026-07-13T20:44:46.936Z",
-    "ultimaActualizacion": "2026-07-14T13:53:39.883Z",
+    "ultimaActualizacion": "2026-07-14T16:25:41.037Z",
     "historialMensajes": [
-      {
-        "texto": "Buen dia",
-        "fecha": "2026-07-14T13:46:57.455Z",
-        "sentimiento": "neutro"
-      },
       {
         "texto": "Bueno que me retiren las 5 bolsas",
         "fecha": "2026-07-14T13:48:31.650Z",
@@ -43136,6 +43131,11 @@
         "texto": "Ok.. me vuelvo a comunicar cuando me queden menos bolsas para retirar",
         "fecha": "2026-07-14T13:53:39.883Z",
         "sentimiento": "positivo"
+      },
+      {
+        "texto": "Buen dia",
+        "fecha": "2026-07-14T16:25:41.037Z",
+        "sentimiento": "neutro"
       }
     ]
   },
@@ -43915,11 +43915,11 @@
     "celular": "+54 9 3815 782-613",
     "nombre": "",
     "direccion": "Dirección San Lorenzo 2424",
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Dirección San Lorenzo 2424",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Muchas Gracias.  Hoy saco como lo piden",
     "mensaje": "Buenos días",
     "fecha": "2026-07-14T14:17:47.865Z",
-    "ultimaActualizacion": "2026-07-14T14:19:30.081Z",
+    "ultimaActualizacion": "2026-07-14T16:23:00.612Z",
     "historialMensajes": [
       {
         "texto": "Buenos días",
@@ -43935,6 +43935,11 @@
         "texto": "Dirección San Lorenzo 2424",
         "fecha": "2026-07-14T14:19:30.081Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Muchas Gracias.  Hoy saco como lo piden",
+        "fecha": "2026-07-14T16:23:00.612Z",
+        "sentimiento": "positivo"
       }
     ]
   },
@@ -44225,6 +44230,24 @@
       {
         "texto": "Cómo debo hacer para coordinar para que retiren unas ramas de unos árboles que podé?",
         "fecha": "2026-07-14T16:15:08.486Z",
+        "sentimiento": "neutro"
+      }
+    ]
+  },
+  {
+    "numero": "217235251544174",
+    "celular": "+54 9 3815 668-711",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Buenos dias",
+    "mensaje": "Buenos dias",
+    "fecha": "2026-07-14T16:25:42.910Z",
+    "ultimaActualizacion": "2026-07-14T16:25:42.910Z",
+    "historialMensajes": [
+      {
+        "texto": "Buenos dias",
+        "fecha": "2026-07-14T16:25:42.910Z",
         "sentimiento": "neutro"
       }
     ]
