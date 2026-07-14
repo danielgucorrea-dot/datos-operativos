@@ -43003,5 +43003,28 @@
         "sentimiento": "negativo"
       }
     ]
+  },
+  {
+    "numero": "235978522386562",
+    "celular": "+54 9 3814 147-957",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Hola mb dias",
+    "mensaje": "Hola mb dias",
+    "fecha": "2026-07-14T11:56:06.973Z",
+    "ultimaActualizacion": "2026-07-14T11:56:08.140Z",
+    "historialMensajes": [
+      {
+        "texto": "Hola mb dias",
+        "fecha": "2026-07-14T11:56:06.973Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Hola mb dias",
+        "fecha": "2026-07-14T11:56:08.140Z",
+        "sentimiento": "neutro"
+      }
+    ]
   }
 ]
