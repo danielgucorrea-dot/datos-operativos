@@ -42896,10 +42896,10 @@
     "nombre": "",
     "direccion": "Barrio America",
     "sentimiento": "neutro",
-    "ultimoMensaje": "El resto me encango yo",
+    "ultimoMensaje": "Puede ser por favor",
     "mensaje": "Buenas tardes! Tengo bolsas de escombros en mi domicilio. Como tramito para que me lo retiren? Muchas gracias",
     "fecha": "2026-07-13T20:44:46.936Z",
-    "ultimaActualizacion": "2026-07-14T13:49:39.157Z",
+    "ultimaActualizacion": "2026-07-14T13:49:53.247Z",
     "historialMensajes": [
       {
         "texto": "Buenas tardes! Tengo bolsas de escombros en mi domicilio. Como tramito para que me lo retiren? Muchas gracias",
@@ -42934,6 +42934,11 @@
       {
         "texto": "El resto me encango yo",
         "fecha": "2026-07-14T13:49:39.157Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Puede ser por favor",
+        "fecha": "2026-07-14T13:49:53.247Z",
         "sentimiento": "neutro"
       }
     ]
