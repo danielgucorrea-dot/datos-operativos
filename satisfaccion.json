@@ -43607,5 +43607,23 @@
         "sentimiento": "neutro"
       }
     ]
+  },
+  {
+    "numero": "220409198829664",
+    "celular": "+54 9 3815 233-299",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Buenos días. Necesito sacar amas de la poda de un mango.",
+    "mensaje": "Buenos días. Necesito sacar amas de la poda de un mango.",
+    "fecha": "2026-07-14T14:05:38.129Z",
+    "ultimaActualizacion": "2026-07-14T14:05:38.129Z",
+    "historialMensajes": [
+      {
+        "texto": "Buenos días. Necesito sacar amas de la poda de un mango.",
+        "fecha": "2026-07-14T14:05:38.129Z",
+        "sentimiento": "positivo"
+      }
+    ]
   }
 ]
