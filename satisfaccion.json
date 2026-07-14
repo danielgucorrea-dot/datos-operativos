@@ -43449,5 +43449,23 @@
         "sentimiento": "neutro"
       }
     ]
+  },
+  {
+    "numero": "146033283698863",
+    "celular": "+54 9 3816 040-268",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Buenos dias .Uds recogen medicamentos vencidos ?",
+    "mensaje": "Buenos dias .Uds recogen medicamentos vencidos ?",
+    "fecha": "2026-07-14T13:41:37.852Z",
+    "ultimaActualizacion": "2026-07-14T13:41:37.852Z",
+    "historialMensajes": [
+      {
+        "texto": "Buenos dias .Uds recogen medicamentos vencidos ?",
+        "fecha": "2026-07-14T13:41:37.852Z",
+        "sentimiento": "neutro"
+      }
+    ]
   }
 ]
