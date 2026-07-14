@@ -44408,11 +44408,16 @@
     "ultimoMensaje": "Hola, necesito que retiren un termotanque usado. Monteagudo 480 piso 6. Celular 381 207-3504. Gracias",
     "mensaje": "Hola, necesito que retiren un termotanque usado. Monteagudo 480 piso 6. Celular 381 207-3504. Gracias",
     "fecha": "2026-07-14T17:01:16.343Z",
-    "ultimaActualizacion": "2026-07-14T17:01:16.343Z",
+    "ultimaActualizacion": "2026-07-14T17:02:54.585Z",
     "historialMensajes": [
       {
         "texto": "Hola, necesito que retiren un termotanque usado. Monteagudo 480 piso 6. Celular 381 207-3504. Gracias",
         "fecha": "2026-07-14T17:01:16.343Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Hola, necesito que retiren un termotanque usado. Monteagudo 480 piso 6. Celular 381 207-3504. Gracias",
+        "fecha": "2026-07-14T17:02:54.585Z",
         "sentimiento": "positivo"
       }
     ]
