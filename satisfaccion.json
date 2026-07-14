@@ -42046,11 +42046,11 @@
     "celular": "+54 9 3816 550-208",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Si por favor",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Sí perfecto",
     "mensaje": "Hola buen día para solicitar recolección de residuos no habituales",
     "fecha": "2026-07-13T13:46:47.413Z",
-    "ultimaActualizacion": "2026-07-13T17:26:33.383Z",
+    "ultimaActualizacion": "2026-07-14T12:33:29.358Z",
     "historialMensajes": [
       {
         "texto": "Hola buen día para solicitar recolección de residuos no habituales",
@@ -42081,6 +42081,11 @@
         "texto": "Si por favor",
         "fecha": "2026-07-13T17:26:33.383Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Sí perfecto",
+        "fecha": "2026-07-14T12:33:29.358Z",
+        "sentimiento": "positivo"
       }
     ]
   },
@@ -42622,10 +42627,10 @@
     "nombre": "",
     "direccion": "barrio san Alberto capitan",
     "sentimiento": "neutro",
-    "ultimoMensaje": "Para solicitar un contenedor para arrojar escombros y artículos grandes es para barrio san Alberto capitan melian de leguizamon 1262",
+    "ultimoMensaje": "Hola",
     "mensaje": "Hola buenos días",
     "fecha": "2026-07-13T18:27:13.163Z",
-    "ultimaActualizacion": "2026-07-13T18:27:58.989Z",
+    "ultimaActualizacion": "2026-07-14T12:36:28.209Z",
     "historialMensajes": [
       {
         "texto": "Hola buenos días",
@@ -42635,6 +42640,11 @@
       {
         "texto": "Para solicitar un contenedor para arrojar escombros y artículos grandes es para barrio san Alberto capitan melian de leguizamon 1262",
         "fecha": "2026-07-13T18:27:58.989Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Hola",
+        "fecha": "2026-07-14T12:36:28.209Z",
         "sentimiento": "neutro"
       }
     ]
