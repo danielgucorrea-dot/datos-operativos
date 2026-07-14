@@ -43203,11 +43203,11 @@
     "celular": "+54 9 3816 451-705",
     "nombre": "",
     "direccion": "Pje Cabrera 2772",
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Entre Crisóstomo y San Lorenzo. A media cuadra de la plaza, casi detrás del Vea",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Perfecto, hoy lo sacamos y ud pasan hasta en 72 hrs?",
     "mensaje": "Buenas tardes",
     "fecha": "2026-07-13T21:55:37.110Z",
-    "ultimaActualizacion": "2026-07-14T15:24:27.525Z",
+    "ultimaActualizacion": "2026-07-14T15:29:57.330Z",
     "historialMensajes": [
       {
         "texto": "Buenas tardes",
@@ -43238,6 +43238,11 @@
         "texto": "Entre Crisóstomo y San Lorenzo. A media cuadra de la plaza, casi detrás del Vea",
         "fecha": "2026-07-14T15:24:27.525Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Perfecto, hoy lo sacamos y ud pasan hasta en 72 hrs?",
+        "fecha": "2026-07-14T15:29:57.330Z",
+        "sentimiento": "positivo"
       }
     ]
   },
