@@ -43066,5 +43066,28 @@
         "sentimiento": "neutro"
       }
     ]
+  },
+  {
+    "numero": "122355045130437",
+    "celular": "+54 9 3816 631-620",
+    "nombre": "",
+    "direccion": "Marcos Paz 3865",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "quisiera solicitar el retiro de residuos no habituales",
+    "mensaje": "La dirección es: Marcos Paz  3865, entre esquiu y godoy cruz",
+    "fecha": "2026-07-14T12:12:19.421Z",
+    "ultimaActualizacion": "2026-07-14T12:12:37.158Z",
+    "historialMensajes": [
+      {
+        "texto": "La dirección es: Marcos Paz  3865, entre esquiu y godoy cruz",
+        "fecha": "2026-07-14T12:12:19.421Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "quisiera solicitar el retiro de residuos no habituales",
+        "fecha": "2026-07-14T12:12:37.158Z",
+        "sentimiento": "neutro"
+      }
+    ]
   }
 ]
