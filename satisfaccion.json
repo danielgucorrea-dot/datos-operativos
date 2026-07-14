@@ -42745,11 +42745,11 @@
     "celular": "+54 9 3814 122-389",
     "nombre": "",
     "direccion": "barrio judicial",
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Necesita que le envié otra foto o esa está bien",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Bien",
     "mensaje": "Buenas tardes",
     "fecha": "2026-07-13T19:43:03.548Z",
-    "ultimaActualizacion": "2026-07-14T13:08:37.189Z",
+    "ultimaActualizacion": "2026-07-14T13:10:16.110Z",
     "historialMensajes": [
       {
         "texto": "Buenas tardes",
@@ -42780,6 +42780,11 @@
         "texto": "Necesita que le envié otra foto o esa está bien",
         "fecha": "2026-07-14T13:08:37.189Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Bien",
+        "fecha": "2026-07-14T13:10:16.110Z",
+        "sentimiento": "positivo"
       }
     ]
   },
@@ -43221,11 +43226,11 @@
     "celular": "+54 9 3815 715-194",
     "nombre": "",
     "direccion": "Barrio Ampliación Congreso",
-    "sentimiento": "positivo",
-    "ultimoMensaje": "Muchas gracias",
+    "sentimiento": "negativo",
+    "ultimoMensaje": "Son Bolsas con pasto, ya que el recolector no me los lleva",
     "mensaje": "Buenos días como están",
     "fecha": "2026-07-14T12:59:17.999Z",
-    "ultimaActualizacion": "2026-07-14T13:00:41.304Z",
+    "ultimaActualizacion": "2026-07-14T13:09:42.326Z",
     "historialMensajes": [
       {
         "texto": "Buenos días como están",
@@ -43241,6 +43246,11 @@
         "texto": "Muchas gracias",
         "fecha": "2026-07-14T13:00:41.304Z",
         "sentimiento": "positivo"
+      },
+      {
+        "texto": "Son Bolsas con pasto, ya que el recolector no me los lleva",
+        "fecha": "2026-07-14T13:09:42.326Z",
+        "sentimiento": "negativo"
       }
     ]
   },
