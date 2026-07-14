@@ -43467,10 +43467,10 @@
     "nombre": "",
     "direccion": "Pje Fierro 2934",
     "sentimiento": "neutro",
-    "ultimoMensaje": "B°Gente de Prensa",
+    "ultimoMensaje": "Entre Gral Paz y Lamadrid al 2900",
     "mensaje": "Hola mb dias",
     "fecha": "2026-07-14T11:56:06.973Z",
-    "ultimaActualizacion": "2026-07-14T16:32:56.428Z",
+    "ultimaActualizacion": "2026-07-14T16:33:29.865Z",
     "historialMensajes": [
       {
         "texto": "Hola mb dias",
@@ -43495,6 +43495,11 @@
       {
         "texto": "B°Gente de Prensa",
         "fecha": "2026-07-14T16:32:56.428Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Entre Gral Paz y Lamadrid al 2900",
+        "fecha": "2026-07-14T16:33:29.865Z",
         "sentimiento": "neutro"
       }
     ]
