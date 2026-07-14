@@ -43465,12 +43465,12 @@
     "numero": "235978522386562",
     "celular": "+54 9 3814 147-957",
     "nombre": "",
-    "direccion": null,
-    "sentimiento": "positivo",
-    "ultimoMensaje": "Necesito sacar unos residuos",
+    "direccion": "Pje Fierro 2934",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Pje Fierro 2934",
     "mensaje": "Hola mb dias",
     "fecha": "2026-07-14T11:56:06.973Z",
-    "ultimaActualizacion": "2026-07-14T14:04:11.832Z",
+    "ultimaActualizacion": "2026-07-14T16:32:38.331Z",
     "historialMensajes": [
       {
         "texto": "Hola mb dias",
@@ -43486,6 +43486,11 @@
         "texto": "Necesito sacar unos residuos",
         "fecha": "2026-07-14T14:04:11.832Z",
         "sentimiento": "positivo"
+      },
+      {
+        "texto": "Pje Fierro 2934",
+        "fecha": "2026-07-14T16:32:38.331Z",
+        "sentimiento": "neutro"
       }
     ]
   },
