@@ -44261,16 +44261,21 @@
     "numero": "252260693078137",
     "celular": "+54 9 3815 730-657",
     "nombre": "",
-    "direccion": null,
+    "direccion": "Malabia 2150",
     "sentimiento": "neutro",
-    "ultimoMensaje": "Buendía",
+    "ultimoMensaje": "Malabia 2150",
     "mensaje": "Buendía",
     "fecha": "2026-07-14T16:26:00.634Z",
-    "ultimaActualizacion": "2026-07-14T16:26:00.634Z",
+    "ultimaActualizacion": "2026-07-14T16:26:40.185Z",
     "historialMensajes": [
       {
         "texto": "Buendía",
         "fecha": "2026-07-14T16:26:00.634Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Malabia 2150",
+        "fecha": "2026-07-14T16:26:40.185Z",
         "sentimiento": "neutro"
       }
     ]
