@@ -43222,11 +43222,11 @@
     "celular": "+54 9 3814 958-561",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Como sigue el tramite",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Muchas gracias",
     "mensaje": "Hola",
     "fecha": "2026-07-14T11:50:01.926Z",
-    "ultimaActualizacion": "2026-07-14T12:57:49.704Z",
+    "ultimaActualizacion": "2026-07-14T13:53:47.372Z",
     "historialMensajes": [
       {
         "texto": "Hola",
@@ -43247,6 +43247,11 @@
         "texto": "Como sigue el tramite",
         "fecha": "2026-07-14T12:57:49.704Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Muchas gracias",
+        "fecha": "2026-07-14T13:53:47.372Z",
+        "sentimiento": "positivo"
       }
     ]
   },
