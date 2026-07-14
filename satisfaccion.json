@@ -43159,11 +43159,11 @@
     "celular": "+54 9 3815 479-853",
     "nombre": "",
     "direccion": "calle ESTEBAN DE ECHEVERRIA 347",
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Envio recien por razones de medico",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Gracias",
     "mensaje": "Buenas tardes para que puedan retirar, ramas en calle ESTEBAN DE ECHEVERRIA 347  Y PASAJE DON BOSCO ALTURA MATE DE LUNA 4.400 ENTRE MENDOZAVY SAN JUAN ESTAN ACOMODADAS POR FAVOR MUCHAS GRACIAS",
     "fecha": "2026-07-13T20:57:26.370Z",
-    "ultimaActualizacion": "2026-07-14T17:31:40.561Z",
+    "ultimaActualizacion": "2026-07-14T17:33:25.659Z",
     "historialMensajes": [
       {
         "texto": "Buenas tardes para que puedan retirar, ramas en calle ESTEBAN DE ECHEVERRIA 347  Y PASAJE DON BOSCO ALTURA MATE DE LUNA 4.400 ENTRE MENDOZAVY SAN JUAN ESTAN ACOMODADAS POR FAVOR MUCHAS GRACIAS",
@@ -43184,6 +43184,11 @@
         "texto": "Envio recien por razones de medico",
         "fecha": "2026-07-14T17:31:40.561Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Gracias",
+        "fecha": "2026-07-14T17:33:25.659Z",
+        "sentimiento": "positivo"
       }
     ]
   },
