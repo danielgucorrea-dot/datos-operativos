@@ -42739,12 +42739,12 @@
     "numero": "50191138873376",
     "celular": "+54 9 3814 775-796",
     "nombre": "",
-    "direccion": null,
+    "direccion": "Barrio 250",
     "sentimiento": "neutro",
-    "ultimoMensaje": "No la tengo en bolsas, por que al tener espinas se iban a romper, esta sobre el cordón, por que la planta está afuera",
+    "ultimoMensaje": "Barrio 250 viviendas los chañaritos Mza D casa 5",
     "mensaje": "Buenas tardes",
     "fecha": "2026-07-13T18:34:25.616Z",
-    "ultimaActualizacion": "2026-07-14T13:16:00.840Z",
+    "ultimaActualizacion": "2026-07-14T14:10:15.062Z",
     "historialMensajes": [
       {
         "texto": "Buenas tardes",
@@ -42769,6 +42769,11 @@
       {
         "texto": "No la tengo en bolsas, por que al tener espinas se iban a romper, esta sobre el cordón, por que la planta está afuera",
         "fecha": "2026-07-14T13:16:00.840Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Barrio 250 viviendas los chañaritos Mza D casa 5",
+        "fecha": "2026-07-14T14:10:15.062Z",
         "sentimiento": "neutro"
       }
     ]
@@ -42835,7 +42840,7 @@
     "ultimoMensaje": "Bien",
     "mensaje": "Buenas tardes",
     "fecha": "2026-07-13T19:43:03.548Z",
-    "ultimaActualizacion": "2026-07-14T13:10:16.110Z",
+    "ultimaActualizacion": "2026-07-14T14:09:57.120Z",
     "historialMensajes": [
       {
         "texto": "Buenas tardes",
@@ -42870,6 +42875,11 @@
       {
         "texto": "Bien",
         "fecha": "2026-07-14T13:10:16.110Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Bien",
+        "fecha": "2026-07-14T14:09:57.120Z",
         "sentimiento": "positivo"
       }
     ]
