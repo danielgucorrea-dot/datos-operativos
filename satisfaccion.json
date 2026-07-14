@@ -14601,8 +14601,8 @@
       "Me pueden avisar 🙏",
       "Hola buenas tardes quisiera hacer una denuncia por un vecino que tiro toda su basura en medio de la calle , perjudicando a los peatones y vehículos que circulan sobre esta calle.\nLa dirección es sargento Cabral 1800 entre Colombia y pasaje holmbergs (barrio Echeverría)"
     ],
-    "ultimaActualizacion": "2026-07-14T14:12:36.016Z",
-    "ultimoMensaje": "Ah bueno muchas gracias, quiere q le deje en la calle el hormigón o así como esta",
+    "ultimaActualizacion": "2026-07-14T14:13:51.788Z",
+    "ultimoMensaje": "Ah bueno gracias 🙏 muy amable 🙏",
     "historialMensajes": [
       {
         "texto": "Hola buenas tardes podrían ustedes pasar a buscar una parte de hormigón que quedó en la vereda y una bolsa con tierra 🙏",
@@ -14632,6 +14632,11 @@
       {
         "texto": "Ah bueno muchas gracias, quiere q le deje en la calle el hormigón o así como esta",
         "fecha": "2026-07-14T14:12:36.016Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Ah bueno gracias 🙏 muy amable 🙏",
+        "fecha": "2026-07-14T14:13:51.788Z",
         "sentimiento": "positivo"
       }
     ]
