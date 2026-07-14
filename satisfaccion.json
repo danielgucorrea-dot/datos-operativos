@@ -44433,10 +44433,10 @@
     "nombre": "",
     "direccion": "Santa fe 148",
     "sentimiento": "neutro",
-    "ultimoMensaje": "Santa fe 148",
+    "ultimoMensaje": "Muebles viejos de melamina",
     "mensaje": "Buenas tardes para solicitar un retiro de residuos",
     "fecha": "2026-07-14T17:09:18.559Z",
-    "ultimaActualizacion": "2026-07-14T17:10:39.433Z",
+    "ultimaActualizacion": "2026-07-14T17:10:49.435Z",
     "historialMensajes": [
       {
         "texto": "Buenas tardes para solicitar un retiro de residuos",
@@ -44451,6 +44451,11 @@
       {
         "texto": "Santa fe 148",
         "fecha": "2026-07-14T17:10:39.433Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Muebles viejos de melamina",
+        "fecha": "2026-07-14T17:10:49.435Z",
         "sentimiento": "neutro"
       }
     ]
