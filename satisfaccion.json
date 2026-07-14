@@ -42895,11 +42895,11 @@
     "celular": "+54 9 3813 001-644",
     "nombre": "",
     "direccion": "Barrio America",
-    "sentimiento": "negativo",
-    "ultimoMensaje": "No tengo para pagar x eso los llame",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "El resto me encango yo",
     "mensaje": "Buenas tardes! Tengo bolsas de escombros en mi domicilio. Como tramito para que me lo retiren? Muchas gracias",
     "fecha": "2026-07-13T20:44:46.936Z",
-    "ultimaActualizacion": "2026-07-14T13:48:45.256Z",
+    "ultimaActualizacion": "2026-07-14T13:49:39.157Z",
     "historialMensajes": [
       {
         "texto": "Buenas tardes! Tengo bolsas de escombros en mi domicilio. Como tramito para que me lo retiren? Muchas gracias",
@@ -42925,6 +42925,16 @@
         "texto": "No tengo para pagar x eso los llame",
         "fecha": "2026-07-14T13:48:45.256Z",
         "sentimiento": "negativo"
+      },
+      {
+        "texto": "Que me retiren lo que indican ustedes",
+        "fecha": "2026-07-14T13:49:33.659Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "El resto me encango yo",
+        "fecha": "2026-07-14T13:49:39.157Z",
+        "sentimiento": "neutro"
       }
     ]
   },
