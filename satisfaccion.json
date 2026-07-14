@@ -43937,11 +43937,11 @@
     "celular": "+54 9 3815 998-561",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Deseo realizar una denuncia",
+    "sentimiento": "negativo",
+    "ultimoMensaje": "Quiciera saber si ustedes podrían hacer algo al respecto ya que la policía no me dio solucion",
     "mensaje": "Buenos días!",
     "fecha": "2026-07-14T14:11:49.217Z",
-    "ultimaActualizacion": "2026-07-14T14:12:21.036Z",
+    "ultimaActualizacion": "2026-07-14T19:38:52.957Z",
     "historialMensajes": [
       {
         "texto": "Buenos días!",
@@ -43957,6 +43957,16 @@
         "texto": "Deseo realizar una denuncia",
         "fecha": "2026-07-14T14:12:21.036Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Mi vecino de al lado prende fuego su basura todos los días y lo hace tan SERCA que todo el humo entra en mí hogar, tenga una bebe de un año que está enferma y estamos inhalando todo ese humo, ya se lo",
+        "fecha": "2026-07-14T19:38:34.474Z",
+        "sentimiento": "negativo"
+      },
+      {
+        "texto": "Quiciera saber si ustedes podrían hacer algo al respecto ya que la policía no me dio solucion",
+        "fecha": "2026-07-14T19:38:52.957Z",
+        "sentimiento": "negativo"
       }
     ]
   },
