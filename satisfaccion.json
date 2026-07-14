@@ -43377,5 +43377,46 @@
         "sentimiento": "neutro"
       }
     ]
+  },
+  {
+    "numero": "266924164407415",
+    "celular": "+54 9 3816 465-208",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Buen dia",
+    "mensaje": "Buen dia",
+    "fecha": "2026-07-14T13:31:48.562Z",
+    "ultimaActualizacion": "2026-07-14T13:31:49.806Z",
+    "historialMensajes": [
+      {
+        "texto": "Buen dia",
+        "fecha": "2026-07-14T13:31:48.562Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Buen dia",
+        "fecha": "2026-07-14T13:31:49.806Z",
+        "sentimiento": "neutro"
+      }
+    ]
+  },
+  {
+    "numero": "48181077381203",
+    "celular": "+54 9 3815 337-154",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Buenos días uds retiran escombros?",
+    "mensaje": "Buenos días uds retiran escombros?",
+    "fecha": "2026-07-14T13:35:40.448Z",
+    "ultimaActualizacion": "2026-07-14T13:35:40.448Z",
+    "historialMensajes": [
+      {
+        "texto": "Buenos días uds retiran escombros?",
+        "fecha": "2026-07-14T13:35:40.448Z",
+        "sentimiento": "neutro"
+      }
+    ]
   }
 ]
