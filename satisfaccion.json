@@ -43865,12 +43865,12 @@
     "numero": "178206866931736",
     "celular": "+54 9 3815 395-105",
     "nombre": "",
-    "direccion": null,
+    "direccion": "Batalla de chacabuco 2625",
     "sentimiento": "neutro",
-    "ultimoMensaje": "Hola buenos dias",
+    "ultimoMensaje": "Batalla de chacabuco 2625",
     "mensaje": "Hola buenos dias",
     "fecha": "2026-07-14T14:34:03.500Z",
-    "ultimaActualizacion": "2026-07-14T14:34:09.951Z",
+    "ultimaActualizacion": "2026-07-14T14:35:01.203Z",
     "historialMensajes": [
       {
         "texto": "Hola buenos dias",
@@ -43880,6 +43880,34 @@
       {
         "texto": "Hola buenos dias",
         "fecha": "2026-07-14T14:34:09.951Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Batalla de chacabuco 2625",
+        "fecha": "2026-07-14T14:35:01.203Z",
+        "sentimiento": "neutro"
+      }
+    ]
+  },
+  {
+    "numero": "32869569269943",
+    "celular": "+54 9 3815 829-273",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Buenas",
+    "mensaje": "Buenas",
+    "fecha": "2026-07-14T14:35:09.739Z",
+    "ultimaActualizacion": "2026-07-14T14:35:10.918Z",
+    "historialMensajes": [
+      {
+        "texto": "Buenas",
+        "fecha": "2026-07-14T14:35:09.739Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Buenas",
+        "fecha": "2026-07-14T14:35:10.918Z",
         "sentimiento": "neutro"
       }
     ]
