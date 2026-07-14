@@ -43397,11 +43397,11 @@
     "celular": "+54 9 3815 715-194",
     "nombre": "",
     "direccion": "Barrio Ampliación Congreso",
-    "sentimiento": "negativo",
-    "ultimoMensaje": "Son Bolsas con pasto, ya que el recolector no me los lleva",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Entre calles Lucio Mansilla y pasaje Gatti altura 2.000 de esas calles",
     "mensaje": "Buenos días como están",
     "fecha": "2026-07-14T12:59:17.999Z",
-    "ultimaActualizacion": "2026-07-14T13:09:42.326Z",
+    "ultimaActualizacion": "2026-07-14T13:58:19.754Z",
     "historialMensajes": [
       {
         "texto": "Buenos días como están",
@@ -43422,6 +43422,11 @@
         "texto": "Son Bolsas con pasto, ya que el recolector no me los lleva",
         "fecha": "2026-07-14T13:09:42.326Z",
         "sentimiento": "negativo"
+      },
+      {
+        "texto": "Entre calles Lucio Mansilla y pasaje Gatti altura 2.000 de esas calles",
+        "fecha": "2026-07-14T13:58:19.754Z",
+        "sentimiento": "neutro"
       }
     ]
   },
