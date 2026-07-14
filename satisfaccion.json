@@ -42345,12 +42345,12 @@
     "numero": "33135739814054",
     "celular": "+54 9 3815 644-372",
     "nombre": "",
-    "direccion": null,
-    "sentimiento": "positivo",
-    "ultimoMensaje": "Seguramente mañana envío las fotos, la limpieza la haríamos por la mañana",
+    "direccion": "Lamadrid 955",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Lamadrid 955",
     "mensaje": "Buenos días, quería solicitar su servicio",
     "fecha": "2026-07-13T15:23:32.459Z",
-    "ultimaActualizacion": "2026-07-14T12:04:14.820Z",
+    "ultimaActualizacion": "2026-07-14T12:05:24.071Z",
     "historialMensajes": [
       {
         "texto": "Buenos días, quería solicitar su servicio",
@@ -42386,6 +42386,11 @@
         "texto": "Seguramente mañana envío las fotos, la limpieza la haríamos por la mañana",
         "fecha": "2026-07-14T12:04:14.820Z",
         "sentimiento": "positivo"
+      },
+      {
+        "texto": "Lamadrid 955",
+        "fecha": "2026-07-14T12:05:24.071Z",
+        "sentimiento": "neutro"
       }
     ]
   },
