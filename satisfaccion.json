@@ -42885,10 +42885,10 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "neutro",
-    "ultimoMensaje": "Soy de ASUNCIÓN AL 2500",
+    "ultimoMensaje": "De SAN MIGUEL DE TUCUMAN",
     "mensaje": "Buenas noches\nNecesito que retiren los escombros de mi vereda\nComo debo tramitar?",
     "fecha": "2026-07-13T22:51:46.610Z",
-    "ultimaActualizacion": "2026-07-14T11:43:55.548Z",
+    "ultimaActualizacion": "2026-07-14T11:44:18.320Z",
     "historialMensajes": [
       {
         "texto": "Buenas noches\nNecesito que retiren los escombros de mi vereda\nComo debo tramitar?",
@@ -42903,6 +42903,11 @@
       {
         "texto": "Soy de ASUNCIÓN AL 2500",
         "fecha": "2026-07-14T11:43:55.548Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "De SAN MIGUEL DE TUCUMAN",
+        "fecha": "2026-07-14T11:44:18.320Z",
         "sentimiento": "neutro"
       }
     ]
