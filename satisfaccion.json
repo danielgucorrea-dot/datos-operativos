@@ -3393,12 +3393,17 @@
       "Es basura que tiraron los vecinos y se está generando un basural",
       "Levantamiento de basura, residuos de podas y escombros: Corrientes 3530"
     ],
-    "ultimaActualizacion": "2026-07-14T16:00:34.330Z",
-    "ultimoMensaje": "Buen díaa, para realizar un pedido",
+    "ultimaActualizacion": "2026-07-14T16:01:14.621Z",
+    "ultimoMensaje": "Levante de ramas, hojas y basura: Santa Fe 4000 y esquina Félix de Olazábal",
     "historialMensajes": [
       {
         "texto": "Buen díaa, para realizar un pedido",
         "fecha": "2026-07-14T16:00:34.330Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Levante de ramas, hojas y basura: Santa Fe 4000 y esquina Félix de Olazábal",
+        "fecha": "2026-07-14T16:01:14.621Z",
         "sentimiento": "positivo"
       }
     ]
