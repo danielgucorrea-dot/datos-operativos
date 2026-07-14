@@ -42817,12 +42817,12 @@
     "numero": "86492152074308",
     "celular": "+54 9 3815 641-384",
     "nombre": "",
-    "direccion": null,
+    "direccion": "Calle san miguel 730",
     "sentimiento": "neutro",
-    "ultimoMensaje": "Esas dos serían",
+    "ultimoMensaje": "Calle san miguel 730, entre santa fe y marcos paz",
     "mensaje": "Buenas tardes",
     "fecha": "2026-07-13T19:15:53.795Z",
-    "ultimaActualizacion": "2026-07-14T13:39:28.270Z",
+    "ultimaActualizacion": "2026-07-14T14:31:41.375Z",
     "historialMensajes": [
       {
         "texto": "Buenas tardes",
@@ -42862,6 +42862,11 @@
       {
         "texto": "Esas dos serían",
         "fecha": "2026-07-14T13:39:28.270Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Calle san miguel 730, entre santa fe y marcos paz",
+        "fecha": "2026-07-14T14:31:41.375Z",
         "sentimiento": "neutro"
       }
     ]
