@@ -43317,11 +43317,11 @@
     "celular": "+54 9 3816 811-864",
     "nombre": "",
     "direccion": "Mendoza 970",
-    "sentimiento": "positivo",
-    "ultimoMensaje": "Buenos días necesitamos nos retiren ramas y algo de escombros Mendoza 970",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Mendoza 970",
     "mensaje": "Buenos días necesitamos nos retiren ramas y algo de escombros Mendoza 970",
     "fecha": "2026-07-14T13:13:41.384Z",
-    "ultimaActualizacion": "2026-07-14T13:13:43.286Z",
+    "ultimaActualizacion": "2026-07-14T13:23:09.893Z",
     "historialMensajes": [
       {
         "texto": "Buenos días necesitamos nos retiren ramas y algo de escombros Mendoza 970",
@@ -43332,6 +43332,34 @@
         "texto": "Buenos días necesitamos nos retiren ramas y algo de escombros Mendoza 970",
         "fecha": "2026-07-14T13:13:43.286Z",
         "sentimiento": "positivo"
+      },
+      {
+        "texto": "Mendoza 970",
+        "fecha": "2026-07-14T13:23:09.893Z",
+        "sentimiento": "neutro"
+      }
+    ]
+  },
+  {
+    "numero": "272094818529488",
+    "celular": "+54 9 3814 758-928",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "para desagotar el pozo",
+    "mensaje": "para desagotar el pozo",
+    "fecha": "2026-07-14T13:23:00.507Z",
+    "ultimaActualizacion": "2026-07-14T13:23:03.126Z",
+    "historialMensajes": [
+      {
+        "texto": "para desagotar el pozo",
+        "fecha": "2026-07-14T13:23:00.507Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "para desagotar el pozo",
+        "fecha": "2026-07-14T13:23:03.126Z",
+        "sentimiento": "neutro"
       }
     ]
   }
