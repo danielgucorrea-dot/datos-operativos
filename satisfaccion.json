@@ -42865,10 +42865,10 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "neutro",
-    "ultimoMensaje": "Buenas tardes",
+    "ultimoMensaje": "Buen dia",
     "mensaje": "Buenas tardes",
     "fecha": "2026-07-13T21:55:37.110Z",
-    "ultimaActualizacion": "2026-07-14T11:31:07.638Z",
+    "ultimaActualizacion": "2026-07-14T11:53:40.974Z",
     "historialMensajes": [
       {
         "texto": "Buenas tardes",
@@ -42883,6 +42883,11 @@
       {
         "texto": "Buenas tardes",
         "fecha": "2026-07-14T11:31:07.638Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Buen dia",
+        "fecha": "2026-07-14T11:53:40.974Z",
         "sentimiento": "neutro"
       }
     ]
