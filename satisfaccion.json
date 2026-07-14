@@ -17098,7 +17098,7 @@
     "celular": "+54 9 3815 017-264",
     "nombre": "",
     "direccion": "Calle Bulnes 36",
-    "sentimiento": "positivo",
+    "sentimiento": "neutro",
     "evidencia_clasificacion": [
       "excelente trabajo",
       "muchas gracias\\s*$"
@@ -17116,8 +17116,8 @@
       "Reitero solicitud.  Y recuerdo dirección exacta. Calle Bulnes 36 (altura Mate de Luna 3200).",
       "Buen día estimados.\nPor favor, podrían enviar el camión para retirar restos de poda de mi casa situada en calle Bulnes 36. \nEs una cantidad más o menos importante.\nEspero su respuesta para combinar horario. Muchas gracias."
     ],
-    "ultimaActualizacion": "2026-07-13T16:05:45.605Z",
-    "ultimoMensaje": "Cuando podrían retirar las 5 bolsas entonces. Se las deja en la vereda?",
+    "ultimaActualizacion": "2026-07-14T11:35:12.020Z",
+    "ultimoMensaje": "Serian las de la derecha",
     "historialMensajes": [
       {
         "texto": "Buen día sres. \nNecesito que me envíen el servicio de retiro de escombros a mi casa. Por favor, informarme cuando puede ser. Se trata de escombros de construcción y esta todo en bolsas. Les envío foto",
@@ -17128,6 +17128,16 @@
         "texto": "Cuando podrían retirar las 5 bolsas entonces. Se las deja en la vereda?",
         "fecha": "2026-07-13T16:05:45.605Z",
         "sentimiento": "positivo"
+      },
+      {
+        "texto": "Puedo dejar las 5 bolsas que uds me dijeron. Si es así, cuando pasarían a buscarlas.",
+        "fecha": "2026-07-14T11:33:57.410Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Serian las de la derecha",
+        "fecha": "2026-07-14T11:35:12.020Z",
+        "sentimiento": "neutro"
       }
     ]
   },
