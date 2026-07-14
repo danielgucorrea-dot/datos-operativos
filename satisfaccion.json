@@ -43961,11 +43961,11 @@
     "celular": "+54 9 3815 395-105",
     "nombre": "",
     "direccion": "Batalla de chacabuco 2625",
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Batalla de chacabuco 2625",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Gracias",
     "mensaje": "Hola buenos dias",
     "fecha": "2026-07-14T14:34:03.500Z",
-    "ultimaActualizacion": "2026-07-14T14:35:01.203Z",
+    "ultimaActualizacion": "2026-07-14T15:53:08.372Z",
     "historialMensajes": [
       {
         "texto": "Hola buenos dias",
@@ -43981,6 +43981,11 @@
         "texto": "Batalla de chacabuco 2625",
         "fecha": "2026-07-14T14:35:01.203Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Gracias",
+        "fecha": "2026-07-14T15:53:08.372Z",
+        "sentimiento": "positivo"
       }
     ]
   },
