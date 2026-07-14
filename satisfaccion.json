@@ -1209,7 +1209,7 @@
     "celular": "+54 9 3814 130-934",
     "nombre": "",
     "direccion": "",
-    "sentimiento": "negativo",
+    "sentimiento": "positivo",
     "evidencia_clasificacion": [],
     "canal": "WhatsApp Ambiente",
     "fecha": "2026-06-26",
@@ -1224,8 +1224,8 @@
       "Necesitamos con urgencia! Limpieza en pasaje victorino de la plaza 1799 y lavaise al 900 , es imposible transitar, están creando un basural!",
       "Buen dia"
     ],
-    "ultimaActualizacion": "2026-07-06T14:24:20.087Z",
-    "ultimoMensaje": "Vecino de la misma cuadra,  solo que no lo hacen ellos si no pagan para que tiren",
+    "ultimaActualizacion": "2026-07-14T11:57:06.406Z",
+    "ultimoMensaje": "Buen día , por favor mande personal y maquina a levantar la basura en pasaje victorino de la plaza 1799 y lavaisse al 900",
     "historialMensajes": [
       {
         "texto": "A que número debo denunciar",
@@ -1236,6 +1236,11 @@
         "texto": "Vecino de la misma cuadra,  solo que no lo hacen ellos si no pagan para que tiren",
         "fecha": "2026-07-06T14:24:20.087Z",
         "sentimiento": "negativo"
+      },
+      {
+        "texto": "Buen día , por favor mande personal y maquina a levantar la basura en pasaje victorino de la plaza 1799 y lavaisse al 900",
+        "fecha": "2026-07-14T11:57:06.406Z",
+        "sentimiento": "positivo"
       }
     ]
   },
