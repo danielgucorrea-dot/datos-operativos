@@ -43397,11 +43397,11 @@
     "celular": "+54 9 3815 715-194",
     "nombre": "",
     "direccion": "Barrio Ampliación Congreso",
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Y la dirección exacta de mi casa es Don Orione 4332",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Perfecto muchas gracias",
     "mensaje": "Buenos días como están",
     "fecha": "2026-07-14T12:59:17.999Z",
-    "ultimaActualizacion": "2026-07-14T13:59:31.446Z",
+    "ultimaActualizacion": "2026-07-14T14:01:05.068Z",
     "historialMensajes": [
       {
         "texto": "Buenos días como están",
@@ -43432,6 +43432,11 @@
         "texto": "Y la dirección exacta de mi casa es Don Orione 4332",
         "fecha": "2026-07-14T13:59:31.446Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Perfecto muchas gracias",
+        "fecha": "2026-07-14T14:01:05.068Z",
+        "sentimiento": "positivo"
       }
     ]
   },
