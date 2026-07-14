@@ -43061,11 +43061,11 @@
     "celular": "+54 9 3814 958-561",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "negativo",
-    "ultimoMensaje": "Asi amanecio hoy esto después lo van hacer un basural",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Como sigue el tramite",
     "mensaje": "Hola",
     "fecha": "2026-07-14T11:50:01.926Z",
-    "ultimaActualizacion": "2026-07-14T11:51:16.490Z",
+    "ultimaActualizacion": "2026-07-14T12:57:49.704Z",
     "historialMensajes": [
       {
         "texto": "Hola",
@@ -43081,6 +43081,11 @@
         "texto": "Asi amanecio hoy esto después lo van hacer un basural",
         "fecha": "2026-07-14T11:51:16.490Z",
         "sentimiento": "negativo"
+      },
+      {
+        "texto": "Como sigue el tramite",
+        "fecha": "2026-07-14T12:57:49.704Z",
+        "sentimiento": "neutro"
       }
     ]
   },
@@ -43187,6 +43192,24 @@
       {
         "texto": "Y necesito la dirección para visitar",
         "fecha": "2026-07-14T12:51:30.688Z",
+        "sentimiento": "neutro"
+      }
+    ]
+  },
+  {
+    "numero": "175707128885261",
+    "celular": "+54 9 3815 715-194",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Buenos días como están",
+    "mensaje": "Buenos días como están",
+    "fecha": "2026-07-14T12:59:17.999Z",
+    "ultimaActualizacion": "2026-07-14T12:59:17.999Z",
+    "historialMensajes": [
+      {
+        "texto": "Buenos días como están",
+        "fecha": "2026-07-14T12:59:17.999Z",
         "sentimiento": "neutro"
       }
     ]
