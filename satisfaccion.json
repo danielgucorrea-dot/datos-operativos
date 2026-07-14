@@ -44667,5 +44667,23 @@
         "sentimiento": "positivo"
       }
     ]
+  },
+  {
+    "numero": "7151321919718",
+    "celular": "+54 9 3814 059-925",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Hola buenas noches",
+    "mensaje": "Hola buenas noches",
+    "fecha": "2026-07-14T22:49:06.864Z",
+    "ultimaActualizacion": "2026-07-14T22:49:06.864Z",
+    "historialMensajes": [
+      {
+        "texto": "Hola buenas noches",
+        "fecha": "2026-07-14T22:49:06.864Z",
+        "sentimiento": "neutro"
+      }
+    ]
   }
 ]
