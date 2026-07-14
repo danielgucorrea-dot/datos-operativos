@@ -43272,10 +43272,10 @@
     "nombre": "",
     "direccion": "San Lorenzo 149",
     "sentimiento": "neutro",
-    "ultimoMensaje": "1er piso",
+    "ultimoMensaje": "Ah bien, y hay un límite en el pedido? Es decir podrían retirarse cinco este mes, cinco el otro, por ejemplo?",
     "mensaje": "Buenos días, quisiera saber cómo gestionar el retiro de bolsas de escombros de mi domicilio",
     "fecha": "2026-07-14T12:18:10.095Z",
-    "ultimaActualizacion": "2026-07-14T12:50:47.617Z",
+    "ultimaActualizacion": "2026-07-14T13:49:03.300Z",
     "historialMensajes": [
       {
         "texto": "Buenos días, quisiera saber cómo gestionar el retiro de bolsas de escombros de mi domicilio",
@@ -43295,6 +43295,11 @@
       {
         "texto": "1er piso",
         "fecha": "2026-07-14T12:50:47.617Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Ah bien, y hay un límite en el pedido? Es decir podrían retirarse cinco este mes, cinco el otro, por ejemplo?",
+        "fecha": "2026-07-14T13:49:03.300Z",
         "sentimiento": "neutro"
       }
     ]
