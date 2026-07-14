@@ -44459,5 +44459,23 @@
         "sentimiento": "neutro"
       }
     ]
+  },
+  {
+    "numero": "3973012537558",
+    "celular": "+54 9 3813 604-952",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Hola buenas tardes , escribo porque necesito tirar residuos grandes y conseguí este número por Instagram",
+    "mensaje": "Hola buenas tardes , escribo porque necesito tirar residuos grandes y conseguí este número por Instagram",
+    "fecha": "2026-07-14T17:11:27.745Z",
+    "ultimaActualizacion": "2026-07-14T17:11:27.745Z",
+    "historialMensajes": [
+      {
+        "texto": "Hola buenas tardes , escribo porque necesito tirar residuos grandes y conseguí este número por Instagram",
+        "fecha": "2026-07-14T17:11:27.745Z",
+        "sentimiento": "positivo"
+      }
+    ]
   }
 ]
