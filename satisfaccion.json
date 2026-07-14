@@ -43548,11 +43548,11 @@
     "celular": "+54 9 3816 811-864",
     "nombre": "",
     "direccion": "Mendoza 970",
-    "sentimiento": "positivo",
-    "ultimoMensaje": "Cuando pueden venir",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Se puede incluir pedazos de membrana",
     "mensaje": "Buenos días necesitamos nos retiren ramas y algo de escombros Mendoza 970",
     "fecha": "2026-07-14T13:13:41.384Z",
-    "ultimaActualizacion": "2026-07-14T14:16:51.507Z",
+    "ultimaActualizacion": "2026-07-14T14:33:01.768Z",
     "historialMensajes": [
       {
         "texto": "Buenos días necesitamos nos retiren ramas y algo de escombros Mendoza 970",
@@ -43578,6 +43578,11 @@
         "texto": "Cuando pueden venir",
         "fecha": "2026-07-14T14:16:51.507Z",
         "sentimiento": "positivo"
+      },
+      {
+        "texto": "Se puede incluir pedazos de membrana",
+        "fecha": "2026-07-14T14:33:01.768Z",
+        "sentimiento": "neutro"
       }
     ]
   },
