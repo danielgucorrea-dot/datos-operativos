@@ -44699,4 +44699,14 @@
     "historialMensajes": [
       {
         "texto": "Buenas tarde",
-        "fecha": "2026-07-14T23:04:45.135Z
+        "fecha": "2026-07-14T23:04:45.135Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Para solicitar así me saque basura de la vereda de mi domicilio",
+        "fecha": "2026-07-14T23:05:11.277Z",
+        "sentimiento": "positivo"
+      }
+    ]
+  }
+]
