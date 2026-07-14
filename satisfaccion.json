@@ -42346,11 +42346,11 @@
     "celular": "+54 9 3815 644-372",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "positivo",
-    "ultimoMensaje": "Buenos días, quería solicitar su servicio",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Buenos días, no hay problema",
     "mensaje": "Buenos días, quería solicitar su servicio",
     "fecha": "2026-07-13T15:23:32.459Z",
-    "ultimaActualizacion": "2026-07-14T11:30:51.178Z",
+    "ultimaActualizacion": "2026-07-14T12:03:50.812Z",
     "historialMensajes": [
       {
         "texto": "Buenos días, quería solicitar su servicio",
@@ -42376,6 +42376,11 @@
         "texto": "Buenos días, quería solicitar su servicio",
         "fecha": "2026-07-14T11:30:51.178Z",
         "sentimiento": "positivo"
+      },
+      {
+        "texto": "Buenos días, no hay problema",
+        "fecha": "2026-07-14T12:03:50.812Z",
+        "sentimiento": "neutro"
       }
     ]
   },
