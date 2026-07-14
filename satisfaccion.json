@@ -43202,12 +43202,12 @@
     "numero": "226920469946504",
     "celular": "+54 9 3816 451-705",
     "nombre": "",
-    "direccion": null,
+    "direccion": "Pje Cabrera 2772",
     "sentimiento": "neutro",
-    "ultimoMensaje": "Buen dia",
+    "ultimoMensaje": "Entre Crisóstomo y San Lorenzo. A media cuadra de la plaza, casi detrás del Vea",
     "mensaje": "Buenas tardes",
     "fecha": "2026-07-13T21:55:37.110Z",
-    "ultimaActualizacion": "2026-07-14T11:53:40.974Z",
+    "ultimaActualizacion": "2026-07-14T15:24:27.525Z",
     "historialMensajes": [
       {
         "texto": "Buenas tardes",
@@ -43227,6 +43227,16 @@
       {
         "texto": "Buen dia",
         "fecha": "2026-07-14T11:53:40.974Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Pje Cabrera 2772, Altura Mate de Luna 2700",
+        "fecha": "2026-07-14T15:24:22.617Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Entre Crisóstomo y San Lorenzo. A media cuadra de la plaza, casi detrás del Vea",
+        "fecha": "2026-07-14T15:24:27.525Z",
         "sentimiento": "neutro"
       }
     ]
