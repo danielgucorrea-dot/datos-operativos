@@ -36545,7 +36545,7 @@
     "numero": "207004740133079",
     "celular": "+54 9 3813 044-538",
     "nombre": "",
-    "direccion": "",
+    "direccion": "Pasaje primera junta 1273",
     "sentimiento": "neutro",
     "evidencia_clasificacion": [],
     "canal": "WhatsApp Ambiente",
@@ -36558,12 +36558,17 @@
       "Tengo un equipo de gym. Una caminadora está impecable pero ocupa mucho lugar",
       "Hola buen día"
     ],
-    "ultimaActualizacion": "2026-07-14T13:40:56.970Z",
-    "ultimoMensaje": "Hola buen día",
+    "ultimaActualizacion": "2026-07-14T13:42:37.959Z",
+    "ultimoMensaje": "Pasaje primera junta 1273",
     "historialMensajes": [
       {
         "texto": "Hola buen día",
         "fecha": "2026-07-14T13:40:56.970Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Pasaje primera junta 1273",
+        "fecha": "2026-07-14T13:42:37.959Z",
         "sentimiento": "neutro"
       }
     ]
