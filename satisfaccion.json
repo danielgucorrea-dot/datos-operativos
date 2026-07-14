@@ -42915,17 +42915,12 @@
     "celular": "+54 9 3813 001-644",
     "nombre": "",
     "direccion": "Barrio America",
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Yo me encargaré del restos",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Ok.. me vuelvo a comunicar cuando me queden menos bolsas para retirar",
     "mensaje": "Buenas tardes! Tengo bolsas de escombros en mi domicilio. Como tramito para que me lo retiren? Muchas gracias",
     "fecha": "2026-07-13T20:44:46.936Z",
-    "ultimaActualizacion": "2026-07-14T13:50:50.311Z",
+    "ultimaActualizacion": "2026-07-14T13:53:39.883Z",
     "historialMensajes": [
-      {
-        "texto": "Mi dirección es Pasaje Nuestra Sra. Del Huerto 3854. Barrio America. Altura Chile 3800. San M. De Tuc.",
-        "fecha": "2026-07-14T12:40:57.401Z",
-        "sentimiento": "neutro"
-      },
       {
         "texto": "Buen dia",
         "fecha": "2026-07-14T13:46:57.455Z",
@@ -42970,6 +42965,11 @@
         "texto": "Yo me encargaré del restos",
         "fecha": "2026-07-14T13:50:50.311Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Ok.. me vuelvo a comunicar cuando me queden menos bolsas para retirar",
+        "fecha": "2026-07-14T13:53:39.883Z",
+        "sentimiento": "positivo"
       }
     ]
   },
