@@ -44685,5 +44685,18 @@
         "sentimiento": "neutro"
       }
     ]
-  }
-]
+  },
+  {
+    "numero": "53373692846181",
+    "celular": "+54 9 3815 784-612",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Para solicitar así me saque basura de la vereda de mi domicilio",
+    "mensaje": "Buenas tarde",
+    "fecha": "2026-07-14T23:04:45.135Z",
+    "ultimaActualizacion": "2026-07-14T23:05:11.277Z",
+    "historialMensajes": [
+      {
+        "texto": "Buenas tarde",
+        "fecha": "2026-07-14T23:04:45.135Z
