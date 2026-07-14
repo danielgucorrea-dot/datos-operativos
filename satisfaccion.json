@@ -3478,7 +3478,7 @@
     "celular": "+54 9 3814 149-066",
     "nombre": "",
     "direccion": "Marcos Paz 1887",
-    "sentimiento": "positivo",
+    "sentimiento": "neutro",
     "evidencia_clasificacion": [
       "muchas gracias\\s*$"
     ],
@@ -3492,13 +3492,18 @@
       "Buenos días. Quisiera solicitar el retiro de residuos no habituales en Marcos Paz 1887. Se trata de un colchón grande y escombros.\n\nAgradecería que me informen el día y horario en que pueden realizar el retiro. Muchas gracias.",
       "Buenos días. Quisiera solicitar el retiro de residuos no habituales en Marcos Paz 1887. Se trata de un colchón grande y escombros.\n\nAgradecería que me informen el día y horario en que pueden realizar el retiro. Muchas gracias."
     ],
-    "ultimaActualizacion": "2026-07-13T16:20:06.802Z",
-    "ultimoMensaje": "Buenos días! Le envío fotos del colchón y los escombros para retirar de Marcos Paz 1887.",
+    "ultimaActualizacion": "2026-07-14T12:14:30.664Z",
+    "ultimoMensaje": "Buen día, los ladrillos si, los dos bloques grandes no tendría bolsas resistentes.",
     "historialMensajes": [
       {
         "texto": "Buenos días! Le envío fotos del colchón y los escombros para retirar de Marcos Paz 1887.",
         "fecha": "2026-07-13T16:20:06.802Z",
         "sentimiento": "positivo"
+      },
+      {
+        "texto": "Buen día, los ladrillos si, los dos bloques grandes no tendría bolsas resistentes.",
+        "fecha": "2026-07-14T12:14:30.664Z",
+        "sentimiento": "neutro"
       }
     ]
   },
@@ -41846,11 +41851,11 @@
     "celular": "+54 9 3816 684-407",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "positivo",
-    "ultimoMensaje": "ok ya mando",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "buen dia",
     "mensaje": "buen dia",
     "fecha": "2026-07-13T12:35:57.936Z",
-    "ultimaActualizacion": "2026-07-13T15:28:35.868Z",
+    "ultimaActualizacion": "2026-07-14T12:15:17.781Z",
     "historialMensajes": [
       {
         "texto": "buen dia",
@@ -41876,6 +41881,11 @@
         "texto": "ok ya mando",
         "fecha": "2026-07-13T15:28:35.868Z",
         "sentimiento": "positivo"
+      },
+      {
+        "texto": "buen dia",
+        "fecha": "2026-07-14T12:15:17.781Z",
+        "sentimiento": "neutro"
       }
     ]
   },
@@ -42532,16 +42542,21 @@
     "celular": "+54 9 3813 996-126",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "negativo",
-    "ultimoMensaje": "Buenas tardes. Me comunique con el numero de higiene urbana y no me da respuesta. Alguien tiro un animal muerto en mi casa. Necesito que alguien se lo lleve por favor",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Buen dia. Ya me comunique, por suerte vinieron en el transcurso de la tarde y se llevaron al animal. \nMuchísimas gracias!",
     "mensaje": "Buenas tardes. Me comunique con el numero de higiene urbana y no me da respuesta. Alguien tiro un animal muerto en mi casa. Necesito que alguien se lo lleve por favor",
     "fecha": "2026-07-13T17:10:19.907Z",
-    "ultimaActualizacion": "2026-07-13T17:10:19.907Z",
+    "ultimaActualizacion": "2026-07-14T12:14:28.961Z",
     "historialMensajes": [
       {
         "texto": "Buenas tardes. Me comunique con el numero de higiene urbana y no me da respuesta. Alguien tiro un animal muerto en mi casa. Necesito que alguien se lo lleve por favor",
         "fecha": "2026-07-13T17:10:19.907Z",
         "sentimiento": "negativo"
+      },
+      {
+        "texto": "Buen dia. Ya me comunique, por suerte vinieron en el transcurso de la tarde y se llevaron al animal. \nMuchísimas gracias!",
+        "fecha": "2026-07-14T12:14:28.961Z",
+        "sentimiento": "positivo"
       }
     ]
   },
