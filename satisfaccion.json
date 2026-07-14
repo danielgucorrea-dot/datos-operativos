@@ -44104,16 +44104,21 @@
     "celular": "+54 9 3816 818-512",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "positivo",
-    "ultimoMensaje": "Buenos días. Quisiera consultar para sacar descacharrado, restos de muebles y residuos varios. Cómo debo hacer el trámite para que venga un camión?",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Es que todavía no terminé de desarmar la cama pero le voy pasando una foto preliminar",
     "mensaje": "Buenos días. Quisiera consultar para sacar descacharrado, restos de muebles y residuos varios. Cómo debo hacer el trámite para que venga un camión?",
     "fecha": "2026-07-14T15:45:12.638Z",
-    "ultimaActualizacion": "2026-07-14T15:45:12.638Z",
+    "ultimaActualizacion": "2026-07-14T15:48:49.088Z",
     "historialMensajes": [
       {
         "texto": "Buenos días. Quisiera consultar para sacar descacharrado, restos de muebles y residuos varios. Cómo debo hacer el trámite para que venga un camión?",
         "fecha": "2026-07-14T15:45:12.638Z",
         "sentimiento": "positivo"
+      },
+      {
+        "texto": "Es que todavía no terminé de desarmar la cama pero le voy pasando una foto preliminar",
+        "fecha": "2026-07-14T15:48:49.088Z",
+        "sentimiento": "neutro"
       }
     ]
   }
