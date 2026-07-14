@@ -10055,7 +10055,7 @@
     "celular": "+54 9 3814 697-115",
     "nombre": "",
     "direccion": "Tomas Edison 250",
-    "sentimiento": "neutro",
+    "sentimiento": "positivo",
     "evidencia_clasificacion": [
       "no\\s+pasa"
     ],
@@ -10069,8 +10069,8 @@
       "Gracias!!",
       "Buenos días. Vivo en Tomas Edison 250. Hace tres días que el recolector de basura no pasa"
     ],
-    "ultimaActualizacion": "2026-07-14T14:40:26.850Z",
-    "ultimoMensaje": "Deja de pasar los días de lluvia",
+    "ultimaActualizacion": "2026-07-14T14:41:03.951Z",
+    "ultimoMensaje": "Y me corrige mi vecina que ayer si paso trmprano",
     "historialMensajes": [
       {
         "texto": "Buenos días. Vivo en Tomas Edison 250. Dos días que el recolector de basura no pasa",
@@ -10091,6 +10091,11 @@
         "texto": "Deja de pasar los días de lluvia",
         "fecha": "2026-07-14T14:40:26.850Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Y me corrige mi vecina que ayer si paso trmprano",
+        "fecha": "2026-07-14T14:41:03.951Z",
+        "sentimiento": "positivo"
       }
     ]
   },
