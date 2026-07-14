@@ -44353,16 +44353,21 @@
     "celular": "+54 9 3814 176-611",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Hola buenas tardes",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Necesito que pasen a retirar unas bolsas  grandes de mi domicilio son de poda de jardinería y el basurero no las lleva",
     "mensaje": "Hola buenas tardes",
     "fecha": "2026-07-14T16:57:54.774Z",
-    "ultimaActualizacion": "2026-07-14T16:57:54.774Z",
+    "ultimaActualizacion": "2026-07-14T16:58:32.535Z",
     "historialMensajes": [
       {
         "texto": "Hola buenas tardes",
         "fecha": "2026-07-14T16:57:54.774Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Necesito que pasen a retirar unas bolsas  grandes de mi domicilio son de poda de jardinería y el basurero no las lleva",
+        "fecha": "2026-07-14T16:58:32.535Z",
+        "sentimiento": "positivo"
       }
     ]
   }
