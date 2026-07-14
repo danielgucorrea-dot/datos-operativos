@@ -44426,5 +44426,33 @@
         "sentimiento": "neutro"
       }
     ]
+  },
+  {
+    "numero": "115457445085339",
+    "celular": "+54 9 3815 390-658",
+    "nombre": "",
+    "direccion": "Santa fe 148",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Santa fe 148",
+    "mensaje": "Buenas tardes para solicitar un retiro de residuos",
+    "fecha": "2026-07-14T17:09:18.559Z",
+    "ultimaActualizacion": "2026-07-14T17:10:39.433Z",
+    "historialMensajes": [
+      {
+        "texto": "Buenas tardes para solicitar un retiro de residuos",
+        "fecha": "2026-07-14T17:09:18.559Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Buenas tardes para solicitar un retiro de residuos",
+        "fecha": "2026-07-14T17:09:21.269Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Santa fe 148",
+        "fecha": "2026-07-14T17:10:39.433Z",
+        "sentimiento": "neutro"
+      }
+    ]
   }
 ]
