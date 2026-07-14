@@ -43271,5 +43271,23 @@
         "sentimiento": "neutro"
       }
     ]
+  },
+  {
+    "numero": "108722902818865",
+    "celular": "+54 9 3816 811-864",
+    "nombre": "",
+    "direccion": "Mendoza 970",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Buenos días necesitamos nos retiren ramas y algo de escombros Mendoza 970",
+    "mensaje": "Buenos días necesitamos nos retiren ramas y algo de escombros Mendoza 970",
+    "fecha": "2026-07-14T13:13:41.384Z",
+    "ultimaActualizacion": "2026-07-14T13:13:41.384Z",
+    "historialMensajes": [
+      {
+        "texto": "Buenos días necesitamos nos retiren ramas y algo de escombros Mendoza 970",
+        "fecha": "2026-07-14T13:13:41.384Z",
+        "sentimiento": "positivo"
+      }
+    ]
   }
 ]
