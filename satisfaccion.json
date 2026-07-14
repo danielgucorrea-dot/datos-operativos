@@ -1224,8 +1224,8 @@
       "Necesitamos con urgencia! Limpieza en pasaje victorino de la plaza 1799 y lavaise al 900 , es imposible transitar, están creando un basural!",
       "Buen dia"
     ],
-    "ultimaActualizacion": "2026-07-14T11:57:06.406Z",
-    "ultimoMensaje": "Buen día , por favor mande personal y maquina a levantar la basura en pasaje victorino de la plaza 1799 y lavaisse al 900",
+    "ultimaActualizacion": "2026-07-14T15:46:49.485Z",
+    "ultimoMensaje": "Ok gracias",
     "historialMensajes": [
       {
         "texto": "A que número debo denunciar",
@@ -1240,6 +1240,11 @@
       {
         "texto": "Buen día , por favor mande personal y maquina a levantar la basura en pasaje victorino de la plaza 1799 y lavaisse al 900",
         "fecha": "2026-07-14T11:57:06.406Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Ok gracias",
+        "fecha": "2026-07-14T15:46:49.485Z",
         "sentimiento": "positivo"
       }
     ]
