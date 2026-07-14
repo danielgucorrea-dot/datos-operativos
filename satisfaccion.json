@@ -43753,11 +43753,11 @@
     "celular": "+54 9 3816 040-268",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Buenos dias .Uds recogen medicamentos vencidos ?",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Son 6 bolsas de residuos y 1 caja",
     "mensaje": "Buenos dias .Uds recogen medicamentos vencidos ?",
     "fecha": "2026-07-14T13:41:37.852Z",
-    "ultimaActualizacion": "2026-07-14T13:41:42.852Z",
+    "ultimaActualizacion": "2026-07-14T15:09:01.929Z",
     "historialMensajes": [
       {
         "texto": "Buenos dias .Uds recogen medicamentos vencidos ?",
@@ -43768,6 +43768,11 @@
         "texto": "Buenos dias .Uds recogen medicamentos vencidos ?",
         "fecha": "2026-07-14T13:41:42.852Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Son 6 bolsas de residuos y 1 caja",
+        "fecha": "2026-07-14T15:09:01.929Z",
+        "sentimiento": "positivo"
       }
     ]
   },
