@@ -7468,7 +7468,7 @@
     "celular": "+54 9 3815 555-060",
     "nombre": "",
     "direccion": "avenida Kirchner 4000",
-    "sentimiento": "positivo",
+    "sentimiento": "neutro",
     "evidencia_clasificacion": [
       "no\\s+pasa"
     ],
@@ -7503,8 +7503,8 @@
       "Pasaron hoy por calle Alsina 3900 pero por la avenida no pasaron. Hay bastante basura, disculpe gracias",
       "Buenas noches! Disculpe podría comunicar mañana si podría pasar el basurero mañana en avenida Kirchner ex roca 4000 ?"
     ],
-    "ultimaActualizacion": "2026-07-14T15:33:12.581Z",
-    "ultimoMensaje": "Muchas gracias!",
+    "ultimaActualizacion": "2026-07-14T17:26:49.227Z",
+    "ultimoMensaje": "Espero que no la rompan ahora",
     "historialMensajes": [
       {
         "texto": "Hola buen día! Podría comunicar si puede pasar el basurero hoy en avenida Kirchner 4000 ? Muchas gracias",
@@ -7545,6 +7545,16 @@
         "texto": "Muchas gracias!",
         "fecha": "2026-07-14T15:33:12.581Z",
         "sentimiento": "positivo"
+      },
+      {
+        "texto": "Disculpe sólo se llevaron una bolsa y dejaron esta no la recogieron",
+        "fecha": "2026-07-14T17:26:47.889Z",
+        "sentimiento": "negativo"
+      },
+      {
+        "texto": "Espero que no la rompan ahora",
+        "fecha": "2026-07-14T17:26:49.227Z",
+        "sentimiento": "neutro"
       }
     ]
   },
