@@ -36558,7 +36558,15 @@
       "Tengo un equipo de gym. Una caminadora está impecable pero ocupa mucho lugar",
       "Hola buen día"
     ],
-    "ultimaActualizacion": "2026-04-10"
+    "ultimaActualizacion": "2026-07-14T13:40:56.970Z",
+    "ultimoMensaje": "Hola buen día",
+    "historialMensajes": [
+      {
+        "texto": "Hola buen día",
+        "fecha": "2026-07-14T13:40:56.970Z",
+        "sentimiento": "neutro"
+      }
+    ]
   },
   {
     "numero": "162955471651002",
