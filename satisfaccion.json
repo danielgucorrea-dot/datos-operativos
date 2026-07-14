@@ -43784,16 +43784,21 @@
     "numero": "195026042806440",
     "celular": "+54 9 3815 856-279",
     "nombre": "",
-    "direccion": null,
+    "direccion": "barrio Kennedy",
     "sentimiento": "neutro",
-    "ultimoMensaje": "Buenos dias",
+    "ultimoMensaje": "Retiran residuos de obra embolsados de barrio Kennedy?",
     "mensaje": "Buenos dias",
     "fecha": "2026-07-14T14:20:39.021Z",
-    "ultimaActualizacion": "2026-07-14T14:20:39.021Z",
+    "ultimaActualizacion": "2026-07-14T14:21:01.890Z",
     "historialMensajes": [
       {
         "texto": "Buenos dias",
         "fecha": "2026-07-14T14:20:39.021Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Retiran residuos de obra embolsados de barrio Kennedy?",
+        "fecha": "2026-07-14T14:21:01.890Z",
         "sentimiento": "neutro"
       }
     ]
