@@ -42675,10 +42675,10 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "neutro",
-    "ultimoMensaje": "Buen dia",
+    "ultimoMensaje": "No la tengo en bolsas, por que al tener espinas se iban a romper, esta sobre el cordón, por que la planta está afuera",
     "mensaje": "Buenas tardes",
     "fecha": "2026-07-13T18:34:25.616Z",
-    "ultimaActualizacion": "2026-07-14T13:15:35.087Z",
+    "ultimaActualizacion": "2026-07-14T13:16:00.840Z",
     "historialMensajes": [
       {
         "texto": "Buenas tardes",
@@ -42698,6 +42698,11 @@
       {
         "texto": "Buen dia",
         "fecha": "2026-07-14T13:15:35.087Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "No la tengo en bolsas, por que al tener espinas se iban a romper, esta sobre el cordón, por que la planta está afuera",
+        "fecha": "2026-07-14T13:16:00.840Z",
         "sentimiento": "neutro"
       }
     ]
