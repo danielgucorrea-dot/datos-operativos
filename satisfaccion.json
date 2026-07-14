@@ -42524,11 +42524,11 @@
     "celular": "+54 9 3815 641-384",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "negativo",
-    "ultimoMensaje": "Tengo dos heladeras que no funcionan y necesito tirar",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Quería consultar si ustedes pueden retirarlas",
     "mensaje": "Buenas tardes",
     "fecha": "2026-07-13T19:15:53.795Z",
-    "ultimaActualizacion": "2026-07-14T11:23:52.616Z",
+    "ultimaActualizacion": "2026-07-14T11:24:18.294Z",
     "historialMensajes": [
       {
         "texto": "Buenas tardes",
@@ -42554,6 +42554,11 @@
         "texto": "Tengo dos heladeras que no funcionan y necesito tirar",
         "fecha": "2026-07-14T11:23:52.616Z",
         "sentimiento": "negativo"
+      },
+      {
+        "texto": "Quería consultar si ustedes pueden retirarlas",
+        "fecha": "2026-07-14T11:24:18.294Z",
+        "sentimiento": "positivo"
       }
     ]
   },
