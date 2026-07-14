@@ -44253,16 +44253,21 @@
     "celular": "+54 9 3815 199-399",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "positivo",
-    "ultimoMensaje": "Quisiera saber cómo puedo solicitar el retiro de residuos no habituales en mi domicilio. Tengo aspiradoras viejas en desuso, cajas de cartón, revistas y otros objetos para descartar. ¿Podrían indicarme cómo coordinar el retiro? O adonde me tengo q acercar para poder descartarlo? Muchas gracias",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Son cajas con bolsas de cartón",
     "mensaje": "Quisiera saber cómo puedo solicitar el retiro de residuos no habituales en mi domicilio. Tengo aspiradoras viejas en desuso, cajas de cartón, revistas y otros objetos para descartar. ¿Podrían indicarme cómo coordinar el retiro? O adonde me tengo q acercar para poder descartarlo? Muchas gracias",
     "fecha": "2026-07-14T16:08:54.189Z",
-    "ultimaActualizacion": "2026-07-14T16:08:54.189Z",
+    "ultimaActualizacion": "2026-07-14T18:29:45.968Z",
     "historialMensajes": [
       {
         "texto": "Quisiera saber cómo puedo solicitar el retiro de residuos no habituales en mi domicilio. Tengo aspiradoras viejas en desuso, cajas de cartón, revistas y otros objetos para descartar. ¿Podrían indicarm",
         "fecha": "2026-07-14T16:08:54.189Z",
         "sentimiento": "positivo"
+      },
+      {
+        "texto": "Son cajas con bolsas de cartón",
+        "fecha": "2026-07-14T18:29:45.968Z",
+        "sentimiento": "neutro"
       }
     ]
   },
