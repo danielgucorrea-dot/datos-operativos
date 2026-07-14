@@ -43081,17 +43081,12 @@
     "celular": "+54 9 3813 001-644",
     "nombre": "",
     "direccion": "Barrio America",
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Buen dia",
+    "sentimiento": "negativo",
+    "ultimoMensaje": "Solo me quedan estas bolsas",
     "mensaje": "Buenas tardes! Tengo bolsas de escombros en mi domicilio. Como tramito para que me lo retiren? Muchas gracias",
     "fecha": "2026-07-13T20:44:46.936Z",
-    "ultimaActualizacion": "2026-07-14T16:25:41.037Z",
+    "ultimaActualizacion": "2026-07-14T16:25:47.710Z",
     "historialMensajes": [
-      {
-        "texto": "Bueno que me retiren las 5 bolsas",
-        "fecha": "2026-07-14T13:48:31.650Z",
-        "sentimiento": "positivo"
-      },
       {
         "texto": "No tengo para pagar x eso los llame",
         "fecha": "2026-07-14T13:48:45.256Z",
@@ -43136,6 +43131,11 @@
         "texto": "Buen dia",
         "fecha": "2026-07-14T16:25:41.037Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Solo me quedan estas bolsas",
+        "fecha": "2026-07-14T16:25:47.710Z",
+        "sentimiento": "negativo"
       }
     ]
   },
@@ -44243,11 +44243,16 @@
     "ultimoMensaje": "Buenos dias",
     "mensaje": "Buenos dias",
     "fecha": "2026-07-14T16:25:42.910Z",
-    "ultimaActualizacion": "2026-07-14T16:25:42.910Z",
+    "ultimaActualizacion": "2026-07-14T16:25:43.968Z",
     "historialMensajes": [
       {
         "texto": "Buenos dias",
         "fecha": "2026-07-14T16:25:42.910Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Buenos dias",
+        "fecha": "2026-07-14T16:25:43.968Z",
         "sentimiento": "neutro"
       }
     ]
