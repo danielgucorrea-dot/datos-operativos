@@ -43349,12 +43349,12 @@
     "numero": "272094818529488",
     "celular": "+54 9 3814 758-928",
     "nombre": "",
-    "direccion": null,
+    "direccion": "Alberdi 2342",
     "sentimiento": "neutro",
-    "ultimoMensaje": "para desagotar el pozo",
+    "ultimoMensaje": "Tucumán",
     "mensaje": "para desagotar el pozo",
     "fecha": "2026-07-14T13:23:00.507Z",
-    "ultimaActualizacion": "2026-07-14T13:23:03.126Z",
+    "ultimaActualizacion": "2026-07-14T13:24:25.709Z",
     "historialMensajes": [
       {
         "texto": "para desagotar el pozo",
@@ -43364,6 +43364,16 @@
       {
         "texto": "para desagotar el pozo",
         "fecha": "2026-07-14T13:23:03.126Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Deseo que me desagote el pozo ya está por revalsar \nAlberdi 2342 san Miguel de 6",
+        "fecha": "2026-07-14T13:24:22.210Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Tucumán",
+        "fecha": "2026-07-14T13:24:25.709Z",
         "sentimiento": "neutro"
       }
     ]
