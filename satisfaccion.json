@@ -42741,10 +42741,10 @@
     "nombre": "",
     "direccion": "Barrio 250",
     "sentimiento": "neutro",
-    "ultimoMensaje": "Barrio 250 viviendas los chañaritos Mza D casa 5",
+    "ultimoMensaje": "Altura chiclana 3600",
     "mensaje": "Buenas tardes",
     "fecha": "2026-07-13T18:34:25.616Z",
-    "ultimaActualizacion": "2026-07-14T14:10:15.062Z",
+    "ultimaActualizacion": "2026-07-14T14:10:20.400Z",
     "historialMensajes": [
       {
         "texto": "Buenas tardes",
@@ -42774,6 +42774,11 @@
       {
         "texto": "Barrio 250 viviendas los chañaritos Mza D casa 5",
         "fecha": "2026-07-14T14:10:15.062Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Altura chiclana 3600",
+        "fecha": "2026-07-14T14:10:20.400Z",
         "sentimiento": "neutro"
       }
     ]
