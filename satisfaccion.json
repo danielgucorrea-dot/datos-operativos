@@ -36641,8 +36641,8 @@
       "Tengo un equipo de gym. Una caminadora está impecable pero ocupa mucho lugar",
       "Hola buen día"
     ],
-    "ultimaActualizacion": "2026-07-14T15:32:11.699Z",
-    "ultimoMensaje": "Cuando?",
+    "ultimaActualizacion": "2026-07-14T15:32:29.419Z",
+    "ultimoMensaje": "Avísenme para que esté en casa",
     "historialMensajes": [
       {
         "texto": "Hola buen día",
@@ -36662,6 +36662,11 @@
       {
         "texto": "Cuando?",
         "fecha": "2026-07-14T15:32:11.699Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Avísenme para que esté en casa",
+        "fecha": "2026-07-14T15:32:29.419Z",
         "sentimiento": "neutro"
       }
     ]
