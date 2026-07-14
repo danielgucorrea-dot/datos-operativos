@@ -14589,7 +14589,7 @@
     "celular": "+54 9 3813 320-301",
     "nombre": "",
     "direccion": "barrio Echeverría",
-    "sentimiento": "positivo",
+    "sentimiento": "neutro",
     "evidencia_clasificacion": [],
     "canal": "WhatsApp Ambiente",
     "fecha": "2026-06-08",
@@ -14601,8 +14601,8 @@
       "Me pueden avisar 🙏",
       "Hola buenas tardes quisiera hacer una denuncia por un vecino que tiro toda su basura en medio de la calle , perjudicando a los peatones y vehículos que circulan sobre esta calle.\nLa dirección es sargento Cabral 1800 entre Colombia y pasaje holmbergs (barrio Echeverría)"
     ],
-    "ultimaActualizacion": "2026-07-14T14:10:26.347Z",
-    "ultimoMensaje": "Lo que pasa que no tengo bolsas para colocar ese hormigon ya que los que dejaron eso , fueron los de la SAT que arreglaron la perdida de agua 🙏 o si la pongo en la calle sería mejor así pase la máquina?",
+    "ultimaActualizacion": "2026-07-14T14:10:38.111Z",
+    "ultimoMensaje": "Al lado del cordón cuneta?",
     "historialMensajes": [
       {
         "texto": "Hola buenas tardes podrían ustedes pasar a buscar una parte de hormigón que quedó en la vereda y una bolsa con tierra 🙏",
@@ -14623,6 +14623,11 @@
         "texto": "Lo que pasa que no tengo bolsas para colocar ese hormigon ya que los que dejaron eso , fueron los de la SAT que arreglaron la perdida de agua 🙏 o si la pongo en la calle sería mejor así pase la máqui",
         "fecha": "2026-07-14T14:10:26.347Z",
         "sentimiento": "positivo"
+      },
+      {
+        "texto": "Al lado del cordón cuneta?",
+        "fecha": "2026-07-14T14:10:38.111Z",
+        "sentimiento": "neutro"
       }
     ]
   },
