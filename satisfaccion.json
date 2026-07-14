@@ -42599,11 +42599,11 @@
     "celular": "+54 9 3815 641-384",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "positivo",
-    "ultimoMensaje": "Quería consultar si ustedes pueden retirarlas",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Buenas tardes",
     "mensaje": "Buenas tardes",
     "fecha": "2026-07-13T19:15:53.795Z",
-    "ultimaActualizacion": "2026-07-14T11:24:18.294Z",
+    "ultimaActualizacion": "2026-07-14T11:31:07.534Z",
     "historialMensajes": [
       {
         "texto": "Buenas tardes",
@@ -42634,6 +42634,11 @@
         "texto": "Quería consultar si ustedes pueden retirarlas",
         "fecha": "2026-07-14T11:24:18.294Z",
         "sentimiento": "positivo"
+      },
+      {
+        "texto": "Buenas tardes",
+        "fecha": "2026-07-14T11:31:07.534Z",
+        "sentimiento": "neutro"
       }
     ]
   },
@@ -42642,11 +42647,11 @@
     "celular": "+54 9 3814 122-389",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "positivo",
-    "ultimoMensaje": "Necesito hacer un pedido de recomendación de basura no habitual",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Buenas tardes",
     "mensaje": "Buenas tardes",
     "fecha": "2026-07-13T19:43:03.548Z",
-    "ultimaActualizacion": "2026-07-13T19:44:26.154Z",
+    "ultimaActualizacion": "2026-07-14T11:31:07.584Z",
     "historialMensajes": [
       {
         "texto": "Buenas tardes",
@@ -42657,6 +42662,11 @@
         "texto": "Necesito hacer un pedido de recomendación de basura no habitual",
         "fecha": "2026-07-13T19:44:26.154Z",
         "sentimiento": "positivo"
+      },
+      {
+        "texto": "Buenas tardes",
+        "fecha": "2026-07-14T11:31:07.584Z",
+        "sentimiento": "neutro"
       }
     ]
   },
@@ -42816,11 +42826,11 @@
     "celular": "+54 9 3816 451-705",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "positivo",
-    "ultimoMensaje": "Para solicitar el retiro de ramas y hojas",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Buenas tardes",
     "mensaje": "Buenas tardes",
     "fecha": "2026-07-13T21:55:37.110Z",
-    "ultimaActualizacion": "2026-07-13T21:56:18.210Z",
+    "ultimaActualizacion": "2026-07-14T11:31:07.638Z",
     "historialMensajes": [
       {
         "texto": "Buenas tardes",
@@ -42831,6 +42841,11 @@
         "texto": "Para solicitar el retiro de ramas y hojas",
         "fecha": "2026-07-13T21:56:18.210Z",
         "sentimiento": "positivo"
+      },
+      {
+        "texto": "Buenas tardes",
+        "fecha": "2026-07-14T11:31:07.638Z",
+        "sentimiento": "neutro"
       }
     ]
   },
