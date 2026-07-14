@@ -43318,10 +43318,10 @@
     "nombre": "",
     "direccion": "Mendoza 970",
     "sentimiento": "neutro",
-    "ultimoMensaje": "Mendoza 970",
+    "ultimoMensaje": "Cuando pueden venir para sacarlo a la calle",
     "mensaje": "Buenos días necesitamos nos retiren ramas y algo de escombros Mendoza 970",
     "fecha": "2026-07-14T13:13:41.384Z",
-    "ultimaActualizacion": "2026-07-14T13:23:09.893Z",
+    "ultimaActualizacion": "2026-07-14T13:23:53.374Z",
     "historialMensajes": [
       {
         "texto": "Buenos días necesitamos nos retiren ramas y algo de escombros Mendoza 970",
@@ -43336,6 +43336,11 @@
       {
         "texto": "Mendoza 970",
         "fecha": "2026-07-14T13:23:09.893Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Cuando pueden venir para sacarlo a la calle",
+        "fecha": "2026-07-14T13:23:53.374Z",
         "sentimiento": "neutro"
       }
     ]
