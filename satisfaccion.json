@@ -43160,10 +43160,10 @@
     "nombre": "",
     "direccion": "calle ESTEBAN DE ECHEVERRIA 347",
     "sentimiento": "neutro",
-    "ultimoMensaje": "Muchas gracias mas tardecito le envio las fotos estoy en el medico",
+    "ultimoMensaje": "Estas son las ramas",
     "mensaje": "Buenas tardes para que puedan retirar, ramas en calle ESTEBAN DE ECHEVERRIA 347  Y PASAJE DON BOSCO ALTURA MATE DE LUNA 4.400 ENTRE MENDOZAVY SAN JUAN ESTAN ACOMODADAS POR FAVOR MUCHAS GRACIAS",
     "fecha": "2026-07-13T20:57:26.370Z",
-    "ultimaActualizacion": "2026-07-14T13:52:56.434Z",
+    "ultimaActualizacion": "2026-07-14T17:31:17.612Z",
     "historialMensajes": [
       {
         "texto": "Buenas tardes para que puedan retirar, ramas en calle ESTEBAN DE ECHEVERRIA 347  Y PASAJE DON BOSCO ALTURA MATE DE LUNA 4.400 ENTRE MENDOZAVY SAN JUAN ESTAN ACOMODADAS POR FAVOR MUCHAS GRACIAS",
@@ -43173,6 +43173,11 @@
       {
         "texto": "Muchas gracias mas tardecito le envio las fotos estoy en el medico",
         "fecha": "2026-07-14T13:52:56.434Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Estas son las ramas",
+        "fecha": "2026-07-14T17:31:17.612Z",
         "sentimiento": "neutro"
       }
     ]
