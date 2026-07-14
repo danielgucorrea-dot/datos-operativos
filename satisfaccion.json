@@ -44560,12 +44560,12 @@
     "numero": "246282182508758",
     "celular": "+54 9 3814 448-149",
     "nombre": "",
-    "direccion": null,
-    "sentimiento": "positivo",
-    "ultimoMensaje": "Buen día, quería consultar acerca del retiro de residuos de construcción, en que tipo de bolsas se entregan los escombros? También me gustaría saber de ramas, bolsas especiales o cualquier tipo?",
+    "direccion": "Av gob del campo al 1200",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Seria para la zona de Av gob del campo al 1200",
     "mensaje": "Buen día, quería consultar acerca del retiro de residuos de construcción, en que tipo de bolsas se entregan los escombros? También me gustaría saber de ramas, bolsas especiales o cualquier tipo?",
     "fecha": "2026-07-14T18:32:32.492Z",
-    "ultimaActualizacion": "2026-07-14T18:32:34.292Z",
+    "ultimaActualizacion": "2026-07-14T18:33:02.658Z",
     "historialMensajes": [
       {
         "texto": "Buen día, quería consultar acerca del retiro de residuos de construcción, en que tipo de bolsas se entregan los escombros? También me gustaría saber de ramas, bolsas especiales o cualquier tipo?",
@@ -44576,6 +44576,11 @@
         "texto": "Buen día, quería consultar acerca del retiro de residuos de construcción, en que tipo de bolsas se entregan los escombros? También me gustaría saber de ramas, bolsas especiales o cualquier tipo?",
         "fecha": "2026-07-14T18:32:34.292Z",
         "sentimiento": "positivo"
+      },
+      {
+        "texto": "Seria para la zona de Av gob del campo al 1200",
+        "fecha": "2026-07-14T18:33:02.658Z",
+        "sentimiento": "neutro"
       }
     ]
   }
