@@ -43571,11 +43571,11 @@
     "celular": "+54 9 3814 758-928",
     "nombre": "",
     "direccion": "Alberdi 2342",
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Tucumán",
+    "sentimiento": "negativo",
+    "ultimoMensaje": "Ya me comunique ahi tengo 25 reiteraciones de pedido y no me dan solución",
     "mensaje": "para desagotar el pozo",
     "fecha": "2026-07-14T13:23:00.507Z",
-    "ultimaActualizacion": "2026-07-14T13:24:25.709Z",
+    "ultimaActualizacion": "2026-07-14T14:17:55.812Z",
     "historialMensajes": [
       {
         "texto": "para desagotar el pozo",
@@ -43596,6 +43596,11 @@
         "texto": "Tucumán",
         "fecha": "2026-07-14T13:24:25.709Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Ya me comunique ahi tengo 25 reiteraciones de pedido y no me dan solución",
+        "fecha": "2026-07-14T14:17:55.812Z",
+        "sentimiento": "negativo"
       }
     ]
   },
@@ -43728,11 +43733,16 @@
     "ultimoMensaje": "Buenos días",
     "mensaje": "Buenos días",
     "fecha": "2026-07-14T14:17:47.865Z",
-    "ultimaActualizacion": "2026-07-14T14:17:47.865Z",
+    "ultimaActualizacion": "2026-07-14T14:17:50.928Z",
     "historialMensajes": [
       {
         "texto": "Buenos días",
         "fecha": "2026-07-14T14:17:47.865Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Buenos días",
+        "fecha": "2026-07-14T14:17:50.928Z",
         "sentimiento": "neutro"
       }
     ]
