@@ -44545,5 +44545,23 @@
         "sentimiento": "negativo"
       }
     ]
+  },
+  {
+    "numero": "246282182508758",
+    "celular": "+54 9 3814 448-149",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Buen día, quería consultar acerca del retiro de residuos de construcción, en que tipo de bolsas se entregan los escombros? También me gustaría saber de ramas, bolsas especiales o cualquier tipo?",
+    "mensaje": "Buen día, quería consultar acerca del retiro de residuos de construcción, en que tipo de bolsas se entregan los escombros? También me gustaría saber de ramas, bolsas especiales o cualquier tipo?",
+    "fecha": "2026-07-14T18:32:32.492Z",
+    "ultimaActualizacion": "2026-07-14T18:32:32.492Z",
+    "historialMensajes": [
+      {
+        "texto": "Buen día, quería consultar acerca del retiro de residuos de construcción, en que tipo de bolsas se entregan los escombros? También me gustaría saber de ramas, bolsas especiales o cualquier tipo?",
+        "fecha": "2026-07-14T18:32:32.492Z",
+        "sentimiento": "positivo"
+      }
+    ]
   }
 ]
