@@ -43672,14 +43672,24 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "neutro",
-    "ultimoMensaje": "Buenos días!",
+    "ultimoMensaje": "Deseo realizar una denuncia",
     "mensaje": "Buenos días!",
     "fecha": "2026-07-14T14:11:49.217Z",
-    "ultimaActualizacion": "2026-07-14T14:11:49.217Z",
+    "ultimaActualizacion": "2026-07-14T14:12:21.036Z",
     "historialMensajes": [
       {
         "texto": "Buenos días!",
         "fecha": "2026-07-14T14:11:49.217Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Buenos días!",
+        "fecha": "2026-07-14T14:11:51.895Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Deseo realizar una denuncia",
+        "fecha": "2026-07-14T14:12:21.036Z",
         "sentimiento": "neutro"
       }
     ]
