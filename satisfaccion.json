@@ -44027,5 +44027,23 @@
         "sentimiento": "neutro"
       }
     ]
+  },
+  {
+    "numero": "40875321209041",
+    "celular": "+54 9 3815 827-462",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Hola buenas tardes",
+    "mensaje": "Hola buenas tardes",
+    "fecha": "2026-07-14T15:30:37.429Z",
+    "ultimaActualizacion": "2026-07-14T15:30:37.429Z",
+    "historialMensajes": [
+      {
+        "texto": "Hola buenas tardes",
+        "fecha": "2026-07-14T15:30:37.429Z",
+        "sentimiento": "neutro"
+      }
+    ]
   }
 ]
