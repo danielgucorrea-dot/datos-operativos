@@ -43918,12 +43918,12 @@
     "numero": "32869569269943",
     "celular": "+54 9 3815 829-273",
     "nombre": "",
-    "direccion": null,
+    "direccion": "Balcarce 369",
     "sentimiento": "neutro",
-    "ultimoMensaje": "Buenas",
+    "ultimoMensaje": "Balcarce 369",
     "mensaje": "Buenas",
     "fecha": "2026-07-14T14:35:09.739Z",
-    "ultimaActualizacion": "2026-07-14T14:35:10.918Z",
+    "ultimaActualizacion": "2026-07-14T14:43:28.613Z",
     "historialMensajes": [
       {
         "texto": "Buenas",
@@ -43933,6 +43933,11 @@
       {
         "texto": "Buenas",
         "fecha": "2026-07-14T14:35:10.918Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Balcarce 369",
+        "fecha": "2026-07-14T14:43:28.613Z",
         "sentimiento": "neutro"
       }
     ]
