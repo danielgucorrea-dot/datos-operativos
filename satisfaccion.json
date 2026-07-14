@@ -44319,16 +44319,21 @@
     "numero": "178013610229955",
     "celular": "+54 9 3815 067-924",
     "nombre": "",
-    "direccion": null,
+    "direccion": "Juramento 125",
     "sentimiento": "neutro",
-    "ultimoMensaje": "Hola",
+    "ultimoMensaje": "Residuos vegetales de poda. \n\nDirección: Juramento 125.",
     "mensaje": "Hola",
     "fecha": "2026-07-14T16:34:05.049Z",
-    "ultimaActualizacion": "2026-07-14T16:34:05.049Z",
+    "ultimaActualizacion": "2026-07-14T16:38:39.266Z",
     "historialMensajes": [
       {
         "texto": "Hola",
         "fecha": "2026-07-14T16:34:05.049Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Residuos vegetales de poda. \n\nDirección: Juramento 125.",
+        "fecha": "2026-07-14T16:38:39.266Z",
         "sentimiento": "neutro"
       }
     ]
