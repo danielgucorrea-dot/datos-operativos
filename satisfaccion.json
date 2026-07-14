@@ -14561,7 +14561,7 @@
     "celular": "+54 9 3813 320-301",
     "nombre": "",
     "direccion": "barrio Echeverría",
-    "sentimiento": "neutro",
+    "sentimiento": "positivo",
     "evidencia_clasificacion": [],
     "canal": "WhatsApp Ambiente",
     "fecha": "2026-06-08",
@@ -14573,8 +14573,8 @@
       "Me pueden avisar 🙏",
       "Hola buenas tardes quisiera hacer una denuncia por un vecino que tiro toda su basura en medio de la calle , perjudicando a los peatones y vehículos que circulan sobre esta calle.\nLa dirección es sargento Cabral 1800 entre Colombia y pasaje holmbergs (barrio Echeverría)"
     ],
-    "ultimaActualizacion": "2026-07-13T16:55:20.289Z",
-    "ultimoMensaje": "Calle Colombia 2542 soy Marisa Tabernero",
+    "ultimaActualizacion": "2026-07-14T13:07:17.179Z",
+    "ultimoMensaje": "Buen día no son muy pesadas si necesitas que yo las tire en el camión avísame cuando vengan",
     "historialMensajes": [
       {
         "texto": "Hola buenas tardes podrían ustedes pasar a buscar una parte de hormigón que quedó en la vereda y una bolsa con tierra 🙏",
@@ -14585,6 +14585,11 @@
         "texto": "Calle Colombia 2542 soy Marisa Tabernero",
         "fecha": "2026-07-13T16:55:20.289Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Buen día no son muy pesadas si necesitas que yo las tire en el camión avísame cuando vengan",
+        "fecha": "2026-07-14T13:07:17.179Z",
+        "sentimiento": "positivo"
       }
     ]
   },
@@ -42739,12 +42744,12 @@
     "numero": "205780640866433",
     "celular": "+54 9 3814 122-389",
     "nombre": "",
-    "direccion": null,
+    "direccion": "barrio judicial",
     "sentimiento": "neutro",
-    "ultimoMensaje": "Buen día bien ahí le envío",
+    "ultimoMensaje": "Mi domicilio es pasaje amado Nervo 1938 barrio judicial, el pasaje queda paralela a la jujuy al 1900 detrás de la GNC Amalia",
     "mensaje": "Buenas tardes",
     "fecha": "2026-07-13T19:43:03.548Z",
-    "ultimaActualizacion": "2026-07-14T13:06:07.885Z",
+    "ultimaActualizacion": "2026-07-14T13:07:43.488Z",
     "historialMensajes": [
       {
         "texto": "Buenas tardes",
@@ -42764,6 +42769,11 @@
       {
         "texto": "Buen día bien ahí le envío",
         "fecha": "2026-07-14T13:06:07.885Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Mi domicilio es pasaje amado Nervo 1938 barrio judicial, el pasaje queda paralela a la jujuy al 1900 detrás de la GNC Amalia",
+        "fecha": "2026-07-14T13:07:43.488Z",
         "sentimiento": "neutro"
       }
     ]
