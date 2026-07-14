@@ -42524,11 +42524,11 @@
     "celular": "+54 9 3815 641-384",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Me pasaron esté número para averiguar sobre residuos no habituales",
+    "sentimiento": "negativo",
+    "ultimoMensaje": "Tengo dos heladeras que no funcionan y necesito tirar",
     "mensaje": "Buenas tardes",
     "fecha": "2026-07-13T19:15:53.795Z",
-    "ultimaActualizacion": "2026-07-13T19:16:31.386Z",
+    "ultimaActualizacion": "2026-07-14T11:23:52.616Z",
     "historialMensajes": [
       {
         "texto": "Buenas tardes",
@@ -42539,6 +42539,21 @@
         "texto": "Me pasaron esté número para averiguar sobre residuos no habituales",
         "fecha": "2026-07-13T19:16:31.386Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Me pasaron esté número para averiguar sobre residuos no habituales",
+        "fecha": "2026-07-14T11:23:24.594Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Buenos días",
+        "fecha": "2026-07-14T11:23:27.216Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Tengo dos heladeras que no funcionan y necesito tirar",
+        "fecha": "2026-07-14T11:23:52.616Z",
+        "sentimiento": "negativo"
       }
     ]
   },
