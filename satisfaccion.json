@@ -43031,14 +43031,19 @@
     "nombre": "",
     "direccion": "pasaje garibaldi 48",
     "sentimiento": "positivo",
-    "ultimoMensaje": "Buenas tardes para solicitar el retiro de 5 bolsas de escombros en pasaje garibaldi 48",
+    "ultimoMensaje": "Ok ya le mando",
     "mensaje": "Buenas tardes para solicitar el retiro de 5 bolsas de escombros en pasaje garibaldi 48",
     "fecha": "2026-07-13T20:43:40.688Z",
-    "ultimaActualizacion": "2026-07-13T20:43:40.688Z",
+    "ultimaActualizacion": "2026-07-14T15:42:40.689Z",
     "historialMensajes": [
       {
         "texto": "Buenas tardes para solicitar el retiro de 5 bolsas de escombros en pasaje garibaldi 48",
         "fecha": "2026-07-13T20:43:40.688Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Ok ya le mando",
+        "fecha": "2026-07-14T15:42:40.689Z",
         "sentimiento": "positivo"
       }
     ]
@@ -43896,14 +43901,19 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "positivo",
-    "ultimoMensaje": "6 bolsas",
+    "ultimoMensaje": "Muchas gracias",
     "mensaje": "6 bolsas",
     "fecha": "2026-07-14T14:19:33.285Z",
-    "ultimaActualizacion": "2026-07-14T14:19:33.285Z",
+    "ultimaActualizacion": "2026-07-14T15:44:29.969Z",
     "historialMensajes": [
       {
         "texto": "6 bolsas",
         "fecha": "2026-07-14T14:19:33.285Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Muchas gracias",
+        "fecha": "2026-07-14T15:44:29.969Z",
         "sentimiento": "positivo"
       }
     ]
