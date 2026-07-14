@@ -43957,11 +43957,11 @@
     "celular": "+54 9 3813 483-088",
     "nombre": "",
     "direccion": "Lucas cordoba 1578",
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Mi dirección es Lucas cordoba 1578 Flia galvan",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Hola buen dia estaría necesitando si me podrían venir a sacar unas ramas de un árbol que podaron.Y estan adentro de mi domicilio",
     "mensaje": "Hola buen dia estaría necesitando si me podrían venir a sacar unas ramas de un árbol que podaron.Y estan adentro de mi domicilio",
     "fecha": "2026-07-14T14:39:30.197Z",
-    "ultimaActualizacion": "2026-07-14T14:40:10.012Z",
+    "ultimaActualizacion": "2026-07-14T14:48:00.439Z",
     "historialMensajes": [
       {
         "texto": "Hola buen dia estaría necesitando si me podrían venir a sacar unas ramas de un árbol que podaron.Y estan adentro de mi domicilio",
@@ -43972,6 +43972,11 @@
         "texto": "Mi dirección es Lucas cordoba 1578 Flia galvan",
         "fecha": "2026-07-14T14:40:10.012Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Hola buen dia estaría necesitando si me podrían venir a sacar unas ramas de un árbol que podaron.Y estan adentro de mi domicilio",
+        "fecha": "2026-07-14T14:48:00.439Z",
+        "sentimiento": "positivo"
       }
     ]
   }
