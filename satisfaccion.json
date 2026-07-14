@@ -42346,11 +42346,11 @@
     "celular": "+54 9 3815 644-372",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Buenos días, no hay problema",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Seguramente mañana envío las fotos, la limpieza la haríamos por la mañana",
     "mensaje": "Buenos días, quería solicitar su servicio",
     "fecha": "2026-07-13T15:23:32.459Z",
-    "ultimaActualizacion": "2026-07-14T12:03:50.812Z",
+    "ultimaActualizacion": "2026-07-14T12:04:14.820Z",
     "historialMensajes": [
       {
         "texto": "Buenos días, quería solicitar su servicio",
@@ -42381,6 +42381,11 @@
         "texto": "Buenos días, no hay problema",
         "fecha": "2026-07-14T12:03:50.812Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Seguramente mañana envío las fotos, la limpieza la haríamos por la mañana",
+        "fecha": "2026-07-14T12:04:14.820Z",
+        "sentimiento": "positivo"
       }
     ]
   },
