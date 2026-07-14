@@ -43670,12 +43670,12 @@
     "numero": "113340043018340",
     "celular": "+54 9 3812 455-576",
     "nombre": "",
-    "direccion": null,
+    "direccion": "Avenida independencia 3287",
     "sentimiento": "neutro",
-    "ultimoMensaje": "Lo que quiero que vengan a sacar de la vereda",
+    "ultimoMensaje": "Avenida independencia 3287",
     "mensaje": "Hola",
     "fecha": "2026-07-14T13:02:02.289Z",
-    "ultimaActualizacion": "2026-07-14T16:20:22.507Z",
+    "ultimaActualizacion": "2026-07-14T16:54:52.411Z",
     "historialMensajes": [
       {
         "texto": "Hola",
@@ -43695,6 +43695,11 @@
       {
         "texto": "Lo que quiero que vengan a sacar de la vereda",
         "fecha": "2026-07-14T16:20:22.507Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Avenida independencia 3287",
+        "fecha": "2026-07-14T16:54:52.411Z",
         "sentimiento": "neutro"
       }
     ]
@@ -44340,6 +44345,24 @@
         "texto": "La basura acumulada que se ve es en el n° 123 ¿Será posible que le recojan? La vecina que vive ahí es anciana y vive sola. Le tiran basura en la puerta permanentemente...",
         "fecha": "2026-07-14T16:40:51.769Z",
         "sentimiento": "negativo"
+      }
+    ]
+  },
+  {
+    "numero": "2181994438801",
+    "celular": "+54 9 3814 176-611",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Hola buenas tardes",
+    "mensaje": "Hola buenas tardes",
+    "fecha": "2026-07-14T16:57:54.774Z",
+    "ultimaActualizacion": "2026-07-14T16:57:54.774Z",
+    "historialMensajes": [
+      {
+        "texto": "Hola buenas tardes",
+        "fecha": "2026-07-14T16:57:54.774Z",
+        "sentimiento": "neutro"
       }
     ]
   }
