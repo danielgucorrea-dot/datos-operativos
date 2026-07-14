@@ -43984,5 +43984,28 @@
         "sentimiento": "positivo"
       }
     ]
+  },
+  {
+    "numero": "189884849496238",
+    "celular": "+54 9 3814 424-471",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Hola",
+    "mensaje": "Hola",
+    "fecha": "2026-07-14T15:02:16.581Z",
+    "ultimaActualizacion": "2026-07-14T15:02:17.708Z",
+    "historialMensajes": [
+      {
+        "texto": "Hola",
+        "fecha": "2026-07-14T15:02:16.581Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Hola",
+        "fecha": "2026-07-14T15:02:17.708Z",
+        "sentimiento": "neutro"
+      }
+    ]
   }
 ]
