@@ -42110,10 +42110,10 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "positivo",
-    "ultimoMensaje": "Deseo que se lleven eso por favor",
+    "ultimoMensaje": "Muchas gracias",
     "mensaje": "Buenos dias",
     "fecha": "2026-07-13T13:22:26.483Z",
-    "ultimaActualizacion": "2026-07-14T13:16:25.717Z",
+    "ultimaActualizacion": "2026-07-14T14:51:26.969Z",
     "historialMensajes": [
       {
         "texto": "Buenos dias",
@@ -42143,6 +42143,11 @@
       {
         "texto": "Deseo que se lleven eso por favor",
         "fecha": "2026-07-14T13:16:25.717Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Muchas gracias",
+        "fecha": "2026-07-14T14:51:26.969Z",
         "sentimiento": "positivo"
       }
     ]
