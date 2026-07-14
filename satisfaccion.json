@@ -9593,7 +9593,7 @@
     "celular": "+54 9 3815 279-650",
     "nombre": "",
     "direccion": "",
-    "sentimiento": "neutro",
+    "sentimiento": "positivo",
     "evidencia_clasificacion": [],
     "canal": "WhatsApp Ambiente",
     "fecha": "2026-06-17",
@@ -9624,13 +9624,18 @@
       "Pje 1 de mayo 1050",
       "Hola"
     ],
-    "ultimaActualizacion": "2026-07-14T14:33:32.741Z",
-    "ultimoMensaje": "Hola buenos dias",
+    "ultimaActualizacion": "2026-07-14T14:33:58.635Z",
+    "ultimoMensaje": "Necesito sacar estas chapa y madera",
     "historialMensajes": [
       {
         "texto": "Hola buenos dias",
         "fecha": "2026-07-14T14:33:32.741Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Necesito sacar estas chapa y madera",
+        "fecha": "2026-07-14T14:33:58.635Z",
+        "sentimiento": "positivo"
       }
     ]
   },
@@ -43837,6 +43842,24 @@
       {
         "texto": "Retiran residuos de obra embolsados de barrio Kennedy?",
         "fecha": "2026-07-14T14:21:05.487Z",
+        "sentimiento": "neutro"
+      }
+    ]
+  },
+  {
+    "numero": "178206866931736",
+    "celular": "+54 9 3815 395-105",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Hola buenos dias",
+    "mensaje": "Hola buenos dias",
+    "fecha": "2026-07-14T14:34:03.500Z",
+    "ultimaActualizacion": "2026-07-14T14:34:03.500Z",
+    "historialMensajes": [
+      {
+        "texto": "Hola buenos dias",
+        "fecha": "2026-07-14T14:34:03.500Z",
         "sentimiento": "neutro"
       }
     ]
