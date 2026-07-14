@@ -44398,5 +44398,23 @@
         "sentimiento": "positivo"
       }
     ]
+  },
+  {
+    "numero": "127951723073731",
+    "celular": "+54 9 3812 073-504",
+    "nombre": "",
+    "direccion": "Monteagudo 480",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Hola, necesito que retiren un termotanque usado. Monteagudo 480 piso 6. Celular 381 207-3504. Gracias",
+    "mensaje": "Hola, necesito que retiren un termotanque usado. Monteagudo 480 piso 6. Celular 381 207-3504. Gracias",
+    "fecha": "2026-07-14T17:01:16.343Z",
+    "ultimaActualizacion": "2026-07-14T17:01:16.343Z",
+    "historialMensajes": [
+      {
+        "texto": "Hola, necesito que retiren un termotanque usado. Monteagudo 480 piso 6. Celular 381 207-3504. Gracias",
+        "fecha": "2026-07-14T17:01:16.343Z",
+        "sentimiento": "positivo"
+      }
+    ]
   }
 ]
