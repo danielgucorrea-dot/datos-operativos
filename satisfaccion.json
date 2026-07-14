@@ -43167,5 +43167,28 @@
         "sentimiento": "neutro"
       }
     ]
+  },
+  {
+    "numero": "277094261117044",
+    "celular": "+54 9 3814 181-691",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Y necesito la dirección para visitar",
+    "mensaje": "Me podría enviar el vídeo para compartir??",
+    "fecha": "2026-07-14T12:50:50.283Z",
+    "ultimaActualizacion": "2026-07-14T12:51:30.688Z",
+    "historialMensajes": [
+      {
+        "texto": "Me podría enviar el vídeo para compartir??",
+        "fecha": "2026-07-14T12:50:50.283Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Y necesito la dirección para visitar",
+        "fecha": "2026-07-14T12:51:30.688Z",
+        "sentimiento": "neutro"
+      }
+    ]
   }
 ]
