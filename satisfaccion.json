@@ -4524,7 +4524,15 @@
       "Barrio ATEP 2 pasaje 11/88 sur oeste",
       "Buen Día !!"
     ],
-    "ultimaActualizacion": "2026-06-26"
+    "ultimaActualizacion": "2026-07-28T15:00:21.847Z",
+    "ultimoMensaje": "Buen Día",
+    "historialMensajes": [
+      {
+        "texto": "Buen Día",
+        "fecha": "2026-07-28T15:00:21.847Z",
+        "sentimiento": "neutro"
+      }
+    ]
   },
   {
     "numero": "19074151137454",
