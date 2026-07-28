@@ -45551,10 +45551,10 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "positivo",
-    "ultimoMensaje": "Nadie retiro y me llamaron para preg si lo habían hecho ese fue el motivo por lo que les volví a hablar",
+    "ultimoMensaje": "Y ayer fue el primer dia hábil de que hice el pedido o ustedes sabado y domingo retiran y encima con partido de futbol  no pasaron",
     "mensaje": "Buenis dias",
     "fecha": "2026-07-28T14:19:38.382Z",
-    "ultimaActualizacion": "2026-07-28T14:21:15.779Z",
+    "ultimaActualizacion": "2026-07-28T14:23:07.811Z",
     "historialMensajes": [
       {
         "texto": "Buenis dias",
@@ -45569,6 +45569,11 @@
       {
         "texto": "Nadie retiro y me llamaron para preg si lo habían hecho ese fue el motivo por lo que les volví a hablar",
         "fecha": "2026-07-28T14:21:15.779Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Y ayer fue el primer dia hábil de que hice el pedido o ustedes sabado y domingo retiran y encima con partido de futbol  no pasaron",
+        "fecha": "2026-07-28T14:23:07.811Z",
         "sentimiento": "positivo"
       }
     ]
