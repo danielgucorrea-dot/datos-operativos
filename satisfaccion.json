@@ -46553,11 +46553,11 @@
     "celular": "+54 9 3815 076-807",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Necesito",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Para retirar unas ramas",
     "mensaje": "Hola buenas tardes",
     "fecha": "2026-07-28T17:18:04.597Z",
-    "ultimaActualizacion": "2026-07-28T17:18:10.134Z",
+    "ultimaActualizacion": "2026-07-28T17:18:23.713Z",
     "historialMensajes": [
       {
         "texto": "Hola buenas tardes",
@@ -46568,6 +46568,11 @@
         "texto": "Necesito",
         "fecha": "2026-07-28T17:18:10.134Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Para retirar unas ramas",
+        "fecha": "2026-07-28T17:18:23.713Z",
+        "sentimiento": "positivo"
       }
     ]
   }
