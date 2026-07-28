@@ -4546,7 +4546,7 @@
     "celular": "+54 9 3815 946-433",
     "nombre": "",
     "direccion": "Barrio ATEP",
-    "sentimiento": "neutro",
+    "sentimiento": "positivo",
     "evidencia_clasificacion": [],
     "canal": "WhatsApp Ambiente",
     "fecha": "2026-06-26",
@@ -4560,13 +4560,18 @@
       "Barrio ATEP 2 pasaje 11/88 sur oeste",
       "Buen Día !!"
     ],
-    "ultimaActualizacion": "2026-07-28T15:00:21.847Z",
-    "ultimoMensaje": "Buen Día",
+    "ultimaActualizacion": "2026-07-28T16:08:42.192Z",
+    "ultimoMensaje": "Se puede sacar la basura que está en Filosofía",
     "historialMensajes": [
       {
         "texto": "Buen Día",
         "fecha": "2026-07-28T15:00:21.847Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Se puede sacar la basura que está en Filosofía",
+        "fecha": "2026-07-28T16:08:42.192Z",
+        "sentimiento": "positivo"
       }
     ]
   },
