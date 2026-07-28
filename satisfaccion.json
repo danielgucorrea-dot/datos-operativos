@@ -46639,5 +46639,23 @@
         "sentimiento": "neutro"
       }
     ]
+  },
+  {
+    "numero": "220245939740925",
+    "celular": "+54 9 3814 498-896",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Muchas gracias por la limpieza de los escombros que había en el lugar.",
+    "mensaje": "Muchas gracias por la limpieza de los escombros que había en el lugar.",
+    "fecha": "2026-07-28T19:51:30.616Z",
+    "ultimaActualizacion": "2026-07-28T19:51:30.616Z",
+    "historialMensajes": [
+      {
+        "texto": "Muchas gracias por la limpieza de los escombros que había en el lugar.",
+        "fecha": "2026-07-28T19:51:30.616Z",
+        "sentimiento": "positivo"
+      }
+    ]
   }
 ]
