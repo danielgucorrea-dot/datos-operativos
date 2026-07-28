@@ -46154,10 +46154,10 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "neutro",
-    "ultimoMensaje": "Por telefono",
+    "ultimoMensaje": "Llame ayer",
     "mensaje": "Esas chapas y las bolsas que están atrás, la mitad es basura normal, las otras tienen escombros",
     "fecha": "2026-07-28T15:20:38.589Z",
-    "ultimaActualizacion": "2026-07-28T15:35:09.884Z",
+    "ultimaActualizacion": "2026-07-28T15:35:11.832Z",
     "historialMensajes": [
       {
         "texto": "Esas chapas y las bolsas que están atrás, la mitad es basura normal, las otras tienen escombros",
@@ -46177,6 +46177,11 @@
       {
         "texto": "Por telefono",
         "fecha": "2026-07-28T15:35:09.884Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Llame ayer",
+        "fecha": "2026-07-28T15:35:11.832Z",
         "sentimiento": "neutro"
       }
     ]
