@@ -45238,17 +45238,12 @@
     "celular": "+54 9 3815 076-203",
     "nombre": "",
     "direccion": "Rondeau 2342",
-    "sentimiento": "positivo",
-    "ultimoMensaje": "Esta es la rama mas grande.",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Hoy?",
     "mensaje": "Buen dia",
     "fecha": "2026-07-28T12:42:35.243Z",
-    "ultimaActualizacion": "2026-07-28T15:00:04.014Z",
+    "ultimaActualizacion": "2026-07-28T15:01:10.556Z",
     "historialMensajes": [
-      {
-        "texto": "Rondeau 2342, san miguel de tucuman",
-        "fecha": "2026-07-28T12:49:22.482Z",
-        "sentimiento": "neutro"
-      },
       {
         "texto": "Cuando pueden pasar a retirarlos?",
         "fecha": "2026-07-28T12:49:43.603Z",
@@ -45293,6 +45288,11 @@
         "texto": "Esta es la rama mas grande.",
         "fecha": "2026-07-28T15:00:04.014Z",
         "sentimiento": "positivo"
+      },
+      {
+        "texto": "Hoy?",
+        "fecha": "2026-07-28T15:01:10.556Z",
+        "sentimiento": "neutro"
       }
     ]
   },
