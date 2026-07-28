@@ -46154,10 +46154,10 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "neutro",
-    "ultimoMensaje": "Llame ayer",
+    "ultimoMensaje": "No, a otro número que estaba en Internet",
     "mensaje": "Esas chapas y las bolsas que están atrás, la mitad es basura normal, las otras tienen escombros",
     "fecha": "2026-07-28T15:20:38.589Z",
-    "ultimaActualizacion": "2026-07-28T15:35:11.832Z",
+    "ultimaActualizacion": "2026-07-28T15:36:00.552Z",
     "historialMensajes": [
       {
         "texto": "Esas chapas y las bolsas que están atrás, la mitad es basura normal, las otras tienen escombros",
@@ -46182,6 +46182,11 @@
       {
         "texto": "Llame ayer",
         "fecha": "2026-07-28T15:35:11.832Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "No, a otro número que estaba en Internet",
+        "fecha": "2026-07-28T15:36:00.552Z",
         "sentimiento": "neutro"
       }
     ]
