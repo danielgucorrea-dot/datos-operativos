@@ -37399,7 +37399,7 @@
     "celular": "+54 9 3813 368-999",
     "nombre": "",
     "direccion": "barrio POLICIAL",
-    "sentimiento": "positivo",
+    "sentimiento": "neutro",
     "evidencia_clasificacion": [
       "muchas gracias\\s*$"
     ],
@@ -37415,7 +37415,15 @@
       "Quedó a la espera d buenas noticias.  GRACIAS",
       "Buenos días, x favor podrían retirar ramas, q están colocadas en la vereda d mi domicilio, Mza I casa 1 o Frías Silva y Mercedes d San Martín,  barrio POLICIAL 4, altura Diagonal Sur al 3400. (Av Allem) no sé  mandar ubicación soy grande. Le envió fotos, desde ya muchas GRACIAS"
     ],
-    "ultimaActualizacion": "2026-04-08"
+    "ultimaActualizacion": "2026-07-28T14:34:17.613Z",
+    "ultimoMensaje": "Barrio policial 4 manzana i casa 1",
+    "historialMensajes": [
+      {
+        "texto": "Barrio policial 4 manzana i casa 1",
+        "fecha": "2026-07-28T14:34:17.613Z",
+        "sentimiento": "neutro"
+      }
+    ]
   },
   {
     "numero": "111149475475508",
