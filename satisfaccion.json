@@ -44969,5 +44969,23 @@
         "sentimiento": "positivo"
       }
     ]
+  },
+  {
+    "numero": "28742005055559",
+    "celular": "+54 9 3813 935-608",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Buen dia, y con el resto que hago?",
+    "mensaje": "Buen dia, y con el resto que hago?",
+    "fecha": "2026-07-28T12:19:43.269Z",
+    "ultimaActualizacion": "2026-07-28T12:19:43.269Z",
+    "historialMensajes": [
+      {
+        "texto": "Buen dia, y con el resto que hago?",
+        "fecha": "2026-07-28T12:19:43.269Z",
+        "sentimiento": "neutro"
+      }
+    ]
   }
 ]
