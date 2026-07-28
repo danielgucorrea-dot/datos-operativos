@@ -46294,11 +46294,11 @@
     "celular": "+54 9 3813 940-905",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "positivo",
-    "ultimoMensaje": "Yo debo denunciar? O como es , disculpe mi ignorancia",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Pero ya sabe la dirección",
     "mensaje": "Buen día pero igual yo ví que ustedes entran a las casas y hacen ustedes la limpieza , yo a quien tengo que demandar por esto que hacen ? De tirar la basura en ese lugar",
     "fecha": "2026-07-28T15:53:59.030Z",
-    "ultimaActualizacion": "2026-07-28T16:00:40.250Z",
+    "ultimaActualizacion": "2026-07-28T16:03:47.993Z",
     "historialMensajes": [
       {
         "texto": "Buen día pero igual yo ví que ustedes entran a las casas y hacen ustedes la limpieza , yo a quien tengo que demandar por esto que hacen ? De tirar la basura en ese lugar",
@@ -46329,6 +46329,29 @@
         "texto": "Yo debo denunciar? O como es , disculpe mi ignorancia",
         "fecha": "2026-07-28T16:00:40.250Z",
         "sentimiento": "positivo"
+      },
+      {
+        "texto": "Pero ya sabe la dirección",
+        "fecha": "2026-07-28T16:03:47.993Z",
+        "sentimiento": "neutro"
+      }
+    ]
+  },
+  {
+    "numero": "61688749506800",
+    "celular": "+54 9 3815 082-983",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Buenas tardes",
+    "mensaje": "Buenas tardes",
+    "fecha": "2026-07-28T16:03:35.696Z",
+    "ultimaActualizacion": "2026-07-28T16:03:35.696Z",
+    "historialMensajes": [
+      {
+        "texto": "Buenas tardes",
+        "fecha": "2026-07-28T16:03:35.696Z",
+        "sentimiento": "neutro"
       }
     ]
   }
