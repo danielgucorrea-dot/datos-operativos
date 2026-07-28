@@ -31180,7 +31180,15 @@
       "Tengo 2 bolsas de escombros  para que lo retiren. Será posible  ? Gracias",
       "Buenas tardes"
     ],
-    "ultimaActualizacion": "2026-04-28"
+    "ultimaActualizacion": "2026-07-28T12:26:14.424Z",
+    "ultimoMensaje": "Perfecto , muchas gracias!!!",
+    "historialMensajes": [
+      {
+        "texto": "Perfecto , muchas gracias!!!",
+        "fecha": "2026-07-28T12:26:14.424Z",
+        "sentimiento": "positivo"
+      }
+    ]
   },
   {
     "numero": "90641157607451",
@@ -44985,6 +44993,24 @@
         "texto": "Buen dia, y con el resto que hago?",
         "fecha": "2026-07-28T12:19:43.269Z",
         "sentimiento": "neutro"
+      }
+    ]
+  },
+  {
+    "numero": "195266460262619",
+    "celular": "+54 9 3815 192-787",
+    "nombre": "",
+    "direccion": "Malabia 900",
+    "sentimiento": "negativo",
+    "ultimoMensaje": "Malabia 900. Se sigue generando basural, por falta de recolección!!!",
+    "mensaje": "Malabia 900. Se sigue generando basural, por falta de recolección!!!",
+    "fecha": "2026-07-28T12:25:49.672Z",
+    "ultimaActualizacion": "2026-07-28T12:25:49.672Z",
+    "historialMensajes": [
+      {
+        "texto": "Malabia 900. Se sigue generando basural, por falta de recolección!!!",
+        "fecha": "2026-07-28T12:25:49.672Z",
+        "sentimiento": "negativo"
       }
     ]
   }
