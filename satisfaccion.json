@@ -45448,16 +45448,21 @@
     "celular": "+54 9 3815 734-490",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Hola buenos dias",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Necesitarías que levante unas maderas de mi domicilio",
     "mensaje": "Hola buenos dias",
     "fecha": "2026-07-28T14:11:47.130Z",
-    "ultimaActualizacion": "2026-07-28T14:11:47.130Z",
+    "ultimaActualizacion": "2026-07-28T14:12:22.095Z",
     "historialMensajes": [
       {
         "texto": "Hola buenos dias",
         "fecha": "2026-07-28T14:11:47.130Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Necesitarías que levante unas maderas de mi domicilio",
+        "fecha": "2026-07-28T14:12:22.095Z",
+        "sentimiento": "positivo"
       }
     ]
   }
