@@ -45151,16 +45151,21 @@
     "celular": "+54 9 3815 192-787",
     "nombre": "",
     "direccion": "Malabia 900",
-    "sentimiento": "negativo",
-    "ultimoMensaje": "Malabia 900. Se sigue generando basural, por falta de recolección!!!",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Buen día. \nEspero que limpien!!!",
     "mensaje": "Malabia 900. Se sigue generando basural, por falta de recolección!!!",
     "fecha": "2026-07-28T12:25:49.672Z",
-    "ultimaActualizacion": "2026-07-28T12:25:49.672Z",
+    "ultimaActualizacion": "2026-07-28T14:29:29.899Z",
     "historialMensajes": [
       {
         "texto": "Malabia 900. Se sigue generando basural, por falta de recolección!!!",
         "fecha": "2026-07-28T12:25:49.672Z",
         "sentimiento": "negativo"
+      },
+      {
+        "texto": "Buen día. \nEspero que limpien!!!",
+        "fecha": "2026-07-28T14:29:29.899Z",
+        "sentimiento": "neutro"
       }
     ]
   },
@@ -45399,16 +45404,21 @@
     "celular": "+54 9 3815 166-514",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Buen dia",
+    "sentimiento": "negativo",
+    "ultimoMensaje": "Buen dia! Para solicitar barrendero para la cuadra de mi barrio, nunca pasan. Por favor",
     "mensaje": "Buen dia",
     "fecha": "2026-07-28T13:42:56.909Z",
-    "ultimaActualizacion": "2026-07-28T13:42:56.909Z",
+    "ultimaActualizacion": "2026-07-28T14:29:46.446Z",
     "historialMensajes": [
       {
         "texto": "Buen dia",
         "fecha": "2026-07-28T13:42:56.909Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Buen dia! Para solicitar barrendero para la cuadra de mi barrio, nunca pasan. Por favor",
+        "fecha": "2026-07-28T14:29:46.446Z",
+        "sentimiento": "negativo"
       }
     ]
   },
