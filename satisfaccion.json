@@ -45821,10 +45821,10 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "neutro",
-    "ultimoMensaje": "Es posible que envíen a alguien??",
+    "ultimoMensaje": "Este mismo número es para pedir la poda de un árbol que esta em la vereda??",
     "mensaje": "Buen día",
     "fecha": "2026-07-28T14:35:27.091Z",
-    "ultimaActualizacion": "2026-07-28T14:51:23.350Z",
+    "ultimaActualizacion": "2026-07-28T15:21:09.712Z",
     "historialMensajes": [
       {
         "texto": "Buen día",
@@ -45834,6 +45834,11 @@
       {
         "texto": "Es posible que envíen a alguien??",
         "fecha": "2026-07-28T14:51:23.350Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Este mismo número es para pedir la poda de un árbol que esta em la vereda??",
+        "fecha": "2026-07-28T15:21:09.712Z",
         "sentimiento": "neutro"
       }
     ]
@@ -46085,11 +46090,11 @@
     "celular": "+54 9 3813 393-856",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "neutro",
-    "ultimoMensaje": "No se que cantidad podrán llevar",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Pero lo que mas puedan retirar les voy a agradecer",
     "mensaje": "Esas chapas y las bolsas que están atrás, la mitad es basura normal, las otras tienen escombros",
     "fecha": "2026-07-28T15:20:38.589Z",
-    "ultimaActualizacion": "2026-07-28T15:20:45.415Z",
+    "ultimaActualizacion": "2026-07-28T15:21:04.095Z",
     "historialMensajes": [
       {
         "texto": "Esas chapas y las bolsas que están atrás, la mitad es basura normal, las otras tienen escombros",
@@ -46100,6 +46105,11 @@
         "texto": "No se que cantidad podrán llevar",
         "fecha": "2026-07-28T15:20:45.415Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Pero lo que mas puedan retirar les voy a agradecer",
+        "fecha": "2026-07-28T15:21:04.095Z",
+        "sentimiento": "positivo"
       }
     ]
   }
