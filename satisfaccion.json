@@ -45350,5 +45350,28 @@
         "sentimiento": "neutro"
       }
     ]
+  },
+  {
+    "numero": "60889801687061",
+    "celular": "+54 9 3816 388-390",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Puede ser dentro de hoy?",
+    "mensaje": "Para que busquen algo asi se lo lleven",
+    "fecha": "2026-07-28T13:49:46.164Z",
+    "ultimaActualizacion": "2026-07-28T13:50:02.507Z",
+    "historialMensajes": [
+      {
+        "texto": "Para que busquen algo asi se lo lleven",
+        "fecha": "2026-07-28T13:49:46.164Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Puede ser dentro de hoy?",
+        "fecha": "2026-07-28T13:50:02.507Z",
+        "sentimiento": "neutro"
+      }
+    ]
   }
 ]
