@@ -30866,7 +30866,7 @@
     "celular": "+54 9 3816 757-723",
     "nombre": "",
     "direccion": "Av Francisco de Aguirre al 1600",
-    "sentimiento": "neutro",
+    "sentimiento": "positivo",
     "evidencia_clasificacion": [],
     "canal": "WhatsApp Ambiente",
     "fecha": "2026-04-29",
@@ -30880,7 +30880,15 @@
       "En vereda Av Francisco de Aguirre al 1600",
       "Gente tirando basura"
     ],
-    "ultimaActualizacion": "2026-04-29"
+    "ultimaActualizacion": "2026-07-28T14:12:49.390Z",
+    "ultimoMensaje": "3 dias ? Ok ok gracias",
+    "historialMensajes": [
+      {
+        "texto": "3 dias ? Ok ok gracias",
+        "fecha": "2026-07-28T14:12:49.390Z",
+        "sentimiento": "positivo"
+      }
+    ]
   },
   {
     "numero": "24687589503068",
@@ -45470,16 +45478,21 @@
     "numero": "162023497289881",
     "celular": "+54 9 3816 787-868",
     "nombre": "",
-    "direccion": null,
+    "direccion": "Córdoba 797",
     "sentimiento": "neutro",
-    "ultimoMensaje": "5 bolsas",
+    "ultimoMensaje": "Córdoba 797",
     "mensaje": "5 bolsas",
     "fecha": "2026-07-28T14:12:45.980Z",
-    "ultimaActualizacion": "2026-07-28T14:12:45.980Z",
+    "ultimaActualizacion": "2026-07-28T14:12:51.658Z",
     "historialMensajes": [
       {
         "texto": "5 bolsas",
         "fecha": "2026-07-28T14:12:45.980Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Córdoba 797",
+        "fecha": "2026-07-28T14:12:51.658Z",
         "sentimiento": "neutro"
       }
     ]
