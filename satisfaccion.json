@@ -45751,10 +45751,10 @@
     "nombre": "",
     "direccion": "Es en Lamadrid 875",
     "sentimiento": "positivo",
-    "ultimoMensaje": "Es la puerta de ingreso de la Facultad de Medicina",
+    "ultimoMensaje": "Muchas gracias.",
     "mensaje": "Buen día, si. Es en Lamadrid 875",
     "fecha": "2026-07-28T14:45:48.625Z",
-    "ultimaActualizacion": "2026-07-28T14:45:58.106Z",
+    "ultimaActualizacion": "2026-07-28T14:49:52.464Z",
     "historialMensajes": [
       {
         "texto": "Buen día, si. Es en Lamadrid 875",
@@ -45764,6 +45764,11 @@
       {
         "texto": "Es la puerta de ingreso de la Facultad de Medicina",
         "fecha": "2026-07-28T14:45:58.106Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Muchas gracias.",
+        "fecha": "2026-07-28T14:49:52.464Z",
         "sentimiento": "positivo"
       }
     ]
