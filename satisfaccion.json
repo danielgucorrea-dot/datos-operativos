@@ -45820,11 +45820,11 @@
     "celular": "+54 9 3816 787-724",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Este mismo número es para pedir la poda de un árbol que esta em la vereda??",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Gracias!",
     "mensaje": "Buen día",
     "fecha": "2026-07-28T14:35:27.091Z",
-    "ultimaActualizacion": "2026-07-28T15:21:09.712Z",
+    "ultimaActualizacion": "2026-07-28T15:24:29.755Z",
     "historialMensajes": [
       {
         "texto": "Buen día",
@@ -45840,6 +45840,11 @@
         "texto": "Este mismo número es para pedir la poda de un árbol que esta em la vereda??",
         "fecha": "2026-07-28T15:21:09.712Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Gracias!",
+        "fecha": "2026-07-28T15:24:29.755Z",
+        "sentimiento": "positivo"
       }
     ]
   },
