@@ -45705,14 +45705,19 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "neutro",
-    "ultimoMensaje": "Buen día",
+    "ultimoMensaje": "Es posible que envíen a alguien??",
     "mensaje": "Buen día",
     "fecha": "2026-07-28T14:35:27.091Z",
-    "ultimaActualizacion": "2026-07-28T14:35:27.091Z",
+    "ultimaActualizacion": "2026-07-28T14:51:23.350Z",
     "historialMensajes": [
       {
         "texto": "Buen día",
         "fecha": "2026-07-28T14:35:27.091Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Es posible que envíen a alguien??",
+        "fecha": "2026-07-28T14:51:23.350Z",
         "sentimiento": "neutro"
       }
     ]
