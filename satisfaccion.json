@@ -42230,10 +42230,10 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "neutro",
-    "ultimoMensaje": "buen dia perdon",
+    "ultimoMensaje": "ya le paso a clarita",
     "mensaje": "buen dia",
     "fecha": "2026-07-13T12:35:57.936Z",
-    "ultimaActualizacion": "2026-07-28T14:08:36.358Z",
+    "ultimaActualizacion": "2026-07-28T15:38:39.432Z",
     "historialMensajes": [
       {
         "texto": "buen dia",
@@ -42273,6 +42273,16 @@
       {
         "texto": "buen dia perdon",
         "fecha": "2026-07-28T14:08:36.358Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "a salud ambiental",
+        "fecha": "2026-07-28T15:38:37.551Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "ya le paso a clarita",
+        "fecha": "2026-07-28T15:38:39.432Z",
         "sentimiento": "neutro"
       }
     ]
