@@ -46657,5 +46657,41 @@
         "sentimiento": "positivo"
       }
     ]
+  },
+  {
+    "numero": "107829616750820",
+    "celular": "+54 9 3816 331-873",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Buenas tardes ya está la basura que sacamos del fondo , todo en la vereda así uds la retiran gracias",
+    "mensaje": "Buenas tardes ya está la basura que sacamos del fondo , todo en la vereda así uds la retiran gracias",
+    "fecha": "2026-07-28T20:05:22.171Z",
+    "ultimaActualizacion": "2026-07-28T20:05:22.171Z",
+    "historialMensajes": [
+      {
+        "texto": "Buenas tardes ya está la basura que sacamos del fondo , todo en la vereda así uds la retiran gracias",
+        "fecha": "2026-07-28T20:05:22.171Z",
+        "sentimiento": "positivo"
+      }
+    ]
+  },
+  {
+    "numero": "154971144220831",
+    "celular": "+54 9 3816 005-726",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Buenas tardes",
+    "mensaje": "Buenas tardes",
+    "fecha": "2026-07-28T20:09:40.606Z",
+    "ultimaActualizacion": "2026-07-28T20:09:40.606Z",
+    "historialMensajes": [
+      {
+        "texto": "Buenas tardes",
+        "fecha": "2026-07-28T20:09:40.606Z",
+        "sentimiento": "neutro"
+      }
+    ]
   }
 ]
