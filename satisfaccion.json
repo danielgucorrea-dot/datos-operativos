@@ -7589,8 +7589,8 @@
       "Lo dejaron frente a mi casa.",
       "Queria informar de esto"
     ],
-    "ultimaActualizacion": "2026-07-28T14:52:22.229Z",
-    "ultimoMensaje": "Estan haciendo un basural ahi",
+    "ultimaActualizacion": "2026-07-28T14:54:37.618Z",
+    "ultimoMensaje": "Como les cerraron el basural en Bon Bosco frente escuela Hamilton. Ahora tiran ahi",
     "historialMensajes": [
       {
         "texto": "Buen dia",
@@ -7600,6 +7600,11 @@
       {
         "texto": "Estan haciendo un basural ahi",
         "fecha": "2026-07-28T14:52:22.229Z",
+        "sentimiento": "negativo"
+      },
+      {
+        "texto": "Como les cerraron el basural en Bon Bosco frente escuela Hamilton. Ahora tiran ahi",
+        "fecha": "2026-07-28T14:54:37.618Z",
         "sentimiento": "negativo"
       }
     ]
