@@ -8176,7 +8176,15 @@
     "conversacion_completa": [
       "Buenos días quería consultar como debo hacer para solicitar se levante las ramas de la poda de 3 árboles medianos de la vereda de mí casa"
     ],
-    "ultimaActualizacion": "2026-06-20"
+    "ultimaActualizacion": "2026-07-28T13:56:26.242Z",
+    "ultimoMensaje": "Si por favor",
+    "historialMensajes": [
+      {
+        "texto": "Si por favor",
+        "fecha": "2026-07-28T13:56:26.242Z",
+        "sentimiento": "neutro"
+      }
+    ]
   },
   {
     "numero": "76549705441496",
