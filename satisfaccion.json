@@ -46506,4 +46506,13 @@
       {
         "texto": "Buenas tardes!!",
         "fecha": "2026-07-28T16:56:38.819Z",
-  
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "NECESITO PORFAS RETIREN 4 BOLSAS CON PASTO ... RECIÉN CORTADO",
+        "fecha": "2026-07-28T16:57:30.308Z",
+        "sentimiento": "negativo"
+      }
+    ]
+  }
+]
