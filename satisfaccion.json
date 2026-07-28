@@ -45156,11 +45156,11 @@
     "celular": "+54 9 3815 192-787",
     "nombre": "",
     "direccion": "Malabia 900",
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Buen día. \nEspero que limpien!!!",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Consulta: se podría colocar un cartel de prohibido arrojar basura?",
     "mensaje": "Malabia 900. Se sigue generando basural, por falta de recolección!!!",
     "fecha": "2026-07-28T12:25:49.672Z",
-    "ultimaActualizacion": "2026-07-28T14:29:29.899Z",
+    "ultimaActualizacion": "2026-07-28T14:30:28.572Z",
     "historialMensajes": [
       {
         "texto": "Malabia 900. Se sigue generando basural, por falta de recolección!!!",
@@ -45171,6 +45171,11 @@
         "texto": "Buen día. \nEspero que limpien!!!",
         "fecha": "2026-07-28T14:29:29.899Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Consulta: se podría colocar un cartel de prohibido arrojar basura?",
+        "fecha": "2026-07-28T14:30:28.572Z",
+        "sentimiento": "positivo"
       }
     ]
   },
@@ -45198,10 +45203,10 @@
     "nombre": "",
     "direccion": "Rondeau 2342",
     "sentimiento": "neutro",
-    "ultimoMensaje": "Cuando pueden pasar a retirarlos?",
+    "ultimoMensaje": "q haces pa?",
     "mensaje": "Buen dia",
     "fecha": "2026-07-28T12:42:35.243Z",
-    "ultimaActualizacion": "2026-07-28T12:49:43.603Z",
+    "ultimaActualizacion": "2026-07-28T14:30:30.720Z",
     "historialMensajes": [
       {
         "texto": "Buen dia",
@@ -45221,6 +45226,11 @@
       {
         "texto": "Cuando pueden pasar a retirarlos?",
         "fecha": "2026-07-28T12:49:43.603Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "q haces pa?",
+        "fecha": "2026-07-28T14:30:30.720Z",
         "sentimiento": "neutro"
       }
     ]
