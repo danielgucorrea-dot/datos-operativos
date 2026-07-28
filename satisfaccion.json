@@ -45545,16 +45545,21 @@
     "celular": "+54 9 3813 945-049",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Buenis dias",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Desde ayer estuvieron en la vereda",
     "mensaje": "Buenis dias",
     "fecha": "2026-07-28T14:19:38.382Z",
-    "ultimaActualizacion": "2026-07-28T14:19:38.382Z",
+    "ultimaActualizacion": "2026-07-28T14:20:01.636Z",
     "historialMensajes": [
       {
         "texto": "Buenis dias",
         "fecha": "2026-07-28T14:19:38.382Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Desde ayer estuvieron en la vereda",
+        "fecha": "2026-07-28T14:20:01.636Z",
+        "sentimiento": "positivo"
       }
     ]
   }
