@@ -45651,16 +45651,21 @@
     "celular": "+54 9 3815 755-272",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Buenos días",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Me van a retirar las 5 bolsas",
     "mensaje": "Buenos días",
     "fecha": "2026-07-28T14:34:37.275Z",
-    "ultimaActualizacion": "2026-07-28T14:34:37.275Z",
+    "ultimaActualizacion": "2026-07-28T14:35:05.141Z",
     "historialMensajes": [
       {
         "texto": "Buenos días",
         "fecha": "2026-07-28T14:34:37.275Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Me van a retirar las 5 bolsas",
+        "fecha": "2026-07-28T14:35:05.141Z",
+        "sentimiento": "positivo"
       }
     ]
   }
