@@ -7602,7 +7602,7 @@
     "celular": "+54 9 3816 333-341",
     "nombre": "",
     "direccion": "Pasaje Raul Galan 4075",
-    "sentimiento": "negativo",
+    "sentimiento": "neutro",
     "evidencia_clasificacion": [],
     "canal": "WhatsApp Ambiente",
     "fecha": "2026-06-22",
@@ -7615,8 +7615,8 @@
       "Lo dejaron frente a mi casa.",
       "Queria informar de esto"
     ],
-    "ultimaActualizacion": "2026-07-28T14:54:37.618Z",
-    "ultimoMensaje": "Como les cerraron el basural en Bon Bosco frente escuela Hamilton. Ahora tiran ahi",
+    "ultimaActualizacion": "2026-07-28T15:25:59.637Z",
+    "ultimoMensaje": "Muchas gracias por su respuesta",
     "historialMensajes": [
       {
         "texto": "Buen dia",
@@ -7632,6 +7632,11 @@
         "texto": "Como les cerraron el basural en Bon Bosco frente escuela Hamilton. Ahora tiran ahi",
         "fecha": "2026-07-28T14:54:37.618Z",
         "sentimiento": "negativo"
+      },
+      {
+        "texto": "Muchas gracias por su respuesta",
+        "fecha": "2026-07-28T15:25:59.637Z",
+        "sentimiento": "neutro"
       }
     ]
   },
