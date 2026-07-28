@@ -490,7 +490,7 @@
     "celular": "+54 9 3816 350-459",
     "nombre": "",
     "direccion": "pje primera junta al 1100",
-    "sentimiento": "neutro",
+    "sentimiento": "positivo",
     "evidencia_clasificacion": [],
     "canal": "WhatsApp Ambiente",
     "fecha": "2026-06-08",
@@ -503,8 +503,8 @@
       "Buenos días perfecto",
       "Buenos días mi vecina de pje primera junta 1090 dejando su basura en la esquina de La Plata y pje primera junta"
     ],
-    "ultimaActualizacion": "2026-07-28T15:15:12.985Z",
-    "ultimoMensaje": "Esquina pje primera junta",
+    "ultimaActualizacion": "2026-07-28T15:49:46.420Z",
+    "ultimoMensaje": "Gracias",
     "historialMensajes": [
       {
         "texto": "Buenas tardes",
@@ -525,6 +525,11 @@
         "texto": "Esquina pje primera junta",
         "fecha": "2026-07-28T15:15:12.985Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Gracias",
+        "fecha": "2026-07-28T15:49:46.420Z",
+        "sentimiento": "positivo"
       }
     ]
   },
@@ -46029,12 +46034,12 @@
     "numero": "170171285172266",
     "celular": "+54 9 3812 123-264",
     "nombre": "",
-    "direccion": null,
+    "direccion": "Barrio mutualidad provincial mz",
     "sentimiento": "neutro",
-    "ultimoMensaje": "Muebles \nElectrodomésticos \nMaderas\nRamas",
+    "ultimoMensaje": "Barrio mutualidad provincial mz F casa 3\nEudoro Aráoz y lidoro quintero \nFrente la plaza principal del barrio",
     "mensaje": "Hola buenos días",
     "fecha": "2026-07-28T14:51:33.245Z",
-    "ultimaActualizacion": "2026-07-28T15:35:02.556Z",
+    "ultimaActualizacion": "2026-07-28T15:49:56.192Z",
     "historialMensajes": [
       {
         "texto": "Hola buenos días",
@@ -46064,6 +46069,11 @@
       {
         "texto": "Muebles \nElectrodomésticos \nMaderas\nRamas",
         "fecha": "2026-07-28T15:35:02.556Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Barrio mutualidad provincial mz F casa 3\nEudoro Aráoz y lidoro quintero \nFrente la plaza principal del barrio",
+        "fecha": "2026-07-28T15:49:56.192Z",
         "sentimiento": "neutro"
       }
     ]
@@ -46148,10 +46158,10 @@
     "nombre": "",
     "direccion": "Frente escuela 49",
     "sentimiento": "neutro",
-    "ultimoMensaje": "Buen ahi mando foto",
+    "ultimoMensaje": "Cada día se va haciendo mas grande .y yo  tengo negocio venta alimentos. Sobre esquina juan posse .",
     "mensaje": "Buen dia . X favor podrian mandar a sacar basura acumulada en blas parera esq juan posse. Frente escuela 49.y barera parera . Es permanente el problema  en estas cuadra .gente inescrupulosa q tiran desde vehiculos o dan a chicos drogadictos y tiran x todas partes . Aca esq de j.posse y Martin Berro . Habia un contenedor q gracias a Dios sacaron. X q era junta de gente mal vivir  y de todo tipo de alimañas .(Ratas,alacranes,moscaetc)",
     "fecha": "2026-07-28T15:16:19.861Z",
-    "ultimaActualizacion": "2026-07-28T15:47:47.880Z",
+    "ultimaActualizacion": "2026-07-28T15:49:47.804Z",
     "historialMensajes": [
       {
         "texto": "Buen dia . X favor podrian mandar a sacar basura acumulada en blas parera esq juan posse. Frente escuela 49.y barera parera . Es permanente el problema  en estas cuadra .gente inescrupulosa q tiran de",
@@ -46166,6 +46176,11 @@
       {
         "texto": "Buen ahi mando foto",
         "fecha": "2026-07-28T15:47:47.880Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Cada día se va haciendo mas grande .y yo  tengo negocio venta alimentos. Sobre esquina juan posse .",
+        "fecha": "2026-07-28T15:49:47.804Z",
         "sentimiento": "neutro"
       }
     ]
