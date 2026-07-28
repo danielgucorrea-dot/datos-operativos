@@ -45616,11 +45616,11 @@
     "celular": "+54 9 3815 166-514",
     "nombre": "",
     "direccion": "barrio Padilla",
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Altura España 4400",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Muchas gracias!!!",
     "mensaje": "Buen dia",
     "fecha": "2026-07-28T13:42:56.909Z",
-    "ultimaActualizacion": "2026-07-28T15:08:26.339Z",
+    "ultimaActualizacion": "2026-07-28T15:46:13.166Z",
     "historialMensajes": [
       {
         "texto": "Buen dia",
@@ -45646,6 +45646,11 @@
         "texto": "Altura España 4400",
         "fecha": "2026-07-28T15:08:26.339Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Muchas gracias!!!",
+        "fecha": "2026-07-28T15:46:13.166Z",
+        "sentimiento": "positivo"
       }
     ]
   },
