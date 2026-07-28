@@ -45231,16 +45231,11 @@
     "nombre": "",
     "direccion": "Rondeau 2342",
     "sentimiento": "positivo",
-    "ultimoMensaje": "para que no este obstruyendo el transito de la gente en la vereda",
+    "ultimoMensaje": "Los puse sobre mi garage",
     "mensaje": "Buen dia",
     "fecha": "2026-07-28T12:42:35.243Z",
-    "ultimaActualizacion": "2026-07-28T14:48:46.655Z",
+    "ultimaActualizacion": "2026-07-28T14:59:02.321Z",
     "historialMensajes": [
-      {
-        "texto": "Buen dia",
-        "fecha": "2026-07-28T12:42:35.243Z",
-        "sentimiento": "neutro"
-      },
       {
         "texto": "Tengo residuos de poda de arbol",
         "fecha": "2026-07-28T12:42:54.491Z",
@@ -45284,6 +45279,11 @@
       {
         "texto": "para que no este obstruyendo el transito de la gente en la vereda",
         "fecha": "2026-07-28T14:48:46.655Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Los puse sobre mi garage",
+        "fecha": "2026-07-28T14:59:02.321Z",
         "sentimiento": "positivo"
       }
     ]
@@ -45862,14 +45862,24 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "neutro",
-    "ultimoMensaje": "Hola buenos días",
+    "ultimoMensaje": "Q requisitos necesito",
     "mensaje": "Hola buenos días",
     "fecha": "2026-07-28T14:51:33.245Z",
-    "ultimaActualizacion": "2026-07-28T14:51:33.245Z",
+    "ultimaActualizacion": "2026-07-28T14:56:09.392Z",
     "historialMensajes": [
       {
         "texto": "Hola buenos días",
         "fecha": "2026-07-28T14:51:33.245Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Para solicitar el servicio",
+        "fecha": "2026-07-28T14:56:06.943Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Q requisitos necesito",
+        "fecha": "2026-07-28T14:56:09.392Z",
         "sentimiento": "neutro"
       }
     ]
