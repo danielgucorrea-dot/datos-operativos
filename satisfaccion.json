@@ -45442,5 +45442,23 @@
         "sentimiento": "neutro"
       }
     ]
+  },
+  {
+    "numero": "217638961709072",
+    "celular": "+54 9 3815 734-490",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Hola buenos dias",
+    "mensaje": "Hola buenos dias",
+    "fecha": "2026-07-28T14:11:47.130Z",
+    "ultimaActualizacion": "2026-07-28T14:11:47.130Z",
+    "historialMensajes": [
+      {
+        "texto": "Hola buenos dias",
+        "fecha": "2026-07-28T14:11:47.130Z",
+        "sentimiento": "neutro"
+      }
+    ]
   }
 ]
