@@ -45803,11 +45803,11 @@
     "celular": "+54 9 3813 936-333",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "negativo",
-    "ultimoMensaje": "Perp quedo mucho escombro y restos de árboles y material",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Si si x favor",
     "mensaje": "Hola",
     "fecha": "2026-07-28T14:49:30.936Z",
-    "ultimaActualizacion": "2026-07-28T14:51:29.803Z",
+    "ultimaActualizacion": "2026-07-28T14:53:17.499Z",
     "historialMensajes": [
       {
         "texto": "Hola",
@@ -45828,6 +45828,11 @@
         "texto": "Perp quedo mucho escombro y restos de árboles y material",
         "fecha": "2026-07-28T14:51:29.803Z",
         "sentimiento": "negativo"
+      },
+      {
+        "texto": "Si si x favor",
+        "fecha": "2026-07-28T14:53:17.499Z",
+        "sentimiento": "neutro"
       }
     ]
   },
