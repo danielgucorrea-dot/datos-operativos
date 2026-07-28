@@ -46085,16 +46085,21 @@
     "celular": "+54 9 3813 393-856",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "negativo",
-    "ultimoMensaje": "Esas chapas y las bolsas que están atrás, la mitad es basura normal, las otras tienen escombros",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "No se que cantidad podrán llevar",
     "mensaje": "Esas chapas y las bolsas que están atrás, la mitad es basura normal, las otras tienen escombros",
     "fecha": "2026-07-28T15:20:38.589Z",
-    "ultimaActualizacion": "2026-07-28T15:20:38.589Z",
+    "ultimaActualizacion": "2026-07-28T15:20:45.415Z",
     "historialMensajes": [
       {
         "texto": "Esas chapas y las bolsas que están atrás, la mitad es basura normal, las otras tienen escombros",
         "fecha": "2026-07-28T15:20:38.589Z",
         "sentimiento": "negativo"
+      },
+      {
+        "texto": "No se que cantidad podrán llevar",
+        "fecha": "2026-07-28T15:20:45.415Z",
+        "sentimiento": "neutro"
       }
     ]
   }
