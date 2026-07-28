@@ -45703,11 +45703,11 @@
     "celular": "+54 9 3815 734-490",
     "nombre": "",
     "direccion": "Barrio ejército Argentino pasaje",
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Familia montivero",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Usted este número y me dijo que cualquier cosa y no importa la cantidad",
     "mensaje": "Hola buenos dias",
     "fecha": "2026-07-28T14:11:47.130Z",
-    "ultimaActualizacion": "2026-07-28T14:15:01.060Z",
+    "ultimaActualizacion": "2026-07-28T15:19:06.383Z",
     "historialMensajes": [
       {
         "texto": "Hola buenos dias",
@@ -45728,6 +45728,11 @@
         "texto": "Familia montivero",
         "fecha": "2026-07-28T14:15:01.060Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Usted este número y me dijo que cualquier cosa y no importa la cantidad",
+        "fecha": "2026-07-28T15:19:06.383Z",
+        "sentimiento": "positivo"
       }
     ]
   },
