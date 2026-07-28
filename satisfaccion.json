@@ -8176,12 +8176,17 @@
     "conversacion_completa": [
       "Buenos días quería consultar como debo hacer para solicitar se levante las ramas de la poda de 3 árboles medianos de la vereda de mí casa"
     ],
-    "ultimaActualizacion": "2026-07-28T13:56:26.242Z",
-    "ultimoMensaje": "Si por favor",
+    "ultimaActualizacion": "2026-07-28T13:57:08.047Z",
+    "ultimoMensaje": "La dirección es: cangalla y pasaje 58/68 suroeste",
     "historialMensajes": [
       {
         "texto": "Si por favor",
         "fecha": "2026-07-28T13:56:26.242Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "La dirección es: cangalla y pasaje 58/68 suroeste",
+        "fecha": "2026-07-28T13:57:08.047Z",
         "sentimiento": "neutro"
       }
     ]
