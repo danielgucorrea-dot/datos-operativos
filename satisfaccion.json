@@ -16575,12 +16575,17 @@
       "Hola tengo muchas ramas , pastoy botellas de vidrio",
       "Hola"
     ],
-    "ultimaActualizacion": "2026-07-28T15:08:13.133Z",
-    "ultimoMensaje": "Justo corta la democracia",
+    "ultimaActualizacion": "2026-07-28T15:08:30.491Z",
+    "ultimoMensaje": "Cuando vendrían",
     "historialMensajes": [
       {
         "texto": "Justo corta la democracia",
         "fecha": "2026-07-28T15:08:13.133Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Cuando vendrían",
+        "fecha": "2026-07-28T15:08:30.491Z",
         "sentimiento": "neutro"
       }
     ]
