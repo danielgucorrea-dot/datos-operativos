@@ -45304,5 +45304,23 @@
         "sentimiento": "neutro"
       }
     ]
+  },
+  {
+    "numero": "162646166913123",
+    "celular": "+54 9 3815 166-514",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Buen dia",
+    "mensaje": "Buen dia",
+    "fecha": "2026-07-28T13:42:56.909Z",
+    "ultimaActualizacion": "2026-07-28T13:42:56.909Z",
+    "historialMensajes": [
+      {
+        "texto": "Buen dia",
+        "fecha": "2026-07-28T13:42:56.909Z",
+        "sentimiento": "neutro"
+      }
+    ]
   }
 ]
