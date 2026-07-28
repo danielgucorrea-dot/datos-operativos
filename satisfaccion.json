@@ -42809,14 +42809,19 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "positivo",
-    "ultimoMensaje": "Muchas gracias lo esperamos",
+    "ultimoMensaje": "Muchísimas gracias",
     "mensaje": "Muchas gracias lo esperamos",
     "fecha": "2026-07-13T16:15:31.146Z",
-    "ultimaActualizacion": "2026-07-13T16:15:31.146Z",
+    "ultimaActualizacion": "2026-07-28T13:28:07.454Z",
     "historialMensajes": [
       {
         "texto": "Muchas gracias lo esperamos",
         "fecha": "2026-07-13T16:15:31.146Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Muchísimas gracias",
+        "fecha": "2026-07-28T13:28:07.454Z",
         "sentimiento": "positivo"
       }
     ]
@@ -45238,6 +45243,24 @@
         "texto": "Necesito que retiren escombros",
         "fecha": "2026-07-28T13:19:42.760Z",
         "sentimiento": "positivo"
+      }
+    ]
+  },
+  {
+    "numero": "207519934873628",
+    "celular": "+54 9 3815 009-700",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Buenos días",
+    "mensaje": "Buenos días",
+    "fecha": "2026-07-28T13:29:14.133Z",
+    "ultimaActualizacion": "2026-07-28T13:29:14.133Z",
+    "historialMensajes": [
+      {
+        "texto": "Buenos días",
+        "fecha": "2026-07-28T13:29:14.133Z",
+        "sentimiento": "neutro"
       }
     ]
   }
