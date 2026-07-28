@@ -45392,11 +45392,11 @@
     "celular": "+54 9 3813 599-448",
     "nombre": "",
     "direccion": "Malabia al 300",
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Y sucede hace varios meses recién paso y llevaron la basura pero pasan 1 vez cada tanto",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Bien gracias",
     "mensaje": "Malabia al 300 entre congreso y Heras",
     "fecha": "2026-07-28T13:46:05.738Z",
-    "ultimaActualizacion": "2026-07-28T13:47:02.578Z",
+    "ultimaActualizacion": "2026-07-28T14:17:18.029Z",
     "historialMensajes": [
       {
         "texto": "Malabia al 300 entre congreso y Heras",
@@ -45407,6 +45407,11 @@
         "texto": "Y sucede hace varios meses recién paso y llevaron la basura pero pasan 1 vez cada tanto",
         "fecha": "2026-07-28T13:47:02.578Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Bien gracias",
+        "fecha": "2026-07-28T14:17:18.029Z",
+        "sentimiento": "positivo"
       }
     ]
   },
@@ -45416,10 +45421,10 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "neutro",
-    "ultimoMensaje": "Puede ser dentro de hoy?",
+    "ultimoMensaje": "Es una casa de perro nose si cumple con 1m cubico",
     "mensaje": "Para que busquen algo asi se lo lleven",
     "fecha": "2026-07-28T13:49:46.164Z",
-    "ultimaActualizacion": "2026-07-28T13:50:02.507Z",
+    "ultimaActualizacion": "2026-07-28T14:18:10.966Z",
     "historialMensajes": [
       {
         "texto": "Para que busquen algo asi se lo lleven",
@@ -45429,6 +45434,11 @@
       {
         "texto": "Puede ser dentro de hoy?",
         "fecha": "2026-07-28T13:50:02.507Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Es una casa de perro nose si cumple con 1m cubico",
+        "fecha": "2026-07-28T14:18:10.966Z",
         "sentimiento": "neutro"
       }
     ]
