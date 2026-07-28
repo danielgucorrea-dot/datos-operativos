@@ -46554,14 +46554,19 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "neutro",
-    "ultimoMensaje": "Hola buenas tardes",
+    "ultimoMensaje": "Necesito",
     "mensaje": "Hola buenas tardes",
     "fecha": "2026-07-28T17:18:04.597Z",
-    "ultimaActualizacion": "2026-07-28T17:18:04.597Z",
+    "ultimaActualizacion": "2026-07-28T17:18:10.134Z",
     "historialMensajes": [
       {
         "texto": "Hola buenas tardes",
         "fecha": "2026-07-28T17:18:04.597Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Necesito",
+        "fecha": "2026-07-28T17:18:10.134Z",
         "sentimiento": "neutro"
       }
     ]
