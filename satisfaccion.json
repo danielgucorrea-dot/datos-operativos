@@ -16575,7 +16575,15 @@
       "Hola tengo muchas ramas , pastoy botellas de vidrio",
       "Hola"
     ],
-    "ultimaActualizacion": "2026-06-03"
+    "ultimaActualizacion": "2026-07-28T15:08:13.133Z",
+    "ultimoMensaje": "Justo corta la democracia",
+    "historialMensajes": [
+      {
+        "texto": "Justo corta la democracia",
+        "fecha": "2026-07-28T15:08:13.133Z",
+        "sentimiento": "neutro"
+      }
+    ]
   },
   {
     "numero": "245882633097439",
@@ -45525,11 +45533,11 @@
     "celular": "+54 9 3815 166-514",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "negativo",
-    "ultimoMensaje": "Buen dia! Para solicitar barrendero para la cuadra de mi barrio, nunca pasan. Por favor",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Si te paso.",
     "mensaje": "Buen dia",
     "fecha": "2026-07-28T13:42:56.909Z",
-    "ultimaActualizacion": "2026-07-28T14:29:46.446Z",
+    "ultimaActualizacion": "2026-07-28T15:08:11.415Z",
     "historialMensajes": [
       {
         "texto": "Buen dia",
@@ -45540,6 +45548,11 @@
         "texto": "Buen dia! Para solicitar barrendero para la cuadra de mi barrio, nunca pasan. Por favor",
         "fecha": "2026-07-28T14:29:46.446Z",
         "sentimiento": "negativo"
+      },
+      {
+        "texto": "Si te paso.",
+        "fecha": "2026-07-28T15:08:11.415Z",
+        "sentimiento": "neutro"
       }
     ]
   },
