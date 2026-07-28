@@ -45778,11 +45778,11 @@
     "celular": "+54 9 3813 936-333",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "negativo",
-    "ultimoMensaje": "Un. Auto choco y lamentablemente subió la vereda destrozo  la. Asa de mis padres",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Ya solucionaron la columnas y la luz",
     "mensaje": "Hola",
     "fecha": "2026-07-28T14:49:30.936Z",
-    "ultimaActualizacion": "2026-07-28T14:50:33.167Z",
+    "ultimaActualizacion": "2026-07-28T14:51:00.678Z",
     "historialMensajes": [
       {
         "texto": "Hola",
@@ -45793,6 +45793,11 @@
         "texto": "Un. Auto choco y lamentablemente subió la vereda destrozo  la. Asa de mis padres",
         "fecha": "2026-07-28T14:50:33.167Z",
         "sentimiento": "negativo"
+      },
+      {
+        "texto": "Ya solucionaron la columnas y la luz",
+        "fecha": "2026-07-28T14:51:00.678Z",
+        "sentimiento": "positivo"
       }
     ]
   }
