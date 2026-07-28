@@ -42245,16 +42245,11 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "neutro",
-    "ultimoMensaje": "ya le paso a clarita",
+    "ultimoMensaje": "q te pase la direccion exacta de el para q vayan los chicos a hablar con el por favor",
     "mensaje": "buen dia",
     "fecha": "2026-07-13T12:35:57.936Z",
-    "ultimaActualizacion": "2026-07-28T15:38:39.432Z",
+    "ultimaActualizacion": "2026-07-28T15:51:58.743Z",
     "historialMensajes": [
-      {
-        "texto": "buen dia",
-        "fecha": "2026-07-13T12:35:57.936Z",
-        "sentimiento": "neutro"
-      },
       {
         "texto": "y ya se le habia retirado todo y esta pidiendo de nuevo?",
         "fecha": "2026-07-13T12:36:12.072Z",
@@ -42298,6 +42293,11 @@
       {
         "texto": "ya le paso a clarita",
         "fecha": "2026-07-28T15:38:39.432Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "q te pase la direccion exacta de el para q vayan los chicos a hablar con el por favor",
+        "fecha": "2026-07-28T15:51:58.743Z",
         "sentimiento": "neutro"
       }
     ]
