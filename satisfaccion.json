@@ -45668,5 +45668,23 @@
         "sentimiento": "positivo"
       }
     ]
+  },
+  {
+    "numero": "243185443946501",
+    "celular": "+54 9 3816 787-724",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Buen día",
+    "mensaje": "Buen día",
+    "fecha": "2026-07-28T14:35:27.091Z",
+    "ultimaActualizacion": "2026-07-28T14:35:27.091Z",
+    "historialMensajes": [
+      {
+        "texto": "Buen día",
+        "fecha": "2026-07-28T14:35:27.091Z",
+        "sentimiento": "neutro"
+      }
+    ]
   }
 ]
