@@ -45431,11 +45431,11 @@
     "celular": "+54 9 3815 009-700",
     "nombre": "",
     "direccion": "calle Ecuador 502",
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Entiendo",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Gracias a ustedes",
     "mensaje": "Buenos días",
     "fecha": "2026-07-28T13:29:14.133Z",
-    "ultimaActualizacion": "2026-07-28T14:53:09.215Z",
+    "ultimaActualizacion": "2026-07-28T14:54:02.136Z",
     "historialMensajes": [
       {
         "texto": "Buenos días",
@@ -45471,6 +45471,11 @@
         "texto": "Entiendo",
         "fecha": "2026-07-28T14:53:09.215Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Gracias a ustedes",
+        "fecha": "2026-07-28T14:54:02.136Z",
+        "sentimiento": "positivo"
       }
     ]
   },
