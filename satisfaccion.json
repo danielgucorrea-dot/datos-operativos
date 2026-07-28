@@ -45610,10 +45610,10 @@
     "nombre": "",
     "direccion": "Pasaje Cristo Rey 3846",
     "sentimiento": "neutro",
-    "ultimoMensaje": "Pasaje Cristo Rey 3846",
+    "ultimoMensaje": "Pasarian dentro de hoy?",
     "mensaje": "Para que busquen algo asi se lo lleven",
     "fecha": "2026-07-28T13:49:46.164Z",
-    "ultimaActualizacion": "2026-07-28T14:21:37.737Z",
+    "ultimaActualizacion": "2026-07-28T15:12:19.166Z",
     "historialMensajes": [
       {
         "texto": "Para que busquen algo asi se lo lleven",
@@ -45633,6 +45633,11 @@
       {
         "texto": "Pasaje Cristo Rey 3846",
         "fecha": "2026-07-28T14:21:37.737Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Pasarian dentro de hoy?",
+        "fecha": "2026-07-28T15:12:19.166Z",
         "sentimiento": "neutro"
       }
     ]
