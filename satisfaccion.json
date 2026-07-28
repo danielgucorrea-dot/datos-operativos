@@ -46163,17 +46163,12 @@
     "celular": "+54 9 3813 393-856",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "negativo",
-    "ultimoMensaje": "Como siempre la municipalidad sin dar soluciones",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Asco dan",
     "mensaje": "Esas chapas y las bolsas que están atrás, la mitad es basura normal, las otras tienen escombros",
     "fecha": "2026-07-28T15:20:38.589Z",
-    "ultimaActualizacion": "2026-07-28T15:38:29.864Z",
+    "ultimaActualizacion": "2026-07-28T15:38:33.998Z",
     "historialMensajes": [
-      {
-        "texto": "No se que cantidad podrán llevar",
-        "fecha": "2026-07-28T15:20:45.415Z",
-        "sentimiento": "neutro"
-      },
       {
         "texto": "Pero lo que mas puedan retirar les voy a agradecer",
         "fecha": "2026-07-28T15:21:04.095Z",
@@ -46218,6 +46213,11 @@
         "texto": "Como siempre la municipalidad sin dar soluciones",
         "fecha": "2026-07-28T15:38:29.864Z",
         "sentimiento": "negativo"
+      },
+      {
+        "texto": "Asco dan",
+        "fecha": "2026-07-28T15:38:33.998Z",
+        "sentimiento": "neutro"
       }
     ]
   }
