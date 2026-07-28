@@ -45532,12 +45532,12 @@
     "numero": "162646166913123",
     "celular": "+54 9 3815 166-514",
     "nombre": "",
-    "direccion": null,
+    "direccion": "barrio Padilla",
     "sentimiento": "neutro",
-    "ultimoMensaje": "Si te paso.",
+    "ultimoMensaje": "Altura España 4400",
     "mensaje": "Buen dia",
     "fecha": "2026-07-28T13:42:56.909Z",
-    "ultimaActualizacion": "2026-07-28T15:08:11.415Z",
+    "ultimaActualizacion": "2026-07-28T15:08:26.339Z",
     "historialMensajes": [
       {
         "texto": "Buen dia",
@@ -45552,6 +45552,16 @@
       {
         "texto": "Si te paso.",
         "fecha": "2026-07-28T15:08:11.415Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Diagonal 8 num 1039 barrio Padilla",
+        "fecha": "2026-07-28T15:08:21.675Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Altura España 4400",
+        "fecha": "2026-07-28T15:08:26.339Z",
         "sentimiento": "neutro"
       }
     ]
