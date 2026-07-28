@@ -45783,11 +45783,11 @@
     "celular": "+54 9 3813 936-333",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "positivo",
-    "ultimoMensaje": "Ya solucionaron la columnas y la luz",
+    "sentimiento": "negativo",
+    "ultimoMensaje": "Perp quedo mucho escombro y restos de árboles y material",
     "mensaje": "Hola",
     "fecha": "2026-07-28T14:49:30.936Z",
-    "ultimaActualizacion": "2026-07-28T14:51:00.678Z",
+    "ultimaActualizacion": "2026-07-28T14:51:29.803Z",
     "historialMensajes": [
       {
         "texto": "Hola",
@@ -45803,6 +45803,11 @@
         "texto": "Ya solucionaron la columnas y la luz",
         "fecha": "2026-07-28T14:51:00.678Z",
         "sentimiento": "positivo"
+      },
+      {
+        "texto": "Perp quedo mucho escombro y restos de árboles y material",
+        "fecha": "2026-07-28T14:51:29.803Z",
+        "sentimiento": "negativo"
       }
     ]
   }
