@@ -45407,12 +45407,12 @@
     "numero": "57419451396131",
     "celular": "+54 9 3816 883-651",
     "nombre": "",
-    "direccion": null,
-    "sentimiento": "positivo",
-    "ultimoMensaje": "Paso el recolector como lo hace habitualmente y no me llevo está bolsa grande que tiene pasto",
+    "direccion": "Julián murga 104",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Julián murga 104. Altura Juan b justo 2600",
     "mensaje": "Buen dia",
     "fecha": "2026-07-28T13:15:16.350Z",
-    "ultimaActualizacion": "2026-07-28T14:36:08.723Z",
+    "ultimaActualizacion": "2026-07-28T15:16:49.996Z",
     "historialMensajes": [
       {
         "texto": "Buen dia",
@@ -45428,6 +45428,11 @@
         "texto": "Paso el recolector como lo hace habitualmente y no me llevo está bolsa grande que tiene pasto",
         "fecha": "2026-07-28T14:36:08.723Z",
         "sentimiento": "positivo"
+      },
+      {
+        "texto": "Julián murga 104. Altura Juan b justo 2600",
+        "fecha": "2026-07-28T15:16:49.996Z",
+        "sentimiento": "neutro"
       }
     ]
   },
@@ -45671,10 +45676,10 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "positivo",
-    "ultimoMensaje": "Buenos días es para solicitar el retiro de muebles y artefactos en desuso de mi domicilio",
+    "ultimoMensaje": "Ah bien ya llegó a casa y tomó las fotos",
     "mensaje": "Hola buenos dias",
     "fecha": "2026-07-28T13:56:03.673Z",
-    "ultimaActualizacion": "2026-07-28T15:14:14.351Z",
+    "ultimaActualizacion": "2026-07-28T15:16:40.886Z",
     "historialMensajes": [
       {
         "texto": "Hola buenos dias",
@@ -45684,6 +45689,11 @@
       {
         "texto": "Buenos días es para solicitar el retiro de muebles y artefactos en desuso de mi domicilio",
         "fecha": "2026-07-28T15:14:14.351Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Ah bien ya llegó a casa y tomó las fotos",
+        "fecha": "2026-07-28T15:16:40.886Z",
         "sentimiento": "positivo"
       }
     ]
