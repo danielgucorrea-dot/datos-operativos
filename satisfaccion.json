@@ -45517,11 +45517,11 @@
     "celular": "+54 9 3816 883-651",
     "nombre": "",
     "direccion": "Julián murga 104",
-    "sentimiento": "positivo",
-    "ultimoMensaje": "Perfecto muchas gracias por su predisposición",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Buen dia",
     "mensaje": "Buen dia",
     "fecha": "2026-07-28T13:15:16.350Z",
-    "ultimaActualizacion": "2026-07-28T15:28:45.818Z",
+    "ultimaActualizacion": "2026-07-28T17:17:16.838Z",
     "historialMensajes": [
       {
         "texto": "Buen dia",
@@ -45547,6 +45547,11 @@
         "texto": "Perfecto muchas gracias por su predisposición",
         "fecha": "2026-07-28T15:28:45.818Z",
         "sentimiento": "positivo"
+      },
+      {
+        "texto": "Buen dia",
+        "fecha": "2026-07-28T17:17:16.838Z",
+        "sentimiento": "neutro"
       }
     ]
   },
