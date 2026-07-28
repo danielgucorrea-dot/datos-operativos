@@ -45455,12 +45455,12 @@
     "numero": "217638961709072",
     "celular": "+54 9 3815 734-490",
     "nombre": "",
-    "direccion": null,
-    "sentimiento": "positivo",
-    "ultimoMensaje": "Necesitarías que levante unas maderas de mi domicilio",
+    "direccion": "Barrio ejército Argentino pasaje",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Barrio ejército Argentino pasaje superi  2845",
     "mensaje": "Hola buenos dias",
     "fecha": "2026-07-28T14:11:47.130Z",
-    "ultimaActualizacion": "2026-07-28T14:12:22.095Z",
+    "ultimaActualizacion": "2026-07-28T14:14:38.776Z",
     "historialMensajes": [
       {
         "texto": "Hola buenos dias",
@@ -45471,6 +45471,11 @@
         "texto": "Necesitarías que levante unas maderas de mi domicilio",
         "fecha": "2026-07-28T14:12:22.095Z",
         "sentimiento": "positivo"
+      },
+      {
+        "texto": "Barrio ejército Argentino pasaje superi  2845",
+        "fecha": "2026-07-28T14:14:38.776Z",
+        "sentimiento": "neutro"
       }
     ]
   },
