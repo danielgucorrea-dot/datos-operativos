@@ -46616,5 +46616,23 @@
         "sentimiento": "neutro"
       }
     ]
+  },
+  {
+    "numero": "207769227538506",
+    "celular": "+54 9 3813 040-062",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Buenas",
+    "mensaje": "Buenas",
+    "fecha": "2026-07-28T18:02:50.346Z",
+    "ultimaActualizacion": "2026-07-28T18:02:50.346Z",
+    "historialMensajes": [
+      {
+        "texto": "Buenas",
+        "fecha": "2026-07-28T18:02:50.346Z",
+        "sentimiento": "neutro"
+      }
+    ]
   }
 ]
