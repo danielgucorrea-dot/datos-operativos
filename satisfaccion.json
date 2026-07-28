@@ -45838,5 +45838,23 @@
         "sentimiento": "neutro"
       }
     ]
+  },
+  {
+    "numero": "177386511442024",
+    "celular": "+54 9 3816 056-552",
+    "nombre": "",
+    "direccion": "de Balcarce 1067",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Buen día por favor necesito saber cuando pueden pasar a buscar dos bolsas de escombros por el domicilio de Balcarce 1067. Así las acerco a la vereda.  Gracias",
+    "mensaje": "Buen día por favor necesito saber cuando pueden pasar a buscar dos bolsas de escombros por el domicilio de Balcarce 1067. Así las acerco a la vereda.  Gracias",
+    "fecha": "2026-07-28T14:52:47.783Z",
+    "ultimaActualizacion": "2026-07-28T14:52:47.783Z",
+    "historialMensajes": [
+      {
+        "texto": "Buen día por favor necesito saber cuando pueden pasar a buscar dos bolsas de escombros por el domicilio de Balcarce 1067. Así las acerco a la vereda.  Gracias",
+        "fecha": "2026-07-28T14:52:47.783Z",
+        "sentimiento": "positivo"
+      }
+    ]
   }
 ]
