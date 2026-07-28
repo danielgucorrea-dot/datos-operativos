@@ -29076,12 +29076,17 @@
       "Para que retiren una basura",
       "Hola buenas días"
     ],
-    "ultimaActualizacion": "2026-07-28T13:04:28.206Z",
-    "ultimoMensaje": "Ya va hacer 15 de julio",
+    "ultimaActualizacion": "2026-07-28T13:05:27.216Z",
+    "ultimoMensaje": "Pasaje juan padros 632",
     "historialMensajes": [
       {
         "texto": "Ya va hacer 15 de julio",
         "fecha": "2026-07-28T13:04:28.206Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Pasaje juan padros 632",
+        "fecha": "2026-07-28T13:05:27.216Z",
         "sentimiento": "neutro"
       }
     ]
