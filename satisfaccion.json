@@ -45994,14 +45994,19 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "positivo",
-    "ultimoMensaje": "Hermosa",
+    "ultimoMensaje": "Graciasss",
     "mensaje": "Hermosa",
     "fecha": "2026-07-28T15:06:17.189Z",
-    "ultimaActualizacion": "2026-07-28T15:06:17.189Z",
+    "ultimaActualizacion": "2026-07-28T15:17:01.495Z",
     "historialMensajes": [
       {
         "texto": "Hermosa",
         "fecha": "2026-07-28T15:06:17.189Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Graciasss",
+        "fecha": "2026-07-28T15:17:01.495Z",
         "sentimiento": "positivo"
       }
     ]
