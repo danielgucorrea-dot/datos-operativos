@@ -8167,7 +8167,7 @@
     "numero": "262486959911160",
     "celular": "+54 9 3814 051-079",
     "nombre": "",
-    "direccion": "",
+    "direccion": "Manzana 26 casa 1",
     "sentimiento": "neutro",
     "evidencia_clasificacion": [],
     "canal": "WhatsApp Ambiente",
@@ -8176,8 +8176,8 @@
     "conversacion_completa": [
       "Buenos días quería consultar como debo hacer para solicitar se levante las ramas de la poda de 3 árboles medianos de la vereda de mí casa"
     ],
-    "ultimaActualizacion": "2026-07-28T13:57:08.047Z",
-    "ultimoMensaje": "La dirección es: cangalla y pasaje 58/68 suroeste",
+    "ultimaActualizacion": "2026-07-28T13:57:28.995Z",
+    "ultimoMensaje": "Manzana 26 casa 1 sector B",
     "historialMensajes": [
       {
         "texto": "Si por favor",
@@ -8187,6 +8187,11 @@
       {
         "texto": "La dirección es: cangalla y pasaje 58/68 suroeste",
         "fecha": "2026-07-28T13:57:08.047Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Manzana 26 casa 1 sector B",
+        "fecha": "2026-07-28T13:57:28.995Z",
         "sentimiento": "neutro"
       }
     ]
