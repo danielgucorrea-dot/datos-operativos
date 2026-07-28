@@ -45333,14 +45333,19 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "neutro",
-    "ultimoMensaje": "Buen dia",
+    "ultimoMensaje": "Le hago una consulta",
     "mensaje": "Buen dia",
     "fecha": "2026-07-28T13:15:16.350Z",
-    "ultimaActualizacion": "2026-07-28T13:15:16.350Z",
+    "ultimaActualizacion": "2026-07-28T14:35:42.002Z",
     "historialMensajes": [
       {
         "texto": "Buen dia",
         "fecha": "2026-07-28T13:15:16.350Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Le hago una consulta",
+        "fecha": "2026-07-28T14:35:42.002Z",
         "sentimiento": "neutro"
       }
     ]
