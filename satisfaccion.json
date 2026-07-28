@@ -46736,14 +46736,19 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "neutro",
-    "ultimoMensaje": "Hola",
+    "ultimoMensaje": "Son de la municipalidad buscan residuos",
     "mensaje": "Hola",
     "fecha": "2026-07-28T20:42:56.953Z",
-    "ultimaActualizacion": "2026-07-28T20:42:56.953Z",
+    "ultimaActualizacion": "2026-07-28T20:43:05.168Z",
     "historialMensajes": [
       {
         "texto": "Hola",
         "fecha": "2026-07-28T20:42:56.953Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Son de la municipalidad buscan residuos",
+        "fecha": "2026-07-28T20:43:05.168Z",
         "sentimiento": "neutro"
       }
     ]
@@ -46752,17 +46757,22 @@
     "numero": "23197370052807",
     "celular": "+54 9 3813 038-687",
     "nombre": "",
-    "direccion": null,
-    "sentimiento": "positivo",
-    "ultimoMensaje": "Buenas tardes para solicitar el retiro de basura no habitual es para ramas de la poda de dos árboles envío foto y direccion",
+    "direccion": "Pasaje Vieytes 2020",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Pasaje Vieytes 2020",
     "mensaje": "Buenas tardes para solicitar el retiro de basura no habitual es para ramas de la poda de dos árboles envío foto y direccion",
     "fecha": "2026-07-28T20:43:02.822Z",
-    "ultimaActualizacion": "2026-07-28T20:43:02.822Z",
+    "ultimaActualizacion": "2026-07-28T20:43:57.296Z",
     "historialMensajes": [
       {
         "texto": "Buenas tardes para solicitar el retiro de basura no habitual es para ramas de la poda de dos árboles envío foto y direccion",
         "fecha": "2026-07-28T20:43:02.822Z",
         "sentimiento": "positivo"
+      },
+      {
+        "texto": "Pasaje Vieytes 2020",
+        "fecha": "2026-07-28T20:43:57.296Z",
+        "sentimiento": "neutro"
       }
     ]
   }
