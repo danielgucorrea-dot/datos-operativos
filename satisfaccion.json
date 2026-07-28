@@ -19529,7 +19529,7 @@
     "celular": "+54 9 3816 552-901",
     "nombre": "",
     "direccion": "Ecuador 1235",
-    "sentimiento": "positivo",
+    "sentimiento": "neutro",
     "evidencia_clasificacion": [],
     "canal": "WhatsApp Ambiente",
     "fecha": "2026-06-01",
@@ -19547,8 +19547,8 @@
       "Necesito me retiren basura",
       "Buenas trades"
     ],
-    "ultimaActualizacion": "2026-07-28T17:32:25.353Z",
-    "ultimoMensaje": "Para que retiren escombros",
+    "ultimaActualizacion": "2026-07-28T17:32:41.703Z",
+    "ultimoMensaje": "Del domicilio",
     "historialMensajes": [
       {
         "texto": "Hola buenas tardes",
@@ -19559,6 +19559,11 @@
         "texto": "Para que retiren escombros",
         "fecha": "2026-07-28T17:32:25.353Z",
         "sentimiento": "positivo"
+      },
+      {
+        "texto": "Del domicilio",
+        "fecha": "2026-07-28T17:32:41.703Z",
+        "sentimiento": "neutro"
       }
     ]
   },
