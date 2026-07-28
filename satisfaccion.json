@@ -12296,7 +12296,7 @@
     "celular": "+54 9 3815 302-600",
     "nombre": "",
     "direccion": "calle Charcas al 1050",
-    "sentimiento": "negativo",
+    "sentimiento": "positivo",
     "evidencia_clasificacion": [
       "no vinieron"
     ],
@@ -12314,7 +12314,15 @@
       "Le envió el comprobante de su reclamo número . Recuerde que puede realizar gestiones, y hacer seguimiento de su reclamo a través de la nueva aplicación Ciudad SMT, la puede descargar del siguiente link: https://play.google.com/store/apps/details?id=ar.gob.smt.ciudadana&hl=es_AR&pli=1",
       "Aragón Antonia Raquel  5419453  CHARCAS 1050 block 6 muchísimas gracias"
     ],
-    "ultimaActualizacion": "2026-06-10"
+    "ultimaActualizacion": "2026-07-28T13:31:43.741Z",
+    "ultimoMensaje": "Muchas gracias",
+    "historialMensajes": [
+      {
+        "texto": "Muchas gracias",
+        "fecha": "2026-07-28T13:31:43.741Z",
+        "sentimiento": "positivo"
+      }
+    ]
   },
   {
     "numero": "4677739516025",
