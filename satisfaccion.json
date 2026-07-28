@@ -46491,5 +46491,19 @@
         "sentimiento": "negativo"
       }
     ]
-  }
-]
+  },
+  {
+    "numero": "95923917037622",
+    "celular": "+54 9 3814 121-829",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "negativo",
+    "ultimoMensaje": "NECESITO PORFAS RETIREN 4 BOLSAS CON PASTO ... RECIÉN CORTADO",
+    "mensaje": "Buenas tardes!!",
+    "fecha": "2026-07-28T16:56:38.819Z",
+    "ultimaActualizacion": "2026-07-28T16:57:30.308Z",
+    "historialMensajes": [
+      {
+        "texto": "Buenas tardes!!",
+        "fecha": "2026-07-28T16:56:38.819Z",
+  
