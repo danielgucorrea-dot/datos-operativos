@@ -46090,10 +46090,10 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "neutro",
-    "ultimoMensaje": "Para hacer retiro de escombro",
+    "ultimoMensaje": "Tendría q poner en bolsas?",
     "mensaje": "Buen dia",
     "fecha": "2026-07-28T15:14:32.103Z",
-    "ultimaActualizacion": "2026-07-28T15:14:46.810Z",
+    "ultimaActualizacion": "2026-07-28T15:38:21.747Z",
     "historialMensajes": [
       {
         "texto": "Buen dia",
@@ -46103,6 +46103,11 @@
       {
         "texto": "Para hacer retiro de escombro",
         "fecha": "2026-07-28T15:14:46.810Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Tendría q poner en bolsas?",
+        "fecha": "2026-07-28T15:38:21.747Z",
         "sentimiento": "neutro"
       }
     ]
@@ -46158,17 +46163,12 @@
     "celular": "+54 9 3813 393-856",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Lo demas lo guardo",
+    "sentimiento": "negativo",
+    "ultimoMensaje": "Como siempre la municipalidad sin dar soluciones",
     "mensaje": "Esas chapas y las bolsas que están atrás, la mitad es basura normal, las otras tienen escombros",
     "fecha": "2026-07-28T15:20:38.589Z",
-    "ultimaActualizacion": "2026-07-28T15:38:19.359Z",
+    "ultimaActualizacion": "2026-07-28T15:38:29.864Z",
     "historialMensajes": [
-      {
-        "texto": "Esas chapas y las bolsas que están atrás, la mitad es basura normal, las otras tienen escombros",
-        "fecha": "2026-07-28T15:20:38.589Z",
-        "sentimiento": "negativo"
-      },
       {
         "texto": "No se que cantidad podrán llevar",
         "fecha": "2026-07-28T15:20:45.415Z",
@@ -46213,6 +46213,11 @@
         "texto": "Lo demas lo guardo",
         "fecha": "2026-07-28T15:38:19.359Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Como siempre la municipalidad sin dar soluciones",
+        "fecha": "2026-07-28T15:38:29.864Z",
+        "sentimiento": "negativo"
       }
     ]
   }
