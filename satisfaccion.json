@@ -45706,12 +45706,12 @@
     "numero": "277824355221698",
     "celular": "+54 9 3816 268-344",
     "nombre": "",
-    "direccion": null,
-    "sentimiento": "positivo",
-    "ultimoMensaje": "de limpieza en mi cuadra",
+    "direccion": "Barrio Ernesto Padilla",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Diagonal 8 Barrio Ernesto Padilla",
     "mensaje": "Escribo para realizar un reclamo",
     "fecha": "2026-07-28T14:39:43.496Z",
-    "ultimaActualizacion": "2026-07-28T14:39:53.045Z",
+    "ultimaActualizacion": "2026-07-28T14:40:06.522Z",
     "historialMensajes": [
       {
         "texto": "Escribo para realizar un reclamo",
@@ -45722,6 +45722,11 @@
         "texto": "de limpieza en mi cuadra",
         "fecha": "2026-07-28T14:39:53.045Z",
         "sentimiento": "positivo"
+      },
+      {
+        "texto": "Diagonal 8 Barrio Ernesto Padilla",
+        "fecha": "2026-07-28T14:40:06.522Z",
+        "sentimiento": "neutro"
       }
     ]
   }
