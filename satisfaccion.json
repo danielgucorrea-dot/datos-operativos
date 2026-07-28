@@ -2411,12 +2411,17 @@
       "Es impresionante como arrojan basura los vecinos y  a la madrugada los carritos .",
       "Buenas tardes \nPor favor podrían retirar la basura de calle Ricardo Rojas y Pío 12"
     ],
-    "ultimaActualizacion": "2026-07-28T15:25:17.891Z",
-    "ultimoMensaje": "Buenas tardes \nPor favor podrían retirar la basura de calle Ricardo Rojas y Pío 12",
+    "ultimaActualizacion": "2026-07-28T15:25:21.311Z",
+    "ultimoMensaje": "Es la esquina de la Esc.Mcpal.Alfonsina Storni primaria .",
     "historialMensajes": [
       {
         "texto": "Buenas tardes \nPor favor podrían retirar la basura de calle Ricardo Rojas y Pío 12",
         "fecha": "2026-07-28T15:25:17.891Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Es la esquina de la Esc.Mcpal.Alfonsina Storni primaria .",
+        "fecha": "2026-07-28T15:25:21.311Z",
         "sentimiento": "neutro"
       }
     ]
@@ -40463,10 +40468,10 @@
     "nombre": "",
     "direccion": "Asunción 535",
     "sentimiento": "neutro",
-    "ultimoMensaje": "Entendido. Gracias",
+    "ultimoMensaje": "Hola buen día!",
     "mensaje": "Hola, me comunico para saber como es el procedimiento para solicitar la recolección de residuos por limpieza de un terreno. Gracias",
     "fecha": "2026-07-08T14:22:10.231Z",
-    "ultimaActualizacion": "2026-07-13T15:31:07.767Z",
+    "ultimaActualizacion": "2026-07-28T15:25:35.225Z",
     "historialMensajes": [
       {
         "texto": "Hola, me comunico para saber como es el procedimiento para solicitar la recolección de residuos por limpieza de un terreno. Gracias",
@@ -40511,6 +40516,11 @@
       {
         "texto": "Entendido. Gracias",
         "fecha": "2026-07-13T15:31:07.767Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Hola buen día!",
+        "fecha": "2026-07-28T15:25:35.225Z",
         "sentimiento": "neutro"
       }
     ]
