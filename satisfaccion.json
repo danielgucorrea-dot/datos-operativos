@@ -45373,5 +45373,41 @@
         "sentimiento": "neutro"
       }
     ]
+  },
+  {
+    "numero": "125992949567732",
+    "celular": "+54 9 3814 191-099",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Hola bien dia JOSE COLOMBRES 1493",
+    "mensaje": "Hola bien dia JOSE COLOMBRES 1493",
+    "fecha": "2026-07-28T13:51:29.332Z",
+    "ultimaActualizacion": "2026-07-28T13:51:29.332Z",
+    "historialMensajes": [
+      {
+        "texto": "Hola bien dia JOSE COLOMBRES 1493",
+        "fecha": "2026-07-28T13:51:29.332Z",
+        "sentimiento": "neutro"
+      }
+    ]
+  },
+  {
+    "numero": "93935364006095",
+    "celular": "+54 9 3813 497-004",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Hola buenos dias",
+    "mensaje": "Hola buenos dias",
+    "fecha": "2026-07-28T13:56:03.673Z",
+    "ultimaActualizacion": "2026-07-28T13:56:03.673Z",
+    "historialMensajes": [
+      {
+        "texto": "Hola buenos dias",
+        "fecha": "2026-07-28T13:56:03.673Z",
+        "sentimiento": "neutro"
+      }
+    ]
   }
 ]
