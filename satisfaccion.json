@@ -46469,16 +46469,26 @@
     "celular": "+54 9 3813 868-035",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Hola buenas tardes",
+    "sentimiento": "negativo",
+    "ultimoMensaje": "Pero nunca se comunicaron conmigo",
     "mensaje": "Hola buenas tardes",
     "fecha": "2026-07-28T16:25:29.985Z",
-    "ultimaActualizacion": "2026-07-28T16:25:29.985Z",
+    "ultimaActualizacion": "2026-07-28T16:26:43.715Z",
     "historialMensajes": [
       {
         "texto": "Hola buenas tardes",
         "fecha": "2026-07-28T16:25:29.985Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Yo había cargado este pedido h me dijeron que el dia de ayer llevarían un contenedor",
+        "fecha": "2026-07-28T16:26:32.908Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Pero nunca se comunicaron conmigo",
+        "fecha": "2026-07-28T16:26:43.715Z",
+        "sentimiento": "negativo"
       }
     ]
   }
