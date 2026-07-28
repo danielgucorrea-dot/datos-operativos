@@ -45465,5 +45465,23 @@
         "sentimiento": "positivo"
       }
     ]
+  },
+  {
+    "numero": "162023497289881",
+    "celular": "+54 9 3816 787-868",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "5 bolsas",
+    "mensaje": "5 bolsas",
+    "fecha": "2026-07-28T14:12:45.980Z",
+    "ultimaActualizacion": "2026-07-28T14:12:45.980Z",
+    "historialMensajes": [
+      {
+        "texto": "5 bolsas",
+        "fecha": "2026-07-28T14:12:45.980Z",
+        "sentimiento": "neutro"
+      }
+    ]
   }
 ]
