@@ -22445,7 +22445,7 @@
     "celular": "+54 9 3815 856-334",
     "nombre": "",
     "direccion": "Pje Los Sosa 4750",
-    "sentimiento": "positivo",
+    "sentimiento": "neutro",
     "evidencia_clasificacion": [
       "perfecto muchas gracias"
     ],
@@ -22470,7 +22470,15 @@
       "Por favor, si pudiesen retirarlos les agradecería mucho. Es en pasaje los sosa 4750/60",
       "Buen día, para solicitar el retiro de escombros, envío foto actual"
     ],
-    "ultimaActualizacion": "2026-05-27"
+    "ultimaActualizacion": "2026-07-28T16:08:45.610Z",
+    "ultimoMensaje": "Buenas tardes, cómo están? Disculpen la molestia, ustedes retiran ramas?",
+    "historialMensajes": [
+      {
+        "texto": "Buenas tardes, cómo están? Disculpen la molestia, ustedes retiran ramas?",
+        "fecha": "2026-07-28T16:08:45.610Z",
+        "sentimiento": "neutro"
+      }
+    ]
   },
   {
     "numero": "272490056130639",
