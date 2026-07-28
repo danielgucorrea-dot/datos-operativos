@@ -45046,12 +45046,12 @@
     "numero": "146857883885717",
     "celular": "+54 9 3815 076-203",
     "nombre": "",
-    "direccion": null,
-    "sentimiento": "positivo",
-    "ultimoMensaje": "Tengo residuos de poda de arbol",
+    "direccion": "Rondeau 2342",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Rondeau 2342, san miguel de tucuman",
     "mensaje": "Buen dia",
     "fecha": "2026-07-28T12:42:35.243Z",
-    "ultimaActualizacion": "2026-07-28T12:42:54.491Z",
+    "ultimaActualizacion": "2026-07-28T12:49:22.482Z",
     "historialMensajes": [
       {
         "texto": "Buen dia",
@@ -45062,6 +45062,11 @@
         "texto": "Tengo residuos de poda de arbol",
         "fecha": "2026-07-28T12:42:54.491Z",
         "sentimiento": "positivo"
+      },
+      {
+        "texto": "Rondeau 2342, san miguel de tucuman",
+        "fecha": "2026-07-28T12:49:22.482Z",
+        "sentimiento": "neutro"
       }
     ]
   },
