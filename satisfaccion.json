@@ -46208,11 +46208,11 @@
     "celular": "+54 9 3813 525-900",
     "nombre": "",
     "direccion": "Frente escuela 49",
-    "sentimiento": "negativo",
-    "ultimoMensaje": "Sobre esquina de juan posse esta l basura",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Juan posse 1500",
     "mensaje": "Buen dia . X favor podrian mandar a sacar basura acumulada en blas parera esq juan posse. Frente escuela 49.y barera parera . Es permanente el problema  en estas cuadra .gente inescrupulosa q tiran desde vehiculos o dan a chicos drogadictos y tiran x todas partes . Aca esq de j.posse y Martin Berro . Habia un contenedor q gracias a Dios sacaron. X q era junta de gente mal vivir  y de todo tipo de alimañas .(Ratas,alacranes,moscaetc)",
     "fecha": "2026-07-28T15:16:19.861Z",
-    "ultimaActualizacion": "2026-07-28T15:50:23.749Z",
+    "ultimaActualizacion": "2026-07-28T16:11:02.009Z",
     "historialMensajes": [
       {
         "texto": "Buen dia . X favor podrian mandar a sacar basura acumulada en blas parera esq juan posse. Frente escuela 49.y barera parera . Es permanente el problema  en estas cuadra .gente inescrupulosa q tiran de",
@@ -46238,6 +46238,11 @@
         "texto": "Sobre esquina de juan posse esta l basura",
         "fecha": "2026-07-28T15:50:23.749Z",
         "sentimiento": "negativo"
+      },
+      {
+        "texto": "Juan posse 1500",
+        "fecha": "2026-07-28T16:11:02.009Z",
+        "sentimiento": "neutro"
       }
     ]
   },
