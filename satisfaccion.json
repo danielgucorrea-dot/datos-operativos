@@ -42502,10 +42502,10 @@
     "nombre": "",
     "direccion": "barrio sur",
     "sentimiento": "neutro",
-    "ultimoMensaje": "Buen día como esta?",
+    "ultimoMensaje": "Para pedir servicio de residuo no habituales",
     "mensaje": "Buen día para pedir servicio de residuo no habituales tengo bolsas con escombros",
     "fecha": "2026-07-13T14:15:33.092Z",
-    "ultimaActualizacion": "2026-07-28T14:14:47.683Z",
+    "ultimaActualizacion": "2026-07-28T14:15:05.117Z",
     "historialMensajes": [
       {
         "texto": "Buen día para pedir servicio de residuo no habituales tengo bolsas con escombros",
@@ -42535,6 +42535,11 @@
       {
         "texto": "Buen día como esta?",
         "fecha": "2026-07-28T14:14:47.683Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Para pedir servicio de residuo no habituales",
+        "fecha": "2026-07-28T14:15:05.117Z",
         "sentimiento": "neutro"
       }
     ]
