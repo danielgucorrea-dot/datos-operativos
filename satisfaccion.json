@@ -45250,17 +45250,22 @@
     "numero": "207519934873628",
     "celular": "+54 9 3815 009-700",
     "nombre": "",
-    "direccion": null,
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Buenos días",
+    "direccion": "calle Ecuador 502",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Quiero pedir por favor que pasen a retirar una bolsa con escombro de calle Ecuador 502",
     "mensaje": "Buenos días",
     "fecha": "2026-07-28T13:29:14.133Z",
-    "ultimaActualizacion": "2026-07-28T13:29:14.133Z",
+    "ultimaActualizacion": "2026-07-28T13:29:52.373Z",
     "historialMensajes": [
       {
         "texto": "Buenos días",
         "fecha": "2026-07-28T13:29:14.133Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Quiero pedir por favor que pasen a retirar una bolsa con escombro de calle Ecuador 502",
+        "fecha": "2026-07-28T13:29:52.373Z",
+        "sentimiento": "positivo"
       }
     ]
   }
