@@ -45156,11 +45156,11 @@
     "celular": "+54 9 3815 192-787",
     "nombre": "",
     "direccion": "Malabia 900",
-    "sentimiento": "positivo",
-    "ultimoMensaje": "Consulta: se podría colocar un cartel de prohibido arrojar basura?",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Como veo que colocaron en varios lugares",
     "mensaje": "Malabia 900. Se sigue generando basural, por falta de recolección!!!",
     "fecha": "2026-07-28T12:25:49.672Z",
-    "ultimaActualizacion": "2026-07-28T14:30:28.572Z",
+    "ultimaActualizacion": "2026-07-28T14:30:52.555Z",
     "historialMensajes": [
       {
         "texto": "Malabia 900. Se sigue generando basural, por falta de recolección!!!",
@@ -45176,6 +45176,11 @@
         "texto": "Consulta: se podría colocar un cartel de prohibido arrojar basura?",
         "fecha": "2026-07-28T14:30:28.572Z",
         "sentimiento": "positivo"
+      },
+      {
+        "texto": "Como veo que colocaron en varios lugares",
+        "fecha": "2026-07-28T14:30:52.555Z",
+        "sentimiento": "neutro"
       }
     ]
   },
