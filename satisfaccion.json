@@ -45539,5 +45539,23 @@
         "sentimiento": "neutro"
       }
     ]
+  },
+  {
+    "numero": "60602156347595",
+    "celular": "+54 9 3813 945-049",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Buenis dias",
+    "mensaje": "Buenis dias",
+    "fecha": "2026-07-28T14:19:38.382Z",
+    "ultimaActualizacion": "2026-07-28T14:19:38.382Z",
+    "historialMensajes": [
+      {
+        "texto": "Buenis dias",
+        "fecha": "2026-07-28T14:19:38.382Z",
+        "sentimiento": "neutro"
+      }
+    ]
   }
 ]
