@@ -45819,10 +45819,10 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "neutro",
-    "ultimoMensaje": "Si si x favor",
+    "ultimoMensaje": "Avenida independencia Nº: 2800, esquina. Juan beteran \nSan Miguel de Tucumán",
     "mensaje": "Hola",
     "fecha": "2026-07-28T14:49:30.936Z",
-    "ultimaActualizacion": "2026-07-28T14:53:17.499Z",
+    "ultimaActualizacion": "2026-07-28T14:55:37.120Z",
     "historialMensajes": [
       {
         "texto": "Hola",
@@ -45847,6 +45847,11 @@
       {
         "texto": "Si si x favor",
         "fecha": "2026-07-28T14:53:17.499Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Avenida independencia Nº: 2800, esquina. Juan beteran \nSan Miguel de Tucumán",
+        "fecha": "2026-07-28T14:55:37.120Z",
         "sentimiento": "neutro"
       }
     ]
