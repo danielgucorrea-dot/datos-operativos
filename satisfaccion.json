@@ -23479,7 +23479,7 @@
     "celular": "+54 9 3814 545-653",
     "nombre": "",
     "direccion": "Chiclana 147",
-    "sentimiento": "positivo",
+    "sentimiento": "neutro",
     "evidencia_clasificacion": [],
     "canal": "WhatsApp Ambiente",
     "fecha": "2026-05-22",
@@ -23489,13 +23489,18 @@
       "Mí dirección es Chiclana 147",
       "Buen día. Necesito que retiren de mi domicilio residuos no habituales por favor"
     ],
-    "ultimaActualizacion": "2026-07-28T20:15:30.936Z",
-    "ultimoMensaje": "Buenas tardes. Necesito que retiren de mi domicilio residuos no habituales por favor",
+    "ultimaActualizacion": "2026-07-28T20:18:40.652Z",
+    "ultimoMensaje": "Mi dirección es chiclana 147",
     "historialMensajes": [
       {
         "texto": "Buenas tardes. Necesito que retiren de mi domicilio residuos no habituales por favor",
         "fecha": "2026-07-28T20:15:30.936Z",
         "sentimiento": "positivo"
+      },
+      {
+        "texto": "Mi dirección es chiclana 147",
+        "fecha": "2026-07-28T20:18:40.652Z",
+        "sentimiento": "neutro"
       }
     ]
   },
