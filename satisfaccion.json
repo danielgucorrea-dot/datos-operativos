@@ -42545,11 +42545,11 @@
     "celular": "+54 9 3814 664-447",
     "nombre": "",
     "direccion": "barrio sur",
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Para pedir servicio de residuo no habituales",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Me dejas número de gestión por favor",
     "mensaje": "Buen día para pedir servicio de residuo no habituales tengo bolsas con escombros",
     "fecha": "2026-07-13T14:15:33.092Z",
-    "ultimaActualizacion": "2026-07-28T14:15:05.117Z",
+    "ultimaActualizacion": "2026-07-28T15:05:36.768Z",
     "historialMensajes": [
       {
         "texto": "Buen día para pedir servicio de residuo no habituales tengo bolsas con escombros",
@@ -42585,6 +42585,11 @@
         "texto": "Para pedir servicio de residuo no habituales",
         "fecha": "2026-07-28T14:15:05.117Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Me dejas número de gestión por favor",
+        "fecha": "2026-07-28T15:05:36.768Z",
+        "sentimiento": "positivo"
       }
     ]
   },
@@ -45916,6 +45921,24 @@
       {
         "texto": "Buen día por favor necesito saber cuando pueden pasar a buscar dos bolsas de escombros por el domicilio de Balcarce 1067. Así las acerco a la vereda.  Gracias",
         "fecha": "2026-07-28T14:52:47.783Z",
+        "sentimiento": "positivo"
+      }
+    ]
+  },
+  {
+    "numero": "251423275135086",
+    "celular": "+54 9 3814 167-742",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Hermosa",
+    "mensaje": "Hermosa",
+    "fecha": "2026-07-28T15:06:17.189Z",
+    "ultimaActualizacion": "2026-07-28T15:06:17.189Z",
+    "historialMensajes": [
+      {
+        "texto": "Hermosa",
+        "fecha": "2026-07-28T15:06:17.189Z",
         "sentimiento": "positivo"
       }
     ]
