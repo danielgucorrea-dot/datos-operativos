@@ -45041,12 +45041,12 @@
     "numero": "169608392798380",
     "celular": "+54 9 3815 505-332",
     "nombre": "",
-    "direccion": null,
+    "direccion": "Calle roque quintana 1260",
     "sentimiento": "neutro",
-    "ultimoMensaje": "Bien",
+    "ultimoMensaje": "Calle roque quintana 1260",
     "mensaje": "Si es para ahi",
     "fecha": "2026-07-28T12:12:05.897Z",
-    "ultimaActualizacion": "2026-07-28T14:28:36.589Z",
+    "ultimaActualizacion": "2026-07-28T14:28:41.327Z",
     "historialMensajes": [
       {
         "texto": "Si es para ahi",
@@ -45071,6 +45071,11 @@
       {
         "texto": "Bien",
         "fecha": "2026-07-28T14:28:36.589Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Calle roque quintana 1260",
+        "fecha": "2026-07-28T14:28:41.327Z",
         "sentimiento": "neutro"
       }
     ]
