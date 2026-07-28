@@ -46514,5 +46514,28 @@
         "sentimiento": "negativo"
       }
     ]
+  },
+  {
+    "numero": "1005072724177",
+    "celular": "+54 9 3814 494-186",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Quería informar que dejo sin efecto la solicitud para recolección de residuos No habituales",
+    "mensaje": "Buenas tardes",
+    "fecha": "2026-07-28T17:15:01.324Z",
+    "ultimaActualizacion": "2026-07-28T17:16:07.450Z",
+    "historialMensajes": [
+      {
+        "texto": "Buenas tardes",
+        "fecha": "2026-07-28T17:15:01.324Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Quería informar que dejo sin efecto la solicitud para recolección de residuos No habituales",
+        "fecha": "2026-07-28T17:16:07.450Z",
+        "sentimiento": "neutro"
+      }
+    ]
   }
 ]
