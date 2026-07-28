@@ -46153,11 +46153,11 @@
     "celular": "+54 9 3813 393-856",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "neutro",
-    "ultimoMensaje": "No, a otro número que estaba en Internet",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Me dijeron que a partir de las 3 de la tarde, en 72 hs máximo pasarían a buscar",
     "mensaje": "Esas chapas y las bolsas que están atrás, la mitad es basura normal, las otras tienen escombros",
     "fecha": "2026-07-28T15:20:38.589Z",
-    "ultimaActualizacion": "2026-07-28T15:36:00.552Z",
+    "ultimaActualizacion": "2026-07-28T15:36:25.526Z",
     "historialMensajes": [
       {
         "texto": "Esas chapas y las bolsas que están atrás, la mitad es basura normal, las otras tienen escombros",
@@ -46188,6 +46188,11 @@
         "texto": "No, a otro número que estaba en Internet",
         "fecha": "2026-07-28T15:36:00.552Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Me dijeron que a partir de las 3 de la tarde, en 72 hs máximo pasarían a buscar",
+        "fecha": "2026-07-28T15:36:25.526Z",
+        "sentimiento": "positivo"
       }
     ]
   }
