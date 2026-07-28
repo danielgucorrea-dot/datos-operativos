@@ -3660,7 +3660,7 @@
   },
   {
     "numero": "150195140595743",
-    "celular": "",
+    "celular": "+54 9 3816 728-349",
     "nombre": "",
     "direccion": "",
     "sentimiento": "neutro",
@@ -3672,7 +3672,15 @@
       "En la cuadra donde vivo hay muchos naranjos en las veredas y se están cayendo de lo maduras que están y ensucian mucho. \nLa municipalidad podrá venir a sacar las naranjas de los árboles?",
       "Buen día"
     ],
-    "ultimaActualizacion": "2026-06-29"
+    "ultimaActualizacion": "2026-07-28T17:18:49.994Z",
+    "ultimoMensaje": "Buen día",
+    "historialMensajes": [
+      {
+        "texto": "Buen día",
+        "fecha": "2026-07-28T17:18:49.994Z",
+        "sentimiento": "neutro"
+      }
+    ]
   },
   {
     "numero": "34390054801495",
