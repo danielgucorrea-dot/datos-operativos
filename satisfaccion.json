@@ -37530,8 +37530,8 @@
       "Quedó a la espera d buenas noticias.  GRACIAS",
       "Buenos días, x favor podrían retirar ramas, q están colocadas en la vereda d mi domicilio, Mza I casa 1 o Frías Silva y Mercedes d San Martín,  barrio POLICIAL 4, altura Diagonal Sur al 3400. (Av Allem) no sé  mandar ubicación soy grande. Le envió fotos, desde ya muchas GRACIAS"
     ],
-    "ultimaActualizacion": "2026-07-28T15:24:56.142Z",
-    "ultimoMensaje": "Hola calle Frías Silva y Mercedes d San Martín, Diagonal a la plaza San José del barrio policial IV, altura Diagonal Sur al 3400. O Mza I Casa 1d dicho barrio.  GRACIAS",
+    "ultimaActualizacion": "2026-07-28T16:21:10.722Z",
+    "ultimoMensaje": "Ok quedó a la espera del retiro d las ramas. GRACIAS!!!",
     "historialMensajes": [
       {
         "texto": "Barrio policial 4 manzana i casa 1",
@@ -37541,6 +37541,11 @@
       {
         "texto": "Hola calle Frías Silva y Mercedes d San Martín, Diagonal a la plaza San José del barrio policial IV, altura Diagonal Sur al 3400. O Mza I Casa 1d dicho barrio.  GRACIAS",
         "fecha": "2026-07-28T15:24:56.142Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Ok quedó a la espera del retiro d las ramas. GRACIAS!!!",
+        "fecha": "2026-07-28T16:21:10.722Z",
         "sentimiento": "positivo"
       }
     ]
@@ -46441,16 +46446,21 @@
     "celular": "+54 9 3814 064-959",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Buenas tardes",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Les hago una consulta, tengo restos de escombros en mi casa y vi que la municipalidad brindaba un servicio de recoleccion con conteiners, puede ser?",
     "mensaje": "Buenas tardes",
     "fecha": "2026-07-28T16:20:24.063Z",
-    "ultimaActualizacion": "2026-07-28T16:20:24.063Z",
+    "ultimaActualizacion": "2026-07-28T16:20:43.707Z",
     "historialMensajes": [
       {
         "texto": "Buenas tardes",
         "fecha": "2026-07-28T16:20:24.063Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Les hago una consulta, tengo restos de escombros en mi casa y vi que la municipalidad brindaba un servicio de recoleccion con conteiners, puede ser?",
+        "fecha": "2026-07-28T16:20:43.707Z",
+        "sentimiento": "positivo"
       }
     ]
   }
