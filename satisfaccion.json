@@ -45818,11 +45818,11 @@
     "celular": "+54 9 3813 936-333",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Avenida independencia Nº: 2800, esquina. Juan beteran \nSan Miguel de Tucumán",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Si esa es la.direccion  siempre pongo cono referencia la esquina juan beteran perp esa es la dirección",
     "mensaje": "Hola",
     "fecha": "2026-07-28T14:49:30.936Z",
-    "ultimaActualizacion": "2026-07-28T14:55:37.120Z",
+    "ultimaActualizacion": "2026-07-28T14:59:59.973Z",
     "historialMensajes": [
       {
         "texto": "Hola",
@@ -45853,6 +45853,11 @@
         "texto": "Avenida independencia Nº: 2800, esquina. Juan beteran \nSan Miguel de Tucumán",
         "fecha": "2026-07-28T14:55:37.120Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Si esa es la.direccion  siempre pongo cono referencia la esquina juan beteran perp esa es la dirección",
+        "fecha": "2026-07-28T14:59:59.973Z",
+        "sentimiento": "positivo"
       }
     ]
   },
