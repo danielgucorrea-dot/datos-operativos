@@ -46000,11 +46000,11 @@
     "celular": "+54 9 3812 123-264",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "positivo",
-    "ultimoMensaje": "Perfecto ahora lo hago",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Muebles \nElectrodomésticos \nMaderas\nRamas",
     "mensaje": "Hola buenos días",
     "fecha": "2026-07-28T14:51:33.245Z",
-    "ultimaActualizacion": "2026-07-28T15:32:39.283Z",
+    "ultimaActualizacion": "2026-07-28T15:35:02.556Z",
     "historialMensajes": [
       {
         "texto": "Hola buenos días",
@@ -46030,6 +46030,11 @@
         "texto": "Perfecto ahora lo hago",
         "fecha": "2026-07-28T15:32:39.283Z",
         "sentimiento": "positivo"
+      },
+      {
+        "texto": "Muebles \nElectrodomésticos \nMaderas\nRamas",
+        "fecha": "2026-07-28T15:35:02.556Z",
+        "sentimiento": "neutro"
       }
     ]
   },
