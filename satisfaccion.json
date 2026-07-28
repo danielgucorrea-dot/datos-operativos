@@ -45231,16 +45231,11 @@
     "nombre": "",
     "direccion": "Rondeau 2342",
     "sentimiento": "positivo",
-    "ultimoMensaje": "Los puse sobre mi garage",
+    "ultimoMensaje": "Esta es la rama mas grande.",
     "mensaje": "Buen dia",
     "fecha": "2026-07-28T12:42:35.243Z",
-    "ultimaActualizacion": "2026-07-28T14:59:02.321Z",
+    "ultimaActualizacion": "2026-07-28T15:00:04.014Z",
     "historialMensajes": [
-      {
-        "texto": "Tengo residuos de poda de arbol",
-        "fecha": "2026-07-28T12:42:54.491Z",
-        "sentimiento": "positivo"
-      },
       {
         "texto": "Rondeau 2342, san miguel de tucuman",
         "fecha": "2026-07-28T12:49:22.482Z",
@@ -45284,6 +45279,11 @@
       {
         "texto": "Los puse sobre mi garage",
         "fecha": "2026-07-28T14:59:02.321Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Esta es la rama mas grande.",
+        "fecha": "2026-07-28T15:00:04.014Z",
         "sentimiento": "positivo"
       }
     ]
@@ -45819,10 +45819,10 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "positivo",
-    "ultimoMensaje": "Si esa es la.direccion  siempre pongo cono referencia la esquina juan beteran perp esa es la dirección",
+    "ultimoMensaje": "Muchas gracias",
     "mensaje": "Hola",
     "fecha": "2026-07-28T14:49:30.936Z",
-    "ultimaActualizacion": "2026-07-28T14:59:59.973Z",
+    "ultimaActualizacion": "2026-07-28T15:00:08.614Z",
     "historialMensajes": [
       {
         "texto": "Hola",
@@ -45857,6 +45857,11 @@
       {
         "texto": "Si esa es la.direccion  siempre pongo cono referencia la esquina juan beteran perp esa es la dirección",
         "fecha": "2026-07-28T14:59:59.973Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Muchas gracias",
+        "fecha": "2026-07-28T15:00:08.614Z",
         "sentimiento": "positivo"
       }
     ]
