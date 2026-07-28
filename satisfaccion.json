@@ -44496,11 +44496,11 @@
     "celular": "+54 9 3815 730-657",
     "nombre": "",
     "direccion": "Malabia 2150",
-    "sentimiento": "negativo",
-    "ultimoMensaje": "Es suciedad de los vecinos",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Hay que notificarle que no se debe  arroja basurero en las calles",
     "mensaje": "Buendía",
     "fecha": "2026-07-14T16:26:00.634Z",
-    "ultimaActualizacion": "2026-07-28T14:29:10.414Z",
+    "ultimaActualizacion": "2026-07-28T14:29:47.996Z",
     "historialMensajes": [
       {
         "texto": "Buendía",
@@ -44521,6 +44521,11 @@
         "texto": "Es suciedad de los vecinos",
         "fecha": "2026-07-28T14:29:10.414Z",
         "sentimiento": "negativo"
+      },
+      {
+        "texto": "Hay que notificarle que no se debe  arroja basurero en las calles",
+        "fecha": "2026-07-28T14:29:47.996Z",
+        "sentimiento": "positivo"
       }
     ]
   },
