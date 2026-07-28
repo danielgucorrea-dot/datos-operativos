@@ -490,7 +490,7 @@
     "celular": "+54 9 3816 350-459",
     "nombre": "",
     "direccion": "pje primera junta al 1100",
-    "sentimiento": "positivo",
+    "sentimiento": "neutro",
     "evidencia_clasificacion": [],
     "canal": "WhatsApp Ambiente",
     "fecha": "2026-06-08",
@@ -503,8 +503,8 @@
       "Buenos días perfecto",
       "Buenos días mi vecina de pje primera junta 1090 dejando su basura en la esquina de La Plata y pje primera junta"
     ],
-    "ultimaActualizacion": "2026-07-07T12:25:36.716Z",
-    "ultimoMensaje": "Temprano paso el barrendero y dejo esto",
+    "ultimaActualizacion": "2026-07-28T15:15:12.985Z",
+    "ultimoMensaje": "Esquina pje primera junta",
     "historialMensajes": [
       {
         "texto": "Buenas tardes",
@@ -520,6 +520,11 @@
         "texto": "Temprano paso el barrendero y dejo esto",
         "fecha": "2026-07-07T12:25:36.716Z",
         "sentimiento": "positivo"
+      },
+      {
+        "texto": "Esquina pje primera junta",
+        "fecha": "2026-07-28T15:15:12.985Z",
+        "sentimiento": "neutro"
       }
     ]
   },
