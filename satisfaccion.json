@@ -2492,10 +2492,10 @@
   },
   {
     "numero": "92234775056406",
-    "celular": "",
+    "celular": "+54 9 3854 036-149",
     "nombre": "",
     "direccion": "Emilio castelar 425",
-    "sentimiento": "neutro",
+    "sentimiento": "positivo",
     "evidencia_clasificacion": [],
     "canal": "WhatsApp Ambiente",
     "fecha": "2026-06-30",
@@ -2505,7 +2505,15 @@
       "Emilio castelar 425 entre lápida y 25 de mayo",
       "Buenos días  tengo  para q me recojan unas hojas de palmera q podamos del fondo están en la vereda si ustedes pueden"
     ],
-    "ultimaActualizacion": "2026-06-30"
+    "ultimaActualizacion": "2026-07-28T16:00:13.385Z",
+    "ultimoMensaje": "Gracias",
+    "historialMensajes": [
+      {
+        "texto": "Gracias",
+        "fecha": "2026-07-28T16:00:13.385Z",
+        "sentimiento": "positivo"
+      }
+    ]
   },
   {
     "numero": "41854624104503",
