@@ -46707,16 +46707,21 @@
     "celular": "+54 9 3814 419-326",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Buenas tardes",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Tengo residuos no convencionales para tirar 2m3 más o menos",
     "mensaje": "Buenas tardes",
     "fecha": "2026-07-28T20:15:55.387Z",
-    "ultimaActualizacion": "2026-07-28T20:15:55.387Z",
+    "ultimaActualizacion": "2026-07-28T20:16:16.201Z",
     "historialMensajes": [
       {
         "texto": "Buenas tardes",
         "fecha": "2026-07-28T20:15:55.387Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Tengo residuos no convencionales para tirar 2m3 más o menos",
+        "fecha": "2026-07-28T20:16:16.201Z",
+        "sentimiento": "positivo"
       }
     ]
   }
