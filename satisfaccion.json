@@ -23479,7 +23479,7 @@
     "celular": "+54 9 3814 545-653",
     "nombre": "",
     "direccion": "Chiclana 147",
-    "sentimiento": "neutro",
+    "sentimiento": "positivo",
     "evidencia_clasificacion": [],
     "canal": "WhatsApp Ambiente",
     "fecha": "2026-05-22",
@@ -23489,7 +23489,15 @@
       "Mí dirección es Chiclana 147",
       "Buen día. Necesito que retiren de mi domicilio residuos no habituales por favor"
     ],
-    "ultimaActualizacion": "2026-05-22"
+    "ultimaActualizacion": "2026-07-28T20:15:30.936Z",
+    "ultimoMensaje": "Buenas tardes. Necesito que retiren de mi domicilio residuos no habituales por favor",
+    "historialMensajes": [
+      {
+        "texto": "Buenas tardes. Necesito que retiren de mi domicilio residuos no habituales por favor",
+        "fecha": "2026-07-28T20:15:30.936Z",
+        "sentimiento": "positivo"
+      }
+    ]
   },
   {
     "numero": "197293735190762",
@@ -46690,6 +46698,24 @@
       {
         "texto": "Buenas tardes",
         "fecha": "2026-07-28T20:09:40.606Z",
+        "sentimiento": "neutro"
+      }
+    ]
+  },
+  {
+    "numero": "214739875569797",
+    "celular": "+54 9 3814 419-326",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Buenas tardes",
+    "mensaje": "Buenas tardes",
+    "fecha": "2026-07-28T20:15:55.387Z",
+    "ultimaActualizacion": "2026-07-28T20:15:55.387Z",
+    "historialMensajes": [
+      {
+        "texto": "Buenas tardes",
+        "fecha": "2026-07-28T20:15:55.387Z",
         "sentimiento": "neutro"
       }
     ]
