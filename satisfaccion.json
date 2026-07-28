@@ -45037,15 +45037,38 @@
     "celular": "+54 9 3815 076-203",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Buen dia",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Tengo residuos de poda de arbol",
     "mensaje": "Buen dia",
     "fecha": "2026-07-28T12:42:35.243Z",
-    "ultimaActualizacion": "2026-07-28T12:42:35.243Z",
+    "ultimaActualizacion": "2026-07-28T12:42:54.491Z",
     "historialMensajes": [
       {
         "texto": "Buen dia",
         "fecha": "2026-07-28T12:42:35.243Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Tengo residuos de poda de arbol",
+        "fecha": "2026-07-28T12:42:54.491Z",
+        "sentimiento": "positivo"
+      }
+    ]
+  },
+  {
+    "numero": "22377014509770",
+    "celular": "+54 9 3812 184-912",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Hola buen dia",
+    "mensaje": "Hola buen dia",
+    "fecha": "2026-07-28T12:43:09.004Z",
+    "ultimaActualizacion": "2026-07-28T12:43:09.004Z",
+    "historialMensajes": [
+      {
+        "texto": "Hola buen dia",
+        "fecha": "2026-07-28T12:43:09.004Z",
         "sentimiento": "neutro"
       }
     ]
