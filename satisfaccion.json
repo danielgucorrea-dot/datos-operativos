@@ -44999,10 +44999,10 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "neutro",
-    "ultimoMensaje": "15 dias habiles jaja. Son conscientes del dispendio?",
+    "ultimoMensaje": "en vez de hacer de una sola vez el tramite, tienen que venir dos veces en un mes?",
     "mensaje": "Buen dia, y con el resto que hago?",
     "fecha": "2026-07-28T12:19:43.269Z",
-    "ultimaActualizacion": "2026-07-28T12:57:42.326Z",
+    "ultimaActualizacion": "2026-07-28T12:58:04.042Z",
     "historialMensajes": [
       {
         "texto": "Buen dia, y con el resto que hago?",
@@ -45017,6 +45017,11 @@
       {
         "texto": "15 dias habiles jaja. Son conscientes del dispendio?",
         "fecha": "2026-07-28T12:57:42.326Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "en vez de hacer de una sola vez el tramite, tienen que venir dos veces en un mes?",
+        "fecha": "2026-07-28T12:58:04.042Z",
         "sentimiento": "neutro"
       }
     ]
