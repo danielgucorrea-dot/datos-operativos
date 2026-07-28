@@ -45597,14 +45597,19 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "positivo",
-    "ultimoMensaje": "Buen día ! \nQuería consultarle. Tengo escombro en bolsas para tirar. Uds pueden retirarlas? Y que cantidad pueden retirar. Gracias",
+    "ultimoMensaje": "Perfecto muchas gracias !!!",
     "mensaje": "Buen día ! \nQuería consultarle. Tengo escombro en bolsas para tirar. Uds pueden retirarlas? Y que cantidad pueden retirar. Gracias",
     "fecha": "2026-07-28T13:16:19.251Z",
-    "ultimaActualizacion": "2026-07-28T13:16:19.251Z",
+    "ultimaActualizacion": "2026-07-28T18:11:03.631Z",
     "historialMensajes": [
       {
         "texto": "Buen día ! \nQuería consultarle. Tengo escombro en bolsas para tirar. Uds pueden retirarlas? Y que cantidad pueden retirar. Gracias",
         "fecha": "2026-07-28T13:16:19.251Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Perfecto muchas gracias !!!",
+        "fecha": "2026-07-28T18:11:03.631Z",
         "sentimiento": "positivo"
       }
     ]
