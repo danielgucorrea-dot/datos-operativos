@@ -42546,10 +42546,10 @@
     "nombre": "",
     "direccion": "barrio sur",
     "sentimiento": "positivo",
-    "ultimoMensaje": "Me dejas número de gestión por favor",
+    "ultimoMensaje": "Muchas gracias",
     "mensaje": "Buen día para pedir servicio de residuo no habituales tengo bolsas con escombros",
     "fecha": "2026-07-13T14:15:33.092Z",
-    "ultimaActualizacion": "2026-07-28T15:05:36.768Z",
+    "ultimaActualizacion": "2026-07-28T15:08:07.934Z",
     "historialMensajes": [
       {
         "texto": "Buen día para pedir servicio de residuo no habituales tengo bolsas con escombros",
@@ -42589,6 +42589,11 @@
       {
         "texto": "Me dejas número de gestión por favor",
         "fecha": "2026-07-28T15:05:36.768Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Muchas gracias",
+        "fecha": "2026-07-28T15:08:07.934Z",
         "sentimiento": "positivo"
       }
     ]
