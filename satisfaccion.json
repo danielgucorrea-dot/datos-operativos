@@ -45997,14 +45997,19 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "neutro",
-    "ultimoMensaje": "Buen dia",
+    "ultimoMensaje": "Para hacer retiro de escombro",
     "mensaje": "Buen dia",
     "fecha": "2026-07-28T15:14:32.103Z",
-    "ultimaActualizacion": "2026-07-28T15:14:32.103Z",
+    "ultimaActualizacion": "2026-07-28T15:14:46.810Z",
     "historialMensajes": [
       {
         "texto": "Buen dia",
         "fecha": "2026-07-28T15:14:32.103Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Para hacer retiro de escombro",
+        "fecha": "2026-07-28T15:14:46.810Z",
         "sentimiento": "neutro"
       }
     ]
