@@ -44910,10 +44910,10 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "neutro",
-    "ultimoMensaje": "ex centro de jubilados del seoc",
+    "ultimoMensaje": "ok.",
     "mensaje": "sin 22 bolsas a medio llenar.",
     "fecha": "2026-07-28T12:12:03.337Z",
-    "ultimaActualizacion": "2026-07-28T12:45:48.370Z",
+    "ultimaActualizacion": "2026-07-28T12:57:32.139Z",
     "historialMensajes": [
       {
         "texto": "sin 22 bolsas a medio llenar.",
@@ -44933,6 +44933,11 @@
       {
         "texto": "ex centro de jubilados del seoc",
         "fecha": "2026-07-28T12:45:48.370Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "ok.",
+        "fecha": "2026-07-28T12:57:32.139Z",
         "sentimiento": "neutro"
       }
     ]
@@ -44994,14 +44999,19 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "neutro",
-    "ultimoMensaje": "Buen dia, y con el resto que hago?",
+    "ultimoMensaje": "y que hago con el resto?",
     "mensaje": "Buen dia, y con el resto que hago?",
     "fecha": "2026-07-28T12:19:43.269Z",
-    "ultimaActualizacion": "2026-07-28T12:19:43.269Z",
+    "ultimaActualizacion": "2026-07-28T12:56:25.873Z",
     "historialMensajes": [
       {
         "texto": "Buen dia, y con el resto que hago?",
         "fecha": "2026-07-28T12:19:43.269Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "y que hago con el resto?",
+        "fecha": "2026-07-28T12:56:25.873Z",
         "sentimiento": "neutro"
       }
     ]
