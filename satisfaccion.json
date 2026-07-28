@@ -45220,11 +45220,11 @@
     "celular": "+54 9 3815 076-203",
     "nombre": "",
     "direccion": "Rondeau 2342",
-    "sentimiento": "neutro",
-    "ultimoMensaje": "no creo que necesario el uso de la maquina.",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "para que no este obstruyendo el transito de la gente en la vereda",
     "mensaje": "Buen dia",
     "fecha": "2026-07-28T12:42:35.243Z",
-    "ultimaActualizacion": "2026-07-28T14:46:07.497Z",
+    "ultimaActualizacion": "2026-07-28T14:48:46.655Z",
     "historialMensajes": [
       {
         "texto": "Buen dia",
@@ -45270,6 +45270,11 @@
         "texto": "no creo que necesario el uso de la maquina.",
         "fecha": "2026-07-28T14:46:07.497Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "para que no este obstruyendo el transito de la gente en la vereda",
+        "fecha": "2026-07-28T14:48:46.655Z",
+        "sentimiento": "positivo"
       }
     ]
   },
@@ -45760,6 +45765,24 @@
         "texto": "Es la puerta de ingreso de la Facultad de Medicina",
         "fecha": "2026-07-28T14:45:58.106Z",
         "sentimiento": "positivo"
+      }
+    ]
+  },
+  {
+    "numero": "17549286711509",
+    "celular": "+54 9 3813 936-333",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Hola",
+    "mensaje": "Hola",
+    "fecha": "2026-07-28T14:49:30.936Z",
+    "ultimaActualizacion": "2026-07-28T14:49:30.936Z",
+    "historialMensajes": [
+      {
+        "texto": "Hola",
+        "fecha": "2026-07-28T14:49:30.936Z",
+        "sentimiento": "neutro"
       }
     ]
   }
