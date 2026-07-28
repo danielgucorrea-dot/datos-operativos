@@ -45810,5 +45810,23 @@
         "sentimiento": "negativo"
       }
     ]
+  },
+  {
+    "numero": "170171285172266",
+    "celular": "+54 9 3812 123-264",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Hola buenos días",
+    "mensaje": "Hola buenos días",
+    "fecha": "2026-07-28T14:51:33.245Z",
+    "ultimaActualizacion": "2026-07-28T14:51:33.245Z",
+    "historialMensajes": [
+      {
+        "texto": "Hola buenos días",
+        "fecha": "2026-07-28T14:51:33.245Z",
+        "sentimiento": "neutro"
+      }
+    ]
   }
 ]
