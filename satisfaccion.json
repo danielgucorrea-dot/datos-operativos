@@ -46729,5 +46729,41 @@
         "sentimiento": "positivo"
       }
     ]
+  },
+  {
+    "numero": "198131203444784",
+    "celular": "+54 9 3814 950-662",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Hola",
+    "mensaje": "Hola",
+    "fecha": "2026-07-28T20:42:56.953Z",
+    "ultimaActualizacion": "2026-07-28T20:42:56.953Z",
+    "historialMensajes": [
+      {
+        "texto": "Hola",
+        "fecha": "2026-07-28T20:42:56.953Z",
+        "sentimiento": "neutro"
+      }
+    ]
+  },
+  {
+    "numero": "23197370052807",
+    "celular": "+54 9 3813 038-687",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Buenas tardes para solicitar el retiro de basura no habitual es para ramas de la poda de dos árboles envío foto y direccion",
+    "mensaje": "Buenas tardes para solicitar el retiro de basura no habitual es para ramas de la poda de dos árboles envío foto y direccion",
+    "fecha": "2026-07-28T20:43:02.822Z",
+    "ultimaActualizacion": "2026-07-28T20:43:02.822Z",
+    "historialMensajes": [
+      {
+        "texto": "Buenas tardes para solicitar el retiro de basura no habitual es para ramas de la poda de dos árboles envío foto y direccion",
+        "fecha": "2026-07-28T20:43:02.822Z",
+        "sentimiento": "positivo"
+      }
+    ]
   }
 ]
