@@ -46798,5 +46798,23 @@
         "sentimiento": "positivo"
       }
     ]
+  },
+  {
+    "numero": "232435207917787",
+    "celular": "+54 9 3816 736-690",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Hola buenas tardes, me dijeron que me comunique aquí por unos tubos fluorescentes que tengo para descartar",
+    "mensaje": "Hola buenas tardes, me dijeron que me comunique aquí por unos tubos fluorescentes que tengo para descartar",
+    "fecha": "2026-07-28T21:48:32.870Z",
+    "ultimaActualizacion": "2026-07-28T21:48:32.870Z",
+    "historialMensajes": [
+      {
+        "texto": "Hola buenas tardes, me dijeron que me comunique aquí por unos tubos fluorescentes que tengo para descartar",
+        "fecha": "2026-07-28T21:48:32.870Z",
+        "sentimiento": "neutro"
+      }
+    ]
   }
 ]
