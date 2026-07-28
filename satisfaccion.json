@@ -45289,10 +45289,10 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "positivo",
-    "ultimoMensaje": "Para sacar basura de la vereda",
+    "ultimoMensaje": "Dirección es las piedras 3122",
     "mensaje": "Hola buen dia",
     "fecha": "2026-07-28T12:43:09.004Z",
-    "ultimaActualizacion": "2026-07-28T12:43:18.010Z",
+    "ultimaActualizacion": "2026-07-28T14:53:39.989Z",
     "historialMensajes": [
       {
         "texto": "Hola buen dia",
@@ -45302,6 +45302,11 @@
       {
         "texto": "Para sacar basura de la vereda",
         "fecha": "2026-07-28T12:43:18.010Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Dirección es las piedras 3122",
+        "fecha": "2026-07-28T14:53:39.989Z",
         "sentimiento": "positivo"
       }
     ]
