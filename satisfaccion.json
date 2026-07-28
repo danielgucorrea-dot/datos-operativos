@@ -16584,7 +16584,7 @@
     "celular": "+54 9 3813 602-104",
     "nombre": "",
     "direccion": "Barrio nestor Kirchner Chiclana",
-    "sentimiento": "neutro",
+    "sentimiento": "positivo",
     "evidencia_clasificacion": [],
     "canal": "WhatsApp Ambiente",
     "fecha": "2026-06-03",
@@ -16598,8 +16598,8 @@
       "Hola tengo muchas ramas , pastoy botellas de vidrio",
       "Hola"
     ],
-    "ultimaActualizacion": "2026-07-28T15:08:30.491Z",
-    "ultimoMensaje": "Cuando vendrían",
+    "ultimaActualizacion": "2026-07-28T15:39:21.752Z",
+    "ultimoMensaje": "Ok gracias",
     "historialMensajes": [
       {
         "texto": "Justo corta la democracia",
@@ -16610,6 +16610,11 @@
         "texto": "Cuando vendrían",
         "fecha": "2026-07-28T15:08:30.491Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Ok gracias",
+        "fecha": "2026-07-28T15:39:21.752Z",
+        "sentimiento": "positivo"
       }
     ]
   },
