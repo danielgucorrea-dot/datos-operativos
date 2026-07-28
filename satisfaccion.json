@@ -45204,5 +45204,23 @@
         "sentimiento": "neutro"
       }
     ]
+  },
+  {
+    "numero": "5313025593358",
+    "celular": "+54 9 3813 156-516",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Buen día ! \nQuería consultarle. Tengo escombro en bolsas para tirar. Uds pueden retirarlas? Y que cantidad pueden retirar. Gracias",
+    "mensaje": "Buen día ! \nQuería consultarle. Tengo escombro en bolsas para tirar. Uds pueden retirarlas? Y que cantidad pueden retirar. Gracias",
+    "fecha": "2026-07-28T13:16:19.251Z",
+    "ultimaActualizacion": "2026-07-28T13:16:19.251Z",
+    "historialMensajes": [
+      {
+        "texto": "Buen día ! \nQuería consultarle. Tengo escombro en bolsas para tirar. Uds pueden retirarlas? Y que cantidad pueden retirar. Gracias",
+        "fecha": "2026-07-28T13:16:19.251Z",
+        "sentimiento": "positivo"
+      }
+    ]
   }
 ]
