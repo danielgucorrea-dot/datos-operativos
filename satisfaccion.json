@@ -30888,12 +30888,17 @@
       "En vereda Av Francisco de Aguirre al 1600",
       "Gente tirando basura"
     ],
-    "ultimaActualizacion": "2026-07-28T14:12:49.390Z",
-    "ultimoMensaje": "3 dias ? Ok ok gracias",
+    "ultimaActualizacion": "2026-07-28T14:18:58.935Z",
+    "ultimoMensaje": "Bien gracias",
     "historialMensajes": [
       {
         "texto": "3 dias ? Ok ok gracias",
         "fecha": "2026-07-28T14:12:49.390Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Bien gracias",
+        "fecha": "2026-07-28T14:18:58.935Z",
         "sentimiento": "positivo"
       }
     ]
