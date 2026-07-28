@@ -3663,7 +3663,7 @@
     "celular": "+54 9 3816 728-349",
     "nombre": "",
     "direccion": "",
-    "sentimiento": "neutro",
+    "sentimiento": "negativo",
     "evidencia_clasificacion": [],
     "canal": "WhatsApp Ambiente",
     "fecha": "2026-06-29",
@@ -3672,13 +3672,18 @@
       "En la cuadra donde vivo hay muchos naranjos en las veredas y se están cayendo de lo maduras que están y ensucian mucho. \nLa municipalidad podrá venir a sacar las naranjas de los árboles?",
       "Buen día"
     ],
-    "ultimaActualizacion": "2026-07-28T17:18:49.994Z",
-    "ultimoMensaje": "Buen día",
+    "ultimaActualizacion": "2026-07-28T17:19:01.699Z",
+    "ultimoMensaje": "Nunca vinieron a hacer el rebaño",
     "historialMensajes": [
       {
         "texto": "Buen día",
         "fecha": "2026-07-28T17:18:49.994Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Nunca vinieron a hacer el rebaño",
+        "fecha": "2026-07-28T17:19:01.699Z",
+        "sentimiento": "negativo"
       }
     ]
   },
@@ -46560,12 +46565,12 @@
     "numero": "132607534710880",
     "celular": "+54 9 3815 076-807",
     "nombre": "",
-    "direccion": null,
-    "sentimiento": "positivo",
-    "ultimoMensaje": "Para retirar unas ramas",
+    "direccion": "Colombia 55",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Colombia 55",
     "mensaje": "Hola buenas tardes",
     "fecha": "2026-07-28T17:18:04.597Z",
-    "ultimaActualizacion": "2026-07-28T17:18:23.713Z",
+    "ultimaActualizacion": "2026-07-28T17:19:14.936Z",
     "historialMensajes": [
       {
         "texto": "Hola buenas tardes",
@@ -46581,6 +46586,11 @@
         "texto": "Para retirar unas ramas",
         "fecha": "2026-07-28T17:18:23.713Z",
         "sentimiento": "positivo"
+      },
+      {
+        "texto": "Colombia 55",
+        "fecha": "2026-07-28T17:19:14.936Z",
+        "sentimiento": "neutro"
       }
     ]
   }
