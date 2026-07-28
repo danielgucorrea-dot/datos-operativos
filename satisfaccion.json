@@ -2411,7 +2411,15 @@
       "Es impresionante como arrojan basura los vecinos y  a la madrugada los carritos .",
       "Buenas tardes \nPor favor podrían retirar la basura de calle Ricardo Rojas y Pío 12"
     ],
-    "ultimaActualizacion": "2026-06-30"
+    "ultimaActualizacion": "2026-07-28T15:25:17.891Z",
+    "ultimoMensaje": "Buenas tardes \nPor favor podrían retirar la basura de calle Ricardo Rojas y Pío 12",
+    "historialMensajes": [
+      {
+        "texto": "Buenas tardes \nPor favor podrían retirar la basura de calle Ricardo Rojas y Pío 12",
+        "fecha": "2026-07-28T15:25:17.891Z",
+        "sentimiento": "neutro"
+      }
+    ]
   },
   {
     "numero": "132895029096675",
