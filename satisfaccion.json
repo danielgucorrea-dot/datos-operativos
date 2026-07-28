@@ -44910,10 +44910,10 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "neutro",
-    "ultimoMensaje": "Buen día",
+    "ultimoMensaje": "es en general paz 976 es casa",
     "mensaje": "sin 22 bolsas a medio llenar.",
     "fecha": "2026-07-28T12:12:03.337Z",
-    "ultimaActualizacion": "2026-07-28T12:12:10.598Z",
+    "ultimaActualizacion": "2026-07-28T12:45:32.766Z",
     "historialMensajes": [
       {
         "texto": "sin 22 bolsas a medio llenar.",
@@ -44923,6 +44923,11 @@
       {
         "texto": "Buen día",
         "fecha": "2026-07-28T12:12:10.598Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "es en general paz 976 es casa",
+        "fecha": "2026-07-28T12:45:32.766Z",
         "sentimiento": "neutro"
       }
     ]
