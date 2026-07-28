@@ -45995,11 +45995,11 @@
     "celular": "+54 9 3812 123-264",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Q requisitos necesito",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Si necesito recolección de residuos no habituales",
     "mensaje": "Hola buenos días",
     "fecha": "2026-07-28T14:51:33.245Z",
-    "ultimaActualizacion": "2026-07-28T14:56:09.392Z",
+    "ultimaActualizacion": "2026-07-28T15:31:01.975Z",
     "historialMensajes": [
       {
         "texto": "Hola buenos días",
@@ -46015,6 +46015,11 @@
         "texto": "Q requisitos necesito",
         "fecha": "2026-07-28T14:56:09.392Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Si necesito recolección de residuos no habituales",
+        "fecha": "2026-07-28T15:31:01.975Z",
+        "sentimiento": "positivo"
       }
     ]
   },
@@ -46110,16 +46115,21 @@
     "celular": "+54 9 3816 878-017",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "positivo",
-    "ultimoMensaje": "Hola buenas tardes quería saber cómo tengo que a ser así me vengan a sacar unos cacharros y basura acumulada del fondo antes de que llegue el verano por los zancudos",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "A ok",
     "mensaje": "Hola buenas tardes quería saber cómo tengo que a ser así me vengan a sacar unos cacharros y basura acumulada del fondo antes de que llegue el verano por los zancudos",
     "fecha": "2026-07-28T15:20:25.627Z",
-    "ultimaActualizacion": "2026-07-28T15:20:25.627Z",
+    "ultimaActualizacion": "2026-07-28T15:31:36.141Z",
     "historialMensajes": [
       {
         "texto": "Hola buenas tardes quería saber cómo tengo que a ser así me vengan a sacar unos cacharros y basura acumulada del fondo antes de que llegue el verano por los zancudos",
         "fecha": "2026-07-28T15:20:25.627Z",
         "sentimiento": "positivo"
+      },
+      {
+        "texto": "A ok",
+        "fecha": "2026-07-28T15:31:36.141Z",
+        "sentimiento": "neutro"
       }
     ]
   },
