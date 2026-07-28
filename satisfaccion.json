@@ -46158,11 +46158,11 @@
     "celular": "+54 9 3813 393-856",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "negativo",
-    "ultimoMensaje": "Dejen, no sirven para nada la verdad",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Pasen a buscar las bolsas de basura, eso voy a dejar afuera",
     "mensaje": "Esas chapas y las bolsas que están atrás, la mitad es basura normal, las otras tienen escombros",
     "fecha": "2026-07-28T15:20:38.589Z",
-    "ultimaActualizacion": "2026-07-28T15:38:05.880Z",
+    "ultimaActualizacion": "2026-07-28T15:38:15.322Z",
     "historialMensajes": [
       {
         "texto": "Esas chapas y las bolsas que están atrás, la mitad es basura normal, las otras tienen escombros",
@@ -46203,6 +46203,11 @@
         "texto": "Dejen, no sirven para nada la verdad",
         "fecha": "2026-07-28T15:38:05.880Z",
         "sentimiento": "negativo"
+      },
+      {
+        "texto": "Pasen a buscar las bolsas de basura, eso voy a dejar afuera",
+        "fecha": "2026-07-28T15:38:15.322Z",
+        "sentimiento": "positivo"
       }
     ]
   }
