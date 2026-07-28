@@ -45060,16 +45060,21 @@
     "celular": "+54 9 3812 184-912",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Hola buen dia",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Para sacar basura de la vereda",
     "mensaje": "Hola buen dia",
     "fecha": "2026-07-28T12:43:09.004Z",
-    "ultimaActualizacion": "2026-07-28T12:43:09.004Z",
+    "ultimaActualizacion": "2026-07-28T12:43:18.010Z",
     "historialMensajes": [
       {
         "texto": "Hola buen dia",
         "fecha": "2026-07-28T12:43:09.004Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Para sacar basura de la vereda",
+        "fecha": "2026-07-28T12:43:18.010Z",
+        "sentimiento": "positivo"
       }
     ]
   }
