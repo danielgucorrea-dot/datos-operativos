@@ -46295,10 +46295,10 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "neutro",
-    "ultimoMensaje": "Pero como se hace para notificar",
+    "ultimoMensaje": "Si no tiene los datos",
     "mensaje": "Buen día pero igual yo ví que ustedes entran a las casas y hacen ustedes la limpieza , yo a quien tengo que demandar por esto que hacen ? De tirar la basura en ese lugar",
     "fecha": "2026-07-28T15:53:59.030Z",
-    "ultimaActualizacion": "2026-07-28T16:00:10.579Z",
+    "ultimaActualizacion": "2026-07-28T16:00:25.823Z",
     "historialMensajes": [
       {
         "texto": "Buen día pero igual yo ví que ustedes entran a las casas y hacen ustedes la limpieza , yo a quien tengo que demandar por esto que hacen ? De tirar la basura en ese lugar",
@@ -46318,6 +46318,11 @@
       {
         "texto": "Pero como se hace para notificar",
         "fecha": "2026-07-28T16:00:10.579Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Si no tiene los datos",
+        "fecha": "2026-07-28T16:00:25.823Z",
         "sentimiento": "neutro"
       }
     ]
