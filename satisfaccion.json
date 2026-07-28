@@ -45518,10 +45518,10 @@
     "nombre": "",
     "direccion": "Julián murga 104",
     "sentimiento": "neutro",
-    "ultimoMensaje": "Buen dia",
+    "ultimoMensaje": "Julián murga 104. Altura Juan b justo 2600",
     "mensaje": "Buen dia",
     "fecha": "2026-07-28T13:15:16.350Z",
-    "ultimaActualizacion": "2026-07-28T17:17:16.838Z",
+    "ultimaActualizacion": "2026-07-28T17:17:32.335Z",
     "historialMensajes": [
       {
         "texto": "Buen dia",
@@ -45551,6 +45551,11 @@
       {
         "texto": "Buen dia",
         "fecha": "2026-07-28T17:17:16.838Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Julián murga 104. Altura Juan b justo 2600",
+        "fecha": "2026-07-28T17:17:32.335Z",
         "sentimiento": "neutro"
       }
     ]
@@ -46539,6 +46544,24 @@
       {
         "texto": "Quería informar que dejo sin efecto la solicitud para recolección de residuos No habituales",
         "fecha": "2026-07-28T17:16:07.450Z",
+        "sentimiento": "neutro"
+      }
+    ]
+  },
+  {
+    "numero": "132607534710880",
+    "celular": "+54 9 3815 076-807",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Hola buenas tardes",
+    "mensaje": "Hola buenas tardes",
+    "fecha": "2026-07-28T17:18:04.597Z",
+    "ultimaActualizacion": "2026-07-28T17:18:04.597Z",
+    "historialMensajes": [
+      {
+        "texto": "Hola buenas tardes",
+        "fecha": "2026-07-28T17:18:04.597Z",
         "sentimiento": "neutro"
       }
     ]
