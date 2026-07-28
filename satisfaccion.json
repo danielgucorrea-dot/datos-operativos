@@ -45163,12 +45163,12 @@
     "numero": "122192037703921",
     "celular": "+54 9 3816 566-996",
     "nombre": "",
-    "direccion": null,
-    "sentimiento": "positivo",
-    "ultimoMensaje": "Porque si no hacemos un reclamo no pasa. Y se los encuentra en la plaza a las 10 de la mañana. Antes había un señor que lo hacía y ese señor se jubiló y desde allí se terminó el servicio pero nos siguen cobrando el Cisi. Gracias",
+    "direccion": "Barrio Padilla",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Diagonal 8 al 1000 y 1100, Barrio Padilla",
     "mensaje": "Muchas gracias por responder. Realmente me preocupa porque hay una pérdida de agua más la basura del ambiente se hace muy difícil la limpieza por parte de cada vecino de la cuadra.",
     "fecha": "2026-07-28T13:12:03.032Z",
-    "ultimaActualizacion": "2026-07-28T13:14:59.879Z",
+    "ultimaActualizacion": "2026-07-28T13:15:34.480Z",
     "historialMensajes": [
       {
         "texto": "Muchas gracias por responder. Realmente me preocupa porque hay una pérdida de agua más la basura del ambiente se hace muy difícil la limpieza por parte de cada vecino de la cuadra.",
@@ -45179,6 +45179,11 @@
         "texto": "Porque si no hacemos un reclamo no pasa. Y se los encuentra en la plaza a las 10 de la mañana. Antes había un señor que lo hacía y ese señor se jubiló y desde allí se terminó el servicio pero nos sigu",
         "fecha": "2026-07-28T13:14:59.879Z",
         "sentimiento": "positivo"
+      },
+      {
+        "texto": "Diagonal 8 al 1000 y 1100, Barrio Padilla",
+        "fecha": "2026-07-28T13:15:34.480Z",
+        "sentimiento": "neutro"
       }
     ]
   },
