@@ -22470,8 +22470,8 @@
       "Por favor, si pudiesen retirarlos les agradecería mucho. Es en pasaje los sosa 4750/60",
       "Buen día, para solicitar el retiro de escombros, envío foto actual"
     ],
-    "ultimaActualizacion": "2026-07-28T16:10:19.594Z",
-    "ultimoMensaje": "En caso que si, sería en domicilio 4715",
+    "ultimaActualizacion": "2026-07-28T16:10:56.970Z",
+    "ultimoMensaje": "Y esas fotos son de ahora",
     "historialMensajes": [
       {
         "texto": "Buenas tardes, cómo están? Disculpen la molestia, ustedes retiran ramas?",
@@ -22481,6 +22481,11 @@
       {
         "texto": "En caso que si, sería en domicilio 4715",
         "fecha": "2026-07-28T16:10:19.594Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Y esas fotos son de ahora",
+        "fecha": "2026-07-28T16:10:56.970Z",
         "sentimiento": "neutro"
       }
     ]
@@ -46072,10 +46077,10 @@
     "nombre": "",
     "direccion": "Barrio mutualidad provincial mz",
     "sentimiento": "neutro",
-    "ultimoMensaje": "Esta todo mezclado",
+    "ultimoMensaje": "Barrio mutualidad provincial mz F casa 3\nLidoro quintero 2298",
     "mensaje": "Hola buenos días",
     "fecha": "2026-07-28T14:51:33.245Z",
-    "ultimaActualizacion": "2026-07-28T15:50:21.180Z",
+    "ultimaActualizacion": "2026-07-28T16:10:51.377Z",
     "historialMensajes": [
       {
         "texto": "Hola buenos días",
@@ -46115,6 +46120,11 @@
       {
         "texto": "Esta todo mezclado",
         "fecha": "2026-07-28T15:50:21.180Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Barrio mutualidad provincial mz F casa 3\nLidoro quintero 2298",
+        "fecha": "2026-07-28T16:10:51.377Z",
         "sentimiento": "neutro"
       }
     ]
