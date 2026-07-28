@@ -45260,10 +45260,10 @@
     "nombre": "",
     "direccion": "calle Ecuador 502",
     "sentimiento": "neutro",
-    "ultimoMensaje": "Temprano en la mañana deja la bolsa con hojas y recién al mediodía pasa el camión que en la retira y mientras tanto los vecinos dejan bolsas con todo tipo de desperdicio",
+    "ultimoMensaje": "Ecuador 502 esquina con 25 de Mayo",
     "mensaje": "Buenos días",
     "fecha": "2026-07-28T13:29:14.133Z",
-    "ultimaActualizacion": "2026-07-28T13:38:02.321Z",
+    "ultimaActualizacion": "2026-07-28T13:43:39.724Z",
     "historialMensajes": [
       {
         "texto": "Buenos días",
@@ -45283,6 +45283,11 @@
       {
         "texto": "Temprano en la mañana deja la bolsa con hojas y recién al mediodía pasa el camión que en la retira y mientras tanto los vecinos dejan bolsas con todo tipo de desperdicio",
         "fecha": "2026-07-28T13:38:02.321Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Ecuador 502 esquina con 25 de Mayo",
+        "fecha": "2026-07-28T13:43:39.724Z",
         "sentimiento": "neutro"
       }
     ]
