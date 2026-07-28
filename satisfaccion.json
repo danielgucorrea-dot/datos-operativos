@@ -8168,7 +8168,7 @@
     "celular": "+54 9 3814 051-079",
     "nombre": "",
     "direccion": "Manzana 26 casa 1",
-    "sentimiento": "neutro",
+    "sentimiento": "positivo",
     "evidencia_clasificacion": [],
     "canal": "WhatsApp Ambiente",
     "fecha": "2026-06-20",
@@ -8176,8 +8176,8 @@
     "conversacion_completa": [
       "Buenos días quería consultar como debo hacer para solicitar se levante las ramas de la poda de 3 árboles medianos de la vereda de mí casa"
     ],
-    "ultimaActualizacion": "2026-07-28T13:57:28.995Z",
-    "ultimoMensaje": "Manzana 26 casa 1 sector B",
+    "ultimaActualizacion": "2026-07-28T14:08:45.445Z",
+    "ultimoMensaje": "Muchas gracias",
     "historialMensajes": [
       {
         "texto": "Si por favor",
@@ -8193,6 +8193,11 @@
         "texto": "Manzana 26 casa 1 sector B",
         "fecha": "2026-07-28T13:57:28.995Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Muchas gracias",
+        "fecha": "2026-07-28T14:08:45.445Z",
+        "sentimiento": "positivo"
       }
     ]
   },
@@ -42127,10 +42132,10 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "neutro",
-    "ultimoMensaje": "buen dia",
+    "ultimoMensaje": "buen dia perdon",
     "mensaje": "buen dia",
     "fecha": "2026-07-13T12:35:57.936Z",
-    "ultimaActualizacion": "2026-07-14T12:15:17.781Z",
+    "ultimaActualizacion": "2026-07-28T14:08:36.358Z",
     "historialMensajes": [
       {
         "texto": "buen dia",
@@ -42160,6 +42165,16 @@
       {
         "texto": "buen dia",
         "fecha": "2026-07-14T12:15:17.781Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "ponelo como OS",
+        "fecha": "2026-07-28T14:08:34.827Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "buen dia perdon",
+        "fecha": "2026-07-28T14:08:36.358Z",
         "sentimiento": "neutro"
       }
     ]
