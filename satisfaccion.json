@@ -46412,5 +46412,46 @@
         "sentimiento": "neutro"
       }
     ]
+  },
+  {
+    "numero": "156994090586254",
+    "celular": "+54 9 3815 809-874",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Como hago para avisar??",
+    "mensaje": "Para retirara residuos de poda vegetal",
+    "fecha": "2026-07-28T16:20:21.088Z",
+    "ultimaActualizacion": "2026-07-28T16:20:30.175Z",
+    "historialMensajes": [
+      {
+        "texto": "Para retirara residuos de poda vegetal",
+        "fecha": "2026-07-28T16:20:21.088Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Como hago para avisar??",
+        "fecha": "2026-07-28T16:20:30.175Z",
+        "sentimiento": "positivo"
+      }
+    ]
+  },
+  {
+    "numero": "270690934632526",
+    "celular": "+54 9 3814 064-959",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Buenas tardes",
+    "mensaje": "Buenas tardes",
+    "fecha": "2026-07-28T16:20:24.063Z",
+    "ultimaActualizacion": "2026-07-28T16:20:24.063Z",
+    "historialMensajes": [
+      {
+        "texto": "Buenas tardes",
+        "fecha": "2026-07-28T16:20:24.063Z",
+        "sentimiento": "neutro"
+      }
+    ]
   }
 ]
