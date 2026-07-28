@@ -45259,11 +45259,11 @@
     "celular": "+54 9 3815 009-700",
     "nombre": "",
     "direccion": "calle Ecuador 502",
-    "sentimiento": "positivo",
-    "ultimoMensaje": "Quiero pedir por favor que pasen a retirar una bolsa con escombro de calle Ecuador 502",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Temprano en la mañana deja la bolsa con hojas y recién al mediodía pasa el camión que en la retira y mientras tanto los vecinos dejan bolsas con todo tipo de desperdicio",
     "mensaje": "Buenos días",
     "fecha": "2026-07-28T13:29:14.133Z",
-    "ultimaActualizacion": "2026-07-28T13:29:52.373Z",
+    "ultimaActualizacion": "2026-07-28T13:38:02.321Z",
     "historialMensajes": [
       {
         "texto": "Buenos días",
@@ -45274,6 +45274,16 @@
         "texto": "Quiero pedir por favor que pasen a retirar una bolsa con escombro de calle Ecuador 502",
         "fecha": "2026-07-28T13:29:52.373Z",
         "sentimiento": "positivo"
+      },
+      {
+        "texto": "Y el barrendero que pasa por la cuadra contribuye A crear un vaciadero en proceso",
+        "fecha": "2026-07-28T13:37:41.921Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Temprano en la mañana deja la bolsa con hojas y recién al mediodía pasa el camión que en la retira y mientras tanto los vecinos dejan bolsas con todo tipo de desperdicio",
+        "fecha": "2026-07-28T13:38:02.321Z",
+        "sentimiento": "neutro"
       }
     ]
   }
