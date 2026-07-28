@@ -46775,5 +46775,28 @@
         "sentimiento": "neutro"
       }
     ]
+  },
+  {
+    "numero": "23927296364572",
+    "celular": "+54 9 3816 362-892",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Necesito que extraigan residuos tóxicos🙏🏻",
+    "mensaje": "Buenas tardes",
+    "fecha": "2026-07-28T21:34:17.194Z",
+    "ultimaActualizacion": "2026-07-28T21:34:46.851Z",
+    "historialMensajes": [
+      {
+        "texto": "Buenas tardes",
+        "fecha": "2026-07-28T21:34:17.194Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Necesito que extraigan residuos tóxicos🙏🏻",
+        "fecha": "2026-07-28T21:34:46.851Z",
+        "sentimiento": "positivo"
+      }
+    ]
   }
 ]
