@@ -42501,11 +42501,11 @@
     "celular": "+54 9 3814 664-447",
     "nombre": "",
     "direccion": "barrio sur",
-    "sentimiento": "positivo",
-    "ultimoMensaje": "Muchas gracias",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Buen día como esta?",
     "mensaje": "Buen día para pedir servicio de residuo no habituales tengo bolsas con escombros",
     "fecha": "2026-07-13T14:15:33.092Z",
-    "ultimaActualizacion": "2026-07-13T15:52:46.147Z",
+    "ultimaActualizacion": "2026-07-28T14:14:47.683Z",
     "historialMensajes": [
       {
         "texto": "Buen día para pedir servicio de residuo no habituales tengo bolsas con escombros",
@@ -42531,6 +42531,11 @@
         "texto": "Muchas gracias",
         "fecha": "2026-07-13T15:52:46.147Z",
         "sentimiento": "positivo"
+      },
+      {
+        "texto": "Buen día como esta?",
+        "fecha": "2026-07-28T14:14:47.683Z",
+        "sentimiento": "neutro"
       }
     ]
   },
@@ -45457,10 +45462,10 @@
     "nombre": "",
     "direccion": "Barrio ejército Argentino pasaje",
     "sentimiento": "neutro",
-    "ultimoMensaje": "Barrio ejército Argentino pasaje superi  2845",
+    "ultimoMensaje": "Familia montivero",
     "mensaje": "Hola buenos dias",
     "fecha": "2026-07-28T14:11:47.130Z",
-    "ultimaActualizacion": "2026-07-28T14:14:38.776Z",
+    "ultimaActualizacion": "2026-07-28T14:15:01.060Z",
     "historialMensajes": [
       {
         "texto": "Hola buenos dias",
@@ -45475,6 +45480,11 @@
       {
         "texto": "Barrio ejército Argentino pasaje superi  2845",
         "fecha": "2026-07-28T14:14:38.776Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Familia montivero",
+        "fecha": "2026-07-28T14:15:01.060Z",
         "sentimiento": "neutro"
       }
     ]
