@@ -46109,11 +46109,11 @@
     "celular": "+54 9 3814 627-714",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Tendría q poner en bolsas?",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Gracias",
     "mensaje": "Buen dia",
     "fecha": "2026-07-28T15:14:32.103Z",
-    "ultimaActualizacion": "2026-07-28T15:38:21.747Z",
+    "ultimaActualizacion": "2026-07-28T15:45:54.876Z",
     "historialMensajes": [
       {
         "texto": "Buen dia",
@@ -46129,6 +46129,11 @@
         "texto": "Tendría q poner en bolsas?",
         "fecha": "2026-07-28T15:38:21.747Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Gracias",
+        "fecha": "2026-07-28T15:45:54.876Z",
+        "sentimiento": "positivo"
       }
     ]
   },
