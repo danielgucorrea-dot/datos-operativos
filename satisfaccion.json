@@ -45327,5 +45327,28 @@
         "sentimiento": "neutro"
       }
     ]
+  },
+  {
+    "numero": "29863327060030",
+    "celular": "+54 9 3813 599-448",
+    "nombre": "",
+    "direccion": "Malabia al 300",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Y sucede hace varios meses recién paso y llevaron la basura pero pasan 1 vez cada tanto",
+    "mensaje": "Malabia al 300 entre congreso y Heras",
+    "fecha": "2026-07-28T13:46:05.738Z",
+    "ultimaActualizacion": "2026-07-28T13:47:02.578Z",
+    "historialMensajes": [
+      {
+        "texto": "Malabia al 300 entre congreso y Heras",
+        "fecha": "2026-07-28T13:46:05.738Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Y sucede hace varios meses recién paso y llevaron la basura pero pasan 1 vez cada tanto",
+        "fecha": "2026-07-28T13:47:02.578Z",
+        "sentimiento": "neutro"
+      }
+    ]
   }
 ]
