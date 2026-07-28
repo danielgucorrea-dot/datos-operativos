@@ -46061,5 +46061,41 @@
         "sentimiento": "negativo"
       }
     ]
+  },
+  {
+    "numero": "280323992596633",
+    "celular": "+54 9 3816 878-017",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Hola buenas tardes quería saber cómo tengo que a ser así me vengan a sacar unos cacharros y basura acumulada del fondo antes de que llegue el verano por los zancudos",
+    "mensaje": "Hola buenas tardes quería saber cómo tengo que a ser así me vengan a sacar unos cacharros y basura acumulada del fondo antes de que llegue el verano por los zancudos",
+    "fecha": "2026-07-28T15:20:25.627Z",
+    "ultimaActualizacion": "2026-07-28T15:20:25.627Z",
+    "historialMensajes": [
+      {
+        "texto": "Hola buenas tardes quería saber cómo tengo que a ser así me vengan a sacar unos cacharros y basura acumulada del fondo antes de que llegue el verano por los zancudos",
+        "fecha": "2026-07-28T15:20:25.627Z",
+        "sentimiento": "positivo"
+      }
+    ]
+  },
+  {
+    "numero": "7812595896495",
+    "celular": "+54 9 3813 393-856",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "negativo",
+    "ultimoMensaje": "Esas chapas y las bolsas que están atrás, la mitad es basura normal, las otras tienen escombros",
+    "mensaje": "Esas chapas y las bolsas que están atrás, la mitad es basura normal, las otras tienen escombros",
+    "fecha": "2026-07-28T15:20:38.589Z",
+    "ultimaActualizacion": "2026-07-28T15:20:38.589Z",
+    "historialMensajes": [
+      {
+        "texto": "Esas chapas y las bolsas que están atrás, la mitad es basura normal, las otras tienen escombros",
+        "fecha": "2026-07-28T15:20:38.589Z",
+        "sentimiento": "negativo"
+      }
+    ]
   }
 ]
