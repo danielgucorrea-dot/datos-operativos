@@ -44999,10 +44999,10 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "neutro",
-    "ultimoMensaje": "en vez de hacer de una sola vez el tramite, tienen que venir dos veces en un mes?",
+    "ultimoMensaje": "parece un chiste de gallegos",
     "mensaje": "Buen dia, y con el resto que hago?",
     "fecha": "2026-07-28T12:19:43.269Z",
-    "ultimaActualizacion": "2026-07-28T12:58:04.042Z",
+    "ultimaActualizacion": "2026-07-28T12:58:49.585Z",
     "historialMensajes": [
       {
         "texto": "Buen dia, y con el resto que hago?",
@@ -45022,6 +45022,11 @@
       {
         "texto": "en vez de hacer de una sola vez el tramite, tienen que venir dos veces en un mes?",
         "fecha": "2026-07-28T12:58:04.042Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "parece un chiste de gallegos",
+        "fecha": "2026-07-28T12:58:49.585Z",
         "sentimiento": "neutro"
       }
     ]
