@@ -45106,11 +45106,11 @@
     "celular": "+54 9 3815 505-332",
     "nombre": "",
     "direccion": "Calle roque quintana 1260",
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Altura avenida Silvano bores al 400",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Bien perfecto muchas gracias",
     "mensaje": "Si es para ahi",
     "fecha": "2026-07-28T12:12:05.897Z",
-    "ultimaActualizacion": "2026-07-28T14:28:52.773Z",
+    "ultimaActualizacion": "2026-07-28T15:09:25.321Z",
     "historialMensajes": [
       {
         "texto": "Si es para ahi",
@@ -45146,6 +45146,11 @@
         "texto": "Altura avenida Silvano bores al 400",
         "fecha": "2026-07-28T14:28:52.773Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Bien perfecto muchas gracias",
+        "fecha": "2026-07-28T15:09:25.321Z",
+        "sentimiento": "positivo"
       }
     ]
   },
