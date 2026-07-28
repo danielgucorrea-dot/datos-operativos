@@ -45158,5 +45158,23 @@
         "sentimiento": "positivo"
       }
     ]
+  },
+  {
+    "numero": "122192037703921",
+    "celular": "+54 9 3816 566-996",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Muchas gracias por responder. Realmente me preocupa porque hay una pérdida de agua más la basura del ambiente se hace muy difícil la limpieza por parte de cada vecino de la cuadra.",
+    "mensaje": "Muchas gracias por responder. Realmente me preocupa porque hay una pérdida de agua más la basura del ambiente se hace muy difícil la limpieza por parte de cada vecino de la cuadra.",
+    "fecha": "2026-07-28T13:12:03.032Z",
+    "ultimaActualizacion": "2026-07-28T13:12:03.032Z",
+    "historialMensajes": [
+      {
+        "texto": "Muchas gracias por responder. Realmente me preocupa porque hay una pérdida de agua más la basura del ambiente se hace muy difícil la limpieza por parte de cada vecino de la cuadra.",
+        "fecha": "2026-07-28T13:12:03.032Z",
+        "sentimiento": "positivo"
+      }
+    ]
   }
 ]
