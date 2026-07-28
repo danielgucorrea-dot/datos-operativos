@@ -7576,7 +7576,7 @@
     "celular": "+54 9 3816 333-341",
     "nombre": "",
     "direccion": "Pasaje Raul Galan 4075",
-    "sentimiento": "neutro",
+    "sentimiento": "negativo",
     "evidencia_clasificacion": [],
     "canal": "WhatsApp Ambiente",
     "fecha": "2026-06-22",
@@ -7589,13 +7589,18 @@
       "Lo dejaron frente a mi casa.",
       "Queria informar de esto"
     ],
-    "ultimaActualizacion": "2026-07-28T14:16:47.226Z",
-    "ultimoMensaje": "Buen dia",
+    "ultimaActualizacion": "2026-07-28T14:52:22.229Z",
+    "ultimoMensaje": "Estan haciendo un basural ahi",
     "historialMensajes": [
       {
         "texto": "Buen dia",
         "fecha": "2026-07-28T14:16:47.226Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Estan haciendo un basural ahi",
+        "fecha": "2026-07-28T14:52:22.229Z",
+        "sentimiento": "negativo"
       }
     ]
   },
