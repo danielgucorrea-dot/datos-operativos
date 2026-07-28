@@ -45220,11 +45220,11 @@
     "celular": "+54 9 3815 076-203",
     "nombre": "",
     "direccion": "Rondeau 2342",
-    "sentimiento": "negativo",
-    "ultimoMensaje": "solo necesito que lo retiren",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "no se bien en la foto, por la luz y por que la planta esta crecida. pero son ramas grandes solamente.",
     "mensaje": "Buen dia",
     "fecha": "2026-07-28T12:42:35.243Z",
-    "ultimaActualizacion": "2026-07-28T14:32:28.323Z",
+    "ultimaActualizacion": "2026-07-28T14:45:51.891Z",
     "historialMensajes": [
       {
         "texto": "Buen dia",
@@ -45260,6 +45260,11 @@
         "texto": "solo necesito que lo retiren",
         "fecha": "2026-07-28T14:32:28.323Z",
         "sentimiento": "negativo"
+      },
+      {
+        "texto": "no se bien en la foto, por la luz y por que la planta esta crecida. pero son ramas grandes solamente.",
+        "fecha": "2026-07-28T14:45:51.891Z",
+        "sentimiento": "neutro"
       }
     ]
   },
@@ -45727,6 +45732,29 @@
         "texto": "Diagonal 8 Barrio Ernesto Padilla",
         "fecha": "2026-07-28T14:40:06.522Z",
         "sentimiento": "neutro"
+      }
+    ]
+  },
+  {
+    "numero": "222999147991237",
+    "celular": "+54 9 3814 187-463",
+    "nombre": "",
+    "direccion": "Es en Lamadrid 875",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Es la puerta de ingreso de la Facultad de Medicina",
+    "mensaje": "Buen día, si. Es en Lamadrid 875",
+    "fecha": "2026-07-28T14:45:48.625Z",
+    "ultimaActualizacion": "2026-07-28T14:45:58.106Z",
+    "historialMensajes": [
+      {
+        "texto": "Buen día, si. Es en Lamadrid 875",
+        "fecha": "2026-07-28T14:45:48.625Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Es la puerta de ingreso de la Facultad de Medicina",
+        "fecha": "2026-07-28T14:45:58.106Z",
+        "sentimiento": "positivo"
       }
     ]
   }
