@@ -45238,17 +45238,12 @@
     "celular": "+54 9 3815 076-203",
     "nombre": "",
     "direccion": "Rondeau 2342",
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Me refiero hoy lo debo dejar?",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Ok gracias",
     "mensaje": "Buen dia",
     "fecha": "2026-07-28T12:42:35.243Z",
-    "ultimaActualizacion": "2026-07-28T15:01:29.338Z",
+    "ultimaActualizacion": "2026-07-28T15:03:03.523Z",
     "historialMensajes": [
-      {
-        "texto": "q haces pa?",
-        "fecha": "2026-07-28T14:30:30.720Z",
-        "sentimiento": "neutro"
-      },
       {
         "texto": "ya esta cortado",
         "fecha": "2026-07-28T14:32:16.223Z",
@@ -45293,6 +45288,11 @@
         "texto": "Me refiero hoy lo debo dejar?",
         "fecha": "2026-07-28T15:01:29.338Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Ok gracias",
+        "fecha": "2026-07-28T15:03:03.523Z",
+        "sentimiento": "positivo"
       }
     ]
   },
