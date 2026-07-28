@@ -45248,11 +45248,11 @@
     "celular": "+54 9 3815 192-787",
     "nombre": "",
     "direccion": "Malabia 900",
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Como veo que colocaron en varios lugares",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Muchas gracias",
     "mensaje": "Malabia 900. Se sigue generando basural, por falta de recolección!!!",
     "fecha": "2026-07-28T12:25:49.672Z",
-    "ultimaActualizacion": "2026-07-28T14:30:52.555Z",
+    "ultimaActualizacion": "2026-07-28T15:32:17.424Z",
     "historialMensajes": [
       {
         "texto": "Malabia 900. Se sigue generando basural, por falta de recolección!!!",
@@ -45273,6 +45273,11 @@
         "texto": "Como veo que colocaron en varios lugares",
         "fecha": "2026-07-28T14:30:52.555Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Muchas gracias",
+        "fecha": "2026-07-28T15:32:17.424Z",
+        "sentimiento": "positivo"
       }
     ]
   },
