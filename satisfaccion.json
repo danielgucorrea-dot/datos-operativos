@@ -18495,8 +18495,8 @@
       "Podría pasarme el número al que me pueda comunicar",
       "Hola buenos días"
     ],
-    "ultimaActualizacion": "2026-07-28T12:12:23.637Z",
-    "ultimoMensaje": "Es av colon y juanez de artaza",
+    "ultimaActualizacion": "2026-07-28T16:07:37.106Z",
+    "ultimoMensaje": "Pero lo de el desmalezamiento si",
     "historialMensajes": [
       {
         "texto": "Lo cargue por la app y lo cargue por un número de teléfono me dijeron que se iban a comunicar para que mandara las fotos y nadie se xominico",
@@ -18506,6 +18506,16 @@
       {
         "texto": "Es av colon y juanez de artaza",
         "fecha": "2026-07-28T12:12:23.637Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Si sabía que lo del agua servida no es de aqui",
+        "fecha": "2026-07-28T16:07:21.229Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Pero lo de el desmalezamiento si",
+        "fecha": "2026-07-28T16:07:37.106Z",
         "sentimiento": "neutro"
       }
     ]
