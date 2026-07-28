@@ -45013,5 +45013,41 @@
         "sentimiento": "negativo"
       }
     ]
+  },
+  {
+    "numero": "235686498177209",
+    "celular": "+54 9 3814 094-078",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Buenos días. Quería saber si por ese medio se puede pedir que retiren bolsa de tierra de una poda",
+    "mensaje": "Buenos días. Quería saber si por ese medio se puede pedir que retiren bolsa de tierra de una poda",
+    "fecha": "2026-07-28T12:40:40.806Z",
+    "ultimaActualizacion": "2026-07-28T12:40:40.806Z",
+    "historialMensajes": [
+      {
+        "texto": "Buenos días. Quería saber si por ese medio se puede pedir que retiren bolsa de tierra de una poda",
+        "fecha": "2026-07-28T12:40:40.806Z",
+        "sentimiento": "neutro"
+      }
+    ]
+  },
+  {
+    "numero": "146857883885717",
+    "celular": "+54 9 3815 076-203",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Buen dia",
+    "mensaje": "Buen dia",
+    "fecha": "2026-07-28T12:42:35.243Z",
+    "ultimaActualizacion": "2026-07-28T12:42:35.243Z",
+    "historialMensajes": [
+      {
+        "texto": "Buen dia",
+        "fecha": "2026-07-28T12:42:35.243Z",
+        "sentimiento": "neutro"
+      }
+    ]
   }
 ]
