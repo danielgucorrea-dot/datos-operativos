@@ -18379,7 +18379,20 @@
       "Podría pasarme el número al que me pueda comunicar",
       "Hola buenos días"
     ],
-    "ultimaActualizacion": "2026-06-02"
+    "ultimaActualizacion": "2026-07-28T12:12:23.637Z",
+    "ultimoMensaje": "Es av colon y juanez de artaza",
+    "historialMensajes": [
+      {
+        "texto": "Lo cargue por la app y lo cargue por un número de teléfono me dijeron que se iban a comunicar para que mandara las fotos y nadie se xominico",
+        "fecha": "2026-07-28T12:11:57.225Z",
+        "sentimiento": "negativo"
+      },
+      {
+        "texto": "Es av colon y juanez de artaza",
+        "fecha": "2026-07-28T12:12:23.637Z",
+        "sentimiento": "neutro"
+      }
+    ]
   },
   {
     "numero": "169397956161756",
@@ -44711,6 +44724,249 @@
         "texto": "Buenas tarde",
         "fecha": "2026-07-14T23:41:29.162Z",
         "sentimiento": "neutro"
+      }
+    ]
+  },
+  {
+    "numero": "83245207154886",
+    "celular": "+54 9 83245207154886",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Buen día",
+    "mensaje": "Buen día",
+    "fecha": "2026-07-28T12:11:42.351Z",
+    "ultimaActualizacion": "2026-07-28T12:11:42.351Z",
+    "historialMensajes": [
+      {
+        "texto": "Buen día",
+        "fecha": "2026-07-28T12:11:42.351Z",
+        "sentimiento": "neutro"
+      }
+    ]
+  },
+  {
+    "numero": "147265872244774",
+    "celular": "+54 9 3816 454-550",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "positivo",
+    "ultimoMensaje": "gracias",
+    "mensaje": "ok.. voy a poner ese cartel x las dudas",
+    "fecha": "2026-07-28T12:11:45.655Z",
+    "ultimaActualizacion": "2026-07-28T12:12:31.455Z",
+    "historialMensajes": [
+      {
+        "texto": "ok.. voy a poner ese cartel x las dudas",
+        "fecha": "2026-07-28T12:11:45.655Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "sino, mi porton, que son rejas abiertas, dan directo a la avenida. podria tenerlas ahi y cdo vayan , abro el porton y las saco",
+        "fecha": "2026-07-28T12:12:15.165Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "gracias",
+        "fecha": "2026-07-28T12:12:18.304Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "a las 2 parrillas de camas no las puedo sacar entonces?",
+        "fecha": "2026-07-28T12:12:21.375Z",
+        "sentimiento": "negativo"
+      },
+      {
+        "texto": "ok. y no podria hacer otra orden de servivio x las dos parrillas metalicas?",
+        "fecha": "2026-07-28T12:12:29.064Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "gracias",
+        "fecha": "2026-07-28T12:12:31.455Z",
+        "sentimiento": "positivo"
+      }
+    ]
+  },
+  {
+    "numero": "186170021523648",
+    "celular": "+54 9 186170021523648",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Buenos días",
+    "mensaje": "Buenos días",
+    "fecha": "2026-07-28T12:11:48.085Z",
+    "ultimaActualizacion": "2026-07-28T12:11:48.085Z",
+    "historialMensajes": [
+      {
+        "texto": "Buenos días",
+        "fecha": "2026-07-28T12:11:48.085Z",
+        "sentimiento": "neutro"
+      }
+    ]
+  },
+  {
+    "numero": "54829619650649",
+    "celular": "+54 9 829619650649",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Buen día",
+    "mensaje": "Buen día",
+    "fecha": "2026-07-28T12:11:49.712Z",
+    "ultimaActualizacion": "2026-07-28T12:11:49.712Z",
+    "historialMensajes": [
+      {
+        "texto": "Buen día",
+        "fecha": "2026-07-28T12:11:49.712Z",
+        "sentimiento": "neutro"
+      }
+    ]
+  },
+  {
+    "numero": "173138788802614",
+    "celular": "+54 9 173138788802614",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Hola buen dia",
+    "mensaje": "Hola buen dia",
+    "fecha": "2026-07-28T12:11:51.338Z",
+    "ultimaActualizacion": "2026-07-28T12:11:51.338Z",
+    "historialMensajes": [
+      {
+        "texto": "Hola buen dia",
+        "fecha": "2026-07-28T12:11:51.338Z",
+        "sentimiento": "neutro"
+      }
+    ]
+  },
+  {
+    "numero": "129081098137647",
+    "celular": "+54 9 129081098137647",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Buen día, soy vecino de Las Piedras 1.071, del monoblock al lado de plazita en esquina con Alberdi. Necesito sus servicios para retirar dos bolsas con escombros que dejé al lado de puerta de acceso. Gracias.",
+    "mensaje": "Buen día, soy vecino de Las Piedras 1.071, del monoblock al lado de plazita en esquina con Alberdi. Necesito sus servicios para retirar dos bolsas con escombros que dejé al lado de puerta de acceso. Gracias.",
+    "fecha": "2026-07-28T12:11:54.769Z",
+    "ultimaActualizacion": "2026-07-28T12:11:54.769Z",
+    "historialMensajes": [
+      {
+        "texto": "Buen día, soy vecino de Las Piedras 1.071, del monoblock al lado de plazita en esquina con Alberdi. Necesito sus servicios para retirar dos bolsas con escombros que dejé al lado de puerta de acceso. G",
+        "fecha": "2026-07-28T12:11:54.769Z",
+        "sentimiento": "positivo"
+      }
+    ]
+  },
+  {
+    "numero": "67203403640934",
+    "celular": "+54 9 67203403640934",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Buenos días",
+    "mensaje": "Buenos días",
+    "fecha": "2026-07-28T12:11:58.755Z",
+    "ultimaActualizacion": "2026-07-28T12:11:58.755Z",
+    "historialMensajes": [
+      {
+        "texto": "Buenos días",
+        "fecha": "2026-07-28T12:11:58.755Z",
+        "sentimiento": "neutro"
+      }
+    ]
+  },
+  {
+    "numero": "25632952029358",
+    "celular": "+54 9 25632952029358",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Buenos días!",
+    "mensaje": "Buenos días!",
+    "fecha": "2026-07-28T12:12:00.306Z",
+    "ultimaActualizacion": "2026-07-28T12:12:00.306Z",
+    "historialMensajes": [
+      {
+        "texto": "Buenos días!",
+        "fecha": "2026-07-28T12:12:00.306Z",
+        "sentimiento": "neutro"
+      }
+    ]
+  },
+  {
+    "numero": "82424885153800",
+    "celular": "+54 9 3815 366-205",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Buen día",
+    "mensaje": "sin 22 bolsas a medio llenar.",
+    "fecha": "2026-07-28T12:12:03.337Z",
+    "ultimaActualizacion": "2026-07-28T12:12:10.598Z",
+    "historialMensajes": [
+      {
+        "texto": "sin 22 bolsas a medio llenar.",
+        "fecha": "2026-07-28T12:12:03.337Z",
+        "sentimiento": "negativo"
+      },
+      {
+        "texto": "Buen día",
+        "fecha": "2026-07-28T12:12:10.598Z",
+        "sentimiento": "neutro"
+      }
+    ]
+  },
+  {
+    "numero": "169608392798380",
+    "celular": "+54 9 3815 505-332",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Son como 10 bolsas hasta la mitad",
+    "mensaje": "Si es para ahi",
+    "fecha": "2026-07-28T12:12:05.897Z",
+    "ultimaActualizacion": "2026-07-28T12:12:25.873Z",
+    "historialMensajes": [
+      {
+        "texto": "Si es para ahi",
+        "fecha": "2026-07-28T12:12:05.897Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Hola buen dia",
+        "fecha": "2026-07-28T12:12:12.139Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Es revoque, estan hasta la mitad la bolsas",
+        "fecha": "2026-07-28T12:12:19.862Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Son como 10 bolsas hasta la mitad",
+        "fecha": "2026-07-28T12:12:25.873Z",
+        "sentimiento": "neutro"
+      }
+    ]
+  },
+  {
+    "numero": "182939988029650",
+    "celular": "+54 9 3816 677-217",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Gracias",
+    "mensaje": "Gracias",
+    "fecha": "2026-07-28T12:12:09.029Z",
+    "ultimaActualizacion": "2026-07-28T12:12:09.029Z",
+    "historialMensajes": [
+      {
+        "texto": "Gracias",
+        "fecha": "2026-07-28T12:12:09.029Z",
+        "sentimiento": "positivo"
       }
     ]
   }
