@@ -45402,17 +45402,22 @@
     "numero": "15951726702657",
     "celular": "+54 9 3815 041-611",
     "nombre": "",
-    "direccion": null,
-    "sentimiento": "positivo",
-    "ultimoMensaje": "Necesito que retiren escombros",
+    "direccion": "Calle Italia 1702",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Calle Italia 1702",
     "mensaje": "Necesito que retiren escombros",
     "fecha": "2026-07-28T13:19:42.760Z",
-    "ultimaActualizacion": "2026-07-28T13:19:42.760Z",
+    "ultimaActualizacion": "2026-07-28T14:52:37.829Z",
     "historialMensajes": [
       {
         "texto": "Necesito que retiren escombros",
         "fecha": "2026-07-28T13:19:42.760Z",
         "sentimiento": "positivo"
+      },
+      {
+        "texto": "Calle Italia 1702",
+        "fecha": "2026-07-28T14:52:37.829Z",
+        "sentimiento": "neutro"
       }
     ]
   },
