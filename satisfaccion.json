@@ -40473,16 +40473,11 @@
     "nombre": "",
     "direccion": "Asunción 535",
     "sentimiento": "neutro",
-    "ultimoMensaje": "Asunción 535",
+    "ultimoMensaje": "Son ramas de lo que podaron los arboles",
     "mensaje": "Hola, me comunico para saber como es el procedimiento para solicitar la recolección de residuos por limpieza de un terreno. Gracias",
     "fecha": "2026-07-08T14:22:10.231Z",
-    "ultimaActualizacion": "2026-07-28T15:27:07.844Z",
+    "ultimaActualizacion": "2026-07-28T15:27:36.664Z",
     "historialMensajes": [
-      {
-        "texto": "Maceta rota, árbol troceado, pasto y plantas en bolsas, materiales de construcción viejos, en bolsas y sueltos.",
-        "fecha": "2026-07-08T16:14:34.134Z",
-        "sentimiento": "negativo"
-      },
       {
         "texto": "Asunción 535 entre calles Santiago y Corrientes.",
         "fecha": "2026-07-08T16:15:02.400Z",
@@ -40526,6 +40521,11 @@
       {
         "texto": "Asunción 535",
         "fecha": "2026-07-28T15:27:07.844Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Son ramas de lo que podaron los arboles",
+        "fecha": "2026-07-28T15:27:36.664Z",
         "sentimiento": "neutro"
       }
     ]
