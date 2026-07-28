@@ -46567,10 +46567,10 @@
     "nombre": "",
     "direccion": "Colombia 55",
     "sentimiento": "neutro",
-    "ultimoMensaje": "Colombia 55",
+    "ultimoMensaje": "Villa 9 de julio",
     "mensaje": "Hola buenas tardes",
     "fecha": "2026-07-28T17:18:04.597Z",
-    "ultimaActualizacion": "2026-07-28T17:19:14.936Z",
+    "ultimaActualizacion": "2026-07-28T17:19:21.655Z",
     "historialMensajes": [
       {
         "texto": "Hola buenas tardes",
@@ -46590,6 +46590,11 @@
       {
         "texto": "Colombia 55",
         "fecha": "2026-07-28T17:19:14.936Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Villa 9 de julio",
+        "fecha": "2026-07-28T17:19:21.655Z",
         "sentimiento": "neutro"
       }
     ]
