@@ -46001,10 +46001,10 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "positivo",
-    "ultimoMensaje": "Si necesito recolección de residuos no habituales",
+    "ultimoMensaje": "Perfecto ahora lo hago",
     "mensaje": "Hola buenos días",
     "fecha": "2026-07-28T14:51:33.245Z",
-    "ultimaActualizacion": "2026-07-28T15:31:01.975Z",
+    "ultimaActualizacion": "2026-07-28T15:32:39.283Z",
     "historialMensajes": [
       {
         "texto": "Hola buenos días",
@@ -46024,6 +46024,11 @@
       {
         "texto": "Si necesito recolección de residuos no habituales",
         "fecha": "2026-07-28T15:31:01.975Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Perfecto ahora lo hago",
+        "fecha": "2026-07-28T15:32:39.283Z",
         "sentimiento": "positivo"
       }
     ]
