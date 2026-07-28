@@ -29076,7 +29076,15 @@
       "Para que retiren una basura",
       "Hola buenas días"
     ],
-    "ultimaActualizacion": "2026-05-04"
+    "ultimaActualizacion": "2026-07-28T13:04:28.206Z",
+    "ultimoMensaje": "Ya va hacer 15 de julio",
+    "historialMensajes": [
+      {
+        "texto": "Ya va hacer 15 de julio",
+        "fecha": "2026-07-28T13:04:28.206Z",
+        "sentimiento": "neutro"
+      }
+    ]
   },
   {
     "numero": "155722713161774",
