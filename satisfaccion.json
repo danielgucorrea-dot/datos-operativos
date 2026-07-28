@@ -45424,12 +45424,12 @@
     "numero": "60889801687061",
     "celular": "+54 9 3816 388-390",
     "nombre": "",
-    "direccion": null,
+    "direccion": "Pasaje Cristo Rey 3846",
     "sentimiento": "neutro",
-    "ultimoMensaje": "Es una casa de perro nose si cumple con 1m cubico",
+    "ultimoMensaje": "Pasaje Cristo Rey 3846",
     "mensaje": "Para que busquen algo asi se lo lleven",
     "fecha": "2026-07-28T13:49:46.164Z",
-    "ultimaActualizacion": "2026-07-28T14:18:10.966Z",
+    "ultimaActualizacion": "2026-07-28T14:21:37.737Z",
     "historialMensajes": [
       {
         "texto": "Para que busquen algo asi se lo lleven",
@@ -45444,6 +45444,11 @@
       {
         "texto": "Es una casa de perro nose si cumple con 1m cubico",
         "fecha": "2026-07-28T14:18:10.966Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Pasaje Cristo Rey 3846",
+        "fecha": "2026-07-28T14:21:37.737Z",
         "sentimiento": "neutro"
       }
     ]
@@ -45546,10 +45551,10 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "positivo",
-    "ultimoMensaje": "Desde ayer estuvieron en la vereda",
+    "ultimoMensaje": "Nadie retiro y me llamaron para preg si lo habían hecho ese fue el motivo por lo que les volví a hablar",
     "mensaje": "Buenis dias",
     "fecha": "2026-07-28T14:19:38.382Z",
-    "ultimaActualizacion": "2026-07-28T14:20:01.636Z",
+    "ultimaActualizacion": "2026-07-28T14:21:15.779Z",
     "historialMensajes": [
       {
         "texto": "Buenis dias",
@@ -45559,6 +45564,11 @@
       {
         "texto": "Desde ayer estuvieron en la vereda",
         "fecha": "2026-07-28T14:20:01.636Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Nadie retiro y me llamaron para preg si lo habían hecho ese fue el motivo por lo que les volví a hablar",
+        "fecha": "2026-07-28T14:21:15.779Z",
         "sentimiento": "positivo"
       }
     ]
