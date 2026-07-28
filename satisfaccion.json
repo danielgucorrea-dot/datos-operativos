@@ -2400,7 +2400,7 @@
     "celular": "+54 9 3815 764-569",
     "nombre": "",
     "direccion": "Rojas y Pío 12",
-    "sentimiento": "neutro",
+    "sentimiento": "positivo",
     "evidencia_clasificacion": [],
     "canal": "WhatsApp Ambiente",
     "fecha": "2026-06-30",
@@ -2411,8 +2411,8 @@
       "Es impresionante como arrojan basura los vecinos y  a la madrugada los carritos .",
       "Buenas tardes \nPor favor podrían retirar la basura de calle Ricardo Rojas y Pío 12"
     ],
-    "ultimaActualizacion": "2026-07-28T15:25:21.311Z",
-    "ultimoMensaje": "Es la esquina de la Esc.Mcpal.Alfonsina Storni primaria .",
+    "ultimaActualizacion": "2026-07-28T15:41:46.913Z",
+    "ultimoMensaje": "Gracias",
     "historialMensajes": [
       {
         "texto": "Buenas tardes \nPor favor podrían retirar la basura de calle Ricardo Rojas y Pío 12",
@@ -2423,6 +2423,11 @@
         "texto": "Es la esquina de la Esc.Mcpal.Alfonsina Storni primaria .",
         "fecha": "2026-07-28T15:25:21.311Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Gracias",
+        "fecha": "2026-07-28T15:41:46.913Z",
+        "sentimiento": "positivo"
       }
     ]
   },
