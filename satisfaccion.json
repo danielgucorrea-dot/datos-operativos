@@ -40473,16 +40473,11 @@
     "nombre": "",
     "direccion": "Asunción 535",
     "sentimiento": "neutro",
-    "ultimoMensaje": "Hola buen día!",
+    "ultimoMensaje": "Asunción 535",
     "mensaje": "Hola, me comunico para saber como es el procedimiento para solicitar la recolección de residuos por limpieza de un terreno. Gracias",
     "fecha": "2026-07-08T14:22:10.231Z",
-    "ultimaActualizacion": "2026-07-28T15:25:35.225Z",
+    "ultimaActualizacion": "2026-07-28T15:27:07.844Z",
     "historialMensajes": [
-      {
-        "texto": "Hola, me comunico para saber como es el procedimiento para solicitar la recolección de residuos por limpieza de un terreno. Gracias",
-        "fecha": "2026-07-08T14:22:10.231Z",
-        "sentimiento": "neutro"
-      },
       {
         "texto": "Maceta rota, árbol troceado, pasto y plantas en bolsas, materiales de construcción viejos, en bolsas y sueltos.",
         "fecha": "2026-07-08T16:14:34.134Z",
@@ -40526,6 +40521,11 @@
       {
         "texto": "Hola buen día!",
         "fecha": "2026-07-28T15:25:35.225Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Asunción 535",
+        "fecha": "2026-07-28T15:27:07.844Z",
         "sentimiento": "neutro"
       }
     ]
