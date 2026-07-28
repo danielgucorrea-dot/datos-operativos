@@ -7589,7 +7589,15 @@
       "Lo dejaron frente a mi casa.",
       "Queria informar de esto"
     ],
-    "ultimaActualizacion": "2026-06-22"
+    "ultimaActualizacion": "2026-07-28T14:16:47.226Z",
+    "ultimoMensaje": "Buen dia",
+    "historialMensajes": [
+      {
+        "texto": "Buen dia",
+        "fecha": "2026-07-28T14:16:47.226Z",
+        "sentimiento": "neutro"
+      }
+    ]
   },
   {
     "numero": "186234261512337",
