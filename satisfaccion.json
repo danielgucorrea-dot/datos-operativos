@@ -45367,11 +45367,11 @@
     "celular": "+54 9 3812 184-912",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "positivo",
-    "ultimoMensaje": "Dirección es las piedras 3122",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Si entiendo",
     "mensaje": "Hola buen dia",
     "fecha": "2026-07-28T12:43:09.004Z",
-    "ultimaActualizacion": "2026-07-28T14:53:39.989Z",
+    "ultimaActualizacion": "2026-07-28T15:37:09.827Z",
     "historialMensajes": [
       {
         "texto": "Hola buen dia",
@@ -45387,6 +45387,11 @@
         "texto": "Dirección es las piedras 3122",
         "fecha": "2026-07-28T14:53:39.989Z",
         "sentimiento": "positivo"
+      },
+      {
+        "texto": "Si entiendo",
+        "fecha": "2026-07-28T15:37:09.827Z",
+        "sentimiento": "neutro"
       }
     ]
   },
@@ -46153,11 +46158,11 @@
     "celular": "+54 9 3813 393-856",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "positivo",
-    "ultimoMensaje": "Me dijeron que a partir de las 3 de la tarde, en 72 hs máximo pasarían a buscar",
+    "sentimiento": "negativo",
+    "ultimoMensaje": "Dejen, no sirven para nada la verdad",
     "mensaje": "Esas chapas y las bolsas que están atrás, la mitad es basura normal, las otras tienen escombros",
     "fecha": "2026-07-28T15:20:38.589Z",
-    "ultimaActualizacion": "2026-07-28T15:36:25.526Z",
+    "ultimaActualizacion": "2026-07-28T15:38:05.880Z",
     "historialMensajes": [
       {
         "texto": "Esas chapas y las bolsas que están atrás, la mitad es basura normal, las otras tienen escombros",
@@ -46193,6 +46198,11 @@
         "texto": "Me dijeron que a partir de las 3 de la tarde, en 72 hs máximo pasarían a buscar",
         "fecha": "2026-07-28T15:36:25.526Z",
         "sentimiento": "positivo"
+      },
+      {
+        "texto": "Dejen, no sirven para nada la verdad",
+        "fecha": "2026-07-28T15:38:05.880Z",
+        "sentimiento": "negativo"
       }
     ]
   }
