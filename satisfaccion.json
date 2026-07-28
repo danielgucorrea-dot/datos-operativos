@@ -45222,5 +45222,23 @@
         "sentimiento": "positivo"
       }
     ]
+  },
+  {
+    "numero": "15951726702657",
+    "celular": "+54 9 3815 041-611",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Necesito que retiren escombros",
+    "mensaje": "Necesito que retiren escombros",
+    "fecha": "2026-07-28T13:19:42.760Z",
+    "ultimaActualizacion": "2026-07-28T13:19:42.760Z",
+    "historialMensajes": [
+      {
+        "texto": "Necesito que retiren escombros",
+        "fecha": "2026-07-28T13:19:42.760Z",
+        "sentimiento": "positivo"
+      }
+    ]
   }
 ]
