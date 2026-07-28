@@ -45043,10 +45043,10 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "neutro",
-    "ultimoMensaje": "Son como 10 bolsas hasta la mitad",
+    "ultimoMensaje": "Bien",
     "mensaje": "Si es para ahi",
     "fecha": "2026-07-28T12:12:05.897Z",
-    "ultimaActualizacion": "2026-07-28T12:12:25.873Z",
+    "ultimaActualizacion": "2026-07-28T14:28:36.589Z",
     "historialMensajes": [
       {
         "texto": "Si es para ahi",
@@ -45066,6 +45066,11 @@
       {
         "texto": "Son como 10 bolsas hasta la mitad",
         "fecha": "2026-07-28T12:12:25.873Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Bien",
+        "fecha": "2026-07-28T14:28:36.589Z",
         "sentimiento": "neutro"
       }
     ]
