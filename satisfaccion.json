@@ -46036,10 +46036,10 @@
     "nombre": "",
     "direccion": "Barrio mutualidad provincial mz",
     "sentimiento": "neutro",
-    "ultimoMensaje": "Barrio mutualidad provincial mz F casa 3\nEudoro Aráoz y lidoro quintero \nFrente la plaza principal del barrio",
+    "ultimoMensaje": "Esta todo mezclado",
     "mensaje": "Hola buenos días",
     "fecha": "2026-07-28T14:51:33.245Z",
-    "ultimaActualizacion": "2026-07-28T15:49:56.192Z",
+    "ultimaActualizacion": "2026-07-28T15:50:21.180Z",
     "historialMensajes": [
       {
         "texto": "Hola buenos días",
@@ -46074,6 +46074,11 @@
       {
         "texto": "Barrio mutualidad provincial mz F casa 3\nEudoro Aráoz y lidoro quintero \nFrente la plaza principal del barrio",
         "fecha": "2026-07-28T15:49:56.192Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Esta todo mezclado",
+        "fecha": "2026-07-28T15:50:21.180Z",
         "sentimiento": "neutro"
       }
     ]
@@ -46157,11 +46162,11 @@
     "celular": "+54 9 3813 525-900",
     "nombre": "",
     "direccion": "Frente escuela 49",
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Cada día se va haciendo mas grande .y yo  tengo negocio venta alimentos. Sobre esquina juan posse .",
+    "sentimiento": "negativo",
+    "ultimoMensaje": "Sobre esquina de juan posse esta l basura",
     "mensaje": "Buen dia . X favor podrian mandar a sacar basura acumulada en blas parera esq juan posse. Frente escuela 49.y barera parera . Es permanente el problema  en estas cuadra .gente inescrupulosa q tiran desde vehiculos o dan a chicos drogadictos y tiran x todas partes . Aca esq de j.posse y Martin Berro . Habia un contenedor q gracias a Dios sacaron. X q era junta de gente mal vivir  y de todo tipo de alimañas .(Ratas,alacranes,moscaetc)",
     "fecha": "2026-07-28T15:16:19.861Z",
-    "ultimaActualizacion": "2026-07-28T15:49:47.804Z",
+    "ultimaActualizacion": "2026-07-28T15:50:23.749Z",
     "historialMensajes": [
       {
         "texto": "Buen dia . X favor podrian mandar a sacar basura acumulada en blas parera esq juan posse. Frente escuela 49.y barera parera . Es permanente el problema  en estas cuadra .gente inescrupulosa q tiran de",
@@ -46182,6 +46187,11 @@
         "texto": "Cada día se va haciendo mas grande .y yo  tengo negocio venta alimentos. Sobre esquina juan posse .",
         "fecha": "2026-07-28T15:49:47.804Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Sobre esquina de juan posse esta l basura",
+        "fecha": "2026-07-28T15:50:23.749Z",
+        "sentimiento": "negativo"
       }
     ]
   },
