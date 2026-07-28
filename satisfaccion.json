@@ -45665,16 +45665,21 @@
     "celular": "+54 9 3813 497-004",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Hola buenos dias",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Buenos días es para solicitar el retiro de muebles y artefactos en desuso de mi domicilio",
     "mensaje": "Hola buenos dias",
     "fecha": "2026-07-28T13:56:03.673Z",
-    "ultimaActualizacion": "2026-07-28T13:56:03.673Z",
+    "ultimaActualizacion": "2026-07-28T15:14:14.351Z",
     "historialMensajes": [
       {
         "texto": "Hola buenos dias",
         "fecha": "2026-07-28T13:56:03.673Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Buenos días es para solicitar el retiro de muebles y artefactos en desuso de mi domicilio",
+        "fecha": "2026-07-28T15:14:14.351Z",
+        "sentimiento": "positivo"
       }
     ]
   },
@@ -45983,6 +45988,24 @@
         "texto": "Hermosa",
         "fecha": "2026-07-28T15:06:17.189Z",
         "sentimiento": "positivo"
+      }
+    ]
+  },
+  {
+    "numero": "120461132312710",
+    "celular": "+54 9 3814 627-714",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Buen dia",
+    "mensaje": "Buen dia",
+    "fecha": "2026-07-28T15:14:32.103Z",
+    "ultimaActualizacion": "2026-07-28T15:14:32.103Z",
+    "historialMensajes": [
+      {
+        "texto": "Buen dia",
+        "fecha": "2026-07-28T15:14:32.103Z",
+        "sentimiento": "neutro"
       }
     ]
   }
