@@ -47642,10 +47642,10 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "neutro",
-    "ultimoMensaje": "Ya t mando mañana entonces",
+    "ultimoMensaje": "Gracias",
     "mensaje": "Buenas",
     "fecha": "2026-07-29T15:23:42.573Z",
-    "ultimaActualizacion": "2026-07-29T15:32:14.867Z",
+    "ultimaActualizacion": "2026-07-29T15:35:41.512Z",
     "historialMensajes": [
       {
         "texto": "Buenas",
@@ -47660,6 +47660,11 @@
       {
         "texto": "Ya t mando mañana entonces",
         "fecha": "2026-07-29T15:32:14.867Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Gracias",
+        "fecha": "2026-07-29T15:35:41.512Z",
         "sentimiento": "neutro"
       }
     ]
