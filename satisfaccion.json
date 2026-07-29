@@ -42407,21 +42407,11 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "neutro",
-    "ultimoMensaje": "a clarita...ella ve ese tema",
+    "ultimoMensaje": "pasado",
     "mensaje": "buen dia",
     "fecha": "2026-07-13T12:35:57.936Z",
-    "ultimaActualizacion": "2026-07-28T15:52:20.792Z",
+    "ultimaActualizacion": "2026-07-29T13:25:29.714Z",
     "historialMensajes": [
-      {
-        "texto": "es mucha cantidad...tiene q contratar un contenedor",
-        "fecha": "2026-07-13T12:40:14.525Z",
-        "sentimiento": "positivo"
-      },
-      {
-        "texto": "si...ya lo pase",
-        "fecha": "2026-07-13T14:50:59.221Z",
-        "sentimiento": "neutro"
-      },
       {
         "texto": "ok ya mando",
         "fecha": "2026-07-13T15:28:35.868Z",
@@ -42460,6 +42450,16 @@
       {
         "texto": "a clarita...ella ve ese tema",
         "fecha": "2026-07-28T15:52:20.792Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "buen dia",
+        "fecha": "2026-07-29T13:25:27.910Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "pasado",
+        "fecha": "2026-07-29T13:25:29.714Z",
         "sentimiento": "neutro"
       }
     ]
