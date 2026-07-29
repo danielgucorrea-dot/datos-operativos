@@ -47936,5 +47936,28 @@
         "sentimiento": "neutro"
       }
     ]
+  },
+  {
+    "numero": "254863359361058",
+    "celular": "+54 9 3815 296-823",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Estan justo en mi garage donde necesito sacar el auto",
+    "mensaje": "Hola. Está mañana pasaron a podar y dejaron mi casa llena de ramas",
+    "fecha": "2026-07-29T19:45:21.494Z",
+    "ultimaActualizacion": "2026-07-29T19:45:27.260Z",
+    "historialMensajes": [
+      {
+        "texto": "Hola. Está mañana pasaron a podar y dejaron mi casa llena de ramas",
+        "fecha": "2026-07-29T19:45:21.494Z",
+        "sentimiento": "negativo"
+      },
+      {
+        "texto": "Estan justo en mi garage donde necesito sacar el auto",
+        "fecha": "2026-07-29T19:45:27.260Z",
+        "sentimiento": "positivo"
+      }
+    ]
   }
 ]
