@@ -2520,7 +2520,7 @@
     "celular": "+54 9 3816 010-899",
     "nombre": "",
     "direccion": "Calle Colombia 893",
-    "sentimiento": "positivo",
+    "sentimiento": "neutro",
     "evidencia_clasificacion": [],
     "canal": "WhatsApp Ambiente",
     "fecha": "2026-06-30",
@@ -2553,8 +2553,8 @@
       "Leí su mensaje . Pondré unicamente  10 bolsas de cesped.  Mando fotos. espero respuesta. Gs. Domicilio. Colombia 877 Cap. S.m.Tuc",
       "Enteren me día y hora. Gs. Saludos"
     ],
-    "ultimaActualizacion": "2026-07-29T14:11:31.297Z",
-    "ultimoMensaje": "Bien. Y el cesped está bien! Según la foto que envié de las bolsas negras, está bien.",
+    "ultimaActualizacion": "2026-07-29T14:59:21.687Z",
+    "ultimoMensaje": "Disculpe. Saco las bolsas negras de cesped? Que están en las fotos? Gs.",
     "historialMensajes": [
       {
         "texto": "Bdia. Son residuos que corto el cesped y otros que tira la gente. Quiero saber cuando los puedo sacar para el servidor los lleve. Ms. Gs. Saludos. Luis de calle Colombia 895",
@@ -2565,6 +2565,11 @@
         "texto": "Bien. Y el cesped está bien! Según la foto que envié de las bolsas negras, está bien.",
         "fecha": "2026-07-29T14:11:31.297Z",
         "sentimiento": "positivo"
+      },
+      {
+        "texto": "Disculpe. Saco las bolsas negras de cesped? Que están en las fotos? Gs.",
+        "fecha": "2026-07-29T14:59:21.687Z",
+        "sentimiento": "neutro"
       }
     ]
   },
@@ -47494,6 +47499,29 @@
       {
         "texto": "Como gestiono el retiro de esto?",
         "fecha": "2026-07-29T14:55:28.848Z",
+        "sentimiento": "neutro"
+      }
+    ]
+  },
+  {
+    "numero": "131108725354674",
+    "celular": "+54 9 3812 021-493",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "ustedes recolectan resto de poda?",
+    "mensaje": "Buenos dias!!",
+    "fecha": "2026-07-29T14:57:40.986Z",
+    "ultimaActualizacion": "2026-07-29T14:58:04.243Z",
+    "historialMensajes": [
+      {
+        "texto": "Buenos dias!!",
+        "fecha": "2026-07-29T14:57:40.986Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "ustedes recolectan resto de poda?",
+        "fecha": "2026-07-29T14:58:04.243Z",
         "sentimiento": "neutro"
       }
     ]
