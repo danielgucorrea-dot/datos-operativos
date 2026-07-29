@@ -47062,11 +47062,11 @@
     "celular": "+54 9 3816 814-545",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "negativo",
-    "ultimoMensaje": "Necesito por favor que vengan a recolectar esa basura",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "36.838.975",
     "mensaje": "Buen día !",
     "fecha": "2026-07-29T11:38:30.113Z",
-    "ultimaActualizacion": "2026-07-29T13:32:36.820Z",
+    "ultimaActualizacion": "2026-07-29T13:33:06.078Z",
     "historialMensajes": [
       {
         "texto": "Buen día !",
@@ -47077,6 +47077,16 @@
         "texto": "Necesito por favor que vengan a recolectar esa basura",
         "fecha": "2026-07-29T13:32:36.820Z",
         "sentimiento": "negativo"
+      },
+      {
+        "texto": "Mi nombre es María Melania Cárdenas Ypa",
+        "fecha": "2026-07-29T13:33:03.389Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "36.838.975",
+        "fecha": "2026-07-29T13:33:06.078Z",
+        "sentimiento": "neutro"
       }
     ]
   },
