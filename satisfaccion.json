@@ -42465,16 +42465,11 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "neutro",
-    "ultimoMensaje": "asi es",
+    "ultimoMensaje": "ya viso igualmente",
     "mensaje": "buen dia",
     "fecha": "2026-07-13T12:35:57.936Z",
-    "ultimaActualizacion": "2026-07-29T14:52:20.483Z",
+    "ultimaActualizacion": "2026-07-29T15:02:29.506Z",
     "historialMensajes": [
-      {
-        "texto": "buen dia",
-        "fecha": "2026-07-14T12:15:17.781Z",
-        "sentimiento": "neutro"
-      },
       {
         "texto": "ponelo como OS",
         "fecha": "2026-07-28T14:08:34.827Z",
@@ -42518,6 +42513,11 @@
       {
         "texto": "asi es",
         "fecha": "2026-07-29T14:52:20.483Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "ya viso igualmente",
+        "fecha": "2026-07-29T15:02:29.506Z",
         "sentimiento": "neutro"
       }
     ]
@@ -47514,10 +47514,10 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "neutro",
-    "ultimoMensaje": "ustedes recolectan resto de poda?",
+    "ultimoMensaje": "mira ya tengo ramas secas q corte el arbol en la vereda",
     "mensaje": "Buenos dias!!",
     "fecha": "2026-07-29T14:57:40.986Z",
-    "ultimaActualizacion": "2026-07-29T14:58:04.243Z",
+    "ultimaActualizacion": "2026-07-29T15:02:07.291Z",
     "historialMensajes": [
       {
         "texto": "Buenos dias!!",
@@ -47527,6 +47527,11 @@
       {
         "texto": "ustedes recolectan resto de poda?",
         "fecha": "2026-07-29T14:58:04.243Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "mira ya tengo ramas secas q corte el arbol en la vereda",
+        "fecha": "2026-07-29T15:02:07.291Z",
         "sentimiento": "neutro"
       }
     ]
