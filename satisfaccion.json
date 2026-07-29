@@ -46969,10 +46969,10 @@
     "nombre": "",
     "direccion": "Bulnes altura 1030",
     "sentimiento": "neutro",
-    "ultimoMensaje": "Bulnes altura 1030",
+    "ultimoMensaje": "Detrás del colegio calazanz",
     "mensaje": "Buenas tardes",
     "fecha": "2026-07-28T21:34:17.194Z",
-    "ultimaActualizacion": "2026-07-29T13:28:15.277Z",
+    "ultimaActualizacion": "2026-07-29T13:28:30.280Z",
     "historialMensajes": [
       {
         "texto": "Buenas tardes",
@@ -47012,6 +47012,11 @@
       {
         "texto": "Bulnes altura 1030",
         "fecha": "2026-07-29T13:28:15.277Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Detrás del colegio calazanz",
+        "fecha": "2026-07-29T13:28:30.280Z",
         "sentimiento": "neutro"
       }
     ]
