@@ -47864,5 +47864,23 @@
         "sentimiento": "negativo"
       }
     ]
+  },
+  {
+    "numero": "121143964995691",
+    "celular": "+54 9 3813 008-626",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Buenas tardes Rebeca tendría UD disponible turno para la visita a la escuela ambiental, somos del INSTITUTO Güemes, escuela cooperativa con 40 alumnos , es una institución inclusiva  con alumnos con TEA y otros  trastornos. Desde ya muchas gracias el director es el profesor JORGE ALBORNOZ , la escuela primaria es turno tarde. Desde ya muchas gracias",
+    "mensaje": "Buenas tardes Rebeca tendría UD disponible turno para la visita a la escuela ambiental, somos del INSTITUTO Güemes, escuela cooperativa con 40 alumnos , es una institución inclusiva  con alumnos con TEA y otros  trastornos. Desde ya muchas gracias el director es el profesor JORGE ALBORNOZ , la escuela primaria es turno tarde. Desde ya muchas gracias",
+    "fecha": "2026-07-29T18:40:39.781Z",
+    "ultimaActualizacion": "2026-07-29T18:40:39.781Z",
+    "historialMensajes": [
+      {
+        "texto": "Buenas tardes Rebeca tendría UD disponible turno para la visita a la escuela ambiental, somos del INSTITUTO Güemes, escuela cooperativa con 40 alumnos , es una institución inclusiva  con alumnos con T",
+        "fecha": "2026-07-29T18:40:39.781Z",
+        "sentimiento": "positivo"
+      }
+    ]
   }
 ]
