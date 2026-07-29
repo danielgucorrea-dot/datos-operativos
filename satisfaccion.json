@@ -3137,7 +3137,7 @@
     "celular": "+54 9 3815 076-259",
     "nombre": "",
     "direccion": "Barrio 130",
-    "sentimiento": "neutro",
+    "sentimiento": "positivo",
     "evidencia_clasificacion": [],
     "canal": "WhatsApp Ambiente",
     "fecha": "2026-06-29",
@@ -3151,7 +3151,15 @@
       "Buen dia !!",
       "Barrio 130 viviendas"
     ],
-    "ultimaActualizacion": "2026-06-29"
+    "ultimaActualizacion": "2026-07-29T16:43:47.746Z",
+    "ultimoMensaje": "Por favor limpiar estan formando un nuevo basural los vecinos",
+    "historialMensajes": [
+      {
+        "texto": "Por favor limpiar estan formando un nuevo basural los vecinos",
+        "fecha": "2026-07-29T16:43:47.746Z",
+        "sentimiento": "positivo"
+      }
+    ]
   },
   {
     "numero": "222281771028694",
@@ -47789,6 +47797,24 @@
       {
         "texto": "Quisiera saber cdo estarían pasando y en que horario, donde me tomaron el pedido me dijeron que me comunicara a este numero para saber eso. Gracias!",
         "fecha": "2026-07-29T16:32:45.551Z",
+        "sentimiento": "positivo"
+      }
+    ]
+  },
+  {
+    "numero": "9728621047961",
+    "celular": "+54 9 3813 877-291",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Hola necesito una solución un alumbrado público esta rotó",
+    "mensaje": "Hola necesito una solución un alumbrado público esta rotó",
+    "fecha": "2026-07-29T16:42:00.172Z",
+    "ultimaActualizacion": "2026-07-29T16:42:00.172Z",
+    "historialMensajes": [
+      {
+        "texto": "Hola necesito una solución un alumbrado público esta rotó",
+        "fecha": "2026-07-29T16:42:00.172Z",
         "sentimiento": "positivo"
       }
     ]
