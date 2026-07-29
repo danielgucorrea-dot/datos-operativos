@@ -47089,16 +47089,21 @@
     "celular": "+54 9 1544 485-094",
     "nombre": "",
     "direccion": "José Colombres 172",
-    "sentimiento": "positivo",
-    "ultimoMensaje": "Buenísimo dias. Necesito coirdinar el retiro de material en desuso voluminoso, a la brevedad, de José Colombres 172. S M de Tucumán. \nGracias por su atención",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Muchas gracias sacaré foto y la enviaré.",
     "mensaje": "Buenísimo dias. Necesito coirdinar el retiro de material en desuso voluminoso, a la brevedad, de José Colombres 172. S M de Tucumán. \nGracias por su atención",
     "fecha": "2026-07-29T10:18:41.975Z",
-    "ultimaActualizacion": "2026-07-29T10:18:41.975Z",
+    "ultimaActualizacion": "2026-07-29T14:25:14.982Z",
     "historialMensajes": [
       {
         "texto": "Buenísimo dias. Necesito coirdinar el retiro de material en desuso voluminoso, a la brevedad, de José Colombres 172. S M de Tucumán. \nGracias por su atención",
         "fecha": "2026-07-29T10:18:41.975Z",
         "sentimiento": "positivo"
+      },
+      {
+        "texto": "Muchas gracias sacaré foto y la enviaré.",
+        "fecha": "2026-07-29T14:25:14.982Z",
+        "sentimiento": "neutro"
       }
     ]
   },
