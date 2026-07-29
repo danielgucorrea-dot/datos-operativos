@@ -46711,10 +46711,10 @@
     "nombre": "",
     "direccion": "Perdón 12",
     "sentimiento": "neutro",
-    "ultimoMensaje": "Si,Mendoza 1725",
+    "ultimoMensaje": "perfecto, tendria que tener algun numero de pedido o algo en especial que me pedira la empresa recolectora? tambien por el hecho de tener bolsas en la calle podria reclamarme algun inspector?",
     "mensaje": "Buenas tardes",
     "fecha": "2026-07-28T16:20:24.063Z",
-    "ultimaActualizacion": "2026-07-29T14:28:42.203Z",
+    "ultimaActualizacion": "2026-07-29T16:10:59.819Z",
     "historialMensajes": [
       {
         "texto": "Buenas tardes",
@@ -46759,6 +46759,11 @@
       {
         "texto": "Si,Mendoza 1725",
         "fecha": "2026-07-29T14:28:42.203Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "perfecto, tendria que tener algun numero de pedido o algo en especial que me pedira la empresa recolectora? tambien por el hecho de tener bolsas en la calle podria reclamarme algun inspector?",
+        "fecha": "2026-07-29T16:10:59.819Z",
         "sentimiento": "neutro"
       }
     ]
