@@ -46977,16 +46977,21 @@
     "celular": "+54 9 3814 163-298",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Bueno días qtal",
+    "sentimiento": "negativo",
+    "ultimoMensaje": "No 🙂‍↔️ no.... Nunca llegaron por mi domicilio... Ni tampoco retiraron ni cargaron....nada .... 🤔!!!",
     "mensaje": "Bueno días qtal",
     "fecha": "2026-07-29T12:20:03.939Z",
-    "ultimaActualizacion": "2026-07-29T12:20:03.939Z",
+    "ultimaActualizacion": "2026-07-29T12:21:16.241Z",
     "historialMensajes": [
       {
         "texto": "Bueno días qtal",
         "fecha": "2026-07-29T12:20:03.939Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "No 🙂‍↔️ no.... Nunca llegaron por mi domicilio... Ni tampoco retiraron ni cargaron....nada .... 🤔!!!",
+        "fecha": "2026-07-29T12:21:16.241Z",
+        "sentimiento": "negativo"
       }
     ]
   }
