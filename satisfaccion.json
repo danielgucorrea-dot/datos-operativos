@@ -47882,5 +47882,23 @@
         "sentimiento": "positivo"
       }
     ]
+  },
+  {
+    "numero": "112425181393139",
+    "celular": "+54 9 3814 900-426",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Buenas tardes, tengo residuos de poda en mi vereda para retirar",
+    "mensaje": "Buenas tardes, tengo residuos de poda en mi vereda para retirar",
+    "fecha": "2026-07-29T18:58:28.905Z",
+    "ultimaActualizacion": "2026-07-29T18:58:28.905Z",
+    "historialMensajes": [
+      {
+        "texto": "Buenas tardes, tengo residuos de poda en mi vereda para retirar",
+        "fecha": "2026-07-29T18:58:28.905Z",
+        "sentimiento": "positivo"
+      }
+    ]
   }
 ]
