@@ -22812,7 +22812,7 @@
     "celular": "+54 9 3816 757-161",
     "nombre": "",
     "direccion": "",
-    "sentimiento": "neutro",
+    "sentimiento": "positivo",
     "evidencia_clasificacion": [],
     "canal": "WhatsApp Ambiente",
     "fecha": "2026-05-26",
@@ -22822,7 +22822,15 @@
       "Gracias",
       "Eso sería"
     ],
-    "ultimaActualizacion": "2026-05-26"
+    "ultimaActualizacion": "2026-07-29T12:56:19.332Z",
+    "ultimoMensaje": "Desde ya muchas gracias !",
+    "historialMensajes": [
+      {
+        "texto": "Desde ya muchas gracias !",
+        "fecha": "2026-07-29T12:56:19.332Z",
+        "sentimiento": "positivo"
+      }
+    ]
   },
   {
     "numero": "160464357072992",
