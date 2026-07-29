@@ -47062,16 +47062,21 @@
     "celular": "+54 9 3816 814-545",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Buen día !",
+    "sentimiento": "negativo",
+    "ultimoMensaje": "Necesito por favor que vengan a recolectar esa basura",
     "mensaje": "Buen día !",
     "fecha": "2026-07-29T11:38:30.113Z",
-    "ultimaActualizacion": "2026-07-29T11:38:30.113Z",
+    "ultimaActualizacion": "2026-07-29T13:32:36.820Z",
     "historialMensajes": [
       {
         "texto": "Buen día !",
         "fecha": "2026-07-29T11:38:30.113Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Necesito por favor que vengan a recolectar esa basura",
+        "fecha": "2026-07-29T13:32:36.820Z",
+        "sentimiento": "negativo"
       }
     ]
   },
