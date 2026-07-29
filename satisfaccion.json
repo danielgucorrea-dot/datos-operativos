@@ -18524,7 +18524,7 @@
     "celular": "+54 9 3814 122-739",
     "nombre": "",
     "direccion": "av colon 3200",
-    "sentimiento": "neutro",
+    "sentimiento": "negativo",
     "evidencia_clasificacion": [],
     "canal": "WhatsApp Ambiente",
     "fecha": "2026-06-02",
@@ -18541,8 +18541,8 @@
       "Podría pasarme el número al que me pueda comunicar",
       "Hola buenos días"
     ],
-    "ultimaActualizacion": "2026-07-28T16:07:37.106Z",
-    "ultimoMensaje": "Pero lo de el desmalezamiento si",
+    "ultimaActualizacion": "2026-07-29T11:58:05.282Z",
+    "ultimoMensaje": "buen día Porque sería derivado a servicios públicos sinlo que necesito que levanten toda esa basura que hay ahi",
     "historialMensajes": [
       {
         "texto": "Lo cargue por la app y lo cargue por un número de teléfono me dijeron que se iban a comunicar para que mandara las fotos y nadie se xominico",
@@ -18563,6 +18563,11 @@
         "texto": "Pero lo de el desmalezamiento si",
         "fecha": "2026-07-28T16:07:37.106Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "buen día Porque sería derivado a servicios públicos sinlo que necesito que levanten toda esa basura que hay ahi",
+        "fecha": "2026-07-29T11:58:05.282Z",
+        "sentimiento": "negativo"
       }
     ]
   },
