@@ -46978,12 +46978,12 @@
     "numero": "154971144220831",
     "celular": "+54 9 3816 005-726",
     "nombre": "",
-    "direccion": null,
+    "direccion": "Av Ind 1680",
     "sentimiento": "neutro",
-    "ultimoMensaje": "Av Independencia",
+    "ultimoMensaje": "Av Indep3ndencia 1680",
     "mensaje": "Buenas tardes",
     "fecha": "2026-07-28T20:09:40.606Z",
-    "ultimaActualizacion": "2026-07-29T14:54:56.543Z",
+    "ultimaActualizacion": "2026-07-29T15:15:19.346Z",
     "historialMensajes": [
       {
         "texto": "Buenas tardes",
@@ -47018,6 +47018,16 @@
       {
         "texto": "Av Independencia",
         "fecha": "2026-07-29T14:54:56.543Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Av Ind 1680",
+        "fecha": "2026-07-29T15:15:01.155Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Av Indep3ndencia 1680",
+        "fecha": "2026-07-29T15:15:19.346Z",
         "sentimiento": "neutro"
       }
     ]
@@ -47457,10 +47467,10 @@
     "nombre": "",
     "direccion": "Barrio Oeste",
     "sentimiento": "neutro",
-    "ultimoMensaje": "Mi dirección es Diagonal 5, casa 1159, Barrio Oeste 1",
+    "ultimoMensaje": "Perfecto!",
     "mensaje": "Hola!",
     "fecha": "2026-07-29T14:27:55.094Z",
-    "ultimaActualizacion": "2026-07-29T15:02:49.848Z",
+    "ultimaActualizacion": "2026-07-29T15:17:29.741Z",
     "historialMensajes": [
       {
         "texto": "Hola!",
@@ -47475,6 +47485,11 @@
       {
         "texto": "Mi dirección es Diagonal 5, casa 1159, Barrio Oeste 1",
         "fecha": "2026-07-29T15:02:49.848Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Perfecto!",
+        "fecha": "2026-07-29T15:17:29.741Z",
         "sentimiento": "neutro"
       }
     ]
@@ -47521,10 +47536,10 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "neutro",
-    "ultimoMensaje": "9 de julio 620 planta baja",
+    "ultimoMensaje": "Es seguro que mañana? Porque al ser un edificio no puedo dejar cosas sobre la vereda. Uds se comunican entonces?",
     "mensaje": "Hola buen dia",
     "fecha": "2026-07-29T14:54:20.628Z",
-    "ultimaActualizacion": "2026-07-29T15:05:38.099Z",
+    "ultimaActualizacion": "2026-07-29T15:15:54.205Z",
     "historialMensajes": [
       {
         "texto": "Hola buen dia",
@@ -47544,6 +47559,11 @@
       {
         "texto": "9 de julio 620 planta baja",
         "fecha": "2026-07-29T15:05:38.099Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Es seguro que mañana? Porque al ser un edificio no puedo dejar cosas sobre la vereda. Uds se comunican entonces?",
+        "fecha": "2026-07-29T15:15:54.205Z",
         "sentimiento": "neutro"
       }
     ]
