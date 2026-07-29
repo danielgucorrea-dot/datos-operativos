@@ -47476,10 +47476,10 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "neutro",
-    "ultimoMensaje": "Necesito descartar unas cosas de oficina ( sillas maquina de escribir )",
+    "ultimoMensaje": "Como gestiono el retiro de esto?",
     "mensaje": "Hola buen dia",
     "fecha": "2026-07-29T14:54:20.628Z",
-    "ultimaActualizacion": "2026-07-29T14:54:48.956Z",
+    "ultimaActualizacion": "2026-07-29T14:55:28.848Z",
     "historialMensajes": [
       {
         "texto": "Hola buen dia",
@@ -47489,6 +47489,11 @@
       {
         "texto": "Necesito descartar unas cosas de oficina ( sillas maquina de escribir )",
         "fecha": "2026-07-29T14:54:48.956Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Como gestiono el retiro de esto?",
+        "fecha": "2026-07-29T14:55:28.848Z",
         "sentimiento": "neutro"
       }
     ]
