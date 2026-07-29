@@ -46869,5 +46869,41 @@
         "sentimiento": "positivo"
       }
     ]
+  },
+  {
+    "numero": "48077897494756",
+    "celular": "+54 9 3816 814-545",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Buen día !",
+    "mensaje": "Buen día !",
+    "fecha": "2026-07-29T11:38:30.113Z",
+    "ultimaActualizacion": "2026-07-29T11:38:30.113Z",
+    "historialMensajes": [
+      {
+        "texto": "Buen día !",
+        "fecha": "2026-07-29T11:38:30.113Z",
+        "sentimiento": "neutro"
+      }
+    ]
+  },
+  {
+    "numero": "11501955997886",
+    "celular": "+54 9 3814 016-039",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Buen día somos de la escuela número 80 del mojón viclos y queremos llevar a nuestros niños a conocer el campus que posibilidad tenemos de concretar. Muchas gracias",
+    "mensaje": "Buen día somos de la escuela número 80 del mojón viclos y queremos llevar a nuestros niños a conocer el campus que posibilidad tenemos de concretar. Muchas gracias",
+    "fecha": "2026-07-29T11:42:36.641Z",
+    "ultimaActualizacion": "2026-07-29T11:42:36.641Z",
+    "historialMensajes": [
+      {
+        "texto": "Buen día somos de la escuela número 80 del mojón viclos y queremos llevar a nuestros niños a conocer el campus que posibilidad tenemos de concretar. Muchas gracias",
+        "fecha": "2026-07-29T11:42:36.641Z",
+        "sentimiento": "positivo"
+      }
+    ]
   }
 ]
