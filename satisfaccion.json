@@ -11873,7 +11873,7 @@
     "celular": "+54 9 3813 541-196",
     "nombre": "",
     "direccion": "",
-    "sentimiento": "positivo",
+    "sentimiento": "neutro",
     "evidencia_clasificacion": [
       "perfecto muchas gracias"
     ],
@@ -11894,7 +11894,20 @@
       "Para solicitar retiro , necesito información dias y horarios",
       "Buen dia!!!"
     ],
-    "ultimaActualizacion": "2026-06-11"
+    "ultimaActualizacion": "2026-07-29T20:26:33.959Z",
+    "ultimoMensaje": "Para retiro de basura",
+    "historialMensajes": [
+      {
+        "texto": "Buenas tardes",
+        "fecha": "2026-07-29T20:26:31.675Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Para retiro de basura",
+        "fecha": "2026-07-29T20:26:33.959Z",
+        "sentimiento": "neutro"
+      }
+    ]
   },
   {
     "numero": "194682697056354",
