@@ -46940,10 +46940,10 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "neutro",
-    "ultimoMensaje": "Y esta exhibidora, q esta funcionando",
+    "ultimoMensaje": "Av Independencia",
     "mensaje": "Buenas tardes",
     "fecha": "2026-07-28T20:09:40.606Z",
-    "ultimaActualizacion": "2026-07-29T14:53:35.681Z",
+    "ultimaActualizacion": "2026-07-29T14:54:56.543Z",
     "historialMensajes": [
       {
         "texto": "Buenas tardes",
@@ -46968,6 +46968,16 @@
       {
         "texto": "Y esta exhibidora, q esta funcionando",
         "fecha": "2026-07-29T14:53:35.681Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Consulte y luego paso dirección",
+        "fecha": "2026-07-29T14:54:29.229Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Av Independencia",
+        "fecha": "2026-07-29T14:54:56.543Z",
         "sentimiento": "neutro"
       }
     ]
@@ -47456,6 +47466,29 @@
       {
         "texto": "Estimados. Tengo 10 bolsas con ramas de un arbol podado. Lo podrían retirar de calle Buenos Aires 737? Me avisan si pueden así les mando la foto. Gracias",
         "fecha": "2026-07-29T14:48:58.773Z",
+        "sentimiento": "neutro"
+      }
+    ]
+  },
+  {
+    "numero": "187737466515711",
+    "celular": "+54 9 3816 746-051",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Necesito descartar unas cosas de oficina ( sillas maquina de escribir )",
+    "mensaje": "Hola buen dia",
+    "fecha": "2026-07-29T14:54:20.628Z",
+    "ultimaActualizacion": "2026-07-29T14:54:48.956Z",
+    "historialMensajes": [
+      {
+        "texto": "Hola buen dia",
+        "fecha": "2026-07-29T14:54:20.628Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Necesito descartar unas cosas de oficina ( sillas maquina de escribir )",
+        "fecha": "2026-07-29T14:54:48.956Z",
         "sentimiento": "neutro"
       }
     ]
