@@ -46625,10 +46625,10 @@
     "nombre": "",
     "direccion": "pje arenales 1808",
     "sentimiento": "neutro",
-    "ultimoMensaje": "La dirección es pje arenales 1808",
+    "ultimoMensaje": "Bueno por favor",
     "mensaje": "Buenas tardes",
     "fecha": "2026-07-28T16:03:35.696Z",
-    "ultimaActualizacion": "2026-07-29T14:30:05.236Z",
+    "ultimaActualizacion": "2026-07-29T15:08:30.029Z",
     "historialMensajes": [
       {
         "texto": "Buenas tardes",
@@ -46643,6 +46643,21 @@
       {
         "texto": "La dirección es pje arenales 1808",
         "fecha": "2026-07-29T14:30:05.236Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Ok muchas gracias...pero si la saco se la van a llevar...mejor cuando vengan que toquen el timbre",
+        "fecha": "2026-07-29T15:07:48.584Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "También en la vereda tengo 5 bolsas de residuos como me indicaron",
+        "fecha": "2026-07-29T15:08:21.952Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Bueno por favor",
+        "fecha": "2026-07-29T15:08:30.029Z",
         "sentimiento": "neutro"
       }
     ]
@@ -47524,10 +47539,10 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "neutro",
-    "ultimoMensaje": "y me responden cdo puedan",
+    "ultimoMensaje": "a ustedes",
     "mensaje": "Buenos dias!!",
     "fecha": "2026-07-29T14:57:40.986Z",
-    "ultimaActualizacion": "2026-07-29T15:06:12.437Z",
+    "ultimaActualizacion": "2026-07-29T15:07:46.063Z",
     "historialMensajes": [
       {
         "texto": "Buenos dias!!",
@@ -47567,6 +47582,11 @@
       {
         "texto": "y me responden cdo puedan",
         "fecha": "2026-07-29T15:06:12.437Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "a ustedes",
+        "fecha": "2026-07-29T15:07:46.063Z",
         "sentimiento": "neutro"
       }
     ]
