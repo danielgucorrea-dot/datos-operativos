@@ -47484,11 +47484,11 @@
     "celular": "+54 9 3813 548-211",
     "nombre": "",
     "direccion": "Barrio Oeste",
-    "sentimiento": "neutro",
-    "ultimoMensaje": "perfecto! Gracias!",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Listo, ya fue dejado en la vereda lo acordado. Muchas gracias!",
     "mensaje": "Hola!",
     "fecha": "2026-07-29T14:27:55.094Z",
-    "ultimaActualizacion": "2026-07-29T15:24:01.255Z",
+    "ultimaActualizacion": "2026-07-29T18:00:36.655Z",
     "historialMensajes": [
       {
         "texto": "Hola!",
@@ -47514,6 +47514,11 @@
         "texto": "perfecto! Gracias!",
         "fecha": "2026-07-29T15:24:01.255Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Listo, ya fue dejado en la vereda lo acordado. Muchas gracias!",
+        "fecha": "2026-07-29T18:00:36.655Z",
+        "sentimiento": "positivo"
       }
     ]
   },
