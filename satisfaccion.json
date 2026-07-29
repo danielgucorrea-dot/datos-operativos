@@ -47193,10 +47193,10 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "neutro",
-    "ultimoMensaje": "No es mucho",
+    "ultimoMensaje": "De mi vereda",
     "mensaje": "Buenos dias",
     "fecha": "2026-07-29T13:33:25.927Z",
-    "ultimaActualizacion": "2026-07-29T13:33:45.809Z",
+    "ultimaActualizacion": "2026-07-29T13:33:53.100Z",
     "historialMensajes": [
       {
         "texto": "Buenos dias",
@@ -47206,6 +47206,11 @@
       {
         "texto": "No es mucho",
         "fecha": "2026-07-29T13:33:45.809Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "De mi vereda",
+        "fecha": "2026-07-29T13:33:53.100Z",
         "sentimiento": "neutro"
       }
     ]
