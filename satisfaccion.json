@@ -46512,16 +46512,21 @@
     "celular": "+54 9 3815 082-983",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Buenas tardes",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Buen día mire tengo una heladera que funciona pero da la corriente y la quiero dar...UD la pueden buscar?",
     "mensaje": "Buenas tardes",
     "fecha": "2026-07-28T16:03:35.696Z",
-    "ultimaActualizacion": "2026-07-28T16:03:35.696Z",
+    "ultimaActualizacion": "2026-07-29T12:19:55.346Z",
     "historialMensajes": [
       {
         "texto": "Buenas tardes",
         "fecha": "2026-07-28T16:03:35.696Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Buen día mire tengo una heladera que funciona pero da la corriente y la quiero dar...UD la pueden buscar?",
+        "fecha": "2026-07-29T12:19:55.346Z",
+        "sentimiento": "positivo"
       }
     ]
   },
@@ -46964,6 +46969,24 @@
         "texto": "Buenos dias! Quería agradecerles porque ayer se llevaron los escombros. Excelente su propuesta y su servicio👏🏻👏🏻👏🏻",
         "fecha": "2026-07-29T11:53:40.790Z",
         "sentimiento": "positivo"
+      }
+    ]
+  },
+  {
+    "numero": "102031427690678",
+    "celular": "+54 9 3814 163-298",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Bueno días qtal",
+    "mensaje": "Bueno días qtal",
+    "fecha": "2026-07-29T12:20:03.939Z",
+    "ultimaActualizacion": "2026-07-29T12:20:03.939Z",
+    "historialMensajes": [
+      {
+        "texto": "Bueno días qtal",
+        "fecha": "2026-07-29T12:20:03.939Z",
+        "sentimiento": "neutro"
       }
     ]
   }
