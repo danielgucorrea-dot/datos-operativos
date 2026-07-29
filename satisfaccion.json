@@ -2891,7 +2891,7 @@
     "celular": "+54 9 3815 173-227",
     "nombre": "",
     "direccion": "Barrio mutual policial \nPasaje",
-    "sentimiento": "positivo",
+    "sentimiento": "neutro",
     "evidencia_clasificacion": [
       "perfecto gracias"
     ],
@@ -2931,7 +2931,15 @@
       "Barrio mutual policial \nPasaje Acevedo y C 3372",
       "Podría mandar recoger"
     ],
-    "ultimaActualizacion": "2026-06-30"
+    "ultimaActualizacion": "2026-07-29T13:17:22.850Z",
+    "ultimoMensaje": "Sobre la manzana 2 barrio Mutual Policial. Pasaje Acevedo y C 3372",
+    "historialMensajes": [
+      {
+        "texto": "Sobre la manzana 2 barrio Mutual Policial. Pasaje Acevedo y C 3372",
+        "fecha": "2026-07-29T13:17:22.850Z",
+        "sentimiento": "neutro"
+      }
+    ]
   },
   {
     "numero": "163015550840988",
