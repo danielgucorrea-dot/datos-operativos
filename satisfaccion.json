@@ -46676,16 +46676,26 @@
     "celular": "+54 9 3816 331-873",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "positivo",
-    "ultimoMensaje": "Buenas tardes ya está la basura que sacamos del fondo , todo en la vereda así uds la retiran gracias",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "👆🏽",
     "mensaje": "Buenas tardes ya está la basura que sacamos del fondo , todo en la vereda así uds la retiran gracias",
     "fecha": "2026-07-28T20:05:22.171Z",
-    "ultimaActualizacion": "2026-07-28T20:05:22.171Z",
+    "ultimaActualizacion": "2026-07-29T10:10:10.467Z",
     "historialMensajes": [
       {
         "texto": "Buenas tardes ya está la basura que sacamos del fondo , todo en la vereda así uds la retiran gracias",
         "fecha": "2026-07-28T20:05:22.171Z",
         "sentimiento": "positivo"
+      },
+      {
+        "texto": "Buen día ya desee ayer está toda la basura que sacamos del fondo en la vereda así uds la retiran xfa. Gracias",
+        "fecha": "2026-07-29T10:10:07.423Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "👆🏽",
+        "fecha": "2026-07-29T10:10:10.467Z",
+        "sentimiento": "neutro"
       }
     ]
   },
