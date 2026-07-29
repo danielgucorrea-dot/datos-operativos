@@ -47425,12 +47425,12 @@
     "numero": "165854641701071",
     "celular": "+54 9 3813 548-211",
     "nombre": "",
-    "direccion": null,
+    "direccion": "Barrio Oeste",
     "sentimiento": "neutro",
-    "ultimoMensaje": "Ésto sería lo que necesito tirar, la puerta vieja, y unos listones de manera y ese ladrillo",
+    "ultimoMensaje": "Mi dirección es Diagonal 5, casa 1159, Barrio Oeste 1",
     "mensaje": "Hola!",
     "fecha": "2026-07-29T14:27:55.094Z",
-    "ultimaActualizacion": "2026-07-29T14:28:40.654Z",
+    "ultimaActualizacion": "2026-07-29T15:02:49.848Z",
     "historialMensajes": [
       {
         "texto": "Hola!",
@@ -47440,6 +47440,11 @@
       {
         "texto": "Ésto sería lo que necesito tirar, la puerta vieja, y unos listones de manera y ese ladrillo",
         "fecha": "2026-07-29T14:28:40.654Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Mi dirección es Diagonal 5, casa 1159, Barrio Oeste 1",
+        "fecha": "2026-07-29T15:02:49.848Z",
         "sentimiento": "neutro"
       }
     ]
@@ -47514,10 +47519,10 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "neutro",
-    "ultimoMensaje": "mira ya tengo ramas secas q corte el arbol en la vereda",
+    "ultimoMensaje": "y envio foto",
     "mensaje": "Buenos dias!!",
     "fecha": "2026-07-29T14:57:40.986Z",
-    "ultimaActualizacion": "2026-07-29T15:02:07.291Z",
+    "ultimaActualizacion": "2026-07-29T15:03:01.955Z",
     "historialMensajes": [
       {
         "texto": "Buenos dias!!",
@@ -47532,6 +47537,21 @@
       {
         "texto": "mira ya tengo ramas secas q corte el arbol en la vereda",
         "fecha": "2026-07-29T15:02:07.291Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "ok!!",
+        "fecha": "2026-07-29T15:02:53.388Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "llego a casa",
+        "fecha": "2026-07-29T15:02:56.915Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "y envio foto",
+        "fecha": "2026-07-29T15:03:01.955Z",
         "sentimiento": "neutro"
       }
     ]
