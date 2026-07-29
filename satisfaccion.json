@@ -47224,5 +47224,28 @@
         "sentimiento": "neutro"
       }
     ]
+  },
+  {
+    "numero": "220263186726993",
+    "celular": "+54 9 3815 144-835",
+    "nombre": "",
+    "direccion": "Pasaje Roma 173",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Necesito retirar de mi domicilio Pasaje Roma 173 san Miguel de Tucumán",
+    "mensaje": "Buenos dias",
+    "fecha": "2026-07-29T13:50:28.926Z",
+    "ultimaActualizacion": "2026-07-29T13:51:06.532Z",
+    "historialMensajes": [
+      {
+        "texto": "Buenos dias",
+        "fecha": "2026-07-29T13:50:28.926Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Necesito retirar de mi domicilio Pasaje Roma 173 san Miguel de Tucumán",
+        "fecha": "2026-07-29T13:51:06.532Z",
+        "sentimiento": "positivo"
+      }
+    ]
   }
 ]
