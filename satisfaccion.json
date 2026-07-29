@@ -47491,10 +47491,10 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "neutro",
-    "ultimoMensaje": "Como gestiono el retiro de esto?",
+    "ultimoMensaje": "9 de julio 620 planta baja",
     "mensaje": "Hola buen dia",
     "fecha": "2026-07-29T14:54:20.628Z",
-    "ultimaActualizacion": "2026-07-29T14:55:28.848Z",
+    "ultimaActualizacion": "2026-07-29T15:05:38.099Z",
     "historialMensajes": [
       {
         "texto": "Hola buen dia",
@@ -47510,6 +47510,11 @@
         "texto": "Como gestiono el retiro de esto?",
         "fecha": "2026-07-29T14:55:28.848Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "9 de julio 620 planta baja",
+        "fecha": "2026-07-29T15:05:38.099Z",
+        "sentimiento": "neutro"
       }
     ]
   },
@@ -47519,10 +47524,10 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "neutro",
-    "ultimoMensaje": "y envio foto",
+    "ultimoMensaje": "y me responden cdo puedan",
     "mensaje": "Buenos dias!!",
     "fecha": "2026-07-29T14:57:40.986Z",
-    "ultimaActualizacion": "2026-07-29T15:03:01.955Z",
+    "ultimaActualizacion": "2026-07-29T15:06:12.437Z",
     "historialMensajes": [
       {
         "texto": "Buenos dias!!",
@@ -47552,6 +47557,16 @@
       {
         "texto": "y envio foto",
         "fecha": "2026-07-29T15:03:01.955Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "perfecto , igual mando sms",
+        "fecha": "2026-07-29T15:06:03.851Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "y me responden cdo puedan",
+        "fecha": "2026-07-29T15:06:12.437Z",
         "sentimiento": "neutro"
       }
     ]
