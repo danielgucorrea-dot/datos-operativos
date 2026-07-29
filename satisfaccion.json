@@ -47846,5 +47846,23 @@
         "sentimiento": "positivo"
       }
     ]
+  },
+  {
+    "numero": "102297564610581",
+    "celular": "+54 9 3814 787-830",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "negativo",
+    "ultimoMensaje": "Buenas tardes. Tengo 2 llamadas perdidas de este número",
+    "mensaje": "Buenas tardes. Tengo 2 llamadas perdidas de este número",
+    "fecha": "2026-07-29T18:17:31.299Z",
+    "ultimaActualizacion": "2026-07-29T18:17:31.299Z",
+    "historialMensajes": [
+      {
+        "texto": "Buenas tardes. Tengo 2 llamadas perdidas de este número",
+        "fecha": "2026-07-29T18:17:31.299Z",
+        "sentimiento": "negativo"
+      }
+    ]
   }
 ]
