@@ -47642,14 +47642,24 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "neutro",
-    "ultimoMensaje": "Buenas",
+    "ultimoMensaje": "Ya t mando mañana entonces",
     "mensaje": "Buenas",
     "fecha": "2026-07-29T15:23:42.573Z",
-    "ultimaActualizacion": "2026-07-29T15:23:42.573Z",
+    "ultimaActualizacion": "2026-07-29T15:32:14.867Z",
     "historialMensajes": [
       {
         "texto": "Buenas",
         "fecha": "2026-07-29T15:23:42.573Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Ah bueno, pensé q ya asi podías agendarme",
+        "fecha": "2026-07-29T15:32:05.242Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Ya t mando mañana entonces",
+        "fecha": "2026-07-29T15:32:14.867Z",
         "sentimiento": "neutro"
       }
     ]
