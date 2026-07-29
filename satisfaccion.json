@@ -46894,14 +46894,19 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "positivo",
-    "ultimoMensaje": "Buen día somos de la escuela número 80 del mojón viclos y queremos llevar a nuestros niños a conocer el campus que posibilidad tenemos de concretar. Muchas gracias",
+    "ultimoMensaje": "Muchas gracias",
     "mensaje": "Buen día somos de la escuela número 80 del mojón viclos y queremos llevar a nuestros niños a conocer el campus que posibilidad tenemos de concretar. Muchas gracias",
     "fecha": "2026-07-29T11:42:36.641Z",
-    "ultimaActualizacion": "2026-07-29T11:42:36.641Z",
+    "ultimaActualizacion": "2026-07-29T11:44:49.024Z",
     "historialMensajes": [
       {
         "texto": "Buen día somos de la escuela número 80 del mojón viclos y queremos llevar a nuestros niños a conocer el campus que posibilidad tenemos de concretar. Muchas gracias",
         "fecha": "2026-07-29T11:42:36.641Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Muchas gracias",
+        "fecha": "2026-07-29T11:44:49.024Z",
         "sentimiento": "positivo"
       }
     ]
