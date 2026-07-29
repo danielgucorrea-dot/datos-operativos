@@ -46981,12 +46981,12 @@
     "numero": "102031427690678",
     "celular": "+54 9 3814 163-298",
     "nombre": "",
-    "direccion": null,
-    "sentimiento": "negativo",
-    "ultimoMensaje": "Yo no les quiero dar a los carritos o carros .... Xq es algo indebido ..y porque los tiran en cualquier calle o vía pública....",
+    "direccion": "En 10",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "En 10 minutos llego a mi domicilio y les envío foto sí 🙂‍↕️",
     "mensaje": "Bueno días qtal",
     "fecha": "2026-07-29T12:20:03.939Z",
-    "ultimaActualizacion": "2026-07-29T12:25:13.838Z",
+    "ultimaActualizacion": "2026-07-29T12:25:58.600Z",
     "historialMensajes": [
       {
         "texto": "Bueno días qtal",
@@ -47002,6 +47002,11 @@
         "texto": "Yo no les quiero dar a los carritos o carros .... Xq es algo indebido ..y porque los tiran en cualquier calle o vía pública....",
         "fecha": "2026-07-29T12:25:13.838Z",
         "sentimiento": "negativo"
+      },
+      {
+        "texto": "En 10 minutos llego a mi domicilio y les envío foto sí 🙂‍↕️",
+        "fecha": "2026-07-29T12:25:58.600Z",
+        "sentimiento": "positivo"
       }
     ]
   }
