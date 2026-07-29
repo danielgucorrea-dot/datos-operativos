@@ -47701,5 +47701,23 @@
         "sentimiento": "neutro"
       }
     ]
+  },
+  {
+    "numero": "68968668758114",
+    "celular": "+54 9 3815 082-688",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Buen día",
+    "mensaje": "Buen día",
+    "fecha": "2026-07-29T15:43:32.248Z",
+    "ultimaActualizacion": "2026-07-29T15:43:32.248Z",
+    "historialMensajes": [
+      {
+        "texto": "Buen día",
+        "fecha": "2026-07-29T15:43:32.248Z",
+        "sentimiento": "neutro"
+      }
+    ]
   }
 ]
