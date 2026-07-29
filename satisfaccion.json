@@ -47673,16 +47673,31 @@
     "numero": "169625622937742",
     "celular": "+54 9 3815 936-436",
     "nombre": "",
-    "direccion": null,
+    "direccion": "San Juan 865",
     "sentimiento": "neutro",
-    "ultimoMensaje": "Buenas tardes",
+    "ultimoMensaje": "San Juan 865",
     "mensaje": "Buenas tardes",
     "fecha": "2026-07-29T15:39:33.803Z",
-    "ultimaActualizacion": "2026-07-29T15:39:33.803Z",
+    "ultimaActualizacion": "2026-07-29T15:41:41.680Z",
     "historialMensajes": [
       {
         "texto": "Buenas tardes",
         "fecha": "2026-07-29T15:39:33.803Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Quisiera pedir que pasen por mi domicilio a recolectar poda",
+        "fecha": "2026-07-29T15:41:13.808Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Troncos y hojas de palmeras",
+        "fecha": "2026-07-29T15:41:32.041Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "San Juan 865",
+        "fecha": "2026-07-29T15:41:41.680Z",
         "sentimiento": "neutro"
       }
     ]
