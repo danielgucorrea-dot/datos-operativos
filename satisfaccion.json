@@ -46637,11 +46637,11 @@
     "celular": "+54 9 3813 868-035",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Buen dia",
+    "sentimiento": "negativo",
+    "ultimoMensaje": "Pero ya paso la fecha que me asignaron ..... importa eso ???",
     "mensaje": "Hola buenas tardes",
     "fecha": "2026-07-28T16:25:29.985Z",
-    "ultimaActualizacion": "2026-07-29T13:04:20.071Z",
+    "ultimaActualizacion": "2026-07-29T13:04:45.569Z",
     "historialMensajes": [
       {
         "texto": "Hola buenas tardes",
@@ -46662,6 +46662,11 @@
         "texto": "Buen dia",
         "fecha": "2026-07-29T13:04:20.071Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Pero ya paso la fecha que me asignaron ..... importa eso ???",
+        "fecha": "2026-07-29T13:04:45.569Z",
+        "sentimiento": "negativo"
       }
     ]
   },
