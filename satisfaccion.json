@@ -46653,10 +46653,10 @@
     "nombre": "",
     "direccion": "Perdón 12",
     "sentimiento": "neutro",
-    "ultimoMensaje": "Aquí tiene",
+    "ultimoMensaje": "Si,Mendoza 1725",
     "mensaje": "Buenas tardes",
     "fecha": "2026-07-28T16:20:24.063Z",
-    "ultimaActualizacion": "2026-07-29T13:41:50.547Z",
+    "ultimaActualizacion": "2026-07-29T14:28:42.203Z",
     "historialMensajes": [
       {
         "texto": "Buenas tardes",
@@ -46696,6 +46696,11 @@
       {
         "texto": "Aquí tiene",
         "fecha": "2026-07-29T13:41:50.547Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Si,Mendoza 1725",
+        "fecha": "2026-07-29T14:28:42.203Z",
         "sentimiento": "neutro"
       }
     ]
@@ -47113,10 +47118,10 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "neutro",
-    "ultimoMensaje": "36.838.975",
+    "ultimoMensaje": "Pero necesito que se las lleven, así que buscaría la manera de solucionarlo para que se las puedan llevar",
     "mensaje": "Buen día !",
     "fecha": "2026-07-29T11:38:30.113Z",
-    "ultimaActualizacion": "2026-07-29T13:33:06.078Z",
+    "ultimaActualizacion": "2026-07-29T14:29:16.131Z",
     "historialMensajes": [
       {
         "texto": "Buen día !",
@@ -47136,6 +47141,36 @@
       {
         "texto": "36.838.975",
         "fecha": "2026-07-29T13:33:06.078Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Disculpa",
+        "fecha": "2026-07-29T14:27:47.999Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Yo estoy en reposo absoluto por embarazo de riesgo",
+        "fecha": "2026-07-29T14:28:07.237Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "No puedo hacerme cargo",
+        "fecha": "2026-07-29T14:28:13.297Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Me dirías de manera clara por favor que es lo que hay que hacer y como proseguir?",
+        "fecha": "2026-07-29T14:28:40.159Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Las cosas nos la dejaron tiradas en nuestra vereda",
+        "fecha": "2026-07-29T14:29:02.469Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Pero necesito que se las lleven, así que buscaría la manera de solucionarlo para que se las puedan llevar",
+        "fecha": "2026-07-29T14:29:16.131Z",
         "sentimiento": "neutro"
       }
     ]
@@ -47295,6 +47330,29 @@
         "texto": "Confirmar recepción, gracias",
         "fecha": "2026-07-29T13:53:17.479Z",
         "sentimiento": "positivo"
+      }
+    ]
+  },
+  {
+    "numero": "165854641701071",
+    "celular": "+54 9 3813 548-211",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Ésto sería lo que necesito tirar, la puerta vieja, y unos listones de manera y ese ladrillo",
+    "mensaje": "Hola!",
+    "fecha": "2026-07-29T14:27:55.094Z",
+    "ultimaActualizacion": "2026-07-29T14:28:40.654Z",
+    "historialMensajes": [
+      {
+        "texto": "Hola!",
+        "fecha": "2026-07-29T14:27:55.094Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Ésto sería lo que necesito tirar, la puerta vieja, y unos listones de manera y ese ladrillo",
+        "fecha": "2026-07-29T14:28:40.654Z",
+        "sentimiento": "neutro"
       }
     ]
   }
