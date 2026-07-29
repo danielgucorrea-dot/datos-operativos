@@ -18524,7 +18524,7 @@
     "celular": "+54 9 3814 122-739",
     "nombre": "",
     "direccion": "av colon 3200",
-    "sentimiento": "negativo",
+    "sentimiento": "neutro",
     "evidencia_clasificacion": [],
     "canal": "WhatsApp Ambiente",
     "fecha": "2026-06-02",
@@ -18541,8 +18541,8 @@
       "Podría pasarme el número al que me pueda comunicar",
       "Hola buenos días"
     ],
-    "ultimaActualizacion": "2026-07-29T11:58:05.282Z",
-    "ultimoMensaje": "buen día Porque sería derivado a servicios públicos sinlo que necesito que levanten toda esa basura que hay ahi",
+    "ultimaActualizacion": "2026-07-29T12:11:25.702Z",
+    "ultimoMensaje": "Ah buen",
     "historialMensajes": [
       {
         "texto": "Lo cargue por la app y lo cargue por un número de teléfono me dijeron que se iban a comunicar para que mandara las fotos y nadie se xominico",
@@ -18568,6 +18568,11 @@
         "texto": "buen día Porque sería derivado a servicios públicos sinlo que necesito que levanten toda esa basura que hay ahi",
         "fecha": "2026-07-29T11:58:05.282Z",
         "sentimiento": "negativo"
+      },
+      {
+        "texto": "Ah buen",
+        "fecha": "2026-07-29T12:11:25.702Z",
+        "sentimiento": "neutro"
       }
     ]
   },
@@ -22509,7 +22514,7 @@
     "celular": "+54 9 3815 856-334",
     "nombre": "",
     "direccion": "Pje Los Sosa 4750",
-    "sentimiento": "neutro",
+    "sentimiento": "positivo",
     "evidencia_clasificacion": [
       "perfecto muchas gracias"
     ],
@@ -22534,8 +22539,8 @@
       "Por favor, si pudiesen retirarlos les agradecería mucho. Es en pasaje los sosa 4750/60",
       "Buen día, para solicitar el retiro de escombros, envío foto actual"
     ],
-    "ultimaActualizacion": "2026-07-28T16:10:56.970Z",
-    "ultimoMensaje": "Y esas fotos son de ahora",
+    "ultimaActualizacion": "2026-07-29T12:14:29.245Z",
+    "ultimoMensaje": "Buen día, muchas gracias",
     "historialMensajes": [
       {
         "texto": "Buenas tardes, cómo están? Disculpen la molestia, ustedes retiran ramas?",
@@ -22551,6 +22556,11 @@
         "texto": "Y esas fotos son de ahora",
         "fecha": "2026-07-28T16:10:56.970Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Buen día, muchas gracias",
+        "fecha": "2026-07-29T12:14:29.245Z",
+        "sentimiento": "positivo"
       }
     ]
   },
