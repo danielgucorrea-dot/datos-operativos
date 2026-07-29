@@ -46968,11 +46968,11 @@
     "celular": "+54 9 3816 362-892",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Buenos dias",
+    "sentimiento": "negativo",
+    "ultimoMensaje": "Restos de paloma muerta nido caca orina",
     "mensaje": "Buenas tardes",
     "fecha": "2026-07-28T21:34:17.194Z",
-    "ultimaActualizacion": "2026-07-29T11:17:05.938Z",
+    "ultimaActualizacion": "2026-07-29T13:24:56.456Z",
     "historialMensajes": [
       {
         "texto": "Buenas tardes",
@@ -46988,6 +46988,21 @@
         "texto": "Buenos dias",
         "fecha": "2026-07-29T11:17:05.938Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Hace 3 semanas que estan",
+        "fecha": "2026-07-29T13:24:28.928Z",
+        "sentimiento": "negativo"
+      },
+      {
+        "texto": "Son bolsas de residuos toxicos",
+        "fecha": "2026-07-29T13:24:31.794Z",
+        "sentimiento": "negativo"
+      },
+      {
+        "texto": "Restos de paloma muerta nido caca orina",
+        "fecha": "2026-07-29T13:24:56.456Z",
+        "sentimiento": "negativo"
       }
     ]
   },
