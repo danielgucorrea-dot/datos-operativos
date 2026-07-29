@@ -46811,11 +46811,11 @@
     "celular": "+54 9 3816 362-892",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "positivo",
-    "ultimoMensaje": "Necesito que extraigan residuos tóxicos🙏🏻",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Buenos dias",
     "mensaje": "Buenas tardes",
     "fecha": "2026-07-28T21:34:17.194Z",
-    "ultimaActualizacion": "2026-07-28T21:34:46.851Z",
+    "ultimaActualizacion": "2026-07-29T11:17:05.938Z",
     "historialMensajes": [
       {
         "texto": "Buenas tardes",
@@ -46826,6 +46826,11 @@
         "texto": "Necesito que extraigan residuos tóxicos🙏🏻",
         "fecha": "2026-07-28T21:34:46.851Z",
         "sentimiento": "positivo"
+      },
+      {
+        "texto": "Buenos dias",
+        "fecha": "2026-07-29T11:17:05.938Z",
+        "sentimiento": "neutro"
       }
     ]
   },
