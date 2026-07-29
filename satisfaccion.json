@@ -46589,10 +46589,10 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "positivo",
-    "ultimoMensaje": "Les hago una consulta, tengo restos de escombros en mi casa y vi que la municipalidad brindaba un servicio de recoleccion con conteiners, puede ser?",
+    "ultimoMensaje": "Gracias, serían 13 bolsas de este tipo, estaría bien?",
     "mensaje": "Buenas tardes",
     "fecha": "2026-07-28T16:20:24.063Z",
-    "ultimaActualizacion": "2026-07-28T16:20:43.707Z",
+    "ultimaActualizacion": "2026-07-29T12:52:35.125Z",
     "historialMensajes": [
       {
         "texto": "Buenas tardes",
@@ -46602,6 +46602,11 @@
       {
         "texto": "Les hago una consulta, tengo restos de escombros en mi casa y vi que la municipalidad brindaba un servicio de recoleccion con conteiners, puede ser?",
         "fecha": "2026-07-28T16:20:43.707Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Gracias, serían 13 bolsas de este tipo, estaría bien?",
+        "fecha": "2026-07-29T12:52:35.125Z",
         "sentimiento": "positivo"
       }
     ]
