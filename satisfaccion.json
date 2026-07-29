@@ -46589,11 +46589,11 @@
     "celular": "+54 9 3815 809-874",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "positivo",
-    "ultimoMensaje": "Como hago para avisar??",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Ya solucione. Gracias",
     "mensaje": "Para retirara residuos de poda vegetal",
     "fecha": "2026-07-28T16:20:21.088Z",
-    "ultimaActualizacion": "2026-07-28T16:20:30.175Z",
+    "ultimaActualizacion": "2026-07-29T13:41:47.950Z",
     "historialMensajes": [
       {
         "texto": "Para retirara residuos de poda vegetal",
@@ -46604,6 +46604,11 @@
         "texto": "Como hago para avisar??",
         "fecha": "2026-07-28T16:20:30.175Z",
         "sentimiento": "positivo"
+      },
+      {
+        "texto": "Ya solucione. Gracias",
+        "fecha": "2026-07-29T13:41:47.950Z",
+        "sentimiento": "neutro"
       }
     ]
   },
@@ -46612,11 +46617,11 @@
     "celular": "+54 9 3814 064-959",
     "nombre": "",
     "direccion": "Perdón 12",
-    "sentimiento": "positivo",
-    "ultimoMensaje": "Se lo puedo confirmar entonces? Serían 5 bolsas",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Aquí tiene",
     "mensaje": "Buenas tardes",
     "fecha": "2026-07-28T16:20:24.063Z",
-    "ultimaActualizacion": "2026-07-29T13:15:33.768Z",
+    "ultimaActualizacion": "2026-07-29T13:41:50.547Z",
     "historialMensajes": [
       {
         "texto": "Buenas tardes",
@@ -46652,6 +46657,11 @@
         "texto": "Se lo puedo confirmar entonces? Serían 5 bolsas",
         "fecha": "2026-07-29T13:15:33.768Z",
         "sentimiento": "positivo"
+      },
+      {
+        "texto": "Aquí tiene",
+        "fecha": "2026-07-29T13:41:50.547Z",
+        "sentimiento": "neutro"
       }
     ]
   },
