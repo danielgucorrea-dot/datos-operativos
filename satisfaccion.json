@@ -46183,11 +46183,11 @@
     "celular": "+54 9 3812 123-264",
     "nombre": "",
     "direccion": "Barrio mutualidad provincial mz",
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Barrio mutualidad provincial mz F casa 3\nLidoro quintero 2298",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Bueno gracias",
     "mensaje": "Hola buenos días",
     "fecha": "2026-07-28T14:51:33.245Z",
-    "ultimaActualizacion": "2026-07-28T16:10:51.377Z",
+    "ultimaActualizacion": "2026-07-29T12:23:40.768Z",
     "historialMensajes": [
       {
         "texto": "Hola buenos días",
@@ -46233,6 +46233,11 @@
         "texto": "Barrio mutualidad provincial mz F casa 3\nLidoro quintero 2298",
         "fecha": "2026-07-28T16:10:51.377Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Bueno gracias",
+        "fecha": "2026-07-29T12:23:40.768Z",
+        "sentimiento": "positivo"
       }
     ]
   },
@@ -46978,10 +46983,10 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "negativo",
-    "ultimoMensaje": "No 🙂‍↔️ no.... Nunca llegaron por mi domicilio... Ni tampoco retiraron ni cargaron....nada .... 🤔!!!",
+    "ultimoMensaje": "Yo no les quiero dar a los carritos o carros .... Xq es algo indebido ..y porque los tiran en cualquier calle o vía pública....",
     "mensaje": "Bueno días qtal",
     "fecha": "2026-07-29T12:20:03.939Z",
-    "ultimaActualizacion": "2026-07-29T12:21:16.241Z",
+    "ultimaActualizacion": "2026-07-29T12:25:13.838Z",
     "historialMensajes": [
       {
         "texto": "Bueno días qtal",
@@ -46991,6 +46996,11 @@
       {
         "texto": "No 🙂‍↔️ no.... Nunca llegaron por mi domicilio... Ni tampoco retiraron ni cargaron....nada .... 🤔!!!",
         "fecha": "2026-07-29T12:21:16.241Z",
+        "sentimiento": "negativo"
+      },
+      {
+        "texto": "Yo no les quiero dar a los carritos o carros .... Xq es algo indebido ..y porque los tiran en cualquier calle o vía pública....",
+        "fecha": "2026-07-29T12:25:13.838Z",
         "sentimiento": "negativo"
       }
     ]
