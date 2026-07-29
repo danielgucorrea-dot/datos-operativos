@@ -15291,7 +15291,7 @@
     "celular": "+54 9 3816 487-077",
     "nombre": "",
     "direccion": "",
-    "sentimiento": "negativo",
+    "sentimiento": "neutro",
     "evidencia_clasificacion": [
       "no\\s+pasa"
     ],
@@ -15308,8 +15308,8 @@
       "Bueno",
       "Hola"
     ],
-    "ultimaActualizacion": "2026-07-08T21:39:58.586Z",
-    "ultimoMensaje": "kiero denunciar que basurero no pasa recoger la basura",
+    "ultimaActualizacion": "2026-07-29T10:26:54.936Z",
+    "ultimoMensaje": "día",
     "historialMensajes": [
       {
         "texto": "hola",
@@ -15320,6 +15320,11 @@
         "texto": "kiero denunciar que basurero no pasa recoger la basura",
         "fecha": "2026-07-08T21:39:58.586Z",
         "sentimiento": "negativo"
+      },
+      {
+        "texto": "día",
+        "fecha": "2026-07-29T10:26:54.936Z",
+        "sentimiento": "neutro"
       }
     ]
   },
