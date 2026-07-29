@@ -42465,21 +42465,11 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "neutro",
-    "ultimoMensaje": "ya avisare q lo llamen cuando vayan",
+    "ultimoMensaje": "igual pasamelo por favor",
     "mensaje": "buen dia",
     "fecha": "2026-07-13T12:35:57.936Z",
-    "ultimaActualizacion": "2026-07-29T15:11:21.996Z",
+    "ultimaActualizacion": "2026-07-29T15:25:46.929Z",
     "historialMensajes": [
-      {
-        "texto": "buen dia perdon",
-        "fecha": "2026-07-28T14:08:36.358Z",
-        "sentimiento": "neutro"
-      },
-      {
-        "texto": "a salud ambiental",
-        "fecha": "2026-07-28T15:38:37.551Z",
-        "sentimiento": "neutro"
-      },
       {
         "texto": "ya le paso a clarita",
         "fecha": "2026-07-28T15:38:39.432Z",
@@ -42518,6 +42508,16 @@
       {
         "texto": "ya avisare q lo llamen cuando vayan",
         "fecha": "2026-07-29T15:11:21.996Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "me podes pasar el numero por favor",
+        "fecha": "2026-07-29T15:24:45.756Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "igual pasamelo por favor",
+        "fecha": "2026-07-29T15:25:46.929Z",
         "sentimiento": "neutro"
       }
     ]
@@ -47467,10 +47467,10 @@
     "nombre": "",
     "direccion": "Barrio Oeste",
     "sentimiento": "neutro",
-    "ultimoMensaje": "Perfecto!",
+    "ultimoMensaje": "perfecto! Gracias!",
     "mensaje": "Hola!",
     "fecha": "2026-07-29T14:27:55.094Z",
-    "ultimaActualizacion": "2026-07-29T15:17:29.741Z",
+    "ultimaActualizacion": "2026-07-29T15:24:01.255Z",
     "historialMensajes": [
       {
         "texto": "Hola!",
@@ -47490,6 +47490,11 @@
       {
         "texto": "Perfecto!",
         "fecha": "2026-07-29T15:17:29.741Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "perfecto! Gracias!",
+        "fecha": "2026-07-29T15:24:01.255Z",
         "sentimiento": "neutro"
       }
     ]
@@ -47536,10 +47541,10 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "neutro",
-    "ultimoMensaje": "Es seguro que mañana? Porque al ser un edificio no puedo dejar cosas sobre la vereda. Uds se comunican entonces?",
+    "ultimoMensaje": "Bien muchísimas gracias!!!!!",
     "mensaje": "Hola buen dia",
     "fecha": "2026-07-29T14:54:20.628Z",
-    "ultimaActualizacion": "2026-07-29T15:15:54.205Z",
+    "ultimaActualizacion": "2026-07-29T15:25:31.743Z",
     "historialMensajes": [
       {
         "texto": "Hola buen dia",
@@ -47564,6 +47569,11 @@
       {
         "texto": "Es seguro que mañana? Porque al ser un edificio no puedo dejar cosas sobre la vereda. Uds se comunican entonces?",
         "fecha": "2026-07-29T15:15:54.205Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Bien muchísimas gracias!!!!!",
+        "fecha": "2026-07-29T15:25:31.743Z",
         "sentimiento": "neutro"
       }
     ]
@@ -47622,6 +47632,24 @@
       {
         "texto": "a ustedes",
         "fecha": "2026-07-29T15:07:46.063Z",
+        "sentimiento": "neutro"
+      }
+    ]
+  },
+  {
+    "numero": "247884154945670",
+    "celular": "+54 9 3815 536-304",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Buenas",
+    "mensaje": "Buenas",
+    "fecha": "2026-07-29T15:23:42.573Z",
+    "ultimaActualizacion": "2026-07-29T15:23:42.573Z",
+    "historialMensajes": [
+      {
+        "texto": "Buenas",
+        "fecha": "2026-07-29T15:23:42.573Z",
         "sentimiento": "neutro"
       }
     ]
