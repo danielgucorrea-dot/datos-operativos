@@ -47823,5 +47823,23 @@
         "sentimiento": "positivo"
       }
     ]
+  },
+  {
+    "numero": "51367842435102",
+    "celular": "+54 9 3816 581-694",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Muchas gracias",
+    "mensaje": "Muchas gracias",
+    "fecha": "2026-07-29T17:32:45.876Z",
+    "ultimaActualizacion": "2026-07-29T17:32:45.876Z",
+    "historialMensajes": [
+      {
+        "texto": "Muchas gracias",
+        "fecha": "2026-07-29T17:32:45.876Z",
+        "sentimiento": "positivo"
+      }
+    ]
   }
 ]
