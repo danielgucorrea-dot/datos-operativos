@@ -46604,11 +46604,11 @@
     "celular": "+54 9 3814 121-829",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "negativo",
-    "ultimoMensaje": "NECESITO PORFAS RETIREN 4 BOLSAS CON PASTO ... RECIÉN CORTADO",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Ya la llevaron ayer.. Muchas Gracias!!! ☺️",
     "mensaje": "Buenas tardes!!",
     "fecha": "2026-07-28T16:56:38.819Z",
-    "ultimaActualizacion": "2026-07-28T16:57:30.308Z",
+    "ultimaActualizacion": "2026-07-29T12:19:52.605Z",
     "historialMensajes": [
       {
         "texto": "Buenas tardes!!",
@@ -46619,6 +46619,16 @@
         "texto": "NECESITO PORFAS RETIREN 4 BOLSAS CON PASTO ... RECIÉN CORTADO",
         "fecha": "2026-07-28T16:57:30.308Z",
         "sentimiento": "negativo"
+      },
+      {
+        "texto": "Buenos Días!!",
+        "fecha": "2026-07-29T12:19:45.616Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Ya la llevaron ayer.. Muchas Gracias!!! ☺️",
+        "fecha": "2026-07-29T12:19:52.605Z",
+        "sentimiento": "positivo"
       }
     ]
   },
