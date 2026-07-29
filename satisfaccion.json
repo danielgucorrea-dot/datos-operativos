@@ -10692,7 +10692,7 @@
     "celular": "+54 9 3816 986-003",
     "nombre": "",
     "direccion": "",
-    "sentimiento": "neutro",
+    "sentimiento": "negativo",
     "evidencia_clasificacion": [],
     "canal": "WhatsApp Ambiente",
     "fecha": "2026-06-16",
@@ -10704,7 +10704,15 @@
       "Tengo muebles, restos de hierro para tirar",
       "Buen dia"
     ],
-    "ultimaActualizacion": "2026-06-16"
+    "ultimaActualizacion": "2026-07-29T21:49:38.915Z",
+    "ultimoMensaje": "Buenas necesito me retiren estas cosas de mi domicilio",
+    "historialMensajes": [
+      {
+        "texto": "Buenas necesito me retiren estas cosas de mi domicilio",
+        "fecha": "2026-07-29T21:49:38.915Z",
+        "sentimiento": "negativo"
+      }
+    ]
   },
   {
     "numero": "163281838854279",
