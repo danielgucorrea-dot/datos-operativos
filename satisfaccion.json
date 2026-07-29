@@ -46587,12 +46587,12 @@
     "numero": "270690934632526",
     "celular": "+54 9 3814 064-959",
     "nombre": "",
-    "direccion": null,
+    "direccion": "Perdón 12",
     "sentimiento": "positivo",
-    "ultimoMensaje": "Gracias, serían 13 bolsas de este tipo, estaría bien?",
+    "ultimoMensaje": "Perdón 12 bolsas",
     "mensaje": "Buenas tardes",
     "fecha": "2026-07-28T16:20:24.063Z",
-    "ultimaActualizacion": "2026-07-29T12:52:35.125Z",
+    "ultimaActualizacion": "2026-07-29T12:52:42.148Z",
     "historialMensajes": [
       {
         "texto": "Buenas tardes",
@@ -46607,6 +46607,11 @@
       {
         "texto": "Gracias, serían 13 bolsas de este tipo, estaría bien?",
         "fecha": "2026-07-29T12:52:35.125Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Perdón 12 bolsas",
+        "fecha": "2026-07-29T12:52:42.148Z",
         "sentimiento": "positivo"
       }
     ]
