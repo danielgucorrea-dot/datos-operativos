@@ -21234,7 +21234,7 @@
     "celular": "+54 9 3815 888-825",
     "nombre": "",
     "direccion": "Lucas Cordoba 1400",
-    "sentimiento": "negativo",
+    "sentimiento": "neutro",
     "evidencia_clasificacion": [
       "perfecto muchas gracias"
     ],
@@ -21247,8 +21247,8 @@
       "Aveces pasan del lado del frente nada más que sería de la vereda número par \nY pasan una vez cada dos semanas por eso quería saber si que día son",
       "Quería saber si que días pasa el servicio de barrido Cordon cuneta \nEstoy en Lucas Cordoba 1400"
     ],
-    "ultimaActualizacion": "2026-07-29T13:56:53.023Z",
-    "ultimoMensaje": "Necesito hacer un reclamo y que por favor me generes un número de reclamo dado que el 15 de julio hice un reclamo y no hubo solución \nLucas Córdoba 1400",
+    "ultimaActualizacion": "2026-07-29T13:57:10.803Z",
+    "ultimoMensaje": "Adjunto fotos",
     "historialMensajes": [
       {
         "texto": "Gracias",
@@ -21264,6 +21264,11 @@
         "texto": "Necesito hacer un reclamo y que por favor me generes un número de reclamo dado que el 15 de julio hice un reclamo y no hubo solución \nLucas Córdoba 1400",
         "fecha": "2026-07-29T13:56:53.023Z",
         "sentimiento": "negativo"
+      },
+      {
+        "texto": "Adjunto fotos",
+        "fecha": "2026-07-29T13:57:10.803Z",
+        "sentimiento": "neutro"
       }
     ]
   },
