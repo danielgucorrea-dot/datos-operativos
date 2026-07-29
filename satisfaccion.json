@@ -46600,12 +46600,12 @@
     "numero": "61688749506800",
     "celular": "+54 9 3815 082-983",
     "nombre": "",
-    "direccion": null,
-    "sentimiento": "positivo",
-    "ultimoMensaje": "Buen día mire tengo una heladera que funciona pero da la corriente y la quiero dar...UD la pueden buscar?",
+    "direccion": "pje arenales 1808",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "La dirección es pje arenales 1808",
     "mensaje": "Buenas tardes",
     "fecha": "2026-07-28T16:03:35.696Z",
-    "ultimaActualizacion": "2026-07-29T12:19:55.346Z",
+    "ultimaActualizacion": "2026-07-29T14:30:05.236Z",
     "historialMensajes": [
       {
         "texto": "Buenas tardes",
@@ -46616,6 +46616,11 @@
         "texto": "Buen día mire tengo una heladera que funciona pero da la corriente y la quiero dar...UD la pueden buscar?",
         "fecha": "2026-07-29T12:19:55.346Z",
         "sentimiento": "positivo"
+      },
+      {
+        "texto": "La dirección es pje arenales 1808",
+        "fecha": "2026-07-29T14:30:05.236Z",
+        "sentimiento": "neutro"
       }
     ]
   },
@@ -47118,16 +47123,11 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "neutro",
-    "ultimoMensaje": "Pero necesito que se las lleven, así que buscaría la manera de solucionarlo para que se las puedan llevar",
+    "ultimoMensaje": "De la manera en que vos me indiques por favor",
     "mensaje": "Buen día !",
     "fecha": "2026-07-29T11:38:30.113Z",
-    "ultimaActualizacion": "2026-07-29T14:29:16.131Z",
+    "ultimaActualizacion": "2026-07-29T14:29:28.806Z",
     "historialMensajes": [
-      {
-        "texto": "Buen día !",
-        "fecha": "2026-07-29T11:38:30.113Z",
-        "sentimiento": "neutro"
-      },
       {
         "texto": "Necesito por favor que vengan a recolectar esa basura",
         "fecha": "2026-07-29T13:32:36.820Z",
@@ -47171,6 +47171,11 @@
       {
         "texto": "Pero necesito que se las lleven, así que buscaría la manera de solucionarlo para que se las puedan llevar",
         "fecha": "2026-07-29T14:29:16.131Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "De la manera en que vos me indiques por favor",
+        "fecha": "2026-07-29T14:29:28.806Z",
         "sentimiento": "neutro"
       }
     ]
