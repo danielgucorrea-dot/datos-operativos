@@ -42455,16 +42455,11 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "neutro",
-    "ultimoMensaje": "pasado",
+    "ultimoMensaje": "asi es",
     "mensaje": "buen dia",
     "fecha": "2026-07-13T12:35:57.936Z",
-    "ultimaActualizacion": "2026-07-29T13:25:29.714Z",
+    "ultimaActualizacion": "2026-07-29T14:52:20.483Z",
     "historialMensajes": [
-      {
-        "texto": "ok ya mando",
-        "fecha": "2026-07-13T15:28:35.868Z",
-        "sentimiento": "positivo"
-      },
       {
         "texto": "buen dia",
         "fecha": "2026-07-14T12:15:17.781Z",
@@ -42508,6 +42503,11 @@
       {
         "texto": "pasado",
         "fecha": "2026-07-29T13:25:29.714Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "asi es",
+        "fecha": "2026-07-29T14:52:20.483Z",
         "sentimiento": "neutro"
       }
     ]
@@ -46940,10 +46940,10 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "neutro",
-    "ultimoMensaje": "Le envio foto, uno ya está en la vereda",
+    "ultimoMensaje": "Es un poste q nos tiraron",
     "mensaje": "Buenas tardes",
     "fecha": "2026-07-28T20:09:40.606Z",
-    "ultimaActualizacion": "2026-07-29T14:49:28.198Z",
+    "ultimaActualizacion": "2026-07-29T14:51:23.288Z",
     "historialMensajes": [
       {
         "texto": "Buenas tardes",
@@ -46958,6 +46958,11 @@
       {
         "texto": "Le envio foto, uno ya está en la vereda",
         "fecha": "2026-07-29T14:49:28.198Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Es un poste q nos tiraron",
+        "fecha": "2026-07-29T14:51:23.288Z",
         "sentimiento": "neutro"
       }
     ]
@@ -47047,16 +47052,11 @@
     "nombre": "",
     "direccion": "Bulnes altura 1030",
     "sentimiento": "neutro",
-    "ultimoMensaje": "Detrás del colegio calazanz",
+    "ultimoMensaje": "Si pueden antes 🙏🏻🙏🏻🙏🏻🙏🏻",
     "mensaje": "Buenas tardes",
     "fecha": "2026-07-28T21:34:17.194Z",
-    "ultimaActualizacion": "2026-07-29T13:28:30.280Z",
+    "ultimaActualizacion": "2026-07-29T14:52:11.365Z",
     "historialMensajes": [
-      {
-        "texto": "Buenas tardes",
-        "fecha": "2026-07-28T21:34:17.194Z",
-        "sentimiento": "neutro"
-      },
       {
         "texto": "Necesito que extraigan residuos tóxicos🙏🏻",
         "fecha": "2026-07-28T21:34:46.851Z",
@@ -47095,6 +47095,16 @@
       {
         "texto": "Detrás del colegio calazanz",
         "fecha": "2026-07-29T13:28:30.280Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Muchas gracias",
+        "fecha": "2026-07-29T14:51:22.277Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Si pueden antes 🙏🏻🙏🏻🙏🏻🙏🏻",
+        "fecha": "2026-07-29T14:52:11.365Z",
         "sentimiento": "neutro"
       }
     ]
