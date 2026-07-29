@@ -47765,11 +47765,11 @@
     "celular": "+54 9 3816 271-951",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "negativo",
-    "ultimoMensaje": "Escribo por este numero de reclamo 112679",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Quisiera saber cdo estarían pasando y en que horario, donde me tomaron el pedido me dijeron que me comunicara a este numero para saber eso. Gracias!",
     "mensaje": "Hola buenas tardes",
     "fecha": "2026-07-29T16:30:23.505Z",
-    "ultimaActualizacion": "2026-07-29T16:31:39.071Z",
+    "ultimaActualizacion": "2026-07-29T16:32:45.551Z",
     "historialMensajes": [
       {
         "texto": "Hola buenas tardes",
@@ -47780,6 +47780,16 @@
         "texto": "Escribo por este numero de reclamo 112679",
         "fecha": "2026-07-29T16:31:39.071Z",
         "sentimiento": "negativo"
+      },
+      {
+        "texto": "Es para retirar bolsas de pasto en una vivienda particular.",
+        "fecha": "2026-07-29T16:32:02.312Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Quisiera saber cdo estarían pasando y en que horario, donde me tomaron el pedido me dijeron que me comunicara a este numero para saber eso. Gracias!",
+        "fecha": "2026-07-29T16:32:45.551Z",
+        "sentimiento": "positivo"
       }
     ]
   }
