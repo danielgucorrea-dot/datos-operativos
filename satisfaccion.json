@@ -47708,10 +47708,10 @@
     "nombre": "",
     "direccion": "Pasaje Martínez Zuviría 3535",
     "sentimiento": "neutro",
-    "ultimoMensaje": "Pasaje Martínez Zuviría 3535",
+    "ultimoMensaje": "Bien",
     "mensaje": "Buen día",
     "fecha": "2026-07-29T15:43:32.248Z",
-    "ultimaActualizacion": "2026-07-29T15:47:03.011Z",
+    "ultimaActualizacion": "2026-07-29T15:52:09.901Z",
     "historialMensajes": [
       {
         "texto": "Buen día",
@@ -47726,6 +47726,26 @@
       {
         "texto": "Pasaje Martínez Zuviría 3535",
         "fecha": "2026-07-29T15:47:03.011Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Como se puede apreciar, si fueran mías ya habría procedido a quitarlas.",
+        "fecha": "2026-07-29T15:48:06.549Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Perfecto. Pero hacele llegar los trabajadores a la empresa y que tomen conocimiento que esas ramas NO me pertenecen.",
+        "fecha": "2026-07-29T15:49:11.742Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Me das un número de expediente para seguimiento?",
+        "fecha": "2026-07-29T15:50:23.290Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Bien",
+        "fecha": "2026-07-29T15:52:09.901Z",
         "sentimiento": "neutro"
       }
     ]
