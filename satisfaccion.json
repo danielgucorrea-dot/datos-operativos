@@ -47708,14 +47708,19 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "neutro",
-    "ultimoMensaje": "Buen día",
+    "ultimoMensaje": "Quiero dejar constancia que anoche en la puerta de mi casa, alguien dejó un montón de ramas en la calle a la salida de mi domicilio",
     "mensaje": "Buen día",
     "fecha": "2026-07-29T15:43:32.248Z",
-    "ultimaActualizacion": "2026-07-29T15:43:32.248Z",
+    "ultimaActualizacion": "2026-07-29T15:45:14.537Z",
     "historialMensajes": [
       {
         "texto": "Buen día",
         "fecha": "2026-07-29T15:43:32.248Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Quiero dejar constancia que anoche en la puerta de mi casa, alguien dejó un montón de ramas en la calle a la salida de mi domicilio",
+        "fecha": "2026-07-29T15:45:14.537Z",
         "sentimiento": "neutro"
       }
     ]
