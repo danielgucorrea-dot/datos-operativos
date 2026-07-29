@@ -2553,8 +2553,8 @@
       "Leí su mensaje . Pondré unicamente  10 bolsas de cesped.  Mando fotos. espero respuesta. Gs. Domicilio. Colombia 877 Cap. S.m.Tuc",
       "Enteren me día y hora. Gs. Saludos"
     ],
-    "ultimaActualizacion": "2026-07-29T14:59:21.687Z",
-    "ultimoMensaje": "Disculpe. Saco las bolsas negras de cesped? Que están en las fotos? Gs.",
+    "ultimaActualizacion": "2026-07-29T15:00:52.351Z",
+    "ultimoMensaje": "Gs. Saludos",
     "historialMensajes": [
       {
         "texto": "Bdia. Son residuos que corto el cesped y otros que tira la gente. Quiero saber cuando los puedo sacar para el servidor los lleve. Ms. Gs. Saludos. Luis de calle Colombia 895",
@@ -2569,6 +2569,11 @@
       {
         "texto": "Disculpe. Saco las bolsas negras de cesped? Que están en las fotos? Gs.",
         "fecha": "2026-07-29T14:59:21.687Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Gs. Saludos",
+        "fecha": "2026-07-29T15:00:52.351Z",
         "sentimiento": "neutro"
       }
     ]
