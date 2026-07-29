@@ -47231,10 +47231,10 @@
     "nombre": "",
     "direccion": "Pasaje Roma 173",
     "sentimiento": "positivo",
-    "ultimoMensaje": "Necesito retirar de mi domicilio Pasaje Roma 173 san Miguel de Tucumán",
+    "ultimoMensaje": "Confirmar recepción, gracias",
     "mensaje": "Buenos dias",
     "fecha": "2026-07-29T13:50:28.926Z",
-    "ultimaActualizacion": "2026-07-29T13:51:06.532Z",
+    "ultimaActualizacion": "2026-07-29T13:53:17.479Z",
     "historialMensajes": [
       {
         "texto": "Buenos dias",
@@ -47244,6 +47244,16 @@
       {
         "texto": "Necesito retirar de mi domicilio Pasaje Roma 173 san Miguel de Tucumán",
         "fecha": "2026-07-29T13:51:06.532Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Es material que se retiró del techo, laminas de aluminio",
+        "fecha": "2026-07-29T13:52:05.680Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Confirmar recepción, gracias",
+        "fecha": "2026-07-29T13:53:17.479Z",
         "sentimiento": "positivo"
       }
     ]
