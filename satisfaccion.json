@@ -47003,10 +47003,10 @@
     "nombre": "",
     "direccion": "En 10",
     "sentimiento": "positivo",
-    "ultimoMensaje": "En 10 minutos llego a mi domicilio y les envío foto sí 🙂‍↕️",
+    "ultimoMensaje": "Listo 🆗.... muchas gracias 😊",
     "mensaje": "Bueno días qtal",
     "fecha": "2026-07-29T12:20:03.939Z",
-    "ultimaActualizacion": "2026-07-29T12:25:58.600Z",
+    "ultimaActualizacion": "2026-07-29T12:33:34.805Z",
     "historialMensajes": [
       {
         "texto": "Bueno días qtal",
@@ -47026,6 +47026,11 @@
       {
         "texto": "En 10 minutos llego a mi domicilio y les envío foto sí 🙂‍↕️",
         "fecha": "2026-07-29T12:25:58.600Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Listo 🆗.... muchas gracias 😊",
+        "fecha": "2026-07-29T12:33:34.805Z",
         "sentimiento": "positivo"
       }
     ]
