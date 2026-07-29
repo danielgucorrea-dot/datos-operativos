@@ -46625,10 +46625,10 @@
     "nombre": "",
     "direccion": "pje arenales 1808",
     "sentimiento": "neutro",
-    "ultimoMensaje": "Bueno por favor",
+    "ultimoMensaje": "Bueno entonces el 1 o el 2 pido por la heladera entonces",
     "mensaje": "Buenas tardes",
     "fecha": "2026-07-28T16:03:35.696Z",
-    "ultimaActualizacion": "2026-07-29T15:08:30.029Z",
+    "ultimaActualizacion": "2026-07-29T15:10:39.497Z",
     "historialMensajes": [
       {
         "texto": "Buenas tardes",
@@ -46658,6 +46658,11 @@
       {
         "texto": "Bueno por favor",
         "fecha": "2026-07-29T15:08:30.029Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Bueno entonces el 1 o el 2 pido por la heladera entonces",
+        "fecha": "2026-07-29T15:10:39.497Z",
         "sentimiento": "neutro"
       }
     ]
