@@ -46637,11 +46637,11 @@
     "celular": "+54 9 3813 868-035",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "negativo",
-    "ultimoMensaje": "Pero ya paso la fecha que me asignaron ..... importa eso ???",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Usted tendría el número para poder comunicarme",
     "mensaje": "Hola buenas tardes",
     "fecha": "2026-07-28T16:25:29.985Z",
-    "ultimaActualizacion": "2026-07-29T13:04:45.569Z",
+    "ultimaActualizacion": "2026-07-29T13:12:07.267Z",
     "historialMensajes": [
       {
         "texto": "Hola buenas tardes",
@@ -46667,6 +46667,11 @@
         "texto": "Pero ya paso la fecha que me asignaron ..... importa eso ???",
         "fecha": "2026-07-29T13:04:45.569Z",
         "sentimiento": "negativo"
+      },
+      {
+        "texto": "Usted tendría el número para poder comunicarme",
+        "fecha": "2026-07-29T13:12:07.267Z",
+        "sentimiento": "positivo"
       }
     ]
   },
@@ -46810,11 +46815,11 @@
     "celular": "+54 9 3816 331-873",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "neutro",
-    "ultimoMensaje": "👆🏽",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Ok gracias",
     "mensaje": "Buenas tardes ya está la basura que sacamos del fondo , todo en la vereda así uds la retiran gracias",
     "fecha": "2026-07-28T20:05:22.171Z",
-    "ultimaActualizacion": "2026-07-29T10:10:10.467Z",
+    "ultimaActualizacion": "2026-07-29T13:13:54.638Z",
     "historialMensajes": [
       {
         "texto": "Buenas tardes ya está la basura que sacamos del fondo , todo en la vereda así uds la retiran gracias",
@@ -46830,6 +46835,11 @@
         "texto": "👆🏽",
         "fecha": "2026-07-29T10:10:10.467Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Ok gracias",
+        "fecha": "2026-07-29T13:13:54.638Z",
+        "sentimiento": "positivo"
       }
     ]
   },
