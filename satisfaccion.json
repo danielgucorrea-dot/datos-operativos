@@ -47765,16 +47765,21 @@
     "celular": "+54 9 3816 271-951",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Hola buenas tardes",
+    "sentimiento": "negativo",
+    "ultimoMensaje": "Escribo por este numero de reclamo 112679",
     "mensaje": "Hola buenas tardes",
     "fecha": "2026-07-29T16:30:23.505Z",
-    "ultimaActualizacion": "2026-07-29T16:30:23.505Z",
+    "ultimaActualizacion": "2026-07-29T16:31:39.071Z",
     "historialMensajes": [
       {
         "texto": "Hola buenas tardes",
         "fecha": "2026-07-29T16:30:23.505Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Escribo por este numero de reclamo 112679",
+        "fecha": "2026-07-29T16:31:39.071Z",
+        "sentimiento": "negativo"
       }
     ]
   }
