@@ -47918,5 +47918,23 @@
         "sentimiento": "positivo"
       }
     ]
+  },
+  {
+    "numero": "151118491451525",
+    "celular": "+54 9 3812 000-766",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Buenas tardes me dirijo por este medio para solicitar información sobre las visitas a la Escuela ambiental Doctora Yolanda Ortiz. Soy de docente de una escuela secundaria Rural del departamento Burruyacu",
+    "mensaje": "Buenas tardes me dirijo por este medio para solicitar información sobre las visitas a la Escuela ambiental Doctora Yolanda Ortiz. Soy de docente de una escuela secundaria Rural del departamento Burruyacu",
+    "fecha": "2026-07-29T19:43:25.695Z",
+    "ultimaActualizacion": "2026-07-29T19:43:25.695Z",
+    "historialMensajes": [
+      {
+        "texto": "Buenas tardes me dirijo por este medio para solicitar información sobre las visitas a la Escuela ambiental Doctora Yolanda Ortiz. Soy de docente de una escuela secundaria Rural del departamento Burruy",
+        "fecha": "2026-07-29T19:43:25.695Z",
+        "sentimiento": "neutro"
+      }
+    ]
   }
 ]
