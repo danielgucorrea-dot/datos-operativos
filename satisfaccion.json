@@ -45604,11 +45604,11 @@
     "celular": "+54 9 3816 883-651",
     "nombre": "",
     "direccion": "Julián murga 104",
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Julián murga 104. Altura Juan b justo 2600",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Buen día. Muchas gracias",
     "mensaje": "Buen dia",
     "fecha": "2026-07-28T13:15:16.350Z",
-    "ultimaActualizacion": "2026-07-28T17:17:32.335Z",
+    "ultimaActualizacion": "2026-07-29T12:30:22.951Z",
     "historialMensajes": [
       {
         "texto": "Buen dia",
@@ -45644,6 +45644,11 @@
         "texto": "Julián murga 104. Altura Juan b justo 2600",
         "fecha": "2026-07-28T17:17:32.335Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Buen día. Muchas gracias",
+        "fecha": "2026-07-29T12:30:22.951Z",
+        "sentimiento": "positivo"
       }
     ]
   },
