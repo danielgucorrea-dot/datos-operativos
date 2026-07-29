@@ -1756,7 +1756,7 @@
   },
   {
     "numero": "256426744254564",
-    "celular": "",
+    "celular": "+54 9 3814 585-115",
     "nombre": "",
     "direccion": "Moreno 827",
     "sentimiento": "neutro",
@@ -1771,7 +1771,20 @@
       "Moreno 827 planta baja",
       "Buenos días"
     ],
-    "ultimaActualizacion": "2026-07-01"
+    "ultimaActualizacion": "2026-07-29T19:04:00.172Z",
+    "ultimoMensaje": "Moreno 827 planta baja",
+    "historialMensajes": [
+      {
+        "texto": "Buenas tardes",
+        "fecha": "2026-07-29T19:03:29.611Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Moreno 827 planta baja",
+        "fecha": "2026-07-29T19:04:00.172Z",
+        "sentimiento": "neutro"
+      }
+    ]
   },
   {
     "numero": "200776970457178",
