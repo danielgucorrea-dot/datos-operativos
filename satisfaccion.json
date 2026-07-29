@@ -46325,11 +46325,11 @@
     "celular": "+54 9 3813 525-900",
     "nombre": "",
     "direccion": "Frente escuela 49",
-    "sentimiento": "negativo",
-    "ultimoMensaje": "Buen dia .gracias ya dacaron pero ahora me tiraron bolsas sobre mi vereda",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Esto es una constante",
     "mensaje": "Buen dia . X favor podrian mandar a sacar basura acumulada en blas parera esq juan posse. Frente escuela 49.y barera parera . Es permanente el problema  en estas cuadra .gente inescrupulosa q tiran desde vehiculos o dan a chicos drogadictos y tiran x todas partes . Aca esq de j.posse y Martin Berro . Habia un contenedor q gracias a Dios sacaron. X q era junta de gente mal vivir  y de todo tipo de alimañas .(Ratas,alacranes,moscaetc)",
     "fecha": "2026-07-28T15:16:19.861Z",
-    "ultimaActualizacion": "2026-07-29T12:31:03.297Z",
+    "ultimaActualizacion": "2026-07-29T12:32:49.931Z",
     "historialMensajes": [
       {
         "texto": "Buen dia . X favor podrian mandar a sacar basura acumulada en blas parera esq juan posse. Frente escuela 49.y barera parera . Es permanente el problema  en estas cuadra .gente inescrupulosa q tiran de",
@@ -46370,6 +46370,16 @@
         "texto": "Buen dia .gracias ya dacaron pero ahora me tiraron bolsas sobre mi vereda",
         "fecha": "2026-07-29T12:31:03.297Z",
         "sentimiento": "negativo"
+      },
+      {
+        "texto": "Si señor",
+        "fecha": "2026-07-29T12:32:29.156Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Esto es una constante",
+        "fecha": "2026-07-29T12:32:49.931Z",
+        "sentimiento": "neutro"
       }
     ]
   },
