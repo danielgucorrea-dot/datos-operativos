@@ -42465,16 +42465,11 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "neutro",
-    "ultimoMensaje": "ya viso igualmente",
+    "ultimoMensaje": "ya avisare q lo llamen cuando vayan",
     "mensaje": "buen dia",
     "fecha": "2026-07-13T12:35:57.936Z",
-    "ultimaActualizacion": "2026-07-29T15:02:29.506Z",
+    "ultimaActualizacion": "2026-07-29T15:11:21.996Z",
     "historialMensajes": [
-      {
-        "texto": "ponelo como OS",
-        "fecha": "2026-07-28T14:08:34.827Z",
-        "sentimiento": "neutro"
-      },
       {
         "texto": "buen dia perdon",
         "fecha": "2026-07-28T14:08:36.358Z",
@@ -42518,6 +42513,11 @@
       {
         "texto": "ya viso igualmente",
         "fecha": "2026-07-29T15:02:29.506Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "ya avisare q lo llamen cuando vayan",
+        "fecha": "2026-07-29T15:11:21.996Z",
         "sentimiento": "neutro"
       }
     ]
@@ -46625,10 +46625,10 @@
     "nombre": "",
     "direccion": "pje arenales 1808",
     "sentimiento": "neutro",
-    "ultimoMensaje": "Bueno entonces el 1 o el 2 pido por la heladera entonces",
+    "ultimoMensaje": "Ah bueno de acuerdo",
     "mensaje": "Buenas tardes",
     "fecha": "2026-07-28T16:03:35.696Z",
-    "ultimaActualizacion": "2026-07-29T15:10:39.497Z",
+    "ultimaActualizacion": "2026-07-29T15:11:51.812Z",
     "historialMensajes": [
       {
         "texto": "Buenas tardes",
@@ -46663,6 +46663,16 @@
       {
         "texto": "Bueno entonces el 1 o el 2 pido por la heladera entonces",
         "fecha": "2026-07-29T15:10:39.497Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Muchas gracias!",
+        "fecha": "2026-07-29T15:11:21.484Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Ah bueno de acuerdo",
+        "fecha": "2026-07-29T15:11:51.812Z",
         "sentimiento": "neutro"
       }
     ]
