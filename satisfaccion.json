@@ -47540,16 +47540,21 @@
     "celular": "+54 9 3815 779-918",
     "nombre": "",
     "direccion": "calle Buenos Aires 737",
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Estimados. Tengo 10 bolsas con ramas de un arbol podado. Lo podrían retirar de calle Buenos Aires 737? Me avisan si pueden así les mando la foto. Gracias",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Buenos Aires 737, SMT. Me avisa cuando las buscan? Soy Alicia Bardon.",
     "mensaje": "Estimados. Tengo 10 bolsas con ramas de un arbol podado. Lo podrían retirar de calle Buenos Aires 737? Me avisan si pueden así les mando la foto. Gracias",
     "fecha": "2026-07-29T14:48:58.773Z",
-    "ultimaActualizacion": "2026-07-29T14:48:58.773Z",
+    "ultimaActualizacion": "2026-07-29T17:17:15.319Z",
     "historialMensajes": [
       {
         "texto": "Estimados. Tengo 10 bolsas con ramas de un arbol podado. Lo podrían retirar de calle Buenos Aires 737? Me avisan si pueden así les mando la foto. Gracias",
         "fecha": "2026-07-29T14:48:58.773Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Buenos Aires 737, SMT. Me avisa cuando las buscan? Soy Alicia Bardon.",
+        "fecha": "2026-07-29T17:17:15.319Z",
+        "sentimiento": "positivo"
       }
     ]
   },
