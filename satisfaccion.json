@@ -47123,16 +47123,11 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "neutro",
-    "ultimoMensaje": "De la manera en que vos me indiques por favor",
+    "ultimoMensaje": "Sinceramente no sé quién las dejó ahí. Al estar en reposo, no estoy saliendo y no tengo contacto con mis vecinos",
     "mensaje": "Buen día !",
     "fecha": "2026-07-29T11:38:30.113Z",
-    "ultimaActualizacion": "2026-07-29T14:29:28.806Z",
+    "ultimaActualizacion": "2026-07-29T14:30:09.345Z",
     "historialMensajes": [
-      {
-        "texto": "Necesito por favor que vengan a recolectar esa basura",
-        "fecha": "2026-07-29T13:32:36.820Z",
-        "sentimiento": "negativo"
-      },
       {
         "texto": "Mi nombre es María Melania Cárdenas Ypa",
         "fecha": "2026-07-29T13:33:03.389Z",
@@ -47176,6 +47171,11 @@
       {
         "texto": "De la manera en que vos me indiques por favor",
         "fecha": "2026-07-29T14:29:28.806Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Sinceramente no sé quién las dejó ahí. Al estar en reposo, no estoy saliendo y no tengo contacto con mis vecinos",
+        "fecha": "2026-07-29T14:30:09.345Z",
         "sentimiento": "neutro"
       }
     ]
