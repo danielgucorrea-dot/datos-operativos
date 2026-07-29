@@ -47339,10 +47339,10 @@
     "nombre": "",
     "direccion": "Pasaje Roma 173",
     "sentimiento": "neutro",
-    "ultimoMensaje": "Si continuar",
+    "ultimoMensaje": "Bueno",
     "mensaje": "Buenos dias",
     "fecha": "2026-07-29T13:50:28.926Z",
-    "ultimaActualizacion": "2026-07-29T14:40:38.852Z",
+    "ultimaActualizacion": "2026-07-29T14:46:36.068Z",
     "historialMensajes": [
       {
         "texto": "Buenos dias",
@@ -47367,6 +47367,11 @@
       {
         "texto": "Si continuar",
         "fecha": "2026-07-29T14:40:38.852Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Bueno",
+        "fecha": "2026-07-29T14:46:36.068Z",
         "sentimiento": "neutro"
       }
     ]
