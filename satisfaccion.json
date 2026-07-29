@@ -7954,7 +7954,15 @@
       "Pasaje Gardel 987 vas amarilla portón negro, familia Giménez",
       "Buen día, tengo 6 bolsas de residuos de jardinería"
     ],
-    "ultimaActualizacion": "2026-06-22"
+    "ultimaActualizacion": "2026-07-29T14:35:58.877Z",
+    "ultimoMensaje": "Muchas gracias",
+    "historialMensajes": [
+      {
+        "texto": "Muchas gracias",
+        "fecha": "2026-07-29T14:35:58.877Z",
+        "sentimiento": "neutro"
+      }
+    ]
   },
   {
     "numero": "167564558770247",
