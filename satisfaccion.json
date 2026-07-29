@@ -46940,10 +46940,10 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "neutro",
-    "ultimoMensaje": "Es un poste q nos tiraron",
+    "ultimoMensaje": "Y esta exhibidora, q esta funcionando",
     "mensaje": "Buenas tardes",
     "fecha": "2026-07-28T20:09:40.606Z",
-    "ultimaActualizacion": "2026-07-29T14:51:23.288Z",
+    "ultimaActualizacion": "2026-07-29T14:53:35.681Z",
     "historialMensajes": [
       {
         "texto": "Buenas tardes",
@@ -46963,6 +46963,11 @@
       {
         "texto": "Es un poste q nos tiraron",
         "fecha": "2026-07-29T14:51:23.288Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Y esta exhibidora, q esta funcionando",
+        "fecha": "2026-07-29T14:53:35.681Z",
         "sentimiento": "neutro"
       }
     ]
@@ -47052,16 +47057,11 @@
     "nombre": "",
     "direccion": "Bulnes altura 1030",
     "sentimiento": "neutro",
-    "ultimoMensaje": "Si pueden antes 🙏🏻🙏🏻🙏🏻🙏🏻",
+    "ultimoMensaje": "Entiendo gracias",
     "mensaje": "Buenas tardes",
     "fecha": "2026-07-28T21:34:17.194Z",
-    "ultimaActualizacion": "2026-07-29T14:52:11.365Z",
+    "ultimaActualizacion": "2026-07-29T14:53:15.983Z",
     "historialMensajes": [
-      {
-        "texto": "Necesito que extraigan residuos tóxicos🙏🏻",
-        "fecha": "2026-07-28T21:34:46.851Z",
-        "sentimiento": "positivo"
-      },
       {
         "texto": "Buenos dias",
         "fecha": "2026-07-29T11:17:05.938Z",
@@ -47105,6 +47105,11 @@
       {
         "texto": "Si pueden antes 🙏🏻🙏🏻🙏🏻🙏🏻",
         "fecha": "2026-07-29T14:52:11.365Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Entiendo gracias",
+        "fecha": "2026-07-29T14:53:15.983Z",
         "sentimiento": "neutro"
       }
     ]
@@ -47156,16 +47161,11 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "neutro",
-    "ultimoMensaje": "Perfecto , muchas gracias!",
+    "ultimoMensaje": "Gracias, igualmente!",
     "mensaje": "Buen día !",
     "fecha": "2026-07-29T11:38:30.113Z",
-    "ultimaActualizacion": "2026-07-29T14:40:53.471Z",
+    "ultimaActualizacion": "2026-07-29T14:53:48.816Z",
     "historialMensajes": [
-      {
-        "texto": "Yo estoy en reposo absoluto por embarazo de riesgo",
-        "fecha": "2026-07-29T14:28:07.237Z",
-        "sentimiento": "neutro"
-      },
       {
         "texto": "No puedo hacerme cargo",
         "fecha": "2026-07-29T14:28:13.297Z",
@@ -47209,6 +47209,11 @@
       {
         "texto": "Perfecto , muchas gracias!",
         "fecha": "2026-07-29T14:40:53.471Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Gracias, igualmente!",
+        "fecha": "2026-07-29T14:53:48.816Z",
         "sentimiento": "neutro"
       }
     ]
