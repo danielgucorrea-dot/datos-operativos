@@ -47141,16 +47141,11 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "neutro",
-    "ultimoMensaje": "Si por favor",
+    "ultimoMensaje": "Perfecto , muchas gracias!",
     "mensaje": "Buen día !",
     "fecha": "2026-07-29T11:38:30.113Z",
-    "ultimaActualizacion": "2026-07-29T14:32:49.367Z",
+    "ultimaActualizacion": "2026-07-29T14:40:53.471Z",
     "historialMensajes": [
-      {
-        "texto": "Disculpa",
-        "fecha": "2026-07-29T14:27:47.999Z",
-        "sentimiento": "neutro"
-      },
       {
         "texto": "Yo estoy en reposo absoluto por embarazo de riesgo",
         "fecha": "2026-07-29T14:28:07.237Z",
@@ -47194,6 +47189,11 @@
       {
         "texto": "Si por favor",
         "fecha": "2026-07-29T14:32:49.367Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Perfecto , muchas gracias!",
+        "fecha": "2026-07-29T14:40:53.471Z",
         "sentimiento": "neutro"
       }
     ]
@@ -47338,11 +47338,11 @@
     "celular": "+54 9 3815 144-835",
     "nombre": "",
     "direccion": "Pasaje Roma 173",
-    "sentimiento": "positivo",
-    "ultimoMensaje": "Confirmar recepción, gracias",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Si continuar",
     "mensaje": "Buenos dias",
     "fecha": "2026-07-29T13:50:28.926Z",
-    "ultimaActualizacion": "2026-07-29T13:53:17.479Z",
+    "ultimaActualizacion": "2026-07-29T14:40:38.852Z",
     "historialMensajes": [
       {
         "texto": "Buenos dias",
@@ -47363,6 +47363,11 @@
         "texto": "Confirmar recepción, gracias",
         "fecha": "2026-07-29T13:53:17.479Z",
         "sentimiento": "positivo"
+      },
+      {
+        "texto": "Si continuar",
+        "fecha": "2026-07-29T14:40:38.852Z",
+        "sentimiento": "neutro"
       }
     ]
   },
@@ -47385,6 +47390,24 @@
       {
         "texto": "Ésto sería lo que necesito tirar, la puerta vieja, y unos listones de manera y ese ladrillo",
         "fecha": "2026-07-29T14:28:40.654Z",
+        "sentimiento": "neutro"
+      }
+    ]
+  },
+  {
+    "numero": "35394875818012",
+    "celular": "+54 9 3814 889-922",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Muchas gracias",
+    "mensaje": "Muchas gracias",
+    "fecha": "2026-07-29T14:41:27.921Z",
+    "ultimaActualizacion": "2026-07-29T14:41:27.921Z",
+    "historialMensajes": [
+      {
+        "texto": "Muchas gracias",
+        "fecha": "2026-07-29T14:41:27.921Z",
         "sentimiento": "neutro"
       }
     ]
