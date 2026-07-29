@@ -46877,10 +46877,10 @@
     "nombre": "",
     "direccion": "Pasaje Vieytes 2020",
     "sentimiento": "neutro",
-    "ultimoMensaje": "Ok ustedes me avisan cuando llegara?",
+    "ultimoMensaje": "Y tengo que poner los residuos en la vereda",
     "mensaje": "Buenas tardes para solicitar el retiro de basura no habitual es para ramas de la poda de dos árboles envío foto y direccion",
     "fecha": "2026-07-28T20:43:02.822Z",
-    "ultimaActualizacion": "2026-07-29T12:53:25.290Z",
+    "ultimaActualizacion": "2026-07-29T12:53:41.946Z",
     "historialMensajes": [
       {
         "texto": "Buenas tardes para solicitar el retiro de basura no habitual es para ramas de la poda de dos árboles envío foto y direccion",
@@ -46895,6 +46895,11 @@
       {
         "texto": "Ok ustedes me avisan cuando llegara?",
         "fecha": "2026-07-29T12:53:25.290Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Y tengo que poner los residuos en la vereda",
+        "fecha": "2026-07-29T12:53:41.946Z",
         "sentimiento": "neutro"
       }
     ]
