@@ -46972,11 +46972,11 @@
     "celular": "+54 9 3816 331-873",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "positivo",
-    "ultimoMensaje": "Ok gracias",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Buenas tardes por la mañana paso un camión de 9de julio y retiro toda la basura. Calculo que uds los mandaron . Muchas gracias por estar al servicio de los vecinos. Bendiciones",
     "mensaje": "Buenas tardes ya está la basura que sacamos del fondo , todo en la vereda así uds la retiran gracias",
     "fecha": "2026-07-28T20:05:22.171Z",
-    "ultimaActualizacion": "2026-07-29T13:13:54.638Z",
+    "ultimaActualizacion": "2026-07-29T19:31:41.332Z",
     "historialMensajes": [
       {
         "texto": "Buenas tardes ya está la basura que sacamos del fondo , todo en la vereda así uds la retiran gracias",
@@ -46997,6 +46997,11 @@
         "texto": "Ok gracias",
         "fecha": "2026-07-29T13:13:54.638Z",
         "sentimiento": "positivo"
+      },
+      {
+        "texto": "Buenas tardes por la mañana paso un camión de 9de julio y retiro toda la basura. Calculo que uds los mandaron . Muchas gracias por estar al servicio de los vecinos. Bendiciones",
+        "fecha": "2026-07-29T19:31:41.332Z",
+        "sentimiento": "neutro"
       }
     ]
   },
