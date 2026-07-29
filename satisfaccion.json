@@ -46605,10 +46605,10 @@
     "nombre": "",
     "direccion": "Perdón 12",
     "sentimiento": "neutro",
-    "ultimoMensaje": "Si no se preocupe es una foto ilustrativa para ejemplificar los tamaños",
+    "ultimoMensaje": "Si me sirve el servicio",
     "mensaje": "Buenas tardes",
     "fecha": "2026-07-28T16:20:24.063Z",
-    "ultimaActualizacion": "2026-07-29T13:15:20.884Z",
+    "ultimaActualizacion": "2026-07-29T13:15:25.234Z",
     "historialMensajes": [
       {
         "texto": "Buenas tardes",
@@ -46633,6 +46633,11 @@
       {
         "texto": "Si no se preocupe es una foto ilustrativa para ejemplificar los tamaños",
         "fecha": "2026-07-29T13:15:20.884Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Si me sirve el servicio",
+        "fecha": "2026-07-29T13:15:25.234Z",
         "sentimiento": "neutro"
       }
     ]
