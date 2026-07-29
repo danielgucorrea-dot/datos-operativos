@@ -47985,5 +47985,23 @@
         "sentimiento": "positivo"
       }
     ]
+  },
+  {
+    "numero": "149190151807165",
+    "celular": "+54 9 1140 697-953",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Hola, vine el camión del municipio, pero dejo un tronco en la esquina , dónde puede ocurrir un accidente",
+    "mensaje": "Hola, vine el camión del municipio, pero dejo un tronco en la esquina , dónde puede ocurrir un accidente",
+    "fecha": "2026-07-29T22:53:17.979Z",
+    "ultimaActualizacion": "2026-07-29T22:53:17.979Z",
+    "historialMensajes": [
+      {
+        "texto": "Hola, vine el camión del municipio, pero dejo un tronco en la esquina , dónde puede ocurrir un accidente",
+        "fecha": "2026-07-29T22:53:17.979Z",
+        "sentimiento": "neutro"
+      }
+    ]
   }
 ]
