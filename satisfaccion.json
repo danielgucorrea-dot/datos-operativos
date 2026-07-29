@@ -39926,7 +39926,15 @@
     "conversacion_completa": [
       "Hola cómo se pide turno para lo de Ortiz"
     ],
-    "ultimaActualizacion": "2026-03-31"
+    "ultimaActualizacion": "2026-07-29T13:02:10.794Z",
+    "ultimoMensaje": "Gtacuas",
+    "historialMensajes": [
+      {
+        "texto": "Gtacuas",
+        "fecha": "2026-07-29T13:02:10.794Z",
+        "sentimiento": "neutro"
+      }
+    ]
   },
   {
     "numero": "230253263855694",
@@ -46629,11 +46637,11 @@
     "celular": "+54 9 3813 868-035",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "negativo",
-    "ultimoMensaje": "Pero nunca se comunicaron conmigo",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Buen dia",
     "mensaje": "Hola buenas tardes",
     "fecha": "2026-07-28T16:25:29.985Z",
-    "ultimaActualizacion": "2026-07-28T16:26:43.715Z",
+    "ultimaActualizacion": "2026-07-29T13:04:20.071Z",
     "historialMensajes": [
       {
         "texto": "Hola buenas tardes",
@@ -46649,6 +46657,11 @@
         "texto": "Pero nunca se comunicaron conmigo",
         "fecha": "2026-07-28T16:26:43.715Z",
         "sentimiento": "negativo"
+      },
+      {
+        "texto": "Buen dia",
+        "fecha": "2026-07-29T13:04:20.071Z",
+        "sentimiento": "neutro"
       }
     ]
   },
