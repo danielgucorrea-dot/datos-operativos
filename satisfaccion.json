@@ -19603,8 +19603,8 @@
       "Necesito me retiren basura",
       "Buenas trades"
     ],
-    "ultimaActualizacion": "2026-07-28T17:32:41.703Z",
-    "ultimoMensaje": "Del domicilio",
+    "ultimaActualizacion": "2026-07-29T14:33:02.541Z",
+    "ultimoMensaje": "Ok gracias",
     "historialMensajes": [
       {
         "texto": "Hola buenas tardes",
@@ -19619,6 +19619,11 @@
       {
         "texto": "Del domicilio",
         "fecha": "2026-07-28T17:32:41.703Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Ok gracias",
+        "fecha": "2026-07-29T14:33:02.541Z",
         "sentimiento": "neutro"
       }
     ]
@@ -46927,14 +46932,19 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "neutro",
-    "ultimoMensaje": "Buenas tardes",
+    "ultimoMensaje": "Buen día \nNecesito retiren residuos no habituales",
     "mensaje": "Buenas tardes",
     "fecha": "2026-07-28T20:09:40.606Z",
-    "ultimaActualizacion": "2026-07-28T20:09:40.606Z",
+    "ultimaActualizacion": "2026-07-29T14:32:51.391Z",
     "historialMensajes": [
       {
         "texto": "Buenas tardes",
         "fecha": "2026-07-28T20:09:40.606Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Buen día \nNecesito retiren residuos no habituales",
+        "fecha": "2026-07-29T14:32:51.391Z",
         "sentimiento": "neutro"
       }
     ]
@@ -47123,21 +47133,11 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "neutro",
-    "ultimoMensaje": "Sinceramente no sé quién las dejó ahí. Al estar en reposo, no estoy saliendo y no tengo contacto con mis vecinos",
+    "ultimoMensaje": "Si por favor",
     "mensaje": "Buen día !",
     "fecha": "2026-07-29T11:38:30.113Z",
-    "ultimaActualizacion": "2026-07-29T14:30:09.345Z",
+    "ultimaActualizacion": "2026-07-29T14:32:49.367Z",
     "historialMensajes": [
-      {
-        "texto": "Mi nombre es María Melania Cárdenas Ypa",
-        "fecha": "2026-07-29T13:33:03.389Z",
-        "sentimiento": "neutro"
-      },
-      {
-        "texto": "36.838.975",
-        "fecha": "2026-07-29T13:33:06.078Z",
-        "sentimiento": "neutro"
-      },
       {
         "texto": "Disculpa",
         "fecha": "2026-07-29T14:27:47.999Z",
@@ -47176,6 +47176,16 @@
       {
         "texto": "Sinceramente no sé quién las dejó ahí. Al estar en reposo, no estoy saliendo y no tengo contacto con mis vecinos",
         "fecha": "2026-07-29T14:30:09.345Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Bueno, gracias!",
+        "fecha": "2026-07-29T14:31:49.671Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Si por favor",
+        "fecha": "2026-07-29T14:32:49.367Z",
         "sentimiento": "neutro"
       }
     ]
@@ -47283,10 +47293,10 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "neutro",
-    "ultimoMensaje": "De mi vereda",
+    "ultimoMensaje": "Muchas gracias",
     "mensaje": "Buenos dias",
     "fecha": "2026-07-29T13:33:25.927Z",
-    "ultimaActualizacion": "2026-07-29T13:33:53.100Z",
+    "ultimaActualizacion": "2026-07-29T14:34:51.754Z",
     "historialMensajes": [
       {
         "texto": "Buenos dias",
@@ -47301,6 +47311,16 @@
       {
         "texto": "De mi vereda",
         "fecha": "2026-07-29T13:33:53.100Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Llego y les envío foto",
+        "fecha": "2026-07-29T14:34:47.206Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Muchas gracias",
+        "fecha": "2026-07-29T14:34:51.754Z",
         "sentimiento": "neutro"
       }
     ]
