@@ -4581,8 +4581,8 @@
       "Barrio ATEP 2 pasaje 11/88 sur oeste",
       "Buen Día !!"
     ],
-    "ultimaActualizacion": "2026-07-28T16:08:42.192Z",
-    "ultimoMensaje": "Se puede sacar la basura que está en Filosofía",
+    "ultimaActualizacion": "2026-07-29T12:49:55.292Z",
+    "ultimoMensaje": "Pero como puedo hacer para que me pongan 2 contenedores para poner la basura",
     "historialMensajes": [
       {
         "texto": "Buen Día",
@@ -4592,6 +4592,11 @@
       {
         "texto": "Se puede sacar la basura que está en Filosofía",
         "fecha": "2026-07-28T16:08:42.192Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Pero como puedo hacer para que me pongan 2 contenedores para poner la basura",
+        "fecha": "2026-07-29T12:49:55.292Z",
         "sentimiento": "positivo"
       }
     ]
@@ -47036,6 +47041,24 @@
       {
         "texto": "Listo 🆗.... muchas gracias 😊",
         "fecha": "2026-07-29T12:33:34.805Z",
+        "sentimiento": "positivo"
+      }
+    ]
+  },
+  {
+    "numero": "149576581398705",
+    "celular": "+54 9 3814 435-129",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Buenos días ya saque a la vereda los residuos como me indicaron en el día de ayer. Los escombros están en bolsa de consorcio",
+    "mensaje": "Buenos días ya saque a la vereda los residuos como me indicaron en el día de ayer. Los escombros están en bolsa de consorcio",
+    "fecha": "2026-07-29T12:50:10.210Z",
+    "ultimaActualizacion": "2026-07-29T12:50:10.210Z",
+    "historialMensajes": [
+      {
+        "texto": "Buenos días ya saque a la vereda los residuos como me indicaron en el día de ayer. Los escombros están en bolsa de consorcio",
+        "fecha": "2026-07-29T12:50:10.210Z",
         "sentimiento": "positivo"
       }
     ]
