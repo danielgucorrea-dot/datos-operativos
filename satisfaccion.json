@@ -47706,12 +47706,12 @@
     "numero": "68968668758114",
     "celular": "+54 9 3815 082-688",
     "nombre": "",
-    "direccion": null,
+    "direccion": "Pasaje Martínez Zuviría 3535",
     "sentimiento": "neutro",
-    "ultimoMensaje": "Quiero dejar constancia que anoche en la puerta de mi casa, alguien dejó un montón de ramas en la calle a la salida de mi domicilio",
+    "ultimoMensaje": "Pasaje Martínez Zuviría 3535",
     "mensaje": "Buen día",
     "fecha": "2026-07-29T15:43:32.248Z",
-    "ultimaActualizacion": "2026-07-29T15:45:14.537Z",
+    "ultimaActualizacion": "2026-07-29T15:47:03.011Z",
     "historialMensajes": [
       {
         "texto": "Buen día",
@@ -47721,6 +47721,11 @@
       {
         "texto": "Quiero dejar constancia que anoche en la puerta de mi casa, alguien dejó un montón de ramas en la calle a la salida de mi domicilio",
         "fecha": "2026-07-29T15:45:14.537Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Pasaje Martínez Zuviría 3535",
+        "fecha": "2026-07-29T15:47:03.011Z",
         "sentimiento": "neutro"
       }
     ]
