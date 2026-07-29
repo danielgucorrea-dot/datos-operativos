@@ -46940,10 +46940,10 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "neutro",
-    "ultimoMensaje": "Buen día \nNecesito retiren residuos no habituales",
+    "ultimoMensaje": "Le envio foto, uno ya está en la vereda",
     "mensaje": "Buenas tardes",
     "fecha": "2026-07-28T20:09:40.606Z",
-    "ultimaActualizacion": "2026-07-29T14:32:51.391Z",
+    "ultimaActualizacion": "2026-07-29T14:49:28.198Z",
     "historialMensajes": [
       {
         "texto": "Buenas tardes",
@@ -46953,6 +46953,11 @@
       {
         "texto": "Buen día \nNecesito retiren residuos no habituales",
         "fecha": "2026-07-29T14:32:51.391Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Le envio foto, uno ya está en la vereda",
+        "fecha": "2026-07-29T14:49:28.198Z",
         "sentimiento": "neutro"
       }
     ]
