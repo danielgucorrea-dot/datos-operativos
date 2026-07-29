@@ -15308,8 +15308,8 @@
       "Bueno",
       "Hola"
     ],
-    "ultimaActualizacion": "2026-07-29T10:26:54.936Z",
-    "ultimoMensaje": "día",
+    "ultimaActualizacion": "2026-07-29T10:27:21.638Z",
+    "ultimoMensaje": "nesecito si municipal",
     "historialMensajes": [
       {
         "texto": "hola",
@@ -15324,6 +15324,16 @@
       {
         "texto": "día",
         "fecha": "2026-07-29T10:26:54.936Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "hola buenas",
+        "fecha": "2026-07-29T10:26:55.414Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "nesecito si municipal",
+        "fecha": "2026-07-29T10:27:21.638Z",
         "sentimiento": "neutro"
       }
     ]
