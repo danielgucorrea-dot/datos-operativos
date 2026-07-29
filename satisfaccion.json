@@ -2553,7 +2553,15 @@
       "Leí su mensaje . Pondré unicamente  10 bolsas de cesped.  Mando fotos. espero respuesta. Gs. Domicilio. Colombia 877 Cap. S.m.Tuc",
       "Enteren me día y hora. Gs. Saludos"
     ],
-    "ultimaActualizacion": "2026-06-30"
+    "ultimaActualizacion": "2026-07-29T11:53:13.686Z",
+    "ultimoMensaje": "Bdia. Son residuos que corto el cesped y otros que tira la gente. Quiero saber cuando los puedo sacar para el servidor los lleve. Ms. Gs. Saludos. Luis de calle Colombia 895",
+    "historialMensajes": [
+      {
+        "texto": "Bdia. Son residuos que corto el cesped y otros que tira la gente. Quiero saber cuando los puedo sacar para el servidor los lleve. Ms. Gs. Saludos. Luis de calle Colombia 895",
+        "fecha": "2026-07-29T11:53:13.686Z",
+        "sentimiento": "neutro"
+      }
+    ]
   },
   {
     "numero": "14839263064164",
@@ -46912,6 +46920,24 @@
       {
         "texto": "Muchas gracias",
         "fecha": "2026-07-29T11:44:49.024Z",
+        "sentimiento": "positivo"
+      }
+    ]
+  },
+  {
+    "numero": "150792174628878",
+    "celular": "+54 9 3815 268-672",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Buenos dias! Quería agradecerles porque ayer se llevaron los escombros. Excelente su propuesta y su servicio👏🏻👏🏻👏🏻",
+    "mensaje": "Buenos dias! Quería agradecerles porque ayer se llevaron los escombros. Excelente su propuesta y su servicio👏🏻👏🏻👏🏻",
+    "fecha": "2026-07-29T11:53:40.790Z",
+    "ultimaActualizacion": "2026-07-29T11:53:40.790Z",
+    "historialMensajes": [
+      {
+        "texto": "Buenos dias! Quería agradecerles porque ayer se llevaron los escombros. Excelente su propuesta y su servicio👏🏻👏🏻👏🏻",
+        "fecha": "2026-07-29T11:53:40.790Z",
         "sentimiento": "positivo"
       }
     ]
