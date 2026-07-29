@@ -46604,11 +46604,11 @@
     "celular": "+54 9 3814 064-959",
     "nombre": "",
     "direccion": "Perdón 12",
-    "sentimiento": "positivo",
-    "ultimoMensaje": "Perdón 12 bolsas",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Si no se preocupe es una foto ilustrativa para ejemplificar los tamaños",
     "mensaje": "Buenas tardes",
     "fecha": "2026-07-28T16:20:24.063Z",
-    "ultimaActualizacion": "2026-07-29T12:52:42.148Z",
+    "ultimaActualizacion": "2026-07-29T13:15:20.884Z",
     "historialMensajes": [
       {
         "texto": "Buenas tardes",
@@ -46629,6 +46629,11 @@
         "texto": "Perdón 12 bolsas",
         "fecha": "2026-07-29T12:52:42.148Z",
         "sentimiento": "positivo"
+      },
+      {
+        "texto": "Si no se preocupe es una foto ilustrativa para ejemplificar los tamaños",
+        "fecha": "2026-07-29T13:15:20.884Z",
+        "sentimiento": "neutro"
       }
     ]
   },
