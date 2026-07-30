@@ -48480,5 +48480,23 @@
         "sentimiento": "neutro"
       }
     ]
+  },
+  {
+    "numero": "164965466038453",
+    "celular": "+54 9 3816 421-609",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Hola cómo están",
+    "mensaje": "Hola cómo están",
+    "fecha": "2026-07-30T16:55:30.084Z",
+    "ultimaActualizacion": "2026-07-30T16:55:30.084Z",
+    "historialMensajes": [
+      {
+        "texto": "Hola cómo están",
+        "fecha": "2026-07-30T16:55:30.084Z",
+        "sentimiento": "neutro"
+      }
+    ]
   }
 ]
