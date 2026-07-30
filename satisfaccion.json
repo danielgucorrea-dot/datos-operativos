@@ -48282,11 +48282,34 @@
     "ultimoMensaje": "Buen día, me comunico por el programa Neumaton para retiro de cubiertas en desuso, quería saber si sigue vigente y en ese caso si se entrega certificado de disposición final?. Muchas gracias. \nSaludos.",
     "mensaje": "Buen día, me comunico por el programa Neumaton para retiro de cubiertas en desuso, quería saber si sigue vigente y en ese caso si se entrega certificado de disposición final?. Muchas gracias. \nSaludos.",
     "fecha": "2026-07-30T15:06:28.490Z",
-    "ultimaActualizacion": "2026-07-30T15:06:28.490Z",
+    "ultimaActualizacion": "2026-07-30T15:06:31.047Z",
     "historialMensajes": [
       {
         "texto": "Buen día, me comunico por el programa Neumaton para retiro de cubiertas en desuso, quería saber si sigue vigente y en ese caso si se entrega certificado de disposición final?. Muchas gracias. \nSaludos",
         "fecha": "2026-07-30T15:06:28.490Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Buen día, me comunico por el programa Neumaton para retiro de cubiertas en desuso, quería saber si sigue vigente y en ese caso si se entrega certificado de disposición final?. Muchas gracias. \nSaludos",
+        "fecha": "2026-07-30T15:06:31.047Z",
+        "sentimiento": "neutro"
+      }
+    ]
+  },
+  {
+    "numero": "109418737856541",
+    "celular": "+54 9 3816 613-050",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Buenos dias queria saber x un contenedor para sacar ramas de unos arboles que pode.si x este medio lo tengo que solicitar .paso foto .gracias",
+    "mensaje": "Buenos dias queria saber x un contenedor para sacar ramas de unos arboles que pode.si x este medio lo tengo que solicitar .paso foto .gracias",
+    "fecha": "2026-07-30T15:07:09.634Z",
+    "ultimaActualizacion": "2026-07-30T15:07:09.634Z",
+    "historialMensajes": [
+      {
+        "texto": "Buenos dias queria saber x un contenedor para sacar ramas de unos arboles que pode.si x este medio lo tengo que solicitar .paso foto .gracias",
+        "fecha": "2026-07-30T15:07:09.634Z",
         "sentimiento": "neutro"
       }
     ]
