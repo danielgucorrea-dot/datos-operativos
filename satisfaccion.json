@@ -48434,5 +48434,28 @@
         "sentimiento": "neutro"
       }
     ]
+  },
+  {
+    "numero": "145444940284073",
+    "celular": "+54 9 3815 136-677",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Hola buenas tardes...me pasaron este número..para solicitar transporte para retiro de escombro de mi domicilio....respuesta x favor",
+    "mensaje": "Hola buenas tardes...me pasaron este número..para solicitar transporte para retiro de escombro de mi domicilio....respuesta x favor",
+    "fecha": "2026-07-30T16:23:57.024Z",
+    "ultimaActualizacion": "2026-07-30T16:24:01.173Z",
+    "historialMensajes": [
+      {
+        "texto": "Hola buenas tardes...me pasaron este número..para solicitar transporte para retiro de escombro de mi domicilio....respuesta x favor",
+        "fecha": "2026-07-30T16:23:57.024Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Hola buenas tardes...me pasaron este número..para solicitar transporte para retiro de escombro de mi domicilio....respuesta x favor",
+        "fecha": "2026-07-30T16:24:01.173Z",
+        "sentimiento": "positivo"
+      }
+    ]
   }
 ]
