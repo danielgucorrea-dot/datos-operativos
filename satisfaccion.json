@@ -10724,8 +10724,8 @@
       "Tengo muebles, restos de hierro para tirar",
       "Buen dia"
     ],
-    "ultimaActualizacion": "2026-07-30T14:25:23.728Z",
-    "ultimoMensaje": "Altura castro barros 2500",
+    "ultimaActualizacion": "2026-07-30T14:43:48.920Z",
+    "ultimoMensaje": "Esa es",
     "historialMensajes": [
       {
         "texto": "Buenas necesito me retiren estas cosas de mi domicilio",
@@ -10740,6 +10740,11 @@
       {
         "texto": "Altura castro barros 2500",
         "fecha": "2026-07-30T14:25:23.728Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Esa es",
+        "fecha": "2026-07-30T14:43:48.920Z",
         "sentimiento": "neutro"
       }
     ]
@@ -48136,11 +48141,11 @@
     "celular": "+54 9 3814 145-298",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "neutro",
-    "ultimoMensaje": "117",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Ok gracias",
     "mensaje": "No m atie den",
     "fecha": "2026-07-30T14:34:28.056Z",
-    "ultimaActualizacion": "2026-07-30T14:35:00.699Z",
+    "ultimaActualizacion": "2026-07-30T14:44:01.533Z",
     "historialMensajes": [
       {
         "texto": "No m atie den",
@@ -48156,6 +48161,11 @@
         "texto": "117",
         "fecha": "2026-07-30T14:35:00.699Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Ok gracias",
+        "fecha": "2026-07-30T14:44:01.533Z",
+        "sentimiento": "positivo"
       }
     ]
   }
