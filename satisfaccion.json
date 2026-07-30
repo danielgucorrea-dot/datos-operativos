@@ -41355,11 +41355,11 @@
     "celular": "+54 9 3816 596-328",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "positivo",
-    "ultimoMensaje": "Quiero pedir un contenedor nose como se hace si se paga luego lo llevan y así",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Hola",
     "mensaje": "Buenas",
     "fecha": "2026-07-10T01:19:18.791Z",
-    "ultimaActualizacion": "2026-07-10T01:21:22.745Z",
+    "ultimaActualizacion": "2026-07-30T13:56:09.309Z",
     "historialMensajes": [
       {
         "texto": "Buenas",
@@ -41385,6 +41385,11 @@
         "texto": "Quiero pedir un contenedor nose como se hace si se paga luego lo llevan y así",
         "fecha": "2026-07-10T01:21:22.745Z",
         "sentimiento": "positivo"
+      },
+      {
+        "texto": "Hola",
+        "fecha": "2026-07-30T13:56:09.309Z",
+        "sentimiento": "neutro"
       }
     ]
   },
