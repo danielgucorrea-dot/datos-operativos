@@ -48178,5 +48178,23 @@
         "sentimiento": "positivo"
       }
     ]
+  },
+  {
+    "numero": "230781645529206",
+    "celular": "+54 9 3865 557-902",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Hola, buenos días. Cómo está?",
+    "mensaje": "Hola, buenos días. Cómo está?",
+    "fecha": "2026-07-30T14:49:43.908Z",
+    "ultimaActualizacion": "2026-07-30T14:49:43.908Z",
+    "historialMensajes": [
+      {
+        "texto": "Hola, buenos días. Cómo está?",
+        "fecha": "2026-07-30T14:49:43.908Z",
+        "sentimiento": "neutro"
+      }
+    ]
   }
 ]
