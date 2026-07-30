@@ -48781,5 +48781,23 @@
         "sentimiento": "neutro"
       }
     ]
+  },
+  {
+    "numero": "238710138380361",
+    "celular": "+54 9 3816 048-047",
+    "nombre": "",
+    "direccion": "Florida 721",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Florida 721 seria",
+    "mensaje": "Florida 721 seria",
+    "fecha": "2026-07-30T22:09:46.785Z",
+    "ultimaActualizacion": "2026-07-30T22:09:46.785Z",
+    "historialMensajes": [
+      {
+        "texto": "Florida 721 seria",
+        "fecha": "2026-07-30T22:09:46.785Z",
+        "sentimiento": "neutro"
+      }
+    ]
   }
 ]
