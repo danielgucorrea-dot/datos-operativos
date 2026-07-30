@@ -48603,5 +48603,23 @@
         "sentimiento": "positivo"
       }
     ]
+  },
+  {
+    "numero": "141699628183631",
+    "celular": "+54 9 3816 238-926",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Esas cosas necesitaría que buscaran si se puede",
+    "mensaje": "Esas cosas necesitaría que buscaran si se puede",
+    "fecha": "2026-07-30T17:58:27.904Z",
+    "ultimaActualizacion": "2026-07-30T17:58:27.904Z",
+    "historialMensajes": [
+      {
+        "texto": "Esas cosas necesitaría que buscaran si se puede",
+        "fecha": "2026-07-30T17:58:27.904Z",
+        "sentimiento": "neutro"
+      }
+    ]
   }
 ]
