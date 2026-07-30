@@ -15195,7 +15195,7 @@
     "numero": "166881625399297",
     "celular": "+54 9 3813 645-213",
     "nombre": "",
-    "direccion": "",
+    "direccion": "Manantial sur 2500",
     "sentimiento": "neutro",
     "evidencia_clasificacion": [],
     "canal": "WhatsApp Ambiente",
@@ -15206,7 +15206,20 @@
       "Nesecito saber cuales serian los Residuos No habituales para el retiro por favor",
       "Buen día"
     ],
-    "ultimaActualizacion": "2026-06-08"
+    "ultimaActualizacion": "2026-07-30T17:55:07.073Z",
+    "ultimoMensaje": "Manantial sur 2500 v sector c m 12 c 12",
+    "historialMensajes": [
+      {
+        "texto": "Buen dia",
+        "fecha": "2026-07-30T17:54:25.208Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Manantial sur 2500 v sector c m 12 c 12",
+        "fecha": "2026-07-30T17:55:07.073Z",
+        "sentimiento": "neutro"
+      }
+    ]
   },
   {
     "numero": "35716964814871",
