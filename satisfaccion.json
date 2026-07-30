@@ -48307,10 +48307,10 @@
     "nombre": "",
     "direccion": "Pasaje Viamonte 566",
     "sentimiento": "neutro",
-    "ultimoMensaje": "El pasaje es altura santiago 2900",
+    "ultimoMensaje": "Pregunta .lo cargan ustedes ?",
     "mensaje": "Buenos dias queria saber x un contenedor para sacar ramas de unos arboles que pode.si x este medio lo tengo que solicitar .paso foto .gracias",
     "fecha": "2026-07-30T15:07:09.634Z",
-    "ultimaActualizacion": "2026-07-30T15:08:21.505Z",
+    "ultimaActualizacion": "2026-07-30T15:09:43.916Z",
     "historialMensajes": [
       {
         "texto": "Buenos dias queria saber x un contenedor para sacar ramas de unos arboles que pode.si x este medio lo tengo que solicitar .paso foto .gracias",
@@ -48325,6 +48325,11 @@
       {
         "texto": "El pasaje es altura santiago 2900",
         "fecha": "2026-07-30T15:08:21.505Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Pregunta .lo cargan ustedes ?",
+        "fecha": "2026-07-30T15:09:43.916Z",
         "sentimiento": "neutro"
       }
     ]
