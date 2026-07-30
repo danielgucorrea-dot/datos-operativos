@@ -2533,7 +2533,7 @@
     "celular": "+54 9 3816 010-899",
     "nombre": "",
     "direccion": "Calle Colombia 893",
-    "sentimiento": "neutro",
+    "sentimiento": "positivo",
     "evidencia_clasificacion": [],
     "canal": "WhatsApp Ambiente",
     "fecha": "2026-06-30",
@@ -2566,8 +2566,8 @@
       "Leí su mensaje . Pondré unicamente  10 bolsas de cesped.  Mando fotos. espero respuesta. Gs. Domicilio. Colombia 877 Cap. S.m.Tuc",
       "Enteren me día y hora. Gs. Saludos"
     ],
-    "ultimaActualizacion": "2026-07-30T14:20:34.342Z",
-    "ultimoMensaje": "Le agradezco. Lo que me indica de la foto tengo muy poco. Lo llevaré a algún contenedor. \nLo que tengo mucho y  Uds no lo llevan,  es cesped embolsado. \nMs. Gs. Saludos.",
+    "ultimaActualizacion": "2026-07-30T14:23:41.402Z",
+    "ultimoMensaje": "Si lo dejé en la vereda ayer antes de  las tres de la tarde Son 3 bolsas de ramas .",
     "historialMensajes": [
       {
         "texto": "Bdia. Son residuos que corto el cesped y otros que tira la gente. Quiero saber cuando los puedo sacar para el servidor los lleve. Ms. Gs. Saludos. Luis de calle Colombia 895",
@@ -2593,6 +2593,11 @@
         "texto": "Le agradezco. Lo que me indica de la foto tengo muy poco. Lo llevaré a algún contenedor. \nLo que tengo mucho y  Uds no lo llevan,  es cesped embolsado. \nMs. Gs. Saludos.",
         "fecha": "2026-07-30T14:20:34.342Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Si lo dejé en la vereda ayer antes de  las tres de la tarde Son 3 bolsas de ramas .",
+        "fecha": "2026-07-30T14:23:41.402Z",
+        "sentimiento": "positivo"
       }
     ]
   },
