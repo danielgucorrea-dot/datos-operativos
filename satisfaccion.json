@@ -48185,10 +48185,10 @@
     "nombre": "",
     "direccion": "Congreso 808",
     "sentimiento": "neutro",
-    "ultimoMensaje": "Congreso 808/810",
+    "ultimoMensaje": "No tengo foto.",
     "mensaje": "Hola, buenos días. Cómo está?",
     "fecha": "2026-07-30T14:49:43.908Z",
-    "ultimaActualizacion": "2026-07-30T14:50:50.038Z",
+    "ultimaActualizacion": "2026-07-30T14:51:01.861Z",
     "historialMensajes": [
       {
         "texto": "Hola, buenos días. Cómo está?",
@@ -48203,6 +48203,11 @@
       {
         "texto": "Congreso 808/810",
         "fecha": "2026-07-30T14:50:50.038Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "No tengo foto.",
+        "fecha": "2026-07-30T14:51:01.861Z",
         "sentimiento": "neutro"
       }
     ]
