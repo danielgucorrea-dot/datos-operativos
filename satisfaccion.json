@@ -48485,17 +48485,40 @@
     "numero": "164965466038453",
     "celular": "+54 9 3816 421-609",
     "nombre": "",
-    "direccion": null,
+    "direccion": "Lamadrid 1249",
     "sentimiento": "neutro",
-    "ultimoMensaje": "Hola cómo están",
+    "ultimoMensaje": "B sur: Lamadrid 1249",
     "mensaje": "Hola cómo están",
     "fecha": "2026-07-30T16:55:30.084Z",
-    "ultimaActualizacion": "2026-07-30T16:55:30.084Z",
+    "ultimaActualizacion": "2026-07-30T16:55:42.110Z",
     "historialMensajes": [
       {
         "texto": "Hola cómo están",
         "fecha": "2026-07-30T16:55:30.084Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "B sur: Lamadrid 1249",
+        "fecha": "2026-07-30T16:55:42.110Z",
+        "sentimiento": "neutro"
+      }
+    ]
+  },
+  {
+    "numero": "192380946911482",
+    "celular": "+54 9 3812 188-920",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "negativo",
+    "ultimoMensaje": "Buenas tardes envio foto de residuos tirados en la calle por los ocipas del terreno  alsina y casi esquina libertad",
+    "mensaje": "Buenas tardes envio foto de residuos tirados en la calle por los ocipas del terreno  alsina y casi esquina libertad",
+    "fecha": "2026-07-30T16:55:39.887Z",
+    "ultimaActualizacion": "2026-07-30T16:55:39.887Z",
+    "historialMensajes": [
+      {
+        "texto": "Buenas tardes envio foto de residuos tirados en la calle por los ocipas del terreno  alsina y casi esquina libertad",
+        "fecha": "2026-07-30T16:55:39.887Z",
+        "sentimiento": "negativo"
       }
     ]
   }
