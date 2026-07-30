@@ -48284,10 +48284,10 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "neutro",
-    "ultimoMensaje": "Buen día, me comunico por el programa Neumaton para retiro de cubiertas en desuso, quería saber si sigue vigente y en ese caso si se entrega certificado de disposición final?. Muchas gracias. \nSaludos.",
+    "ultimoMensaje": "Bien, en ese caso se encarga uno de la gestión del transporte y llevarlo hasta la planta no, ya no se hacen retiros?",
     "mensaje": "Buen día, me comunico por el programa Neumaton para retiro de cubiertas en desuso, quería saber si sigue vigente y en ese caso si se entrega certificado de disposición final?. Muchas gracias. \nSaludos.",
     "fecha": "2026-07-30T15:06:28.490Z",
-    "ultimaActualizacion": "2026-07-30T15:06:31.047Z",
+    "ultimaActualizacion": "2026-07-30T15:12:06.938Z",
     "historialMensajes": [
       {
         "texto": "Buen día, me comunico por el programa Neumaton para retiro de cubiertas en desuso, quería saber si sigue vigente y en ese caso si se entrega certificado de disposición final?. Muchas gracias. \nSaludos",
@@ -48298,6 +48298,11 @@
         "texto": "Buen día, me comunico por el programa Neumaton para retiro de cubiertas en desuso, quería saber si sigue vigente y en ese caso si se entrega certificado de disposición final?. Muchas gracias. \nSaludos",
         "fecha": "2026-07-30T15:06:31.047Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Bien, en ese caso se encarga uno de la gestión del transporte y llevarlo hasta la planta no, ya no se hacen retiros?",
+        "fecha": "2026-07-30T15:12:06.938Z",
+        "sentimiento": "neutro"
       }
     ]
   },
@@ -48306,11 +48311,11 @@
     "celular": "+54 9 3816 613-050",
     "nombre": "",
     "direccion": "Pasaje Viamonte 566",
-    "sentimiento": "negativo",
-    "ultimoMensaje": "Ya buscare quien me lo pueda sacar.",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Gracias !",
     "mensaje": "Buenos dias queria saber x un contenedor para sacar ramas de unos arboles que pode.si x este medio lo tengo que solicitar .paso foto .gracias",
     "fecha": "2026-07-30T15:07:09.634Z",
-    "ultimaActualizacion": "2026-07-30T15:10:30.698Z",
+    "ultimaActualizacion": "2026-07-30T15:10:40.401Z",
     "historialMensajes": [
       {
         "texto": "Buenos dias queria saber x un contenedor para sacar ramas de unos arboles que pode.si x este medio lo tengo que solicitar .paso foto .gracias",
@@ -48341,6 +48346,11 @@
         "texto": "Ya buscare quien me lo pueda sacar.",
         "fecha": "2026-07-30T15:10:30.698Z",
         "sentimiento": "negativo"
+      },
+      {
+        "texto": "Gracias !",
+        "fecha": "2026-07-30T15:10:40.401Z",
+        "sentimiento": "positivo"
       }
     ]
   }
