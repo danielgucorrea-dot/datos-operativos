@@ -48621,5 +48621,33 @@
         "sentimiento": "neutro"
       }
     ]
+  },
+  {
+    "numero": "15397508137011",
+    "celular": "+54 9 3815 529-390",
+    "nombre": "",
+    "direccion": "Av. Mate de Luna 4674",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Av. Mate de Luna 4674",
+    "mensaje": "Buenas tardes. \nSoy de Av.Mate de Luna 4.674. Necesito envíen el camión verde para recoger la pida de un árbol y un cactus grande que tiro el viento. Gracias",
+    "fecha": "2026-07-30T17:59:07.329Z",
+    "ultimaActualizacion": "2026-07-30T18:00:20.092Z",
+    "historialMensajes": [
+      {
+        "texto": "Buenas tardes. \nSoy de Av.Mate de Luna 4.674. Necesito envíen el camión verde para recoger la pida de un árbol y un cactus grande que tiro el viento. Gracias",
+        "fecha": "2026-07-30T17:59:07.329Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Buenas tardes. \nSoy de Av.Mate de Luna 4.674. Necesito envíen el camión verde para recoger la pida de un árbol y un cactus grande que tiro el viento. Gracias",
+        "fecha": "2026-07-30T17:59:09.801Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Av. Mate de Luna 4674",
+        "fecha": "2026-07-30T18:00:20.092Z",
+        "sentimiento": "neutro"
+      }
+    ]
   }
 ]
