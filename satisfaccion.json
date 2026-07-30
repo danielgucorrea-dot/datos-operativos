@@ -48707,5 +48707,46 @@
         "sentimiento": "positivo"
       }
     ]
+  },
+  {
+    "numero": "64854106841199",
+    "celular": "+54 9 3815 682-626",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Hola buenas tardes, me gustaria averiguar para tirar mis residuos",
+    "mensaje": "Hola buenas tardes, me gustaria averiguar para tirar mis residuos",
+    "fecha": "2026-07-30T20:52:59.481Z",
+    "ultimaActualizacion": "2026-07-30T20:53:02.524Z",
+    "historialMensajes": [
+      {
+        "texto": "Hola buenas tardes, me gustaria averiguar para tirar mis residuos",
+        "fecha": "2026-07-30T20:52:59.481Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Hola buenas tardes, me gustaria averiguar para tirar mis residuos",
+        "fecha": "2026-07-30T20:53:02.524Z",
+        "sentimiento": "positivo"
+      }
+    ]
+  },
+  {
+    "numero": "237498991177949",
+    "celular": "+54 9 3815 873-024",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Buenas tardes le quería preguntar cómo hago para pedir un contenedor para sacar la basura y escombros de mi casa",
+    "mensaje": "Buenas tardes le quería preguntar cómo hago para pedir un contenedor para sacar la basura y escombros de mi casa",
+    "fecha": "2026-07-30T20:55:12.567Z",
+    "ultimaActualizacion": "2026-07-30T20:55:12.567Z",
+    "historialMensajes": [
+      {
+        "texto": "Buenas tardes le quería preguntar cómo hago para pedir un contenedor para sacar la basura y escombros de mi casa",
+        "fecha": "2026-07-30T20:55:12.567Z",
+        "sentimiento": "positivo"
+      }
+    ]
   }
 ]
