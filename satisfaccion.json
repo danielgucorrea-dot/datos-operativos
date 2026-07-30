@@ -48239,12 +48239,12 @@
     "numero": "218227405758552",
     "celular": "+54 9 3815 311-418",
     "nombre": "",
-    "direccion": null,
+    "direccion": "Paraguay al 4000",
     "sentimiento": "neutro",
-    "ultimoMensaje": "Hola",
+    "ultimoMensaje": "Paraguay al 4000",
     "mensaje": "Hola",
     "fecha": "2026-07-30T14:56:27.371Z",
-    "ultimaActualizacion": "2026-07-30T14:56:29.416Z",
+    "ultimaActualizacion": "2026-07-30T14:57:46.794Z",
     "historialMensajes": [
       {
         "texto": "Hola",
@@ -48254,6 +48254,11 @@
       {
         "texto": "Hola",
         "fecha": "2026-07-30T14:56:29.416Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Paraguay al 4000",
+        "fecha": "2026-07-30T14:57:46.794Z",
         "sentimiento": "neutro"
       }
     ]
