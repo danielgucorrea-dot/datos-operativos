@@ -48411,5 +48411,28 @@
         "sentimiento": "neutro"
       }
     ]
+  },
+  {
+    "numero": "15827038388328",
+    "celular": "+54 9 3815 825-166",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "No está en bolsas ya que es una poda importante de árbol en vereda por parte de EDeT. Está en la vereda.",
+    "mensaje": "Hola buenas tardes.",
+    "fecha": "2026-07-30T16:21:41.368Z",
+    "ultimaActualizacion": "2026-07-30T16:22:28.877Z",
+    "historialMensajes": [
+      {
+        "texto": "Hola buenas tardes.",
+        "fecha": "2026-07-30T16:21:41.368Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "No está en bolsas ya que es una poda importante de árbol en vereda por parte de EDeT. Está en la vereda.",
+        "fecha": "2026-07-30T16:22:28.877Z",
+        "sentimiento": "neutro"
+      }
+    ]
   }
 ]
