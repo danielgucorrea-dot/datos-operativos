@@ -10714,8 +10714,8 @@
       "Tengo muebles, restos de hierro para tirar",
       "Buen dia"
     ],
-    "ultimaActualizacion": "2026-07-30T14:25:14.297Z",
-    "ultimoMensaje": "Barrio feput manzana k casa 12",
+    "ultimaActualizacion": "2026-07-30T14:25:23.728Z",
+    "ultimoMensaje": "Altura castro barros 2500",
     "historialMensajes": [
       {
         "texto": "Buenas necesito me retiren estas cosas de mi domicilio",
@@ -10725,6 +10725,11 @@
       {
         "texto": "Barrio feput manzana k casa 12",
         "fecha": "2026-07-30T14:25:14.297Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Altura castro barros 2500",
+        "fecha": "2026-07-30T14:25:23.728Z",
         "sentimiento": "neutro"
       }
     ]
