@@ -10701,8 +10701,8 @@
     "numero": "203040334286851",
     "celular": "+54 9 3816 986-003",
     "nombre": "",
-    "direccion": "",
-    "sentimiento": "negativo",
+    "direccion": "Barrio feput manzana k casa 12",
+    "sentimiento": "neutro",
     "evidencia_clasificacion": [],
     "canal": "WhatsApp Ambiente",
     "fecha": "2026-06-16",
@@ -10714,13 +10714,18 @@
       "Tengo muebles, restos de hierro para tirar",
       "Buen dia"
     ],
-    "ultimaActualizacion": "2026-07-29T21:49:38.915Z",
-    "ultimoMensaje": "Buenas necesito me retiren estas cosas de mi domicilio",
+    "ultimaActualizacion": "2026-07-30T14:25:14.297Z",
+    "ultimoMensaje": "Barrio feput manzana k casa 12",
     "historialMensajes": [
       {
         "texto": "Buenas necesito me retiren estas cosas de mi domicilio",
         "fecha": "2026-07-29T21:49:38.915Z",
         "sentimiento": "negativo"
+      },
+      {
+        "texto": "Barrio feput manzana k casa 12",
+        "fecha": "2026-07-30T14:25:14.297Z",
+        "sentimiento": "neutro"
       }
     ]
   },
