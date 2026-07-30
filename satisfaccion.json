@@ -11102,7 +11102,7 @@
     "celular": "+54 9 3816 808-775",
     "nombre": "",
     "direccion": "Juan padrós 539",
-    "sentimiento": "neutro",
+    "sentimiento": "positivo",
     "evidencia_clasificacion": [],
     "canal": "WhatsApp Ambiente",
     "fecha": "2026-06-12",
@@ -11124,7 +11124,25 @@
       "Juan padrós 531",
       "Buenas tardes"
     ],
-    "ultimaActualizacion": "2026-06-12"
+    "ultimaActualizacion": "2026-07-30T00:31:15.040Z",
+    "ultimoMensaje": "La Sra dice que mando varios mensajes ya",
+    "historialMensajes": [
+      {
+        "texto": "Buenas noches en Juan padrós 500 ( Juan padrós y 9 de julio ) hay un basural ya .",
+        "fecha": "2026-07-30T00:31:02.905Z",
+        "sentimiento": "negativo"
+      },
+      {
+        "texto": "Si pueden recogerlo",
+        "fecha": "2026-07-30T00:31:04.645Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "La Sra dice que mando varios mensajes ya",
+        "fecha": "2026-07-30T00:31:15.040Z",
+        "sentimiento": "positivo"
+      }
+    ]
   },
   {
     "numero": "191293716189345",
@@ -47998,10 +48016,4 @@
     "ultimaActualizacion": "2026-07-29T22:53:17.979Z",
     "historialMensajes": [
       {
-        "texto": "Hola, vine el camión del municipio, pero dejo un tronco en la esquina , dónde puede ocurrir un accidente",
-        "fecha": "2026-07-29T22:53:17.979Z",
-        "sentimiento": "neutro"
-      }
-    ]
-  }
-]
+        "texto": "Hola, vine el camión del
