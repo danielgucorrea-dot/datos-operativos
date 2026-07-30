@@ -48125,5 +48125,28 @@
         "sentimiento": "positivo"
       }
     ]
+  },
+  {
+    "numero": "89992550469858",
+    "celular": "+54 9 3814 145-298",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Retiro de  verde en Honduras 1w3",
+    "mensaje": "No m atie den",
+    "fecha": "2026-07-30T14:34:28.056Z",
+    "ultimaActualizacion": "2026-07-30T14:34:52.373Z",
+    "historialMensajes": [
+      {
+        "texto": "No m atie den",
+        "fecha": "2026-07-30T14:34:28.056Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Retiro de  verde en Honduras 1w3",
+        "fecha": "2026-07-30T14:34:52.373Z",
+        "sentimiento": "neutro"
+      }
+    ]
   }
 ]
