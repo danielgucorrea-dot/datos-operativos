@@ -48284,10 +48284,10 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "neutro",
-    "ultimoMensaje": "Bien, en ese caso se encarga uno de la gestión del transporte y llevarlo hasta la planta no, ya no se hacen retiros?",
+    "ultimoMensaje": "Bien, muchas gracias por  la información. Saludos.",
     "mensaje": "Buen día, me comunico por el programa Neumaton para retiro de cubiertas en desuso, quería saber si sigue vigente y en ese caso si se entrega certificado de disposición final?. Muchas gracias. \nSaludos.",
     "fecha": "2026-07-30T15:06:28.490Z",
-    "ultimaActualizacion": "2026-07-30T15:12:06.938Z",
+    "ultimaActualizacion": "2026-07-30T15:13:22.049Z",
     "historialMensajes": [
       {
         "texto": "Buen día, me comunico por el programa Neumaton para retiro de cubiertas en desuso, quería saber si sigue vigente y en ese caso si se entrega certificado de disposición final?. Muchas gracias. \nSaludos",
@@ -48302,6 +48302,11 @@
       {
         "texto": "Bien, en ese caso se encarga uno de la gestión del transporte y llevarlo hasta la planta no, ya no se hacen retiros?",
         "fecha": "2026-07-30T15:12:06.938Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Bien, muchas gracias por  la información. Saludos.",
+        "fecha": "2026-07-30T15:13:22.049Z",
         "sentimiento": "neutro"
       }
     ]
