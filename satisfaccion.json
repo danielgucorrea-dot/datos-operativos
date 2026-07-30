@@ -2566,8 +2566,8 @@
       "Leí su mensaje . Pondré unicamente  10 bolsas de cesped.  Mando fotos. espero respuesta. Gs. Domicilio. Colombia 877 Cap. S.m.Tuc",
       "Enteren me día y hora. Gs. Saludos"
     ],
-    "ultimaActualizacion": "2026-07-30T14:23:41.402Z",
-    "ultimoMensaje": "Si lo dejé en la vereda ayer antes de  las tres de la tarde Son 3 bolsas de ramas .",
+    "ultimaActualizacion": "2026-07-30T14:26:52.075Z",
+    "ultimoMensaje": "Bien. Por enterarme que residuos no van en contenedor. Acá Serca hay un negocio que compra botellas. Las llevaré. Ms. Gs. Saludos",
     "historialMensajes": [
       {
         "texto": "Bdia. Son residuos que corto el cesped y otros que tira la gente. Quiero saber cuando los puedo sacar para el servidor los lleve. Ms. Gs. Saludos. Luis de calle Colombia 895",
@@ -2597,6 +2597,11 @@
       {
         "texto": "Si lo dejé en la vereda ayer antes de  las tres de la tarde Son 3 bolsas de ramas .",
         "fecha": "2026-07-30T14:23:41.402Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Bien. Por enterarme que residuos no van en contenedor. Acá Serca hay un negocio que compra botellas. Las llevaré. Ms. Gs. Saludos",
+        "fecha": "2026-07-30T14:26:52.075Z",
         "sentimiento": "positivo"
       }
     ]
