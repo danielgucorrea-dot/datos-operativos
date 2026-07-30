@@ -48378,5 +48378,33 @@
         "sentimiento": "neutro"
       }
     ]
+  },
+  {
+    "numero": "244238130356424",
+    "celular": "+54 9 3813 459-920",
+    "nombre": "",
+    "direccion": "Chiclana 1933",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Chiclana 1933",
+    "mensaje": "Hola buenas",
+    "fecha": "2026-07-30T16:06:01.311Z",
+    "ultimaActualizacion": "2026-07-30T16:06:07.422Z",
+    "historialMensajes": [
+      {
+        "texto": "Hola buenas",
+        "fecha": "2026-07-30T16:06:01.311Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Hola buenas",
+        "fecha": "2026-07-30T16:06:02.649Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Chiclana 1933",
+        "fecha": "2026-07-30T16:06:07.422Z",
+        "sentimiento": "neutro"
+      }
+    ]
   }
 ]
