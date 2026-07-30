@@ -48549,5 +48549,28 @@
         "sentimiento": "negativo"
       }
     ]
+  },
+  {
+    "numero": "109161257926845",
+    "celular": "+54 9 3812 068-062",
+    "nombre": "",
+    "direccion": "Padre roque correa 1108",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Padre roque correa 1108",
+    "mensaje": "Buenas tardes",
+    "fecha": "2026-07-30T17:23:30.026Z",
+    "ultimaActualizacion": "2026-07-30T17:23:56.532Z",
+    "historialMensajes": [
+      {
+        "texto": "Buenas tardes",
+        "fecha": "2026-07-30T17:23:30.026Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Padre roque correa 1108",
+        "fecha": "2026-07-30T17:23:56.532Z",
+        "sentimiento": "neutro"
+      }
+    ]
   }
 ]
