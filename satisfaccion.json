@@ -48184,11 +48184,11 @@
     "celular": "+54 9 3865 557-902",
     "nombre": "",
     "direccion": "Congreso 808",
-    "sentimiento": "neutro",
-    "ultimoMensaje": "No tengo foto.",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Están puestas al lado del árbol de la vereda.",
     "mensaje": "Hola, buenos días. Cómo está?",
     "fecha": "2026-07-30T14:49:43.908Z",
-    "ultimaActualizacion": "2026-07-30T14:51:01.861Z",
+    "ultimaActualizacion": "2026-07-30T14:52:36.715Z",
     "historialMensajes": [
       {
         "texto": "Hola, buenos días. Cómo está?",
@@ -48209,6 +48209,16 @@
         "texto": "No tengo foto.",
         "fecha": "2026-07-30T14:51:01.861Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Es media bolsa con escombros. Y dos medias tapas de cámaras de cemento.",
+        "fecha": "2026-07-30T14:52:15.699Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Están puestas al lado del árbol de la vereda.",
+        "fecha": "2026-07-30T14:52:36.715Z",
+        "sentimiento": "positivo"
       }
     ]
   }
