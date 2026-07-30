@@ -48572,5 +48572,23 @@
         "sentimiento": "neutro"
       }
     ]
+  },
+  {
+    "numero": "191744536801329",
+    "celular": "+54 9 3813 031-534",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Hola ,como hago para que retiren dos bolsas de escombros",
+    "mensaje": "Hola ,como hago para que retiren dos bolsas de escombros",
+    "fecha": "2026-07-30T17:30:30.286Z",
+    "ultimaActualizacion": "2026-07-30T17:30:30.286Z",
+    "historialMensajes": [
+      {
+        "texto": "Hola ,como hago para que retiren dos bolsas de escombros",
+        "fecha": "2026-07-30T17:30:30.286Z",
+        "sentimiento": "positivo"
+      }
+    ]
   }
 ]
