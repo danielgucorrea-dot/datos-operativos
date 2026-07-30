@@ -48740,11 +48740,16 @@
     "ultimoMensaje": "Buenas tardes le quería preguntar cómo hago para pedir un contenedor para sacar la basura y escombros de mi casa",
     "mensaje": "Buenas tardes le quería preguntar cómo hago para pedir un contenedor para sacar la basura y escombros de mi casa",
     "fecha": "2026-07-30T20:55:12.567Z",
-    "ultimaActualizacion": "2026-07-30T20:55:12.567Z",
+    "ultimaActualizacion": "2026-07-30T20:55:15.069Z",
     "historialMensajes": [
       {
         "texto": "Buenas tardes le quería preguntar cómo hago para pedir un contenedor para sacar la basura y escombros de mi casa",
         "fecha": "2026-07-30T20:55:12.567Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Buenas tardes le quería preguntar cómo hago para pedir un contenedor para sacar la basura y escombros de mi casa",
+        "fecha": "2026-07-30T20:55:15.069Z",
         "sentimiento": "positivo"
       }
     ]
