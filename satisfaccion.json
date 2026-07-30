@@ -48183,16 +48183,26 @@
     "numero": "230781645529206",
     "celular": "+54 9 3865 557-902",
     "nombre": "",
-    "direccion": null,
+    "direccion": "Congreso 808",
     "sentimiento": "neutro",
-    "ultimoMensaje": "Hola, buenos días. Cómo está?",
+    "ultimoMensaje": "Congreso 808/810",
     "mensaje": "Hola, buenos días. Cómo está?",
     "fecha": "2026-07-30T14:49:43.908Z",
-    "ultimaActualizacion": "2026-07-30T14:49:43.908Z",
+    "ultimaActualizacion": "2026-07-30T14:50:50.038Z",
     "historialMensajes": [
       {
         "texto": "Hola, buenos días. Cómo está?",
         "fecha": "2026-07-30T14:49:43.908Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Hola, buenos días. Cómo está?",
+        "fecha": "2026-07-30T14:49:47.435Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Congreso 808/810",
+        "fecha": "2026-07-30T14:50:50.038Z",
         "sentimiento": "neutro"
       }
     ]
