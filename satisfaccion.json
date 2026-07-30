@@ -48234,5 +48234,28 @@
         "sentimiento": "positivo"
       }
     ]
+  },
+  {
+    "numero": "218227405758552",
+    "celular": "+54 9 3815 311-418",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Hola",
+    "mensaje": "Hola",
+    "fecha": "2026-07-30T14:56:27.371Z",
+    "ultimaActualizacion": "2026-07-30T14:56:29.416Z",
+    "historialMensajes": [
+      {
+        "texto": "Hola",
+        "fecha": "2026-07-30T14:56:27.371Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Hola",
+        "fecha": "2026-07-30T14:56:29.416Z",
+        "sentimiento": "neutro"
+      }
+    ]
   }
 ]
