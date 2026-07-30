@@ -48385,10 +48385,10 @@
     "nombre": "",
     "direccion": "Chiclana 1933",
     "sentimiento": "neutro",
-    "ultimoMensaje": "Chiclana 1933",
+    "ultimoMensaje": "San miguel",
     "mensaje": "Hola buenas",
     "fecha": "2026-07-30T16:06:01.311Z",
-    "ultimaActualizacion": "2026-07-30T16:06:07.422Z",
+    "ultimaActualizacion": "2026-07-30T16:06:13.869Z",
     "historialMensajes": [
       {
         "texto": "Hola buenas",
@@ -48403,6 +48403,11 @@
       {
         "texto": "Chiclana 1933",
         "fecha": "2026-07-30T16:06:07.422Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "San miguel",
+        "fecha": "2026-07-30T16:06:13.869Z",
         "sentimiento": "neutro"
       }
     ]
