@@ -48146,11 +48146,11 @@
     "celular": "+54 9 3813 309-314",
     "nombre": "",
     "direccion": "Laprida 803",
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Laprida 803",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Perfecto. Muchas gracias!",
     "mensaje": "Hola, buen día! Quería consultar qué tipo de residuos no habituales incluye el servicio de recolección de la Municipalidad.\n\nEn particular, quisiera saber si realizan el retiro de electrodomésticos de gran porte que se encuentran fuera de funcionamiento, como una heladera y un lavarropas. En caso de que sí, ¿podrían indicarme cómo debo solicitar el servicio y coordinar el retiro?\n\nDesde ya, muchas gracias.",
     "fecha": "2026-07-30T14:16:59.522Z",
-    "ultimaActualizacion": "2026-07-30T15:17:39.560Z",
+    "ultimaActualizacion": "2026-07-30T15:28:45.210Z",
     "historialMensajes": [
       {
         "texto": "Hola, buen día! Quería consultar qué tipo de residuos no habituales incluye el servicio de recolección de la Municipalidad.\n\nEn particular, quisiera saber si realizan el retiro de electrodomésticos de",
@@ -48171,6 +48171,11 @@
         "texto": "Laprida 803",
         "fecha": "2026-07-30T15:17:39.560Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Perfecto. Muchas gracias!",
+        "fecha": "2026-07-30T15:28:45.210Z",
+        "sentimiento": "positivo"
       }
     ]
   },
