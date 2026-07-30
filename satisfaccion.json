@@ -47505,11 +47505,11 @@
     "celular": "+54 9 3814 163-298",
     "nombre": "",
     "direccion": "En 10",
-    "sentimiento": "neutro",
-    "ultimoMensaje": "🆗🆗.... muchas gracias!!!",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Buenas tardes... Dejo este mensaje 📨.... sí 🙂‍↕️:......\n*YA FUE RETIRADO EL MATERIAL!!!*\nMUCHAS GRACIAS 😊",
     "mensaje": "Bueno días qtal",
     "fecha": "2026-07-29T12:20:03.939Z",
-    "ultimaActualizacion": "2026-07-29T14:47:29.734Z",
+    "ultimaActualizacion": "2026-07-30T20:03:58.572Z",
     "historialMensajes": [
       {
         "texto": "Bueno días qtal",
@@ -47540,6 +47540,11 @@
         "texto": "🆗🆗.... muchas gracias!!!",
         "fecha": "2026-07-29T14:47:29.734Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Buenas tardes... Dejo este mensaje 📨.... sí 🙂‍↕️:......\n*YA FUE RETIRADO EL MATERIAL!!!*\nMUCHAS GRACIAS 😊",
+        "fecha": "2026-07-30T20:03:58.572Z",
+        "sentimiento": "positivo"
       }
     ]
   },
