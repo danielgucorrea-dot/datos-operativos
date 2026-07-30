@@ -48086,10 +48086,10 @@
     "nombre": "",
     "direccion": "Corrientes 3967",
     "sentimiento": "positivo",
-    "ultimoMensaje": "Desde ya muchas gracias",
+    "ultimoMensaje": "Allí están las ramas de la poda...gracias.",
     "mensaje": "Buenas noches, necesito solicitar el retiro de ramas de poda de mí domicilio: Corrientes 3967.capital",
     "fecha": "2026-07-30T02:15:27.509Z",
-    "ultimaActualizacion": "2026-07-30T02:18:31.969Z",
+    "ultimaActualizacion": "2026-07-30T15:04:05.774Z",
     "historialMensajes": [
       {
         "texto": "Buenas noches, necesito solicitar el retiro de ramas de poda de mí domicilio: Corrientes 3967.capital",
@@ -48099,6 +48099,11 @@
       {
         "texto": "Desde ya muchas gracias",
         "fecha": "2026-07-30T02:18:31.969Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Allí están las ramas de la poda...gracias.",
+        "fecha": "2026-07-30T15:04:05.774Z",
         "sentimiento": "positivo"
       }
     ]
@@ -48264,6 +48269,24 @@
       {
         "texto": "Son como 50 bolsas",
         "fecha": "2026-07-30T14:58:37.537Z",
+        "sentimiento": "neutro"
+      }
+    ]
+  },
+  {
+    "numero": "22127872864355",
+    "celular": "+54 9 3813 605-854",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Buen día, me comunico por el programa Neumaton para retiro de cubiertas en desuso, quería saber si sigue vigente y en ese caso si se entrega certificado de disposición final?. Muchas gracias. \nSaludos.",
+    "mensaje": "Buen día, me comunico por el programa Neumaton para retiro de cubiertas en desuso, quería saber si sigue vigente y en ese caso si se entrega certificado de disposición final?. Muchas gracias. \nSaludos.",
+    "fecha": "2026-07-30T15:06:28.490Z",
+    "ultimaActualizacion": "2026-07-30T15:06:28.490Z",
+    "historialMensajes": [
+      {
+        "texto": "Buen día, me comunico por el programa Neumaton para retiro de cubiertas en desuso, quería saber si sigue vigente y en ese caso si se entrega certificado de disposición final?. Muchas gracias. \nSaludos",
+        "fecha": "2026-07-30T15:06:28.490Z",
         "sentimiento": "neutro"
       }
     ]
