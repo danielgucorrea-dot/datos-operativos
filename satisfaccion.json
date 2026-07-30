@@ -44975,10 +44975,10 @@
     "nombre": "",
     "direccion": "Malabia 2150",
     "sentimiento": "positivo",
-    "ultimoMensaje": "Hay que notificarle que no se debe  arroja basurero en las calles",
+    "ultimoMensaje": "Gracias",
     "mensaje": "Buendía",
     "fecha": "2026-07-14T16:26:00.634Z",
-    "ultimaActualizacion": "2026-07-28T14:29:47.996Z",
+    "ultimaActualizacion": "2026-07-30T19:35:37.865Z",
     "historialMensajes": [
       {
         "texto": "Buendía",
@@ -45003,6 +45003,16 @@
       {
         "texto": "Hay que notificarle que no se debe  arroja basurero en las calles",
         "fecha": "2026-07-28T14:29:47.996Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Vinieron a buscar la basura",
+        "fecha": "2026-07-30T19:34:54.808Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Gracias",
+        "fecha": "2026-07-30T19:35:37.865Z",
         "sentimiento": "positivo"
       }
     ]
