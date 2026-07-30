@@ -48044,5 +48044,33 @@
         "sentimiento": "positivo"
       }
     ]
+  },
+  {
+    "numero": "200407569690673",
+    "celular": "+54 9 3813 532-618",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Necesitaría si pueden retirar 3 bolsas de escombros por favor",
+    "mensaje": "Buendía",
+    "fecha": "2026-07-30T02:24:10.509Z",
+    "ultimaActualizacion": "2026-07-30T02:24:16.475Z",
+    "historialMensajes": [
+      {
+        "texto": "Buendía",
+        "fecha": "2026-07-30T02:24:10.509Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Cómo están",
+        "fecha": "2026-07-30T02:24:12.062Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Necesitaría si pueden retirar 3 bolsas de escombros por favor",
+        "fecha": "2026-07-30T02:24:16.475Z",
+        "sentimiento": "positivo"
+      }
+    ]
   }
 ]
