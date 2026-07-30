@@ -48306,11 +48306,11 @@
     "celular": "+54 9 3816 613-050",
     "nombre": "",
     "direccion": "Pasaje Viamonte 566",
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Pregunta .lo cargan ustedes ?",
+    "sentimiento": "negativo",
+    "ultimoMensaje": "Ya buscare quien me lo pueda sacar.",
     "mensaje": "Buenos dias queria saber x un contenedor para sacar ramas de unos arboles que pode.si x este medio lo tengo que solicitar .paso foto .gracias",
     "fecha": "2026-07-30T15:07:09.634Z",
-    "ultimaActualizacion": "2026-07-30T15:09:43.916Z",
+    "ultimaActualizacion": "2026-07-30T15:10:30.698Z",
     "historialMensajes": [
       {
         "texto": "Buenos dias queria saber x un contenedor para sacar ramas de unos arboles que pode.si x este medio lo tengo que solicitar .paso foto .gracias",
@@ -48331,6 +48331,16 @@
         "texto": "Pregunta .lo cargan ustedes ?",
         "fecha": "2026-07-30T15:09:43.916Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Si ok",
+        "fecha": "2026-07-30T15:10:13.671Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Ya buscare quien me lo pueda sacar.",
+        "fecha": "2026-07-30T15:10:30.698Z",
+        "sentimiento": "negativo"
       }
     ]
   }
