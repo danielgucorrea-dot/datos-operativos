@@ -48241,10 +48241,10 @@
     "nombre": "",
     "direccion": "Paraguay al 4000",
     "sentimiento": "neutro",
-    "ultimoMensaje": "Paraguay al 4000",
+    "ultimoMensaje": "Son como 50 bolsas",
     "mensaje": "Hola",
     "fecha": "2026-07-30T14:56:27.371Z",
-    "ultimaActualizacion": "2026-07-30T14:57:46.794Z",
+    "ultimaActualizacion": "2026-07-30T14:58:37.537Z",
     "historialMensajes": [
       {
         "texto": "Hola",
@@ -48259,6 +48259,11 @@
       {
         "texto": "Paraguay al 4000",
         "fecha": "2026-07-30T14:57:46.794Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Son como 50 bolsas",
+        "fecha": "2026-07-30T14:58:37.537Z",
         "sentimiento": "neutro"
       }
     ]
