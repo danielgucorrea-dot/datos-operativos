@@ -44974,11 +44974,11 @@
     "celular": "+54 9 3815 730-657",
     "nombre": "",
     "direccion": "Malabia 2150",
-    "sentimiento": "positivo",
-    "ultimoMensaje": "Gracias",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Conociendo al tipo de vecinos que tengo muy pronto seguramente los estaré molestando",
     "mensaje": "Buendía",
     "fecha": "2026-07-14T16:26:00.634Z",
-    "ultimaActualizacion": "2026-07-30T19:35:37.865Z",
+    "ultimaActualizacion": "2026-07-30T19:49:37.626Z",
     "historialMensajes": [
       {
         "texto": "Buendía",
@@ -45014,6 +45014,11 @@
         "texto": "Gracias",
         "fecha": "2026-07-30T19:35:37.865Z",
         "sentimiento": "positivo"
+      },
+      {
+        "texto": "Conociendo al tipo de vecinos que tengo muy pronto seguramente los estaré molestando",
+        "fecha": "2026-07-30T19:49:37.626Z",
+        "sentimiento": "neutro"
       }
     ]
   },
