@@ -48753,5 +48753,28 @@
         "sentimiento": "positivo"
       }
     ]
+  },
+  {
+    "numero": "117536695803940",
+    "celular": "+54 9 3815 227-388",
+    "nombre": "",
+    "direccion": "Manzana D casa 1",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Arquitecto Juan padros 3601",
+    "mensaje": "\"Hola, buenas tardes. Necesito solicitar el servicio de retiro gratuito de residuos no habituales. Tengo para retirar una mochila de depósito de baño rota.Mis datos son:Dirección exacta: arquitecto Juan padros 3601 - Barrio: Vial 3 Manzana D casa 1 - Nombre y apellido: Rodrigo Valdez",
+    "fecha": "2026-07-30T21:31:57.083Z",
+    "ultimaActualizacion": "2026-07-30T21:32:57.169Z",
+    "historialMensajes": [
+      {
+        "texto": "\"Hola, buenas tardes. Necesito solicitar el servicio de retiro gratuito de residuos no habituales. Tengo para retirar una mochila de depósito de baño rota.Mis datos son:Dirección exacta: arquitecto Ju",
+        "fecha": "2026-07-30T21:31:57.083Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Arquitecto Juan padros 3601",
+        "fecha": "2026-07-30T21:32:57.169Z",
+        "sentimiento": "neutro"
+      }
+    ]
   }
 ]
