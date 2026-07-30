@@ -48021,5 +48021,28 @@
         "sentimiento": "neutro"
       }
     ]
+  },
+  {
+    "numero": "118068718137428",
+    "celular": "+54 9 3813 937-887",
+    "nombre": "",
+    "direccion": "Corrientes 3967",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Desde ya muchas gracias",
+    "mensaje": "Buenas noches, necesito solicitar el retiro de ramas de poda de mí domicilio: Corrientes 3967.capital",
+    "fecha": "2026-07-30T02:15:27.509Z",
+    "ultimaActualizacion": "2026-07-30T02:18:31.969Z",
+    "historialMensajes": [
+      {
+        "texto": "Buenas noches, necesito solicitar el retiro de ramas de poda de mí domicilio: Corrientes 3967.capital",
+        "fecha": "2026-07-30T02:15:27.509Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Desde ya muchas gracias",
+        "fecha": "2026-07-30T02:18:31.969Z",
+        "sentimiento": "positivo"
+      }
+    ]
   }
 ]
