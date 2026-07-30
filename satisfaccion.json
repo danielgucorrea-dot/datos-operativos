@@ -37580,7 +37580,7 @@
     "celular": "+54 9 3815 804-716",
     "nombre": "",
     "direccion": "Mariano Moreno 827",
-    "sentimiento": "neutro",
+    "sentimiento": "positivo",
     "evidencia_clasificacion": [],
     "canal": "WhatsApp Ambiente",
     "fecha": "2026-04-09",
@@ -37594,7 +37594,15 @@
       "Ok muchas gracias",
       "Mariano Moreno 827 planta alta"
     ],
-    "ultimaActualizacion": "2026-04-09"
+    "ultimaActualizacion": "2026-07-30T14:53:13.431Z",
+    "ultimoMensaje": "Buenos días, quisiera que pasaran a retirar unos escombros",
+    "historialMensajes": [
+      {
+        "texto": "Buenos días, quisiera que pasaran a retirar unos escombros",
+        "fecha": "2026-07-30T14:53:13.431Z",
+        "sentimiento": "positivo"
+      }
+    ]
   },
   {
     "numero": "124751771099260",
@@ -48185,10 +48193,10 @@
     "nombre": "",
     "direccion": "Congreso 808",
     "sentimiento": "positivo",
-    "ultimoMensaje": "Están puestas al lado del árbol de la vereda.",
+    "ultimoMensaje": "Buen dia. Bien, Muchas gracias. Ahora solicito las fotos.",
     "mensaje": "Hola, buenos días. Cómo está?",
     "fecha": "2026-07-30T14:49:43.908Z",
-    "ultimaActualizacion": "2026-07-30T14:52:36.715Z",
+    "ultimaActualizacion": "2026-07-30T14:54:37.149Z",
     "historialMensajes": [
       {
         "texto": "Hola, buenos días. Cómo está?",
@@ -48218,6 +48226,11 @@
       {
         "texto": "Están puestas al lado del árbol de la vereda.",
         "fecha": "2026-07-30T14:52:36.715Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Buen dia. Bien, Muchas gracias. Ahora solicito las fotos.",
+        "fecha": "2026-07-30T14:54:37.149Z",
         "sentimiento": "positivo"
       }
     ]
