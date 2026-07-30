@@ -46775,17 +46775,12 @@
     "celular": "+54 9 3814 064-959",
     "nombre": "",
     "direccion": "Perdón 12",
-    "sentimiento": "neutro",
-    "ultimoMensaje": "perfecto, tendria que tener algun numero de pedido o algo en especial que me pedira la empresa recolectora? tambien por el hecho de tener bolsas en la calle podria reclamarme algun inspector?",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Muchas gracias",
     "mensaje": "Buenas tardes",
     "fecha": "2026-07-28T16:20:24.063Z",
-    "ultimaActualizacion": "2026-07-29T16:10:59.819Z",
+    "ultimaActualizacion": "2026-07-30T14:06:09.545Z",
     "historialMensajes": [
-      {
-        "texto": "Buenas tardes",
-        "fecha": "2026-07-28T16:20:24.063Z",
-        "sentimiento": "neutro"
-      },
       {
         "texto": "Les hago una consulta, tengo restos de escombros en mi casa y vi que la municipalidad brindaba un servicio de recoleccion con conteiners, puede ser?",
         "fecha": "2026-07-28T16:20:43.707Z",
@@ -46830,6 +46825,11 @@
         "texto": "perfecto, tendria que tener algun numero de pedido o algo en especial que me pedira la empresa recolectora? tambien por el hecho de tener bolsas en la calle podria reclamarme algun inspector?",
         "fecha": "2026-07-29T16:10:59.819Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Muchas gracias",
+        "fecha": "2026-07-30T14:06:09.545Z",
+        "sentimiento": "positivo"
       }
     ]
   },
