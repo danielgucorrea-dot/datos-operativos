@@ -48132,10 +48132,10 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "neutro",
-    "ultimoMensaje": "Retiro de  verde en Honduras 1w3",
+    "ultimoMensaje": "117",
     "mensaje": "No m atie den",
     "fecha": "2026-07-30T14:34:28.056Z",
-    "ultimaActualizacion": "2026-07-30T14:34:52.373Z",
+    "ultimaActualizacion": "2026-07-30T14:35:00.699Z",
     "historialMensajes": [
       {
         "texto": "No m atie den",
@@ -48145,6 +48145,11 @@
       {
         "texto": "Retiro de  verde en Honduras 1w3",
         "fecha": "2026-07-30T14:34:52.373Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "117",
+        "fecha": "2026-07-30T14:35:00.699Z",
         "sentimiento": "neutro"
       }
     ]
