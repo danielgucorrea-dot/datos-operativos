@@ -2566,8 +2566,8 @@
       "Leí su mensaje . Pondré unicamente  10 bolsas de cesped.  Mando fotos. espero respuesta. Gs. Domicilio. Colombia 877 Cap. S.m.Tuc",
       "Enteren me día y hora. Gs. Saludos"
     ],
-    "ultimaActualizacion": "2026-07-29T15:00:52.351Z",
-    "ultimoMensaje": "Gs. Saludos",
+    "ultimaActualizacion": "2026-07-30T14:20:34.342Z",
+    "ultimoMensaje": "Le agradezco. Lo que me indica de la foto tengo muy poco. Lo llevaré a algún contenedor. \nLo que tengo mucho y  Uds no lo llevan,  es cesped embolsado. \nMs. Gs. Saludos.",
     "historialMensajes": [
       {
         "texto": "Bdia. Son residuos que corto el cesped y otros que tira la gente. Quiero saber cuando los puedo sacar para el servidor los lleve. Ms. Gs. Saludos. Luis de calle Colombia 895",
@@ -2587,6 +2587,11 @@
       {
         "texto": "Gs. Saludos",
         "fecha": "2026-07-29T15:00:52.351Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Le agradezco. Lo que me indica de la foto tengo muy poco. Lo llevaré a algún contenedor. \nLo que tengo mucho y  Uds no lo llevan,  es cesped embolsado. \nMs. Gs. Saludos.",
+        "fecha": "2026-07-30T14:20:34.342Z",
         "sentimiento": "neutro"
       }
     ]
@@ -48074,6 +48079,29 @@
       {
         "texto": "Necesitaría si pueden retirar 3 bolsas de escombros por favor",
         "fecha": "2026-07-30T02:24:16.475Z",
+        "sentimiento": "positivo"
+      }
+    ]
+  },
+  {
+    "numero": "100339160203273",
+    "celular": "+54 9 3813 309-314",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Hola, buen día! Quería consultar qué tipo de residuos no habituales incluye el servicio de recolección de la Municipalidad.\n\nEn particular, quisiera saber si realizan el retiro de electrodomésticos de gran porte que se encuentran fuera de funcionamiento, como una heladera y un lavarropas. En caso de que sí, ¿podrían indicarme cómo debo solicitar el servicio y coordinar el retiro?\n\nDesde ya, muchas gracias.",
+    "mensaje": "Hola, buen día! Quería consultar qué tipo de residuos no habituales incluye el servicio de recolección de la Municipalidad.\n\nEn particular, quisiera saber si realizan el retiro de electrodomésticos de gran porte que se encuentran fuera de funcionamiento, como una heladera y un lavarropas. En caso de que sí, ¿podrían indicarme cómo debo solicitar el servicio y coordinar el retiro?\n\nDesde ya, muchas gracias.",
+    "fecha": "2026-07-30T14:16:59.522Z",
+    "ultimaActualizacion": "2026-07-30T14:17:01.732Z",
+    "historialMensajes": [
+      {
+        "texto": "Hola, buen día! Quería consultar qué tipo de residuos no habituales incluye el servicio de recolección de la Municipalidad.\n\nEn particular, quisiera saber si realizan el retiro de electrodomésticos de",
+        "fecha": "2026-07-30T14:16:59.522Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Hola, buen día! Quería consultar qué tipo de residuos no habituales incluye el servicio de recolección de la Municipalidad.\n\nEn particular, quisiera saber si realizan el retiro de electrodomésticos de",
+        "fecha": "2026-07-30T14:17:01.732Z",
         "sentimiento": "positivo"
       }
     ]
