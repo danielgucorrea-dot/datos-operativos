@@ -48307,10 +48307,10 @@
     "nombre": "",
     "direccion": "Pasaje Viamonte 566",
     "sentimiento": "neutro",
-    "ultimoMensaje": "Pasaje Viamonte 566 villa lujan",
+    "ultimoMensaje": "El pasaje es altura santiago 2900",
     "mensaje": "Buenos dias queria saber x un contenedor para sacar ramas de unos arboles que pode.si x este medio lo tengo que solicitar .paso foto .gracias",
     "fecha": "2026-07-30T15:07:09.634Z",
-    "ultimaActualizacion": "2026-07-30T15:08:02.085Z",
+    "ultimaActualizacion": "2026-07-30T15:08:21.505Z",
     "historialMensajes": [
       {
         "texto": "Buenos dias queria saber x un contenedor para sacar ramas de unos arboles que pode.si x este medio lo tengo que solicitar .paso foto .gracias",
@@ -48320,6 +48320,11 @@
       {
         "texto": "Pasaje Viamonte 566 villa lujan",
         "fecha": "2026-07-30T15:08:02.085Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "El pasaje es altura santiago 2900",
+        "fecha": "2026-07-30T15:08:21.505Z",
         "sentimiento": "neutro"
       }
     ]
