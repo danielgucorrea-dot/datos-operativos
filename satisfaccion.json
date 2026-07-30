@@ -48509,15 +48509,43 @@
     "celular": "+54 9 3812 188-920",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "negativo",
-    "ultimoMensaje": "Buenas tardes envio foto de residuos tirados en la calle por los ocipas del terreno  alsina y casi esquina libertad",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Y hay residuos del fuego si los pieden levantar por favor",
     "mensaje": "Buenas tardes envio foto de residuos tirados en la calle por los ocipas del terreno  alsina y casi esquina libertad",
     "fecha": "2026-07-30T16:55:39.887Z",
-    "ultimaActualizacion": "2026-07-30T16:55:39.887Z",
+    "ultimaActualizacion": "2026-07-30T16:56:34.542Z",
     "historialMensajes": [
       {
         "texto": "Buenas tardes envio foto de residuos tirados en la calle por los ocipas del terreno  alsina y casi esquina libertad",
         "fecha": "2026-07-30T16:55:39.887Z",
+        "sentimiento": "negativo"
+      },
+      {
+        "texto": "Tambien en la calle hacen fuego",
+        "fecha": "2026-07-30T16:56:12.244Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Y hay residuos del fuego si los pieden levantar por favor",
+        "fecha": "2026-07-30T16:56:34.542Z",
+        "sentimiento": "positivo"
+      }
+    ]
+  },
+  {
+    "numero": "136025909289162",
+    "celular": "+54 9 3814 190-071",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "negativo",
+    "ultimoMensaje": "Buenos tardes. Me pongo en contacto para solicitar se tomen medidas para que el camión recoletor de residuos domiciliarios realice el retiro de los mismos de la dirección Lavalle N° 3272 San Miguel de Tucuman. No entendemos el motivo por el cual no lo realizan. Ya realice el reclamo al número de WhatsApp de Tpte 9 de Julio pero sin respuesta  alguna. Adjunto fotos del lugar y quedo a disposición por alguna consulta.",
+    "mensaje": "Buenos tardes. Me pongo en contacto para solicitar se tomen medidas para que el camión recoletor de residuos domiciliarios realice el retiro de los mismos de la dirección Lavalle N° 3272 San Miguel de Tucuman. No entendemos el motivo por el cual no lo realizan. Ya realice el reclamo al número de WhatsApp de Tpte 9 de Julio pero sin respuesta  alguna. Adjunto fotos del lugar y quedo a disposición por alguna consulta.",
+    "fecha": "2026-07-30T16:56:10.685Z",
+    "ultimaActualizacion": "2026-07-30T16:56:10.685Z",
+    "historialMensajes": [
+      {
+        "texto": "Buenos tardes. Me pongo en contacto para solicitar se tomen medidas para que el camión recoletor de residuos domiciliarios realice el retiro de los mismos de la dirección Lavalle N° 3272 San Miguel de",
+        "fecha": "2026-07-30T16:56:10.685Z",
         "sentimiento": "negativo"
       }
     ]
