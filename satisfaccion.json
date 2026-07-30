@@ -48799,5 +48799,28 @@
         "sentimiento": "neutro"
       }
     ]
+  },
+  {
+    "numero": "102835073118314",
+    "celular": "+54 9 3816 343-068",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Hola",
+    "mensaje": "Hola",
+    "fecha": "2026-07-30T23:10:13.942Z",
+    "ultimaActualizacion": "2026-07-30T23:10:15.265Z",
+    "historialMensajes": [
+      {
+        "texto": "Hola",
+        "fecha": "2026-07-30T23:10:13.942Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Hola",
+        "fecha": "2026-07-30T23:10:15.265Z",
+        "sentimiento": "neutro"
+      }
+    ]
   }
 ]
