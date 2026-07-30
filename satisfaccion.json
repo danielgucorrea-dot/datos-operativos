@@ -48679,5 +48679,28 @@
         "sentimiento": "neutro"
       }
     ]
+  },
+  {
+    "numero": "72945791697044",
+    "celular": "+54 9 3815 302-555",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Buenas tardes necesito sacar bolsas con escombro de mi casa\nCómo hago",
+    "mensaje": "Buenas tardes necesito sacar bolsas con escombro de mi casa\nCómo hago",
+    "fecha": "2026-07-30T20:36:34.938Z",
+    "ultimaActualizacion": "2026-07-30T20:36:37.984Z",
+    "historialMensajes": [
+      {
+        "texto": "Buenas tardes necesito sacar bolsas con escombro de mi casa\nCómo hago",
+        "fecha": "2026-07-30T20:36:34.938Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Buenas tardes necesito sacar bolsas con escombro de mi casa\nCómo hago",
+        "fecha": "2026-07-30T20:36:37.984Z",
+        "sentimiento": "positivo"
+      }
+    ]
   }
 ]
