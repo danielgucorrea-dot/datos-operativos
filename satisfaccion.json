@@ -6153,7 +6153,7 @@
     "celular": "+54 9 3814 493-030",
     "nombre": "",
     "direccion": "Mendoza al 200",
-    "sentimiento": "negativo",
+    "sentimiento": "neutro",
     "evidencia_clasificacion": [
       "es una verguenza"
     ],
@@ -6175,8 +6175,8 @@
       "Vivo en Mendoza al 200",
       "Buenos días"
     ],
-    "ultimaActualizacion": "2026-07-31T14:12:30.690Z",
-    "ultimoMensaje": "en la vereda? donde pasan abrir las bolsas y dejan la mitad de las cosas tiradas",
+    "ultimaActualizacion": "2026-07-31T14:12:48.816Z",
+    "ultimoMensaje": "es desacertada la recomendacin",
     "historialMensajes": [
       {
         "texto": "Buen día",
@@ -6212,6 +6212,11 @@
         "texto": "en la vereda? donde pasan abrir las bolsas y dejan la mitad de las cosas tiradas",
         "fecha": "2026-07-31T14:12:30.690Z",
         "sentimiento": "negativo"
+      },
+      {
+        "texto": "es desacertada la recomendacin",
+        "fecha": "2026-07-31T14:12:48.816Z",
+        "sentimiento": "neutro"
       }
     ]
   },
