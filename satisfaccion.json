@@ -49351,5 +49351,23 @@
         "sentimiento": "neutro"
       }
     ]
+  },
+  {
+    "numero": "155039779815527",
+    "celular": "+54 9 3816 600-479",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Buenos días! Me comunico para coordinar la recolección de residuo",
+    "mensaje": "Buenos días! Me comunico para coordinar la recolección de residuo",
+    "fecha": "2026-07-31T13:44:51.350Z",
+    "ultimaActualizacion": "2026-07-31T13:44:51.350Z",
+    "historialMensajes": [
+      {
+        "texto": "Buenos días! Me comunico para coordinar la recolección de residuo",
+        "fecha": "2026-07-31T13:44:51.350Z",
+        "sentimiento": "positivo"
+      }
+    ]
   }
 ]
