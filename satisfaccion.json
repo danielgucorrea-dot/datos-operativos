@@ -6143,7 +6143,7 @@
     "celular": "+54 9 3814 493-030",
     "nombre": "",
     "direccion": "Mendoza al 200",
-    "sentimiento": "negativo",
+    "sentimiento": "neutro",
     "evidencia_clasificacion": [
       "es una verguenza"
     ],
@@ -6165,8 +6165,8 @@
       "Vivo en Mendoza al 200",
       "Buenos días"
     ],
-    "ultimaActualizacion": "2026-07-31T11:13:24.178Z",
-    "ultimoMensaje": "Retiraron el contenedor de la calle Mendoza al 200 y no lo volvieron atraer",
+    "ultimaActualizacion": "2026-07-31T13:25:30.620Z",
+    "ultimoMensaje": "Y ahora donde descartamos la basura ?",
     "historialMensajes": [
       {
         "texto": "Buen día",
@@ -6177,6 +6177,11 @@
         "texto": "Retiraron el contenedor de la calle Mendoza al 200 y no lo volvieron atraer",
         "fecha": "2026-07-31T11:13:24.178Z",
         "sentimiento": "negativo"
+      },
+      {
+        "texto": "Y ahora donde descartamos la basura ?",
+        "fecha": "2026-07-31T13:25:30.620Z",
+        "sentimiento": "neutro"
       }
     ]
   },
