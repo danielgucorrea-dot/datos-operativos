@@ -49450,10 +49450,10 @@
     "nombre": "",
     "direccion": "Ayacucho 62",
     "sentimiento": "positivo",
-    "ultimoMensaje": "Si pero ya pude llevar el resto de forma particular",
+    "ultimoMensaje": "Quedaron 5 bolsas",
     "mensaje": "Buen día , podrían enviarme el camión recolector para retirar 5 bolsas de escombro por favor ?",
     "fecha": "2026-07-31T13:41:43.835Z",
-    "ultimaActualizacion": "2026-07-31T14:22:06.305Z",
+    "ultimaActualizacion": "2026-07-31T14:22:12.430Z",
     "historialMensajes": [
       {
         "texto": "Buen día , podrían enviarme el camión recolector para retirar 5 bolsas de escombro por favor ?",
@@ -49468,6 +49468,11 @@
       {
         "texto": "Si pero ya pude llevar el resto de forma particular",
         "fecha": "2026-07-31T14:22:06.305Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Quedaron 5 bolsas",
+        "fecha": "2026-07-31T14:22:12.430Z",
         "sentimiento": "positivo"
       }
     ]
