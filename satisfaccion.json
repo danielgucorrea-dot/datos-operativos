@@ -49860,17 +49860,12 @@
     "celular": "+54 9 3813 512-256",
     "nombre": "",
     "direccion": "Rondeau 875",
-    "sentimiento": "neutro",
-    "ultimoMensaje": "En la Adolfo de la Vega",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Gracias",
     "mensaje": "Hola. Buenas tardes",
     "fecha": "2026-07-31T15:44:26.752Z",
-    "ultimaActualizacion": "2026-07-31T15:49:14.785Z",
+    "ultimaActualizacion": "2026-07-31T15:50:06.243Z",
     "historialMensajes": [
-      {
-        "texto": "Hola. Buenas tardes",
-        "fecha": "2026-07-31T15:44:26.752Z",
-        "sentimiento": "neutro"
-      },
       {
         "texto": "Hola. Buenas tardes",
         "fecha": "2026-07-31T15:44:29.433Z",
@@ -49915,6 +49910,11 @@
         "texto": "En la Adolfo de la Vega",
         "fecha": "2026-07-31T15:49:14.785Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Gracias",
+        "fecha": "2026-07-31T15:50:06.243Z",
+        "sentimiento": "positivo"
       }
     ]
   }
