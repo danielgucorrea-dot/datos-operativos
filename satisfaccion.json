@@ -29309,7 +29309,7 @@
     "celular": "+54 9 3816 704-804",
     "nombre": "",
     "direccion": "manzana 20 casa 9",
-    "sentimiento": "negativo",
+    "sentimiento": "neutro",
     "evidencia_clasificacion": [],
     "canal": "WhatsApp Ambiente",
     "fecha": "2026-05-05",
@@ -29332,8 +29332,8 @@
       "Soy del Manantial Sur,me pasó el número un vecino,me dijo q podía comunicarme con ustedes para levantar las ramas de los árboles q podamos al frente",
       "Buenas tardes"
     ],
-    "ultimaActualizacion": "2026-07-31T15:49:08.662Z",
-    "ultimoMensaje": "Porq lo quieren llevar ,pero lo llevan y lo tiran en la esquina.",
+    "ultimaActualizacion": "2026-07-31T15:51:25.863Z",
+    "ultimoMensaje": "Altura av ,Pérez Palavecino 2600",
     "historialMensajes": [
       {
         "texto": "Hay le envío las fotos",
@@ -29369,6 +29369,11 @@
         "texto": "Porq lo quieren llevar ,pero lo llevan y lo tiran en la esquina.",
         "fecha": "2026-07-31T15:49:08.662Z",
         "sentimiento": "negativo"
+      },
+      {
+        "texto": "Altura av ,Pérez Palavecino 2600",
+        "fecha": "2026-07-31T15:51:25.863Z",
+        "sentimiento": "neutro"
       }
     ]
   },
