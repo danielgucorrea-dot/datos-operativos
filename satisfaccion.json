@@ -301,10 +301,10 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "neutro",
-    "ultimoMensaje": "Menu",
+    "ultimoMensaje": "!invitar_test",
     "mensaje": "Hola",
     "fecha": "2026-07-06T18:02:30.845Z",
-    "ultimaActualizacion": "2026-07-14T22:26:45.728Z",
+    "ultimaActualizacion": "2026-07-31T13:41:39.888Z",
     "historialMensajes": [
       {
         "texto": "Hola",
@@ -334,6 +334,11 @@
       {
         "texto": "Menu",
         "fecha": "2026-07-14T22:26:45.728Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "!invitar_test",
+        "fecha": "2026-07-31T13:41:39.888Z",
         "sentimiento": "neutro"
       }
     ]
@@ -42731,17 +42736,12 @@
     "celular": "+54 9 3816 684-407",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "neutro",
-    "ultimoMensaje": "q se lleguen los chicos a la tarde a ver si esta abandonada antes de meter la pala a la vereda por las dudas",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "sacar la basura en  los horarios q corresponden",
     "mensaje": "buen dia",
     "fecha": "2026-07-13T12:35:57.936Z",
-    "ultimaActualizacion": "2026-07-31T13:37:35.353Z",
+    "ultimaActualizacion": "2026-07-31T13:39:59.827Z",
     "historialMensajes": [
-      {
-        "texto": "buen dia",
-        "fecha": "2026-07-29T13:25:27.910Z",
-        "sentimiento": "neutro"
-      },
       {
         "texto": "pasado",
         "fecha": "2026-07-29T13:25:29.714Z",
@@ -42786,6 +42786,11 @@
         "texto": "q se lleguen los chicos a la tarde a ver si esta abandonada antes de meter la pala a la vereda por las dudas",
         "fecha": "2026-07-31T13:37:35.353Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "sacar la basura en  los horarios q corresponden",
+        "fecha": "2026-07-31T13:39:59.827Z",
+        "sentimiento": "positivo"
       }
     ]
   },
