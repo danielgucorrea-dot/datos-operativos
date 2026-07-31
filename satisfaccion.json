@@ -12029,7 +12029,7 @@
     "celular": "+54 9 3815 301-380",
     "nombre": "",
     "direccion": "Pasaje Roberto Koch 261",
-    "sentimiento": "neutro",
+    "sentimiento": "positivo",
     "evidencia_clasificacion": [],
     "canal": "WhatsApp Ambiente",
     "fecha": "2026-06-11",
@@ -12038,8 +12038,8 @@
       "Pasaje Roberto Koch 261. Altura Brigido Teran al 800",
       "Buenas tardes"
     ],
-    "ultimaActualizacion": "2026-07-31T15:28:36.852Z",
-    "ultimoMensaje": "Pasaje Roberto Koch 261",
+    "ultimaActualizacion": "2026-07-31T15:28:55.861Z",
+    "ultimoMensaje": "5 bolsas",
     "historialMensajes": [
       {
         "texto": "Buenos.dias",
@@ -12085,6 +12085,11 @@
         "texto": "Pasaje Roberto Koch 261",
         "fecha": "2026-07-31T15:28:36.852Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "5 bolsas",
+        "fecha": "2026-07-31T15:28:55.861Z",
+        "sentimiento": "positivo"
       }
     ]
   },
