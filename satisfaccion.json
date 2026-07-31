@@ -49145,11 +49145,11 @@
     "celular": "+54 9 3814 462-869",
     "nombre": "",
     "direccion": "Pje vieytes 1700",
-    "sentimiento": "negativo",
-    "ultimoMensaje": "No puedo sacar a toda la cuadra tampoco",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Así facilito el trabajo de los encargados en venir a coroborar",
     "mensaje": "Buen dia",
     "fecha": "2026-07-31T11:10:34.714Z",
-    "ultimaActualizacion": "2026-07-31T14:19:26.653Z",
+    "ultimaActualizacion": "2026-07-31T14:19:43.585Z",
     "historialMensajes": [
       {
         "texto": "Buen dia",
@@ -49195,6 +49195,11 @@
         "texto": "No puedo sacar a toda la cuadra tampoco",
         "fecha": "2026-07-31T14:19:26.653Z",
         "sentimiento": "negativo"
+      },
+      {
+        "texto": "Así facilito el trabajo de los encargados en venir a coroborar",
+        "fecha": "2026-07-31T14:19:43.585Z",
+        "sentimiento": "neutro"
       }
     ]
   },
