@@ -29309,7 +29309,7 @@
     "celular": "+54 9 3816 704-804",
     "nombre": "",
     "direccion": "manzana 20 casa 9",
-    "sentimiento": "positivo",
+    "sentimiento": "neutro",
     "evidencia_clasificacion": [],
     "canal": "WhatsApp Ambiente",
     "fecha": "2026-05-05",
@@ -29332,14 +29332,9 @@
       "Soy del Manantial Sur,me pasó el número un vecino,me dijo q podía comunicarme con ustedes para levantar las ramas de los árboles q podamos al frente",
       "Buenas tardes"
     ],
-    "ultimaActualizacion": "2026-07-31T15:53:29.936Z",
-    "ultimoMensaje": "Ya llevaron escombros",
+    "ultimaActualizacion": "2026-07-31T15:53:56.818Z",
+    "ultimoMensaje": "Así se maneja aquí en el barrio",
     "historialMensajes": [
-      {
-        "texto": "Esta en la calle ,la tierra ,",
-        "fecha": "2026-07-31T15:48:11.806Z",
-        "sentimiento": "neutro"
-      },
       {
         "texto": "Ya vinieron la otra ves y llevaron escombro",
         "fecha": "2026-07-31T15:48:27.367Z",
@@ -29384,6 +29379,11 @@
         "texto": "Ya llevaron escombros",
         "fecha": "2026-07-31T15:53:29.936Z",
         "sentimiento": "positivo"
+      },
+      {
+        "texto": "Así se maneja aquí en el barrio",
+        "fecha": "2026-07-31T15:53:56.818Z",
+        "sentimiento": "neutro"
       }
     ]
   },
