@@ -48470,11 +48470,11 @@
     "celular": "+54 9 3813 459-920",
     "nombre": "",
     "direccion": "Chiclana 1933",
-    "sentimiento": "neutro",
-    "ultimoMensaje": "San miguel",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Perfecto gracias",
     "mensaje": "Hola buenas",
     "fecha": "2026-07-30T16:06:01.311Z",
-    "ultimaActualizacion": "2026-07-30T16:06:13.869Z",
+    "ultimaActualizacion": "2026-07-31T13:00:35.383Z",
     "historialMensajes": [
       {
         "texto": "Hola buenas",
@@ -48495,6 +48495,11 @@
         "texto": "San miguel",
         "fecha": "2026-07-30T16:06:13.869Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Perfecto gracias",
+        "fecha": "2026-07-31T13:00:35.383Z",
+        "sentimiento": "positivo"
       }
     ]
   },
