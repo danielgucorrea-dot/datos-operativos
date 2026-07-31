@@ -49185,16 +49185,11 @@
     "nombre": "",
     "direccion": "Suipacha 1943",
     "sentimiento": "positivo",
-    "ultimoMensaje": "Y todavia me queda estas adentro",
+    "ultimoMensaje": "Cuando podrian venir a buscar las que quedan",
     "mensaje": "Hola buen día",
     "fecha": "2026-07-31T11:59:14.335Z",
-    "ultimaActualizacion": "2026-07-31T14:04:04.684Z",
+    "ultimaActualizacion": "2026-07-31T14:06:25.575Z",
     "historialMensajes": [
-      {
-        "texto": "Hola buen día",
-        "fecha": "2026-07-31T11:59:14.335Z",
-        "sentimiento": "neutro"
-      },
       {
         "texto": "Suipacha 1943 entre Venezuela y México San Miguel de tucumán capital",
         "fecha": "2026-07-31T12:03:33.515Z",
@@ -49238,6 +49233,11 @@
       {
         "texto": "Y todavia me queda estas adentro",
         "fecha": "2026-07-31T14:04:04.684Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Cuando podrian venir a buscar las que quedan",
+        "fecha": "2026-07-31T14:06:25.575Z",
         "sentimiento": "positivo"
       }
     ]
