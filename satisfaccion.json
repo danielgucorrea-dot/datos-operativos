@@ -37742,7 +37742,7 @@
     "celular": "+54 9 3815 804-716",
     "nombre": "",
     "direccion": "Mariano Moreno 827",
-    "sentimiento": "negativo",
+    "sentimiento": "neutro",
     "evidencia_clasificacion": [],
     "canal": "WhatsApp Ambiente",
     "fecha": "2026-04-09",
@@ -37756,14 +37756,9 @@
       "Ok muchas gracias",
       "Mariano Moreno 827 planta alta"
     ],
-    "ultimaActualizacion": "2026-07-31T14:07:11.792Z",
-    "ultimoMensaje": "Consulte en casa y no pidieron la recolección.  Podrías decirme en q fecha te aparece ??",
+    "ultimaActualizacion": "2026-07-31T14:59:06.381Z",
+    "ultimoMensaje": "Mande foto y son 5",
     "historialMensajes": [
-      {
-        "texto": "Buenos días, quisiera que pasaran a retirar unos escombros",
-        "fecha": "2026-07-30T14:53:13.431Z",
-        "sentimiento": "positivo"
-      },
       {
         "texto": "Perfecto 👌",
         "fecha": "2026-07-30T15:07:12.423Z",
@@ -37808,6 +37803,11 @@
         "texto": "Consulte en casa y no pidieron la recolección.  Podrías decirme en q fecha te aparece ??",
         "fecha": "2026-07-31T14:07:11.792Z",
         "sentimiento": "negativo"
+      },
+      {
+        "texto": "Mande foto y son 5",
+        "fecha": "2026-07-31T14:59:06.381Z",
+        "sentimiento": "neutro"
       }
     ]
   },
@@ -49597,10 +49597,10 @@
     "nombre": "",
     "direccion": "Juan jose castelli 147",
     "sentimiento": "neutro",
-    "ultimoMensaje": "Juan jose castelli 147",
+    "ultimoMensaje": "En las cajas hay varias cosas dificil enumerar",
     "mensaje": "Buenos dias como estan? Quería consultar si ustedes hacen recolección de residuos hogareños en desuso ejemplo cajas de cartón, residuos varios de plásticos etc. Podria enviarles una foto mostrando la cantidad q no es mucho",
     "fecha": "2026-07-31T13:51:22.475Z",
-    "ultimaActualizacion": "2026-07-31T13:56:37.499Z",
+    "ultimaActualizacion": "2026-07-31T14:59:15.330Z",
     "historialMensajes": [
       {
         "texto": "Buenos dias como estan? Quería consultar si ustedes hacen recolección de residuos hogareños en desuso ejemplo cajas de cartón, residuos varios de plásticos etc. Podria enviarles una foto mostrando la ",
@@ -49610,6 +49610,11 @@
       {
         "texto": "Juan jose castelli 147",
         "fecha": "2026-07-31T13:56:37.499Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "En las cajas hay varias cosas dificil enumerar",
+        "fecha": "2026-07-31T14:59:15.330Z",
         "sentimiento": "neutro"
       }
     ]
