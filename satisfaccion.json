@@ -48840,11 +48840,11 @@
     "celular": "+54 9 3816 238-926",
     "nombre": "",
     "direccion": "Gral Paz 582",
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Gral Paz 582",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Ok muchas gracias ☺️",
     "mensaje": "Esas cosas necesitaría que buscaran si se puede",
     "fecha": "2026-07-30T17:58:27.904Z",
-    "ultimaActualizacion": "2026-07-31T13:49:10.974Z",
+    "ultimaActualizacion": "2026-07-31T13:55:26.953Z",
     "historialMensajes": [
       {
         "texto": "Esas cosas necesitaría que buscaran si se puede",
@@ -48860,6 +48860,11 @@
         "texto": "Gral Paz 582",
         "fecha": "2026-07-31T13:49:10.974Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Ok muchas gracias ☺️",
+        "fecha": "2026-07-31T13:55:26.953Z",
+        "sentimiento": "positivo"
       }
     ]
   },
