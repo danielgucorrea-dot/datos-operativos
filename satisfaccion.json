@@ -49146,10 +49146,10 @@
     "nombre": "",
     "direccion": "Pje vieytes 1700",
     "sentimiento": "neutro",
-    "ultimoMensaje": "Nada de adjuntar fotos",
+    "ultimoMensaje": "Desp menos van a llevar la basura",
     "mensaje": "Buen dia",
     "fecha": "2026-07-31T11:10:34.714Z",
-    "ultimaActualizacion": "2026-07-31T14:10:08.040Z",
+    "ultimaActualizacion": "2026-07-31T14:17:49.484Z",
     "historialMensajes": [
       {
         "texto": "Buen dia",
@@ -49184,6 +49184,11 @@
       {
         "texto": "Nada de adjuntar fotos",
         "fecha": "2026-07-31T14:10:08.040Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Desp menos van a llevar la basura",
+        "fecha": "2026-07-31T14:17:49.484Z",
         "sentimiento": "neutro"
       }
     ]
