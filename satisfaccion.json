@@ -49472,11 +49472,11 @@
     "celular": "+54 9 3816 600-479",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Ahora estamos juntando todo para la foto, son papeles en su mayoria, el inconveniente principal es que estamos en 9 de julio 1ra cuadra y no tenemos contenedor cerca. Me comunico desde el Museo Timoteo Navarro. Al estar en obra estamos haciendo limpieza, asi que probablemente me comunique mas seguido.",
+    "sentimiento": "negativo",
+    "ultimoMensaje": "tambien hay escombros",
     "mensaje": "Buenos días! Me comunico para coordinar la recolección de residuo",
     "fecha": "2026-07-31T13:44:51.350Z",
-    "ultimaActualizacion": "2026-07-31T14:17:42.225Z",
+    "ultimaActualizacion": "2026-07-31T14:20:16.354Z",
     "historialMensajes": [
       {
         "texto": "Buenos días! Me comunico para coordinar la recolección de residuo",
@@ -49492,6 +49492,11 @@
         "texto": "Ahora estamos juntando todo para la foto, son papeles en su mayoria, el inconveniente principal es que estamos en 9 de julio 1ra cuadra y no tenemos contenedor cerca. Me comunico desde el Museo Timote",
         "fecha": "2026-07-31T14:17:42.225Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "tambien hay escombros",
+        "fecha": "2026-07-31T14:20:16.354Z",
+        "sentimiento": "negativo"
       }
     ]
   },
