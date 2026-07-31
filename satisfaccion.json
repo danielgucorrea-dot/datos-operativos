@@ -50112,5 +50112,28 @@
         "sentimiento": "neutro"
       }
     ]
+  },
+  {
+    "numero": "3805441699856",
+    "celular": "+54 9 3815 535-684",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Buenas tardes",
+    "mensaje": "Buenas tardes",
+    "fecha": "2026-07-31T20:35:55.525Z",
+    "ultimaActualizacion": "2026-07-31T20:35:58.334Z",
+    "historialMensajes": [
+      {
+        "texto": "Buenas tardes",
+        "fecha": "2026-07-31T20:35:55.525Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Buenas tardes",
+        "fecha": "2026-07-31T20:35:58.334Z",
+        "sentimiento": "neutro"
+      }
+    ]
   }
 ]
