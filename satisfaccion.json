@@ -49126,11 +49126,11 @@
     "celular": "+54 9 3814 685-001",
     "nombre": "",
     "direccion": "Suipacha 1943",
-    "sentimiento": "neutro",
-    "ultimoMensaje": "20 bolsa de rreciduo de pasto hojas y de lo que voy juntando porque el recoleccion no lo lleva porque dice que es parte de espacio verde y poda",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Usted me puede decir dia y hora que pueden pasar a retirar asi yo saco las bolsas afuera por favor",
     "mensaje": "Hola buen día",
     "fecha": "2026-07-31T11:59:14.335Z",
-    "ultimaActualizacion": "2026-07-31T13:23:34.138Z",
+    "ultimaActualizacion": "2026-07-31T13:25:11.678Z",
     "historialMensajes": [
       {
         "texto": "Hola buen día",
@@ -49146,6 +49146,11 @@
         "texto": "20 bolsa de rreciduo de pasto hojas y de lo que voy juntando porque el recoleccion no lo lleva porque dice que es parte de espacio verde y poda",
         "fecha": "2026-07-31T13:23:34.138Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Usted me puede decir dia y hora que pueden pasar a retirar asi yo saco las bolsas afuera por favor",
+        "fecha": "2026-07-31T13:25:11.678Z",
+        "sentimiento": "positivo"
       }
     ]
   },
