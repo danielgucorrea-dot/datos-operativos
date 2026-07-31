@@ -49387,10 +49387,10 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "neutro",
-    "ultimoMensaje": "Quisiera solicitar",
+    "ultimoMensaje": "El retiro de residuos",
     "mensaje": "Buenos días",
     "fecha": "2026-07-31T13:27:13.871Z",
-    "ultimaActualizacion": "2026-07-31T14:11:36.084Z",
+    "ultimaActualizacion": "2026-07-31T14:11:50.090Z",
     "historialMensajes": [
       {
         "texto": "Buenos días",
@@ -49405,6 +49405,11 @@
       {
         "texto": "Quisiera solicitar",
         "fecha": "2026-07-31T14:11:36.084Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "El retiro de residuos",
+        "fecha": "2026-07-31T14:11:50.090Z",
         "sentimiento": "neutro"
       }
     ]
