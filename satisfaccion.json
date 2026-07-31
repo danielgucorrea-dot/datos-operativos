@@ -48549,16 +48549,21 @@
     "celular": "+54 9 3814 478-106",
     "nombre": "",
     "direccion": "Pasaje fray Cayetano Rodríguez 263",
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Pasaje fray Cayetano Rodríguez 263 altura Mendoza al 3600",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Ok muchas gracias",
     "mensaje": "Pasaje fray Cayetano Rodríguez 263 altura Mendoza al 3600",
     "fecha": "2026-07-30T16:26:01.245Z",
-    "ultimaActualizacion": "2026-07-30T16:26:01.245Z",
+    "ultimaActualizacion": "2026-07-31T12:05:06.418Z",
     "historialMensajes": [
       {
         "texto": "Pasaje fray Cayetano Rodríguez 263 altura Mendoza al 3600",
         "fecha": "2026-07-30T16:26:01.245Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Ok muchas gracias",
+        "fecha": "2026-07-31T12:05:06.418Z",
+        "sentimiento": "positivo"
       }
     ]
   },
