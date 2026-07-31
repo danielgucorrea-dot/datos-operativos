@@ -50234,5 +50234,23 @@
         "sentimiento": "positivo"
       }
     ]
+  },
+  {
+    "numero": "15148483887282",
+    "celular": "+54 9 3816 354-144",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Buenas tardes, muchas gracias por",
+    "mensaje": "Buenas tardes, muchas gracias por",
+    "fecha": "2026-07-31T22:21:15.941Z",
+    "ultimaActualizacion": "2026-07-31T22:21:15.941Z",
+    "historialMensajes": [
+      {
+        "texto": "Buenas tardes, muchas gracias por",
+        "fecha": "2026-07-31T22:21:15.941Z",
+        "sentimiento": "positivo"
+      }
+    ]
   }
 ]
