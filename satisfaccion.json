@@ -48944,11 +48944,11 @@
     "celular": "+54 9 3815 302-555",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "negativo",
-    "ultimoMensaje": "Otra cosa \nEl árbol de mi vereda está súper incómodo hacia un costado donde tiene una rama enorme \nTampoco se me permite cortarlo\nTengo que esperar que se caiga\nNadie viene a ver",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Si lo entiendo \nMil disculpas",
     "mensaje": "Buenas tardes necesito sacar bolsas con escombro de mi casa\nCómo hago",
     "fecha": "2026-07-30T20:36:34.938Z",
-    "ultimaActualizacion": "2026-07-31T14:29:49.039Z",
+    "ultimaActualizacion": "2026-07-31T14:39:16.461Z",
     "historialMensajes": [
       {
         "texto": "Buenas tardes necesito sacar bolsas con escombro de mi casa\nCómo hago",
@@ -48979,6 +48979,16 @@
         "texto": "Otra cosa \nEl árbol de mi vereda está súper incómodo hacia un costado donde tiene una rama enorme \nTampoco se me permite cortarlo\nTengo que esperar que se caiga\nNadie viene a ver",
         "fecha": "2026-07-31T14:29:49.039Z",
         "sentimiento": "negativo"
+      },
+      {
+        "texto": "Demasiadas ordenanzas y burocracia que restan\nMuchas gracias \nDejaré que se caiga el árbol \nA ese número ya hice varios reclamos",
+        "fecha": "2026-07-31T14:36:37.134Z",
+        "sentimiento": "negativo"
+      },
+      {
+        "texto": "Si lo entiendo \nMil disculpas",
+        "fecha": "2026-07-31T14:39:16.461Z",
+        "sentimiento": "neutro"
       }
     ]
   },
