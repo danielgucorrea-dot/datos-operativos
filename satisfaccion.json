@@ -49094,11 +49094,11 @@
     "celular": "+54 9 3816 343-068",
     "nombre": "",
     "direccion": "bolivar al 3300",
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Le comentaba que vivo sola y el albañil tiro jna pared y sacl los escombros a la vereda, ya envio una foto",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Que dia vienen ustedes voy a hacer sacar a la calle",
     "mensaje": "Hola",
     "fecha": "2026-07-30T23:10:13.942Z",
-    "ultimaActualizacion": "2026-07-31T13:57:09.850Z",
+    "ultimaActualizacion": "2026-07-31T14:57:31.460Z",
     "historialMensajes": [
       {
         "texto": "Hola",
@@ -49119,6 +49119,16 @@
         "texto": "Le comentaba que vivo sola y el albañil tiro jna pared y sacl los escombros a la vereda, ya envio una foto",
         "fecha": "2026-07-31T13:57:09.850Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Siii",
+        "fecha": "2026-07-31T14:56:58.332Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Que dia vienen ustedes voy a hacer sacar a la calle",
+        "fecha": "2026-07-31T14:57:31.460Z",
+        "sentimiento": "positivo"
       }
     ]
   },
