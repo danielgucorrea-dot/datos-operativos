@@ -37651,7 +37651,7 @@
     "celular": "+54 9 3815 804-716",
     "nombre": "",
     "direccion": "Mariano Moreno 827",
-    "sentimiento": "neutro",
+    "sentimiento": "positivo",
     "evidencia_clasificacion": [],
     "canal": "WhatsApp Ambiente",
     "fecha": "2026-04-09",
@@ -37665,8 +37665,8 @@
       "Ok muchas gracias",
       "Mariano Moreno 827 planta alta"
     ],
-    "ultimaActualizacion": "2026-07-31T13:12:09.571Z",
-    "ultimoMensaje": "Muy bien. Como continua el proceso?",
+    "ultimaActualizacion": "2026-07-31T13:17:42.719Z",
+    "ultimoMensaje": "Esta bien,lo importante es q ya se cargo. No estoy en obras, quizás intentaron pedir tmb .",
     "historialMensajes": [
       {
         "texto": "Buenos días, quisiera que pasaran a retirar unos escombros",
@@ -37702,6 +37702,11 @@
         "texto": "Muy bien. Como continua el proceso?",
         "fecha": "2026-07-31T13:12:09.571Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Esta bien,lo importante es q ya se cargo. No estoy en obras, quizás intentaron pedir tmb .",
+        "fecha": "2026-07-31T13:17:42.719Z",
+        "sentimiento": "positivo"
       }
     ]
   },
@@ -49208,4 +49213,4 @@
       }
     ]
   }
-]                                                                                                                                                                                 
+]
