@@ -42624,16 +42624,11 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "neutro",
-    "ultimoMensaje": "igual pasamelo por favor",
+    "ultimoMensaje": "asi es",
     "mensaje": "buen dia",
     "fecha": "2026-07-13T12:35:57.936Z",
-    "ultimaActualizacion": "2026-07-29T15:25:46.929Z",
+    "ultimaActualizacion": "2026-07-31T11:42:00.903Z",
     "historialMensajes": [
-      {
-        "texto": "ya le paso a clarita",
-        "fecha": "2026-07-28T15:38:39.432Z",
-        "sentimiento": "neutro"
-      },
       {
         "texto": "q te pase la direccion exacta de el para q vayan los chicos a hablar con el por favor",
         "fecha": "2026-07-28T15:51:58.743Z",
@@ -42677,6 +42672,11 @@
       {
         "texto": "igual pasamelo por favor",
         "fecha": "2026-07-29T15:25:46.929Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "asi es",
+        "fecha": "2026-07-31T11:42:00.903Z",
         "sentimiento": "neutro"
       }
     ]
