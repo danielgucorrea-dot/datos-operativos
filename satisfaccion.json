@@ -50183,5 +50183,23 @@
         "sentimiento": "neutro"
       }
     ]
+  },
+  {
+    "numero": "159463696810214",
+    "celular": "+54 9 3816 329-005",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "¡Hola! Gracias por comunicarte. Soy Estela. \n\nPara poder ayudarte más rápido, por favor dejame tu nombre y contame si tu consulta es por:\n\n🧠 Bio Foco (Cuentos, Mentorías o Talleres).\n🚌 Salidas Educativas (Presupuestos o Carpetas).\n📄 Pagos o comprobantes.\n\nEn un ratito te respondo personalmente. ¡Muchas gracias!",
+    "mensaje": "¡Hola! Gracias por comunicarte. Soy Estela. \n\nPara poder ayudarte más rápido, por favor dejame tu nombre y contame si tu consulta es por:\n\n🧠 Bio Foco (Cuentos, Mentorías o Talleres).\n🚌 Salidas Educativas (Presupuestos o Carpetas).\n📄 Pagos o comprobantes.\n\nEn un ratito te respondo personalmente. ¡Muchas gracias!",
+    "fecha": "2026-07-31T22:17:03.305Z",
+    "ultimaActualizacion": "2026-07-31T22:17:03.305Z",
+    "historialMensajes": [
+      {
+        "texto": "¡Hola! Gracias por comunicarte. Soy Estela. \n\nPara poder ayudarte más rápido, por favor dejame tu nombre y contame si tu consulta es por:\n\n🧠 Bio Foco (Cuentos, Mentorías o Talleres).\n🚌 Salidas Educa",
+        "fecha": "2026-07-31T22:17:03.305Z",
+        "sentimiento": "neutro"
+      }
+    ]
   }
 ]
