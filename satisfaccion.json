@@ -12006,7 +12006,7 @@
     "celular": "+54 9 3815 301-380",
     "nombre": "",
     "direccion": "Pasaje Roberto Koch 261",
-    "sentimiento": "negativo",
+    "sentimiento": "neutro",
     "evidencia_clasificacion": [],
     "canal": "WhatsApp Ambiente",
     "fecha": "2026-06-11",
@@ -12015,8 +12015,8 @@
       "Pasaje Roberto Koch 261. Altura Brigido Teran al 800",
       "Buenas tardes"
     ],
-    "ultimaActualizacion": "2026-07-31T14:10:37.365Z",
-    "ultimoMensaje": "Me cobran para hacerlo.",
+    "ultimaActualizacion": "2026-07-31T14:59:52.718Z",
+    "ultimoMensaje": "Ustedes podrían buscarlos",
     "historialMensajes": [
       {
         "texto": "Buenos.dias",
@@ -12047,6 +12047,11 @@
         "texto": "Me cobran para hacerlo.",
         "fecha": "2026-07-31T14:10:37.365Z",
         "sentimiento": "negativo"
+      },
+      {
+        "texto": "Ustedes podrían buscarlos",
+        "fecha": "2026-07-31T14:59:52.718Z",
+        "sentimiento": "neutro"
       }
     ]
   },
@@ -49662,6 +49667,24 @@
         "texto": "🌱 ¡Hola Julieta! Nos encantaría que formes parte de nuestro grupo de WhatsApp de los docentes que inscribieron alumnos a las Olimpiadas Ambientales. ♻️💚\nSerá el canal oficial donde compartiremos tod",
         "fecha": "2026-07-31T14:45:31.165Z",
         "sentimiento": "positivo"
+      }
+    ]
+  },
+  {
+    "numero": "196198434652234",
+    "celular": "+54 9 3816 320-626",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Buen dia",
+    "mensaje": "Buen dia",
+    "fecha": "2026-07-31T14:59:59.732Z",
+    "ultimaActualizacion": "2026-07-31T14:59:59.732Z",
+    "historialMensajes": [
+      {
+        "texto": "Buen dia",
+        "fecha": "2026-07-31T14:59:59.732Z",
+        "sentimiento": "neutro"
       }
     ]
   }
