@@ -49396,10 +49396,10 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "neutro",
-    "ultimoMensaje": "Hola buenos dias",
+    "ultimoMensaje": "Quiero consultar por la poda de unos árboles si es posible",
     "mensaje": "Hola buenos dias",
     "fecha": "2026-07-31T13:49:28.621Z",
-    "ultimaActualizacion": "2026-07-31T13:49:30.518Z",
+    "ultimaActualizacion": "2026-07-31T13:50:21.725Z",
     "historialMensajes": [
       {
         "texto": "Hola buenos dias",
@@ -49409,6 +49409,11 @@
       {
         "texto": "Hola buenos dias",
         "fecha": "2026-07-31T13:49:30.518Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Quiero consultar por la poda de unos árboles si es posible",
+        "fecha": "2026-07-31T13:50:21.725Z",
         "sentimiento": "neutro"
       }
     ]
