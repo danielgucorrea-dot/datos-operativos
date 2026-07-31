@@ -35640,7 +35640,7 @@
     "celular": "+54 9 3814 175-599",
     "nombre": "",
     "direccion": "Pje Juan padros 746",
-    "sentimiento": "neutro",
+    "sentimiento": "positivo",
     "evidencia_clasificacion": [],
     "canal": "WhatsApp Ambiente",
     "fecha": "2026-04-15",
@@ -35654,7 +35654,15 @@
       "Pje Juan padros 746 (entre Ayacucho y Chacabuco al 2500)",
       "Hola Buen día! Me comunico para solicitar el retiro de residuos no habituales. Son bolsas con pasto"
     ],
-    "ultimaActualizacion": "2026-04-15"
+    "ultimaActualizacion": "2026-07-31T14:23:43.124Z",
+    "ultimoMensaje": "Hola buenos días me comunico para solicitar el retiro de residuos no habituales, de pasto",
+    "historialMensajes": [
+      {
+        "texto": "Hola buenos días me comunico para solicitar el retiro de residuos no habituales, de pasto",
+        "fecha": "2026-07-31T14:23:43.124Z",
+        "sentimiento": "positivo"
+      }
+    ]
   },
   {
     "numero": "99278252994712",
