@@ -49127,10 +49127,10 @@
     "nombre": "",
     "direccion": "Suipacha 1943",
     "sentimiento": "neutro",
-    "ultimoMensaje": "Suipacha 1943 entre Venezuela y México San Miguel de tucumán capital",
+    "ultimoMensaje": "20 bolsa de rreciduo de pasto hojas y de lo que voy juntando porque el recoleccion no lo lleva porque dice que es parte de espacio verde y poda",
     "mensaje": "Hola buen día",
     "fecha": "2026-07-31T11:59:14.335Z",
-    "ultimaActualizacion": "2026-07-31T12:03:33.515Z",
+    "ultimaActualizacion": "2026-07-31T13:23:34.138Z",
     "historialMensajes": [
       {
         "texto": "Hola buen día",
@@ -49140,6 +49140,11 @@
       {
         "texto": "Suipacha 1943 entre Venezuela y México San Miguel de tucumán capital",
         "fecha": "2026-07-31T12:03:33.515Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "20 bolsa de rreciduo de pasto hojas y de lo que voy juntando porque el recoleccion no lo lleva porque dice que es parte de espacio verde y poda",
+        "fecha": "2026-07-31T13:23:34.138Z",
         "sentimiento": "neutro"
       }
     ]
