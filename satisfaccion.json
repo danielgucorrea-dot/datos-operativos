@@ -49735,5 +49735,23 @@
         "sentimiento": "neutro"
       }
     ]
+  },
+  {
+    "numero": "218979008266307",
+    "celular": "+54 9 3816 069-950",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Interno apagado, si circulo hoy 253 servicio 7",
+    "mensaje": "Interno apagado, si circulo hoy 253 servicio 7",
+    "fecha": "2026-07-31T15:26:07.011Z",
+    "ultimaActualizacion": "2026-07-31T15:26:07.011Z",
+    "historialMensajes": [
+      {
+        "texto": "Interno apagado, si circulo hoy 253 servicio 7",
+        "fecha": "2026-07-31T15:26:07.011Z",
+        "sentimiento": "neutro"
+      }
+    ]
   }
 ]
