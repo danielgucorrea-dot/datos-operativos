@@ -47914,11 +47914,11 @@
     "celular": "+54 9 3815 144-835",
     "nombre": "",
     "direccion": "Pasaje Roma 173",
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Bueno",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Ya lo han retirado",
     "mensaje": "Buenos dias",
     "fecha": "2026-07-29T13:50:28.926Z",
-    "ultimaActualizacion": "2026-07-29T14:46:36.068Z",
+    "ultimaActualizacion": "2026-07-31T19:47:03.279Z",
     "historialMensajes": [
       {
         "texto": "Buenos dias",
@@ -47949,6 +47949,16 @@
         "texto": "Bueno",
         "fecha": "2026-07-29T14:46:36.068Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Gracias",
+        "fecha": "2026-07-31T19:47:00.172Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Ya lo han retirado",
+        "fecha": "2026-07-31T19:47:03.279Z",
+        "sentimiento": "positivo"
       }
     ]
   },
