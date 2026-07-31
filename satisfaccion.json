@@ -37665,8 +37665,8 @@
       "Ok muchas gracias",
       "Mariano Moreno 827 planta alta"
     ],
-    "ultimaActualizacion": "2026-07-31T13:17:42.719Z",
-    "ultimoMensaje": "Esta bien,lo importante es q ya se cargo. No estoy en obras, quizás intentaron pedir tmb .",
+    "ultimaActualizacion": "2026-07-31T13:17:52.817Z",
+    "ultimoMensaje": "Muchas gracias por la atención",
     "historialMensajes": [
       {
         "texto": "Buenos días, quisiera que pasaran a retirar unos escombros",
@@ -37706,6 +37706,11 @@
       {
         "texto": "Esta bien,lo importante es q ya se cargo. No estoy en obras, quizás intentaron pedir tmb .",
         "fecha": "2026-07-31T13:17:42.719Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Muchas gracias por la atención",
+        "fecha": "2026-07-31T13:17:52.817Z",
         "sentimiento": "positivo"
       }
     ]
