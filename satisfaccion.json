@@ -15355,8 +15355,8 @@
       "Nesecito saber cuales serian los Residuos No habituales para el retiro por favor",
       "Buen día"
     ],
-    "ultimaActualizacion": "2026-07-31T13:09:03.135Z",
-    "ultimoMensaje": "Gracias",
+    "ultimaActualizacion": "2026-07-31T17:14:49.394Z",
+    "ultimoMensaje": "Perdon es para cancelar lo pedido.ya me sacaron toda la basura .gracias",
     "historialMensajes": [
       {
         "texto": "Buen dia",
@@ -15396,6 +15396,11 @@
       {
         "texto": "Gracias",
         "fecha": "2026-07-31T13:09:03.135Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Perdon es para cancelar lo pedido.ya me sacaron toda la basura .gracias",
+        "fecha": "2026-07-31T17:14:49.394Z",
         "sentimiento": "positivo"
       }
     ]
