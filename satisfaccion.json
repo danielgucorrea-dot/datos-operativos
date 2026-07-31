@@ -50142,10 +50142,10 @@
     "nombre": "",
     "direccion": "Lucio V Mansilla 541",
     "sentimiento": "neutro",
-    "ultimoMensaje": "Lucio V Mansilla 541",
+    "ultimoMensaje": "Entre Santiago y Corrientes 4400",
     "mensaje": "Buenas tardes",
     "fecha": "2026-07-31T20:44:59.935Z",
-    "ultimaActualizacion": "2026-07-31T20:46:35.809Z",
+    "ultimaActualizacion": "2026-07-31T20:46:47.742Z",
     "historialMensajes": [
       {
         "texto": "Buenas tardes",
@@ -50155,6 +50155,11 @@
       {
         "texto": "Lucio V Mansilla 541",
         "fecha": "2026-07-31T20:46:35.809Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Entre Santiago y Corrientes 4400",
+        "fecha": "2026-07-31T20:46:47.742Z",
         "sentimiento": "neutro"
       }
     ]
