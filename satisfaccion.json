@@ -49224,17 +49224,12 @@
     "celular": "+54 9 3814 685-001",
     "nombre": "",
     "direccion": "Suipacha 1943",
-    "sentimiento": "positivo",
-    "ultimoMensaje": "Cuando podrian venir a buscar las que quedan",
+    "sentimiento": "negativo",
+    "ultimoMensaje": "Porque es basura de tres meses que me lleva el recoleccion",
     "mensaje": "Hola buen día",
     "fecha": "2026-07-31T11:59:14.335Z",
-    "ultimaActualizacion": "2026-07-31T14:06:25.575Z",
+    "ultimaActualizacion": "2026-07-31T14:12:12.220Z",
     "historialMensajes": [
-      {
-        "texto": "Suipacha 1943 entre Venezuela y México San Miguel de tucumán capital",
-        "fecha": "2026-07-31T12:03:33.515Z",
-        "sentimiento": "neutro"
-      },
       {
         "texto": "20 bolsa de rreciduo de pasto hojas y de lo que voy juntando porque el recoleccion no lo lleva porque dice que es parte de espacio verde y poda",
         "fecha": "2026-07-31T13:23:34.138Z",
@@ -49279,6 +49274,11 @@
         "texto": "Cuando podrian venir a buscar las que quedan",
         "fecha": "2026-07-31T14:06:25.575Z",
         "sentimiento": "positivo"
+      },
+      {
+        "texto": "Porque es basura de tres meses que me lleva el recoleccion",
+        "fecha": "2026-07-31T14:12:12.220Z",
+        "sentimiento": "negativo"
       }
     ]
   },
