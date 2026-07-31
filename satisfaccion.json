@@ -15229,8 +15229,8 @@
       "Nesecito saber cuales serian los Residuos No habituales para el retiro por favor",
       "Buen día"
     ],
-    "ultimaActualizacion": "2026-07-31T12:59:09.191Z",
-    "ultimoMensaje": "Son 7 bolsas con tarros de leche y basura .un poco de madera .y esos cañitos",
+    "ultimaActualizacion": "2026-07-31T13:01:12.018Z",
+    "ultimoMensaje": "Por favor nesecito sacar esto cuanto antes .soy paciente con cáncer y pronto me operan y volver a casa .esto me hace mucha junta de mosquitos .por favor",
     "historialMensajes": [
       {
         "texto": "Buen dia",
@@ -15250,6 +15250,11 @@
       {
         "texto": "Son 7 bolsas con tarros de leche y basura .un poco de madera .y esos cañitos",
         "fecha": "2026-07-31T12:59:09.191Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Por favor nesecito sacar esto cuanto antes .soy paciente con cáncer y pronto me operan y volver a casa .esto me hace mucha junta de mosquitos .por favor",
+        "fecha": "2026-07-31T13:01:12.018Z",
         "sentimiento": "positivo"
       }
     ]
@@ -48897,12 +48902,12 @@
     "numero": "102835073118314",
     "celular": "+54 9 3816 343-068",
     "nombre": "",
-    "direccion": null,
+    "direccion": "bolivar al 3300",
     "sentimiento": "neutro",
-    "ultimoMensaje": "Hola",
+    "ultimoMensaje": "Buen dia me dio una vecina su contacto es para sacar unos escombro yo vivo en bolivar al 3300 esta en la vereda ya le sacare la foto y le mando",
     "mensaje": "Hola",
     "fecha": "2026-07-30T23:10:13.942Z",
-    "ultimaActualizacion": "2026-07-30T23:10:15.265Z",
+    "ultimaActualizacion": "2026-07-31T13:02:48.600Z",
     "historialMensajes": [
       {
         "texto": "Hola",
@@ -48912,6 +48917,11 @@
       {
         "texto": "Hola",
         "fecha": "2026-07-30T23:10:15.265Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Buen dia me dio una vecina su contacto es para sacar unos escombro yo vivo en bolivar al 3300 esta en la vereda ya le sacare la foto y le mando",
+        "fecha": "2026-07-31T13:02:48.600Z",
         "sentimiento": "neutro"
       }
     ]
