@@ -301,10 +301,10 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "neutro",
-    "ultimoMensaje": "!invitar_test",
+    "ultimoMensaje": "!invitar_docentes CONFIRMAR",
     "mensaje": "Hola",
     "fecha": "2026-07-06T18:02:30.845Z",
-    "ultimaActualizacion": "2026-07-31T13:41:39.888Z",
+    "ultimaActualizacion": "2026-07-31T22:14:31.770Z",
     "historialMensajes": [
       {
         "texto": "Hola",
@@ -339,6 +339,16 @@
       {
         "texto": "!invitar_test",
         "fecha": "2026-07-31T13:41:39.888Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "!invitar_docentes",
+        "fecha": "2026-07-31T22:14:25.199Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "!invitar_docentes CONFIRMAR",
+        "fecha": "2026-07-31T22:14:31.770Z",
         "sentimiento": "neutro"
       }
     ]
