@@ -48990,16 +48990,21 @@
     "numero": "191776228941989",
     "celular": "+54 9 3814 685-001",
     "nombre": "",
-    "direccion": null,
+    "direccion": "Suipacha 1943",
     "sentimiento": "neutro",
-    "ultimoMensaje": "Hola buen día",
+    "ultimoMensaje": "Suipacha 1943 entre Venezuela y México San Miguel de tucumán capital",
     "mensaje": "Hola buen día",
     "fecha": "2026-07-31T11:59:14.335Z",
-    "ultimaActualizacion": "2026-07-31T11:59:14.335Z",
+    "ultimaActualizacion": "2026-07-31T12:03:33.515Z",
     "historialMensajes": [
       {
         "texto": "Hola buen día",
         "fecha": "2026-07-31T11:59:14.335Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Suipacha 1943 entre Venezuela y México San Miguel de tucumán capital",
+        "fecha": "2026-07-31T12:03:33.515Z",
         "sentimiento": "neutro"
       }
     ]
