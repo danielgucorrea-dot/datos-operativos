@@ -49975,5 +49975,38 @@
         "sentimiento": "neutro"
       }
     ]
+  },
+  {
+    "numero": "226817373945961",
+    "celular": "+54 9 3816 664-633",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Para retiro de escombro",
+    "mensaje": "Buenas",
+    "fecha": "2026-07-31T17:20:29.514Z",
+    "ultimaActualizacion": "2026-07-31T17:21:12.665Z",
+    "historialMensajes": [
+      {
+        "texto": "Buenas",
+        "fecha": "2026-07-31T17:20:29.514Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Para hacer un reclamo",
+        "fecha": "2026-07-31T17:20:31.871Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Buenas",
+        "fecha": "2026-07-31T17:20:33.402Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Para retiro de escombro",
+        "fecha": "2026-07-31T17:21:12.665Z",
+        "sentimiento": "neutro"
+      }
+    ]
   }
 ]
