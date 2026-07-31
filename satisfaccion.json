@@ -48672,16 +48672,21 @@
     "celular": "+54 9 3816 238-926",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Esas cosas necesitaría que buscaran si se puede",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Buen día son maderas de machimbre y dos muebles",
     "mensaje": "Esas cosas necesitaría que buscaran si se puede",
     "fecha": "2026-07-30T17:58:27.904Z",
-    "ultimaActualizacion": "2026-07-30T17:58:27.904Z",
+    "ultimaActualizacion": "2026-07-31T11:56:16.923Z",
     "historialMensajes": [
       {
         "texto": "Esas cosas necesitaría que buscaran si se puede",
         "fecha": "2026-07-30T17:58:27.904Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Buen día son maderas de machimbre y dos muebles",
+        "fecha": "2026-07-31T11:56:16.923Z",
+        "sentimiento": "positivo"
       }
     ]
   },
@@ -48973,6 +48978,24 @@
         "texto": "Muchas gracias",
         "fecha": "2026-07-31T11:48:53.995Z",
         "sentimiento": "positivo"
+      }
+    ]
+  },
+  {
+    "numero": "191776228941989",
+    "celular": "+54 9 3814 685-001",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Hola buen día",
+    "mensaje": "Hola buen día",
+    "fecha": "2026-07-31T11:59:14.335Z",
+    "ultimaActualizacion": "2026-07-31T11:59:14.335Z",
+    "historialMensajes": [
+      {
+        "texto": "Hola buen día",
+        "fecha": "2026-07-31T11:59:14.335Z",
+        "sentimiento": "neutro"
       }
     ]
   }
