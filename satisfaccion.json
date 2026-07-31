@@ -49855,11 +49855,11 @@
     "celular": "+54 9 3813 512-256",
     "nombre": "",
     "direccion": "Rondeau 875",
-    "sentimiento": "positivo",
-    "ultimoMensaje": "Y puedo llevarlas yo ahi?",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Lo q preg si puedo dejarlas ahi",
     "mensaje": "Hola. Buenas tardes",
     "fecha": "2026-07-31T15:44:26.752Z",
-    "ultimaActualizacion": "2026-07-31T15:48:16.858Z",
+    "ultimaActualizacion": "2026-07-31T15:49:04.291Z",
     "historialMensajes": [
       {
         "texto": "Hola. Buenas tardes",
@@ -49895,6 +49895,16 @@
         "texto": "Y puedo llevarlas yo ahi?",
         "fecha": "2026-07-31T15:48:16.858Z",
         "sentimiento": "positivo"
+      },
+      {
+        "texto": "Si si",
+        "fecha": "2026-07-31T15:48:58.182Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Lo q preg si puedo dejarlas ahi",
+        "fecha": "2026-07-31T15:49:04.291Z",
+        "sentimiento": "neutro"
       }
     ]
   }
