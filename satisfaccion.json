@@ -49758,5 +49758,23 @@
         "sentimiento": "neutro"
       }
     ]
+  },
+  {
+    "numero": "176901263999102",
+    "celular": "+54 9 3814 061-838",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Buen día.Quisiera saber si es con este número que me tengo que comunicar para que me retiren las ramas de poda de mi árbol de mi vereda.",
+    "mensaje": "Buen día.Quisiera saber si es con este número que me tengo que comunicar para que me retiren las ramas de poda de mi árbol de mi vereda.",
+    "fecha": "2026-07-31T15:28:08.033Z",
+    "ultimaActualizacion": "2026-07-31T15:28:08.033Z",
+    "historialMensajes": [
+      {
+        "texto": "Buen día.Quisiera saber si es con este número que me tengo que comunicar para que me retiren las ramas de poda de mi árbol de mi vereda.",
+        "fecha": "2026-07-31T15:28:08.033Z",
+        "sentimiento": "neutro"
+      }
+    ]
   }
 ]
