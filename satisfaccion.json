@@ -49125,11 +49125,11 @@
     "celular": "+54 9 3814 462-869",
     "nombre": "",
     "direccion": "Pje vieytes 1700",
-    "sentimiento": "negativo",
-    "ultimoMensaje": "Noooo vengan y vean la realidad",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Nada de adjuntar fotos",
     "mensaje": "Buen dia",
     "fecha": "2026-07-31T11:10:34.714Z",
-    "ultimaActualizacion": "2026-07-31T14:10:01.224Z",
+    "ultimaActualizacion": "2026-07-31T14:10:08.040Z",
     "historialMensajes": [
       {
         "texto": "Buen dia",
@@ -49160,6 +49160,11 @@
         "texto": "Noooo vengan y vean la realidad",
         "fecha": "2026-07-31T14:10:01.224Z",
         "sentimiento": "negativo"
+      },
+      {
+        "texto": "Nada de adjuntar fotos",
+        "fecha": "2026-07-31T14:10:08.040Z",
+        "sentimiento": "neutro"
       }
     ]
   },
