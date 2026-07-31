@@ -49822,11 +49822,11 @@
     "celular": "+54 9 3813 512-256",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Hola. Buenas tardes",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Quisiera solicitar el retiro de escombros de mi domicilio",
     "mensaje": "Hola. Buenas tardes",
     "fecha": "2026-07-31T15:44:26.752Z",
-    "ultimaActualizacion": "2026-07-31T15:44:29.433Z",
+    "ultimaActualizacion": "2026-07-31T15:44:44.191Z",
     "historialMensajes": [
       {
         "texto": "Hola. Buenas tardes",
@@ -49837,6 +49837,11 @@
         "texto": "Hola. Buenas tardes",
         "fecha": "2026-07-31T15:44:29.433Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Quisiera solicitar el retiro de escombros de mi domicilio",
+        "fecha": "2026-07-31T15:44:44.191Z",
+        "sentimiento": "positivo"
       }
     ]
   }
