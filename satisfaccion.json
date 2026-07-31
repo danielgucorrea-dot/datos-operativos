@@ -37766,19 +37766,9 @@
       "Ok muchas gracias",
       "Mariano Moreno 827 planta alta"
     ],
-    "ultimaActualizacion": "2026-07-31T15:01:28.235Z",
-    "ultimoMensaje": "Quizás se equivocaron",
+    "ultimaActualizacion": "2026-07-31T15:02:57.131Z",
+    "ultimoMensaje": "Xq entiendo q fue un error y puede pasar pero no lo cometí yo",
     "historialMensajes": [
-      {
-        "texto": "Es una casa con planta alta y planta baja",
-        "fecha": "2026-07-31T13:09:38.517Z",
-        "sentimiento": "neutro"
-      },
-      {
-        "texto": "Quizas dea por eso",
-        "fecha": "2026-07-31T13:09:46.168Z",
-        "sentimiento": "neutro"
-      },
       {
         "texto": "Muy bien. Como continua el proceso?",
         "fecha": "2026-07-31T13:12:09.571Z",
@@ -37817,6 +37807,16 @@
       {
         "texto": "Quizás se equivocaron",
         "fecha": "2026-07-31T15:01:28.235Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Y que solución me propones?",
+        "fecha": "2026-07-31T15:02:53.865Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Xq entiendo q fue un error y puede pasar pero no lo cometí yo",
+        "fecha": "2026-07-31T15:02:57.131Z",
         "sentimiento": "neutro"
       }
     ]
@@ -49640,10 +49640,10 @@
     "nombre": "",
     "direccion": "Chacabuco 1449",
     "sentimiento": "neutro",
-    "ultimoMensaje": "Como seria",
+    "ultimoMensaje": "Es madera . 2 impresoras  . Y 2 chapas chicas",
     "mensaje": "Chacabuco 1449",
     "fecha": "2026-07-31T13:53:31.664Z",
-    "ultimaActualizacion": "2026-07-31T15:01:24.017Z",
+    "ultimaActualizacion": "2026-07-31T15:03:34.838Z",
     "historialMensajes": [
       {
         "texto": "Chacabuco 1449",
@@ -49658,6 +49658,11 @@
       {
         "texto": "Como seria",
         "fecha": "2026-07-31T15:01:24.017Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Es madera . 2 impresoras  . Y 2 chapas chicas",
+        "fecha": "2026-07-31T15:03:34.838Z",
         "sentimiento": "neutro"
       }
     ]
