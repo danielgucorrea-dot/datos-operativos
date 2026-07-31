@@ -49141,11 +49141,11 @@
     "celular": "+54 9 3814 685-001",
     "nombre": "",
     "direccion": "Suipacha 1943",
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Tendria algun costo o solo las tengo que sacar usted digame por favor",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "https://maps.app.goo.gl/ZvQyemzGgTAAszhYA?g_st=aw",
     "mensaje": "Hola buen día",
     "fecha": "2026-07-31T11:59:14.335Z",
-    "ultimaActualizacion": "2026-07-31T13:26:26.840Z",
+    "ultimaActualizacion": "2026-07-31T13:31:10.409Z",
     "historialMensajes": [
       {
         "texto": "Hola buen día",
@@ -49171,6 +49171,11 @@
         "texto": "Tendria algun costo o solo las tengo que sacar usted digame por favor",
         "fecha": "2026-07-31T13:26:26.840Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "https://maps.app.goo.gl/ZvQyemzGgTAAszhYA?g_st=aw",
+        "fecha": "2026-07-31T13:31:10.409Z",
+        "sentimiento": "positivo"
       }
     ]
   },
