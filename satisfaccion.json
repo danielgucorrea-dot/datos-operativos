@@ -48944,11 +48944,11 @@
     "celular": "+54 9 3815 302-555",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Entiendo lo del servicio pero no puedo pagar un contenedor por diez bolsas y menos en avenida porque no se permite",
+    "sentimiento": "negativo",
+    "ultimoMensaje": "Otra cosa \nEl árbol de mi vereda está súper incómodo hacia un costado donde tiene una rama enorme \nTampoco se me permite cortarlo\nTengo que esperar que se caiga\nNadie viene a ver",
     "mensaje": "Buenas tardes necesito sacar bolsas con escombro de mi casa\nCómo hago",
     "fecha": "2026-07-30T20:36:34.938Z",
-    "ultimaActualizacion": "2026-07-31T14:28:14.650Z",
+    "ultimaActualizacion": "2026-07-31T14:29:49.039Z",
     "historialMensajes": [
       {
         "texto": "Buenas tardes necesito sacar bolsas con escombro de mi casa\nCómo hago",
@@ -48974,6 +48974,11 @@
         "texto": "Entiendo lo del servicio pero no puedo pagar un contenedor por diez bolsas y menos en avenida porque no se permite",
         "fecha": "2026-07-31T14:28:14.650Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Otra cosa \nEl árbol de mi vereda está súper incómodo hacia un costado donde tiene una rama enorme \nTampoco se me permite cortarlo\nTengo que esperar que se caiga\nNadie viene a ver",
+        "fecha": "2026-07-31T14:29:49.039Z",
+        "sentimiento": "negativo"
       }
     ]
   },
