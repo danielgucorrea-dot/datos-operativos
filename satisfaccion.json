@@ -50089,5 +50089,28 @@
         "sentimiento": "neutro"
       }
     ]
+  },
+  {
+    "numero": "241501934243900",
+    "celular": "+54 9 3815 153-726",
+    "nombre": "",
+    "direccion": "Pje santiago 4296",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Pje santiago 4296",
+    "mensaje": "Hola buenas tardes",
+    "fecha": "2026-07-31T20:05:57.367Z",
+    "ultimaActualizacion": "2026-07-31T20:06:15.781Z",
+    "historialMensajes": [
+      {
+        "texto": "Hola buenas tardes",
+        "fecha": "2026-07-31T20:05:57.367Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Pje santiago 4296",
+        "fecha": "2026-07-31T20:06:15.781Z",
+        "sentimiento": "neutro"
+      }
+    ]
   }
 ]
