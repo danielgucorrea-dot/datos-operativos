@@ -7816,7 +7816,7 @@
     "celular": "+54 9 3816 333-341",
     "nombre": "",
     "direccion": "Pasaje Raul Galan 4075",
-    "sentimiento": "neutro",
+    "sentimiento": "positivo",
     "evidencia_clasificacion": [],
     "canal": "WhatsApp Ambiente",
     "fecha": "2026-06-22",
@@ -7829,8 +7829,8 @@
       "Lo dejaron frente a mi casa.",
       "Queria informar de esto"
     ],
-    "ultimaActualizacion": "2026-07-28T15:25:59.637Z",
-    "ultimoMensaje": "Muchas gracias por su respuesta",
+    "ultimaActualizacion": "2026-07-31T17:47:22.474Z",
+    "ultimoMensaje": "Buenas tardes. Quería informar que Joy pase por el basural por el cual reclame. Ya esta limpio. Muchas gracias",
     "historialMensajes": [
       {
         "texto": "Buen dia",
@@ -7851,6 +7851,11 @@
         "texto": "Muchas gracias por su respuesta",
         "fecha": "2026-07-28T15:25:59.637Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Buenas tardes. Quería informar que Joy pase por el basural por el cual reclame. Ya esta limpio. Muchas gracias",
+        "fecha": "2026-07-31T17:47:22.474Z",
+        "sentimiento": "positivo"
       }
     ]
   },
