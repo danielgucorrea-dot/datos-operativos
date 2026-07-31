@@ -48451,11 +48451,11 @@
     "celular": "+54 9 3813 532-618",
     "nombre": "",
     "direccion": "Lamadrid 1615",
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Lamadrid 1615",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Muchas gracias",
     "mensaje": "Buendía",
     "fecha": "2026-07-30T02:24:10.509Z",
-    "ultimaActualizacion": "2026-07-31T15:33:10.705Z",
+    "ultimaActualizacion": "2026-07-31T15:53:50.745Z",
     "historialMensajes": [
       {
         "texto": "Buendía",
@@ -48481,6 +48481,11 @@
         "texto": "Lamadrid 1615",
         "fecha": "2026-07-31T15:33:10.705Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Muchas gracias",
+        "fecha": "2026-07-31T15:53:50.745Z",
+        "sentimiento": "positivo"
       }
     ]
   },
