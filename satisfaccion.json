@@ -49137,11 +49137,11 @@
     "celular": "+54 9 3816 343-068",
     "nombre": "",
     "direccion": "bolivar al 3300",
-    "sentimiento": "positivo",
-    "ultimoMensaje": "Que dia vienen ustedes voy a hacer sacar a la calle",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Bolivar 3343 entre lidoro quintero y gorriti",
     "mensaje": "Hola",
     "fecha": "2026-07-30T23:10:13.942Z",
-    "ultimaActualizacion": "2026-07-31T14:57:31.460Z",
+    "ultimaActualizacion": "2026-07-31T15:31:54.554Z",
     "historialMensajes": [
       {
         "texto": "Hola",
@@ -49172,6 +49172,11 @@
         "texto": "Que dia vienen ustedes voy a hacer sacar a la calle",
         "fecha": "2026-07-31T14:57:31.460Z",
         "sentimiento": "positivo"
+      },
+      {
+        "texto": "Bolivar 3343 entre lidoro quintero y gorriti",
+        "fecha": "2026-07-31T15:31:54.554Z",
+        "sentimiento": "neutro"
       }
     ]
   },
