@@ -37766,19 +37766,9 @@
       "Ok muchas gracias",
       "Mariano Moreno 827 planta alta"
     ],
-    "ultimaActualizacion": "2026-07-31T15:06:29.151Z",
-    "ultimoMensaje": "Corrobora bien los datos por favor, xq 2 propiedades comparten 1 misma dirección.",
+    "ultimaActualizacion": "2026-07-31T15:11:42.902Z",
+    "ultimoMensaje": "Entendi bien?",
     "historialMensajes": [
-      {
-        "texto": "Muchas gracias por la atención",
-        "fecha": "2026-07-31T13:17:52.817Z",
-        "sentimiento": "positivo"
-      },
-      {
-        "texto": "Consulte en casa y no pidieron la recolección.  Podrías decirme en q fecha te aparece ??",
-        "fecha": "2026-07-31T14:07:11.792Z",
-        "sentimiento": "negativo"
-      },
       {
         "texto": "Mande foto y son 5",
         "fecha": "2026-07-31T14:59:06.381Z",
@@ -37817,6 +37807,16 @@
       {
         "texto": "Corrobora bien los datos por favor, xq 2 propiedades comparten 1 misma dirección.",
         "fecha": "2026-07-31T15:06:29.151Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Veamos, lo q me propones es q yo la semana q viene pida nuevamente q se retire ?",
+        "fecha": "2026-07-31T15:11:40.253Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Entendi bien?",
+        "fecha": "2026-07-31T15:11:42.902Z",
         "sentimiento": "neutro"
       }
     ]
