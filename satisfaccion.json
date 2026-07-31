@@ -48497,10 +48497,10 @@
     "nombre": "",
     "direccion": "General paz 2765",
     "sentimiento": "neutro",
-    "ultimoMensaje": "Si lo ponemos",
+    "ultimoMensaje": "Bueno lo ponemos en bolsa...cuando pasarían a retirarlo??",
     "mensaje": "Hola buenas tardes...me pasaron este número..para solicitar transporte para retiro de escombro de mi domicilio....respuesta x favor",
     "fecha": "2026-07-30T16:23:57.024Z",
-    "ultimaActualizacion": "2026-07-31T11:40:05.275Z",
+    "ultimaActualizacion": "2026-07-31T11:42:22.814Z",
     "historialMensajes": [
       {
         "texto": "Hola buenas tardes...me pasaron este número..para solicitar transporte para retiro de escombro de mi domicilio....respuesta x favor",
@@ -48525,6 +48525,11 @@
       {
         "texto": "Si lo ponemos",
         "fecha": "2026-07-31T11:40:05.275Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Bueno lo ponemos en bolsa...cuando pasarían a retirarlo??",
+        "fecha": "2026-07-31T11:42:22.814Z",
         "sentimiento": "neutro"
       }
     ]
