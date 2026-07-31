@@ -11996,7 +11996,7 @@
     "celular": "+54 9 3815 301-380",
     "nombre": "",
     "direccion": "Pasaje Roberto Koch 261",
-    "sentimiento": "neutro",
+    "sentimiento": "negativo",
     "evidencia_clasificacion": [],
     "canal": "WhatsApp Ambiente",
     "fecha": "2026-06-11",
@@ -12005,8 +12005,8 @@
       "Pasaje Roberto Koch 261. Altura Brigido Teran al 800",
       "Buenas tardes"
     ],
-    "ultimaActualizacion": "2026-07-31T14:09:48.786Z",
-    "ultimoMensaje": "Tierra",
+    "ultimaActualizacion": "2026-07-31T14:10:21.810Z",
+    "ultimoMensaje": "El recolector no lleva este tipo de basura",
     "historialMensajes": [
       {
         "texto": "Buenos.dias",
@@ -12027,6 +12027,11 @@
         "texto": "Tierra",
         "fecha": "2026-07-31T14:09:48.786Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "El recolector no lleva este tipo de basura",
+        "fecha": "2026-07-31T14:10:21.810Z",
+        "sentimiento": "negativo"
       }
     ]
   },
