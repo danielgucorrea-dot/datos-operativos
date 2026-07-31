@@ -48398,11 +48398,11 @@
     "celular": "+54 9 3813 532-618",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "positivo",
-    "ultimoMensaje": "Necesitaría si pueden retirar 3 bolsas de escombros por favor",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Hola",
     "mensaje": "Buendía",
     "fecha": "2026-07-30T02:24:10.509Z",
-    "ultimaActualizacion": "2026-07-30T02:24:16.475Z",
+    "ultimaActualizacion": "2026-07-31T15:33:01.254Z",
     "historialMensajes": [
       {
         "texto": "Buendía",
@@ -48418,6 +48418,11 @@
         "texto": "Necesitaría si pueden retirar 3 bolsas de escombros por favor",
         "fecha": "2026-07-30T02:24:16.475Z",
         "sentimiento": "positivo"
+      },
+      {
+        "texto": "Hola",
+        "fecha": "2026-07-31T15:33:01.254Z",
+        "sentimiento": "neutro"
       }
     ]
   },
