@@ -48397,12 +48397,12 @@
     "numero": "200407569690673",
     "celular": "+54 9 3813 532-618",
     "nombre": "",
-    "direccion": null,
+    "direccion": "Lamadrid 1615",
     "sentimiento": "neutro",
-    "ultimoMensaje": "Hola",
+    "ultimoMensaje": "Lamadrid 1615",
     "mensaje": "Buendía",
     "fecha": "2026-07-30T02:24:10.509Z",
-    "ultimaActualizacion": "2026-07-31T15:33:01.254Z",
+    "ultimaActualizacion": "2026-07-31T15:33:10.705Z",
     "historialMensajes": [
       {
         "texto": "Buendía",
@@ -48422,6 +48422,11 @@
       {
         "texto": "Hola",
         "fecha": "2026-07-31T15:33:01.254Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Lamadrid 1615",
+        "fecha": "2026-07-31T15:33:10.705Z",
         "sentimiento": "neutro"
       }
     ]
