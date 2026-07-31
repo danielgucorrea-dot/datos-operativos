@@ -48846,11 +48846,11 @@
     "celular": "+54 9 3815 845-307",
     "nombre": "",
     "direccion": "Martin Rodríguez 466",
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Martin Rodríguez 466",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Por favor, podrían pasar a retirar las ramas del naranjo que podamos en casa",
     "mensaje": "Buenos días, cómo les va?",
     "fecha": "2026-07-31T10:07:31.092Z",
-    "ultimaActualizacion": "2026-07-31T10:07:52.260Z",
+    "ultimaActualizacion": "2026-07-31T10:08:12.299Z",
     "historialMensajes": [
       {
         "texto": "Buenos días, cómo les va?",
@@ -48861,6 +48861,11 @@
         "texto": "Martin Rodríguez 466",
         "fecha": "2026-07-31T10:07:52.260Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Por favor, podrían pasar a retirar las ramas del naranjo que podamos en casa",
+        "fecha": "2026-07-31T10:08:12.299Z",
+        "sentimiento": "positivo"
       }
     ]
   }
