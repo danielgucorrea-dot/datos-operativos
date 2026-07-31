@@ -37766,14 +37766,9 @@
       "Ok muchas gracias",
       "Mariano Moreno 827 planta alta"
     ],
-    "ultimaActualizacion": "2026-07-31T15:01:02.900Z",
-    "ultimoMensaje": "Acá esta la foto q mande",
+    "ultimaActualizacion": "2026-07-31T15:01:28.235Z",
+    "ultimoMensaje": "Quizás se equivocaron",
     "historialMensajes": [
-      {
-        "texto": "Capital",
-        "fecha": "2026-07-31T13:08:02.700Z",
-        "sentimiento": "neutro"
-      },
       {
         "texto": "Es una casa con planta alta y planta baja",
         "fecha": "2026-07-31T13:09:38.517Z",
@@ -37817,6 +37812,11 @@
       {
         "texto": "Acá esta la foto q mande",
         "fecha": "2026-07-31T15:01:02.900Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Quizás se equivocaron",
+        "fecha": "2026-07-31T15:01:28.235Z",
         "sentimiento": "neutro"
       }
     ]
