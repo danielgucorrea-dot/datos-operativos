@@ -49299,14 +49299,19 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "neutro",
-    "ultimoMensaje": "Hola buenos días!",
+    "ultimoMensaje": "https://maps.app.goo.gl/7bMu7vtQMfwNB9HC8?g_st=aw",
     "mensaje": "Hola buenos días!",
     "fecha": "2026-07-31T12:44:33.051Z",
-    "ultimaActualizacion": "2026-07-31T12:44:33.051Z",
+    "ultimaActualizacion": "2026-07-31T13:47:59.394Z",
     "historialMensajes": [
       {
         "texto": "Hola buenos días!",
         "fecha": "2026-07-31T12:44:33.051Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "https://maps.app.goo.gl/7bMu7vtQMfwNB9HC8?g_st=aw",
+        "fecha": "2026-07-31T13:47:59.394Z",
         "sentimiento": "neutro"
       }
     ]
