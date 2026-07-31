@@ -15229,8 +15229,8 @@
       "Nesecito saber cuales serian los Residuos No habituales para el retiro por favor",
       "Buen día"
     ],
-    "ultimaActualizacion": "2026-07-31T13:04:45.435Z",
-    "ultimoMensaje": "Basura serian restos de podas de una enredadera",
+    "ultimaActualizacion": "2026-07-31T13:05:44.455Z",
+    "ultimoMensaje": "Antonio perez palavecino 2600 y coronel zelaya sector c m 12 c 12 .",
     "historialMensajes": [
       {
         "texto": "Buen dia",
@@ -15260,6 +15260,11 @@
       {
         "texto": "Basura serian restos de podas de una enredadera",
         "fecha": "2026-07-31T13:04:45.435Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Antonio perez palavecino 2600 y coronel zelaya sector c m 12 c 12 .",
+        "fecha": "2026-07-31T13:05:44.455Z",
         "sentimiento": "neutro"
       }
     ]
