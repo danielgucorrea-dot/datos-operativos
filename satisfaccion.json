@@ -50117,12 +50117,12 @@
     "numero": "3805441699856",
     "celular": "+54 9 3815 535-684",
     "nombre": "",
-    "direccion": null,
+    "direccion": "Pje Zárate 1273",
     "sentimiento": "neutro",
-    "ultimoMensaje": "Buenas tardes",
+    "ultimoMensaje": "Barrio Obispo Piedrabuena",
     "mensaje": "Buenas tardes",
     "fecha": "2026-07-31T20:35:55.525Z",
-    "ultimaActualizacion": "2026-07-31T20:35:58.334Z",
+    "ultimaActualizacion": "2026-07-31T20:55:59.076Z",
     "historialMensajes": [
       {
         "texto": "Buenas tardes",
@@ -50132,6 +50132,16 @@
       {
         "texto": "Buenas tardes",
         "fecha": "2026-07-31T20:35:58.334Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Pje Zárate 1273",
+        "fecha": "2026-07-31T20:55:56.554Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Barrio Obispo Piedrabuena",
+        "fecha": "2026-07-31T20:55:59.076Z",
         "sentimiento": "neutro"
       }
     ]
