@@ -50223,10 +50223,10 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "neutro",
-    "ultimoMensaje": "Buenas tardes",
+    "ultimoMensaje": "Disculpe esto q seria ?",
     "mensaje": "Te comunicaste Con \nJESSICA TAMARA 🎶\nDime de qué manera puedo ayudarte?",
     "fecha": "2026-07-31T22:17:26.908Z",
-    "ultimaActualizacion": "2026-07-31T22:26:08.453Z",
+    "ultimaActualizacion": "2026-07-31T22:26:54.569Z",
     "historialMensajes": [
       {
         "texto": "Te comunicaste Con \nJESSICA TAMARA 🎶\nDime de qué manera puedo ayudarte?",
@@ -50236,6 +50236,16 @@
       {
         "texto": "Buenas tardes",
         "fecha": "2026-07-31T22:26:08.453Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Bendiciones",
+        "fecha": "2026-07-31T22:26:10.796Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Disculpe esto q seria ?",
+        "fecha": "2026-07-31T22:26:54.569Z",
         "sentimiento": "neutro"
       }
     ]
