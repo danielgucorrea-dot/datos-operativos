@@ -49387,10 +49387,10 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "neutro",
-    "ultimoMensaje": "Buenos días",
+    "ultimoMensaje": "Quisiera solicitar",
     "mensaje": "Buenos días",
     "fecha": "2026-07-31T13:27:13.871Z",
-    "ultimaActualizacion": "2026-07-31T13:27:15.697Z",
+    "ultimaActualizacion": "2026-07-31T14:11:36.084Z",
     "historialMensajes": [
       {
         "texto": "Buenos días",
@@ -49400,6 +49400,11 @@
       {
         "texto": "Buenos días",
         "fecha": "2026-07-31T13:27:15.697Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Quisiera solicitar",
+        "fecha": "2026-07-31T14:11:36.084Z",
         "sentimiento": "neutro"
       }
     ]
