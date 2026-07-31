@@ -49640,10 +49640,10 @@
     "nombre": "",
     "direccion": "Chacabuco 1449",
     "sentimiento": "neutro",
-    "ultimoMensaje": "Y carton",
+    "ultimoMensaje": "A partir de cuando saco las cosas usted me dice",
     "mensaje": "Chacabuco 1449",
     "fecha": "2026-07-31T13:53:31.664Z",
-    "ultimaActualizacion": "2026-07-31T15:03:49.030Z",
+    "ultimaActualizacion": "2026-07-31T15:11:05.306Z",
     "historialMensajes": [
       {
         "texto": "Chacabuco 1449",
@@ -49668,6 +49668,11 @@
       {
         "texto": "Y carton",
         "fecha": "2026-07-31T15:03:49.030Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "A partir de cuando saco las cosas usted me dice",
+        "fecha": "2026-07-31T15:11:05.306Z",
         "sentimiento": "neutro"
       }
     ]
