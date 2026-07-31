@@ -49449,11 +49449,11 @@
     "celular": "+54 9 3813 860-464",
     "nombre": "",
     "direccion": "Ayacucho 62",
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Ayacucho 62",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Si pero ya pude llevar el resto de forma particular",
     "mensaje": "Buen día , podrían enviarme el camión recolector para retirar 5 bolsas de escombro por favor ?",
     "fecha": "2026-07-31T13:41:43.835Z",
-    "ultimaActualizacion": "2026-07-31T13:41:47.306Z",
+    "ultimaActualizacion": "2026-07-31T14:22:06.305Z",
     "historialMensajes": [
       {
         "texto": "Buen día , podrían enviarme el camión recolector para retirar 5 bolsas de escombro por favor ?",
@@ -49464,6 +49464,11 @@
         "texto": "Ayacucho 62",
         "fecha": "2026-07-31T13:41:47.306Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Si pero ya pude llevar el resto de forma particular",
+        "fecha": "2026-07-31T14:22:06.305Z",
+        "sentimiento": "positivo"
       }
     ]
   },
