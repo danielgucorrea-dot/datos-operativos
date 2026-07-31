@@ -48944,11 +48944,11 @@
     "celular": "+54 9 3815 302-555",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "positivo",
-    "ultimoMensaje": "Y después saco 5 más?",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Entiendo lo del servicio pero no puedo pagar un contenedor por diez bolsas y menos en avenida porque no se permite",
     "mensaje": "Buenas tardes necesito sacar bolsas con escombro de mi casa\nCómo hago",
     "fecha": "2026-07-30T20:36:34.938Z",
-    "ultimaActualizacion": "2026-07-31T13:04:56.949Z",
+    "ultimaActualizacion": "2026-07-31T14:28:14.650Z",
     "historialMensajes": [
       {
         "texto": "Buenas tardes necesito sacar bolsas con escombro de mi casa\nCómo hago",
@@ -48969,6 +48969,11 @@
         "texto": "Y después saco 5 más?",
         "fecha": "2026-07-31T13:04:56.949Z",
         "sentimiento": "positivo"
+      },
+      {
+        "texto": "Entiendo lo del servicio pero no puedo pagar un contenedor por diez bolsas y menos en avenida porque no se permite",
+        "fecha": "2026-07-31T14:28:14.650Z",
+        "sentimiento": "neutro"
       }
     ]
   },
