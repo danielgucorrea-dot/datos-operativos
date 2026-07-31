@@ -29332,14 +29332,9 @@
       "Soy del Manantial Sur,me pasó el número un vecino,me dijo q podía comunicarme con ustedes para levantar las ramas de los árboles q podamos al frente",
       "Buenas tardes"
     ],
-    "ultimaActualizacion": "2026-07-31T15:53:20.826Z",
-    "ultimoMensaje": "Esto me mandaron una vez",
+    "ultimaActualizacion": "2026-07-31T15:53:29.936Z",
+    "ultimoMensaje": "Ya llevaron escombros",
     "historialMensajes": [
-      {
-        "texto": "Es montículo de arena q tiene pasto arriba",
-        "fecha": "2026-07-31T15:47:37.363Z",
-        "sentimiento": "neutro"
-      },
       {
         "texto": "Esta en la calle ,la tierra ,",
         "fecha": "2026-07-31T15:48:11.806Z",
@@ -29383,6 +29378,11 @@
       {
         "texto": "Esto me mandaron una vez",
         "fecha": "2026-07-31T15:53:20.826Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Ya llevaron escombros",
+        "fecha": "2026-07-31T15:53:29.936Z",
         "sentimiento": "positivo"
       }
     ]
