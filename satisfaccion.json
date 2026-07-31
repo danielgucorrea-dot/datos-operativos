@@ -48822,5 +48822,23 @@
         "sentimiento": "neutro"
       }
     ]
+  },
+  {
+    "numero": "146050430046428",
+    "celular": "+54 9 3813 655-323",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Buenas. \nQuisiera solicitar en representación de todos los propietarios, el retiro de escombros que se acumuló, frente al BLOCK que habitamos.\nDatos:\n*Ubicación: AVDA. Silvano Bores n° 50 - Block 7*\nAclaración: se requiere para el ingreso, de una minicargadora, debido a que en el lugar no se dispone de espacio físico para el ingreso de vehículos de gran porte. \nDesde ya agradecemos la colaboración de la Municipalidad Capitalina. \nMario Alberto Villafañe - DNI 25.444.472",
+    "mensaje": "Buenas. \nQuisiera solicitar en representación de todos los propietarios, el retiro de escombros que se acumuló, frente al BLOCK que habitamos.\nDatos:\n*Ubicación: AVDA. Silvano Bores n° 50 - Block 7*\nAclaración: se requiere para el ingreso, de una minicargadora, debido a que en el lugar no se dispone de espacio físico para el ingreso de vehículos de gran porte. \nDesde ya agradecemos la colaboración de la Municipalidad Capitalina. \nMario Alberto Villafañe - DNI 25.444.472",
+    "fecha": "2026-07-31T02:58:17.033Z",
+    "ultimaActualizacion": "2026-07-31T02:58:17.033Z",
+    "historialMensajes": [
+      {
+        "texto": "Buenas. \nQuisiera solicitar en representación de todos los propietarios, el retiro de escombros que se acumuló, frente al BLOCK que habitamos.\nDatos:\n*Ubicación: AVDA. Silvano Bores n° 50 - Block 7*\nA",
+        "fecha": "2026-07-31T02:58:17.033Z",
+        "sentimiento": "positivo"
+      }
+    ]
   }
 ]
