@@ -49981,11 +49981,11 @@
     "celular": "+54 9 3816 664-633",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Para retiro de escombro",
+    "sentimiento": "negativo",
+    "ultimoMensaje": "No se  puede circular, por escombro de vecino",
     "mensaje": "Buenas",
     "fecha": "2026-07-31T17:20:29.514Z",
-    "ultimaActualizacion": "2026-07-31T17:21:12.665Z",
+    "ultimaActualizacion": "2026-07-31T17:21:44.718Z",
     "historialMensajes": [
       {
         "texto": "Buenas",
@@ -50006,6 +50006,11 @@
         "texto": "Para retiro de escombro",
         "fecha": "2026-07-31T17:21:12.665Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "No se  puede circular, por escombro de vecino",
+        "fecha": "2026-07-31T17:21:44.718Z",
+        "sentimiento": "negativo"
       }
     ]
   }
