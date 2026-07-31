@@ -49389,5 +49389,28 @@
         "sentimiento": "positivo"
       }
     ]
+  },
+  {
+    "numero": "160472896692456",
+    "celular": "+54 9 3815 971-717",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Hola buenos dias",
+    "mensaje": "Hola buenos dias",
+    "fecha": "2026-07-31T13:49:28.621Z",
+    "ultimaActualizacion": "2026-07-31T13:49:30.518Z",
+    "historialMensajes": [
+      {
+        "texto": "Hola buenos dias",
+        "fecha": "2026-07-31T13:49:28.621Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Hola buenos dias",
+        "fecha": "2026-07-31T13:49:30.518Z",
+        "sentimiento": "neutro"
+      }
+    ]
   }
 ]
