@@ -49020,10 +49020,10 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "negativo",
-    "ultimoMensaje": "Desde el sábado pasado que no retira la basura",
+    "ultimoMensaje": "Pasan de largo",
     "mensaje": "Buen dia",
     "fecha": "2026-07-31T12:11:43.913Z",
-    "ultimaActualizacion": "2026-07-31T12:14:16.904Z",
+    "ultimaActualizacion": "2026-07-31T12:14:22.085Z",
     "historialMensajes": [
       {
         "texto": "Buen dia",
@@ -49038,6 +49038,11 @@
       {
         "texto": "Desde el sábado pasado que no retira la basura",
         "fecha": "2026-07-31T12:14:16.904Z",
+        "sentimiento": "negativo"
+      },
+      {
+        "texto": "Pasan de largo",
+        "fecha": "2026-07-31T12:14:22.085Z",
         "sentimiento": "negativo"
       }
     ]
