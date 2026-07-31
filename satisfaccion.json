@@ -48128,16 +48128,21 @@
     "celular": "+54 9 1140 697-953",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Hola, vine el camión del municipio, pero dejo un tronco en la esquina , dónde puede ocurrir un accidente",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Hola , quiero avisar, para suspender el pedido de levantamiento de tronco de árbol.\nYa los vecinos pagaron dinero  para levantar, Antes que ocurra un accidente. \nGracias",
     "mensaje": "Hola, vine el camión del municipio, pero dejo un tronco en la esquina , dónde puede ocurrir un accidente",
     "fecha": "2026-07-29T22:53:17.979Z",
-    "ultimaActualizacion": "2026-07-29T22:53:17.979Z",
+    "ultimaActualizacion": "2026-07-31T12:44:24.728Z",
     "historialMensajes": [
       {
         "texto": "Hola, vine el camión del municipio, pero dejo un tronco en la esquina , dónde puede ocurrir un accidente",
         "fecha": "2026-07-29T22:53:17.979Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Hola , quiero avisar, para suspender el pedido de levantamiento de tronco de árbol.\nYa los vecinos pagaron dinero  para levantar, Antes que ocurra un accidente. \nGracias",
+        "fecha": "2026-07-31T12:44:24.728Z",
+        "sentimiento": "positivo"
       }
     ]
   },
@@ -49081,6 +49086,24 @@
       {
         "texto": "Hola, me comunico para consultar por el retiro de compostaje",
         "fecha": "2026-07-31T12:34:00.047Z",
+        "sentimiento": "neutro"
+      }
+    ]
+  },
+  {
+    "numero": "278683315126372",
+    "celular": "+54 9 3816 388-175",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Hola buenos días!",
+    "mensaje": "Hola buenos días!",
+    "fecha": "2026-07-31T12:44:33.051Z",
+    "ultimaActualizacion": "2026-07-31T12:44:33.051Z",
+    "historialMensajes": [
+      {
+        "texto": "Hola buenos días!",
+        "fecha": "2026-07-31T12:44:33.051Z",
         "sentimiento": "neutro"
       }
     ]
