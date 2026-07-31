@@ -49861,10 +49861,10 @@
     "nombre": "",
     "direccion": "Rondeau 875",
     "sentimiento": "neutro",
-    "ultimoMensaje": "Lo q preg si puedo dejarlas ahi",
+    "ultimoMensaje": "En la Adolfo de la Vega",
     "mensaje": "Hola. Buenas tardes",
     "fecha": "2026-07-31T15:44:26.752Z",
-    "ultimaActualizacion": "2026-07-31T15:49:04.291Z",
+    "ultimaActualizacion": "2026-07-31T15:49:14.785Z",
     "historialMensajes": [
       {
         "texto": "Hola. Buenas tardes",
@@ -49909,6 +49909,11 @@
       {
         "texto": "Lo q preg si puedo dejarlas ahi",
         "fecha": "2026-07-31T15:49:04.291Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "En la Adolfo de la Vega",
+        "fecha": "2026-07-31T15:49:14.785Z",
         "sentimiento": "neutro"
       }
     ]
