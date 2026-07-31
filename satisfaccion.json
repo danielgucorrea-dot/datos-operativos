@@ -49302,17 +49302,12 @@
     "celular": "+54 9 3814 685-001",
     "nombre": "",
     "direccion": "Suipacha 1943",
-    "sentimiento": "negativo",
-    "ultimoMensaje": "Porque es basura de tres meses que me lleva el recoleccion",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Bueno muchas gracias yo le aviso cuando se lleven las 10  bolsa",
     "mensaje": "Hola buen día",
     "fecha": "2026-07-31T11:59:14.335Z",
-    "ultimaActualizacion": "2026-07-31T14:12:12.220Z",
+    "ultimaActualizacion": "2026-07-31T15:17:14.370Z",
     "historialMensajes": [
-      {
-        "texto": "20 bolsa de rreciduo de pasto hojas y de lo que voy juntando porque el recoleccion no lo lleva porque dice que es parte de espacio verde y poda",
-        "fecha": "2026-07-31T13:23:34.138Z",
-        "sentimiento": "neutro"
-      },
       {
         "texto": "Usted me puede decir dia y hora que pueden pasar a retirar asi yo saco las bolsas afuera por favor",
         "fecha": "2026-07-31T13:25:11.678Z",
@@ -49357,6 +49352,11 @@
         "texto": "Porque es basura de tres meses que me lleva el recoleccion",
         "fecha": "2026-07-31T14:12:12.220Z",
         "sentimiento": "negativo"
+      },
+      {
+        "texto": "Bueno muchas gracias yo le aviso cuando se lleven las 10  bolsa",
+        "fecha": "2026-07-31T15:17:14.370Z",
+        "sentimiento": "positivo"
       }
     ]
   },
@@ -49607,10 +49607,10 @@
     "nombre": "",
     "direccion": "Juan jose castelli 147",
     "sentimiento": "positivo",
-    "ultimoMensaje": "Si no deje nomas le agradezco",
+    "ultimoMensaje": "Entiendo muchas gracias",
     "mensaje": "Buenos dias como estan? Quería consultar si ustedes hacen recolección de residuos hogareños en desuso ejemplo cajas de cartón, residuos varios de plásticos etc. Podria enviarles una foto mostrando la cantidad q no es mucho",
     "fecha": "2026-07-31T13:51:22.475Z",
-    "ultimaActualizacion": "2026-07-31T14:59:25.697Z",
+    "ultimaActualizacion": "2026-07-31T15:17:23.752Z",
     "historialMensajes": [
       {
         "texto": "Buenos dias como estan? Quería consultar si ustedes hacen recolección de residuos hogareños en desuso ejemplo cajas de cartón, residuos varios de plásticos etc. Podria enviarles una foto mostrando la ",
@@ -49630,6 +49630,11 @@
       {
         "texto": "Si no deje nomas le agradezco",
         "fecha": "2026-07-31T14:59:25.697Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Entiendo muchas gracias",
+        "fecha": "2026-07-31T15:17:23.752Z",
         "sentimiento": "positivo"
       }
     ]
