@@ -48651,11 +48651,11 @@
     "celular": "+54 9 3812 068-062",
     "nombre": "",
     "direccion": "Padre roque correa 1108",
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Padre roque correa 1108",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Gracias",
     "mensaje": "Buenas tardes",
     "fecha": "2026-07-30T17:23:30.026Z",
-    "ultimaActualizacion": "2026-07-30T17:23:56.532Z",
+    "ultimaActualizacion": "2026-07-31T12:45:40.785Z",
     "historialMensajes": [
       {
         "texto": "Buenas tardes",
@@ -48666,6 +48666,11 @@
         "texto": "Padre roque correa 1108",
         "fecha": "2026-07-30T17:23:56.532Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Gracias",
+        "fecha": "2026-07-31T12:45:40.785Z",
+        "sentimiento": "positivo"
       }
     ]
   },
