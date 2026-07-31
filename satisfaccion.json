@@ -4802,8 +4802,8 @@
       "Unas bolsas de escombros y un panel de alambres de un colchon",
       "Necesitaria q pasen a retirar"
     ],
-    "ultimaActualizacion": "2026-07-31T15:25:09.174Z",
-    "ultimoMensaje": "Alberdi 285",
+    "ultimaActualizacion": "2026-07-31T15:25:59.499Z",
+    "ultimoMensaje": "es nuevo",
     "historialMensajes": [
       {
         "texto": "buen dia",
@@ -4813,6 +4813,11 @@
       {
         "texto": "Alberdi 285",
         "fecha": "2026-07-31T15:25:09.174Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "es nuevo",
+        "fecha": "2026-07-31T15:25:59.499Z",
         "sentimiento": "neutro"
       }
     ]
