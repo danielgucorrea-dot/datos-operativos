@@ -49640,10 +49640,10 @@
     "nombre": "",
     "direccion": "Chacabuco 1449",
     "sentimiento": "neutro",
-    "ultimoMensaje": "Es madera . 2 impresoras  . Y 2 chapas chicas",
+    "ultimoMensaje": "Y carton",
     "mensaje": "Chacabuco 1449",
     "fecha": "2026-07-31T13:53:31.664Z",
-    "ultimaActualizacion": "2026-07-31T15:03:34.838Z",
+    "ultimaActualizacion": "2026-07-31T15:03:49.030Z",
     "historialMensajes": [
       {
         "texto": "Chacabuco 1449",
@@ -49663,6 +49663,11 @@
       {
         "texto": "Es madera . 2 impresoras  . Y 2 chapas chicas",
         "fecha": "2026-07-31T15:03:34.838Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Y carton",
+        "fecha": "2026-07-31T15:03:49.030Z",
         "sentimiento": "neutro"
       }
     ]
