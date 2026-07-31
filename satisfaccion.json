@@ -49145,11 +49145,11 @@
     "celular": "+54 9 3814 462-869",
     "nombre": "",
     "direccion": "Pje vieytes 1700",
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Desp menos van a llevar la basura",
+    "sentimiento": "negativo",
+    "ultimoMensaje": "No puedo sacar a toda la cuadra tampoco",
     "mensaje": "Buen dia",
     "fecha": "2026-07-31T11:10:34.714Z",
-    "ultimaActualizacion": "2026-07-31T14:17:49.484Z",
+    "ultimaActualizacion": "2026-07-31T14:19:26.653Z",
     "historialMensajes": [
       {
         "texto": "Buen dia",
@@ -49190,6 +49190,11 @@
         "texto": "Desp menos van a llevar la basura",
         "fecha": "2026-07-31T14:17:49.484Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "No puedo sacar a toda la cuadra tampoco",
+        "fecha": "2026-07-31T14:19:26.653Z",
+        "sentimiento": "negativo"
       }
     ]
   },
