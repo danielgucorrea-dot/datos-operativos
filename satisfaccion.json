@@ -3511,8 +3511,8 @@
       "Es basura que tiraron los vecinos y se está generando un basural",
       "Levantamiento de basura, residuos de podas y escombros: Corrientes 3530"
     ],
-    "ultimaActualizacion": "2026-07-30T18:30:56.705Z",
-    "ultimoMensaje": "Buen día, para realizar un pedido",
+    "ultimaActualizacion": "2026-07-31T12:54:10.700Z",
+    "ultimoMensaje": "Muchas gracias!",
     "historialMensajes": [
       {
         "texto": "Buen díaa, para realizar un pedido",
@@ -3527,6 +3527,11 @@
       {
         "texto": "Buen día, para realizar un pedido",
         "fecha": "2026-07-30T18:30:56.705Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Muchas gracias!",
+        "fecha": "2026-07-31T12:54:10.700Z",
         "sentimiento": "positivo"
       }
     ]
@@ -44886,14 +44891,24 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "neutro",
-    "ultimoMensaje": "https://danielgucorrea-dot.github.io/datos-operativos/",
+    "ultimoMensaje": "‎Abre este enlace para unirte a mi grupo de WhatsApp: https://chat.whatsapp.com/EkHJ7T3JRUa92eCl2dqsJL?s=sw&p=i&ilr=0",
     "mensaje": "https://danielgucorrea-dot.github.io/datos-operativos/",
     "fecha": "2026-07-14T15:49:14.174Z",
-    "ultimaActualizacion": "2026-07-14T15:49:14.174Z",
+    "ultimaActualizacion": "2026-07-31T12:51:55.536Z",
     "historialMensajes": [
       {
         "texto": "https://danielgucorrea-dot.github.io/datos-operativos/",
         "fecha": "2026-07-14T15:49:14.174Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "🌱 ¡Ya están abiertas las inscripciones para las Olimpiadas Ambientales de la ciudad de San Miguel de Tucumán! ♻️💚\n\nSi sos estudiante de nivel secundario y querés ser parte de una experiencia donde l",
+        "fecha": "2026-07-31T12:51:53.827Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "‎Abre este enlace para unirte a mi grupo de WhatsApp: https://chat.whatsapp.com/EkHJ7T3JRUa92eCl2dqsJL?s=sw&p=i&ilr=0",
+        "fecha": "2026-07-31T12:51:55.536Z",
         "sentimiento": "neutro"
       }
     ]
