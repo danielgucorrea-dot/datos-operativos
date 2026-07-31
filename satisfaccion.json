@@ -15224,8 +15224,8 @@
       "Nesecito saber cuales serian los Residuos No habituales para el retiro por favor",
       "Buen día"
     ],
-    "ultimaActualizacion": "2026-07-30T17:55:07.073Z",
-    "ultimoMensaje": "Manantial sur 2500 v sector c m 12 c 12",
+    "ultimaActualizacion": "2026-07-31T12:46:11.561Z",
+    "ultimoMensaje": "Buen dia",
     "historialMensajes": [
       {
         "texto": "Buen dia",
@@ -15235,6 +15235,11 @@
       {
         "texto": "Manantial sur 2500 v sector c m 12 c 12",
         "fecha": "2026-07-30T17:55:07.073Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Buen dia",
+        "fecha": "2026-07-31T12:46:11.561Z",
         "sentimiento": "neutro"
       }
     ]
