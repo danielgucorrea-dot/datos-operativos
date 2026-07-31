@@ -49432,17 +49432,22 @@
     "numero": "67504101707818",
     "celular": "+54 9 3815 233-538",
     "nombre": "",
-    "direccion": null,
-    "sentimiento": "positivo",
-    "ultimoMensaje": "Buenos dias como estan? Quería consultar si ustedes hacen recolección de residuos hogareños en desuso ejemplo cajas de cartón, residuos varios de plásticos etc. Podria enviarles una foto mostrando la cantidad q no es mucho",
+    "direccion": "Juan jose castelli 147",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Juan jose castelli 147",
     "mensaje": "Buenos dias como estan? Quería consultar si ustedes hacen recolección de residuos hogareños en desuso ejemplo cajas de cartón, residuos varios de plásticos etc. Podria enviarles una foto mostrando la cantidad q no es mucho",
     "fecha": "2026-07-31T13:51:22.475Z",
-    "ultimaActualizacion": "2026-07-31T13:51:22.475Z",
+    "ultimaActualizacion": "2026-07-31T13:56:37.499Z",
     "historialMensajes": [
       {
         "texto": "Buenos dias como estan? Quería consultar si ustedes hacen recolección de residuos hogareños en desuso ejemplo cajas de cartón, residuos varios de plásticos etc. Podria enviarles una foto mostrando la ",
         "fecha": "2026-07-31T13:51:22.475Z",
         "sentimiento": "positivo"
+      },
+      {
+        "texto": "Juan jose castelli 147",
+        "fecha": "2026-07-31T13:56:37.499Z",
+        "sentimiento": "neutro"
       }
     ]
   },
