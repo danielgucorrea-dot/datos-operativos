@@ -12015,8 +12015,8 @@
       "Pasaje Roberto Koch 261. Altura Brigido Teran al 800",
       "Buenas tardes"
     ],
-    "ultimaActualizacion": "2026-07-31T14:59:52.718Z",
-    "ultimoMensaje": "Ustedes podrían buscarlos",
+    "ultimaActualizacion": "2026-07-31T15:00:12.604Z",
+    "ultimoMensaje": "Si son pocas bolsas",
     "historialMensajes": [
       {
         "texto": "Buenos.dias",
@@ -12051,6 +12051,11 @@
       {
         "texto": "Ustedes podrían buscarlos",
         "fecha": "2026-07-31T14:59:52.718Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Si son pocas bolsas",
+        "fecha": "2026-07-31T15:00:12.604Z",
         "sentimiento": "neutro"
       }
     ]
