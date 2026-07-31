@@ -50135,5 +50135,28 @@
         "sentimiento": "neutro"
       }
     ]
+  },
+  {
+    "numero": "112446673055918",
+    "celular": "+54 9 3814 647-816",
+    "nombre": "",
+    "direccion": "Lucio V Mansilla 541",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Lucio V Mansilla 541",
+    "mensaje": "Buenas tardes",
+    "fecha": "2026-07-31T20:44:59.935Z",
+    "ultimaActualizacion": "2026-07-31T20:46:35.809Z",
+    "historialMensajes": [
+      {
+        "texto": "Buenas tardes",
+        "fecha": "2026-07-31T20:44:59.935Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Lucio V Mansilla 541",
+        "fecha": "2026-07-31T20:46:35.809Z",
+        "sentimiento": "neutro"
+      }
+    ]
   }
 ]
