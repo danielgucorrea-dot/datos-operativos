@@ -6175,8 +6175,8 @@
       "Vivo en Mendoza al 200",
       "Buenos días"
     ],
-    "ultimaActualizacion": "2026-07-31T13:26:08.515Z",
-    "ultimoMensaje": "Una obra en construcción , más otra con peligro de derrumbe hace 5 meses sin solución",
+    "ultimaActualizacion": "2026-07-31T13:45:33.813Z",
+    "ultimoMensaje": "te envio la foto del basural en lo que se convierte en un segundo . pleno centro",
     "historialMensajes": [
       {
         "texto": "Buen día",
@@ -6201,6 +6201,11 @@
       {
         "texto": "Una obra en construcción , más otra con peligro de derrumbe hace 5 meses sin solución",
         "fecha": "2026-07-31T13:26:08.515Z",
+        "sentimiento": "negativo"
+      },
+      {
+        "texto": "te envio la foto del basural en lo que se convierte en un segundo . pleno centro",
+        "fecha": "2026-07-31T13:45:33.813Z",
         "sentimiento": "negativo"
       }
     ]
@@ -49361,11 +49366,16 @@
     "ultimoMensaje": "Buenos días! Me comunico para coordinar la recolección de residuo",
     "mensaje": "Buenos días! Me comunico para coordinar la recolección de residuo",
     "fecha": "2026-07-31T13:44:51.350Z",
-    "ultimaActualizacion": "2026-07-31T13:44:51.350Z",
+    "ultimaActualizacion": "2026-07-31T13:44:54.077Z",
     "historialMensajes": [
       {
         "texto": "Buenos días! Me comunico para coordinar la recolección de residuo",
         "fecha": "2026-07-31T13:44:51.350Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Buenos días! Me comunico para coordinar la recolección de residuo",
+        "fecha": "2026-07-31T13:44:54.077Z",
         "sentimiento": "positivo"
       }
     ]
