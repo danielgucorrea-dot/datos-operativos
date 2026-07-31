@@ -49845,11 +49845,11 @@
     "celular": "+54 9 3813 512-256",
     "nombre": "",
     "direccion": "Rondeau 875",
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Entre bolsas y cajas de madera",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Y puedo llevarlas yo ahi?",
     "mensaje": "Hola. Buenas tardes",
     "fecha": "2026-07-31T15:44:26.752Z",
-    "ultimaActualizacion": "2026-07-31T15:47:34.118Z",
+    "ultimaActualizacion": "2026-07-31T15:48:16.858Z",
     "historialMensajes": [
       {
         "texto": "Hola. Buenas tardes",
@@ -49880,6 +49880,11 @@
         "texto": "Entre bolsas y cajas de madera",
         "fecha": "2026-07-31T15:47:34.118Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Y puedo llevarlas yo ahi?",
+        "fecha": "2026-07-31T15:48:16.858Z",
+        "sentimiento": "positivo"
       }
     ]
   }
