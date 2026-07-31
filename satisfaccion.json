@@ -2538,7 +2538,7 @@
     "celular": "+54 9 3816 010-899",
     "nombre": "",
     "direccion": "Calle Colombia 893",
-    "sentimiento": "positivo",
+    "sentimiento": "neutro",
     "evidencia_clasificacion": [],
     "canal": "WhatsApp Ambiente",
     "fecha": "2026-06-30",
@@ -2571,8 +2571,8 @@
       "Leí su mensaje . Pondré unicamente  10 bolsas de cesped.  Mando fotos. espero respuesta. Gs. Domicilio. Colombia 877 Cap. S.m.Tuc",
       "Enteren me día y hora. Gs. Saludos"
     ],
-    "ultimaActualizacion": "2026-07-31T13:18:30.665Z",
-    "ultimoMensaje": "Bdia. Colombia 895. Ya retiraron las 3 bolsas con ramas de poda. Saludos",
+    "ultimaActualizacion": "2026-07-31T13:18:56.703Z",
+    "ultimoMensaje": "Buen Finde a UD y su Flia.",
     "historialMensajes": [
       {
         "texto": "Bdia. Son residuos que corto el cesped y otros que tira la gente. Quiero saber cuando los puedo sacar para el servidor los lleve. Ms. Gs. Saludos. Luis de calle Colombia 895",
@@ -2618,6 +2618,11 @@
         "texto": "Bdia. Colombia 895. Ya retiraron las 3 bolsas con ramas de poda. Saludos",
         "fecha": "2026-07-31T13:18:30.665Z",
         "sentimiento": "positivo"
+      },
+      {
+        "texto": "Buen Finde a UD y su Flia.",
+        "fecha": "2026-07-31T13:18:56.703Z",
+        "sentimiento": "neutro"
       }
     ]
   },
