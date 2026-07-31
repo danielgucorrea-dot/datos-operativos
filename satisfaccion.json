@@ -48868,5 +48868,28 @@
         "sentimiento": "positivo"
       }
     ]
+  },
+  {
+    "numero": "62298618130478",
+    "celular": "+54 9 3814 462-869",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Buen dia",
+    "mensaje": "Buen dia",
+    "fecha": "2026-07-31T11:10:34.714Z",
+    "ultimaActualizacion": "2026-07-31T11:10:36.049Z",
+    "historialMensajes": [
+      {
+        "texto": "Buen dia",
+        "fecha": "2026-07-31T11:10:34.714Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Buen dia",
+        "fecha": "2026-07-31T11:10:36.049Z",
+        "sentimiento": "neutro"
+      }
+    ]
   }
 ]
