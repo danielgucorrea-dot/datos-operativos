@@ -6128,7 +6128,7 @@
     "celular": "+54 9 3814 493-030",
     "nombre": "",
     "direccion": "Mendoza al 200",
-    "sentimiento": "negativo",
+    "sentimiento": "neutro",
     "evidencia_clasificacion": [
       "es una verguenza"
     ],
@@ -6150,7 +6150,15 @@
       "Vivo en Mendoza al 200",
       "Buenos días"
     ],
-    "ultimaActualizacion": "2026-06-25"
+    "ultimaActualizacion": "2026-07-31T11:12:51.780Z",
+    "ultimoMensaje": "Buen día",
+    "historialMensajes": [
+      {
+        "texto": "Buen día",
+        "fecha": "2026-07-31T11:12:51.780Z",
+        "sentimiento": "neutro"
+      }
+    ]
   },
   {
     "numero": "164828027076768",
