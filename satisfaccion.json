@@ -29332,14 +29332,9 @@
       "Soy del Manantial Sur,me pasó el número un vecino,me dijo q podía comunicarme con ustedes para levantar las ramas de los árboles q podamos al frente",
       "Buenas tardes"
     ],
-    "ultimaActualizacion": "2026-07-31T15:53:56.818Z",
-    "ultimoMensaje": "Así se maneja aquí en el barrio",
+    "ultimaActualizacion": "2026-07-31T15:54:07.269Z",
+    "ultimoMensaje": "Y sería Cangallo al 2600",
     "historialMensajes": [
-      {
-        "texto": "Ya vinieron la otra ves y llevaron escombro",
-        "fecha": "2026-07-31T15:48:27.367Z",
-        "sentimiento": "positivo"
-      },
       {
         "texto": "Es para saber si pueden tomarme el pedido ,para llevarlo",
         "fecha": "2026-07-31T15:48:50.000Z",
@@ -29383,6 +29378,11 @@
       {
         "texto": "Así se maneja aquí en el barrio",
         "fecha": "2026-07-31T15:53:56.818Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Y sería Cangallo al 2600",
+        "fecha": "2026-07-31T15:54:07.269Z",
         "sentimiento": "neutro"
       }
     ]
