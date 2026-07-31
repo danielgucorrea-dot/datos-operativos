@@ -11981,7 +11981,7 @@
     "celular": "+54 9 3815 301-380",
     "nombre": "",
     "direccion": "Pasaje Roberto Koch 261",
-    "sentimiento": "neutro",
+    "sentimiento": "negativo",
     "evidencia_clasificacion": [],
     "canal": "WhatsApp Ambiente",
     "fecha": "2026-06-11",
@@ -11990,13 +11990,18 @@
       "Pasaje Roberto Koch 261. Altura Brigido Teran al 800",
       "Buenas tardes"
     ],
-    "ultimaActualizacion": "2026-07-31T13:38:48.904Z",
-    "ultimoMensaje": "Buenos.dias",
+    "ultimaActualizacion": "2026-07-31T13:39:21.246Z",
+    "ultimoMensaje": "Necesito qie retiren residuos de mi domicilio",
     "historialMensajes": [
       {
         "texto": "Buenos.dias",
         "fecha": "2026-07-31T13:38:48.904Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Necesito qie retiren residuos de mi domicilio",
+        "fecha": "2026-07-31T13:39:21.246Z",
+        "sentimiento": "negativo"
       }
     ]
   },
