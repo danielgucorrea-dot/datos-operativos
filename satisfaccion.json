@@ -1022,11 +1022,11 @@
     "celular": "+54 9 3812 081-709",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Hola",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Hola buenos días , perfecto",
     "mensaje": "Ya esta informado.",
     "fecha": "2026-07-06T14:37:45.762Z",
-    "ultimaActualizacion": "2026-07-11T15:27:21.806Z",
+    "ultimaActualizacion": "2026-07-31T13:43:01.028Z",
     "historialMensajes": [
       {
         "texto": "Ya esta informado.",
@@ -1057,6 +1057,11 @@
         "texto": "Hola",
         "fecha": "2026-07-11T15:27:21.806Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Hola buenos días , perfecto",
+        "fecha": "2026-07-31T13:43:01.028Z",
+        "sentimiento": "positivo"
       }
     ]
   },
