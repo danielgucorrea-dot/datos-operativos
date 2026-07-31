@@ -35750,12 +35750,17 @@
       "Pje Juan padros 746 (entre Ayacucho y Chacabuco al 2500)",
       "Hola Buen día! Me comunico para solicitar el retiro de residuos no habituales. Son bolsas con pasto"
     ],
-    "ultimaActualizacion": "2026-07-31T14:23:43.124Z",
-    "ultimoMensaje": "Hola buenos días me comunico para solicitar el retiro de residuos no habituales, de pasto",
+    "ultimaActualizacion": "2026-07-31T16:02:26.757Z",
+    "ultimoMensaje": "Muchas gracias",
     "historialMensajes": [
       {
         "texto": "Hola buenos días me comunico para solicitar el retiro de residuos no habituales, de pasto",
         "fecha": "2026-07-31T14:23:43.124Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Muchas gracias",
+        "fecha": "2026-07-31T16:02:26.757Z",
         "sentimiento": "positivo"
       }
     ]
