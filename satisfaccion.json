@@ -49440,5 +49440,23 @@
         "sentimiento": "positivo"
       }
     ]
+  },
+  {
+    "numero": "4127597809764",
+    "celular": "+54 9 3815 322-318",
+    "nombre": "",
+    "direccion": "Chacabuco 1449",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Chacabuco 1449",
+    "mensaje": "Chacabuco 1449",
+    "fecha": "2026-07-31T13:53:31.664Z",
+    "ultimaActualizacion": "2026-07-31T13:53:31.664Z",
+    "historialMensajes": [
+      {
+        "texto": "Chacabuco 1449",
+        "fecha": "2026-07-31T13:53:31.664Z",
+        "sentimiento": "neutro"
+      }
+    ]
   }
 ]
