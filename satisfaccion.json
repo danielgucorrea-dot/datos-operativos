@@ -49185,10 +49185,10 @@
     "nombre": "",
     "direccion": "Suipacha 1943",
     "sentimiento": "positivo",
-    "ultimoMensaje": "Bueno Muchas gracias Le agradezco ya cuando esté la basura afuera le Pasaré una foto",
+    "ultimoMensaje": "Y todavia me queda estas adentro",
     "mensaje": "Hola buen día",
     "fecha": "2026-07-31T11:59:14.335Z",
-    "ultimaActualizacion": "2026-07-31T13:43:10.692Z",
+    "ultimaActualizacion": "2026-07-31T14:04:04.684Z",
     "historialMensajes": [
       {
         "texto": "Hola buen día",
@@ -49228,6 +49228,16 @@
       {
         "texto": "Bueno Muchas gracias Le agradezco ya cuando esté la basura afuera le Pasaré una foto",
         "fecha": "2026-07-31T13:43:10.692Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Mire ahi les dejo afuera yo no podre mas tarde porque tengo que trabajar",
+        "fecha": "2026-07-31T14:03:47.497Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Y todavia me queda estas adentro",
+        "fecha": "2026-07-31T14:04:04.684Z",
         "sentimiento": "positivo"
       }
     ]
