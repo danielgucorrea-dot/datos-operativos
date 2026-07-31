@@ -48874,11 +48874,11 @@
     "celular": "+54 9 3814 462-869",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Buen dia",
+    "sentimiento": "negativo",
+    "ultimoMensaje": "Porque lleva desde la mitad de la cuadra, la junta en medio de la calle y luego levantan todo..  fue en el mismo lugar donde murió el otro chico hace no menos de 5 meses",
     "mensaje": "Buen dia",
     "fecha": "2026-07-31T11:10:34.714Z",
-    "ultimaActualizacion": "2026-07-31T11:10:36.049Z",
+    "ultimaActualizacion": "2026-07-31T11:12:24.898Z",
     "historialMensajes": [
       {
         "texto": "Buen dia",
@@ -48889,6 +48889,16 @@
         "texto": "Buen dia",
         "fecha": "2026-07-31T11:10:36.049Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Por favor pedir al recolector de sector pje vieytes entre libertad y frías silva altura independencia al 1700 que lleve la basura de todos los canastos",
+        "fecha": "2026-07-31T11:11:41.709Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Porque lleva desde la mitad de la cuadra, la junta en medio de la calle y luego levantan todo..  fue en el mismo lugar donde murió el otro chico hace no menos de 5 meses",
+        "fecha": "2026-07-31T11:12:24.898Z",
+        "sentimiento": "negativo"
       }
     ]
   }
