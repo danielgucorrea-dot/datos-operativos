@@ -49621,5 +49621,23 @@
         "sentimiento": "neutro"
       }
     ]
+  },
+  {
+    "numero": "24060574605425",
+    "celular": "+54 9 3815 882-162",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "positivo",
+    "ultimoMensaje": "🌱 ¡Hola Julieta! Nos encantaría que formes parte de nuestro grupo de WhatsApp de los docentes que inscribieron alumnos a las Olimpiadas Ambientales. ♻️💚\nSerá el canal oficial donde compartiremos todas las novedades, fechas importantes, materiales y comunicaciones del evento.\n\n👉 Sumate acá: https://chat.whatsapp.com/EkHJ7T3JRUa92eCl2dqsJL?s=sw&p=i&ilr=0",
+    "mensaje": "🌱 ¡Hola Julieta! Nos encantaría que formes parte de nuestro grupo de WhatsApp de los docentes que inscribieron alumnos a las Olimpiadas Ambientales. ♻️💚\nSerá el canal oficial donde compartiremos todas las novedades, fechas importantes, materiales y comunicaciones del evento.\n\n👉 Sumate acá: https://chat.whatsapp.com/EkHJ7T3JRUa92eCl2dqsJL?s=sw&p=i&ilr=0",
+    "fecha": "2026-07-31T14:45:31.165Z",
+    "ultimaActualizacion": "2026-07-31T14:45:31.165Z",
+    "historialMensajes": [
+      {
+        "texto": "🌱 ¡Hola Julieta! Nos encantaría que formes parte de nuestro grupo de WhatsApp de los docentes que inscribieron alumnos a las Olimpiadas Ambientales. ♻️💚\nSerá el canal oficial donde compartiremos tod",
+        "fecha": "2026-07-31T14:45:31.165Z",
+        "sentimiento": "positivo"
+      }
+    ]
   }
 ]
