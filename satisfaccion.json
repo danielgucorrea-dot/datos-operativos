@@ -4802,7 +4802,20 @@
       "Unas bolsas de escombros y un panel de alambres de un colchon",
       "Necesitaria q pasen a retirar"
     ],
-    "ultimaActualizacion": "2026-06-26"
+    "ultimaActualizacion": "2026-07-31T15:25:09.174Z",
+    "ultimoMensaje": "Alberdi 285",
+    "historialMensajes": [
+      {
+        "texto": "buen dia",
+        "fecha": "2026-07-31T15:24:50.248Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Alberdi 285",
+        "fecha": "2026-07-31T15:25:09.174Z",
+        "sentimiento": "neutro"
+      }
+    ]
   },
   {
     "numero": "207893647372459",
