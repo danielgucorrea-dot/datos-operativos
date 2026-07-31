@@ -6165,8 +6165,8 @@
       "Vivo en Mendoza al 200",
       "Buenos días"
     ],
-    "ultimaActualizacion": "2026-07-31T13:25:30.620Z",
-    "ultimoMensaje": "Y ahora donde descartamos la basura ?",
+    "ultimaActualizacion": "2026-07-31T13:25:38.292Z",
+    "ultimoMensaje": "Pleno centro , lleno de edificios",
     "historialMensajes": [
       {
         "texto": "Buen día",
@@ -6181,6 +6181,11 @@
       {
         "texto": "Y ahora donde descartamos la basura ?",
         "fecha": "2026-07-31T13:25:30.620Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Pleno centro , lleno de edificios",
+        "fecha": "2026-07-31T13:25:38.292Z",
         "sentimiento": "neutro"
       }
     ]
