@@ -6143,7 +6143,7 @@
     "celular": "+54 9 3814 493-030",
     "nombre": "",
     "direccion": "Mendoza al 200",
-    "sentimiento": "neutro",
+    "sentimiento": "negativo",
     "evidencia_clasificacion": [
       "es una verguenza"
     ],
@@ -6165,8 +6165,8 @@
       "Vivo en Mendoza al 200",
       "Buenos días"
     ],
-    "ultimaActualizacion": "2026-07-31T13:25:38.292Z",
-    "ultimoMensaje": "Pleno centro , lleno de edificios",
+    "ultimaActualizacion": "2026-07-31T13:26:08.515Z",
+    "ultimoMensaje": "Una obra en construcción , más otra con peligro de derrumbe hace 5 meses sin solución",
     "historialMensajes": [
       {
         "texto": "Buen día",
@@ -6187,6 +6187,11 @@
         "texto": "Pleno centro , lleno de edificios",
         "fecha": "2026-07-31T13:25:38.292Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Una obra en construcción , más otra con peligro de derrumbe hace 5 meses sin solución",
+        "fecha": "2026-07-31T13:26:08.515Z",
+        "sentimiento": "negativo"
       }
     ]
   },
