@@ -49159,11 +49159,11 @@
     "celular": "+54 9 3815 227-388",
     "nombre": "",
     "direccion": "Manzana D casa 1",
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Barrio vial 3 manzana D casa 1",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Ok gracias",
     "mensaje": "\"Hola, buenas tardes. Necesito solicitar el servicio de retiro gratuito de residuos no habituales. Tengo para retirar una mochila de depósito de baño rota.Mis datos son:Dirección exacta: arquitecto Juan padros 3601 - Barrio: Vial 3 Manzana D casa 1 - Nombre y apellido: Rodrigo Valdez",
     "fecha": "2026-07-30T21:31:57.083Z",
-    "ultimaActualizacion": "2026-07-30T21:33:10.365Z",
+    "ultimaActualizacion": "2026-07-31T16:00:07.600Z",
     "historialMensajes": [
       {
         "texto": "\"Hola, buenas tardes. Necesito solicitar el servicio de retiro gratuito de residuos no habituales. Tengo para retirar una mochila de depósito de baño rota.Mis datos son:Dirección exacta: arquitecto Ju",
@@ -49179,6 +49179,11 @@
         "texto": "Barrio vial 3 manzana D casa 1",
         "fecha": "2026-07-30T21:33:10.365Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Ok gracias",
+        "fecha": "2026-07-31T16:00:07.600Z",
+        "sentimiento": "positivo"
       }
     ]
   },
