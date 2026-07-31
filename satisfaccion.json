@@ -49070,11 +49070,11 @@
     "celular": "+54 9 3815 302-555",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Si ya lo entendí \nYa veré como entro yo las bolsas",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Buenas tardes \nNo hace falta que pasen \nYa retiré las bolsas",
     "mensaje": "Buenas tardes necesito sacar bolsas con escombro de mi casa\nCómo hago",
     "fecha": "2026-07-30T20:36:34.938Z",
-    "ultimaActualizacion": "2026-07-31T14:47:36.614Z",
+    "ultimaActualizacion": "2026-07-31T19:17:29.236Z",
     "historialMensajes": [
       {
         "texto": "Buenas tardes necesito sacar bolsas con escombro de mi casa\nCómo hago",
@@ -49120,6 +49120,11 @@
         "texto": "Si ya lo entendí \nYa veré como entro yo las bolsas",
         "fecha": "2026-07-31T14:47:36.614Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Buenas tardes \nNo hace falta que pasen \nYa retiré las bolsas",
+        "fecha": "2026-07-31T19:17:29.236Z",
+        "sentimiento": "positivo"
       }
     ]
   },
@@ -50016,6 +50021,29 @@
         "texto": "No se  puede circular, por escombro de vecino",
         "fecha": "2026-07-31T17:21:44.718Z",
         "sentimiento": "negativo"
+      }
+    ]
+  },
+  {
+    "numero": "193462540480754",
+    "celular": "+54 9 3814 060-966",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Buenas tardes\nNecesito q retiren un aire acondicionado en desuso",
+    "mensaje": "Buenas tardes\nNecesito q retiren un aire acondicionado en desuso",
+    "fecha": "2026-07-31T19:14:05.313Z",
+    "ultimaActualizacion": "2026-07-31T19:14:08.378Z",
+    "historialMensajes": [
+      {
+        "texto": "Buenas tardes\nNecesito q retiren un aire acondicionado en desuso",
+        "fecha": "2026-07-31T19:14:05.313Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Buenas tardes\nNecesito q retiren un aire acondicionado en desuso",
+        "fecha": "2026-07-31T19:14:08.378Z",
+        "sentimiento": "positivo"
       }
     ]
   }
