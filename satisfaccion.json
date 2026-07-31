@@ -6175,8 +6175,8 @@
       "Vivo en Mendoza al 200",
       "Buenos días"
     ],
-    "ultimaActualizacion": "2026-07-31T13:45:33.813Z",
-    "ultimoMensaje": "te envio la foto del basural en lo que se convierte en un segundo . pleno centro",
+    "ultimaActualizacion": "2026-07-31T14:12:30.690Z",
+    "ultimoMensaje": "en la vereda? donde pasan abrir las bolsas y dejan la mitad de las cosas tiradas",
     "historialMensajes": [
       {
         "texto": "Buen día",
@@ -6206,6 +6206,11 @@
       {
         "texto": "te envio la foto del basural en lo que se convierte en un segundo . pleno centro",
         "fecha": "2026-07-31T13:45:33.813Z",
+        "sentimiento": "negativo"
+      },
+      {
+        "texto": "en la vereda? donde pasan abrir las bolsas y dejan la mitad de las cosas tiradas",
+        "fecha": "2026-07-31T14:12:30.690Z",
         "sentimiento": "negativo"
       }
     ]
