@@ -48789,10 +48789,10 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "positivo",
-    "ultimoMensaje": "Yo los tengo en bolsa dentro de mí casa\nLos saco a la vereda y ahí les saco la foto?",
+    "ultimoMensaje": "Y después saco 5 más?",
     "mensaje": "Buenas tardes necesito sacar bolsas con escombro de mi casa\nCómo hago",
     "fecha": "2026-07-30T20:36:34.938Z",
-    "ultimaActualizacion": "2026-07-30T20:43:24.849Z",
+    "ultimaActualizacion": "2026-07-31T13:04:56.949Z",
     "historialMensajes": [
       {
         "texto": "Buenas tardes necesito sacar bolsas con escombro de mi casa\nCómo hago",
@@ -48807,6 +48807,11 @@
       {
         "texto": "Yo los tengo en bolsa dentro de mí casa\nLos saco a la vereda y ahí les saco la foto?",
         "fecha": "2026-07-30T20:43:24.849Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Y después saco 5 más?",
+        "fecha": "2026-07-31T13:04:56.949Z",
         "sentimiento": "positivo"
       }
     ]
