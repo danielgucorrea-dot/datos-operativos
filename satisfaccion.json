@@ -37752,7 +37752,7 @@
     "celular": "+54 9 3815 804-716",
     "nombre": "",
     "direccion": "Mariano Moreno 827",
-    "sentimiento": "negativo",
+    "sentimiento": "neutro",
     "evidencia_clasificacion": [],
     "canal": "WhatsApp Ambiente",
     "fecha": "2026-04-09",
@@ -37766,14 +37766,9 @@
       "Ok muchas gracias",
       "Mariano Moreno 827 planta alta"
     ],
-    "ultimaActualizacion": "2026-07-31T15:05:32.730Z",
-    "ultimoMensaje": "Eso no es posible",
+    "ultimaActualizacion": "2026-07-31T15:06:29.151Z",
+    "ultimoMensaje": "Corrobora bien los datos por favor, xq 2 propiedades comparten 1 misma dirección.",
     "historialMensajes": [
-      {
-        "texto": "Esta bien,lo importante es q ya se cargo. No estoy en obras, quizás intentaron pedir tmb .",
-        "fecha": "2026-07-31T13:17:42.719Z",
-        "sentimiento": "positivo"
-      },
       {
         "texto": "Muchas gracias por la atención",
         "fecha": "2026-07-31T13:17:52.817Z",
@@ -37818,6 +37813,11 @@
         "texto": "Eso no es posible",
         "fecha": "2026-07-31T15:05:32.730Z",
         "sentimiento": "negativo"
+      },
+      {
+        "texto": "Corrobora bien los datos por favor, xq 2 propiedades comparten 1 misma dirección.",
+        "fecha": "2026-07-31T15:06:29.151Z",
+        "sentimiento": "neutro"
       }
     ]
   },
