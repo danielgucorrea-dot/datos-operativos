@@ -48839,12 +48839,12 @@
     "numero": "141699628183631",
     "celular": "+54 9 3816 238-926",
     "nombre": "",
-    "direccion": null,
-    "sentimiento": "positivo",
-    "ultimoMensaje": "Buen día son maderas de machimbre y dos muebles",
+    "direccion": "Gral Paz 582",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Gral Paz 582",
     "mensaje": "Esas cosas necesitaría que buscaran si se puede",
     "fecha": "2026-07-30T17:58:27.904Z",
-    "ultimaActualizacion": "2026-07-31T11:56:16.923Z",
+    "ultimaActualizacion": "2026-07-31T13:49:10.974Z",
     "historialMensajes": [
       {
         "texto": "Esas cosas necesitaría que buscaran si se puede",
@@ -48855,6 +48855,11 @@
         "texto": "Buen día son maderas de machimbre y dos muebles",
         "fecha": "2026-07-31T11:56:16.923Z",
         "sentimiento": "positivo"
+      },
+      {
+        "texto": "Gral Paz 582",
+        "fecha": "2026-07-31T13:49:10.974Z",
+        "sentimiento": "neutro"
       }
     ]
   },
