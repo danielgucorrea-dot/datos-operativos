@@ -37665,8 +37665,8 @@
       "Ok muchas gracias",
       "Mariano Moreno 827 planta alta"
     ],
-    "ultimaActualizacion": "2026-07-31T13:09:38.517Z",
-    "ultimoMensaje": "Es una casa con planta alta y planta baja",
+    "ultimaActualizacion": "2026-07-31T13:09:46.168Z",
+    "ultimoMensaje": "Quizas dea por eso",
     "historialMensajes": [
       {
         "texto": "Buenos días, quisiera que pasaran a retirar unos escombros",
@@ -37691,6 +37691,11 @@
       {
         "texto": "Es una casa con planta alta y planta baja",
         "fecha": "2026-07-31T13:09:38.517Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Quizas dea por eso",
+        "fecha": "2026-07-31T13:09:46.168Z",
         "sentimiento": "neutro"
       }
     ]
