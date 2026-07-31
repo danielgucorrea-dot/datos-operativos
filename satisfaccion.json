@@ -49013,5 +49013,33 @@
         "sentimiento": "neutro"
       }
     ]
+  },
+  {
+    "numero": "20753432985792",
+    "celular": "+54 9 3816 774-253",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "negativo",
+    "ultimoMensaje": "Desde el sábado pasado que no retira la basura",
+    "mensaje": "Buen dia",
+    "fecha": "2026-07-31T12:11:43.913Z",
+    "ultimaActualizacion": "2026-07-31T12:14:16.904Z",
+    "historialMensajes": [
+      {
+        "texto": "Buen dia",
+        "fecha": "2026-07-31T12:11:43.913Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Buen dia",
+        "fecha": "2026-07-31T12:11:45.254Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Desde el sábado pasado que no retira la basura",
+        "fecha": "2026-07-31T12:14:16.904Z",
+        "sentimiento": "negativo"
+      }
+    ]
   }
 ]
