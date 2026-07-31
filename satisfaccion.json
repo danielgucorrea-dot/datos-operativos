@@ -37665,8 +37665,8 @@
       "Ok muchas gracias",
       "Mariano Moreno 827 planta alta"
     ],
-    "ultimaActualizacion": "2026-07-31T13:09:46.168Z",
-    "ultimoMensaje": "Quizas dea por eso",
+    "ultimaActualizacion": "2026-07-31T13:12:09.571Z",
+    "ultimoMensaje": "Muy bien. Como continua el proceso?",
     "historialMensajes": [
       {
         "texto": "Buenos días, quisiera que pasaran a retirar unos escombros",
@@ -37696,6 +37696,11 @@
       {
         "texto": "Quizas dea por eso",
         "fecha": "2026-07-31T13:09:46.168Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Muy bien. Como continua el proceso?",
+        "fecha": "2026-07-31T13:12:09.571Z",
         "sentimiento": "neutro"
       }
     ]
@@ -48703,16 +48708,21 @@
     "celular": "+54 9 3814 190-071",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "negativo",
-    "ultimoMensaje": "Buenos tardes. Me pongo en contacto para solicitar se tomen medidas para que el camión recoletor de residuos domiciliarios realice el retiro de los mismos de la dirección Lavalle N° 3272 San Miguel de Tucuman. No entendemos el motivo por el cual no lo realizan. Ya realice el reclamo al número de WhatsApp de Tpte 9 de Julio pero sin respuesta  alguna. Adjunto fotos del lugar y quedo a disposición por alguna consulta.",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Buenos dias. Muchas gracias por su gestión.  Estaré en contacto",
     "mensaje": "Buenos tardes. Me pongo en contacto para solicitar se tomen medidas para que el camión recoletor de residuos domiciliarios realice el retiro de los mismos de la dirección Lavalle N° 3272 San Miguel de Tucuman. No entendemos el motivo por el cual no lo realizan. Ya realice el reclamo al número de WhatsApp de Tpte 9 de Julio pero sin respuesta  alguna. Adjunto fotos del lugar y quedo a disposición por alguna consulta.",
     "fecha": "2026-07-30T16:56:10.685Z",
-    "ultimaActualizacion": "2026-07-30T16:56:10.685Z",
+    "ultimaActualizacion": "2026-07-31T13:13:25.027Z",
     "historialMensajes": [
       {
         "texto": "Buenos tardes. Me pongo en contacto para solicitar se tomen medidas para que el camión recoletor de residuos domiciliarios realice el retiro de los mismos de la dirección Lavalle N° 3272 San Miguel de",
         "fecha": "2026-07-30T16:56:10.685Z",
         "sentimiento": "negativo"
+      },
+      {
+        "texto": "Buenos dias. Muchas gracias por su gestión.  Estaré en contacto",
+        "fecha": "2026-07-31T13:13:25.027Z",
+        "sentimiento": "positivo"
       }
     ]
   },
@@ -48989,11 +48999,11 @@
     "celular": "+54 9 3815 845-307",
     "nombre": "",
     "direccion": "Martin Rodríguez 466",
-    "sentimiento": "positivo",
-    "ultimoMensaje": "Por favor, podrían pasar a retirar las ramas del naranjo que podamos en casa",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Muy amable por su respuesta",
     "mensaje": "Buenos días, cómo les va?",
     "fecha": "2026-07-31T10:07:31.092Z",
-    "ultimaActualizacion": "2026-07-31T10:08:12.299Z",
+    "ultimaActualizacion": "2026-07-31T13:12:43.382Z",
     "historialMensajes": [
       {
         "texto": "Buenos días, cómo les va?",
@@ -49009,6 +49019,11 @@
         "texto": "Por favor, podrían pasar a retirar las ramas del naranjo que podamos en casa",
         "fecha": "2026-07-31T10:08:12.299Z",
         "sentimiento": "positivo"
+      },
+      {
+        "texto": "Muy amable por su respuesta",
+        "fecha": "2026-07-31T13:12:43.382Z",
+        "sentimiento": "neutro"
       }
     ]
   },
@@ -49193,4 +49208,4 @@
       }
     ]
   }
-]
+]                                                                                                                                                                                 
