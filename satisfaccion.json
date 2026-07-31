@@ -49816,5 +49816,28 @@
         "sentimiento": "positivo"
       }
     ]
+  },
+  {
+    "numero": "73362386763920",
+    "celular": "+54 9 3813 512-256",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Hola. Buenas tardes",
+    "mensaje": "Hola. Buenas tardes",
+    "fecha": "2026-07-31T15:44:26.752Z",
+    "ultimaActualizacion": "2026-07-31T15:44:29.433Z",
+    "historialMensajes": [
+      {
+        "texto": "Hola. Buenas tardes",
+        "fecha": "2026-07-31T15:44:26.752Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Hola. Buenas tardes",
+        "fecha": "2026-07-31T15:44:29.433Z",
+        "sentimiento": "neutro"
+      }
+    ]
   }
 ]
