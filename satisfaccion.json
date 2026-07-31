@@ -49149,11 +49149,11 @@
     "celular": "+54 9 3814 685-001",
     "nombre": "",
     "direccion": "Suipacha 1943",
-    "sentimiento": "positivo",
-    "ultimoMensaje": "https://maps.app.goo.gl/ZvQyemzGgTAAszhYA?g_st=aw",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "72 horas contaria sabado y domingo tambien",
     "mensaje": "Hola buen día",
     "fecha": "2026-07-31T11:59:14.335Z",
-    "ultimaActualizacion": "2026-07-31T13:31:10.409Z",
+    "ultimaActualizacion": "2026-07-31T13:39:03.692Z",
     "historialMensajes": [
       {
         "texto": "Hola buen día",
@@ -49184,6 +49184,11 @@
         "texto": "https://maps.app.goo.gl/ZvQyemzGgTAAszhYA?g_st=aw",
         "fecha": "2026-07-31T13:31:10.409Z",
         "sentimiento": "positivo"
+      },
+      {
+        "texto": "72 horas contaria sabado y domingo tambien",
+        "fecha": "2026-07-31T13:39:03.692Z",
+        "sentimiento": "neutro"
       }
     ]
   },
