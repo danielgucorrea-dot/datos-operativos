@@ -49027,10 +49027,10 @@
     "nombre": "",
     "direccion": "bolivar al 3300",
     "sentimiento": "neutro",
-    "ultimoMensaje": "Buen dia me dio una vecina su contacto es para sacar unos escombro yo vivo en bolivar al 3300 esta en la vereda ya le sacare la foto y le mando",
+    "ultimoMensaje": "Le comentaba que vivo sola y el albañil tiro jna pared y sacl los escombros a la vereda, ya envio una foto",
     "mensaje": "Hola",
     "fecha": "2026-07-30T23:10:13.942Z",
-    "ultimaActualizacion": "2026-07-31T13:02:48.600Z",
+    "ultimaActualizacion": "2026-07-31T13:57:09.850Z",
     "historialMensajes": [
       {
         "texto": "Hola",
@@ -49045,6 +49045,11 @@
       {
         "texto": "Buen dia me dio una vecina su contacto es para sacar unos escombro yo vivo en bolivar al 3300 esta en la vereda ya le sacare la foto y le mando",
         "fecha": "2026-07-31T13:02:48.600Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Le comentaba que vivo sola y el albañil tiro jna pared y sacl los escombros a la vereda, ya envio una foto",
+        "fecha": "2026-07-31T13:57:09.850Z",
         "sentimiento": "neutro"
       }
     ]
