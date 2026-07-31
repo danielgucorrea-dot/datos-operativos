@@ -49119,12 +49119,12 @@
     "numero": "62298618130478",
     "celular": "+54 9 3814 462-869",
     "nombre": "",
-    "direccion": null,
+    "direccion": "Pje vieytes 1700",
     "sentimiento": "negativo",
-    "ultimoMensaje": "Porque lleva desde la mitad de la cuadra, la junta en medio de la calle y luego levantan todo..  fue en el mismo lugar donde murió el otro chico hace no menos de 5 meses",
+    "ultimoMensaje": "Pje vieytes 1700 vengan y va a ver canastos desde la mitad de esa cuadra con basura",
     "mensaje": "Buen dia",
     "fecha": "2026-07-31T11:10:34.714Z",
-    "ultimaActualizacion": "2026-07-31T11:12:24.898Z",
+    "ultimaActualizacion": "2026-07-31T14:09:46.172Z",
     "historialMensajes": [
       {
         "texto": "Buen dia",
@@ -49144,6 +49144,11 @@
       {
         "texto": "Porque lleva desde la mitad de la cuadra, la junta en medio de la calle y luego levantan todo..  fue en el mismo lugar donde murió el otro chico hace no menos de 5 meses",
         "fecha": "2026-07-31T11:12:24.898Z",
+        "sentimiento": "negativo"
+      },
+      {
+        "texto": "Pje vieytes 1700 vengan y va a ver canastos desde la mitad de esa cuadra con basura",
+        "fecha": "2026-07-31T14:09:46.172Z",
         "sentimiento": "negativo"
       }
     ]
