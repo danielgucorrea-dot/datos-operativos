@@ -37660,8 +37660,8 @@
       "Ok muchas gracias",
       "Mariano Moreno 827 planta alta"
     ],
-    "ultimaActualizacion": "2026-07-31T13:07:55.864Z",
-    "ultimoMensaje": "Mariano moreno 827",
+    "ultimaActualizacion": "2026-07-31T13:08:02.700Z",
+    "ultimoMensaje": "Capital",
     "historialMensajes": [
       {
         "texto": "Buenos días, quisiera que pasaran a retirar unos escombros",
@@ -37676,6 +37676,11 @@
       {
         "texto": "Mariano moreno 827",
         "fecha": "2026-07-31T13:07:55.864Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Capital",
+        "fecha": "2026-07-31T13:08:02.700Z",
         "sentimiento": "neutro"
       }
     ]
