@@ -49164,11 +49164,11 @@
     "celular": "+54 9 3814 685-001",
     "nombre": "",
     "direccion": "Suipacha 1943",
-    "sentimiento": "neutro",
-    "ultimoMensaje": "72 horas contaria sabado y domingo tambien",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Bueno Muchas gracias Le agradezco ya cuando esté la basura afuera le Pasaré una foto",
     "mensaje": "Hola buen día",
     "fecha": "2026-07-31T11:59:14.335Z",
-    "ultimaActualizacion": "2026-07-31T13:39:03.692Z",
+    "ultimaActualizacion": "2026-07-31T13:43:10.692Z",
     "historialMensajes": [
       {
         "texto": "Hola buen día",
@@ -49204,6 +49204,11 @@
         "texto": "72 horas contaria sabado y domingo tambien",
         "fecha": "2026-07-31T13:39:03.692Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Bueno Muchas gracias Le agradezco ya cuando esté la basura afuera le Pasaré una foto",
+        "fecha": "2026-07-31T13:43:10.692Z",
+        "sentimiento": "positivo"
       }
     ]
   },
