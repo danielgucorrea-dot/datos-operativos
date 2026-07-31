@@ -15219,7 +15219,7 @@
     "celular": "+54 9 3813 645-213",
     "nombre": "",
     "direccion": "Manantial sur 2500",
-    "sentimiento": "neutro",
+    "sentimiento": "positivo",
     "evidencia_clasificacion": [],
     "canal": "WhatsApp Ambiente",
     "fecha": "2026-06-08",
@@ -15229,8 +15229,8 @@
       "Nesecito saber cuales serian los Residuos No habituales para el retiro por favor",
       "Buen día"
     ],
-    "ultimaActualizacion": "2026-07-31T12:46:11.561Z",
-    "ultimoMensaje": "Buen dia",
+    "ultimaActualizacion": "2026-07-31T12:59:09.191Z",
+    "ultimoMensaje": "Son 7 bolsas con tarros de leche y basura .un poco de madera .y esos cañitos",
     "historialMensajes": [
       {
         "texto": "Buen dia",
@@ -15246,6 +15246,11 @@
         "texto": "Buen dia",
         "fecha": "2026-07-31T12:46:11.561Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Son 7 bolsas con tarros de leche y basura .un poco de madera .y esos cañitos",
+        "fecha": "2026-07-31T12:59:09.191Z",
+        "sentimiento": "positivo"
       }
     ]
   },
