@@ -49020,10 +49020,10 @@
     "nombre": "",
     "direccion": "Democracia 484",
     "sentimiento": "negativo",
-    "ultimoMensaje": "Siempre hacen lo mismo estos infelices",
+    "ultimoMensaje": "Hay filmacion de las cámaras de seguridad de estos incopetentes",
     "mensaje": "Buen dia",
     "fecha": "2026-07-31T12:11:43.913Z",
-    "ultimaActualizacion": "2026-07-31T12:14:48.042Z",
+    "ultimaActualizacion": "2026-07-31T12:15:25.798Z",
     "historialMensajes": [
       {
         "texto": "Buen dia",
@@ -49053,6 +49053,11 @@
       {
         "texto": "Siempre hacen lo mismo estos infelices",
         "fecha": "2026-07-31T12:14:48.042Z",
+        "sentimiento": "negativo"
+      },
+      {
+        "texto": "Hay filmacion de las cámaras de seguridad de estos incopetentes",
+        "fecha": "2026-07-31T12:15:25.798Z",
         "sentimiento": "negativo"
       }
     ]
