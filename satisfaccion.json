@@ -50252,5 +50252,23 @@
         "sentimiento": "positivo"
       }
     ]
+  },
+  {
+    "numero": "144298049806519",
+    "celular": "+54 9 3815 134-411",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Muchas gracias",
+    "mensaje": "Muchas gracias",
+    "fecha": "2026-07-31T22:25:09.465Z",
+    "ultimaActualizacion": "2026-07-31T22:25:09.465Z",
+    "historialMensajes": [
+      {
+        "texto": "Muchas gracias",
+        "fecha": "2026-07-31T22:25:09.465Z",
+        "sentimiento": "positivo"
+      }
+    ]
   }
 ]
