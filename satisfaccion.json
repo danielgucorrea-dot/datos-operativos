@@ -49501,10 +49501,10 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "negativo",
-    "ultimoMensaje": "tambien hay escombros",
+    "ultimoMensaje": "lo se, no supera las 5 bolsas",
     "mensaje": "Buenos días! Me comunico para coordinar la recolección de residuo",
     "fecha": "2026-07-31T13:44:51.350Z",
-    "ultimaActualizacion": "2026-07-31T14:20:16.354Z",
+    "ultimaActualizacion": "2026-07-31T14:34:13.011Z",
     "historialMensajes": [
       {
         "texto": "Buenos días! Me comunico para coordinar la recolección de residuo",
@@ -49524,6 +49524,11 @@
       {
         "texto": "tambien hay escombros",
         "fecha": "2026-07-31T14:20:16.354Z",
+        "sentimiento": "negativo"
+      },
+      {
+        "texto": "lo se, no supera las 5 bolsas",
+        "fecha": "2026-07-31T14:34:13.011Z",
         "sentimiento": "negativo"
       }
     ]
