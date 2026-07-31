@@ -49947,5 +49947,28 @@
         "sentimiento": "positivo"
       }
     ]
+  },
+  {
+    "numero": "156684920045702",
+    "celular": "+54 9 3815 391-890",
+    "nombre": "",
+    "direccion": "Frías y Araujo 1068",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Frías y Araujo 1068",
+    "mensaje": "Hola,porfavor si pueden pasar a retirar",
+    "fecha": "2026-07-31T16:21:44.061Z",
+    "ultimaActualizacion": "2026-07-31T16:23:13.044Z",
+    "historialMensajes": [
+      {
+        "texto": "Hola,porfavor si pueden pasar a retirar",
+        "fecha": "2026-07-31T16:21:44.061Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Frías y Araujo 1068",
+        "fecha": "2026-07-31T16:23:13.044Z",
+        "sentimiento": "neutro"
+      }
+    ]
   }
 ]
