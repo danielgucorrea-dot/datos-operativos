@@ -29309,7 +29309,7 @@
     "celular": "+54 9 3816 704-804",
     "nombre": "",
     "direccion": "manzana 20 casa 9",
-    "sentimiento": "neutro",
+    "sentimiento": "positivo",
     "evidencia_clasificacion": [],
     "canal": "WhatsApp Ambiente",
     "fecha": "2026-05-05",
@@ -29332,19 +29332,9 @@
       "Soy del Manantial Sur,me pasó el número un vecino,me dijo q podía comunicarme con ustedes para levantar las ramas de los árboles q podamos al frente",
       "Buenas tardes"
     ],
-    "ultimaActualizacion": "2026-07-31T15:52:48.788Z",
-    "ultimoMensaje": "👆🏻está es la más conocida ,es paralela a esta a la cangallo",
+    "ultimaActualizacion": "2026-07-31T15:53:20.826Z",
+    "ultimoMensaje": "Esto me mandaron una vez",
     "historialMensajes": [
-      {
-        "texto": "Hay le envío las fotos",
-        "fecha": "2026-07-31T15:45:36.874Z",
-        "sentimiento": "positivo"
-      },
-      {
-        "texto": "Barrio Manantial Sur sector C manzana 20 casa9",
-        "fecha": "2026-07-31T15:47:17.220Z",
-        "sentimiento": "neutro"
-      },
       {
         "texto": "Es montículo de arena q tiene pasto arriba",
         "fecha": "2026-07-31T15:47:37.363Z",
@@ -29384,6 +29374,16 @@
         "texto": "👆🏻está es la más conocida ,es paralela a esta a la cangallo",
         "fecha": "2026-07-31T15:52:48.788Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Ya lo hicieron",
+        "fecha": "2026-07-31T15:53:05.302Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Esto me mandaron una vez",
+        "fecha": "2026-07-31T15:53:20.826Z",
+        "sentimiento": "positivo"
       }
     ]
   },
