@@ -49596,11 +49596,11 @@
     "celular": "+54 9 3815 233-538",
     "nombre": "",
     "direccion": "Juan jose castelli 147",
-    "sentimiento": "neutro",
-    "ultimoMensaje": "En las cajas hay varias cosas dificil enumerar",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Si no deje nomas le agradezco",
     "mensaje": "Buenos dias como estan? Quería consultar si ustedes hacen recolección de residuos hogareños en desuso ejemplo cajas de cartón, residuos varios de plásticos etc. Podria enviarles una foto mostrando la cantidad q no es mucho",
     "fecha": "2026-07-31T13:51:22.475Z",
-    "ultimaActualizacion": "2026-07-31T14:59:15.330Z",
+    "ultimaActualizacion": "2026-07-31T14:59:25.697Z",
     "historialMensajes": [
       {
         "texto": "Buenos dias como estan? Quería consultar si ustedes hacen recolección de residuos hogareños en desuso ejemplo cajas de cartón, residuos varios de plásticos etc. Podria enviarles una foto mostrando la ",
@@ -49616,6 +49616,11 @@
         "texto": "En las cajas hay varias cosas dificil enumerar",
         "fecha": "2026-07-31T14:59:15.330Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Si no deje nomas le agradezco",
+        "fecha": "2026-07-31T14:59:25.697Z",
+        "sentimiento": "positivo"
       }
     ]
   },
