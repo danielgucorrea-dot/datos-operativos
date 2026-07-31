@@ -49018,12 +49018,12 @@
     "numero": "20753432985792",
     "celular": "+54 9 3816 774-253",
     "nombre": "",
-    "direccion": null,
-    "sentimiento": "negativo",
-    "ultimoMensaje": "Pasan de largo",
+    "direccion": "Democracia 484",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Democracia 484",
     "mensaje": "Buen dia",
     "fecha": "2026-07-31T12:11:43.913Z",
-    "ultimaActualizacion": "2026-07-31T12:14:22.085Z",
+    "ultimaActualizacion": "2026-07-31T12:14:29.782Z",
     "historialMensajes": [
       {
         "texto": "Buen dia",
@@ -49044,6 +49044,11 @@
         "texto": "Pasan de largo",
         "fecha": "2026-07-31T12:14:22.085Z",
         "sentimiento": "negativo"
+      },
+      {
+        "texto": "Democracia 484",
+        "fecha": "2026-07-31T12:14:29.782Z",
+        "sentimiento": "neutro"
       }
     ]
   }
