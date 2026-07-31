@@ -42623,17 +42623,12 @@
     "celular": "+54 9 3816 684-407",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "neutro",
-    "ultimoMensaje": "asi es",
+    "sentimiento": "negativo",
+    "ultimoMensaje": "por reitereados reclamos y no hay otro lugar para ponerlo en la cuadra",
     "mensaje": "buen dia",
     "fecha": "2026-07-13T12:35:57.936Z",
-    "ultimaActualizacion": "2026-07-31T11:42:00.903Z",
+    "ultimaActualizacion": "2026-07-31T11:43:11.279Z",
     "historialMensajes": [
-      {
-        "texto": "q te pase la direccion exacta de el para q vayan los chicos a hablar con el por favor",
-        "fecha": "2026-07-28T15:51:58.743Z",
-        "sentimiento": "neutro"
-      },
       {
         "texto": "a clarita...ella ve ese tema",
         "fecha": "2026-07-28T15:52:20.792Z",
@@ -42678,6 +42673,11 @@
         "texto": "asi es",
         "fecha": "2026-07-31T11:42:00.903Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "por reitereados reclamos y no hay otro lugar para ponerlo en la cuadra",
+        "fecha": "2026-07-31T11:43:11.279Z",
+        "sentimiento": "negativo"
       }
     ]
   },
