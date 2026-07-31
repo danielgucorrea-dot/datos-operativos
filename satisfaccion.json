@@ -48840,5 +48840,28 @@
         "sentimiento": "positivo"
       }
     ]
+  },
+  {
+    "numero": "80586488201379",
+    "celular": "+54 9 3815 845-307",
+    "nombre": "",
+    "direccion": "Martin Rodríguez 466",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Martin Rodríguez 466",
+    "mensaje": "Buenos días, cómo les va?",
+    "fecha": "2026-07-31T10:07:31.092Z",
+    "ultimaActualizacion": "2026-07-31T10:07:52.260Z",
+    "historialMensajes": [
+      {
+        "texto": "Buenos días, cómo les va?",
+        "fecha": "2026-07-31T10:07:31.092Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Martin Rodríguez 466",
+        "fecha": "2026-07-31T10:07:52.260Z",
+        "sentimiento": "neutro"
+      }
+    ]
   }
 ]
