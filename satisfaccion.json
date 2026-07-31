@@ -37752,7 +37752,7 @@
     "celular": "+54 9 3815 804-716",
     "nombre": "",
     "direccion": "Mariano Moreno 827",
-    "sentimiento": "neutro",
+    "sentimiento": "positivo",
     "evidencia_clasificacion": [],
     "canal": "WhatsApp Ambiente",
     "fecha": "2026-04-09",
@@ -37766,14 +37766,9 @@
       "Ok muchas gracias",
       "Mariano Moreno 827 planta alta"
     ],
-    "ultimaActualizacion": "2026-07-31T15:11:42.902Z",
-    "ultimoMensaje": "Entendi bien?",
+    "ultimaActualizacion": "2026-07-31T15:13:33.132Z",
+    "ultimoMensaje": "Muy bien, me comunícate el martes",
     "historialMensajes": [
-      {
-        "texto": "Mande foto y son 5",
-        "fecha": "2026-07-31T14:59:06.381Z",
-        "sentimiento": "neutro"
-      },
       {
         "texto": "De ninguna manera sacaría 14 bolsas",
         "fecha": "2026-07-31T14:59:28.418Z",
@@ -37818,6 +37813,11 @@
         "texto": "Entendi bien?",
         "fecha": "2026-07-31T15:11:42.902Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Muy bien, me comunícate el martes",
+        "fecha": "2026-07-31T15:13:33.132Z",
+        "sentimiento": "positivo"
       }
     ]
   },
