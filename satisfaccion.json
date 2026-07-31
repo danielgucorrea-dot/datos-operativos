@@ -12005,8 +12005,8 @@
       "Pasaje Roberto Koch 261. Altura Brigido Teran al 800",
       "Buenas tardes"
     ],
-    "ultimaActualizacion": "2026-07-31T14:09:18.123Z",
-    "ultimoMensaje": "Pasto",
+    "ultimaActualizacion": "2026-07-31T14:09:48.786Z",
+    "ultimoMensaje": "Tierra",
     "historialMensajes": [
       {
         "texto": "Buenos.dias",
@@ -12021,6 +12021,11 @@
       {
         "texto": "Pasto",
         "fecha": "2026-07-31T14:09:18.123Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Tierra",
+        "fecha": "2026-07-31T14:09:48.786Z",
         "sentimiento": "neutro"
       }
     ]
@@ -49121,10 +49126,10 @@
     "nombre": "",
     "direccion": "Pje vieytes 1700",
     "sentimiento": "negativo",
-    "ultimoMensaje": "Pje vieytes 1700 vengan y va a ver canastos desde la mitad de esa cuadra con basura",
+    "ultimoMensaje": "Noooo vengan y vean la realidad",
     "mensaje": "Buen dia",
     "fecha": "2026-07-31T11:10:34.714Z",
-    "ultimaActualizacion": "2026-07-31T14:09:46.172Z",
+    "ultimaActualizacion": "2026-07-31T14:10:01.224Z",
     "historialMensajes": [
       {
         "texto": "Buen dia",
@@ -49149,6 +49154,11 @@
       {
         "texto": "Pje vieytes 1700 vengan y va a ver canastos desde la mitad de esa cuadra con basura",
         "fecha": "2026-07-31T14:09:46.172Z",
+        "sentimiento": "negativo"
+      },
+      {
+        "texto": "Noooo vengan y vean la realidad",
+        "fecha": "2026-07-31T14:10:01.224Z",
         "sentimiento": "negativo"
       }
     ]
