@@ -50056,11 +50056,16 @@
     "ultimoMensaje": "Buenas tardes..tengo un problema. De basural..la empresa 9 de julio no recoje la basura..solo lo hace a los locales conerciales como  ser las carnicerias..y otros...",
     "mensaje": "Buenas tardes..tengo un problema. De basural..la empresa 9 de julio no recoje la basura..solo lo hace a los locales conerciales como  ser las carnicerias..y otros...",
     "fecha": "2026-07-31T19:19:29.899Z",
-    "ultimaActualizacion": "2026-07-31T19:19:29.899Z",
+    "ultimaActualizacion": "2026-07-31T19:19:31.753Z",
     "historialMensajes": [
       {
         "texto": "Buenas tardes..tengo un problema. De basural..la empresa 9 de julio no recoje la basura..solo lo hace a los locales conerciales como  ser las carnicerias..y otros...",
         "fecha": "2026-07-31T19:19:29.899Z",
+        "sentimiento": "negativo"
+      },
+      {
+        "texto": "Buenas tardes..tengo un problema. De basural..la empresa 9 de julio no recoje la basura..solo lo hace a los locales conerciales como  ser las carnicerias..y otros...",
+        "fecha": "2026-07-31T19:19:31.753Z",
         "sentimiento": "negativo"
       }
     ]
