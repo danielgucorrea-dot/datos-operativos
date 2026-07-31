@@ -12005,8 +12005,8 @@
       "Pasaje Roberto Koch 261. Altura Brigido Teran al 800",
       "Buenas tardes"
     ],
-    "ultimaActualizacion": "2026-07-31T14:10:21.810Z",
-    "ultimoMensaje": "El recolector no lleva este tipo de basura",
+    "ultimaActualizacion": "2026-07-31T14:10:37.365Z",
+    "ultimoMensaje": "Me cobran para hacerlo.",
     "historialMensajes": [
       {
         "texto": "Buenos.dias",
@@ -12031,6 +12031,11 @@
       {
         "texto": "El recolector no lleva este tipo de basura",
         "fecha": "2026-07-31T14:10:21.810Z",
+        "sentimiento": "negativo"
+      },
+      {
+        "texto": "Me cobran para hacerlo.",
+        "fecha": "2026-07-31T14:10:37.365Z",
         "sentimiento": "negativo"
       }
     ]
