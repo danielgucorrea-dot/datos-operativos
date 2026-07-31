@@ -49821,12 +49821,12 @@
     "numero": "73362386763920",
     "celular": "+54 9 3813 512-256",
     "nombre": "",
-    "direccion": null,
-    "sentimiento": "positivo",
-    "ultimoMensaje": "Quisiera solicitar el retiro de escombros de mi domicilio",
+    "direccion": "Rondeau 875",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Rondeau 875. Piso 7. Dpto B",
     "mensaje": "Hola. Buenas tardes",
     "fecha": "2026-07-31T15:44:26.752Z",
-    "ultimaActualizacion": "2026-07-31T15:44:44.191Z",
+    "ultimaActualizacion": "2026-07-31T15:45:09.633Z",
     "historialMensajes": [
       {
         "texto": "Hola. Buenas tardes",
@@ -49842,6 +49842,11 @@
         "texto": "Quisiera solicitar el retiro de escombros de mi domicilio",
         "fecha": "2026-07-31T15:44:44.191Z",
         "sentimiento": "positivo"
+      },
+      {
+        "texto": "Rondeau 875. Piso 7. Dpto B",
+        "fecha": "2026-07-31T15:45:09.633Z",
+        "sentimiento": "neutro"
       }
     ]
   }
