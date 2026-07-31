@@ -50319,16 +50319,21 @@
     "celular": "+54 9 3865 346-398",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Hola",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Bien",
     "mensaje": "Hola",
     "fecha": "2026-07-31T22:38:48.968Z",
-    "ultimaActualizacion": "2026-07-31T22:38:48.968Z",
+    "ultimaActualizacion": "2026-07-31T22:38:55.358Z",
     "historialMensajes": [
       {
         "texto": "Hola",
         "fecha": "2026-07-31T22:38:48.968Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Bien",
+        "fecha": "2026-07-31T22:38:55.358Z",
+        "sentimiento": "positivo"
       }
     ]
   }
