@@ -50291,11 +50291,11 @@
     "celular": "+54 9 3814 031-624",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "positivo",
-    "ultimoMensaje": "Buenas noches! Aqui en Siria y Paraguay tiraron vas bolsas con basura ,escombros y demas ! Por favor podrian pasar a ver si podemos erradicar estas bolsas antes que nazca un basural ?",
+    "sentimiento": "negativo",
+    "ultimoMensaje": "Siria y Paraguay...pileton que dejo la municipalidad  ya va a cumplir mas de 6 meses . Se estan proliferando mosquitos todos los dias tiran bolsas con basuras y escombros  !!! 🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻",
     "mensaje": "Buenas noches! Aqui en Siria y Paraguay tiraron vas bolsas con basura ,escombros y demas ! Por favor podrian pasar a ver si podemos erradicar estas bolsas antes que nazca un basural ?",
     "fecha": "2026-07-31T22:31:32.553Z",
-    "ultimaActualizacion": "2026-07-31T22:31:35.928Z",
+    "ultimaActualizacion": "2026-07-31T22:38:30.183Z",
     "historialMensajes": [
       {
         "texto": "Buenas noches! Aqui en Siria y Paraguay tiraron vas bolsas con basura ,escombros y demas ! Por favor podrian pasar a ver si podemos erradicar estas bolsas antes que nazca un basural ?",
@@ -50306,6 +50306,29 @@
         "texto": "Buenas noches! Aqui en Siria y Paraguay tiraron vas bolsas con basura ,escombros y demas ! Por favor podrian pasar a ver si podemos erradicar estas bolsas antes que nazca un basural ?",
         "fecha": "2026-07-31T22:31:35.928Z",
         "sentimiento": "positivo"
+      },
+      {
+        "texto": "Siria y Paraguay...pileton que dejo la municipalidad  ya va a cumplir mas de 6 meses . Se estan proliferando mosquitos todos los dias tiran bolsas con basuras y escombros  !!! 🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻",
+        "fecha": "2026-07-31T22:38:30.183Z",
+        "sentimiento": "negativo"
+      }
+    ]
+  },
+  {
+    "numero": "1357411016915",
+    "celular": "+54 9 3865 346-398",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Hola",
+    "mensaje": "Hola",
+    "fecha": "2026-07-31T22:38:48.968Z",
+    "ultimaActualizacion": "2026-07-31T22:38:48.968Z",
+    "historialMensajes": [
+      {
+        "texto": "Hola",
+        "fecha": "2026-07-31T22:38:48.968Z",
+        "sentimiento": "neutro"
       }
     ]
   }
