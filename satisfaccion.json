@@ -2571,8 +2571,8 @@
       "Leí su mensaje . Pondré unicamente  10 bolsas de cesped.  Mando fotos. espero respuesta. Gs. Domicilio. Colombia 877 Cap. S.m.Tuc",
       "Enteren me día y hora. Gs. Saludos"
     ],
-    "ultimaActualizacion": "2026-07-30T14:35:18.317Z",
-    "ultimoMensaje": "Gs. Por recordar me que en 72 hs pasará la empresa a retirar lo que dejé en la vereda ayer. Saludos",
+    "ultimaActualizacion": "2026-07-31T13:18:30.665Z",
+    "ultimoMensaje": "Bdia. Colombia 895. Ya retiraron las 3 bolsas con ramas de poda. Saludos",
     "historialMensajes": [
       {
         "texto": "Bdia. Son residuos que corto el cesped y otros que tira la gente. Quiero saber cuando los puedo sacar para el servidor los lleve. Ms. Gs. Saludos. Luis de calle Colombia 895",
@@ -2612,6 +2612,11 @@
       {
         "texto": "Gs. Por recordar me que en 72 hs pasará la empresa a retirar lo que dejé en la vereda ayer. Saludos",
         "fecha": "2026-07-30T14:35:18.317Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Bdia. Colombia 895. Ya retiraron las 3 bolsas con ramas de poda. Saludos",
+        "fecha": "2026-07-31T13:18:30.665Z",
         "sentimiento": "positivo"
       }
     ]
