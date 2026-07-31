@@ -49257,5 +49257,28 @@
         "sentimiento": "neutro"
       }
     ]
+  },
+  {
+    "numero": "148937000358034",
+    "celular": "+54 9 3813 583-869",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Buenos días",
+    "mensaje": "Buenos días",
+    "fecha": "2026-07-31T13:27:13.871Z",
+    "ultimaActualizacion": "2026-07-31T13:27:15.697Z",
+    "historialMensajes": [
+      {
+        "texto": "Buenos días",
+        "fecha": "2026-07-31T13:27:13.871Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Buenos días",
+        "fecha": "2026-07-31T13:27:15.697Z",
+        "sentimiento": "neutro"
+      }
+    ]
   }
 ]
