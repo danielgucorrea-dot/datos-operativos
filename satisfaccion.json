@@ -49397,10 +49397,10 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "neutro",
-    "ultimoMensaje": "El retiro de residuos",
+    "ultimoMensaje": "Escombros",
     "mensaje": "Buenos días",
     "fecha": "2026-07-31T13:27:13.871Z",
-    "ultimaActualizacion": "2026-07-31T14:11:50.090Z",
+    "ultimaActualizacion": "2026-07-31T14:14:12.253Z",
     "historialMensajes": [
       {
         "texto": "Buenos días",
@@ -49420,6 +49420,11 @@
       {
         "texto": "El retiro de residuos",
         "fecha": "2026-07-31T14:11:50.090Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Escombros",
+        "fecha": "2026-07-31T14:14:12.253Z",
         "sentimiento": "neutro"
       }
     ]
