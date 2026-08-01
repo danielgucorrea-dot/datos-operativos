@@ -50402,5 +50402,23 @@
         "sentimiento": "neutro"
       }
     ]
+  },
+  {
+    "numero": "202026889777289",
+    "celular": "+54 9 3813 218-759",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Hola Buendía",
+    "mensaje": "Hola Buendía",
+    "fecha": "2026-08-01T13:29:54.066Z",
+    "ultimaActualizacion": "2026-08-01T13:29:54.066Z",
+    "historialMensajes": [
+      {
+        "texto": "Hola Buendía",
+        "fecha": "2026-08-01T13:29:54.066Z",
+        "sentimiento": "neutro"
+      }
+    ]
   }
 ]
