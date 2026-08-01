@@ -11290,8 +11290,8 @@
       "Juan padrós 531",
       "Buenas tardes"
     ],
-    "ultimaActualizacion": "2026-07-30T00:31:15.040Z",
-    "ultimoMensaje": "La Sra dice que mando varios mensajes ya",
+    "ultimaActualizacion": "2026-08-01T01:11:48.929Z",
+    "ultimoMensaje": "excelente",
     "historialMensajes": [
       {
         "texto": "Buenas noches en Juan padrós 500 ( Juan padrós y 9 de julio ) hay un basural ya .",
@@ -11306,6 +11306,16 @@
       {
         "texto": "La Sra dice que mando varios mensajes ya",
         "fecha": "2026-07-30T00:31:15.040Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Ya retiraron la basura",
+        "fecha": "2026-08-01T01:11:45.755Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "excelente",
+        "fecha": "2026-08-01T01:11:48.929Z",
         "sentimiento": "positivo"
       }
     ]
