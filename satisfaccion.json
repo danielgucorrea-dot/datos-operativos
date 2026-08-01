@@ -50351,16 +50351,21 @@
     "numero": "82274410324112",
     "celular": "+54 9 3816 410-595",
     "nombre": "",
-    "direccion": null,
+    "direccion": "Pasaje Centenario 34",
     "sentimiento": "neutro",
-    "ultimoMensaje": "Buenos días",
+    "ultimoMensaje": "Pasaje Centenario 34",
     "mensaje": "Buenos días",
     "fecha": "2026-08-01T11:24:14.703Z",
-    "ultimaActualizacion": "2026-08-01T11:24:14.703Z",
+    "ultimaActualizacion": "2026-08-01T13:27:58.302Z",
     "historialMensajes": [
       {
         "texto": "Buenos días",
         "fecha": "2026-08-01T11:24:14.703Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Pasaje Centenario 34",
+        "fecha": "2026-08-01T13:27:58.302Z",
         "sentimiento": "neutro"
       }
     ]
