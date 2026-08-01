@@ -50525,5 +50525,33 @@
         "sentimiento": "neutro"
       }
     ]
+  },
+  {
+    "numero": "254773332865138",
+    "celular": "+54 9 3815 663-654",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Cuando podrían pasar así lo tengo listo",
+    "mensaje": "Hola buen día, tengo unas bolsas de escombro de una pequeña refacción",
+    "fecha": "2026-08-01T17:41:13.506Z",
+    "ultimaActualizacion": "2026-08-01T17:41:17.668Z",
+    "historialMensajes": [
+      {
+        "texto": "Hola buen día, tengo unas bolsas de escombro de una pequeña refacción",
+        "fecha": "2026-08-01T17:41:13.506Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Hola buen día, tengo unas bolsas de escombro de una pequeña refacción",
+        "fecha": "2026-08-01T17:41:15.947Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Cuando podrían pasar así lo tengo listo",
+        "fecha": "2026-08-01T17:41:17.668Z",
+        "sentimiento": "positivo"
+      }
+    ]
   }
 ]
