@@ -50364,5 +50364,33 @@
         "sentimiento": "neutro"
       }
     ]
+  },
+  {
+    "numero": "123149832196143",
+    "celular": "+54 9 3816 224-631",
+    "nombre": "",
+    "direccion": "Laprida 393",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Laprida 393",
+    "mensaje": "Buenos días! Tengo para desechar cartones, libros, etc",
+    "fecha": "2026-08-01T13:24:08.597Z",
+    "ultimaActualizacion": "2026-08-01T13:24:30.203Z",
+    "historialMensajes": [
+      {
+        "texto": "Buenos días! Tengo para desechar cartones, libros, etc",
+        "fecha": "2026-08-01T13:24:08.597Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Buenos días! Tengo para desechar cartones, libros, etc",
+        "fecha": "2026-08-01T13:24:11.665Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Laprida 393",
+        "fecha": "2026-08-01T13:24:30.203Z",
+        "sentimiento": "neutro"
+      }
+    ]
   }
 ]
