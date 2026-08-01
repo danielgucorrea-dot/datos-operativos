@@ -50409,14 +50409,19 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "neutro",
-    "ultimoMensaje": "Hola Buendía",
+    "ultimoMensaje": "Tengo residuos no habituales pero también mi comunicación es porq tengo basura que no se llevó 😥 y para pasar todo el finde semana es mucho querría consultar si pasan nuevamente",
     "mensaje": "Hola Buendía",
     "fecha": "2026-08-01T13:29:54.066Z",
-    "ultimaActualizacion": "2026-08-01T13:29:54.066Z",
+    "ultimaActualizacion": "2026-08-01T13:31:06.675Z",
     "historialMensajes": [
       {
         "texto": "Hola Buendía",
         "fecha": "2026-08-01T13:29:54.066Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Tengo residuos no habituales pero también mi comunicación es porq tengo basura que no se llevó 😥 y para pasar todo el finde semana es mucho querría consultar si pasan nuevamente",
+        "fecha": "2026-08-01T13:31:06.675Z",
         "sentimiento": "neutro"
       }
     ]
