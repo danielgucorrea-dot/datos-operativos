@@ -10789,7 +10789,20 @@
       "Chacabuco 302",
       "Buen día, necesito coordinar para retirar residuos no habituales, me dieron este número. Es en la esquina de la Chacabuco y Piedras. Chacabuco 302. Me pueden informar por favor?"
     ],
-    "ultimaActualizacion": "2026-06-16"
+    "ultimaActualizacion": "2026-08-01T14:46:07.635Z",
+    "ultimoMensaje": "A la espera de su respuesta. Muchas gracias!",
+    "historialMensajes": [
+      {
+        "texto": "Buen día, necesito coordinar para retirar residuos no habituales, me dieron este número. Es en  calle Italia 1299. Esquina Suipacha. Envío foto:",
+        "fecha": "2026-08-01T14:45:17.423Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "A la espera de su respuesta. Muchas gracias!",
+        "fecha": "2026-08-01T14:46:07.635Z",
+        "sentimiento": "neutro"
+      }
+    ]
   },
   {
     "numero": "184108269482138",
