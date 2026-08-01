@@ -50353,10 +50353,10 @@
     "nombre": "",
     "direccion": "Pasaje Centenario 34",
     "sentimiento": "neutro",
-    "ultimoMensaje": "Pasaje Centenario 34",
+    "ultimoMensaje": "Altura Av M de Luna 1550",
     "mensaje": "Buenos días",
     "fecha": "2026-08-01T11:24:14.703Z",
-    "ultimaActualizacion": "2026-08-01T13:27:58.302Z",
+    "ultimaActualizacion": "2026-08-01T13:28:12.333Z",
     "historialMensajes": [
       {
         "texto": "Buenos días",
@@ -50366,6 +50366,11 @@
       {
         "texto": "Pasaje Centenario 34",
         "fecha": "2026-08-01T13:27:58.302Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Altura Av M de Luna 1550",
+        "fecha": "2026-08-01T13:28:12.333Z",
         "sentimiento": "neutro"
       }
     ]
