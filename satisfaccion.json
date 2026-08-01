@@ -50346,5 +50346,23 @@
         "sentimiento": "positivo"
       }
     ]
+  },
+  {
+    "numero": "82274410324112",
+    "celular": "+54 9 3816 410-595",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Buenos días",
+    "mensaje": "Buenos días",
+    "fecha": "2026-08-01T11:24:14.703Z",
+    "ultimaActualizacion": "2026-08-01T11:24:14.703Z",
+    "historialMensajes": [
+      {
+        "texto": "Buenos días",
+        "fecha": "2026-08-01T11:24:14.703Z",
+        "sentimiento": "neutro"
+      }
+    ]
   }
 ]
