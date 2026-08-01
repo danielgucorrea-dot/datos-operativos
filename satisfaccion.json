@@ -304,13 +304,8 @@
     "ultimoMensaje": "!invitar_docentes CONFIRMAR",
     "mensaje": "Hola",
     "fecha": "2026-07-06T18:02:30.845Z",
-    "ultimaActualizacion": "2026-07-31T22:14:31.770Z",
+    "ultimaActualizacion": "2026-08-01T17:11:39.256Z",
     "historialMensajes": [
-      {
-        "texto": "Hola",
-        "fecha": "2026-07-06T18:02:30.845Z",
-        "sentimiento": "neutro"
-      },
       {
         "texto": "Menu",
         "fecha": "2026-07-06T18:05:01.498Z",
@@ -349,6 +344,16 @@
       {
         "texto": "!invitar_docentes CONFIRMAR",
         "fecha": "2026-07-31T22:14:31.770Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "!invitar_docentes",
+        "fecha": "2026-08-01T17:11:37.004Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "!invitar_docentes CONFIRMAR",
+        "fecha": "2026-08-01T17:11:39.256Z",
         "sentimiento": "neutro"
       }
     ]
