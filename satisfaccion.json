@@ -50497,5 +50497,23 @@
         "sentimiento": "positivo"
       }
     ]
+  },
+  {
+    "numero": "278636070494282",
+    "celular": "+54 9 3815 373-218",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Hola buen día",
+    "mensaje": "Hola buen día",
+    "fecha": "2026-08-01T17:32:15.881Z",
+    "ultimaActualizacion": "2026-08-01T17:32:15.881Z",
+    "historialMensajes": [
+      {
+        "texto": "Hola buen día",
+        "fecha": "2026-08-01T17:32:15.881Z",
+        "sentimiento": "neutro"
+      }
+    ]
   }
 ]
