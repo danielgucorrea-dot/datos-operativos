@@ -50504,14 +50504,19 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "neutro",
-    "ultimoMensaje": "Hola buen día",
+    "ultimoMensaje": "Familia ibañez",
     "mensaje": "Hola buen día",
     "fecha": "2026-08-01T17:32:15.881Z",
-    "ultimaActualizacion": "2026-08-01T17:32:15.881Z",
+    "ultimaActualizacion": "2026-08-01T17:33:17.895Z",
     "historialMensajes": [
       {
         "texto": "Hola buen día",
         "fecha": "2026-08-01T17:32:15.881Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Familia ibañez",
+        "fecha": "2026-08-01T17:33:17.895Z",
         "sentimiento": "neutro"
       }
     ]
