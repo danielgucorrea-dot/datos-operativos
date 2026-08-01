@@ -50479,5 +50479,23 @@
         "sentimiento": "neutro"
       }
     ]
+  },
+  {
+    "numero": "175273353973981",
+    "celular": "+54 9 3863 403-524",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Hola buenos dias, muchísimas gracias,  mi nombre es Yanet y ya me sume",
+    "mensaje": "Hola buenos dias, muchísimas gracias,  mi nombre es Yanet y ya me sume",
+    "fecha": "2026-08-01T17:13:06.419Z",
+    "ultimaActualizacion": "2026-08-01T17:13:06.419Z",
+    "historialMensajes": [
+      {
+        "texto": "Hola buenos dias, muchísimas gracias,  mi nombre es Yanet y ya me sume",
+        "fecha": "2026-08-01T17:13:06.419Z",
+        "sentimiento": "positivo"
+      }
+    ]
   }
 ]
