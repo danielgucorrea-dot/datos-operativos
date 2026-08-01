@@ -301,16 +301,11 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "neutro",
-    "ultimoMensaje": "!invitar_alumnos_test CONFIRMAR",
+    "ultimoMensaje": "!invitar_alumnos CONFIRMAR",
     "mensaje": "Hola",
     "fecha": "2026-07-06T18:02:30.845Z",
-    "ultimaActualizacion": "2026-08-01T17:40:57.427Z",
+    "ultimaActualizacion": "2026-08-01T17:41:23.608Z",
     "historialMensajes": [
-      {
-        "texto": "Menu",
-        "fecha": "2026-07-14T22:26:45.728Z",
-        "sentimiento": "neutro"
-      },
       {
         "texto": "!invitar_test",
         "fecha": "2026-07-31T13:41:39.888Z",
@@ -354,6 +349,11 @@
       {
         "texto": "!invitar_alumnos_test CONFIRMAR",
         "fecha": "2026-08-01T17:40:57.427Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "!invitar_alumnos CONFIRMAR",
+        "fecha": "2026-08-01T17:41:23.608Z",
         "sentimiento": "neutro"
       }
     ]
