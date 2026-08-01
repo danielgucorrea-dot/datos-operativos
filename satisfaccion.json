@@ -7771,19 +7771,9 @@
       "Pasaron hoy por calle Alsina 3900 pero por la avenida no pasaron. Hay bastante basura, disculpe gracias",
       "Buenas noches! Disculpe podría comunicar mañana si podría pasar el basurero mañana en avenida Kirchner ex roca 4000 ?"
     ],
-    "ultimaActualizacion": "2026-07-14T17:26:49.227Z",
-    "ultimoMensaje": "Espero que no la rompan ahora",
+    "ultimaActualizacion": "2026-08-01T12:55:51.361Z",
+    "ultimoMensaje": "Buen día! Disculpe no sé si hoy podría comunicar si puede pasar el recolector de basura por avenida Kirchner 4000",
     "historialMensajes": [
-      {
-        "texto": "Hola buen día! Podría comunicar si puede pasar el basurero hoy en avenida Kirchner 4000 ? Muchas gracias",
-        "fecha": "2026-07-07T12:40:14.561Z",
-        "sentimiento": "neutro"
-      },
-      {
-        "texto": "Muchas gracias!",
-        "fecha": "2026-07-07T14:31:50.411Z",
-        "sentimiento": "positivo"
-      },
       {
         "texto": "Hola buen día! Disculpe podría avisar que pase el basurero en avenida Kirchner 4000? Anoche ya rompieron toda la basura",
         "fecha": "2026-07-08T13:28:35.180Z",
@@ -7822,6 +7812,16 @@
       {
         "texto": "Espero que no la rompan ahora",
         "fecha": "2026-07-14T17:26:49.227Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Muchas gracias",
+        "fecha": "2026-08-01T12:55:48.327Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Buen día! Disculpe no sé si hoy podría comunicar si puede pasar el recolector de basura por avenida Kirchner 4000",
+        "fecha": "2026-08-01T12:55:51.361Z",
         "sentimiento": "neutro"
       }
     ]
