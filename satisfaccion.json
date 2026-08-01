@@ -9659,7 +9659,7 @@
     "celular": "+54 9 3813 257-438",
     "nombre": "",
     "direccion": "Mayo 2024",
-    "sentimiento": "neutro",
+    "sentimiento": "negativo",
     "evidencia_clasificacion": [],
     "canal": "WhatsApp Ambiente",
     "fecha": "2026-06-18",
@@ -9678,7 +9678,15 @@
       "Emilio Castelar 618. Tengo innumerables reclamos desde 2017",
       "Buen día. No trabajaron los barrenderos en el barrio. Porque motivos?"
     ],
-    "ultimaActualizacion": "2026-06-18"
+    "ultimaActualizacion": "2026-08-01T15:43:34.350Z",
+    "ultimoMensaje": "Ante falta de solución y de respuestas de parte de udes, voy a tener que accionar contra la municipalidad. Están notificados",
+    "historialMensajes": [
+      {
+        "texto": "Ante falta de solución y de respuestas de parte de udes, voy a tener que accionar contra la municipalidad. Están notificados",
+        "fecha": "2026-08-01T15:43:34.350Z",
+        "sentimiento": "negativo"
+      }
+    ]
   },
   {
     "numero": "136052316582020",
