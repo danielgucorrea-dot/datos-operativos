@@ -50443,12 +50443,12 @@
     "numero": "250375269535976",
     "celular": "+54 9 3815 436-570",
     "nombre": "",
-    "direccion": null,
-    "sentimiento": "negativo",
-    "ultimoMensaje": "Necesito la recolección de residuos que deja mi vecino en medio de la calle!",
+    "direccion": "Altura 1130",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Isabel La católica casi José Colombres. Altura 1130",
     "mensaje": "Buenas",
     "fecha": "2026-08-01T15:08:56.089Z",
-    "ultimaActualizacion": "2026-08-01T15:09:17.046Z",
+    "ultimaActualizacion": "2026-08-01T15:10:18.264Z",
     "historialMensajes": [
       {
         "texto": "Buenas",
@@ -50459,6 +50459,11 @@
         "texto": "Necesito la recolección de residuos que deja mi vecino en medio de la calle!",
         "fecha": "2026-08-01T15:09:17.046Z",
         "sentimiento": "negativo"
+      },
+      {
+        "texto": "Isabel La católica casi José Colombres. Altura 1130",
+        "fecha": "2026-08-01T15:10:18.264Z",
+        "sentimiento": "neutro"
       }
     ]
   }
