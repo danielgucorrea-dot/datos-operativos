@@ -304,13 +304,8 @@
     "ultimoMensaje": "!invitar_alumnos_test",
     "mensaje": "Hola",
     "fecha": "2026-07-06T18:02:30.845Z",
-    "ultimaActualizacion": "2026-08-01T17:32:18.472Z",
+    "ultimaActualizacion": "2026-08-01T17:38:03.423Z",
     "historialMensajes": [
-      {
-        "texto": "Hola",
-        "fecha": "2026-07-07T14:16:23.053Z",
-        "sentimiento": "neutro"
-      },
       {
         "texto": "Menu",
         "fecha": "2026-07-07T14:17:38.684Z",
@@ -354,6 +349,11 @@
       {
         "texto": "!invitar_alumnos_test",
         "fecha": "2026-08-01T17:32:18.472Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "!invitar_alumnos_test",
+        "fecha": "2026-08-01T17:38:03.423Z",
         "sentimiento": "neutro"
       }
     ]
@@ -49885,14 +49885,19 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "positivo",
-    "ultimoMensaje": "🌱 ¡Hola Julieta! Nos encantaría que formes parte de nuestro grupo de WhatsApp de los docentes que inscribieron alumnos a las Olimpiadas Ambientales. ♻️💚\nSerá el canal oficial donde compartiremos todas las novedades, fechas importantes, materiales y comunicaciones del evento.\n\n👉 Sumate acá: https://chat.whatsapp.com/EkHJ7T3JRUa92eCl2dqsJL?s=sw&p=i&ilr=0",
+    "ultimoMensaje": "Genial",
     "mensaje": "🌱 ¡Hola Julieta! Nos encantaría que formes parte de nuestro grupo de WhatsApp de los docentes que inscribieron alumnos a las Olimpiadas Ambientales. ♻️💚\nSerá el canal oficial donde compartiremos todas las novedades, fechas importantes, materiales y comunicaciones del evento.\n\n👉 Sumate acá: https://chat.whatsapp.com/EkHJ7T3JRUa92eCl2dqsJL?s=sw&p=i&ilr=0",
     "fecha": "2026-07-31T14:45:31.165Z",
-    "ultimaActualizacion": "2026-07-31T14:45:31.165Z",
+    "ultimaActualizacion": "2026-08-01T17:39:21.939Z",
     "historialMensajes": [
       {
         "texto": "🌱 ¡Hola Julieta! Nos encantaría que formes parte de nuestro grupo de WhatsApp de los docentes que inscribieron alumnos a las Olimpiadas Ambientales. ♻️💚\nSerá el canal oficial donde compartiremos tod",
         "fecha": "2026-07-31T14:45:31.165Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Genial",
+        "fecha": "2026-08-01T17:39:21.939Z",
         "sentimiento": "positivo"
       }
     ]
