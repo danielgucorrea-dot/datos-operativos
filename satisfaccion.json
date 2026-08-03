@@ -7776,14 +7776,9 @@
       "Pasaron hoy por calle Alsina 3900 pero por la avenida no pasaron. Hay bastante basura, disculpe gracias",
       "Buenas noches! Disculpe podría comunicar mañana si podría pasar el basurero mañana en avenida Kirchner ex roca 4000 ?"
     ],
-    "ultimaActualizacion": "2026-08-03T17:12:49.774Z",
-    "ultimoMensaje": "Si podría pasar por favor esq hay bastante basura",
+    "ultimaActualizacion": "2026-08-03T17:12:52.657Z",
+    "ultimoMensaje": "Gracias",
     "historialMensajes": [
-      {
-        "texto": "Bueno muchas gracias 🙏🏼🫶🏼",
-        "fecha": "2026-07-08T13:59:52.408Z",
-        "sentimiento": "positivo"
-      },
       {
         "texto": "Hola buen día! Podría comunicar si puede pasar el transporte 9 de julio ? En avenida Kirchner 4000, es que se dejó bastante basura",
         "fecha": "2026-07-14T13:51:51.216Z",
@@ -7827,6 +7822,11 @@
       {
         "texto": "Si podría pasar por favor esq hay bastante basura",
         "fecha": "2026-08-03T17:12:49.774Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Gracias",
+        "fecha": "2026-08-03T17:12:52.657Z",
         "sentimiento": "positivo"
       }
     ]
@@ -50804,6 +50804,24 @@
       {
         "texto": "Es un edificio y en este momento los escombros se en cuentan adentro",
         "fecha": "2026-08-03T16:27:40.133Z",
+        "sentimiento": "neutro"
+      }
+    ]
+  },
+  {
+    "numero": "112373557899448",
+    "celular": "+54 9 3815 473-159",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Señor",
+    "mensaje": "Señor",
+    "fecha": "2026-08-03T17:13:36.412Z",
+    "ultimaActualizacion": "2026-08-03T17:13:36.412Z",
+    "historialMensajes": [
+      {
+        "texto": "Señor",
+        "fecha": "2026-08-03T17:13:36.412Z",
         "sentimiento": "neutro"
       }
     ]
