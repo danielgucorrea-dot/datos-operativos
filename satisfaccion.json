@@ -50813,16 +50813,21 @@
     "celular": "+54 9 3815 473-159",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Señor",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Me avisa por favor, estan listos para sacar",
     "mensaje": "Señor",
     "fecha": "2026-08-03T17:13:36.412Z",
-    "ultimaActualizacion": "2026-08-03T17:13:36.412Z",
+    "ultimaActualizacion": "2026-08-03T17:13:56.219Z",
     "historialMensajes": [
       {
         "texto": "Señor",
         "fecha": "2026-08-03T17:13:36.412Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Me avisa por favor, estan listos para sacar",
+        "fecha": "2026-08-03T17:13:56.219Z",
+        "sentimiento": "positivo"
       }
     ]
   }
