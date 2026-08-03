@@ -51133,14 +51133,19 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "neutro",
-    "ultimoMensaje": "Como es el tema o ara solicitar",
+    "ultimoMensaje": "Turno para destrancar",
     "mensaje": "Como es el tema o ara solicitar",
     "fecha": "2026-08-03T21:08:34.947Z",
-    "ultimaActualizacion": "2026-08-03T21:08:34.947Z",
+    "ultimaActualizacion": "2026-08-03T21:11:04.843Z",
     "historialMensajes": [
       {
         "texto": "Como es el tema o ara solicitar",
         "fecha": "2026-08-03T21:08:34.947Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Turno para destrancar",
+        "fecha": "2026-08-03T21:11:04.843Z",
         "sentimiento": "neutro"
       }
     ]
