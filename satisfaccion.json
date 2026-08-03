@@ -50899,5 +50899,46 @@
         "sentimiento": "neutro"
       }
     ]
+  },
+  {
+    "numero": "160515863105759",
+    "celular": "+54 9 3815 611-145",
+    "nombre": "",
+    "direccion": "barrio feput",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Esa la misma dirección,  barrio feput, calle ingenieros (que es la manzana i casa6) casi esquina con la diagonal principal  luzondo borda",
+    "mensaje": "Esa la misma dirección,  barrio feput, calle ingenieros (que es la manzana i casa6) casi esquina con la diagonal principal  luzondo borda",
+    "fecha": "2026-08-03T17:39:10.369Z",
+    "ultimaActualizacion": "2026-08-03T17:39:10.369Z",
+    "historialMensajes": [
+      {
+        "texto": "Esa la misma dirección,  barrio feput, calle ingenieros (que es la manzana i casa6) casi esquina con la diagonal principal  luzondo borda",
+        "fecha": "2026-08-03T17:39:10.369Z",
+        "sentimiento": "neutro"
+      }
+    ]
+  },
+  {
+    "numero": "88029716865057",
+    "celular": "+54 9 3815 038-190",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Buenas tardes",
+    "mensaje": "Buenas tardes",
+    "fecha": "2026-08-03T17:39:20.278Z",
+    "ultimaActualizacion": "2026-08-03T17:39:21.877Z",
+    "historialMensajes": [
+      {
+        "texto": "Buenas tardes",
+        "fecha": "2026-08-03T17:39:20.278Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Buenas tardes",
+        "fecha": "2026-08-03T17:39:21.877Z",
+        "sentimiento": "neutro"
+      }
+    ]
   }
 ]
