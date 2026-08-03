@@ -6632,7 +6632,20 @@
       "Buen día, necesitaría su servicio para retirar restos de poda por favor",
       "."
     ],
-    "ultimaActualizacion": "2026-06-24"
+    "ultimaActualizacion": "2026-08-03T17:49:42.864Z",
+    "ultimoMensaje": "Junin 1636",
+    "historialMensajes": [
+      {
+        "texto": "Hola podrian pasar a retirar unas bolsas por favor?",
+        "fecha": "2026-08-03T17:49:01.669Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Junin 1636",
+        "fecha": "2026-08-03T17:49:42.864Z",
+        "sentimiento": "neutro"
+      }
+    ]
   },
   {
     "numero": "73586077397175",
