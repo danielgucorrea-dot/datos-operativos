@@ -51085,5 +51085,28 @@
         "sentimiento": "neutro"
       }
     ]
+  },
+  {
+    "numero": "95906670112842",
+    "celular": "+54 9 3815 880-537",
+    "nombre": "",
+    "direccion": "Mendoza 1573",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "La dirección es Mendoza 1573",
+    "mensaje": "Hola buen dia, te escribo porque necesito que busquen unas bolsas de escombros y ramas supera el m3",
+    "fecha": "2026-08-03T20:50:08.179Z",
+    "ultimaActualizacion": "2026-08-03T20:50:10.580Z",
+    "historialMensajes": [
+      {
+        "texto": "Hola buen dia, te escribo porque necesito que busquen unas bolsas de escombros y ramas supera el m3",
+        "fecha": "2026-08-03T20:50:08.179Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "La dirección es Mendoza 1573",
+        "fecha": "2026-08-03T20:50:10.580Z",
+        "sentimiento": "neutro"
+      }
+    ]
   }
 ]
