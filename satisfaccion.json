@@ -50922,12 +50922,12 @@
     "numero": "88029716865057",
     "celular": "+54 9 3815 038-190",
     "nombre": "",
-    "direccion": null,
+    "direccion": "Felix de Olazabal 75",
     "sentimiento": "neutro",
-    "ultimoMensaje": "Buenas tardes",
+    "ultimoMensaje": "Felix de Olazabal 75",
     "mensaje": "Buenas tardes",
     "fecha": "2026-08-03T17:39:20.278Z",
-    "ultimaActualizacion": "2026-08-03T17:39:21.877Z",
+    "ultimaActualizacion": "2026-08-03T17:39:56.068Z",
     "historialMensajes": [
       {
         "texto": "Buenas tardes",
@@ -50937,6 +50937,11 @@
       {
         "texto": "Buenas tardes",
         "fecha": "2026-08-03T17:39:21.877Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Felix de Olazabal 75",
+        "fecha": "2026-08-03T17:39:56.068Z",
         "sentimiento": "neutro"
       }
     ]
