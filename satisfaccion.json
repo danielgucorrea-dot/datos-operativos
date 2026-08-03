@@ -50958,5 +50958,28 @@
         "sentimiento": "neutro"
       }
     ]
+  },
+  {
+    "numero": "31112826990663",
+    "celular": "+54 9 3813 336-631",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Bueno, recién veo el mensaje",
+    "mensaje": "Tengo que poner en bolsa los escombros",
+    "fecha": "2026-08-03T18:13:56.390Z",
+    "ultimaActualizacion": "2026-08-03T18:14:50.793Z",
+    "historialMensajes": [
+      {
+        "texto": "Tengo que poner en bolsa los escombros",
+        "fecha": "2026-08-03T18:13:56.390Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Bueno, recién veo el mensaje",
+        "fecha": "2026-08-03T18:14:50.793Z",
+        "sentimiento": "neutro"
+      }
+    ]
   }
 ]
