@@ -301,16 +301,11 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "neutro",
-    "ultimoMensaje": "!invitar_alumnos CONFIRMAR",
+    "ultimoMensaje": "buscar bam desagote de casa 12/03 17/04",
     "mensaje": "Hola",
     "fecha": "2026-07-06T18:02:30.845Z",
-    "ultimaActualizacion": "2026-08-01T17:41:23.608Z",
+    "ultimaActualizacion": "2026-08-03T17:25:37.142Z",
     "historialMensajes": [
-      {
-        "texto": "!invitar_test",
-        "fecha": "2026-07-31T13:41:39.888Z",
-        "sentimiento": "neutro"
-      },
       {
         "texto": "!invitar_docentes",
         "fecha": "2026-07-31T22:14:25.199Z",
@@ -354,6 +349,11 @@
       {
         "texto": "!invitar_alumnos CONFIRMAR",
         "fecha": "2026-08-01T17:41:23.608Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "buscar bam desagote de casa 12/03 17/04",
+        "fecha": "2026-08-03T17:25:37.142Z",
         "sentimiento": "neutro"
       }
     ]
@@ -50868,16 +50868,21 @@
     "numero": "8718951399523",
     "celular": "+54 9 3814 743-037",
     "nombre": "",
-    "direccion": null,
+    "direccion": "AV ALEM 444",
     "sentimiento": "neutro",
-    "ultimoMensaje": "Hola buenas tardes .. queria solicitar que retiren de mi domicilio basura inusual por favor ..",
+    "ultimoMensaje": "Dirección AV ALEM 444",
     "mensaje": "Hola buenas tardes .. queria solicitar que retiren de mi domicilio basura inusual por favor ..",
     "fecha": "2026-08-03T17:15:39.625Z",
-    "ultimaActualizacion": "2026-08-03T17:15:39.625Z",
+    "ultimaActualizacion": "2026-08-03T17:25:31.153Z",
     "historialMensajes": [
       {
         "texto": "Hola buenas tardes .. queria solicitar que retiren de mi domicilio basura inusual por favor ..",
         "fecha": "2026-08-03T17:15:39.625Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Dirección AV ALEM 444",
+        "fecha": "2026-08-03T17:25:31.153Z",
         "sentimiento": "neutro"
       }
     ]
