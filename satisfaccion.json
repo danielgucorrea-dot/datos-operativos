@@ -33933,7 +33933,7 @@
       "Quiero hacer una denuncia",
       "Hola que tal"
     ],
-    "ultimaActualizacion": "2026-08-03T21:06:05.090Z",
+    "ultimaActualizacion": "2026-08-03T21:06:07.811Z",
     "ultimoMensaje": "Necesito recoger ramas de una palmera",
     "historialMensajes": [
       {
@@ -33944,6 +33944,11 @@
       {
         "texto": "Necesito recoger ramas de una palmera",
         "fecha": "2026-08-03T21:06:05.090Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Necesito recoger ramas de una palmera",
+        "fecha": "2026-08-03T21:06:07.811Z",
         "sentimiento": "positivo"
       }
     ]
@@ -51118,6 +51123,24 @@
       {
         "texto": "La dirección es Mendoza 1573",
         "fecha": "2026-08-03T20:50:10.580Z",
+        "sentimiento": "neutro"
+      }
+    ]
+  },
+  {
+    "numero": "279082679976105",
+    "celular": "+54 9 3816 343-945",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Como es el tema o ara solicitar",
+    "mensaje": "Como es el tema o ara solicitar",
+    "fecha": "2026-08-03T21:08:34.947Z",
+    "ultimaActualizacion": "2026-08-03T21:08:34.947Z",
+    "historialMensajes": [
+      {
+        "texto": "Como es el tema o ara solicitar",
+        "fecha": "2026-08-03T21:08:34.947Z",
         "sentimiento": "neutro"
       }
     ]
