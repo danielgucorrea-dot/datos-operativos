@@ -51200,5 +51200,28 @@
         "sentimiento": "neutro"
       }
     ]
+  },
+  {
+    "numero": "98677007892496",
+    "celular": "+54 9 3814 129-252",
+    "nombre": "",
+    "direccion": "PJE ANCHORENA 3533",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "ASIMISMO NOS JUSTARIA NOS REALICEN UNA PODA DE ARBOLES EXISTENTES Y NOS CONTROLE EL.TEMA DEL.ALUMBRADO.PUBLICO.",
+    "mensaje": "B NOCHES PORFA NECESITO QUE ME RECOJAN RESTOS DE PODA ENBOLSADAS DE PJE ANCHORENA 3533",
+    "fecha": "2026-08-03T22:26:31.877Z",
+    "ultimaActualizacion": "2026-08-03T22:28:18.207Z",
+    "historialMensajes": [
+      {
+        "texto": "B NOCHES PORFA NECESITO QUE ME RECOJAN RESTOS DE PODA ENBOLSADAS DE PJE ANCHORENA 3533",
+        "fecha": "2026-08-03T22:26:31.877Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "ASIMISMO NOS JUSTARIA NOS REALICEN UNA PODA DE ARBOLES EXISTENTES Y NOS CONTROLE EL.TEMA DEL.ALUMBRADO.PUBLICO.",
+        "fecha": "2026-08-03T22:28:18.207Z",
+        "sentimiento": "neutro"
+      }
+    ]
   }
 ]
