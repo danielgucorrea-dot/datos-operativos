@@ -51177,5 +51177,28 @@
         "sentimiento": "neutro"
       }
     ]
+  },
+  {
+    "numero": "258797616553988",
+    "celular": "+54 9 3812 222-088",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Buenas como hago para pedir el retiro de basura",
+    "mensaje": "Buenas como hago para pedir el retiro de basura",
+    "fecha": "2026-08-03T21:54:58.457Z",
+    "ultimaActualizacion": "2026-08-03T21:55:00.434Z",
+    "historialMensajes": [
+      {
+        "texto": "Buenas como hago para pedir el retiro de basura",
+        "fecha": "2026-08-03T21:54:58.457Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Buenas como hago para pedir el retiro de basura",
+        "fecha": "2026-08-03T21:55:00.434Z",
+        "sentimiento": "neutro"
+      }
+    ]
   }
 ]
