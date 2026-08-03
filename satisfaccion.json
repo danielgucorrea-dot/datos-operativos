@@ -50842,14 +50842,19 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "neutro",
-    "ultimoMensaje": "Están en el departamento",
+    "ultimoMensaje": "En el balcón los tengo q dejar en la calle?",
     "mensaje": "Están en el departamento",
     "fecha": "2026-08-03T17:14:23.489Z",
-    "ultimaActualizacion": "2026-08-03T17:14:23.489Z",
+    "ultimaActualizacion": "2026-08-03T17:14:44.005Z",
     "historialMensajes": [
       {
         "texto": "Están en el departamento",
         "fecha": "2026-08-03T17:14:23.489Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "En el balcón los tengo q dejar en la calle?",
+        "fecha": "2026-08-03T17:14:44.005Z",
         "sentimiento": "neutro"
       }
     ]
