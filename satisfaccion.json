@@ -51034,16 +51034,21 @@
     "numero": "119881160741064",
     "celular": "+54 9 3812 027-112",
     "nombre": "",
-    "direccion": null,
+    "direccion": "Barrio mutual policial",
     "sentimiento": "neutro",
-    "ultimoMensaje": "Buenas tardes",
+    "ultimoMensaje": "Barrio mutual policial mz1 casa 63",
     "mensaje": "Buenas tardes",
     "fecha": "2026-08-03T20:24:10.196Z",
-    "ultimaActualizacion": "2026-08-03T20:24:10.196Z",
+    "ultimaActualizacion": "2026-08-03T20:25:40.721Z",
     "historialMensajes": [
       {
         "texto": "Buenas tardes",
         "fecha": "2026-08-03T20:24:10.196Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Barrio mutual policial mz1 casa 63",
+        "fecha": "2026-08-03T20:25:40.721Z",
         "sentimiento": "neutro"
       }
     ]
