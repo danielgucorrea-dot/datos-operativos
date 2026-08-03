@@ -50835,5 +50835,23 @@
         "sentimiento": "neutro"
       }
     ]
+  },
+  {
+    "numero": "118128797339667",
+    "celular": "+54 9 3884 399-623",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Están en el departamento",
+    "mensaje": "Están en el departamento",
+    "fecha": "2026-08-03T17:14:23.489Z",
+    "ultimaActualizacion": "2026-08-03T17:14:23.489Z",
+    "historialMensajes": [
+      {
+        "texto": "Están en el departamento",
+        "fecha": "2026-08-03T17:14:23.489Z",
+        "sentimiento": "neutro"
+      }
+    ]
   }
 ]
