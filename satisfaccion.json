@@ -50814,10 +50814,10 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "neutro",
-    "ultimoMensaje": "Pero del lado de adentro porque sino algun vecino se lo llevara",
+    "ultimoMensaje": "Es el Hogar Santa Rita",
     "mensaje": "Señor",
     "fecha": "2026-08-03T17:13:36.412Z",
-    "ultimaActualizacion": "2026-08-03T17:14:16.713Z",
+    "ultimaActualizacion": "2026-08-03T17:14:52.948Z",
     "historialMensajes": [
       {
         "texto": "Señor",
@@ -50832,6 +50832,11 @@
       {
         "texto": "Pero del lado de adentro porque sino algun vecino se lo llevara",
         "fecha": "2026-08-03T17:14:16.713Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Es el Hogar Santa Rita",
+        "fecha": "2026-08-03T17:14:52.948Z",
         "sentimiento": "neutro"
       }
     ]
