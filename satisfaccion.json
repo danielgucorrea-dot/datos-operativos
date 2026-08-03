@@ -51029,5 +51029,23 @@
         "sentimiento": "neutro"
       }
     ]
+  },
+  {
+    "numero": "119881160741064",
+    "celular": "+54 9 3812 027-112",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Buenas tardes",
+    "mensaje": "Buenas tardes",
+    "fecha": "2026-08-03T20:24:10.196Z",
+    "ultimaActualizacion": "2026-08-03T20:24:10.196Z",
+    "historialMensajes": [
+      {
+        "texto": "Buenas tardes",
+        "fecha": "2026-08-03T20:24:10.196Z",
+        "sentimiento": "neutro"
+      }
+    ]
   }
 ]
