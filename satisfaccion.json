@@ -50965,10 +50965,10 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "neutro",
-    "ultimoMensaje": "Bueno, recién veo el mensaje",
+    "ultimoMensaje": "Son piedras de la calle que se utilizó",
     "mensaje": "Tengo que poner en bolsa los escombros",
     "fecha": "2026-08-03T18:13:56.390Z",
-    "ultimaActualizacion": "2026-08-03T18:14:50.793Z",
+    "ultimaActualizacion": "2026-08-03T18:35:38.761Z",
     "historialMensajes": [
       {
         "texto": "Tengo que poner en bolsa los escombros",
@@ -50978,6 +50978,11 @@
       {
         "texto": "Bueno, recién veo el mensaje",
         "fecha": "2026-08-03T18:14:50.793Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Son piedras de la calle que se utilizó",
+        "fecha": "2026-08-03T18:35:38.761Z",
         "sentimiento": "neutro"
       }
     ]
