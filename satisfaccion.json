@@ -50991,12 +50991,12 @@
     "numero": "137448113877245",
     "celular": "+54 9 3813 615-199",
     "nombre": "",
-    "direccion": null,
-    "sentimiento": "positivo",
-    "ultimoMensaje": "Buenas tardes tengo esos residuos que se junto con lo de los vecinos",
+    "direccion": "Orione 2458",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Mí dirección es \ndon Orione 2458 \nB . Echeverría",
     "mensaje": "Hola buenas tardes",
     "fecha": "2026-08-03T19:23:45.210Z",
-    "ultimaActualizacion": "2026-08-03T19:24:29.275Z",
+    "ultimaActualizacion": "2026-08-03T19:24:42.528Z",
     "historialMensajes": [
       {
         "texto": "Hola buenas tardes",
@@ -51012,6 +51012,11 @@
         "texto": "Buenas tardes tengo esos residuos que se junto con lo de los vecinos",
         "fecha": "2026-08-03T19:24:29.275Z",
         "sentimiento": "positivo"
+      },
+      {
+        "texto": "Mí dirección es \ndon Orione 2458 \nB . Echeverría",
+        "fecha": "2026-08-03T19:24:42.528Z",
+        "sentimiento": "neutro"
       }
     ]
   }
