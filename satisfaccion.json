@@ -49517,17 +49517,12 @@
     "celular": "+54 9 3814 685-001",
     "nombre": "",
     "direccion": "Suipacha 1943",
-    "sentimiento": "positivo",
-    "ultimoMensaje": "Bueno muchas gracias yo le aviso cuando se lleven las 10  bolsa",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "https://maps.app.goo.gl/zfaQVnxAdh65qJMX9?g_st=aw",
     "mensaje": "Hola buen día",
     "fecha": "2026-07-31T11:59:14.335Z",
-    "ultimaActualizacion": "2026-07-31T15:17:14.370Z",
+    "ultimaActualizacion": "2026-08-03T17:09:28.606Z",
     "historialMensajes": [
-      {
-        "texto": "Usted me puede decir dia y hora que pueden pasar a retirar asi yo saco las bolsas afuera por favor",
-        "fecha": "2026-07-31T13:25:11.678Z",
-        "sentimiento": "positivo"
-      },
       {
         "texto": "Tendria algun costo o solo las tengo que sacar usted digame por favor",
         "fecha": "2026-07-31T13:26:26.840Z",
@@ -49572,6 +49567,11 @@
         "texto": "Bueno muchas gracias yo le aviso cuando se lleven las 10  bolsa",
         "fecha": "2026-07-31T15:17:14.370Z",
         "sentimiento": "positivo"
+      },
+      {
+        "texto": "https://maps.app.goo.gl/zfaQVnxAdh65qJMX9?g_st=aw",
+        "fecha": "2026-08-03T17:09:28.606Z",
+        "sentimiento": "neutro"
       }
     ]
   },
