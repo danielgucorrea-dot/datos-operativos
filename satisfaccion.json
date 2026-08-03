@@ -51052,5 +51052,23 @@
         "sentimiento": "neutro"
       }
     ]
+  },
+  {
+    "numero": "95528729747529",
+    "celular": "+54 9 3813 371-355",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Hola buenas tardes",
+    "mensaje": "Hola buenas tardes",
+    "fecha": "2026-08-03T20:31:10.286Z",
+    "ultimaActualizacion": "2026-08-03T20:31:10.286Z",
+    "historialMensajes": [
+      {
+        "texto": "Hola buenas tardes",
+        "fecha": "2026-08-03T20:31:10.286Z",
+        "sentimiento": "neutro"
+      }
+    ]
   }
 ]
