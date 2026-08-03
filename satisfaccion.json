@@ -50986,5 +50986,33 @@
         "sentimiento": "neutro"
       }
     ]
+  },
+  {
+    "numero": "137448113877245",
+    "celular": "+54 9 3813 615-199",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Buenas tardes tengo esos residuos que se junto con lo de los vecinos",
+    "mensaje": "Hola buenas tardes",
+    "fecha": "2026-08-03T19:23:45.210Z",
+    "ultimaActualizacion": "2026-08-03T19:24:29.275Z",
+    "historialMensajes": [
+      {
+        "texto": "Hola buenas tardes",
+        "fecha": "2026-08-03T19:23:45.210Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Hola buenas tardes",
+        "fecha": "2026-08-03T19:23:46.598Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Buenas tardes tengo esos residuos que se junto con lo de los vecinos",
+        "fecha": "2026-08-03T19:24:29.275Z",
+        "sentimiento": "positivo"
+      }
+    ]
   }
 ]
