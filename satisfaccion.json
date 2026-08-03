@@ -49517,22 +49517,12 @@
     "celular": "+54 9 3814 685-001",
     "nombre": "",
     "direccion": "Suipacha 1943",
-    "sentimiento": "neutro",
-    "ultimoMensaje": "https://maps.app.goo.gl/zfaQVnxAdh65qJMX9?g_st=aw",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Muchas gracias",
     "mensaje": "Hola buen día",
     "fecha": "2026-07-31T11:59:14.335Z",
-    "ultimaActualizacion": "2026-08-03T17:09:28.606Z",
+    "ultimaActualizacion": "2026-08-03T17:10:44.741Z",
     "historialMensajes": [
-      {
-        "texto": "Tendria algun costo o solo las tengo que sacar usted digame por favor",
-        "fecha": "2026-07-31T13:26:26.840Z",
-        "sentimiento": "neutro"
-      },
-      {
-        "texto": "https://maps.app.goo.gl/ZvQyemzGgTAAszhYA?g_st=aw",
-        "fecha": "2026-07-31T13:31:10.409Z",
-        "sentimiento": "positivo"
-      },
       {
         "texto": "72 horas contaria sabado y domingo tambien",
         "fecha": "2026-07-31T13:39:03.692Z",
@@ -49572,6 +49562,16 @@
         "texto": "https://maps.app.goo.gl/zfaQVnxAdh65qJMX9?g_st=aw",
         "fecha": "2026-08-03T17:09:28.606Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "https://maps.app.goo.gl/q4NyaaNHtaveR5Hq9?g_st=aw",
+        "fecha": "2026-08-03T17:10:10.934Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Muchas gracias",
+        "fecha": "2026-08-03T17:10:44.741Z",
+        "sentimiento": "positivo"
       }
     ]
   },
