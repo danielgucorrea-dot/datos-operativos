@@ -40467,8 +40467,8 @@
     "conversacion_completa": [
       "Buenos días. Gracias por avisar. Deja mucho que desear el servicio."
     ],
-    "ultimaActualizacion": "2026-08-04T11:38:59.329Z",
-    "ultimoMensaje": "Pasaje Payró 3412\nAltura Avenida América 1650",
+    "ultimaActualizacion": "2026-08-04T13:58:27.181Z",
+    "ultimoMensaje": "Escombros..en realidad es arena. No la puedo mover por eso está ahí",
     "historialMensajes": [
       {
         "texto": "Buenos días \nPara solicitar recolección de residuos?\nPasaje Payró 3412. Altura Avenida América 1650\nGracias",
@@ -40478,6 +40478,11 @@
       {
         "texto": "Pasaje Payró 3412\nAltura Avenida América 1650",
         "fecha": "2026-08-04T11:38:59.329Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Escombros..en realidad es arena. No la puedo mover por eso está ahí",
+        "fecha": "2026-08-04T13:58:27.181Z",
         "sentimiento": "neutro"
       }
     ]
