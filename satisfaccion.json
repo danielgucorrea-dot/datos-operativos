@@ -52197,10 +52197,10 @@
     "nombre": "",
     "direccion": "barrio parque centenario y",
     "sentimiento": "positivo",
-    "ultimoMensaje": "Ya envío las fotos",
+    "ultimoMensaje": "Ok muchas gracias",
     "mensaje": "Hola buen día soy del barrio parque centenario y tengo que tirar unas ramas de Poda de arbusto que es imposible embolsar, como hago para tirarlas? Hay algún servicio para esto?",
     "fecha": "2026-08-04T14:46:18.217Z",
-    "ultimaActualizacion": "2026-08-04T15:16:56.795Z",
+    "ultimaActualizacion": "2026-08-04T15:25:54.688Z",
     "historialMensajes": [
       {
         "texto": "Hola buen día soy del barrio parque centenario y tengo que tirar unas ramas de Poda de arbusto que es imposible embolsar, como hago para tirarlas? Hay algún servicio para esto?",
@@ -52215,6 +52215,11 @@
       {
         "texto": "Ya envío las fotos",
         "fecha": "2026-08-04T15:16:56.795Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Ok muchas gracias",
+        "fecha": "2026-08-04T15:25:54.688Z",
         "sentimiento": "positivo"
       }
     ]
