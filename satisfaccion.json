@@ -52528,5 +52528,28 @@
         "sentimiento": "neutro"
       }
     ]
+  },
+  {
+    "numero": "36958361415721",
+    "celular": "+54 9 3816 175-351",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Buenas tardes, aunque esté lloviendo saco igual las cosas?",
+    "mensaje": "Buenas tardes, aunque esté lloviendo saco igual las cosas?",
+    "fecha": "2026-08-04T17:39:15.260Z",
+    "ultimaActualizacion": "2026-08-04T17:39:18.329Z",
+    "historialMensajes": [
+      {
+        "texto": "Buenas tardes, aunque esté lloviendo saco igual las cosas?",
+        "fecha": "2026-08-04T17:39:15.260Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Buenas tardes, aunque esté lloviendo saco igual las cosas?",
+        "fecha": "2026-08-04T17:39:18.329Z",
+        "sentimiento": "positivo"
+      }
+    ]
   }
 ]
