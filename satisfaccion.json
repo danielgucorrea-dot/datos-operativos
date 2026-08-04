@@ -52465,16 +52465,21 @@
     "celular": "+54 9 3816 365-030",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Buenas tardes srta Rebeca, mi nombre es Lorena Dergham, soy profesora de la escuela secundaria Juan Luis Nouges",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "En mi escuela queremos implementar la separación de residuos plásticos (botellas , tapitas, bolsas) y se me ocurrió q tal vez podrían ayudarnos con ese tema de la mano del plan Educá",
     "mensaje": "Buenas tardes srta Rebeca, mi nombre es Lorena Dergham, soy profesora de la escuela secundaria Juan Luis Nouges",
     "fecha": "2026-08-04T16:44:29.756Z",
-    "ultimaActualizacion": "2026-08-04T16:44:29.756Z",
+    "ultimaActualizacion": "2026-08-04T16:45:57.452Z",
     "historialMensajes": [
       {
         "texto": "Buenas tardes srta Rebeca, mi nombre es Lorena Dergham, soy profesora de la escuela secundaria Juan Luis Nouges",
         "fecha": "2026-08-04T16:44:29.756Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "En mi escuela queremos implementar la separación de residuos plásticos (botellas , tapitas, bolsas) y se me ocurrió q tal vez podrían ayudarnos con ese tema de la mano del plan Educá",
+        "fecha": "2026-08-04T16:45:57.452Z",
+        "sentimiento": "positivo"
       }
     ]
   },
@@ -52487,11 +52492,16 @@
     "ultimoMensaje": "Buen día. Soy Cecilia. Vivo en salta 472 de san Miguel. Me pasaron este contacto porque tengo unas bolas de escombros y una maya metálica de una reja que desarmamos en casa y quisieramos tirarlas. Ustedes ofrecen el servicio de retiro de escombros?",
     "mensaje": "Buen día. Soy Cecilia. Vivo en salta 472 de san Miguel. Me pasaron este contacto porque tengo unas bolas de escombros y una maya metálica de una reja que desarmamos en casa y quisieramos tirarlas. Ustedes ofrecen el servicio de retiro de escombros?",
     "fecha": "2026-08-04T16:44:45.046Z",
-    "ultimaActualizacion": "2026-08-04T16:44:45.046Z",
+    "ultimaActualizacion": "2026-08-04T16:44:47.712Z",
     "historialMensajes": [
       {
         "texto": "Buen día. Soy Cecilia. Vivo en salta 472 de san Miguel. Me pasaron este contacto porque tengo unas bolas de escombros y una maya metálica de una reja que desarmamos en casa y quisieramos tirarlas. Ust",
         "fecha": "2026-08-04T16:44:45.046Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Buen día. Soy Cecilia. Vivo en salta 472 de san Miguel. Me pasaron este contacto porque tengo unas bolas de escombros y una maya metálica de una reja que desarmamos en casa y quisieramos tirarlas. Ust",
+        "fecha": "2026-08-04T16:44:47.712Z",
         "sentimiento": "positivo"
       }
     ]
