@@ -42440,10 +42440,10 @@
     "nombre": "",
     "direccion": "Constitución 1571",
     "sentimiento": "neutro",
-    "ultimoMensaje": "No dañara la vereda",
+    "ultimoMensaje": "Si no hay problema usenla no dañara la vereda",
     "mensaje": "Hola buenas tardes",
     "fecha": "2026-07-10T18:10:24.994Z",
-    "ultimaActualizacion": "2026-08-04T13:18:10.057Z",
+    "ultimaActualizacion": "2026-08-04T14:28:06.430Z",
     "historialMensajes": [
       {
         "texto": "Hola buenas tardes",
@@ -42473,6 +42473,11 @@
       {
         "texto": "No dañara la vereda",
         "fecha": "2026-08-04T13:18:10.057Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Si no hay problema usenla no dañara la vereda",
+        "fecha": "2026-08-04T14:28:06.430Z",
         "sentimiento": "neutro"
       }
     ]
