@@ -33988,8 +33988,8 @@
       "Quiero hacer una denuncia",
       "Hola que tal"
     ],
-    "ultimaActualizacion": "2026-08-03T21:06:07.811Z",
-    "ultimoMensaje": "Necesito recoger ramas de una palmera",
+    "ultimaActualizacion": "2026-08-04T13:02:01.161Z",
+    "ultimoMensaje": "Ya le envio",
     "historialMensajes": [
       {
         "texto": "Hola que tal",
@@ -34004,6 +34004,16 @@
       {
         "texto": "Necesito recoger ramas de una palmera",
         "fecha": "2026-08-03T21:06:07.811Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Hola",
+        "fecha": "2026-08-04T13:01:58.902Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Ya le envio",
+        "fecha": "2026-08-04T13:02:01.161Z",
         "sentimiento": "positivo"
       }
     ]
@@ -51252,11 +51262,11 @@
     "celular": "+54 9 3815 880-537",
     "nombre": "",
     "direccion": "Mendoza 1573",
-    "sentimiento": "neutro",
-    "ultimoMensaje": "La dirección es Mendoza 1573",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Hola buen día dale gracias",
     "mensaje": "Hola buen dia, te escribo porque necesito que busquen unas bolsas de escombros y ramas supera el m3",
     "fecha": "2026-08-03T20:50:08.179Z",
-    "ultimaActualizacion": "2026-08-03T20:50:10.580Z",
+    "ultimaActualizacion": "2026-08-04T13:03:03.882Z",
     "historialMensajes": [
       {
         "texto": "Hola buen dia, te escribo porque necesito que busquen unas bolsas de escombros y ramas supera el m3",
@@ -51267,6 +51277,11 @@
         "texto": "La dirección es Mendoza 1573",
         "fecha": "2026-08-03T20:50:10.580Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Hola buen día dale gracias",
+        "fecha": "2026-08-04T13:03:03.882Z",
+        "sentimiento": "positivo"
       }
     ]
   },
