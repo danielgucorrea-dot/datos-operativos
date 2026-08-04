@@ -50933,10 +50933,10 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "negativo",
-    "ultimoMensaje": "No es podamos cae",
+    "ultimoMensaje": "Lo de abajo es basura",
     "mensaje": "Bueno gracias",
     "fecha": "2026-08-03T16:27:39.606Z",
-    "ultimaActualizacion": "2026-08-04T14:31:26.246Z",
+    "ultimaActualizacion": "2026-08-04T14:32:10.582Z",
     "historialMensajes": [
       {
         "texto": "Bueno gracias",
@@ -50966,6 +50966,11 @@
       {
         "texto": "No es podamos cae",
         "fecha": "2026-08-04T14:31:26.246Z",
+        "sentimiento": "negativo"
+      },
+      {
+        "texto": "Lo de abajo es basura",
+        "fecha": "2026-08-04T14:32:10.582Z",
         "sentimiento": "negativo"
       }
     ]
@@ -51961,11 +51966,16 @@
     "ultimoMensaje": "Buen dia quisiera pedir x favor vengan a podarme la mora de la vereda",
     "mensaje": "Buen dia quisiera pedir x favor vengan a podarme la mora de la vereda",
     "fecha": "2026-08-04T14:32:05.357Z",
-    "ultimaActualizacion": "2026-08-04T14:32:05.357Z",
+    "ultimaActualizacion": "2026-08-04T14:32:08.173Z",
     "historialMensajes": [
       {
         "texto": "Buen dia quisiera pedir x favor vengan a podarme la mora de la vereda",
         "fecha": "2026-08-04T14:32:05.357Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Buen dia quisiera pedir x favor vengan a podarme la mora de la vereda",
+        "fecha": "2026-08-04T14:32:08.173Z",
         "sentimiento": "positivo"
       }
     ]
