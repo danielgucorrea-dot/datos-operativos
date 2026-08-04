@@ -52200,10 +52200,10 @@
     "nombre": "",
     "direccion": "Calle salta 361",
     "sentimiento": "positivo",
-    "ultimoMensaje": "Ok,, saco 5 bolsas . Cuando pasarían ,para no dejar las bolsas mucho tiempo afuera",
+    "ultimoMensaje": "Ok, gracias",
     "mensaje": "Buenos días, solicitó retiro de escombros. Calle salta 361 esquina. Salta . Gracias",
     "fecha": "2026-08-04T14:57:00.915Z",
-    "ultimaActualizacion": "2026-08-04T15:16:45.311Z",
+    "ultimaActualizacion": "2026-08-04T15:20:45.085Z",
     "historialMensajes": [
       {
         "texto": "Buenos días, solicitó retiro de escombros. Calle salta 361 esquina. Salta . Gracias",
@@ -52238,6 +52238,11 @@
       {
         "texto": "Ok,, saco 5 bolsas . Cuando pasarían ,para no dejar las bolsas mucho tiempo afuera",
         "fecha": "2026-08-04T15:16:45.311Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Ok, gracias",
+        "fecha": "2026-08-04T15:20:45.085Z",
         "sentimiento": "positivo"
       }
     ]
