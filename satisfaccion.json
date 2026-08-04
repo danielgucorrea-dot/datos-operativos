@@ -10872,7 +10872,7 @@
     "celular": "+54 9 3816 986-003",
     "nombre": "",
     "direccion": "Barrio feput manzana k casa 12",
-    "sentimiento": "neutro",
+    "sentimiento": "positivo",
     "evidencia_clasificacion": [],
     "canal": "WhatsApp Ambiente",
     "fecha": "2026-06-16",
@@ -10884,14 +10884,9 @@
       "Tengo muebles, restos de hierro para tirar",
       "Buen dia"
     ],
-    "ultimaActualizacion": "2026-08-04T11:52:06.084Z",
-    "ultimoMensaje": "Avíseme nuevamente y le aviso a mi marido para que lo saquen",
+    "ultimaActualizacion": "2026-08-04T12:19:35.131Z",
+    "ultimoMensaje": "Perfecto",
     "historialMensajes": [
-      {
-        "texto": "Barrio feput manzana k casa 12",
-        "fecha": "2026-07-30T14:25:14.297Z",
-        "sentimiento": "neutro"
-      },
       {
         "texto": "Altura castro barros 2500",
         "fecha": "2026-07-30T14:25:23.728Z",
@@ -10936,6 +10931,11 @@
         "texto": "Avíseme nuevamente y le aviso a mi marido para que lo saquen",
         "fecha": "2026-08-04T11:52:06.084Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Perfecto",
+        "fecha": "2026-08-04T12:19:35.131Z",
+        "sentimiento": "positivo"
       }
     ]
   },
