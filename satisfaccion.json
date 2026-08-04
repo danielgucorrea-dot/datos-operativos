@@ -50853,11 +50853,11 @@
     "celular": "+54 9 210028313215188",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Buen día",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Ya sacamos las ramas a la vereda",
     "mensaje": "Buen dia",
     "fecha": "2026-08-03T16:27:39.784Z",
-    "ultimaActualizacion": "2026-08-04T12:34:16.400Z",
+    "ultimaActualizacion": "2026-08-04T12:34:17.893Z",
     "historialMensajes": [
       {
         "texto": "Buen dia",
@@ -50868,6 +50868,11 @@
         "texto": "Buen día",
         "fecha": "2026-08-04T12:34:16.400Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Ya sacamos las ramas a la vereda",
+        "fecha": "2026-08-04T12:34:17.893Z",
+        "sentimiento": "positivo"
       }
     ]
   },
