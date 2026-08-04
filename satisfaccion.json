@@ -51186,14 +51186,19 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "neutro",
-    "ultimoMensaje": "Hola",
+    "ultimoMensaje": "Hola es para desagota un poso d cloaca",
     "mensaje": "Hola",
     "fecha": "2026-08-03T21:11:35.686Z",
-    "ultimaActualizacion": "2026-08-03T21:11:35.686Z",
+    "ultimaActualizacion": "2026-08-04T11:34:49.397Z",
     "historialMensajes": [
       {
         "texto": "Hola",
         "fecha": "2026-08-03T21:11:35.686Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Hola es para desagota un poso d cloaca",
+        "fecha": "2026-08-04T11:34:49.397Z",
         "sentimiento": "neutro"
       }
     ]
