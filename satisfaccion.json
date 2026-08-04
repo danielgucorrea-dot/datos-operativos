@@ -52010,10 +52010,10 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "neutro",
-    "ultimoMensaje": "Fíjate vos si podés plantear algo.\n\nQue decirte",
+    "ultimoMensaje": "Debería haber comunicación entre Uds. \n\nEspero se entienda. \n\nUds limpian. \nNadie controla 🤷🏻",
     "mensaje": "Pellegrini y lavaisse",
     "fecha": "2026-08-04T14:12:21.355Z",
-    "ultimaActualizacion": "2026-08-04T15:07:38.507Z",
+    "ultimaActualizacion": "2026-08-04T15:12:29.752Z",
     "historialMensajes": [
       {
         "texto": "Pellegrini y lavaisse",
@@ -52048,6 +52048,11 @@
       {
         "texto": "Fíjate vos si podés plantear algo.\n\nQue decirte",
         "fecha": "2026-08-04T15:07:38.507Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Debería haber comunicación entre Uds. \n\nEspero se entienda. \n\nUds limpian. \nNadie controla 🤷🏻",
+        "fecha": "2026-08-04T15:12:29.752Z",
         "sentimiento": "neutro"
       }
     ]
