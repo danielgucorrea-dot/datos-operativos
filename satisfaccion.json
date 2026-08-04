@@ -51688,16 +51688,21 @@
     "numero": "278537235886328",
     "celular": "+54 9 3814 178-090",
     "nombre": "",
-    "direccion": null,
+    "direccion": "Ernesto Padilla 20",
     "sentimiento": "neutro",
-    "ultimoMensaje": "Hola buen día, quería saber para levantar unas ramas la cual podamos un árbol grande para levantar las, cómo sería el trámite?",
+    "ultimoMensaje": "Ernesto Padilla 20",
     "mensaje": "Hola buen día, quería saber para levantar unas ramas la cual podamos un árbol grande para levantar las, cómo sería el trámite?",
     "fecha": "2026-08-04T13:34:14.000Z",
-    "ultimaActualizacion": "2026-08-04T13:34:14.000Z",
+    "ultimaActualizacion": "2026-08-04T13:49:42.787Z",
     "historialMensajes": [
       {
         "texto": "Hola buen día, quería saber para levantar unas ramas la cual podamos un árbol grande para levantar las, cómo sería el trámite?",
         "fecha": "2026-08-04T13:34:14.000Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Ernesto Padilla 20",
+        "fecha": "2026-08-04T13:49:42.787Z",
         "sentimiento": "neutro"
       }
     ]
