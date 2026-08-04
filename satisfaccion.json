@@ -51881,10 +51881,10 @@
     "nombre": "",
     "direccion": "Ernesto Padilla 20",
     "sentimiento": "neutro",
-    "ultimoMensaje": "Que día y horario lo harían así evitamos que estacionen ahí?",
+    "ultimoMensaje": "Bien, para que día sería?",
     "mensaje": "Hola buen día, quería saber para levantar unas ramas la cual podamos un árbol grande para levantar las, cómo sería el trámite?",
     "fecha": "2026-08-04T13:34:14.000Z",
-    "ultimaActualizacion": "2026-08-04T14:45:21.402Z",
+    "ultimaActualizacion": "2026-08-04T14:53:27.081Z",
     "historialMensajes": [
       {
         "texto": "Hola buen día, quería saber para levantar unas ramas la cual podamos un árbol grande para levantar las, cómo sería el trámite?",
@@ -51909,6 +51909,11 @@
       {
         "texto": "Que día y horario lo harían así evitamos que estacionen ahí?",
         "fecha": "2026-08-04T14:45:21.402Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Bien, para que día sería?",
+        "fecha": "2026-08-04T14:53:27.081Z",
         "sentimiento": "neutro"
       }
     ]
