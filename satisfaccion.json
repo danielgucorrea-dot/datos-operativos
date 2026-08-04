@@ -51074,16 +51074,21 @@
     "celular": "+54 9 3815 611-145",
     "nombre": "",
     "direccion": "barrio feput",
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Esa la misma dirección,  barrio feput, calle ingenieros (que es la manzana i casa6) casi esquina con la diagonal principal  luzondo borda",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "OK muchas gracias",
     "mensaje": "Esa la misma dirección,  barrio feput, calle ingenieros (que es la manzana i casa6) casi esquina con la diagonal principal  luzondo borda",
     "fecha": "2026-08-03T17:39:10.369Z",
-    "ultimaActualizacion": "2026-08-03T17:39:10.369Z",
+    "ultimaActualizacion": "2026-08-04T12:46:16.046Z",
     "historialMensajes": [
       {
         "texto": "Esa la misma dirección,  barrio feput, calle ingenieros (que es la manzana i casa6) casi esquina con la diagonal principal  luzondo borda",
         "fecha": "2026-08-03T17:39:10.369Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "OK muchas gracias",
+        "fecha": "2026-08-04T12:46:16.046Z",
+        "sentimiento": "positivo"
       }
     ]
   },
