@@ -51842,7 +51842,7 @@
     "ultimoMensaje": "Gracias",
     "mensaje": "Buenos dias",
     "fecha": "2026-08-04T12:02:50.712Z",
-    "ultimaActualizacion": "2026-08-04T12:04:26.421Z",
+    "ultimaActualizacion": "2026-08-04T21:43:47.470Z",
     "historialMensajes": [
       {
         "texto": "Buenos dias",
@@ -51857,6 +51857,11 @@
       {
         "texto": "Gracias",
         "fecha": "2026-08-04T12:04:26.421Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Gracias",
+        "fecha": "2026-08-04T21:43:47.470Z",
         "sentimiento": "positivo"
       }
     ]
