@@ -10884,14 +10884,9 @@
       "Tengo muebles, restos de hierro para tirar",
       "Buen dia"
     ],
-    "ultimaActualizacion": "2026-08-04T11:51:37.263Z",
-    "ultimoMensaje": "Ah bien",
+    "ultimaActualizacion": "2026-08-04T11:52:06.084Z",
+    "ultimoMensaje": "Avíseme nuevamente y le aviso a mi marido para que lo saquen",
     "historialMensajes": [
-      {
-        "texto": "Buenas necesito me retiren estas cosas de mi domicilio",
-        "fecha": "2026-07-29T21:49:38.915Z",
-        "sentimiento": "negativo"
-      },
       {
         "texto": "Barrio feput manzana k casa 12",
         "fecha": "2026-07-30T14:25:14.297Z",
@@ -10935,6 +10930,11 @@
       {
         "texto": "Ah bien",
         "fecha": "2026-08-04T11:51:37.263Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Avíseme nuevamente y le aviso a mi marido para que lo saquen",
+        "fecha": "2026-08-04T11:52:06.084Z",
         "sentimiento": "neutro"
       }
     ]
