@@ -52352,16 +52352,21 @@
     "numero": "178885438255240",
     "celular": "+54 9 3815 899-362",
     "nombre": "",
-    "direccion": null,
+    "direccion": "Barrio victoria",
     "sentimiento": "neutro",
-    "ultimoMensaje": "Buenas tardes",
+    "ultimoMensaje": "Pasaje montevideo 2083\nAltura amador lucero 1550\nBarrio victoria",
     "mensaje": "Buenas tardes",
     "fecha": "2026-08-04T15:48:23.489Z",
-    "ultimaActualizacion": "2026-08-04T15:48:23.489Z",
+    "ultimaActualizacion": "2026-08-04T15:49:34.063Z",
     "historialMensajes": [
       {
         "texto": "Buenas tardes",
         "fecha": "2026-08-04T15:48:23.489Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Pasaje montevideo 2083\nAltura amador lucero 1550\nBarrio victoria",
+        "fecha": "2026-08-04T15:49:34.063Z",
         "sentimiento": "neutro"
       }
     ]
