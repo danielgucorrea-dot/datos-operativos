@@ -51536,10 +51536,10 @@
     "nombre": "",
     "direccion": "barrio cuidadela",
     "sentimiento": "negativo",
-    "ultimoMensaje": "Es un basural contaste ya que es una vivienda abandonada",
+    "ultimoMensaje": "Si podrían poner un cartel anunciando multas porq esto es de hace AÑOS",
     "mensaje": "Denuncia por un continuo basural hecho por unos vecinos de la cuadra( tte matienzo 400 barrio cuidadela)",
     "fecha": "2026-08-04T01:08:56.975Z",
-    "ultimaActualizacion": "2026-08-04T01:09:34.522Z",
+    "ultimaActualizacion": "2026-08-04T14:10:41.101Z",
     "historialMensajes": [
       {
         "texto": "Denuncia por un continuo basural hecho por unos vecinos de la cuadra( tte matienzo 400 barrio cuidadela)",
@@ -51549,6 +51549,11 @@
       {
         "texto": "Es un basural contaste ya que es una vivienda abandonada",
         "fecha": "2026-08-04T01:09:34.522Z",
+        "sentimiento": "negativo"
+      },
+      {
+        "texto": "Si podrían poner un cartel anunciando multas porq esto es de hace AÑOS",
+        "fecha": "2026-08-04T14:10:41.101Z",
         "sentimiento": "negativo"
       }
     ]
