@@ -51190,10 +51190,10 @@
     "nombre": "",
     "direccion": "Pasaje Ceballos 1181",
     "sentimiento": "neutro",
-    "ultimoMensaje": "Hola buen día , será que hoy podrán llegarse",
+    "ultimoMensaje": "Un cuerpo de sillon chico \nMaderas \n Silla rota\nColchón",
     "mensaje": "Hola buenas tardes",
     "fecha": "2026-08-03T20:31:10.286Z",
-    "ultimaActualizacion": "2026-08-04T12:01:17.945Z",
+    "ultimaActualizacion": "2026-08-04T12:28:04.052Z",
     "historialMensajes": [
       {
         "texto": "Hola buenas tardes",
@@ -51208,6 +51208,11 @@
       {
         "texto": "Hola buen día , será que hoy podrán llegarse",
         "fecha": "2026-08-04T12:01:17.945Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Un cuerpo de sillon chico \nMaderas \n Silla rota\nColchón",
+        "fecha": "2026-08-04T12:28:04.052Z",
         "sentimiento": "neutro"
       }
     ]
@@ -51493,16 +51498,21 @@
     "celular": "+54 9 3814 467-978",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "positivo",
+    "sentimiento": "negativo",
     "ultimoMensaje": "Buen dia , nesecito que pasen a retirar unos escombros de mi casa ....que trasmite tengo que hacer??",
     "mensaje": "Buen dia , nesecito que pasen a retirar unos escombros de mi casa ....que trasmite tengo que hacer??",
     "fecha": "2026-08-04T12:26:51.967Z",
-    "ultimaActualizacion": "2026-08-04T12:26:51.967Z",
+    "ultimaActualizacion": "2026-08-04T12:26:55.124Z",
     "historialMensajes": [
       {
         "texto": "Buen dia , nesecito que pasen a retirar unos escombros de mi casa ....que trasmite tengo que hacer??",
         "fecha": "2026-08-04T12:26:51.967Z",
         "sentimiento": "positivo"
+      },
+      {
+        "texto": "Buen dia , nesecito que pasen a retirar unos escombros de mi casa ....que trasmite tengo que hacer??",
+        "fecha": "2026-08-04T12:26:55.124Z",
+        "sentimiento": "negativo"
       }
     ]
   }
