@@ -50926,10 +50926,10 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "neutro",
-    "ultimoMensaje": "Es el Hogar Santa Rita",
+    "ultimoMensaje": "Quisiera consultar si van a poder retirar los colchones,  ayer los esperamos",
     "mensaje": "Señor",
     "fecha": "2026-08-03T17:13:36.412Z",
-    "ultimaActualizacion": "2026-08-03T17:14:52.948Z",
+    "ultimaActualizacion": "2026-08-04T12:12:27.515Z",
     "historialMensajes": [
       {
         "texto": "Señor",
@@ -50949,6 +50949,16 @@
       {
         "texto": "Es el Hogar Santa Rita",
         "fecha": "2026-08-03T17:14:52.948Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Buenos días 🤗",
+        "fecha": "2026-08-04T12:12:17.491Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Quisiera consultar si van a poder retirar los colchones,  ayer los esperamos",
+        "fecha": "2026-08-04T12:12:27.515Z",
         "sentimiento": "neutro"
       }
     ]
