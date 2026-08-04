@@ -10884,14 +10884,9 @@
       "Tengo muebles, restos de hierro para tirar",
       "Buen dia"
     ],
-    "ultimaActualizacion": "2026-08-04T12:19:35.131Z",
-    "ultimoMensaje": "Perfecto",
+    "ultimaActualizacion": "2026-08-04T12:19:38.915Z",
+    "ultimoMensaje": "Le agradezco",
     "historialMensajes": [
-      {
-        "texto": "Altura castro barros 2500",
-        "fecha": "2026-07-30T14:25:23.728Z",
-        "sentimiento": "neutro"
-      },
       {
         "texto": "Esa es",
         "fecha": "2026-07-30T14:43:48.920Z",
@@ -10935,6 +10930,11 @@
       {
         "texto": "Perfecto",
         "fecha": "2026-08-04T12:19:35.131Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Le agradezco",
+        "fecha": "2026-08-04T12:19:38.915Z",
         "sentimiento": "positivo"
       }
     ]
@@ -51429,6 +51429,24 @@
         "texto": "Gracias",
         "fecha": "2026-08-04T12:04:26.421Z",
         "sentimiento": "positivo"
+      }
+    ]
+  },
+  {
+    "numero": "6519894589538",
+    "celular": "+54 9 3816 800-210",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Buenos días más tarde envío ahora no estoy en el lugar",
+    "mensaje": "Buenos días más tarde envío ahora no estoy en el lugar",
+    "fecha": "2026-08-04T12:22:38.515Z",
+    "ultimaActualizacion": "2026-08-04T12:22:38.515Z",
+    "historialMensajes": [
+      {
+        "texto": "Buenos días más tarde envío ahora no estoy en el lugar",
+        "fecha": "2026-08-04T12:22:38.515Z",
+        "sentimiento": "neutro"
       }
     ]
   }
