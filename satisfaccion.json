@@ -41239,10 +41239,10 @@
     "nombre": "",
     "direccion": "Dr Vallejos 4200",
     "sentimiento": "neutro",
-    "ultimoMensaje": "Dr Vallejos 4200",
+    "ultimoMensaje": "Buenos dias!!",
     "mensaje": "Buenos dias, 👍",
     "fecha": "2026-07-08T11:27:20.013Z",
-    "ultimaActualizacion": "2026-08-04T14:53:43.466Z",
+    "ultimaActualizacion": "2026-08-04T14:53:49.322Z",
     "historialMensajes": [
       {
         "texto": "Buenos dias, 👍",
@@ -41257,6 +41257,11 @@
       {
         "texto": "Dr Vallejos 4200",
         "fecha": "2026-08-04T14:53:43.466Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Buenos dias!!",
+        "fecha": "2026-08-04T14:53:49.322Z",
         "sentimiento": "neutro"
       }
     ]
