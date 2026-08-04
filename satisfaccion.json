@@ -50926,10 +50926,10 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "neutro",
-    "ultimoMensaje": "Quisiera consultar si van a poder retirar los colchones,  ayer los esperamos",
+    "ultimoMensaje": "Sabe lo que pasa nosotros somos una institución publica, que no podemos dejar en la.vereda porque los vecinos se lo van a llevar",
     "mensaje": "Señor",
     "fecha": "2026-08-03T17:13:36.412Z",
-    "ultimaActualizacion": "2026-08-04T12:12:27.515Z",
+    "ultimaActualizacion": "2026-08-04T12:15:23.526Z",
     "historialMensajes": [
       {
         "texto": "Señor",
@@ -50959,6 +50959,11 @@
       {
         "texto": "Quisiera consultar si van a poder retirar los colchones,  ayer los esperamos",
         "fecha": "2026-08-04T12:12:27.515Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Sabe lo que pasa nosotros somos una institución publica, que no podemos dejar en la.vereda porque los vecinos se lo van a llevar",
+        "fecha": "2026-08-04T12:15:23.526Z",
         "sentimiento": "neutro"
       }
     ]
