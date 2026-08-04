@@ -50950,11 +50950,11 @@
     "celular": "+54 9 215628933763299",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Sino lo llevan mañana paso dirección todo",
+    "sentimiento": "negativo",
+    "ultimoMensaje": "Es que espero hasta mañana sino levantan mañana hago la denuncia",
     "mensaje": "Bueno gracias",
     "fecha": "2026-08-03T16:27:39.606Z",
-    "ultimaActualizacion": "2026-08-04T14:34:36.181Z",
+    "ultimaActualizacion": "2026-08-04T14:50:10.440Z",
     "historialMensajes": [
       {
         "texto": "Bueno gracias",
@@ -51000,6 +51000,11 @@
         "texto": "Sino lo llevan mañana paso dirección todo",
         "fecha": "2026-08-04T14:34:36.181Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Es que espero hasta mañana sino levantan mañana hago la denuncia",
+        "fecha": "2026-08-04T14:50:10.440Z",
+        "sentimiento": "negativo"
       }
     ]
   },
