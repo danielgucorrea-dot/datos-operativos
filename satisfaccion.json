@@ -33994,7 +33994,7 @@
     "celular": "+54 9 3815 342-544",
     "nombre": "",
     "direccion": "Av Ernesto padilla 10",
-    "sentimiento": "positivo",
+    "sentimiento": "neutro",
     "evidencia_clasificacion": [],
     "canal": "WhatsApp Ambiente",
     "fecha": "2026-04-20",
@@ -34016,14 +34016,9 @@
       "Quiero hacer una denuncia",
       "Hola que tal"
     ],
-    "ultimaActualizacion": "2026-08-04T14:24:42.288Z",
-    "ultimoMensaje": "Gracias",
+    "ultimaActualizacion": "2026-08-04T14:42:54.728Z",
+    "ultimoMensaje": "Es aparte si.",
     "historialMensajes": [
-      {
-        "texto": "Hola que tal",
-        "fecha": "2026-08-03T21:05:00.946Z",
-        "sentimiento": "neutro"
-      },
       {
         "texto": "Necesito recoger ramas de una palmera",
         "fecha": "2026-08-03T21:06:05.090Z",
@@ -34068,6 +34063,11 @@
         "texto": "Gracias",
         "fecha": "2026-08-04T14:24:42.288Z",
         "sentimiento": "positivo"
+      },
+      {
+        "texto": "Es aparte si.",
+        "fecha": "2026-08-04T14:42:54.728Z",
+        "sentimiento": "neutro"
       }
     ]
   },
