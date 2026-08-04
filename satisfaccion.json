@@ -301,16 +301,11 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "neutro",
-    "ultimoMensaje": "!invitar_docentes CONFIRMAR",
+    "ultimoMensaje": "!invitar_alumnos_auto",
     "mensaje": "Hola",
     "fecha": "2026-07-06T18:02:30.845Z",
-    "ultimaActualizacion": "2026-08-04T15:02:26.147Z",
+    "ultimaActualizacion": "2026-08-04T15:41:58.433Z",
     "historialMensajes": [
-      {
-        "texto": "!invitar_docentes",
-        "fecha": "2026-08-01T17:11:37.004Z",
-        "sentimiento": "neutro"
-      },
       {
         "texto": "!invitar_docentes CONFIRMAR",
         "fecha": "2026-08-01T17:11:39.256Z",
@@ -354,6 +349,11 @@
       {
         "texto": "!invitar_docentes CONFIRMAR",
         "fecha": "2026-08-04T15:02:26.147Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "!invitar_alumnos_auto",
+        "fecha": "2026-08-04T15:41:58.433Z",
         "sentimiento": "neutro"
       }
     ]
@@ -52322,6 +52322,24 @@
         "texto": "Listo",
         "fecha": "2026-08-04T15:03:39.056Z",
         "sentimiento": "neutro"
+      }
+    ]
+  },
+  {
+    "numero": "30391842939057",
+    "celular": "+54 9 3814 033-122",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Hola bien muchas gracias",
+    "mensaje": "Hola bien muchas gracias",
+    "fecha": "2026-08-04T15:44:33.729Z",
+    "ultimaActualizacion": "2026-08-04T15:44:33.729Z",
+    "historialMensajes": [
+      {
+        "texto": "Hola bien muchas gracias",
+        "fecha": "2026-08-04T15:44:33.729Z",
+        "sentimiento": "positivo"
       }
     ]
   }
