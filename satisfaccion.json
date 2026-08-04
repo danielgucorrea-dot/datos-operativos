@@ -52004,12 +52004,12 @@
     "numero": "112854577508360",
     "celular": "+54 9 3816 857-130",
     "nombre": "",
-    "direccion": null,
+    "direccion": "Luis Federico Nougues 984",
     "sentimiento": "neutro",
-    "ultimoMensaje": "Mi nombre es Mirta Reyes",
+    "ultimoMensaje": "Mi dirección exacta es Luis Federico Nougues 984   Villa 9 de Julio",
     "mensaje": "Buenos días. Necesito  el retiro de residuos no habituales.  Favor indicarme condiciones.",
     "fecha": "2026-08-04T14:33:31.911Z",
-    "ultimaActualizacion": "2026-08-04T14:34:33.768Z",
+    "ultimaActualizacion": "2026-08-04T14:35:13.797Z",
     "historialMensajes": [
       {
         "texto": "Buenos días. Necesito  el retiro de residuos no habituales.  Favor indicarme condiciones.",
@@ -52019,6 +52019,11 @@
       {
         "texto": "Mi nombre es Mirta Reyes",
         "fecha": "2026-08-04T14:34:33.768Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Mi dirección exacta es Luis Federico Nougues 984   Villa 9 de Julio",
+        "fecha": "2026-08-04T14:35:13.797Z",
         "sentimiento": "neutro"
       }
     ]
