@@ -51234,16 +51234,11 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "positivo",
-    "ultimoMensaje": "Podría decur a que hora vendrá así ayude a levantar",
+    "ultimoMensaje": "Bueno gracias",
     "mensaje": "Tengo que poner en bolsa los escombros",
     "fecha": "2026-08-03T18:13:56.390Z",
-    "ultimaActualizacion": "2026-08-04T14:05:16.596Z",
+    "ultimaActualizacion": "2026-08-04T14:19:45.665Z",
     "historialMensajes": [
-      {
-        "texto": "Tengo que poner en bolsa los escombros",
-        "fecha": "2026-08-03T18:13:56.390Z",
-        "sentimiento": "neutro"
-      },
       {
         "texto": "Bueno, recién veo el mensaje",
         "fecha": "2026-08-03T18:14:50.793Z",
@@ -51287,6 +51282,11 @@
       {
         "texto": "Podría decur a que hora vendrá así ayude a levantar",
         "fecha": "2026-08-04T14:05:16.596Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Bueno gracias",
+        "fecha": "2026-08-04T14:19:45.665Z",
         "sentimiento": "positivo"
       }
     ]
