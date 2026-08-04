@@ -52018,11 +52018,11 @@
     "celular": "+54 9 3814 633-151",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "positivo",
-    "ultimoMensaje": "Para hacer un pedido",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Me podrías guiar cmo se podrá hacer algún pedido presentarlo",
     "mensaje": "Buen día",
     "fecha": "2026-08-04T13:48:16.666Z",
-    "ultimaActualizacion": "2026-08-04T15:52:27.267Z",
+    "ultimaActualizacion": "2026-08-04T15:57:43.134Z",
     "historialMensajes": [
       {
         "texto": "Buen día",
@@ -52038,6 +52038,11 @@
         "texto": "Para hacer un pedido",
         "fecha": "2026-08-04T15:52:27.267Z",
         "sentimiento": "positivo"
+      },
+      {
+        "texto": "Me podrías guiar cmo se podrá hacer algún pedido presentarlo",
+        "fecha": "2026-08-04T15:57:43.134Z",
+        "sentimiento": "neutro"
       }
     ]
   },
@@ -52194,10 +52199,10 @@
     "nombre": "",
     "direccion": "Luis Federico Nougues 984",
     "sentimiento": "positivo",
-    "ultimoMensaje": "Muy bien",
+    "ultimoMensaje": "Gracias",
     "mensaje": "Buenos días. Necesito  el retiro de residuos no habituales.  Favor indicarme condiciones.",
     "fecha": "2026-08-04T14:33:31.911Z",
-    "ultimaActualizacion": "2026-08-04T15:55:54.334Z",
+    "ultimaActualizacion": "2026-08-04T15:56:05.974Z",
     "historialMensajes": [
       {
         "texto": "Buenos días. Necesito  el retiro de residuos no habituales.  Favor indicarme condiciones.",
@@ -52232,6 +52237,11 @@
       {
         "texto": "Muy bien",
         "fecha": "2026-08-04T15:55:54.334Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Gracias",
+        "fecha": "2026-08-04T15:56:05.974Z",
         "sentimiento": "positivo"
       }
     ]
