@@ -13445,7 +13445,7 @@
       "Necesito si pueden pasar x 3 bolsas pasto y 1 bolsa escombros",
       "Buen día"
     ],
-    "ultimaActualizacion": "2026-08-03T17:33:42.384Z",
+    "ultimaActualizacion": "2026-08-04T11:27:55.955Z",
     "ultimoMensaje": "Chacabuco 1038",
     "historialMensajes": [
       {
@@ -13456,6 +13456,16 @@
       {
         "texto": "Chacabuco 1038",
         "fecha": "2026-08-03T17:33:42.384Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Buen día",
+        "fecha": "2026-08-04T11:27:53.433Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Chacabuco 1038",
+        "fecha": "2026-08-04T11:27:55.955Z",
         "sentimiento": "neutro"
       }
     ]
