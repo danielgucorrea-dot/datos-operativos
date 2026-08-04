@@ -50960,17 +50960,12 @@
     "celular": "+54 9 215628933763299",
     "nombre": "",
     "direccion": "Pje Jose Maria Pereda 1532",
-    "sentimiento": "negativo",
-    "ultimoMensaje": "Yo tengo miedo xq son atrevidos",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Muchas gracias",
     "mensaje": "Bueno gracias",
     "fecha": "2026-08-03T16:27:39.606Z",
-    "ultimaActualizacion": "2026-08-04T14:54:32.420Z",
+    "ultimaActualizacion": "2026-08-04T14:56:03.911Z",
     "historialMensajes": [
-      {
-        "texto": "Esa es la basura aparte lo de la casa",
-        "fecha": "2026-08-04T13:12:56.173Z",
-        "sentimiento": "neutro"
-      },
       {
         "texto": "No es poda",
         "fecha": "2026-08-04T14:25:42.461Z",
@@ -51015,6 +51010,11 @@
         "texto": "Yo tengo miedo xq son atrevidos",
         "fecha": "2026-08-04T14:54:32.420Z",
         "sentimiento": "negativo"
+      },
+      {
+        "texto": "Muchas gracias",
+        "fecha": "2026-08-04T14:56:03.911Z",
+        "sentimiento": "positivo"
       }
     ]
   },
