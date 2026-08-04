@@ -51968,10 +51968,10 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "positivo",
-    "ultimoMensaje": "Buen dia quisiera pedir x favor vengan a podarme la mora de la vereda",
+    "ultimoMensaje": "Ahh bien gracias",
     "mensaje": "Buen dia quisiera pedir x favor vengan a podarme la mora de la vereda",
     "fecha": "2026-08-04T14:32:05.357Z",
-    "ultimaActualizacion": "2026-08-04T14:32:08.173Z",
+    "ultimaActualizacion": "2026-08-04T14:33:34.826Z",
     "historialMensajes": [
       {
         "texto": "Buen dia quisiera pedir x favor vengan a podarme la mora de la vereda",
@@ -51982,6 +51982,11 @@
         "texto": "Buen dia quisiera pedir x favor vengan a podarme la mora de la vereda",
         "fecha": "2026-08-04T14:32:08.173Z",
         "sentimiento": "positivo"
+      },
+      {
+        "texto": "Ahh bien gracias",
+        "fecha": "2026-08-04T14:33:34.826Z",
+        "sentimiento": "positivo"
       }
     ]
   },
@@ -51990,16 +51995,21 @@
     "celular": "+54 9 3816 857-130",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "positivo",
-    "ultimoMensaje": "Buenos días. Necesito  el retiro de residuos no habituales.  Favor indicarme condiciones.",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Mi nombre es Mirta Reyes",
     "mensaje": "Buenos días. Necesito  el retiro de residuos no habituales.  Favor indicarme condiciones.",
     "fecha": "2026-08-04T14:33:31.911Z",
-    "ultimaActualizacion": "2026-08-04T14:33:31.911Z",
+    "ultimaActualizacion": "2026-08-04T14:34:33.768Z",
     "historialMensajes": [
       {
         "texto": "Buenos días. Necesito  el retiro de residuos no habituales.  Favor indicarme condiciones.",
         "fecha": "2026-08-04T14:33:31.911Z",
         "sentimiento": "positivo"
+      },
+      {
+        "texto": "Mi nombre es Mirta Reyes",
+        "fecha": "2026-08-04T14:34:33.768Z",
+        "sentimiento": "neutro"
       }
     ]
   }
