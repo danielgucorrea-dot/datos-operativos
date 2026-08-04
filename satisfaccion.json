@@ -52620,5 +52620,33 @@
         "sentimiento": "positivo"
       }
     ]
+  },
+  {
+    "numero": "93978212995296",
+    "celular": "+54 9 3816 395-682",
+    "nombre": "",
+    "direccion": "Calle Santiago 1098",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Calle Santiago 1098",
+    "mensaje": "Buenas tardes",
+    "fecha": "2026-08-04T22:11:28.081Z",
+    "ultimaActualizacion": "2026-08-04T22:12:04.798Z",
+    "historialMensajes": [
+      {
+        "texto": "Buenas tardes",
+        "fecha": "2026-08-04T22:11:28.081Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Buenas tardes",
+        "fecha": "2026-08-04T22:11:30.960Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Calle Santiago 1098",
+        "fecha": "2026-08-04T22:12:04.798Z",
+        "sentimiento": "neutro"
+      }
+    ]
   }
 ]
