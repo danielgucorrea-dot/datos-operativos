@@ -17678,12 +17678,17 @@
       "Por favor me avisan horario aproximado para que haya alguien en casa",
       "Necesito que me retiren residuos y escombros"
     ],
-    "ultimaActualizacion": "2026-08-04T13:58:08.115Z",
-    "ultimoMensaje": "Tambien un poco de poda de plantas",
+    "ultimaActualizacion": "2026-08-04T13:59:19.306Z",
+    "ultimoMensaje": "Por favor quiero que me avise cuando vendrán para que saque a la vereda. Ahora llueve y se puede mojar, pero cuando me digan saco todo",
     "historialMensajes": [
       {
         "texto": "Tambien un poco de poda de plantas",
         "fecha": "2026-08-04T13:58:08.115Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Por favor quiero que me avise cuando vendrán para que saque a la vereda. Ahora llueve y se puede mojar, pero cuando me digan saco todo",
+        "fecha": "2026-08-04T13:59:19.306Z",
         "sentimiento": "positivo"
       }
     ]
