@@ -25668,7 +25668,7 @@
     "celular": "+54 9 3814 422-369",
     "nombre": "",
     "direccion": "",
-    "sentimiento": "neutro",
+    "sentimiento": "positivo",
     "evidencia_clasificacion": [],
     "canal": "WhatsApp Ambiente",
     "fecha": "2026-05-18",
@@ -25678,13 +25678,18 @@
       "Yo la verdad no sé hacer eso, por favor haganlo más sensillo",
       "Y que tengo que hacer?"
     ],
-    "ultimaActualizacion": "2026-08-04T14:47:10.024Z",
-    "ultimoMensaje": "Hola, buen día",
+    "ultimaActualizacion": "2026-08-04T14:48:41.145Z",
+    "ultimoMensaje": "Tengo 3 bolsas con vidrios,se me rompió una puerta,uds los buscan ? Del domicilio?",
     "historialMensajes": [
       {
         "texto": "Hola, buen día",
         "fecha": "2026-08-04T14:47:10.024Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Tengo 3 bolsas con vidrios,se me rompió una puerta,uds los buscan ? Del domicilio?",
+        "fecha": "2026-08-04T14:48:41.145Z",
+        "sentimiento": "positivo"
       }
     ]
   },
