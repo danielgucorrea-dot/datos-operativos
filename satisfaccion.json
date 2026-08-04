@@ -52400,5 +52400,28 @@
         "sentimiento": "neutro"
       }
     ]
+  },
+  {
+    "numero": "92866370121912",
+    "celular": "+54 9 3816 468-150",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Anotenmeee😭",
+    "mensaje": "Claro claro, esta bien igual",
+    "fecha": "2026-08-04T16:04:44.230Z",
+    "ultimaActualizacion": "2026-08-04T16:04:49.787Z",
+    "historialMensajes": [
+      {
+        "texto": "Claro claro, esta bien igual",
+        "fecha": "2026-08-04T16:04:44.230Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Anotenmeee😭",
+        "fecha": "2026-08-04T16:04:49.787Z",
+        "sentimiento": "neutro"
+      }
+    ]
   }
 ]
