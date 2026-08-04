@@ -42397,10 +42397,10 @@
     "nombre": "",
     "direccion": "Constitución 1571",
     "sentimiento": "neutro",
-    "ultimoMensaje": "Es poco escombro",
+    "ultimoMensaje": "No dañara la vereda",
     "mensaje": "Hola buenas tardes",
     "fecha": "2026-07-10T18:10:24.994Z",
-    "ultimaActualizacion": "2026-08-04T13:17:55.041Z",
+    "ultimaActualizacion": "2026-08-04T13:18:10.057Z",
     "historialMensajes": [
       {
         "texto": "Hola buenas tardes",
@@ -42425,6 +42425,11 @@
       {
         "texto": "Es poco escombro",
         "fecha": "2026-08-04T13:17:55.041Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "No dañara la vereda",
+        "fecha": "2026-08-04T13:18:10.057Z",
         "sentimiento": "neutro"
       }
     ]
