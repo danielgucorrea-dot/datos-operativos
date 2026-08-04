@@ -46310,11 +46310,11 @@
     "celular": "+54 9 3816 566-996",
     "nombre": "",
     "direccion": "Barrio Padilla",
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Diagonal N 8 1020, Barrio Padilla altura calle España al 4400",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Gracias",
     "mensaje": "Muchas gracias por responder. Realmente me preocupa porque hay una pérdida de agua más la basura del ambiente se hace muy difícil la limpieza por parte de cada vecino de la cuadra.",
     "fecha": "2026-07-28T13:12:03.032Z",
-    "ultimaActualizacion": "2026-08-03T20:38:58.274Z",
+    "ultimaActualizacion": "2026-08-04T13:03:56.480Z",
     "historialMensajes": [
       {
         "texto": "Muchas gracias por responder. Realmente me preocupa porque hay una pérdida de agua más la basura del ambiente se hace muy difícil la limpieza por parte de cada vecino de la cuadra.",
@@ -46340,6 +46340,11 @@
         "texto": "Diagonal N 8 1020, Barrio Padilla altura calle España al 4400",
         "fecha": "2026-08-03T20:38:58.274Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Gracias",
+        "fecha": "2026-08-04T13:03:56.480Z",
+        "sentimiento": "positivo"
       }
     ]
   },
