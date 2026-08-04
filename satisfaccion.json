@@ -42439,11 +42439,11 @@
     "celular": "+54 9 3812 075-876",
     "nombre": "",
     "direccion": "Constitución 1571",
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Si no hay problema usenla no dañara la vereda",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Gracias",
     "mensaje": "Hola buenas tardes",
     "fecha": "2026-07-10T18:10:24.994Z",
-    "ultimaActualizacion": "2026-08-04T14:28:06.430Z",
+    "ultimaActualizacion": "2026-08-04T14:29:27.101Z",
     "historialMensajes": [
       {
         "texto": "Hola buenas tardes",
@@ -42479,6 +42479,11 @@
         "texto": "Si no hay problema usenla no dañara la vereda",
         "fecha": "2026-08-04T14:28:06.430Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Gracias",
+        "fecha": "2026-08-04T14:29:27.101Z",
+        "sentimiento": "positivo"
       }
     ]
   },
