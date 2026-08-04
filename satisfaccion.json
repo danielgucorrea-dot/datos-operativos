@@ -51449,5 +51449,23 @@
         "sentimiento": "neutro"
       }
     ]
+  },
+  {
+    "numero": "157333342650587",
+    "celular": "+54 9 3813 610-558",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "negativo",
+    "ultimoMensaje": "Buen dia,no ese es todo el escombro",
+    "mensaje": "Buen dia,no ese es todo el escombro",
+    "fecha": "2026-08-04T12:22:46.316Z",
+    "ultimaActualizacion": "2026-08-04T12:22:46.316Z",
+    "historialMensajes": [
+      {
+        "texto": "Buen dia,no ese es todo el escombro",
+        "fecha": "2026-08-04T12:22:46.316Z",
+        "sentimiento": "negativo"
+      }
+    ]
   }
 ]
