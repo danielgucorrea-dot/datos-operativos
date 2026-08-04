@@ -17683,8 +17683,8 @@
       "Por favor me avisan horario aproximado para que haya alguien en casa",
       "Necesito que me retiren residuos y escombros"
     ],
-    "ultimaActualizacion": "2026-08-04T15:21:10.002Z",
-    "ultimoMensaje": "Va a mandarlos o no??",
+    "ultimaActualizacion": "2026-08-04T15:21:44.173Z",
+    "ultimoMensaje": "Que lleven lo que quieran y el resto veo qué hago",
     "historialMensajes": [
       {
         "texto": "Tambien un poco de poda de plantas",
@@ -17709,6 +17709,11 @@
       {
         "texto": "Va a mandarlos o no??",
         "fecha": "2026-08-04T15:21:10.002Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Que lleven lo que quieran y el resto veo qué hago",
+        "fecha": "2026-08-04T15:21:44.173Z",
         "sentimiento": "neutro"
       }
     ]
@@ -51818,11 +51823,11 @@
     "celular": "+54 9 3816 800-210",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "positivo",
-    "ultimoMensaje": "Buenas tardes, tengo estas ramas.",
+    "sentimiento": "negativo",
+    "ultimoMensaje": "También había reclamado por basura que tiraron en la cuadra.",
     "mensaje": "Buenos días más tarde envío ahora no estoy en el lugar",
     "fecha": "2026-08-04T12:22:38.515Z",
-    "ultimaActualizacion": "2026-08-04T15:21:41.005Z",
+    "ultimaActualizacion": "2026-08-04T15:22:52.779Z",
     "historialMensajes": [
       {
         "texto": "Buenos días más tarde envío ahora no estoy en el lugar",
@@ -51833,6 +51838,11 @@
         "texto": "Buenas tardes, tengo estas ramas.",
         "fecha": "2026-08-04T15:21:41.005Z",
         "sentimiento": "positivo"
+      },
+      {
+        "texto": "También había reclamado por basura que tiraron en la cuadra.",
+        "fecha": "2026-08-04T15:22:52.779Z",
+        "sentimiento": "negativo"
       }
     ]
   },
