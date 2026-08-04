@@ -50854,14 +50854,19 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "neutro",
-    "ultimoMensaje": "Buen dia",
+    "ultimoMensaje": "Buen día",
     "mensaje": "Buen dia",
     "fecha": "2026-08-03T16:27:39.784Z",
-    "ultimaActualizacion": "2026-08-03T16:27:39.784Z",
+    "ultimaActualizacion": "2026-08-04T12:34:16.400Z",
     "historialMensajes": [
       {
         "texto": "Buen dia",
         "fecha": "2026-08-03T16:27:39.784Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Buen día",
+        "fecha": "2026-08-04T12:34:16.400Z",
         "sentimiento": "neutro"
       }
     ]
