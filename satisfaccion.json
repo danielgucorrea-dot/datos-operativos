@@ -46383,11 +46383,11 @@
     "celular": "+54 9 3816 566-996",
     "nombre": "",
     "direccion": "Barrio Padilla",
-    "sentimiento": "negativo",
-    "ultimoMensaje": "Reitero el pedido del barrido de la Diagonal 8 entre el 1000 y 1100, una vez por semana. La semana pasada, el día miércoles pasaron y dejaron las hojas en la esquina de calle España y Diagonal, sin levantar, por lo tanto genera un mini basural. Reclamo, ya que hace más de un año que No prestan el servicio. Espero que puedan resolverlo. Gracias",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Así está en cada esquina desde l",
     "mensaje": "Muchas gracias por responder. Realmente me preocupa porque hay una pérdida de agua más la basura del ambiente se hace muy difícil la limpieza por parte de cada vecino de la cuadra.",
     "fecha": "2026-07-28T13:12:03.032Z",
-    "ultimaActualizacion": "2026-08-04T14:27:29.131Z",
+    "ultimaActualizacion": "2026-08-04T14:31:29.524Z",
     "historialMensajes": [
       {
         "texto": "Muchas gracias por responder. Realmente me preocupa porque hay una pérdida de agua más la basura del ambiente se hace muy difícil la limpieza por parte de cada vecino de la cuadra.",
@@ -46428,6 +46428,11 @@
         "texto": "Reitero el pedido del barrido de la Diagonal 8 entre el 1000 y 1100, una vez por semana. La semana pasada, el día miércoles pasaron y dejaron las hojas en la esquina de calle España y Diagonal, sin le",
         "fecha": "2026-08-04T14:27:29.131Z",
         "sentimiento": "negativo"
+      },
+      {
+        "texto": "Así está en cada esquina desde l",
+        "fecha": "2026-08-04T14:31:29.524Z",
+        "sentimiento": "neutro"
       }
     ]
   },
