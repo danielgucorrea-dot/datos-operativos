@@ -51777,5 +51777,23 @@
         "sentimiento": "neutro"
       }
     ]
+  },
+  {
+    "numero": "169299054477360",
+    "celular": "+54 9 3815 223-000",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Hola buen dia",
+    "mensaje": "Hola buen dia",
+    "fecha": "2026-08-04T14:04:59.441Z",
+    "ultimaActualizacion": "2026-08-04T14:04:59.441Z",
+    "historialMensajes": [
+      {
+        "texto": "Hola buen dia",
+        "fecha": "2026-08-04T14:04:59.441Z",
+        "sentimiento": "neutro"
+      }
+    ]
   }
 ]
