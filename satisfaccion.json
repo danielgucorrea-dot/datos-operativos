@@ -51849,16 +51849,21 @@
     "celular": "+54 9 2325 562-382",
     "nombre": "",
     "direccion": "av marina alfaro 1356",
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Hola que tal? Les quería hacer una consulta, yo estoy viviendo sobre la av marina alfaro 1356 y el domingo por la mañana tiraron un perro muerto sobre la vereda",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Quería saber si pueden pasar a buscarlo porque no se que hacer y eso no puede quedar ahí por el olor y por la circulación de personas y más porque hay chicos pequeños",
     "mensaje": "Hola que tal? Les quería hacer una consulta, yo estoy viviendo sobre la av marina alfaro 1356 y el domingo por la mañana tiraron un perro muerto sobre la vereda",
     "fecha": "2026-08-04T14:14:15.801Z",
-    "ultimaActualizacion": "2026-08-04T14:14:15.801Z",
+    "ultimaActualizacion": "2026-08-04T14:16:32.448Z",
     "historialMensajes": [
       {
         "texto": "Hola que tal? Les quería hacer una consulta, yo estoy viviendo sobre la av marina alfaro 1356 y el domingo por la mañana tiraron un perro muerto sobre la vereda",
         "fecha": "2026-08-04T14:14:15.801Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Quería saber si pueden pasar a buscarlo porque no se que hacer y eso no puede quedar ahí por el olor y por la circulación de personas y más porque hay chicos pequeños",
+        "fecha": "2026-08-04T14:16:32.448Z",
+        "sentimiento": "positivo"
       }
     ]
   }
