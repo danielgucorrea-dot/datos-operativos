@@ -51229,10 +51229,10 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "positivo",
-    "ultimoMensaje": "Muchas gracias por su atención",
+    "ultimoMensaje": "Podría decur a que hora vendrá así ayude a levantar",
     "mensaje": "Tengo que poner en bolsa los escombros",
     "fecha": "2026-08-03T18:13:56.390Z",
-    "ultimaActualizacion": "2026-08-04T13:38:11.415Z",
+    "ultimaActualizacion": "2026-08-04T14:05:16.596Z",
     "historialMensajes": [
       {
         "texto": "Tengo que poner en bolsa los escombros",
@@ -51277,6 +51277,11 @@
       {
         "texto": "Muchas gracias por su atención",
         "fecha": "2026-08-04T13:38:11.415Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Podría decur a que hora vendrá así ayude a levantar",
+        "fecha": "2026-08-04T14:05:16.596Z",
         "sentimiento": "positivo"
       }
     ]
