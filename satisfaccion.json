@@ -50844,16 +50844,21 @@
     "celular": "+54 9 215628933763299",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "positivo",
-    "ultimoMensaje": "Bueno gracias",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Buen día",
     "mensaje": "Bueno gracias",
     "fecha": "2026-08-03T16:27:39.606Z",
-    "ultimaActualizacion": "2026-08-03T16:27:39.606Z",
+    "ultimaActualizacion": "2026-08-04T13:12:22.189Z",
     "historialMensajes": [
       {
         "texto": "Bueno gracias",
         "fecha": "2026-08-03T16:27:39.606Z",
         "sentimiento": "positivo"
+      },
+      {
+        "texto": "Buen día",
+        "fecha": "2026-08-04T13:12:22.189Z",
+        "sentimiento": "neutro"
       }
     ]
   },
