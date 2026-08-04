@@ -51010,16 +51010,21 @@
     "celular": "+54 9 190898512076869",
     "nombre": "",
     "direccion": "Pje Bernardo Houssay 3410",
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Pje Bernardo Houssay 3410. Casi esquina Castro Barros. Es entre Av. Belgrano (3400) y  Santa Fe",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Muchas gracias.  Ya lo retiraron",
     "mensaje": "Pje Bernardo Houssay 3410. Casi esquina Castro Barros. Es entre Av. Belgrano (3400) y  Santa Fe",
     "fecha": "2026-08-03T16:27:39.549Z",
-    "ultimaActualizacion": "2026-08-03T16:27:39.549Z",
+    "ultimaActualizacion": "2026-08-04T20:25:33.528Z",
     "historialMensajes": [
       {
         "texto": "Pje Bernardo Houssay 3410. Casi esquina Castro Barros. Es entre Av. Belgrano (3400) y  Santa Fe",
         "fecha": "2026-08-03T16:27:39.549Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Muchas gracias.  Ya lo retiraron",
+        "fecha": "2026-08-04T20:25:33.528Z",
+        "sentimiento": "positivo"
       }
     ]
   },
