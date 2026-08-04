@@ -34016,14 +34016,9 @@
       "Quiero hacer una denuncia",
       "Hola que tal"
     ],
-    "ultimaActualizacion": "2026-08-04T14:42:54.728Z",
-    "ultimoMensaje": "Es aparte si.",
+    "ultimaActualizacion": "2026-08-04T14:43:04.382Z",
+    "ultimoMensaje": "Lo mio es pegado al contenedor.",
     "historialMensajes": [
-      {
-        "texto": "Necesito recoger ramas de una palmera",
-        "fecha": "2026-08-03T21:06:05.090Z",
-        "sentimiento": "positivo"
-      },
       {
         "texto": "Necesito recoger ramas de una palmera",
         "fecha": "2026-08-03T21:06:07.811Z",
@@ -34067,6 +34062,11 @@
       {
         "texto": "Es aparte si.",
         "fecha": "2026-08-04T14:42:54.728Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Lo mio es pegado al contenedor.",
+        "fecha": "2026-08-04T14:43:04.382Z",
         "sentimiento": "neutro"
       }
     ]
