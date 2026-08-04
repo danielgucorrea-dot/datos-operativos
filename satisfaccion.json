@@ -51185,11 +51185,11 @@
     "celular": "+54 9 3813 336-631",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Están listo sólo que hay unos adoquines que están sin bolsa",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Muchas gracias por su atención",
     "mensaje": "Tengo que poner en bolsa los escombros",
     "fecha": "2026-08-03T18:13:56.390Z",
-    "ultimaActualizacion": "2026-08-04T13:31:13.466Z",
+    "ultimaActualizacion": "2026-08-04T13:38:11.415Z",
     "historialMensajes": [
       {
         "texto": "Tengo que poner en bolsa los escombros",
@@ -51230,6 +51230,11 @@
         "texto": "Están listo sólo que hay unos adoquines que están sin bolsa",
         "fecha": "2026-08-04T13:31:13.466Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Muchas gracias por su atención",
+        "fecha": "2026-08-04T13:38:11.415Z",
+        "sentimiento": "positivo"
       }
     ]
   },
