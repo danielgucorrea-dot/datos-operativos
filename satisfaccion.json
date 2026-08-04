@@ -51995,10 +51995,10 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "neutro",
-    "ultimoMensaje": "Buen día. \nPara ver si se puede mejorar el control de la zona.",
+    "ultimoMensaje": "El tema es el control de la zona. \nSi algo se puede hacer con eso. \n\nHay un cartel pero nada. \nY cámaras no pusieron (creo) entonces es lo mismo el cartel",
     "mensaje": "Pellegrini y lavaisse",
     "fecha": "2026-08-04T14:12:21.355Z",
-    "ultimaActualizacion": "2026-08-04T14:12:38.880Z",
+    "ultimaActualizacion": "2026-08-04T15:03:02.840Z",
     "historialMensajes": [
       {
         "texto": "Pellegrini y lavaisse",
@@ -52013,6 +52013,11 @@
       {
         "texto": "Buen día. \nPara ver si se puede mejorar el control de la zona.",
         "fecha": "2026-08-04T14:12:38.880Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "El tema es el control de la zona. \nSi algo se puede hacer con eso. \n\nHay un cartel pero nada. \nY cámaras no pusieron (creo) entonces es lo mismo el cartel",
+        "fecha": "2026-08-04T15:03:02.840Z",
         "sentimiento": "neutro"
       }
     ]
