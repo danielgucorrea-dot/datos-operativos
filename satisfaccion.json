@@ -51914,10 +51914,10 @@
     "nombre": "",
     "direccion": "Av. Belgrano 4500",
     "sentimiento": "neutro",
-    "ultimoMensaje": "Buen día. Es un barrio que está cerrado. \nLos vecinos del barrio hicimos cerrar. Pero no es privado",
+    "ultimoMensaje": "Es en los deptos q están frente al automac",
     "mensaje": "Hola buen dia",
     "fecha": "2026-08-04T14:04:59.441Z",
-    "ultimaActualizacion": "2026-08-04T14:44:19.652Z",
+    "ultimaActualizacion": "2026-08-04T14:44:42.078Z",
     "historialMensajes": [
       {
         "texto": "Hola buen dia",
@@ -51932,6 +51932,11 @@
       {
         "texto": "Buen día. Es un barrio que está cerrado. \nLos vecinos del barrio hicimos cerrar. Pero no es privado",
         "fecha": "2026-08-04T14:44:19.652Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Es en los deptos q están frente al automac",
+        "fecha": "2026-08-04T14:44:42.078Z",
         "sentimiento": "neutro"
       }
     ]
