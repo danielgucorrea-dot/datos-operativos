@@ -25678,8 +25678,8 @@
       "Yo la verdad no sé hacer eso, por favor haganlo más sensillo",
       "Y que tengo que hacer?"
     ],
-    "ultimaActualizacion": "2026-08-04T14:48:41.145Z",
-    "ultimoMensaje": "Tengo 3 bolsas con vidrios,se me rompió una puerta,uds los buscan ? Del domicilio?",
+    "ultimaActualizacion": "2026-08-04T15:03:29.044Z",
+    "ultimoMensaje": "Muchas Gracias",
     "historialMensajes": [
       {
         "texto": "Hola, buen día",
@@ -25689,6 +25689,11 @@
       {
         "texto": "Tengo 3 bolsas con vidrios,se me rompió una puerta,uds los buscan ? Del domicilio?",
         "fecha": "2026-08-04T14:48:41.145Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Muchas Gracias",
+        "fecha": "2026-08-04T15:03:29.044Z",
         "sentimiento": "positivo"
       }
     ]
