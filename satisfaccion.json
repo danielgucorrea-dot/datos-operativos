@@ -51289,5 +51289,23 @@
         "sentimiento": "neutro"
       }
     ]
+  },
+  {
+    "numero": "274250942394369",
+    "celular": "+54 9 3814 429-685",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Buen día, no son bolsas porque son ramas de palmeras que rompen las bolsas",
+    "mensaje": "Buen día, no son bolsas porque son ramas de palmeras que rompen las bolsas",
+    "fecha": "2026-08-04T11:32:48.301Z",
+    "ultimaActualizacion": "2026-08-04T11:32:48.301Z",
+    "historialMensajes": [
+      {
+        "texto": "Buen día, no son bolsas porque son ramas de palmeras que rompen las bolsas",
+        "fecha": "2026-08-04T11:32:48.301Z",
+        "sentimiento": "neutro"
+      }
+    ]
   }
 ]
