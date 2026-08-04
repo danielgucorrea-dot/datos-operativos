@@ -40394,12 +40394,17 @@
     "conversacion_completa": [
       "Buenos días. Gracias por avisar. Deja mucho que desear el servicio."
     ],
-    "ultimaActualizacion": "2026-08-04T11:38:28.011Z",
-    "ultimoMensaje": "Buenos días \nPara solicitar recolección de residuos?\nPasaje Payró 3412. Altura Avenida América 1650\nGracias",
+    "ultimaActualizacion": "2026-08-04T11:38:59.329Z",
+    "ultimoMensaje": "Pasaje Payró 3412\nAltura Avenida América 1650",
     "historialMensajes": [
       {
         "texto": "Buenos días \nPara solicitar recolección de residuos?\nPasaje Payró 3412. Altura Avenida América 1650\nGracias",
         "fecha": "2026-08-04T11:38:28.011Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Pasaje Payró 3412\nAltura Avenida América 1650",
+        "fecha": "2026-08-04T11:38:59.329Z",
         "sentimiento": "neutro"
       }
     ]
