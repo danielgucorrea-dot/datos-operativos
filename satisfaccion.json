@@ -50426,11 +50426,11 @@
     "celular": "+54 9 3814 060-966",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Ok. Estará en la vereda hasta q los busquen?",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Gracias",
     "mensaje": "Buenas tardes\nNecesito q retiren un aire acondicionado en desuso",
     "fecha": "2026-07-31T19:14:05.313Z",
-    "ultimaActualizacion": "2026-08-04T15:29:53.003Z",
+    "ultimaActualizacion": "2026-08-04T15:30:32.433Z",
     "historialMensajes": [
       {
         "texto": "Buenas tardes\nNecesito q retiren un aire acondicionado en desuso",
@@ -50456,6 +50456,16 @@
         "texto": "Ok. Estará en la vereda hasta q los busquen?",
         "fecha": "2026-08-04T15:29:53.003Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Xq ocupan bastante espacio",
+        "fecha": "2026-08-04T15:30:10.497Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Gracias",
+        "fecha": "2026-08-04T15:30:32.433Z",
+        "sentimiento": "positivo"
       }
     ]
   },
