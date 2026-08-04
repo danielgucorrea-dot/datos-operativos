@@ -52004,11 +52004,11 @@
     "celular": "+54 9 3816 098-157",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "neutro",
-    "ultimoMensaje": "El tema es el control de la zona. \nSi algo se puede hacer con eso. \n\nHay un cartel pero nada. \nY cámaras no pusieron (creo) entonces es lo mismo el cartel",
+    "sentimiento": "negativo",
+    "ultimoMensaje": "No. \n\nSigo eso es gestión de la municipalidad no mia. \n\nPonen un cartel que dice severas multas y no controlan 🤷🏻",
     "mensaje": "Pellegrini y lavaisse",
     "fecha": "2026-08-04T14:12:21.355Z",
-    "ultimaActualizacion": "2026-08-04T15:03:02.840Z",
+    "ultimaActualizacion": "2026-08-04T15:05:48.004Z",
     "historialMensajes": [
       {
         "texto": "Pellegrini y lavaisse",
@@ -52029,6 +52029,11 @@
         "texto": "El tema es el control de la zona. \nSi algo se puede hacer con eso. \n\nHay un cartel pero nada. \nY cámaras no pusieron (creo) entonces es lo mismo el cartel",
         "fecha": "2026-08-04T15:03:02.840Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "No. \n\nSigo eso es gestión de la municipalidad no mia. \n\nPonen un cartel que dice severas multas y no controlan 🤷🏻",
+        "fecha": "2026-08-04T15:05:48.004Z",
+        "sentimiento": "negativo"
       }
     ]
   },
