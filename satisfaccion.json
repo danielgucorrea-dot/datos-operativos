@@ -52018,11 +52018,11 @@
     "celular": "+54 9 3814 633-151",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Buen día",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Para hacer un pedido",
     "mensaje": "Buen día",
     "fecha": "2026-08-04T13:48:16.666Z",
-    "ultimaActualizacion": "2026-08-04T13:48:32.572Z",
+    "ultimaActualizacion": "2026-08-04T15:52:27.267Z",
     "historialMensajes": [
       {
         "texto": "Buen día",
@@ -52033,6 +52033,11 @@
         "texto": "Buen día",
         "fecha": "2026-08-04T13:48:32.572Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Para hacer un pedido",
+        "fecha": "2026-08-04T15:52:27.267Z",
+        "sentimiento": "positivo"
       }
     ]
   },
