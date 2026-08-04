@@ -52166,5 +52166,23 @@
         "sentimiento": "neutro"
       }
     ]
+  },
+  {
+    "numero": "96916222283777",
+    "celular": "+54 9 3865 560-529",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Listo",
+    "mensaje": "Listo",
+    "fecha": "2026-08-04T15:03:39.056Z",
+    "ultimaActualizacion": "2026-08-04T15:03:39.056Z",
+    "historialMensajes": [
+      {
+        "texto": "Listo",
+        "fecha": "2026-08-04T15:03:39.056Z",
+        "sentimiento": "neutro"
+      }
+    ]
   }
 ]
