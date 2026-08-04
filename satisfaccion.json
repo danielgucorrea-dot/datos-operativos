@@ -52004,11 +52004,11 @@
     "celular": "+54 9 3816 098-157",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "negativo",
-    "ultimoMensaje": "No. \n\nSigo eso es gestión de la municipalidad no mia. \n\nPonen un cartel que dice severas multas y no controlan 🤷🏻",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Fíjate vos si podés plantear algo.\n\nQue decirte",
     "mensaje": "Pellegrini y lavaisse",
     "fecha": "2026-08-04T14:12:21.355Z",
-    "ultimaActualizacion": "2026-08-04T15:05:48.004Z",
+    "ultimaActualizacion": "2026-08-04T15:06:01.841Z",
     "historialMensajes": [
       {
         "texto": "Pellegrini y lavaisse",
@@ -52034,6 +52034,11 @@
         "texto": "No. \n\nSigo eso es gestión de la municipalidad no mia. \n\nPonen un cartel que dice severas multas y no controlan 🤷🏻",
         "fecha": "2026-08-04T15:05:48.004Z",
         "sentimiento": "negativo"
+      },
+      {
+        "texto": "Fíjate vos si podés plantear algo.\n\nQue decirte",
+        "fecha": "2026-08-04T15:06:01.841Z",
+        "sentimiento": "neutro"
       }
     ]
   },
