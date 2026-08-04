@@ -51244,10 +51244,10 @@
     "nombre": "",
     "direccion": "Orione 2458",
     "sentimiento": "neutro",
-    "ultimoMensaje": "Mí dirección es \ndon Orione 2458 \nB . Echeverría",
+    "ultimoMensaje": "Buenos días muchas gracias .Tenia otra consulta antes cortaban el pasto en la cuadra entera y ahora veo que solo a algunos vecinos le cortan . Dejaron de cortar o lo tengo que pedir también, sabría por dónde tendría que hacerlo si es así ?",
     "mensaje": "Hola buenas tardes",
     "fecha": "2026-08-03T19:23:45.210Z",
-    "ultimaActualizacion": "2026-08-03T19:24:42.528Z",
+    "ultimaActualizacion": "2026-08-04T13:39:42.331Z",
     "historialMensajes": [
       {
         "texto": "Hola buenas tardes",
@@ -51267,6 +51267,11 @@
       {
         "texto": "Mí dirección es \ndon Orione 2458 \nB . Echeverría",
         "fecha": "2026-08-03T19:24:42.528Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Buenos días muchas gracias .Tenia otra consulta antes cortaban el pasto en la cuadra entera y ahora veo que solo a algunos vecinos le cortan . Dejaron de cortar o lo tengo que pedir también, sabría po",
+        "fecha": "2026-08-04T13:39:42.331Z",
         "sentimiento": "neutro"
       }
     ]
