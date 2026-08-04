@@ -52347,5 +52347,23 @@
         "sentimiento": "positivo"
       }
     ]
+  },
+  {
+    "numero": "178885438255240",
+    "celular": "+54 9 3815 899-362",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Buenas tardes",
+    "mensaje": "Buenas tardes",
+    "fecha": "2026-08-04T15:48:23.489Z",
+    "ultimaActualizacion": "2026-08-04T15:48:23.489Z",
+    "historialMensajes": [
+      {
+        "texto": "Buenas tardes",
+        "fecha": "2026-08-04T15:48:23.489Z",
+        "sentimiento": "neutro"
+      }
+    ]
   }
 ]
