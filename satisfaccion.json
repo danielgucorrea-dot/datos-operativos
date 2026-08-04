@@ -41237,12 +41237,12 @@
     "numero": "177425199698010",
     "celular": "+54 9 3815 785-065",
     "nombre": "",
-    "direccion": null,
+    "direccion": "Dr Vallejos 4200",
     "sentimiento": "neutro",
-    "ultimoMensaje": "Hola buenos dias, bien vuelva, relevo y consulto y te doy la respuesta, gracias",
+    "ultimoMensaje": "Dr Vallejos 4200",
     "mensaje": "Buenos dias, 👍",
     "fecha": "2026-07-08T11:27:20.013Z",
-    "ultimaActualizacion": "2026-07-13T13:32:43.097Z",
+    "ultimaActualizacion": "2026-08-04T14:53:43.466Z",
     "historialMensajes": [
       {
         "texto": "Buenos dias, 👍",
@@ -41252,6 +41252,11 @@
       {
         "texto": "Hola buenos dias, bien vuelva, relevo y consulto y te doy la respuesta, gracias",
         "fecha": "2026-07-13T13:32:43.097Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Dr Vallejos 4200",
+        "fecha": "2026-08-04T14:53:43.466Z",
         "sentimiento": "neutro"
       }
     ]
