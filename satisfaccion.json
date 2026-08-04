@@ -50946,14 +50946,19 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "neutro",
-    "ultimoMensaje": "Por favor",
+    "ultimoMensaje": "Buen día",
     "mensaje": "Por favor",
     "fecha": "2026-08-03T16:27:39.665Z",
-    "ultimaActualizacion": "2026-08-03T16:27:39.665Z",
+    "ultimaActualizacion": "2026-08-04T14:26:23.393Z",
     "historialMensajes": [
       {
         "texto": "Por favor",
         "fecha": "2026-08-03T16:27:39.665Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Buen día",
+        "fecha": "2026-08-04T14:26:23.393Z",
         "sentimiento": "neutro"
       }
     ]
