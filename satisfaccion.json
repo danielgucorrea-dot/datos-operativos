@@ -50059,11 +50059,11 @@
     "celular": "+54 9 3815 322-318",
     "nombre": "",
     "direccion": "Chacabuco 1449",
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Buenas saque las cosas el sábado a la vereda pero todavía esta todo",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Ya ayer retiraron muchas gracias",
     "mensaje": "Chacabuco 1449",
     "fecha": "2026-07-31T13:53:31.664Z",
-    "ultimaActualizacion": "2026-08-03T16:27:40.436Z",
+    "ultimaActualizacion": "2026-08-04T14:15:21.069Z",
     "historialMensajes": [
       {
         "texto": "Chacabuco 1449",
@@ -50104,6 +50104,11 @@
         "texto": "Buenas saque las cosas el sábado a la vereda pero todavía esta todo",
         "fecha": "2026-08-03T16:27:40.436Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Ya ayer retiraron muchas gracias",
+        "fecha": "2026-08-04T14:15:21.069Z",
+        "sentimiento": "positivo"
       }
     ]
   },
