@@ -52597,5 +52597,23 @@
         "sentimiento": "neutro"
       }
     ]
+  },
+  {
+    "numero": "135940110594237",
+    "celular": "+54 9 3816 563-374",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Hola. Buenísimo! Gracias!",
+    "mensaje": "Hola. Buenísimo! Gracias!",
+    "fecha": "2026-08-04T21:20:40.689Z",
+    "ultimaActualizacion": "2026-08-04T21:20:40.689Z",
+    "historialMensajes": [
+      {
+        "texto": "Hola. Buenísimo! Gracias!",
+        "fecha": "2026-08-04T21:20:40.689Z",
+        "sentimiento": "positivo"
+      }
+    ]
   }
 ]
