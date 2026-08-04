@@ -33988,8 +33988,8 @@
       "Quiero hacer una denuncia",
       "Hola que tal"
     ],
-    "ultimaActualizacion": "2026-08-04T13:03:44.533Z",
-    "ultimoMensaje": "Ernesto padilla 1",
+    "ultimaActualizacion": "2026-08-04T13:04:58.702Z",
+    "ultimoMensaje": "Okay",
     "historialMensajes": [
       {
         "texto": "Hola que tal",
@@ -34019,6 +34019,11 @@
       {
         "texto": "Ernesto padilla 1",
         "fecha": "2026-08-04T13:03:44.533Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Okay",
+        "fecha": "2026-08-04T13:04:58.702Z",
         "sentimiento": "neutro"
       }
     ]
