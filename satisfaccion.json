@@ -51843,11 +51843,11 @@
     "celular": "+54 9 3816 800-210",
     "nombre": "",
     "direccion": "Pasaje caseros 1100",
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Pasaje caseros 1100 esquina España",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Buenísimo, muy amable, muchas gracias.",
     "mensaje": "Buenos días más tarde envío ahora no estoy en el lugar",
     "fecha": "2026-08-04T12:22:38.515Z",
-    "ultimaActualizacion": "2026-08-04T15:28:54.180Z",
+    "ultimaActualizacion": "2026-08-04T15:31:09.460Z",
     "historialMensajes": [
       {
         "texto": "Buenos días más tarde envío ahora no estoy en el lugar",
@@ -51873,6 +51873,11 @@
         "texto": "Pasaje caseros 1100 esquina España",
         "fecha": "2026-08-04T15:28:54.180Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Buenísimo, muy amable, muchas gracias.",
+        "fecha": "2026-08-04T15:31:09.460Z",
+        "sentimiento": "positivo"
       }
     ]
   },
