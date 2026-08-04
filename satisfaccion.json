@@ -40459,7 +40459,7 @@
     "celular": "+54 9 3815 976-879",
     "nombre": "",
     "direccion": "Pasaje Payró 3412",
-    "sentimiento": "neutro",
+    "sentimiento": "positivo",
     "evidencia_clasificacion": [],
     "canal": "WhatsApp Ambiente",
     "fecha": "2026-04-01",
@@ -40467,8 +40467,8 @@
     "conversacion_completa": [
       "Buenos días. Gracias por avisar. Deja mucho que desear el servicio."
     ],
-    "ultimaActualizacion": "2026-08-04T13:58:27.181Z",
-    "ultimoMensaje": "Escombros..en realidad es arena. No la puedo mover por eso está ahí",
+    "ultimaActualizacion": "2026-08-04T13:59:09.046Z",
+    "ultimoMensaje": "Ok gracias",
     "historialMensajes": [
       {
         "texto": "Buenos días \nPara solicitar recolección de residuos?\nPasaje Payró 3412. Altura Avenida América 1650\nGracias",
@@ -40484,6 +40484,11 @@
         "texto": "Escombros..en realidad es arena. No la puedo mover por eso está ahí",
         "fecha": "2026-08-04T13:58:27.181Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Ok gracias",
+        "fecha": "2026-08-04T13:59:09.046Z",
+        "sentimiento": "positivo"
       }
     ]
   },
