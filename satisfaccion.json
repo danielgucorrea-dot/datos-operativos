@@ -51251,5 +51251,23 @@
         "sentimiento": "negativo"
       }
     ]
+  },
+  {
+    "numero": "232598869659681",
+    "celular": "+54 9 3813 558-886",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Hola buenas noches, tengo que tirar 2 colchones.",
+    "mensaje": "Hola buenas noches, tengo que tirar 2 colchones.",
+    "fecha": "2026-08-04T01:39:15.668Z",
+    "ultimaActualizacion": "2026-08-04T01:39:15.668Z",
+    "historialMensajes": [
+      {
+        "texto": "Hola buenas noches, tengo que tirar 2 colchones.",
+        "fecha": "2026-08-04T01:39:15.668Z",
+        "sentimiento": "neutro"
+      }
+    ]
   }
 ]
