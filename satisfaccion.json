@@ -17665,7 +17665,7 @@
     "celular": "+54 9 3815 171-393",
     "nombre": "",
     "direccion": "Uruguay 622",
-    "sentimiento": "positivo",
+    "sentimiento": "neutro",
     "evidencia_clasificacion": [
       "no\\s+vinieron"
     ],
@@ -17683,8 +17683,8 @@
       "Por favor me avisan horario aproximado para que haya alguien en casa",
       "Necesito que me retiren residuos y escombros"
     ],
-    "ultimaActualizacion": "2026-08-04T15:19:18.165Z",
-    "ultimoMensaje": "3 bolsas con poda, \n5 cajas con libros, papeles, CD, cassetes, 2 bolsas con tachos de pintura",
+    "ultimaActualizacion": "2026-08-04T15:21:10.002Z",
+    "ultimoMensaje": "Va a mandarlos o no??",
     "historialMensajes": [
       {
         "texto": "Tambien un poco de poda de plantas",
@@ -17705,6 +17705,11 @@
         "texto": "3 bolsas con poda, \n5 cajas con libros, papeles, CD, cassetes, 2 bolsas con tachos de pintura",
         "fecha": "2026-08-04T15:19:18.165Z",
         "sentimiento": "positivo"
+      },
+      {
+        "texto": "Va a mandarlos o no??",
+        "fecha": "2026-08-04T15:21:10.002Z",
+        "sentimiento": "neutro"
       }
     ]
   },
