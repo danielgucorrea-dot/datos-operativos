@@ -51595,5 +51595,23 @@
         "sentimiento": "negativo"
       }
     ]
+  },
+  {
+    "numero": "183824734511211",
+    "celular": "+54 9 3815 773-971",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Buen día recién hice una consulta por una denuncia",
+    "mensaje": "Buen día recién hice una consulta por una denuncia",
+    "fecha": "2026-08-04T13:09:13.879Z",
+    "ultimaActualizacion": "2026-08-04T13:09:13.879Z",
+    "historialMensajes": [
+      {
+        "texto": "Buen día recién hice una consulta por una denuncia",
+        "fecha": "2026-08-04T13:09:13.879Z",
+        "sentimiento": "neutro"
+      }
+    ]
   }
 ]
