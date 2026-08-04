@@ -51007,10 +51007,10 @@
     "nombre": "",
     "direccion": "AV ALEM 444",
     "sentimiento": "positivo",
-    "ultimoMensaje": "Perfecto muchas gracias ! 🥹",
+    "ultimoMensaje": "Muchas gracias me comunicaré",
     "mensaje": "Hola buenas tardes .. queria solicitar que retiren de mi domicilio basura inusual por favor ..",
     "fecha": "2026-08-03T17:15:39.625Z",
-    "ultimaActualizacion": "2026-08-04T12:26:37.651Z",
+    "ultimaActualizacion": "2026-08-04T12:26:47.864Z",
     "historialMensajes": [
       {
         "texto": "Hola buenas tardes .. queria solicitar que retiren de mi domicilio basura inusual por favor ..",
@@ -51035,6 +51035,11 @@
       {
         "texto": "Perfecto muchas gracias ! 🥹",
         "fecha": "2026-08-04T12:26:37.651Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Muchas gracias me comunicaré",
+        "fecha": "2026-08-04T12:26:47.864Z",
         "sentimiento": "positivo"
       }
     ]
