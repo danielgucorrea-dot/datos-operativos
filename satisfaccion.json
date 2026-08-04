@@ -51951,5 +51951,23 @@
         "sentimiento": "positivo"
       }
     ]
+  },
+  {
+    "numero": "68526354210961",
+    "celular": "+54 9 3816 770-628",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Buen dia quisiera pedir x favor vengan a podarme la mora de la vereda",
+    "mensaje": "Buen dia quisiera pedir x favor vengan a podarme la mora de la vereda",
+    "fecha": "2026-08-04T14:32:05.357Z",
+    "ultimaActualizacion": "2026-08-04T14:32:05.357Z",
+    "historialMensajes": [
+      {
+        "texto": "Buen dia quisiera pedir x favor vengan a podarme la mora de la vereda",
+        "fecha": "2026-08-04T14:32:05.357Z",
+        "sentimiento": "positivo"
+      }
+    ]
   }
 ]
