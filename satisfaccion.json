@@ -52188,11 +52188,11 @@
     "celular": "+54 9 3816 857-130",
     "nombre": "",
     "direccion": "Luis Federico Nougues 984",
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Quedo atenta a sus noticias.",
+    "sentimiento": "negativo",
+    "ultimoMensaje": "Son 8 bolsas pero de no están llenas.",
     "mensaje": "Buenos días. Necesito  el retiro de residuos no habituales.  Favor indicarme condiciones.",
     "fecha": "2026-08-04T14:33:31.911Z",
-    "ultimaActualizacion": "2026-08-04T14:38:46.368Z",
+    "ultimaActualizacion": "2026-08-04T15:47:52.234Z",
     "historialMensajes": [
       {
         "texto": "Buenos días. Necesito  el retiro de residuos no habituales.  Favor indicarme condiciones.",
@@ -52218,6 +52218,11 @@
         "texto": "Quedo atenta a sus noticias.",
         "fecha": "2026-08-04T14:38:46.368Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Son 8 bolsas pero de no están llenas.",
+        "fecha": "2026-08-04T15:47:52.234Z",
+        "sentimiento": "negativo"
       }
     ]
   },
