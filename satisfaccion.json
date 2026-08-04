@@ -51391,11 +51391,11 @@
     "celular": "+54 9 3813 615-199",
     "nombre": "",
     "direccion": "Orione 2458",
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Buenos días muchas gracias .Tenia otra consulta antes cortaban el pasto en la cuadra entera y ahora veo que solo a algunos vecinos le cortan . Dejaron de cortar o lo tengo que pedir también, sabría por dónde tendría que hacerlo si es así ?",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Muchas gracias",
     "mensaje": "Hola buenas tardes",
     "fecha": "2026-08-03T19:23:45.210Z",
-    "ultimaActualizacion": "2026-08-04T13:39:42.331Z",
+    "ultimaActualizacion": "2026-08-04T14:39:29.212Z",
     "historialMensajes": [
       {
         "texto": "Hola buenas tardes",
@@ -51421,6 +51421,11 @@
         "texto": "Buenos días muchas gracias .Tenia otra consulta antes cortaban el pasto en la cuadra entera y ahora veo que solo a algunos vecinos le cortan . Dejaron de cortar o lo tengo que pedir también, sabría po",
         "fecha": "2026-08-04T13:39:42.331Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Muchas gracias",
+        "fecha": "2026-08-04T14:39:29.212Z",
+        "sentimiento": "positivo"
       }
     ]
   },
