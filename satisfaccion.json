@@ -6213,8 +6213,8 @@
       "Vivo en Mendoza al 200",
       "Buenos días"
     ],
-    "ultimaActualizacion": "2026-07-31T14:12:48.816Z",
-    "ultimoMensaje": "es desacertada la recomendacin",
+    "ultimaActualizacion": "2026-08-04T14:35:06.230Z",
+    "ultimoMensaje": "6 meses en las\nMismas condiciones",
     "historialMensajes": [
       {
         "texto": "Buen día",
@@ -6254,6 +6254,11 @@
       {
         "texto": "es desacertada la recomendacin",
         "fecha": "2026-07-31T14:12:48.816Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "6 meses en las\nMismas condiciones",
+        "fecha": "2026-08-04T14:35:06.230Z",
         "sentimiento": "neutro"
       }
     ]
@@ -50933,10 +50938,10 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "neutro",
-    "ultimoMensaje": "De la casa",
+    "ultimoMensaje": "Sino lo llevan mañana paso dirección todo",
     "mensaje": "Bueno gracias",
     "fecha": "2026-08-03T16:27:39.606Z",
-    "ultimaActualizacion": "2026-08-04T14:32:13.534Z",
+    "ultimaActualizacion": "2026-08-04T14:34:36.181Z",
     "historialMensajes": [
       {
         "texto": "Bueno gracias",
@@ -50976,6 +50981,11 @@
       {
         "texto": "De la casa",
         "fecha": "2026-08-04T14:32:13.534Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Sino lo llevan mañana paso dirección todo",
+        "fecha": "2026-08-04T14:34:36.181Z",
         "sentimiento": "neutro"
       }
     ]
