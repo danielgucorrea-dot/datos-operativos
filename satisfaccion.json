@@ -51817,14 +51817,19 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "neutro",
-    "ultimoMensaje": "Pellegrini y lavaisse",
+    "ultimoMensaje": "Buen día. \nPara ver si se puede mejorar el control de la zona.",
     "mensaje": "Pellegrini y lavaisse",
     "fecha": "2026-08-04T14:12:21.355Z",
-    "ultimaActualizacion": "2026-08-04T14:12:21.355Z",
+    "ultimaActualizacion": "2026-08-04T14:12:35.858Z",
     "historialMensajes": [
       {
         "texto": "Pellegrini y lavaisse",
         "fecha": "2026-08-04T14:12:21.355Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Buen día. \nPara ver si se puede mejorar el control de la zona.",
+        "fecha": "2026-08-04T14:12:35.858Z",
         "sentimiento": "neutro"
       }
     ]
