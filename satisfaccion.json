@@ -51673,5 +51673,23 @@
         "sentimiento": "positivo"
       }
     ]
+  },
+  {
+    "numero": "278537235886328",
+    "celular": "+54 9 3814 178-090",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Hola buen día, quería saber para levantar unas ramas la cual podamos un árbol grande para levantar las, cómo sería el trámite?",
+    "mensaje": "Hola buen día, quería saber para levantar unas ramas la cual podamos un árbol grande para levantar las, cómo sería el trámite?",
+    "fecha": "2026-08-04T13:34:14.000Z",
+    "ultimaActualizacion": "2026-08-04T13:34:14.000Z",
+    "historialMensajes": [
+      {
+        "texto": "Hola buen día, quería saber para levantar unas ramas la cual podamos un árbol grande para levantar las, cómo sería el trámite?",
+        "fecha": "2026-08-04T13:34:14.000Z",
+        "sentimiento": "neutro"
+      }
+    ]
   }
 ]
