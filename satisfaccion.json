@@ -25678,7 +25678,15 @@
       "Yo la verdad no sé hacer eso, por favor haganlo más sensillo",
       "Y que tengo que hacer?"
     ],
-    "ultimaActualizacion": "2026-05-18"
+    "ultimaActualizacion": "2026-08-04T14:47:10.024Z",
+    "ultimoMensaje": "Hola, buen día",
+    "historialMensajes": [
+      {
+        "texto": "Hola, buen día",
+        "fecha": "2026-08-04T14:47:10.024Z",
+        "sentimiento": "neutro"
+      }
+    ]
   },
   {
     "numero": "214864379281599",
