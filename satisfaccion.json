@@ -52138,11 +52138,16 @@
     "ultimoMensaje": "Buenos días, solicitó retiro de escombros. Calle salta 361 esquina. Salta . Gracias",
     "mensaje": "Buenos días, solicitó retiro de escombros. Calle salta 361 esquina. Salta . Gracias",
     "fecha": "2026-08-04T14:57:00.915Z",
-    "ultimaActualizacion": "2026-08-04T14:57:00.915Z",
+    "ultimaActualizacion": "2026-08-04T14:57:03.516Z",
     "historialMensajes": [
       {
         "texto": "Buenos días, solicitó retiro de escombros. Calle salta 361 esquina. Salta . Gracias",
         "fecha": "2026-08-04T14:57:00.915Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Buenos días, solicitó retiro de escombros. Calle salta 361 esquina. Salta . Gracias",
+        "fecha": "2026-08-04T14:57:03.516Z",
         "sentimiento": "positivo"
       }
     ]
