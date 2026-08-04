@@ -6632,8 +6632,8 @@
       "Buen día, necesitaría su servicio para retirar restos de poda por favor",
       "."
     ],
-    "ultimaActualizacion": "2026-08-04T12:42:20.147Z",
-    "ultimoMensaje": "Buen dia",
+    "ultimaActualizacion": "2026-08-04T12:43:22.384Z",
+    "ultimoMensaje": "Ok gracias",
     "historialMensajes": [
       {
         "texto": "Hola podrian pasar a retirar unas bolsas por favor?",
@@ -6653,6 +6653,11 @@
       {
         "texto": "Buen dia",
         "fecha": "2026-08-04T12:42:20.147Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Ok gracias",
+        "fecha": "2026-08-04T12:43:22.384Z",
         "sentimiento": "neutro"
       }
     ]
