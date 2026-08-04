@@ -33966,7 +33966,7 @@
     "celular": "+54 9 3815 342-544",
     "nombre": "",
     "direccion": "Av Ernesto padilla 10",
-    "sentimiento": "positivo",
+    "sentimiento": "neutro",
     "evidencia_clasificacion": [],
     "canal": "WhatsApp Ambiente",
     "fecha": "2026-04-20",
@@ -33988,8 +33988,8 @@
       "Quiero hacer una denuncia",
       "Hola que tal"
     ],
-    "ultimaActualizacion": "2026-08-04T13:02:01.161Z",
-    "ultimoMensaje": "Ya le envio",
+    "ultimaActualizacion": "2026-08-04T13:03:44.533Z",
+    "ultimoMensaje": "Ernesto padilla 1",
     "historialMensajes": [
       {
         "texto": "Hola que tal",
@@ -34015,6 +34015,11 @@
         "texto": "Ya le envio",
         "fecha": "2026-08-04T13:02:01.161Z",
         "sentimiento": "positivo"
+      },
+      {
+        "texto": "Ernesto padilla 1",
+        "fecha": "2026-08-04T13:03:44.533Z",
+        "sentimiento": "neutro"
       }
     ]
   },
