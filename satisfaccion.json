@@ -43123,18 +43123,13 @@
     "numero": "246432439209990",
     "celular": "+54 9 3816 684-407",
     "nombre": "",
-    "direccion": null,
+    "direccion": "José colombre 1493",
     "sentimiento": "neutro",
-    "ultimoMensaje": "OS igual ya aviso",
+    "ultimoMensaje": "José colombre 1493",
     "mensaje": "buen dia",
     "fecha": "2026-07-13T12:35:57.936Z",
-    "ultimaActualizacion": "2026-08-03T16:27:39.954Z",
+    "ultimaActualizacion": "2026-08-04T13:58:39.038Z",
     "historialMensajes": [
-      {
-        "texto": "asi es",
-        "fecha": "2026-07-29T14:52:20.483Z",
-        "sentimiento": "neutro"
-      },
       {
         "texto": "ya viso igualmente",
         "fecha": "2026-07-29T15:02:29.506Z",
@@ -43178,6 +43173,11 @@
       {
         "texto": "OS igual ya aviso",
         "fecha": "2026-08-03T16:27:39.954Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "José colombre 1493",
+        "fecha": "2026-08-04T13:58:39.038Z",
         "sentimiento": "neutro"
       }
     ]
