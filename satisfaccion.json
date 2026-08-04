@@ -17660,7 +17660,7 @@
     "celular": "+54 9 3815 171-393",
     "nombre": "",
     "direccion": "Uruguay 622",
-    "sentimiento": "negativo",
+    "sentimiento": "positivo",
     "evidencia_clasificacion": [
       "no\\s+vinieron"
     ],
@@ -17678,7 +17678,15 @@
       "Por favor me avisan horario aproximado para que haya alguien en casa",
       "Necesito que me retiren residuos y escombros"
     ],
-    "ultimaActualizacion": "2026-06-03"
+    "ultimaActualizacion": "2026-08-04T13:58:08.115Z",
+    "ultimoMensaje": "Tambien un poco de poda de plantas",
+    "historialMensajes": [
+      {
+        "texto": "Tambien un poco de poda de plantas",
+        "fecha": "2026-08-04T13:58:08.115Z",
+        "sentimiento": "positivo"
+      }
+    ]
   },
   {
     "numero": "22892410572938",
