@@ -48837,11 +48837,11 @@
     "celular": "+54 9 3816 613-050",
     "nombre": "",
     "direccion": "Pasaje Viamonte 566",
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Perdon que vuelva a preguntar si no pasaran mañana seria el lunes? Digo x aca son tremendos los vecinitos lo desparramaran x toda la cuadra",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Buenos dias ! Ya retiraron todos los gajos de mi domicilio gracias!!",
     "mensaje": "Buenos dias queria saber x un contenedor para sacar ramas de unos arboles que pode.si x este medio lo tengo que solicitar .paso foto .gracias",
     "fecha": "2026-07-30T15:07:09.634Z",
-    "ultimaActualizacion": "2026-07-30T15:41:40.285Z",
+    "ultimaActualizacion": "2026-08-04T10:26:10.332Z",
     "historialMensajes": [
       {
         "texto": "Buenos dias queria saber x un contenedor para sacar ramas de unos arboles que pode.si x este medio lo tengo que solicitar .paso foto .gracias",
@@ -48882,6 +48882,11 @@
         "texto": "Perdon que vuelva a preguntar si no pasaran mañana seria el lunes? Digo x aca son tremendos los vecinitos lo desparramaran x toda la cuadra",
         "fecha": "2026-07-30T15:41:40.285Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Buenos dias ! Ya retiraron todos los gajos de mi domicilio gracias!!",
+        "fecha": "2026-08-04T10:26:10.332Z",
+        "sentimiento": "positivo"
       }
     ]
   },
