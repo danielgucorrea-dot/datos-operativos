@@ -51228,5 +51228,28 @@
         "sentimiento": "neutro"
       }
     ]
+  },
+  {
+    "numero": "106128708997229",
+    "celular": "+54 9 3815 953-212",
+    "nombre": "",
+    "direccion": "barrio cuidadela",
+    "sentimiento": "negativo",
+    "ultimoMensaje": "Es un basural contaste ya que es una vivienda abandonada",
+    "mensaje": "Denuncia por un continuo basural hecho por unos vecinos de la cuadra( tte matienzo 400 barrio cuidadela)",
+    "fecha": "2026-08-04T01:08:56.975Z",
+    "ultimaActualizacion": "2026-08-04T01:09:34.522Z",
+    "historialMensajes": [
+      {
+        "texto": "Denuncia por un continuo basural hecho por unos vecinos de la cuadra( tte matienzo 400 barrio cuidadela)",
+        "fecha": "2026-08-04T01:08:56.975Z",
+        "sentimiento": "negativo"
+      },
+      {
+        "texto": "Es un basural contaste ya que es una vivienda abandonada",
+        "fecha": "2026-08-04T01:09:34.522Z",
+        "sentimiento": "negativo"
+      }
+    ]
   }
 ]
