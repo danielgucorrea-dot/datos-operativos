@@ -51087,10 +51087,10 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "positivo",
-    "ultimoMensaje": "7 /8 bolsas",
+    "ultimoMensaje": "Muchas gracias",
     "mensaje": "Están en el departamento",
     "fecha": "2026-08-03T17:14:23.489Z",
-    "ultimaActualizacion": "2026-08-04T13:57:17.887Z",
+    "ultimaActualizacion": "2026-08-04T13:59:38.669Z",
     "historialMensajes": [
       {
         "texto": "Están en el departamento",
@@ -51110,6 +51110,11 @@
       {
         "texto": "7 /8 bolsas",
         "fecha": "2026-08-04T13:57:17.887Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Muchas gracias",
+        "fecha": "2026-08-04T13:59:38.669Z",
         "sentimiento": "positivo"
       }
     ]
