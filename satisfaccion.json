@@ -52459,5 +52459,41 @@
         "sentimiento": "positivo"
       }
     ]
+  },
+  {
+    "numero": "108808886063153",
+    "celular": "+54 9 3816 365-030",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Buenas tardes srta Rebeca, mi nombre es Lorena Dergham, soy profesora de la escuela secundaria Juan Luis Nouges",
+    "mensaje": "Buenas tardes srta Rebeca, mi nombre es Lorena Dergham, soy profesora de la escuela secundaria Juan Luis Nouges",
+    "fecha": "2026-08-04T16:44:29.756Z",
+    "ultimaActualizacion": "2026-08-04T16:44:29.756Z",
+    "historialMensajes": [
+      {
+        "texto": "Buenas tardes srta Rebeca, mi nombre es Lorena Dergham, soy profesora de la escuela secundaria Juan Luis Nouges",
+        "fecha": "2026-08-04T16:44:29.756Z",
+        "sentimiento": "neutro"
+      }
+    ]
+  },
+  {
+    "numero": "230300927946898",
+    "celular": "+54 9 41767456464",
+    "nombre": "",
+    "direccion": "salta 472",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Buen día. Soy Cecilia. Vivo en salta 472 de san Miguel. Me pasaron este contacto porque tengo unas bolas de escombros y una maya metálica de una reja que desarmamos en casa y quisieramos tirarlas. Ustedes ofrecen el servicio de retiro de escombros?",
+    "mensaje": "Buen día. Soy Cecilia. Vivo en salta 472 de san Miguel. Me pasaron este contacto porque tengo unas bolas de escombros y una maya metálica de una reja que desarmamos en casa y quisieramos tirarlas. Ustedes ofrecen el servicio de retiro de escombros?",
+    "fecha": "2026-08-04T16:44:45.046Z",
+    "ultimaActualizacion": "2026-08-04T16:44:45.046Z",
+    "historialMensajes": [
+      {
+        "texto": "Buen día. Soy Cecilia. Vivo en salta 472 de san Miguel. Me pasaron este contacto porque tengo unas bolas de escombros y una maya metálica de una reja que desarmamos en casa y quisieramos tirarlas. Ust",
+        "fecha": "2026-08-04T16:44:45.046Z",
+        "sentimiento": "positivo"
+      }
+    ]
   }
 ]
