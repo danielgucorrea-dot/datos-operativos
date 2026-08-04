@@ -51820,7 +51820,7 @@
     "ultimoMensaje": "Buen día. \nPara ver si se puede mejorar el control de la zona.",
     "mensaje": "Pellegrini y lavaisse",
     "fecha": "2026-08-04T14:12:21.355Z",
-    "ultimaActualizacion": "2026-08-04T14:12:35.858Z",
+    "ultimaActualizacion": "2026-08-04T14:12:38.880Z",
     "historialMensajes": [
       {
         "texto": "Pellegrini y lavaisse",
@@ -51830,6 +51830,29 @@
       {
         "texto": "Buen día. \nPara ver si se puede mejorar el control de la zona.",
         "fecha": "2026-08-04T14:12:35.858Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Buen día. \nPara ver si se puede mejorar el control de la zona.",
+        "fecha": "2026-08-04T14:12:38.880Z",
+        "sentimiento": "neutro"
+      }
+    ]
+  },
+  {
+    "numero": "227942621802736",
+    "celular": "+54 9 2325 562-382",
+    "nombre": "",
+    "direccion": "av marina alfaro 1356",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Hola que tal? Les quería hacer una consulta, yo estoy viviendo sobre la av marina alfaro 1356 y el domingo por la mañana tiraron un perro muerto sobre la vereda",
+    "mensaje": "Hola que tal? Les quería hacer una consulta, yo estoy viviendo sobre la av marina alfaro 1356 y el domingo por la mañana tiraron un perro muerto sobre la vereda",
+    "fecha": "2026-08-04T14:14:15.801Z",
+    "ultimaActualizacion": "2026-08-04T14:14:15.801Z",
+    "historialMensajes": [
+      {
+        "texto": "Hola que tal? Les quería hacer una consulta, yo estoy viviendo sobre la av marina alfaro 1356 y el domingo por la mañana tiraron un perro muerto sobre la vereda",
+        "fecha": "2026-08-04T14:14:15.801Z",
         "sentimiento": "neutro"
       }
     ]
