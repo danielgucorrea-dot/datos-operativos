@@ -50891,14 +50891,19 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "positivo",
-    "ultimoMensaje": "Buenas tardes. Me comunico para solicitar la recolección de residuos tipo escombros",
+    "ultimoMensaje": "Muchas gracias",
     "mensaje": "Buenas tardes. Me comunico para solicitar la recolección de residuos tipo escombros",
     "fecha": "2026-08-03T16:27:39.738Z",
-    "ultimaActualizacion": "2026-08-03T16:27:39.738Z",
+    "ultimaActualizacion": "2026-08-04T13:17:40.687Z",
     "historialMensajes": [
       {
         "texto": "Buenas tardes. Me comunico para solicitar la recolección de residuos tipo escombros",
         "fecha": "2026-08-03T16:27:39.738Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Muchas gracias",
+        "fecha": "2026-08-04T13:17:40.687Z",
         "sentimiento": "positivo"
       }
     ]
