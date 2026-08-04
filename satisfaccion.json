@@ -13464,7 +13464,7 @@
     "celular": "+54 9 3814 687-122",
     "nombre": "",
     "direccion": "Chacabuco 1038",
-    "sentimiento": "neutro",
+    "sentimiento": "positivo",
     "evidencia_clasificacion": [],
     "canal": "WhatsApp Ambiente",
     "fecha": "2026-06-10",
@@ -13480,8 +13480,8 @@
       "Necesito si pueden pasar x 3 bolsas pasto y 1 bolsa escombros",
       "Buen día"
     ],
-    "ultimaActualizacion": "2026-08-04T11:27:55.955Z",
-    "ultimoMensaje": "Chacabuco 1038",
+    "ultimaActualizacion": "2026-08-04T13:54:58.104Z",
+    "ultimoMensaje": "muchas gracias",
     "historialMensajes": [
       {
         "texto": "Buenas tardes",
@@ -13502,6 +13502,11 @@
         "texto": "Chacabuco 1038",
         "fecha": "2026-08-04T11:27:55.955Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "muchas gracias",
+        "fecha": "2026-08-04T13:54:58.104Z",
+        "sentimiento": "positivo"
       }
     ]
   },
@@ -51058,11 +51063,11 @@
     "celular": "+54 9 3884 399-623",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Hola ustedes me avisan cuando los bajo?",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "7 /8 bolsas",
     "mensaje": "Están en el departamento",
     "fecha": "2026-08-03T17:14:23.489Z",
-    "ultimaActualizacion": "2026-08-04T11:20:57.158Z",
+    "ultimaActualizacion": "2026-08-04T13:57:17.887Z",
     "historialMensajes": [
       {
         "texto": "Están en el departamento",
@@ -51078,6 +51083,11 @@
         "texto": "Hola ustedes me avisan cuando los bajo?",
         "fecha": "2026-08-04T11:20:57.158Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "7 /8 bolsas",
+        "fecha": "2026-08-04T13:57:17.887Z",
+        "sentimiento": "positivo"
       }
     ]
   },
