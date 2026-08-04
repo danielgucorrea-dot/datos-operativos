@@ -52171,10 +52171,10 @@
     "nombre": "",
     "direccion": "av marina alfaro 1356",
     "sentimiento": "positivo",
-    "ultimoMensaje": "Muchísimas gracias",
+    "ultimoMensaje": "Perdon la molestia, queria saber en que momento pasarian? porque realmente tiene demasiado olor",
     "mensaje": "Hola que tal? Les quería hacer una consulta, yo estoy viviendo sobre la av marina alfaro 1356 y el domingo por la mañana tiraron un perro muerto sobre la vereda",
     "fecha": "2026-08-04T14:14:15.801Z",
-    "ultimaActualizacion": "2026-08-04T14:17:41.995Z",
+    "ultimaActualizacion": "2026-08-04T20:51:18.655Z",
     "historialMensajes": [
       {
         "texto": "Hola que tal? Les quería hacer una consulta, yo estoy viviendo sobre la av marina alfaro 1356 y el domingo por la mañana tiraron un perro muerto sobre la vereda",
@@ -52189,6 +52189,11 @@
       {
         "texto": "Muchísimas gracias",
         "fecha": "2026-08-04T14:17:41.995Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Perdon la molestia, queria saber en que momento pasarian? porque realmente tiene demasiado olor",
+        "fecha": "2026-08-04T20:51:18.655Z",
         "sentimiento": "positivo"
       }
     ]
@@ -52572,6 +52577,24 @@
         "texto": "No puedo unirme al grupo",
         "fecha": "2026-08-04T19:48:05.479Z",
         "sentimiento": "negativo"
+      }
+    ]
+  },
+  {
+    "numero": "95168455807009",
+    "celular": "+54 9 3815 990-983",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Holis obvio que si seguiré y listo ya me sume",
+    "mensaje": "Holis obvio que si seguiré y listo ya me sume",
+    "fecha": "2026-08-04T20:46:27.296Z",
+    "ultimaActualizacion": "2026-08-04T20:46:27.296Z",
+    "historialMensajes": [
+      {
+        "texto": "Holis obvio que si seguiré y listo ya me sume",
+        "fecha": "2026-08-04T20:46:27.296Z",
+        "sentimiento": "neutro"
       }
     ]
   }
