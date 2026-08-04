@@ -51818,16 +51818,21 @@
     "celular": "+54 9 3816 800-210",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Buenos días más tarde envío ahora no estoy en el lugar",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Buenas tardes, tengo estas ramas.",
     "mensaje": "Buenos días más tarde envío ahora no estoy en el lugar",
     "fecha": "2026-08-04T12:22:38.515Z",
-    "ultimaActualizacion": "2026-08-04T12:22:38.515Z",
+    "ultimaActualizacion": "2026-08-04T15:21:41.005Z",
     "historialMensajes": [
       {
         "texto": "Buenos días más tarde envío ahora no estoy en el lugar",
         "fecha": "2026-08-04T12:22:38.515Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Buenas tardes, tengo estas ramas.",
+        "fecha": "2026-08-04T15:21:41.005Z",
+        "sentimiento": "positivo"
       }
     ]
   },
