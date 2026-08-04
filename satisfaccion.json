@@ -51186,10 +51186,10 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "neutro",
-    "ultimoMensaje": "Y lo guardo en casa?",
+    "ultimoMensaje": "Buwn día",
     "mensaje": "Tengo que poner en bolsa los escombros",
     "fecha": "2026-08-03T18:13:56.390Z",
-    "ultimaActualizacion": "2026-08-03T20:22:46.613Z",
+    "ultimaActualizacion": "2026-08-04T13:29:04.219Z",
     "historialMensajes": [
       {
         "texto": "Tengo que poner en bolsa los escombros",
@@ -51214,6 +51214,11 @@
       {
         "texto": "Y lo guardo en casa?",
         "fecha": "2026-08-03T20:22:46.613Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Buwn día",
+        "fecha": "2026-08-04T13:29:04.219Z",
         "sentimiento": "neutro"
       }
     ]
