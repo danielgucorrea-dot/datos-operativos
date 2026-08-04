@@ -51388,17 +51388,22 @@
     "numero": "143310207340737",
     "celular": "+54 9 3854 309-745",
     "nombre": "",
-    "direccion": null,
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Buenos dias",
+    "direccion": "Lucas Cordoba 755",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Ricardo Enrique Fernández Sanchez\nDNI 14480902\nDireccion: Lucas Cordoba 755\nEntre Santa Fe y Msrcos Paz\n2 Solicitud de recolección de residuos no habituales ( bolsas con escombros, 12 bolsas tipo arpillera llenadas hasta la mitad )\nGracias",
     "mensaje": "Buenos dias",
     "fecha": "2026-08-04T12:02:50.712Z",
-    "ultimaActualizacion": "2026-08-04T12:02:50.712Z",
+    "ultimaActualizacion": "2026-08-04T12:04:10.395Z",
     "historialMensajes": [
       {
         "texto": "Buenos dias",
         "fecha": "2026-08-04T12:02:50.712Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Ricardo Enrique Fernández Sanchez\nDNI 14480902\nDireccion: Lucas Cordoba 755\nEntre Santa Fe y Msrcos Paz\n2 Solicitud de recolección de residuos no habituales ( bolsas con escombros, 12 bolsas tipo arpi",
+        "fecha": "2026-08-04T12:04:10.395Z",
+        "sentimiento": "positivo"
       }
     ]
   }
