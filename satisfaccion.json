@@ -17660,7 +17660,7 @@
     "celular": "+54 9 3815 171-393",
     "nombre": "",
     "direccion": "Uruguay 622",
-    "sentimiento": "positivo",
+    "sentimiento": "neutro",
     "evidencia_clasificacion": [
       "no\\s+vinieron"
     ],
@@ -17678,8 +17678,8 @@
       "Por favor me avisan horario aproximado para que haya alguien en casa",
       "Necesito que me retiren residuos y escombros"
     ],
-    "ultimaActualizacion": "2026-08-04T13:59:19.306Z",
-    "ultimoMensaje": "Por favor quiero que me avise cuando vendrán para que saque a la vereda. Ahora llueve y se puede mojar, pero cuando me digan saco todo",
+    "ultimaActualizacion": "2026-08-04T13:59:44.633Z",
+    "ultimoMensaje": "Buen día!!",
     "historialMensajes": [
       {
         "texto": "Tambien un poco de poda de plantas",
@@ -17690,6 +17690,11 @@
         "texto": "Por favor quiero que me avise cuando vendrán para que saque a la vereda. Ahora llueve y se puede mojar, pero cuando me digan saco todo",
         "fecha": "2026-08-04T13:59:19.306Z",
         "sentimiento": "positivo"
+      },
+      {
+        "texto": "Buen día!!",
+        "fecha": "2026-08-04T13:59:44.633Z",
+        "sentimiento": "neutro"
       }
     ]
   },
