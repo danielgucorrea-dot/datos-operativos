@@ -52128,5 +52128,23 @@
         "sentimiento": "positivo"
       }
     ]
+  },
+  {
+    "numero": "69368151019656",
+    "celular": "+54 9 3814 474-824",
+    "nombre": "",
+    "direccion": "Calle salta 361",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Buenos días, solicitó retiro de escombros. Calle salta 361 esquina. Salta . Gracias",
+    "mensaje": "Buenos días, solicitó retiro de escombros. Calle salta 361 esquina. Salta . Gracias",
+    "fecha": "2026-08-04T14:57:00.915Z",
+    "ultimaActualizacion": "2026-08-04T14:57:00.915Z",
+    "historialMensajes": [
+      {
+        "texto": "Buenos días, solicitó retiro de escombros. Calle salta 361 esquina. Salta . Gracias",
+        "fecha": "2026-08-04T14:57:00.915Z",
+        "sentimiento": "positivo"
+      }
+    ]
   }
 ]
