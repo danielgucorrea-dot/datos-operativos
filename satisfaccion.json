@@ -51150,10 +51150,10 @@
     "nombre": "",
     "direccion": "Pasaje Ceballos 1181",
     "sentimiento": "neutro",
-    "ultimoMensaje": "Pasaje Ceballos 1181",
+    "ultimoMensaje": "Hola buen día , será que hoy podrán llegarse",
     "mensaje": "Hola buenas tardes",
     "fecha": "2026-08-03T20:31:10.286Z",
-    "ultimaActualizacion": "2026-08-03T20:43:12.960Z",
+    "ultimaActualizacion": "2026-08-04T12:01:17.945Z",
     "historialMensajes": [
       {
         "texto": "Hola buenas tardes",
@@ -51163,6 +51163,11 @@
       {
         "texto": "Pasaje Ceballos 1181",
         "fecha": "2026-08-03T20:43:12.960Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Hola buen día , será que hoy podrán llegarse",
+        "fecha": "2026-08-04T12:01:17.945Z",
         "sentimiento": "neutro"
       }
     ]
@@ -51376,6 +51381,24 @@
         "texto": "Buen día ! Para solicitar que retiren unos residuos de mi casa .próspero  Mena 120 .es este número ?",
         "fecha": "2026-08-04T11:42:08.566Z",
         "sentimiento": "positivo"
+      }
+    ]
+  },
+  {
+    "numero": "143310207340737",
+    "celular": "+54 9 3854 309-745",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Buenos dias",
+    "mensaje": "Buenos dias",
+    "fecha": "2026-08-04T12:02:50.712Z",
+    "ultimaActualizacion": "2026-08-04T12:02:50.712Z",
+    "historialMensajes": [
+      {
+        "texto": "Buenos dias",
+        "fecha": "2026-08-04T12:02:50.712Z",
+        "sentimiento": "neutro"
       }
     ]
   }
