@@ -51787,16 +51787,21 @@
     "numero": "169299054477360",
     "celular": "+54 9 3815 223-000",
     "nombre": "",
-    "direccion": null,
+    "direccion": "Av. Belgrano 4500",
     "sentimiento": "neutro",
-    "ultimoMensaje": "Hola buen dia",
+    "ultimoMensaje": "Av. Belgrano 4500. Entre calles diagonal 9 y avenida Belgrano",
     "mensaje": "Hola buen dia",
     "fecha": "2026-08-04T14:04:59.441Z",
-    "ultimaActualizacion": "2026-08-04T14:04:59.441Z",
+    "ultimaActualizacion": "2026-08-04T14:05:49.777Z",
     "historialMensajes": [
       {
         "texto": "Hola buen dia",
         "fecha": "2026-08-04T14:04:59.441Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Av. Belgrano 4500. Entre calles diagonal 9 y avenida Belgrano",
+        "fecha": "2026-08-04T14:05:49.777Z",
         "sentimiento": "neutro"
       }
     ]
