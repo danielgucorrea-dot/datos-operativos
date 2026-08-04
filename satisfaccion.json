@@ -50922,11 +50922,11 @@
     "celular": "+54 9 215628933763299",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Es naranja y hojas qué caen",
+    "sentimiento": "negativo",
+    "ultimoMensaje": "No es podamos cae",
     "mensaje": "Bueno gracias",
     "fecha": "2026-08-03T16:27:39.606Z",
-    "ultimaActualizacion": "2026-08-04T14:26:00.499Z",
+    "ultimaActualizacion": "2026-08-04T14:31:26.246Z",
     "historialMensajes": [
       {
         "texto": "Bueno gracias",
@@ -50952,6 +50952,11 @@
         "texto": "Es naranja y hojas qué caen",
         "fecha": "2026-08-04T14:26:00.499Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "No es podamos cae",
+        "fecha": "2026-08-04T14:31:26.246Z",
+        "sentimiento": "negativo"
       }
     ]
   },
