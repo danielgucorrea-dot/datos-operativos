@@ -52169,11 +52169,11 @@
     "celular": "+54 9 3814 474-824",
     "nombre": "",
     "direccion": "Calle salta 361",
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Salta 361",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "15 bolsas",
     "mensaje": "Buenos días, solicitó retiro de escombros. Calle salta 361 esquina. Salta . Gracias",
     "fecha": "2026-08-04T14:57:00.915Z",
-    "ultimaActualizacion": "2026-08-04T15:01:42.695Z",
+    "ultimaActualizacion": "2026-08-04T15:12:08.194Z",
     "historialMensajes": [
       {
         "texto": "Buenos días, solicitó retiro de escombros. Calle salta 361 esquina. Salta . Gracias",
@@ -52189,6 +52189,11 @@
         "texto": "Salta 361",
         "fecha": "2026-08-04T15:01:42.695Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "15 bolsas",
+        "fecha": "2026-08-04T15:12:08.194Z",
+        "sentimiento": "positivo"
       }
     ]
   },
