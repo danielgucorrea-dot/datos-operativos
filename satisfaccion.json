@@ -51390,10 +51390,10 @@
     "nombre": "",
     "direccion": "Lucas Cordoba 755",
     "sentimiento": "positivo",
-    "ultimoMensaje": "Ricardo Enrique Fernández Sanchez\nDNI 14480902\nDireccion: Lucas Cordoba 755\nEntre Santa Fe y Msrcos Paz\n2 Solicitud de recolección de residuos no habituales ( bolsas con escombros, 12 bolsas tipo arpillera llenadas hasta la mitad )\nGracias",
+    "ultimoMensaje": "Gracias",
     "mensaje": "Buenos dias",
     "fecha": "2026-08-04T12:02:50.712Z",
-    "ultimaActualizacion": "2026-08-04T12:04:10.395Z",
+    "ultimaActualizacion": "2026-08-04T12:04:26.421Z",
     "historialMensajes": [
       {
         "texto": "Buenos dias",
@@ -51403,6 +51403,11 @@
       {
         "texto": "Ricardo Enrique Fernández Sanchez\nDNI 14480902\nDireccion: Lucas Cordoba 755\nEntre Santa Fe y Msrcos Paz\n2 Solicitud de recolección de residuos no habituales ( bolsas con escombros, 12 bolsas tipo arpi",
         "fecha": "2026-08-04T12:04:10.395Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Gracias",
+        "fecha": "2026-08-04T12:04:26.421Z",
         "sentimiento": "positivo"
       }
     ]
