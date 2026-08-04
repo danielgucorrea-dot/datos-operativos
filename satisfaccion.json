@@ -52510,5 +52510,23 @@
         "sentimiento": "neutro"
       }
     ]
+  },
+  {
+    "numero": "236795086254228",
+    "celular": "+54 9 3816 358-552",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Ok los espero",
+    "mensaje": "Ok los espero",
+    "fecha": "2026-08-04T17:25:11.572Z",
+    "ultimaActualizacion": "2026-08-04T17:25:11.572Z",
+    "historialMensajes": [
+      {
+        "texto": "Ok los espero",
+        "fecha": "2026-08-04T17:25:11.572Z",
+        "sentimiento": "neutro"
+      }
+    ]
   }
 ]
