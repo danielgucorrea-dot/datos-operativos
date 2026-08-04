@@ -51185,11 +51185,11 @@
     "celular": "+54 9 3816 253-365",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Hola es para desagota un poso d cloaca",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Muchas gracias",
     "mensaje": "Hola",
     "fecha": "2026-08-03T21:11:35.686Z",
-    "ultimaActualizacion": "2026-08-04T11:34:49.397Z",
+    "ultimaActualizacion": "2026-08-04T11:35:45.115Z",
     "historialMensajes": [
       {
         "texto": "Hola",
@@ -51200,6 +51200,11 @@
         "texto": "Hola es para desagota un poso d cloaca",
         "fecha": "2026-08-04T11:34:49.397Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Muchas gracias",
+        "fecha": "2026-08-04T11:35:45.115Z",
+        "sentimiento": "positivo"
       }
     ]
   },
