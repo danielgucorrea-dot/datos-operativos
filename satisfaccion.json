@@ -50925,11 +50925,11 @@
     "celular": "+54 9 3815 473-159",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Sabe lo que pasa nosotros somos una institución publica, que no podemos dejar en la.vereda porque los vecinos se lo van a llevar",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Pero lo tenemos al lado de la puerta de entrada listo",
     "mensaje": "Señor",
     "fecha": "2026-08-03T17:13:36.412Z",
-    "ultimaActualizacion": "2026-08-04T12:15:23.526Z",
+    "ultimaActualizacion": "2026-08-04T12:16:30.212Z",
     "historialMensajes": [
       {
         "texto": "Señor",
@@ -50965,6 +50965,11 @@
         "texto": "Sabe lo que pasa nosotros somos una institución publica, que no podemos dejar en la.vereda porque los vecinos se lo van a llevar",
         "fecha": "2026-08-04T12:15:23.526Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Pero lo tenemos al lado de la puerta de entrada listo",
+        "fecha": "2026-08-04T12:16:30.212Z",
+        "sentimiento": "positivo"
       }
     ]
   },
