@@ -51827,12 +51827,12 @@
     "numero": "6519894589538",
     "celular": "+54 9 3816 800-210",
     "nombre": "",
-    "direccion": null,
-    "sentimiento": "negativo",
-    "ultimoMensaje": "También había reclamado por basura que tiraron en la cuadra.",
+    "direccion": "Pasaje caseros 1100",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Pasaje caseros 1100 esquina España",
     "mensaje": "Buenos días más tarde envío ahora no estoy en el lugar",
     "fecha": "2026-08-04T12:22:38.515Z",
-    "ultimaActualizacion": "2026-08-04T15:22:52.779Z",
+    "ultimaActualizacion": "2026-08-04T15:28:54.180Z",
     "historialMensajes": [
       {
         "texto": "Buenos días más tarde envío ahora no estoy en el lugar",
@@ -51848,6 +51848,16 @@
         "texto": "También había reclamado por basura que tiraron en la cuadra.",
         "fecha": "2026-08-04T15:22:52.779Z",
         "sentimiento": "negativo"
+      },
+      {
+        "texto": "Con respecto al otro reclamo",
+        "fecha": "2026-08-04T15:26:36.984Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Pasaje caseros 1100 esquina España",
+        "fecha": "2026-08-04T15:28:54.180Z",
+        "sentimiento": "neutro"
       }
     ]
   },
