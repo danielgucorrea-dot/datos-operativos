@@ -52156,11 +52156,11 @@
     "celular": "+54 9 3814 092-352",
     "nombre": "",
     "direccion": "barrio parque centenario y",
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Oki, el mensaje de ustedes vino después del mío",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Ya envío las fotos",
     "mensaje": "Hola buen día soy del barrio parque centenario y tengo que tirar unas ramas de Poda de arbusto que es imposible embolsar, como hago para tirarlas? Hay algún servicio para esto?",
     "fecha": "2026-08-04T14:46:18.217Z",
-    "ultimaActualizacion": "2026-08-04T15:16:48.698Z",
+    "ultimaActualizacion": "2026-08-04T15:16:56.795Z",
     "historialMensajes": [
       {
         "texto": "Hola buen día soy del barrio parque centenario y tengo que tirar unas ramas de Poda de arbusto que es imposible embolsar, como hago para tirarlas? Hay algún servicio para esto?",
@@ -52171,6 +52171,11 @@
         "texto": "Oki, el mensaje de ustedes vino después del mío",
         "fecha": "2026-08-04T15:16:48.698Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Ya envío las fotos",
+        "fecha": "2026-08-04T15:16:56.795Z",
+        "sentimiento": "positivo"
       }
     ]
   },
