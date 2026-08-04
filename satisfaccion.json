@@ -51900,11 +51900,11 @@
     "celular": "+54 9 3814 178-090",
     "nombre": "",
     "direccion": "Ernesto Padilla 20",
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Bien, para que día sería?",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Perfecto",
     "mensaje": "Hola buen día, quería saber para levantar unas ramas la cual podamos un árbol grande para levantar las, cómo sería el trámite?",
     "fecha": "2026-08-04T13:34:14.000Z",
-    "ultimaActualizacion": "2026-08-04T14:53:27.081Z",
+    "ultimaActualizacion": "2026-08-04T15:10:57.279Z",
     "historialMensajes": [
       {
         "texto": "Hola buen día, quería saber para levantar unas ramas la cual podamos un árbol grande para levantar las, cómo sería el trámite?",
@@ -51935,6 +51935,11 @@
         "texto": "Bien, para que día sería?",
         "fecha": "2026-08-04T14:53:27.081Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Perfecto",
+        "fecha": "2026-08-04T15:10:57.279Z",
+        "sentimiento": "positivo"
       }
     ]
   },
