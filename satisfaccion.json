@@ -51931,11 +51931,11 @@
     "celular": "+54 9 3815 223-000",
     "nombre": "",
     "direccion": "Av. Belgrano 4500",
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Es en los deptos q están frente al automac",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Bien. Muchas Gracias",
     "mensaje": "Hola buen dia",
     "fecha": "2026-08-04T14:04:59.441Z",
-    "ultimaActualizacion": "2026-08-04T14:44:42.078Z",
+    "ultimaActualizacion": "2026-08-04T14:48:10.413Z",
     "historialMensajes": [
       {
         "texto": "Hola buen dia",
@@ -51956,6 +51956,11 @@
         "texto": "Es en los deptos q están frente al automac",
         "fecha": "2026-08-04T14:44:42.078Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Bien. Muchas Gracias",
+        "fecha": "2026-08-04T14:48:10.413Z",
+        "sentimiento": "positivo"
       }
     ]
   },
