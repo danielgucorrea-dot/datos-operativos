@@ -5877,7 +5877,15 @@
       "Chacabuco y Alsina,,escuela especial Próspero García",
       "Buen día"
     ],
-    "ultimaActualizacion": "2026-06-25"
+    "ultimaActualizacion": "2026-08-04T16:06:16.505Z",
+    "ultimoMensaje": "Buenas tardes",
+    "historialMensajes": [
+      {
+        "texto": "Buenas tardes",
+        "fecha": "2026-08-04T16:06:16.505Z",
+        "sentimiento": "neutro"
+      }
+    ]
   },
   {
     "numero": "130940835762381",
