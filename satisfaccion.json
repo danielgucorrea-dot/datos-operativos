@@ -51127,11 +51127,11 @@
     "celular": "+54 9 3815 038-190",
     "nombre": "",
     "direccion": "Felix de Olazabal 75",
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Felix de Olazabal 75",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Buen dia \nAyer ya pasaron a retirar las ramas y hojas",
     "mensaje": "Buenas tardes",
     "fecha": "2026-08-03T17:39:20.278Z",
-    "ultimaActualizacion": "2026-08-03T17:39:56.068Z",
+    "ultimaActualizacion": "2026-08-04T13:06:35.000Z",
     "historialMensajes": [
       {
         "texto": "Buenas tardes",
@@ -51147,6 +51147,11 @@
         "texto": "Felix de Olazabal 75",
         "fecha": "2026-08-03T17:39:56.068Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Buen dia \nAyer ya pasaron a retirar las ramas y hojas",
+        "fecha": "2026-08-04T13:06:35.000Z",
+        "sentimiento": "positivo"
       }
     ]
   },
