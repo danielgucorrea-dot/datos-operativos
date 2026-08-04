@@ -50946,10 +50946,10 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "neutro",
-    "ultimoMensaje": "Buen día",
+    "ultimoMensaje": "Ayer anduvieron levantando los escombros",
     "mensaje": "Por favor",
     "fecha": "2026-08-03T16:27:39.665Z",
-    "ultimaActualizacion": "2026-08-04T14:26:23.393Z",
+    "ultimaActualizacion": "2026-08-04T14:26:33.501Z",
     "historialMensajes": [
       {
         "texto": "Por favor",
@@ -50959,6 +50959,11 @@
       {
         "texto": "Buen día",
         "fecha": "2026-08-04T14:26:23.393Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Ayer anduvieron levantando los escombros",
+        "fecha": "2026-08-04T14:26:33.501Z",
         "sentimiento": "neutro"
       }
     ]
