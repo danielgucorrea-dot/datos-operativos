@@ -51335,5 +51335,23 @@
         "sentimiento": "positivo"
       }
     ]
+  },
+  {
+    "numero": "170737952358615",
+    "celular": "+54 9 3816 339-615",
+    "nombre": "",
+    "direccion": "Mena 120",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Buen día ! Para solicitar que retiren unos residuos de mi casa .próspero  Mena 120 .es este número ?",
+    "mensaje": "Buen día ! Para solicitar que retiren unos residuos de mi casa .próspero  Mena 120 .es este número ?",
+    "fecha": "2026-08-04T11:42:05.878Z",
+    "ultimaActualizacion": "2026-08-04T11:42:05.878Z",
+    "historialMensajes": [
+      {
+        "texto": "Buen día ! Para solicitar que retiren unos residuos de mi casa .próspero  Mena 120 .es este número ?",
+        "fecha": "2026-08-04T11:42:05.878Z",
+        "sentimiento": "positivo"
+      }
+    ]
   }
 ]
