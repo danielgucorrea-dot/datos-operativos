@@ -51810,5 +51810,23 @@
         "sentimiento": "neutro"
       }
     ]
+  },
+  {
+    "numero": "186496086765644",
+    "celular": "+54 9 3816 098-157",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Pellegrini y lavaisse",
+    "mensaje": "Pellegrini y lavaisse",
+    "fecha": "2026-08-04T14:12:21.355Z",
+    "ultimaActualizacion": "2026-08-04T14:12:21.355Z",
+    "historialMensajes": [
+      {
+        "texto": "Pellegrini y lavaisse",
+        "fecha": "2026-08-04T14:12:21.355Z",
+        "sentimiento": "neutro"
+      }
+    ]
   }
 ]
