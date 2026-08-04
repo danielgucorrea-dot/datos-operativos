@@ -49801,16 +49801,11 @@
     "nombre": "",
     "direccion": "Suipacha 1943",
     "sentimiento": "positivo",
-    "ultimoMensaje": "Muchas gracias",
+    "ultimoMensaje": "Buen dia muchas bendiciones ah las 10 de la mañana se llevaron todo lo que quedaba de basura los chicos de la recoleccion muy agradecido",
     "mensaje": "Hola buen día",
     "fecha": "2026-07-31T11:59:14.335Z",
-    "ultimaActualizacion": "2026-08-03T17:10:44.741Z",
+    "ultimaActualizacion": "2026-08-04T15:19:39.208Z",
     "historialMensajes": [
-      {
-        "texto": "72 horas contaria sabado y domingo tambien",
-        "fecha": "2026-07-31T13:39:03.692Z",
-        "sentimiento": "neutro"
-      },
       {
         "texto": "Bueno Muchas gracias Le agradezco ya cuando esté la basura afuera le Pasaré una foto",
         "fecha": "2026-07-31T13:43:10.692Z",
@@ -49854,6 +49849,11 @@
       {
         "texto": "Muchas gracias",
         "fecha": "2026-08-03T17:10:44.741Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Buen dia muchas bendiciones ah las 10 de la mañana se llevaron todo lo que quedaba de basura los chicos de la recoleccion muy agradecido",
+        "fecha": "2026-08-04T15:19:39.208Z",
         "sentimiento": "positivo"
       }
     ]
