@@ -52354,10 +52354,10 @@
     "nombre": "",
     "direccion": "Barrio victoria",
     "sentimiento": "neutro",
-    "ultimoMensaje": "Pasaje montevideo 2083\nAltura amador lucero 1550\nBarrio victoria",
+    "ultimoMensaje": "Es para retiro de residuos",
     "mensaje": "Buenas tardes",
     "fecha": "2026-08-04T15:48:23.489Z",
-    "ultimaActualizacion": "2026-08-04T15:49:34.063Z",
+    "ultimaActualizacion": "2026-08-04T15:49:50.932Z",
     "historialMensajes": [
       {
         "texto": "Buenas tardes",
@@ -52367,6 +52367,11 @@
       {
         "texto": "Pasaje montevideo 2083\nAltura amador lucero 1550\nBarrio victoria",
         "fecha": "2026-08-04T15:49:34.063Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Es para retiro de residuos",
+        "fecha": "2026-08-04T15:49:50.932Z",
         "sentimiento": "neutro"
       }
     ]
