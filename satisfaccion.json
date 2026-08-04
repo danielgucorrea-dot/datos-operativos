@@ -51863,10 +51863,10 @@
     "nombre": "",
     "direccion": "Ernesto Padilla 20",
     "sentimiento": "neutro",
-    "ultimoMensaje": "Ernesto Padilla 20",
+    "ultimoMensaje": "Si, porque llamaron del bar de la esquina, lo de nosotros es del árbol que se podó, Pero está todo en la misma vereda",
     "mensaje": "Hola buen día, quería saber para levantar unas ramas la cual podamos un árbol grande para levantar las, cómo sería el trámite?",
     "fecha": "2026-08-04T13:34:14.000Z",
-    "ultimaActualizacion": "2026-08-04T13:49:42.787Z",
+    "ultimaActualizacion": "2026-08-04T14:43:12.660Z",
     "historialMensajes": [
       {
         "texto": "Hola buen día, quería saber para levantar unas ramas la cual podamos un árbol grande para levantar las, cómo sería el trámite?",
@@ -51876,6 +51876,11 @@
       {
         "texto": "Ernesto Padilla 20",
         "fecha": "2026-08-04T13:49:42.787Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Si, porque llamaron del bar de la esquina, lo de nosotros es del árbol que se podó, Pero está todo en la misma vereda",
+        "fecha": "2026-08-04T14:43:12.660Z",
         "sentimiento": "neutro"
       }
     ]
