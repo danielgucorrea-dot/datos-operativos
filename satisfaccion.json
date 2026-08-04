@@ -51590,16 +51590,21 @@
     "celular": "+54 9 3813 610-558",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "negativo",
-    "ultimoMensaje": "Buen dia,no ese es todo el escombro",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "si llevaron y quedaron en volver a retirar lo q quedaba",
     "mensaje": "Buen dia,no ese es todo el escombro",
     "fecha": "2026-08-04T12:22:46.316Z",
-    "ultimaActualizacion": "2026-08-04T12:22:46.316Z",
+    "ultimaActualizacion": "2026-08-04T13:23:37.506Z",
     "historialMensajes": [
       {
         "texto": "Buen dia,no ese es todo el escombro",
         "fecha": "2026-08-04T12:22:46.316Z",
         "sentimiento": "negativo"
+      },
+      {
+        "texto": "si llevaron y quedaron en volver a retirar lo q quedaba",
+        "fecha": "2026-08-04T13:23:37.506Z",
+        "sentimiento": "positivo"
       }
     ]
   },
