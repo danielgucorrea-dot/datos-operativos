@@ -51631,11 +51631,11 @@
     "celular": "+54 9 3815 773-971",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Número 105103 y quede en que mandaría fotos",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Muchas gracias",
     "mensaje": "Buen día recién hice una consulta por una denuncia",
     "fecha": "2026-08-04T13:09:13.879Z",
-    "ultimaActualizacion": "2026-08-04T13:09:53.473Z",
+    "ultimaActualizacion": "2026-08-04T13:21:39.303Z",
     "historialMensajes": [
       {
         "texto": "Buen día recién hice una consulta por una denuncia",
@@ -51646,6 +51646,11 @@
         "texto": "Número 105103 y quede en que mandaría fotos",
         "fecha": "2026-08-04T13:09:53.473Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Muchas gracias",
+        "fecha": "2026-08-04T13:21:39.303Z",
+        "sentimiento": "positivo"
       }
     ]
   }
