@@ -50932,11 +50932,11 @@
     "celular": "+54 9 215628933763299",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "negativo",
-    "ultimoMensaje": "Lo de abajo es basura",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "De la casa",
     "mensaje": "Bueno gracias",
     "fecha": "2026-08-03T16:27:39.606Z",
-    "ultimaActualizacion": "2026-08-04T14:32:10.582Z",
+    "ultimaActualizacion": "2026-08-04T14:32:13.534Z",
     "historialMensajes": [
       {
         "texto": "Bueno gracias",
@@ -50972,6 +50972,11 @@
         "texto": "Lo de abajo es basura",
         "fecha": "2026-08-04T14:32:10.582Z",
         "sentimiento": "negativo"
+      },
+      {
+        "texto": "De la casa",
+        "fecha": "2026-08-04T14:32:13.534Z",
+        "sentimiento": "neutro"
       }
     ]
   },
@@ -51976,6 +51981,24 @@
       {
         "texto": "Buen dia quisiera pedir x favor vengan a podarme la mora de la vereda",
         "fecha": "2026-08-04T14:32:08.173Z",
+        "sentimiento": "positivo"
+      }
+    ]
+  },
+  {
+    "numero": "112854577508360",
+    "celular": "+54 9 3816 857-130",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Buenos días. Necesito  el retiro de residuos no habituales.  Favor indicarme condiciones.",
+    "mensaje": "Buenos días. Necesito  el retiro de residuos no habituales.  Favor indicarme condiciones.",
+    "fecha": "2026-08-04T14:33:31.911Z",
+    "ultimaActualizacion": "2026-08-04T14:33:31.911Z",
+    "historialMensajes": [
+      {
+        "texto": "Buenos días. Necesito  el retiro de residuos no habituales.  Favor indicarme condiciones.",
+        "fecha": "2026-08-04T14:33:31.911Z",
         "sentimiento": "positivo"
       }
     ]
