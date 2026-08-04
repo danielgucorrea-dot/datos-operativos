@@ -51701,5 +51701,28 @@
         "sentimiento": "neutro"
       }
     ]
+  },
+  {
+    "numero": "253795590209622",
+    "celular": "+54 9 3814 633-151",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Buen día",
+    "mensaje": "Buen día",
+    "fecha": "2026-08-04T13:48:16.666Z",
+    "ultimaActualizacion": "2026-08-04T13:48:32.572Z",
+    "historialMensajes": [
+      {
+        "texto": "Buen día",
+        "fecha": "2026-08-04T13:48:16.666Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Buen día",
+        "fecha": "2026-08-04T13:48:32.572Z",
+        "sentimiento": "neutro"
+      }
+    ]
   }
 ]
