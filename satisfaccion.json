@@ -34029,14 +34029,9 @@
       "Quiero hacer una denuncia",
       "Hola que tal"
     ],
-    "ultimaActualizacion": "2026-08-04T14:43:04.382Z",
-    "ultimoMensaje": "Lo mio es pegado al contenedor.",
+    "ultimaActualizacion": "2026-08-04T14:51:42.887Z",
+    "ultimoMensaje": "Tiene el número de gestión?",
     "historialMensajes": [
-      {
-        "texto": "Necesito recoger ramas de una palmera",
-        "fecha": "2026-08-03T21:06:07.811Z",
-        "sentimiento": "positivo"
-      },
       {
         "texto": "Hola",
         "fecha": "2026-08-04T13:01:58.902Z",
@@ -34080,6 +34075,11 @@
       {
         "texto": "Lo mio es pegado al contenedor.",
         "fecha": "2026-08-04T14:43:04.382Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Tiene el número de gestión?",
+        "fecha": "2026-08-04T14:51:42.887Z",
         "sentimiento": "neutro"
       }
     ]
