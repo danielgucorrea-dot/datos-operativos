@@ -51227,10 +51227,10 @@
     "nombre": "",
     "direccion": "Barrio mutual policial",
     "sentimiento": "neutro",
-    "ultimoMensaje": "Barrio mutual policial mz1 casa 63",
+    "ultimoMensaje": "Malavia 3700\nEntre geronimo  helguera y pedro león gallo",
     "mensaje": "Buenas tardes",
     "fecha": "2026-08-03T20:24:10.196Z",
-    "ultimaActualizacion": "2026-08-03T20:25:40.721Z",
+    "ultimaActualizacion": "2026-08-04T13:06:30.308Z",
     "historialMensajes": [
       {
         "texto": "Buenas tardes",
@@ -51240,6 +51240,11 @@
       {
         "texto": "Barrio mutual policial mz1 casa 63",
         "fecha": "2026-08-03T20:25:40.721Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Malavia 3700\nEntre geronimo  helguera y pedro león gallo",
+        "fecha": "2026-08-04T13:06:30.308Z",
         "sentimiento": "neutro"
       }
     ]
