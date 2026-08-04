@@ -50845,10 +50845,10 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "neutro",
-    "ultimoMensaje": "Buen día",
+    "ultimoMensaje": "Esa es la basura aparte lo de la casa",
     "mensaje": "Bueno gracias",
     "fecha": "2026-08-03T16:27:39.606Z",
-    "ultimaActualizacion": "2026-08-04T13:12:22.189Z",
+    "ultimaActualizacion": "2026-08-04T13:12:56.173Z",
     "historialMensajes": [
       {
         "texto": "Bueno gracias",
@@ -50858,6 +50858,11 @@
       {
         "texto": "Buen día",
         "fecha": "2026-08-04T13:12:22.189Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Esa es la basura aparte lo de la casa",
+        "fecha": "2026-08-04T13:12:56.173Z",
         "sentimiento": "neutro"
       }
     ]
