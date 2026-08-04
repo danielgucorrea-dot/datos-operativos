@@ -52072,5 +52072,23 @@
         "sentimiento": "neutro"
       }
     ]
+  },
+  {
+    "numero": "126598539952215",
+    "celular": "+54 9 3814 092-352",
+    "nombre": "",
+    "direccion": "barrio parque centenario y",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Hola buen día soy del barrio parque centenario y tengo que tirar unas ramas de Poda de arbusto que es imposible embolsar, como hago para tirarlas? Hay algún servicio para esto?",
+    "mensaje": "Hola buen día soy del barrio parque centenario y tengo que tirar unas ramas de Poda de arbusto que es imposible embolsar, como hago para tirarlas? Hay algún servicio para esto?",
+    "fecha": "2026-08-04T14:46:18.217Z",
+    "ultimaActualizacion": "2026-08-04T14:46:18.217Z",
+    "historialMensajes": [
+      {
+        "texto": "Hola buen día soy del barrio parque centenario y tengo que tirar unas ramas de Poda de arbusto que es imposible embolsar, como hago para tirarlas? Hay algún servicio para esto?",
+        "fecha": "2026-08-04T14:46:18.217Z",
+        "sentimiento": "positivo"
+      }
+    ]
   }
 ]
