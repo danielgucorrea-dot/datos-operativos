@@ -51487,5 +51487,23 @@
         "sentimiento": "negativo"
       }
     ]
+  },
+  {
+    "numero": "167061477158979",
+    "celular": "+54 9 3814 467-978",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Buen dia , nesecito que pasen a retirar unos escombros de mi casa ....que trasmite tengo que hacer??",
+    "mensaje": "Buen dia , nesecito que pasen a retirar unos escombros de mi casa ....que trasmite tengo que hacer??",
+    "fecha": "2026-08-04T12:26:51.967Z",
+    "ultimaActualizacion": "2026-08-04T12:26:51.967Z",
+    "historialMensajes": [
+      {
+        "texto": "Buen dia , nesecito que pasen a retirar unos escombros de mi casa ....que trasmite tengo que hacer??",
+        "fecha": "2026-08-04T12:26:51.967Z",
+        "sentimiento": "positivo"
+      }
+    ]
   }
 ]
