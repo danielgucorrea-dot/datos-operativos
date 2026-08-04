@@ -52551,5 +52551,23 @@
         "sentimiento": "positivo"
       }
     ]
+  },
+  {
+    "numero": "56551901507725",
+    "celular": "+54 9 3814 759-502",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "negativo",
+    "ultimoMensaje": "No puedo unirme al grupo",
+    "mensaje": "No puedo unirme al grupo",
+    "fecha": "2026-08-04T19:48:05.479Z",
+    "ultimaActualizacion": "2026-08-04T19:48:05.479Z",
+    "historialMensajes": [
+      {
+        "texto": "No puedo unirme al grupo",
+        "fecha": "2026-08-04T19:48:05.479Z",
+        "sentimiento": "negativo"
+      }
+    ]
   }
 ]
