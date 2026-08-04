@@ -301,16 +301,11 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "neutro",
-    "ultimoMensaje": "buscar bam desagote de casa 12/03 17/04",
+    "ultimoMensaje": "!invitar_docentes",
     "mensaje": "Hola",
     "fecha": "2026-07-06T18:02:30.845Z",
-    "ultimaActualizacion": "2026-08-03T17:25:37.142Z",
+    "ultimaActualizacion": "2026-08-04T15:02:12.686Z",
     "historialMensajes": [
-      {
-        "texto": "!invitar_docentes",
-        "fecha": "2026-07-31T22:14:25.199Z",
-        "sentimiento": "neutro"
-      },
       {
         "texto": "!invitar_docentes CONFIRMAR",
         "fecha": "2026-07-31T22:14:31.770Z",
@@ -354,6 +349,11 @@
       {
         "texto": "buscar bam desagote de casa 12/03 17/04",
         "fecha": "2026-08-03T17:25:37.142Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "!invitar_docentes",
+        "fecha": "2026-08-04T15:02:12.686Z",
         "sentimiento": "neutro"
       }
     ]
