@@ -43271,16 +43271,11 @@
     "nombre": "",
     "direccion": "José colombre 1493",
     "sentimiento": "neutro",
-    "ultimoMensaje": "Calle Monteagudo",
+    "ultimoMensaje": "marina alfaro",
     "mensaje": "buen dia",
     "fecha": "2026-07-13T12:35:57.936Z",
-    "ultimaActualizacion": "2026-08-05T12:47:41.854Z",
+    "ultimaActualizacion": "2026-08-05T13:47:34.081Z",
     "historialMensajes": [
-      {
-        "texto": "me podes pasar el numero por favor",
-        "fecha": "2026-07-29T15:24:45.756Z",
-        "sentimiento": "neutro"
-      },
       {
         "texto": "igual pasamelo por favor",
         "fecha": "2026-07-29T15:25:46.929Z",
@@ -43324,6 +43319,11 @@
       {
         "texto": "Calle Monteagudo",
         "fecha": "2026-08-05T12:47:41.854Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "marina alfaro",
+        "fecha": "2026-08-05T13:47:34.081Z",
         "sentimiento": "neutro"
       }
     ]
@@ -52854,10 +52854,10 @@
     "nombre": "",
     "direccion": "Estamos en Suipacha 482",
     "sentimiento": "neutro",
-    "ultimoMensaje": "desgraciadamente trabajo en ese horario y no puedo salir",
+    "ultimoMensaje": "como hago ?",
     "mensaje": "Buen día",
     "fecha": "2026-08-05T12:59:22.413Z",
-    "ultimaActualizacion": "2026-08-05T13:46:17.529Z",
+    "ultimaActualizacion": "2026-08-05T13:46:22.321Z",
     "historialMensajes": [
       {
         "texto": "Buen día",
@@ -52882,6 +52882,11 @@
       {
         "texto": "desgraciadamente trabajo en ese horario y no puedo salir",
         "fecha": "2026-08-05T13:46:17.529Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "como hago ?",
+        "fecha": "2026-08-05T13:46:22.321Z",
         "sentimiento": "neutro"
       }
     ]
