@@ -52797,17 +52797,12 @@
     "celular": "+54 9 3816 401-745",
     "nombre": "",
     "direccion": "Crisóstomo Álvarez 3300",
-    "sentimiento": "positivo",
-    "ultimoMensaje": "Mi solicitud es que retiren las ramas de la vereda de crisóstomo Álvarez al 3300\nEs el pedido que debe cargar",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "No estoy autorizada a contestar nada más y menos autorizar posibles daños",
     "mensaje": "Buenas noches",
     "fecha": "2026-08-05T00:18:46.187Z",
-    "ultimaActualizacion": "2026-08-05T14:30:47.421Z",
+    "ultimaActualizacion": "2026-08-05T14:33:34.557Z",
     "historialMensajes": [
-      {
-        "texto": "Buenas noches",
-        "fecha": "2026-08-05T00:18:46.187Z",
-        "sentimiento": "neutro"
-      },
       {
         "texto": "Buenas noches",
         "fecha": "2026-08-05T00:18:47.539Z",
@@ -52852,6 +52847,11 @@
         "texto": "Mi solicitud es que retiren las ramas de la vereda de crisóstomo Álvarez al 3300\nEs el pedido que debe cargar",
         "fecha": "2026-08-05T14:30:47.421Z",
         "sentimiento": "positivo"
+      },
+      {
+        "texto": "No estoy autorizada a contestar nada más y menos autorizar posibles daños",
+        "fecha": "2026-08-05T14:33:34.557Z",
+        "sentimiento": "neutro"
       }
     ]
   },
