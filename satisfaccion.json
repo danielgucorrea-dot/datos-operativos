@@ -5861,7 +5861,7 @@
     "celular": "+54 9 3815 104-686",
     "nombre": "",
     "direccion": "Alsina 749",
-    "sentimiento": "neutro",
+    "sentimiento": "positivo",
     "evidencia_clasificacion": [],
     "canal": "WhatsApp Ambiente",
     "fecha": "2026-06-25",
@@ -5877,8 +5877,8 @@
       "Chacabuco y Alsina,,escuela especial Próspero García",
       "Buen día"
     ],
-    "ultimaActualizacion": "2026-08-04T16:07:46.826Z",
-    "ultimoMensaje": "Buenas tardes,  soy secretario de la escuela Especial para sordos Próspero García ubicada en calle Chacabuco y Alsina, y hay un basural en la vereda, todos los fines de semana pasa lo mismo después de las ferias que hay en el provincial",
+    "ultimaActualizacion": "2026-08-05T11:30:25.573Z",
+    "ultimoMensaje": "Ok gracias",
     "historialMensajes": [
       {
         "texto": "Buenas tardes",
@@ -5889,6 +5889,11 @@
         "texto": "Buenas tardes,  soy secretario de la escuela Especial para sordos Próspero García ubicada en calle Chacabuco y Alsina, y hay un basural en la vereda, todos los fines de semana pasa lo mismo después de",
         "fecha": "2026-08-04T16:07:46.826Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Ok gracias",
+        "fecha": "2026-08-05T11:30:25.573Z",
+        "sentimiento": "positivo"
       }
     ]
   },
