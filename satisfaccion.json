@@ -52827,16 +52827,26 @@
     "numero": "98762873655464",
     "celular": "+54 9 3815 023-701",
     "nombre": "",
-    "direccion": null,
+    "direccion": "Estamos en Suipacha 482",
     "sentimiento": "neutro",
-    "ultimoMensaje": "Buen día",
+    "ultimoMensaje": "Estamos en Suipacha 482",
     "mensaje": "Buen día",
     "fecha": "2026-08-05T12:59:22.413Z",
-    "ultimaActualizacion": "2026-08-05T12:59:22.413Z",
+    "ultimaActualizacion": "2026-08-05T13:32:13.092Z",
     "historialMensajes": [
       {
         "texto": "Buen día",
         "fecha": "2026-08-05T12:59:22.413Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "me llego un citacion por residuos",
+        "fecha": "2026-08-05T13:31:52.495Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Estamos en Suipacha 482",
+        "fecha": "2026-08-05T13:32:13.092Z",
         "sentimiento": "neutro"
       }
     ]
