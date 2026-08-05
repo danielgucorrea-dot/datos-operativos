@@ -52686,5 +52686,23 @@
         "sentimiento": "neutro"
       }
     ]
+  },
+  {
+    "numero": "276346920001656",
+    "celular": "+54 9 3815 157-804",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Hola no me puedo sumar",
+    "mensaje": "Hola no me puedo sumar",
+    "fecha": "2026-08-05T11:39:25.132Z",
+    "ultimaActualizacion": "2026-08-05T11:39:25.132Z",
+    "historialMensajes": [
+      {
+        "texto": "Hola no me puedo sumar",
+        "fecha": "2026-08-05T11:39:25.132Z",
+        "sentimiento": "neutro"
+      }
+    ]
   }
 ]
