@@ -52812,17 +52812,12 @@
     "celular": "+54 9 3816 401-745",
     "nombre": "",
     "direccion": "Crisóstomo Álvarez 3300",
-    "sentimiento": "negativo",
-    "ultimoMensaje": "No debiera pedirme eso",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Están las desembocaduras de 2 pluviales en esa zona de vereda  \nPienso se debe hacer el trabajo de retirar las ramas sin subir a la vereda y aplastar los tubos de desagües y sin dañar el cordón de vereda que es obra de la misma  municipalidad \nPienso que el vehículo con  pala mecánica que usan debe ser prudente y cuidadoso",
     "mensaje": "Buenas noches",
     "fecha": "2026-08-05T00:18:46.187Z",
-    "ultimaActualizacion": "2026-08-05T14:34:10.470Z",
+    "ultimaActualizacion": "2026-08-05T15:04:15.679Z",
     "historialMensajes": [
-      {
-        "texto": "Para retirar ramas",
-        "fecha": "2026-08-05T00:19:22.109Z",
-        "sentimiento": "positivo"
-      },
       {
         "texto": "Crisóstomo Álvarez 3300",
         "fecha": "2026-08-05T00:19:24.983Z",
@@ -52867,6 +52862,11 @@
         "texto": "No debiera pedirme eso",
         "fecha": "2026-08-05T14:34:10.470Z",
         "sentimiento": "negativo"
+      },
+      {
+        "texto": "Están las desembocaduras de 2 pluviales en esa zona de vereda  \nPienso se debe hacer el trabajo de retirar las ramas sin subir a la vereda y aplastar los tubos de desagües y sin dañar el cordón de ver",
+        "fecha": "2026-08-05T15:04:15.679Z",
+        "sentimiento": "neutro"
       }
     ]
   },
