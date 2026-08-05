@@ -3019,12 +3019,22 @@
       "Barrio mutual policial \nPasaje Acevedo y C 3372",
       "Podría mandar recoger"
     ],
-    "ultimaActualizacion": "2026-07-29T13:17:22.850Z",
+    "ultimaActualizacion": "2026-08-05T13:13:22.936Z",
     "ultimoMensaje": "Sobre la manzana 2 barrio Mutual Policial. Pasaje Acevedo y C 3372",
     "historialMensajes": [
       {
         "texto": "Sobre la manzana 2 barrio Mutual Policial. Pasaje Acevedo y C 3372",
         "fecha": "2026-07-29T13:17:22.850Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Buen día. Por limpieza. Gracias",
+        "fecha": "2026-08-05T13:13:09.281Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Sobre la manzana 2 barrio Mutual Policial. Pasaje Acevedo y C 3372",
+        "fecha": "2026-08-05T13:13:22.936Z",
         "sentimiento": "neutro"
       }
     ]
@@ -41287,10 +41297,10 @@
     "nombre": "",
     "direccion": "Dr Vallejos 4200",
     "sentimiento": "neutro",
-    "ultimoMensaje": "Buenos dias!!!",
+    "ultimoMensaje": "Congreso y Alsina",
     "mensaje": "Buenos dias, 👍",
     "fecha": "2026-07-08T11:27:20.013Z",
-    "ultimaActualizacion": "2026-08-05T12:09:31.319Z",
+    "ultimaActualizacion": "2026-08-05T13:08:34.638Z",
     "historialMensajes": [
       {
         "texto": "Buenos dias, 👍",
@@ -41320,6 +41330,11 @@
       {
         "texto": "Buenos dias!!!",
         "fecha": "2026-08-05T12:09:31.319Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Congreso y Alsina",
+        "fecha": "2026-08-05T13:08:34.638Z",
         "sentimiento": "neutro"
       }
     ]
