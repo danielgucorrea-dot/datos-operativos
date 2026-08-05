@@ -52000,11 +52000,11 @@
     "celular": "+54 9 3815 773-971",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "positivo",
-    "ultimoMensaje": "Muchas gracias",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Saludos",
     "mensaje": "Buen día recién hice una consulta por una denuncia",
     "fecha": "2026-08-04T13:09:13.879Z",
-    "ultimaActualizacion": "2026-08-04T13:21:39.303Z",
+    "ultimaActualizacion": "2026-08-05T13:01:23.655Z",
     "historialMensajes": [
       {
         "texto": "Buen día recién hice una consulta por una denuncia",
@@ -52020,6 +52020,21 @@
         "texto": "Muchas gracias",
         "fecha": "2026-08-04T13:21:39.303Z",
         "sentimiento": "positivo"
+      },
+      {
+        "texto": "Buen día muchas gracias por avísame",
+        "fecha": "2026-08-05T13:01:06.946Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Genial espero la resolución entoncesa",
+        "fecha": "2026-08-05T13:01:21.131Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Saludos",
+        "fecha": "2026-08-05T13:01:23.655Z",
+        "sentimiento": "neutro"
       }
     ]
   },
