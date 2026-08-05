@@ -52797,17 +52797,12 @@
     "celular": "+54 9 3816 401-745",
     "nombre": "",
     "direccion": "Crisóstomo Álvarez 3300",
-    "sentimiento": "neutro",
-    "ultimoMensaje": "No estoy autorizada a contestar nada más y menos autorizar posibles daños",
+    "sentimiento": "negativo",
+    "ultimoMensaje": "No debiera pedirme eso",
     "mensaje": "Buenas noches",
     "fecha": "2026-08-05T00:18:46.187Z",
-    "ultimaActualizacion": "2026-08-05T14:33:34.557Z",
+    "ultimaActualizacion": "2026-08-05T14:34:10.470Z",
     "historialMensajes": [
-      {
-        "texto": "Buenas noches",
-        "fecha": "2026-08-05T00:18:47.539Z",
-        "sentimiento": "neutro"
-      },
       {
         "texto": "Para retirar ramas",
         "fecha": "2026-08-05T00:19:22.109Z",
@@ -52852,6 +52847,11 @@
         "texto": "No estoy autorizada a contestar nada más y menos autorizar posibles daños",
         "fecha": "2026-08-05T14:33:34.557Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "No debiera pedirme eso",
+        "fecha": "2026-08-05T14:34:10.470Z",
+        "sentimiento": "negativo"
       }
     ]
   },
