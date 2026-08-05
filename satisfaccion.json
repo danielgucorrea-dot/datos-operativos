@@ -52891,11 +52891,11 @@
     "celular": "+54 9 3815 023-701",
     "nombre": "",
     "direccion": "Estamos en Suipacha 482",
-    "sentimiento": "positivo",
-    "ultimoMensaje": "por favor , si me anticipa con una mensaje antes con gusto lo atiendo",
+    "sentimiento": "negativo",
+    "ultimoMensaje": "Muchas veces no atiendo el teléfono por que estoy ocupado",
     "mensaje": "Buen día",
     "fecha": "2026-08-05T12:59:22.413Z",
-    "ultimaActualizacion": "2026-08-05T14:00:28.001Z",
+    "ultimaActualizacion": "2026-08-05T14:02:01.362Z",
     "historialMensajes": [
       {
         "texto": "Buen día",
@@ -52936,6 +52936,11 @@
         "texto": "por favor , si me anticipa con una mensaje antes con gusto lo atiendo",
         "fecha": "2026-08-05T14:00:28.001Z",
         "sentimiento": "positivo"
+      },
+      {
+        "texto": "Muchas veces no atiendo el teléfono por que estoy ocupado",
+        "fecha": "2026-08-05T14:02:01.362Z",
+        "sentimiento": "negativo"
       }
     ]
   },
