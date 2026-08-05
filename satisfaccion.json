@@ -52603,11 +52603,11 @@
     "celular": "+54 9 3816 365-030",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "positivo",
-    "ultimoMensaje": "En mi escuela queremos implementar la separación de residuos plásticos (botellas , tapitas, bolsas) y se me ocurrió q tal vez podrían ayudarnos con ese tema de la mano del plan Educá",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Buenos días, muchísimas gracias",
     "mensaje": "Buenas tardes srta Rebeca, mi nombre es Lorena Dergham, soy profesora de la escuela secundaria Juan Luis Nouges",
     "fecha": "2026-08-04T16:44:29.756Z",
-    "ultimaActualizacion": "2026-08-04T16:45:57.452Z",
+    "ultimaActualizacion": "2026-08-05T14:42:08.368Z",
     "historialMensajes": [
       {
         "texto": "Buenas tardes srta Rebeca, mi nombre es Lorena Dergham, soy profesora de la escuela secundaria Juan Luis Nouges",
@@ -52618,6 +52618,11 @@
         "texto": "En mi escuela queremos implementar la separación de residuos plásticos (botellas , tapitas, bolsas) y se me ocurrió q tal vez podrían ayudarnos con ese tema de la mano del plan Educá",
         "fecha": "2026-08-04T16:45:57.452Z",
         "sentimiento": "positivo"
+      },
+      {
+        "texto": "Buenos días, muchísimas gracias",
+        "fecha": "2026-08-05T14:42:08.368Z",
+        "sentimiento": "neutro"
       }
     ]
   },
