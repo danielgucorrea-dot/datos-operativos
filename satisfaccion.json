@@ -46523,16 +46523,11 @@
     "nombre": "",
     "direccion": "Barrio Padilla",
     "sentimiento": "positivo",
-    "ultimoMensaje": "Muchas gracias, hoy nuevamente barrieron la calle. Toda la gente de aquí agradecida.",
+    "ultimoMensaje": "A Uds por canalizar el pedido",
     "mensaje": "Muchas gracias por responder. Realmente me preocupa porque hay una pérdida de agua más la basura del ambiente se hace muy difícil la limpieza por parte de cada vecino de la cuadra.",
     "fecha": "2026-07-28T13:12:03.032Z",
-    "ultimaActualizacion": "2026-08-05T15:01:48.846Z",
+    "ultimaActualizacion": "2026-08-05T15:07:59.181Z",
     "historialMensajes": [
-      {
-        "texto": "Porque si no hacemos un reclamo no pasa. Y se los encuentra en la plaza a las 10 de la mañana. Antes había un señor que lo hacía y ese señor se jubiló y desde allí se terminó el servicio pero nos sigu",
-        "fecha": "2026-07-28T13:14:59.879Z",
-        "sentimiento": "positivo"
-      },
       {
         "texto": "Diagonal 8 al 1000 y 1100, Barrio Padilla",
         "fecha": "2026-07-28T13:15:34.480Z",
@@ -46576,6 +46571,11 @@
       {
         "texto": "Muchas gracias, hoy nuevamente barrieron la calle. Toda la gente de aquí agradecida.",
         "fecha": "2026-08-05T15:01:48.846Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "A Uds por canalizar el pedido",
+        "fecha": "2026-08-05T15:07:59.181Z",
         "sentimiento": "positivo"
       }
     ]
