@@ -214,8 +214,8 @@
       "Muchas gracias. Saludos",
       "Buenos días. Mí nombre es Maximiliano Delfini Topa. Necesito utilizar este canal a fin de retirar residuos no convencionales y escombros ubicada en el acceso a un Consorcio de Propietarios ubicado el mismo en calle Colombia 249 ( entre Rivadavia y Monteagudo) de está ciudad capital. Acompaño fotografías"
     ],
-    "ultimaActualizacion": "2026-08-05T13:49:03.685Z",
-    "ultimoMensaje": "Buenos días. Mí nombre es Maximiliano Delfini Topa. Necesito utilizar este canal a fin de retirar residuos no convencionales y escombros ubicados en el acceso a un  Consorcio de Propietarios ubicado el mismo en Colombia 249 ( entre Rivadavia y Monteagudo )de está ciudad capital. Acompaño fotografíass",
+    "ultimaActualizacion": "2026-08-05T13:49:19.492Z",
+    "ultimoMensaje": "Muchas gracias. Saludos",
     "historialMensajes": [
       {
         "texto": "Buenas tardes. Mí nombre es Maximiliano Delfini Topa. Necesito utilizar este canal a fin de retirar residuos no convencionales y escombros ubicada en el acceso a un Consorcio de Propietarios ubicado e",
@@ -240,6 +240,11 @@
       {
         "texto": "Buenos días. Mí nombre es Maximiliano Delfini Topa. Necesito utilizar este canal a fin de retirar residuos no convencionales y escombros ubicados en el acceso a un  Consorcio de Propietarios ubicado e",
         "fecha": "2026-08-05T13:49:03.685Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Muchas gracias. Saludos",
+        "fecha": "2026-08-05T13:49:19.492Z",
         "sentimiento": "positivo"
       }
     ]
@@ -43940,10 +43945,10 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "neutro",
-    "ultimoMensaje": "Claro él tiene propios pero no sabemos a donde van sus residuos",
+    "ultimoMensaje": "Pregúntale si lo pueden llamar",
     "mensaje": "Holaaaa",
     "fecha": "2026-07-13T16:04:46.819Z",
-    "ultimaActualizacion": "2026-08-05T13:36:04.592Z",
+    "ultimaActualizacion": "2026-08-05T13:51:07.281Z",
     "historialMensajes": [
       {
         "texto": "Holaaaa",
@@ -43963,6 +43968,11 @@
       {
         "texto": "Claro él tiene propios pero no sabemos a donde van sus residuos",
         "fecha": "2026-08-05T13:36:04.592Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Pregúntale si lo pueden llamar",
+        "fecha": "2026-08-05T13:51:07.281Z",
         "sentimiento": "neutro"
       }
     ]
