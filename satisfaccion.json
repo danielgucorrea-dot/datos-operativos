@@ -52798,10 +52798,10 @@
     "nombre": "",
     "direccion": "Crisóstomo Álvarez 3300",
     "sentimiento": "neutro",
-    "ultimoMensaje": "Y si rompen cordón o vereda o pluviales, etc,  es la municipalidad la que debe y tiene la responsabilidad de reparar todo.",
+    "ultimoMensaje": "Su nombre por favor?",
     "mensaje": "Buenas noches",
     "fecha": "2026-08-05T00:18:46.187Z",
-    "ultimaActualizacion": "2026-08-05T14:00:15.725Z",
+    "ultimaActualizacion": "2026-08-05T14:26:56.039Z",
     "historialMensajes": [
       {
         "texto": "Buenas noches",
@@ -52841,6 +52841,11 @@
       {
         "texto": "Y si rompen cordón o vereda o pluviales, etc,  es la municipalidad la que debe y tiene la responsabilidad de reparar todo.",
         "fecha": "2026-08-05T14:00:15.725Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Su nombre por favor?",
+        "fecha": "2026-08-05T14:26:56.039Z",
         "sentimiento": "neutro"
       }
     ]
