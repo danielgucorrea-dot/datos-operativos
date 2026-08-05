@@ -314,18 +314,8 @@
     "ultimoMensaje": "!invitar_alumnos_reintentar",
     "mensaje": "Hola",
     "fecha": "2026-07-06T18:02:30.845Z",
-    "ultimaActualizacion": "2026-08-04T19:17:29.590Z",
+    "ultimaActualizacion": "2026-08-05T15:20:56.250Z",
     "historialMensajes": [
-      {
-        "texto": "!invitar_alumnos_test",
-        "fecha": "2026-08-01T17:38:03.423Z",
-        "sentimiento": "neutro"
-      },
-      {
-        "texto": "!invitar_alumnos",
-        "fecha": "2026-08-01T17:40:34.781Z",
-        "sentimiento": "neutro"
-      },
       {
         "texto": "!invitar_alumnos_test CONFIRMAR",
         "fecha": "2026-08-01T17:40:57.427Z",
@@ -364,6 +354,16 @@
       {
         "texto": "!invitar_alumnos_reintentar",
         "fecha": "2026-08-04T19:17:29.590Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "!invitar_alumnos_estado",
+        "fecha": "2026-08-05T15:17:02.963Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "!invitar_alumnos_reintentar",
+        "fecha": "2026-08-05T15:20:56.250Z",
         "sentimiento": "neutro"
       }
     ]
