@@ -52190,11 +52190,11 @@
     "celular": "+54 9 2325 562-382",
     "nombre": "",
     "direccion": "av marina alfaro 1356",
-    "sentimiento": "positivo",
-    "ultimoMensaje": "Perdon la molestia, queria saber en que momento pasarian? porque realmente tiene demasiado olor",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Buen día, nono sigue ahí aun",
     "mensaje": "Hola que tal? Les quería hacer una consulta, yo estoy viviendo sobre la av marina alfaro 1356 y el domingo por la mañana tiraron un perro muerto sobre la vereda",
     "fecha": "2026-08-04T14:14:15.801Z",
-    "ultimaActualizacion": "2026-08-04T20:51:18.655Z",
+    "ultimaActualizacion": "2026-08-05T12:06:17.591Z",
     "historialMensajes": [
       {
         "texto": "Hola que tal? Les quería hacer una consulta, yo estoy viviendo sobre la av marina alfaro 1356 y el domingo por la mañana tiraron un perro muerto sobre la vereda",
@@ -52215,6 +52215,11 @@
         "texto": "Perdon la molestia, queria saber en que momento pasarian? porque realmente tiene demasiado olor",
         "fecha": "2026-08-04T20:51:18.655Z",
         "sentimiento": "positivo"
+      },
+      {
+        "texto": "Buen día, nono sigue ahí aun",
+        "fecha": "2026-08-05T12:06:17.591Z",
+        "sentimiento": "neutro"
       }
     ]
   },
