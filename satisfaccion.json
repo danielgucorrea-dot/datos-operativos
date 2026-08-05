@@ -52955,14 +52955,24 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "neutro",
-    "ultimoMensaje": "Hola buen dia",
+    "ultimoMensaje": "Bueno",
     "mensaje": "Hola buen dia",
     "fecha": "2026-08-05T14:01:02.719Z",
-    "ultimaActualizacion": "2026-08-05T14:01:02.719Z",
+    "ultimaActualizacion": "2026-08-05T14:25:59.876Z",
     "historialMensajes": [
       {
         "texto": "Hola buen dia",
         "fecha": "2026-08-05T14:01:02.719Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Bueno, no tengo drama en pasarlo a dejar cuando este afuera la empresa. Voy estar todo el dia en mi domicilio.",
+        "fecha": "2026-08-05T14:25:16.688Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Bueno",
+        "fecha": "2026-08-05T14:25:59.876Z",
         "sentimiento": "neutro"
       }
     ]
