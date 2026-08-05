@@ -53042,5 +53042,23 @@
         "sentimiento": "neutro"
       }
     ]
+  },
+  {
+    "numero": "16428333801501",
+    "celular": "+54 9 3813 916-402",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Gracias",
+    "mensaje": "Gracias",
+    "fecha": "2026-08-05T15:21:44.460Z",
+    "ultimaActualizacion": "2026-08-05T15:21:44.460Z",
+    "historialMensajes": [
+      {
+        "texto": "Gracias",
+        "fecha": "2026-08-05T15:21:44.460Z",
+        "sentimiento": "positivo"
+      }
+    ]
   }
 ]
