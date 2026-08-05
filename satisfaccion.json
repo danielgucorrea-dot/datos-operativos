@@ -49280,10 +49280,10 @@
     "nombre": "",
     "direccion": "Lamadrid 1249",
     "sentimiento": "neutro",
-    "ultimoMensaje": "Así es esa es la dirección",
+    "ultimoMensaje": "Muchas gracias",
     "mensaje": "Hola cómo están",
     "fecha": "2026-07-30T16:55:30.084Z",
-    "ultimaActualizacion": "2026-08-05T11:53:19.288Z",
+    "ultimaActualizacion": "2026-08-05T12:03:47.371Z",
     "historialMensajes": [
       {
         "texto": "Hola cómo están",
@@ -49298,6 +49298,11 @@
       {
         "texto": "Así es esa es la dirección",
         "fecha": "2026-08-05T11:53:19.288Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Muchas gracias",
+        "fecha": "2026-08-05T12:03:47.371Z",
         "sentimiento": "neutro"
       }
     ]
