@@ -43289,16 +43289,11 @@
     "nombre": "",
     "direccion": "José colombre 1493",
     "sentimiento": "neutro",
-    "ultimoMensaje": "marina alfaro",
+    "ultimoMensaje": "hagan un ticket para LU",
     "mensaje": "buen dia",
     "fecha": "2026-07-13T12:35:57.936Z",
-    "ultimaActualizacion": "2026-08-05T13:47:34.081Z",
+    "ultimaActualizacion": "2026-08-05T14:57:38.110Z",
     "historialMensajes": [
-      {
-        "texto": "igual pasamelo por favor",
-        "fecha": "2026-07-29T15:25:46.929Z",
-        "sentimiento": "neutro"
-      },
       {
         "texto": "asi es",
         "fecha": "2026-07-31T11:42:00.903Z",
@@ -43342,6 +43337,11 @@
       {
         "texto": "marina alfaro",
         "fecha": "2026-08-05T13:47:34.081Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "hagan un ticket para LU",
+        "fecha": "2026-08-05T14:57:38.110Z",
         "sentimiento": "neutro"
       }
     ]
@@ -52603,11 +52603,11 @@
     "celular": "+54 9 3816 365-030",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Buenos días, muchísimas gracias",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Y para solicitar la instalación de cestos de residuos o tulipanes para las tapitas y botellones para las botellas , dónde tendría que dirigirme?",
     "mensaje": "Buenas tardes srta Rebeca, mi nombre es Lorena Dergham, soy profesora de la escuela secundaria Juan Luis Nouges",
     "fecha": "2026-08-04T16:44:29.756Z",
-    "ultimaActualizacion": "2026-08-05T14:42:08.368Z",
+    "ultimaActualizacion": "2026-08-05T14:54:49.178Z",
     "historialMensajes": [
       {
         "texto": "Buenas tardes srta Rebeca, mi nombre es Lorena Dergham, soy profesora de la escuela secundaria Juan Luis Nouges",
@@ -52623,6 +52623,11 @@
         "texto": "Buenos días, muchísimas gracias",
         "fecha": "2026-08-05T14:42:08.368Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Y para solicitar la instalación de cestos de residuos o tulipanes para las tapitas y botellones para las botellas , dónde tendría que dirigirme?",
+        "fecha": "2026-08-05T14:54:49.178Z",
+        "sentimiento": "positivo"
       }
     ]
   },
