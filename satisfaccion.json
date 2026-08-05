@@ -47471,16 +47471,11 @@
     "nombre": "",
     "direccion": "pje arenales 1808",
     "sentimiento": "neutro",
-    "ultimoMensaje": "Pje arenales 1808",
+    "ultimoMensaje": "Si pero me dijeron que podía volver a pedir en agosto",
     "mensaje": "Buenas tardes",
     "fecha": "2026-07-28T16:03:35.696Z",
-    "ultimaActualizacion": "2026-08-05T12:14:27.042Z",
+    "ultimaActualizacion": "2026-08-05T12:20:32.097Z",
     "historialMensajes": [
-      {
-        "texto": "La dirección es pje arenales 1808",
-        "fecha": "2026-07-29T14:30:05.236Z",
-        "sentimiento": "neutro"
-      },
       {
         "texto": "Ok muchas gracias...pero si la saco se la van a llevar...mejor cuando vengan que toquen el timbre",
         "fecha": "2026-07-29T15:07:48.584Z",
@@ -47524,6 +47519,11 @@
       {
         "texto": "Pje arenales 1808",
         "fecha": "2026-08-05T12:14:27.042Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Si pero me dijeron que podía volver a pedir en agosto",
+        "fecha": "2026-08-05T12:20:32.097Z",
         "sentimiento": "neutro"
       }
     ]
