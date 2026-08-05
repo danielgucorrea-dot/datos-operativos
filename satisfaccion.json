@@ -53014,5 +53014,23 @@
         "sentimiento": "neutro"
       }
     ]
+  },
+  {
+    "numero": "68839769415899",
+    "celular": "+54 9 3815 944-232",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Buenas tardes.  \nSaco las bolsas con la lluvia?",
+    "mensaje": "Buenas tardes.  \nSaco las bolsas con la lluvia?",
+    "fecha": "2026-08-05T14:42:51.618Z",
+    "ultimaActualizacion": "2026-08-05T14:42:51.618Z",
+    "historialMensajes": [
+      {
+        "texto": "Buenas tardes.  \nSaco las bolsas con la lluvia?",
+        "fecha": "2026-08-05T14:42:51.618Z",
+        "sentimiento": "neutro"
+      }
+    ]
   }
 ]
