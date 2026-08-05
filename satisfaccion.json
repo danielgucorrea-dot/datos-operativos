@@ -52891,17 +52891,12 @@
     "celular": "+54 9 3815 023-701",
     "nombre": "",
     "direccion": "Estamos en Suipacha 482",
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Pero si me manda un Wsp , estaré a la espera",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Excelente",
     "mensaje": "Buen día",
     "fecha": "2026-08-05T12:59:22.413Z",
-    "ultimaActualizacion": "2026-08-05T14:02:17.156Z",
+    "ultimaActualizacion": "2026-08-05T14:02:38.695Z",
     "historialMensajes": [
-      {
-        "texto": "Buen día",
-        "fecha": "2026-08-05T12:59:22.413Z",
-        "sentimiento": "neutro"
-      },
       {
         "texto": "me llego un citacion por residuos",
         "fecha": "2026-08-05T13:31:52.495Z",
@@ -52946,6 +52941,11 @@
         "texto": "Pero si me manda un Wsp , estaré a la espera",
         "fecha": "2026-08-05T14:02:17.156Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Excelente",
+        "fecha": "2026-08-05T14:02:38.695Z",
+        "sentimiento": "positivo"
       }
     ]
   },
