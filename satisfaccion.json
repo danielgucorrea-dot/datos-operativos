@@ -38136,14 +38136,9 @@
       "Ok muchas gracias",
       "Mariano Moreno 827 planta alta"
     ],
-    "ultimaActualizacion": "2026-08-04T16:13:38.777Z",
-    "ultimoMensaje": "Buenas tardes, pasaba a hacer un pedido de recoleccion, la semana pasada me dijeron que mande un mensaje hoy",
+    "ultimaActualizacion": "2026-08-05T11:31:01.053Z",
+    "ultimoMensaje": "Muchas gracias",
     "historialMensajes": [
-      {
-        "texto": "Quizás se equivocaron",
-        "fecha": "2026-07-31T15:01:28.235Z",
-        "sentimiento": "neutro"
-      },
       {
         "texto": "Y que solución me propones?",
         "fecha": "2026-07-31T15:02:53.865Z",
@@ -38187,6 +38182,11 @@
       {
         "texto": "Buenas tardes, pasaba a hacer un pedido de recoleccion, la semana pasada me dijeron que mande un mensaje hoy",
         "fecha": "2026-08-04T16:13:38.777Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Muchas gracias",
+        "fecha": "2026-08-05T11:31:01.053Z",
         "sentimiento": "positivo"
       }
     ]
