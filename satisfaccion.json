@@ -52653,12 +52653,12 @@
     "numero": "152823660568830",
     "celular": "+54 9 3816 401-745",
     "nombre": "",
-    "direccion": null,
-    "sentimiento": "positivo",
-    "ultimoMensaje": "Para retirar ramas",
+    "direccion": "Crisóstomo Álvarez 3300",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Crisóstomo Álvarez 3300",
     "mensaje": "Buenas noches",
     "fecha": "2026-08-05T00:18:46.187Z",
-    "ultimaActualizacion": "2026-08-05T00:19:22.109Z",
+    "ultimaActualizacion": "2026-08-05T00:19:24.983Z",
     "historialMensajes": [
       {
         "texto": "Buenas noches",
@@ -52674,6 +52674,11 @@
         "texto": "Para retirar ramas",
         "fecha": "2026-08-05T00:19:22.109Z",
         "sentimiento": "positivo"
+      },
+      {
+        "texto": "Crisóstomo Álvarez 3300",
+        "fecha": "2026-08-05T00:19:24.983Z",
+        "sentimiento": "neutro"
       }
     ]
   }
