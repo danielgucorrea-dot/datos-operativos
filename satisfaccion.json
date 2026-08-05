@@ -41282,10 +41282,10 @@
     "nombre": "",
     "direccion": "Dr Vallejos 4200",
     "sentimiento": "neutro",
-    "ultimoMensaje": "Okis",
+    "ultimoMensaje": "Buenos dias!!!",
     "mensaje": "Buenos dias, 👍",
     "fecha": "2026-07-08T11:27:20.013Z",
-    "ultimaActualizacion": "2026-08-04T15:04:34.016Z",
+    "ultimaActualizacion": "2026-08-05T12:09:31.319Z",
     "historialMensajes": [
       {
         "texto": "Buenos dias, 👍",
@@ -41310,6 +41310,11 @@
       {
         "texto": "Okis",
         "fecha": "2026-08-04T15:04:34.016Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Buenos dias!!!",
+        "fecha": "2026-08-05T12:09:31.319Z",
         "sentimiento": "neutro"
       }
     ]
@@ -43236,16 +43241,11 @@
     "nombre": "",
     "direccion": "José colombre 1493",
     "sentimiento": "neutro",
-    "ultimoMensaje": "José colombre 1493",
+    "ultimoMensaje": "ya consulto",
     "mensaje": "buen dia",
     "fecha": "2026-07-13T12:35:57.936Z",
-    "ultimaActualizacion": "2026-08-04T13:58:39.038Z",
+    "ultimaActualizacion": "2026-08-05T12:10:56.418Z",
     "historialMensajes": [
-      {
-        "texto": "ya viso igualmente",
-        "fecha": "2026-07-29T15:02:29.506Z",
-        "sentimiento": "neutro"
-      },
       {
         "texto": "ya avisare q lo llamen cuando vayan",
         "fecha": "2026-07-29T15:11:21.996Z",
@@ -43289,6 +43289,11 @@
       {
         "texto": "José colombre 1493",
         "fecha": "2026-08-04T13:58:39.038Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "ya consulto",
+        "fecha": "2026-08-05T12:10:56.418Z",
         "sentimiento": "neutro"
       }
     ]
@@ -47466,21 +47471,11 @@
     "nombre": "",
     "direccion": "pje arenales 1808",
     "sentimiento": "neutro",
-    "ultimoMensaje": "Ah bueno de acuerdo",
+    "ultimoMensaje": "Pje arenales 1808",
     "mensaje": "Buenas tardes",
     "fecha": "2026-07-28T16:03:35.696Z",
-    "ultimaActualizacion": "2026-07-29T15:11:51.812Z",
+    "ultimaActualizacion": "2026-08-05T12:14:27.042Z",
     "historialMensajes": [
-      {
-        "texto": "Buenas tardes",
-        "fecha": "2026-07-28T16:03:35.696Z",
-        "sentimiento": "neutro"
-      },
-      {
-        "texto": "Buen día mire tengo una heladera que funciona pero da la corriente y la quiero dar...UD la pueden buscar?",
-        "fecha": "2026-07-29T12:19:55.346Z",
-        "sentimiento": "positivo"
-      },
       {
         "texto": "La dirección es pje arenales 1808",
         "fecha": "2026-07-29T14:30:05.236Z",
@@ -47514,6 +47509,21 @@
       {
         "texto": "Ah bueno de acuerdo",
         "fecha": "2026-07-29T15:11:51.812Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Buen día necesito si pueden retirar 5 bolsas con escombros de la puerta de mi casa",
+        "fecha": "2026-08-05T12:14:17.947Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Buen día necesito si pueden retirar 5 bolsas con escombros de la puerta de mi casa",
+        "fecha": "2026-08-05T12:14:19.451Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Pje arenales 1808",
+        "fecha": "2026-08-05T12:14:27.042Z",
         "sentimiento": "neutro"
       }
     ]
