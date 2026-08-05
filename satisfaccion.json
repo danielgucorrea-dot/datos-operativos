@@ -52583,11 +52583,11 @@
     "celular": "+54 9 41767456464",
     "nombre": "",
     "direccion": "salta 472",
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Dirección salta 472, dpto d. San Miguel de Tucuman",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Buen día. Perfecto. Hoy estamos embolsado. Cuando terminemos le mando las fotos. Hasta que horario puedo enviar el mensaje hoy?",
     "mensaje": "Buen día. Soy Cecilia. Vivo en salta 472 de san Miguel. Me pasaron este contacto porque tengo unas bolas de escombros y una maya metálica de una reja que desarmamos en casa y quisieramos tirarlas. Ustedes ofrecen el servicio de retiro de escombros?",
     "fecha": "2026-08-04T16:44:45.046Z",
-    "ultimaActualizacion": "2026-08-04T16:52:28.859Z",
+    "ultimaActualizacion": "2026-08-05T13:20:35.993Z",
     "historialMensajes": [
       {
         "texto": "Buen día. Soy Cecilia. Vivo en salta 472 de san Miguel. Me pasaron este contacto porque tengo unas bolas de escombros y una maya metálica de una reja que desarmamos en casa y quisieramos tirarlas. Ust",
@@ -52603,6 +52603,11 @@
         "texto": "Dirección salta 472, dpto d. San Miguel de Tucuman",
         "fecha": "2026-08-04T16:52:28.859Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Buen día. Perfecto. Hoy estamos embolsado. Cuando terminemos le mando las fotos. Hasta que horario puedo enviar el mensaje hoy?",
+        "fecha": "2026-08-05T13:20:35.993Z",
+        "sentimiento": "positivo"
       }
     ]
   },
@@ -52795,16 +52800,21 @@
     "celular": "+54 9 3816 576-186",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Hola! Quisiera consultar sobre el servicio de recolección de residuos",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Gracias!",
     "mensaje": "Hola! Quisiera consultar sobre el servicio de recolección de residuos",
     "fecha": "2026-08-05T12:46:19.294Z",
-    "ultimaActualizacion": "2026-08-05T12:46:19.294Z",
+    "ultimaActualizacion": "2026-08-05T13:25:14.583Z",
     "historialMensajes": [
       {
         "texto": "Hola! Quisiera consultar sobre el servicio de recolección de residuos",
         "fecha": "2026-08-05T12:46:19.294Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Gracias!",
+        "fecha": "2026-08-05T13:25:14.583Z",
+        "sentimiento": "positivo"
       }
     ]
   },
