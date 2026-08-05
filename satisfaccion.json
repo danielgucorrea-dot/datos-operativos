@@ -52341,11 +52341,11 @@
     "celular": "+54 9 3816 857-130",
     "nombre": "",
     "direccion": "Luis Federico Nougues 984",
-    "sentimiento": "positivo",
-    "ultimoMensaje": "Gracias",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Quería preguntar cuál es v/ dirección x si necesitara concurrir personalmente.",
     "mensaje": "Buenos días. Necesito  el retiro de residuos no habituales.  Favor indicarme condiciones.",
     "fecha": "2026-08-04T14:33:31.911Z",
-    "ultimaActualizacion": "2026-08-04T15:56:05.974Z",
+    "ultimaActualizacion": "2026-08-05T13:56:47.035Z",
     "historialMensajes": [
       {
         "texto": "Buenos días. Necesito  el retiro de residuos no habituales.  Favor indicarme condiciones.",
@@ -52386,6 +52386,11 @@
         "texto": "Gracias",
         "fecha": "2026-08-04T15:56:05.974Z",
         "sentimiento": "positivo"
+      },
+      {
+        "texto": "Quería preguntar cuál es v/ dirección x si necesitara concurrir personalmente.",
+        "fecha": "2026-08-05T13:56:47.035Z",
+        "sentimiento": "neutro"
       }
     ]
   },
