@@ -52785,10 +52785,10 @@
     "nombre": "",
     "direccion": "Crisóstomo Álvarez 3300",
     "sentimiento": "neutro",
-    "ultimoMensaje": "Crisóstomo Álvarez 3300",
+    "ultimoMensaje": "Si \nSe las ve perfectamente \nGracias",
     "mensaje": "Buenas noches",
     "fecha": "2026-08-05T00:18:46.187Z",
-    "ultimaActualizacion": "2026-08-05T13:40:28.608Z",
+    "ultimaActualizacion": "2026-08-05T13:56:32.514Z",
     "historialMensajes": [
       {
         "texto": "Buenas noches",
@@ -52818,6 +52818,11 @@
       {
         "texto": "Crisóstomo Álvarez 3300",
         "fecha": "2026-08-05T13:40:28.608Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Si \nSe las ve perfectamente \nGracias",
+        "fecha": "2026-08-05T13:56:32.514Z",
         "sentimiento": "neutro"
       }
     ]
