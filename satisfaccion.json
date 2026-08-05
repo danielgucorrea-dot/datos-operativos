@@ -6618,7 +6618,7 @@
     "celular": "+54 9 3815 810-078",
     "nombre": "",
     "direccion": "Junin 1636",
-    "sentimiento": "neutro",
+    "sentimiento": "positivo",
     "evidencia_clasificacion": [],
     "canal": "WhatsApp Ambiente",
     "fecha": "2026-06-24",
@@ -6655,8 +6655,8 @@
       "Buen día, necesitaría su servicio para retirar restos de poda por favor",
       "."
     ],
-    "ultimaActualizacion": "2026-08-04T12:43:22.384Z",
-    "ultimoMensaje": "Ok gracias",
+    "ultimaActualizacion": "2026-08-05T12:47:37.585Z",
+    "ultimoMensaje": "Buen día ya dejamos las bolsas en la vereda, junin 1636, saludos.",
     "historialMensajes": [
       {
         "texto": "Hola podrian pasar a retirar unas bolsas por favor?",
@@ -6682,6 +6682,11 @@
         "texto": "Ok gracias",
         "fecha": "2026-08-04T12:43:22.384Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Buen día ya dejamos las bolsas en la vereda, junin 1636, saludos.",
+        "fecha": "2026-08-05T12:47:37.585Z",
+        "sentimiento": "positivo"
       }
     ]
   },
@@ -43241,16 +43246,11 @@
     "nombre": "",
     "direccion": "José colombre 1493",
     "sentimiento": "neutro",
-    "ultimoMensaje": "ya consulto",
+    "ultimoMensaje": "Calle Monteagudo",
     "mensaje": "buen dia",
     "fecha": "2026-07-13T12:35:57.936Z",
-    "ultimaActualizacion": "2026-08-05T12:10:56.418Z",
+    "ultimaActualizacion": "2026-08-05T12:47:41.854Z",
     "historialMensajes": [
-      {
-        "texto": "ya avisare q lo llamen cuando vayan",
-        "fecha": "2026-07-29T15:11:21.996Z",
-        "sentimiento": "neutro"
-      },
       {
         "texto": "me podes pasar el numero por favor",
         "fecha": "2026-07-29T15:24:45.756Z",
@@ -43294,6 +43294,11 @@
       {
         "texto": "ya consulto",
         "fecha": "2026-08-05T12:10:56.418Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Calle Monteagudo",
+        "fecha": "2026-08-05T12:47:41.854Z",
         "sentimiento": "neutro"
       }
     ]
