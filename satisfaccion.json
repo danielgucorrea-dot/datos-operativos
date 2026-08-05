@@ -52938,5 +52938,23 @@
         "sentimiento": "positivo"
       }
     ]
+  },
+  {
+    "numero": "114576892899537",
+    "celular": "+54 9 3886 852-260",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Hola buen dia",
+    "mensaje": "Hola buen dia",
+    "fecha": "2026-08-05T14:01:02.719Z",
+    "ultimaActualizacion": "2026-08-05T14:01:02.719Z",
+    "historialMensajes": [
+      {
+        "texto": "Hola buen dia",
+        "fecha": "2026-08-05T14:01:02.719Z",
+        "sentimiento": "neutro"
+      }
+    ]
   }
 ]
