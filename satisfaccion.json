@@ -1477,7 +1477,7 @@
   },
   {
     "numero": "174569012867262",
-    "celular": "",
+    "celular": "+54 9 3814 486-148",
     "nombre": "",
     "direccion": "Pasaje Fonio 452",
     "sentimiento": "positivo",
@@ -1501,7 +1501,15 @@
       "Por recolección de poda",
       "Buen día!"
     ],
-    "ultimaActualizacion": "2026-07-02"
+    "ultimaActualizacion": "2026-08-05T13:58:39.619Z",
+    "ultimoMensaje": "Tengo dos bolsas de escombro para hacer retirar.\nPj Fonio 452\n*Muchas gracias.!*🙃",
+    "historialMensajes": [
+      {
+        "texto": "Tengo dos bolsas de escombro para hacer retirar.\nPj Fonio 452\n*Muchas gracias.!*🙃",
+        "fecha": "2026-08-05T13:58:39.619Z",
+        "sentimiento": "positivo"
+      }
+    ]
   },
   {
     "numero": "275737017843803",
