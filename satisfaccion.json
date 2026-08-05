@@ -52604,10 +52604,10 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "positivo",
-    "ultimoMensaje": "Y para solicitar la instalación de cestos de residuos o tulipanes para las tapitas y botellones para las botellas , dónde tendría que dirigirme?",
+    "ultimoMensaje": "Perfecto, muchas gracias",
     "mensaje": "Buenas tardes srta Rebeca, mi nombre es Lorena Dergham, soy profesora de la escuela secundaria Juan Luis Nouges",
     "fecha": "2026-08-04T16:44:29.756Z",
-    "ultimaActualizacion": "2026-08-05T14:54:49.178Z",
+    "ultimaActualizacion": "2026-08-05T14:58:09.181Z",
     "historialMensajes": [
       {
         "texto": "Buenas tardes srta Rebeca, mi nombre es Lorena Dergham, soy profesora de la escuela secundaria Juan Luis Nouges",
@@ -52627,6 +52627,11 @@
       {
         "texto": "Y para solicitar la instalación de cestos de residuos o tulipanes para las tapitas y botellones para las botellas , dónde tendría que dirigirme?",
         "fecha": "2026-08-05T14:54:49.178Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Perfecto, muchas gracias",
+        "fecha": "2026-08-05T14:58:09.181Z",
         "sentimiento": "positivo"
       }
     ]
