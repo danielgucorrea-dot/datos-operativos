@@ -52765,10 +52765,10 @@
     "nombre": "",
     "direccion": "Crisóstomo Álvarez 3300",
     "sentimiento": "neutro",
-    "ultimoMensaje": "Para retirar ramas",
+    "ultimoMensaje": "Crisóstomo Álvarez 3300",
     "mensaje": "Buenas noches",
     "fecha": "2026-08-05T00:18:46.187Z",
-    "ultimaActualizacion": "2026-08-05T13:40:23.985Z",
+    "ultimaActualizacion": "2026-08-05T13:40:28.608Z",
     "historialMensajes": [
       {
         "texto": "Buenas noches",
@@ -52793,6 +52793,11 @@
       {
         "texto": "Para retirar ramas",
         "fecha": "2026-08-05T13:40:23.985Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Crisóstomo Álvarez 3300",
+        "fecha": "2026-08-05T13:40:28.608Z",
         "sentimiento": "neutro"
       }
     ]
