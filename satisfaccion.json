@@ -52991,11 +52991,16 @@
     "ultimoMensaje": "Hola como estas?\nQueria saber cuento cuesta un contrato de recolección de residuos comercial y  cuales son los requisitos para la contratación",
     "mensaje": "Hola como estas?\nQueria saber cuento cuesta un contrato de recolección de residuos comercial y  cuales son los requisitos para la contratación",
     "fecha": "2026-08-05T14:27:47.664Z",
-    "ultimaActualizacion": "2026-08-05T14:27:47.664Z",
+    "ultimaActualizacion": "2026-08-05T14:28:06.094Z",
     "historialMensajes": [
       {
         "texto": "Hola como estas?\nQueria saber cuento cuesta un contrato de recolección de residuos comercial y  cuales son los requisitos para la contratación",
         "fecha": "2026-08-05T14:27:47.664Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Hola como estas?\nQueria saber cuento cuesta un contrato de recolección de residuos comercial y  cuales son los requisitos para la contratación",
+        "fecha": "2026-08-05T14:28:06.094Z",
         "sentimiento": "neutro"
       }
     ]
