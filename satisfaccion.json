@@ -52828,11 +52828,11 @@
     "celular": "+54 9 3815 023-701",
     "nombre": "",
     "direccion": "Estamos en Suipacha 482",
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Estamos en Suipacha 482",
+    "sentimiento": "negativo",
+    "ultimoMensaje": "el problema es que me obligan a entrar en el retiro de basura con ustedes y yo tengo contenedores propìos",
     "mensaje": "Buen día",
     "fecha": "2026-08-05T12:59:22.413Z",
-    "ultimaActualizacion": "2026-08-05T13:32:13.092Z",
+    "ultimaActualizacion": "2026-08-05T13:33:02.348Z",
     "historialMensajes": [
       {
         "texto": "Buen día",
@@ -52848,6 +52848,11 @@
         "texto": "Estamos en Suipacha 482",
         "fecha": "2026-08-05T13:32:13.092Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "el problema es que me obligan a entrar en el retiro de basura con ustedes y yo tengo contenedores propìos",
+        "fecha": "2026-08-05T13:33:02.348Z",
+        "sentimiento": "negativo"
       }
     ]
   }
