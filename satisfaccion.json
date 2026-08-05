@@ -52749,5 +52749,23 @@
         "sentimiento": "neutro"
       }
     ]
+  },
+  {
+    "numero": "151131460260063",
+    "celular": "+54 9 3816 576-186",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Hola! Quisiera consultar sobre el servicio de recolección de residuos",
+    "mensaje": "Hola! Quisiera consultar sobre el servicio de recolección de residuos",
+    "fecha": "2026-08-05T12:46:19.294Z",
+    "ultimaActualizacion": "2026-08-05T12:46:19.294Z",
+    "historialMensajes": [
+      {
+        "texto": "Hola! Quisiera consultar sobre el servicio de recolección de residuos",
+        "fecha": "2026-08-05T12:46:19.294Z",
+        "sentimiento": "neutro"
+      }
+    ]
   }
 ]
