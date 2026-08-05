@@ -52648,5 +52648,33 @@
         "sentimiento": "neutro"
       }
     ]
+  },
+  {
+    "numero": "152823660568830",
+    "celular": "+54 9 3816 401-745",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Para retirar ramas",
+    "mensaje": "Buenas noches",
+    "fecha": "2026-08-05T00:18:46.187Z",
+    "ultimaActualizacion": "2026-08-05T00:19:22.109Z",
+    "historialMensajes": [
+      {
+        "texto": "Buenas noches",
+        "fecha": "2026-08-05T00:18:46.187Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Buenas noches",
+        "fecha": "2026-08-05T00:18:47.539Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Para retirar ramas",
+        "fecha": "2026-08-05T00:19:22.109Z",
+        "sentimiento": "positivo"
+      }
+    ]
   }
 ]
