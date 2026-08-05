@@ -43930,10 +43930,10 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "neutro",
-    "ultimoMensaje": "Pasame el número María se comunica",
+    "ultimoMensaje": "Claro él tiene propios pero no sabemos a donde van sus residuos",
     "mensaje": "Holaaaa",
     "fecha": "2026-07-13T16:04:46.819Z",
-    "ultimaActualizacion": "2026-07-13T16:14:43.408Z",
+    "ultimaActualizacion": "2026-08-05T13:36:04.592Z",
     "historialMensajes": [
       {
         "texto": "Holaaaa",
@@ -43948,6 +43948,11 @@
       {
         "texto": "Pasame el número María se comunica",
         "fecha": "2026-07-13T16:14:43.408Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Claro él tiene propios pero no sabemos a donde van sus residuos",
+        "fecha": "2026-08-05T13:36:04.592Z",
         "sentimiento": "neutro"
       }
     ]
