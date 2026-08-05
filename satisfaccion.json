@@ -52892,16 +52892,11 @@
     "nombre": "",
     "direccion": "Estamos en Suipacha 482",
     "sentimiento": "positivo",
-    "ultimoMensaje": "Excelente",
+    "ultimoMensaje": "Gracias",
     "mensaje": "Buen día",
     "fecha": "2026-08-05T12:59:22.413Z",
-    "ultimaActualizacion": "2026-08-05T14:02:38.695Z",
+    "ultimaActualizacion": "2026-08-05T14:02:40.581Z",
     "historialMensajes": [
-      {
-        "texto": "me llego un citacion por residuos",
-        "fecha": "2026-08-05T13:31:52.495Z",
-        "sentimiento": "neutro"
-      },
       {
         "texto": "Estamos en Suipacha 482",
         "fecha": "2026-08-05T13:32:13.092Z",
@@ -52945,6 +52940,11 @@
       {
         "texto": "Excelente",
         "fecha": "2026-08-05T14:02:38.695Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Gracias",
+        "fecha": "2026-08-05T14:02:40.581Z",
         "sentimiento": "positivo"
       }
     ]
