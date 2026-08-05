@@ -52201,10 +52201,10 @@
     "nombre": "",
     "direccion": "av marina alfaro 1356",
     "sentimiento": "neutro",
-    "ultimoMensaje": "Buen día, nono sigue ahí aun",
+    "ultimoMensaje": "Ok ok, Muchas Gracias!",
     "mensaje": "Hola que tal? Les quería hacer una consulta, yo estoy viviendo sobre la av marina alfaro 1356 y el domingo por la mañana tiraron un perro muerto sobre la vereda",
     "fecha": "2026-08-04T14:14:15.801Z",
-    "ultimaActualizacion": "2026-08-05T12:06:17.591Z",
+    "ultimaActualizacion": "2026-08-05T12:26:18.466Z",
     "historialMensajes": [
       {
         "texto": "Hola que tal? Les quería hacer una consulta, yo estoy viviendo sobre la av marina alfaro 1356 y el domingo por la mañana tiraron un perro muerto sobre la vereda",
@@ -52229,6 +52229,16 @@
       {
         "texto": "Buen día, nono sigue ahí aun",
         "fecha": "2026-08-05T12:06:17.591Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Ok ok \nSabes si podrían pasar hoy? \nPor el tema que hay una iglesia y esta casi en la entrada y hoy hay reunión.",
+        "fecha": "2026-08-05T12:23:50.251Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Ok ok, Muchas Gracias!",
+        "fecha": "2026-08-05T12:26:18.466Z",
         "sentimiento": "neutro"
       }
     ]
