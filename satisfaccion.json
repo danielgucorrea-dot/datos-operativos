@@ -8826,14 +8826,9 @@
       "Tengo basura para llevar.",
       "Hola buen día,"
     ],
-    "ultimaActualizacion": "2026-08-21T16:04:41.311Z",
-    "ultimoMensaje": "Buenas",
+    "ultimaActualizacion": "2026-08-21T19:47:46.439Z",
+    "ultimoMensaje": "Hola buenas.",
     "historialMensajes": [
-      {
-        "texto": "Gaspar de medina altura al  627.",
-        "fecha": "2026-08-21T16:04:26.076Z",
-        "sentimiento": "neutro"
-      },
       {
         "texto": "para a hacer un pedido  nuevó.  de retiró.",
         "fecha": "2026-08-21T16:04:27.008Z",
@@ -8877,6 +8872,11 @@
       {
         "texto": "Buenas",
         "fecha": "2026-08-21T16:04:41.311Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Hola buenas.",
+        "fecha": "2026-08-21T19:47:46.439Z",
         "sentimiento": "neutro"
       }
     ]
