@@ -28602,8 +28602,8 @@
       "Necesito turno para el desagotar el pozo del baño",
       "Buenas tardes"
     ],
-    "ultimaActualizacion": "2026-08-21T19:24:29.901Z",
-    "ultimoMensaje": "Está filtrando el agua",
+    "ultimaActualizacion": "2026-08-21T20:02:45.671Z",
+    "ultimoMensaje": "Zelaya Mercedes DNI 25372504",
     "historialMensajes": [
       {
         "texto": "Buenas tardes necesito que desagotar el pozo x favor",
@@ -28618,6 +28618,11 @@
       {
         "texto": "Está filtrando el agua",
         "fecha": "2026-08-21T19:24:29.901Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Zelaya Mercedes DNI 25372504",
+        "fecha": "2026-08-21T20:02:45.671Z",
         "sentimiento": "neutro"
       }
     ]
