@@ -27894,7 +27894,15 @@
       "Quería saber si cuando me darán una solución del desagote",
       "Hola buenas tarde"
     ],
-    "ultimaActualizacion": "2026-05-15"
+    "ultimaActualizacion": "2026-08-21T19:21:35.983Z",
+    "ultimoMensaje": "Todavía no",
+    "historialMensajes": [
+      {
+        "texto": "Todavía no",
+        "fecha": "2026-08-21T19:21:35.983Z",
+        "sentimiento": "neutro"
+      }
+    ]
   },
   {
     "numero": "218528003150005",
