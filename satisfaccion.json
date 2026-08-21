@@ -59038,11 +59038,11 @@
     "celular": "+54 9 279705601241251",
     "nombre": "",
     "direccion": "Mayo 996",
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Pje 1 de Mayo 996",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Muchas gracias",
     "mensaje": "Buenos días",
     "fecha": "2026-08-21T15:58:18.722Z",
-    "ultimaActualizacion": "2026-08-21T16:01:24.564Z",
+    "ultimaActualizacion": "2026-08-21T20:31:22.130Z",
     "historialMensajes": [
       {
         "texto": "Buenos días",
@@ -59058,6 +59058,11 @@
         "texto": "Pje 1 de Mayo 996",
         "fecha": "2026-08-21T16:01:24.564Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Muchas gracias",
+        "fecha": "2026-08-21T20:31:22.130Z",
+        "sentimiento": "positivo"
       }
     ]
   },
