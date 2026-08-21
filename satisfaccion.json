@@ -64102,5 +64102,46 @@
         "sentimiento": "neutro"
       }
     ]
+  },
+  {
+    "numero": "202095592517783",
+    "celular": "+54 9 3816 475-436",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "negativo",
+    "ultimoMensaje": "Nunca vinieron",
+    "mensaje": "Buenas tardes",
+    "fecha": "2026-08-21T20:26:28.871Z",
+    "ultimaActualizacion": "2026-08-21T20:26:30.387Z",
+    "historialMensajes": [
+      {
+        "texto": "Buenas tardes",
+        "fecha": "2026-08-21T20:26:28.871Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Nunca vinieron",
+        "fecha": "2026-08-21T20:26:30.387Z",
+        "sentimiento": "negativo"
+      }
+    ]
+  },
+  {
+    "numero": "44835197198516",
+    "celular": "+54 9 3815 327-887",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "negativo",
+    "ultimoMensaje": "Hola todavía  no me dieron solución",
+    "mensaje": "Hola todavía  no me dieron solución",
+    "fecha": "2026-08-21T20:28:51.043Z",
+    "ultimaActualizacion": "2026-08-21T20:28:51.043Z",
+    "historialMensajes": [
+      {
+        "texto": "Hola todavía  no me dieron solución",
+        "fecha": "2026-08-21T20:28:51.043Z",
+        "sentimiento": "negativo"
+      }
+    ]
   }
 ]
