@@ -64320,11 +64320,11 @@
     "celular": "+54 9 3816 651-602",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "positivo",
-    "ultimoMensaje": "Muchas gracias",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Me avisa haci cordinamos",
     "mensaje": "Hola aun no esta resuelto",
     "fecha": "2026-08-21T20:52:54.767Z",
-    "ultimaActualizacion": "2026-08-21T20:53:00.257Z",
+    "ultimaActualizacion": "2026-08-21T20:53:07.968Z",
     "historialMensajes": [
       {
         "texto": "Hola aun no esta resuelto",
@@ -64335,6 +64335,11 @@
         "texto": "Muchas gracias",
         "fecha": "2026-08-21T20:53:00.257Z",
         "sentimiento": "positivo"
+      },
+      {
+        "texto": "Me avisa haci cordinamos",
+        "fecha": "2026-08-21T20:53:07.968Z",
+        "sentimiento": "neutro"
       }
     ]
   }
