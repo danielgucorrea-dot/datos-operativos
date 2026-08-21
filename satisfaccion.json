@@ -50385,10 +50385,10 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "neutro",
-    "ultimoMensaje": "Bien muchísimas gracias!!!!!",
+    "ultimoMensaje": "Direccion: 9 de julio 620 pb local 3",
     "mensaje": "Hola buen dia",
     "fecha": "2026-07-29T14:54:20.628Z",
-    "ultimaActualizacion": "2026-07-29T15:25:31.743Z",
+    "ultimaActualizacion": "2026-08-21T20:11:17.522Z",
     "historialMensajes": [
       {
         "texto": "Hola buen dia",
@@ -50418,6 +50418,16 @@
       {
         "texto": "Bien muchísimas gracias!!!!!",
         "fecha": "2026-07-29T15:25:31.743Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Hola buenas tardes. Para retirar un mueble en desuso para el lunes",
+        "fecha": "2026-08-21T20:10:49.849Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Direccion: 9 de julio 620 pb local 3",
+        "fecha": "2026-08-21T20:11:17.522Z",
         "sentimiento": "neutro"
       }
     ]
