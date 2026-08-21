@@ -47191,10 +47191,10 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "neutro",
-    "ultimoMensaje": "‎Abre este enlace para unirte a mi grupo de WhatsApp: https://chat.whatsapp.com/EkHJ7T3JRUa92eCl2dqsJL?s=sw&p=i&ilr=0",
+    "ultimoMensaje": "!campana_desagote_iniciar",
     "mensaje": "https://danielgucorrea-dot.github.io/datos-operativos/",
     "fecha": "2026-07-14T15:49:14.174Z",
-    "ultimaActualizacion": "2026-07-31T12:51:55.536Z",
+    "ultimaActualizacion": "2026-08-21T19:20:46.531Z",
     "historialMensajes": [
       {
         "texto": "https://danielgucorrea-dot.github.io/datos-operativos/",
@@ -47209,6 +47209,11 @@
       {
         "texto": "‎Abre este enlace para unirte a mi grupo de WhatsApp: https://chat.whatsapp.com/EkHJ7T3JRUa92eCl2dqsJL?s=sw&p=i&ilr=0",
         "fecha": "2026-07-31T12:51:55.536Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "!campana_desagote_iniciar",
+        "fecha": "2026-08-21T19:20:46.531Z",
         "sentimiento": "neutro"
       }
     ]
