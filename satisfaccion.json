@@ -10248,7 +10248,7 @@
     "celular": "+54 9 3812 018-905",
     "nombre": "",
     "direccion": "Barrio Francisco primero",
-    "sentimiento": "neutro",
+    "sentimiento": "positivo",
     "evidencia_clasificacion": [],
     "canal": "WhatsApp Ambiente",
     "fecha": "2026-06-18",
@@ -10259,8 +10259,8 @@
       "Es para la vecina",
       "Necesito un contenedor \nPara el Barrio Francisco primero"
     ],
-    "ultimaActualizacion": "2026-08-21T19:46:31.986Z",
-    "ultimoMensaje": "Yo soy colaboradora del Barrio Francisco primero",
+    "ultimaActualizacion": "2026-08-21T20:05:13.589Z",
+    "ultimoMensaje": "MONTEROS MARIA EUGENIA \nNUESTRA INTENDENTE ROXANA CHALHA ME RECIBIÓ EN SU DESPACHO ...",
     "historialMensajes": [
       {
         "texto": "Buenas tardes \nNo solucionaron \nEstamos varios vecinos ala espera..",
@@ -10271,6 +10271,11 @@
         "texto": "Yo soy colaboradora del Barrio Francisco primero",
         "fecha": "2026-08-21T19:46:31.986Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "MONTEROS MARIA EUGENIA \nNUESTRA INTENDENTE ROXANA CHALHA ME RECIBIÓ EN SU DESPACHO ...",
+        "fecha": "2026-08-21T20:05:13.589Z",
+        "sentimiento": "positivo"
       }
     ]
   },
@@ -64057,6 +64062,24 @@
         "texto": "Hola nunca me vinieron a desagotar",
         "fecha": "2026-08-21T20:04:07.877Z",
         "sentimiento": "negativo"
+      }
+    ]
+  },
+  {
+    "numero": "245796700172463",
+    "celular": "+54 9 3815 766-606",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Hla buenas tardes todavía n solucione x fabor sii podrían. Ayudar gracias",
+    "mensaje": "Hla buenas tardes todavía n solucione x fabor sii podrían. Ayudar gracias",
+    "fecha": "2026-08-21T20:05:10.133Z",
+    "ultimaActualizacion": "2026-08-21T20:05:10.133Z",
+    "historialMensajes": [
+      {
+        "texto": "Hla buenas tardes todavía n solucione x fabor sii podrían. Ayudar gracias",
+        "fecha": "2026-08-21T20:05:10.133Z",
+        "sentimiento": "neutro"
       }
     ]
   }
