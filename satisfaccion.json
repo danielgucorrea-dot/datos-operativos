@@ -64370,5 +64370,33 @@
         "sentimiento": "neutro"
       }
     ]
+  },
+  {
+    "numero": "188317656162460",
+    "celular": "+54 9 3816 435-947",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "En cualquier momento revalasa",
+    "mensaje": "Hola buenas tardes",
+    "fecha": "2026-08-21T21:11:19.375Z",
+    "ultimaActualizacion": "2026-08-21T21:11:26.301Z",
+    "historialMensajes": [
+      {
+        "texto": "Hola buenas tardes",
+        "fecha": "2026-08-21T21:11:19.375Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Todavía está el pozo lleno",
+        "fecha": "2026-08-21T21:11:20.917Z",
+        "sentimiento": "negativo"
+      },
+      {
+        "texto": "En cualquier momento revalasa",
+        "fecha": "2026-08-21T21:11:26.301Z",
+        "sentimiento": "neutro"
+      }
+    ]
   }
 ]
