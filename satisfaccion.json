@@ -42138,7 +42138,25 @@
       "Bueno muchas gracias",
       "Buenos días para hacer un pedido de descacharreo"
     ],
-    "ultimaActualizacion": "2026-04-01"
+    "ultimaActualizacion": "2026-08-21T20:45:09.209Z",
+    "ultimoMensaje": "También solicite el pedido para descacharreo y sigue pendiente",
+    "historialMensajes": [
+      {
+        "texto": "Buenas tardes. No fue resuelto",
+        "fecha": "2026-08-21T20:44:38.622Z",
+        "sentimiento": "negativo"
+      },
+      {
+        "texto": "También solicite el pedido para descacharreo y sigue pendiente",
+        "fecha": "2026-08-21T20:45:07.345Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "También solicite el pedido para descacharreo y sigue pendiente",
+        "fecha": "2026-08-21T20:45:09.209Z",
+        "sentimiento": "neutro"
+      }
+    ]
   },
   {
     "numero": "160180838895825",
