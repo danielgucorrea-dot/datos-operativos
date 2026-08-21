@@ -20363,12 +20363,17 @@
       "Libertad 2306",
       "Hola! Quiero solicitar el retiro de residuos no habituales"
     ],
-    "ultimaActualizacion": "2026-08-21T19:43:09.243Z",
-    "ultimoMensaje": "Hola bien vos? Ya fue resuelto",
+    "ultimaActualizacion": "2026-08-21T19:48:20.179Z",
+    "ultimoMensaje": "Igualmente que tenga un lindo fin de semana",
     "historialMensajes": [
       {
         "texto": "Hola bien vos? Ya fue resuelto",
         "fecha": "2026-08-21T19:43:09.243Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Igualmente que tenga un lindo fin de semana",
+        "fecha": "2026-08-21T19:48:20.179Z",
         "sentimiento": "neutro"
       }
     ]
