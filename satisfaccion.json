@@ -64398,5 +64398,23 @@
         "sentimiento": "neutro"
       }
     ]
+  },
+  {
+    "numero": "113357105434863",
+    "celular": "+54 9 3813 040-134",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Hola buenas tardes",
+    "mensaje": "Hola buenas tardes",
+    "fecha": "2026-08-21T21:38:57.341Z",
+    "ultimaActualizacion": "2026-08-21T21:38:57.341Z",
+    "historialMensajes": [
+      {
+        "texto": "Hola buenas tardes",
+        "fecha": "2026-08-21T21:38:57.341Z",
+        "sentimiento": "neutro"
+      }
+    ]
   }
 ]
