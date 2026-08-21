@@ -47394,10 +47394,10 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "neutro",
-    "ultimoMensaje": "!campana_desagote_estado",
+    "ultimoMensaje": "campana_desagote_informe",
     "mensaje": "https://danielgucorrea-dot.github.io/datos-operativos/",
     "fecha": "2026-07-14T15:49:14.174Z",
-    "ultimaActualizacion": "2026-08-21T20:19:01.150Z",
+    "ultimaActualizacion": "2026-08-21T22:08:33.791Z",
     "historialMensajes": [
       {
         "texto": "https://danielgucorrea-dot.github.io/datos-operativos/",
@@ -47422,6 +47422,11 @@
       {
         "texto": "!campana_desagote_estado",
         "fecha": "2026-08-21T20:19:01.150Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "campana_desagote_informe",
+        "fecha": "2026-08-21T22:08:33.791Z",
         "sentimiento": "neutro"
       }
     ]
@@ -64449,6 +64454,24 @@
       {
         "texto": "Todavía necesito",
         "fecha": "2026-08-21T22:02:17.670Z",
+        "sentimiento": "neutro"
+      }
+    ]
+  },
+  {
+    "numero": "200952980205672",
+    "celular": "+54 9 3816 661-699",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "No me aresuelto",
+    "mensaje": "No me aresuelto",
+    "fecha": "2026-08-21T22:09:16.612Z",
+    "ultimaActualizacion": "2026-08-21T22:09:16.612Z",
+    "historialMensajes": [
+      {
+        "texto": "No me aresuelto",
+        "fecha": "2026-08-21T22:09:16.612Z",
         "sentimiento": "neutro"
       }
     ]
