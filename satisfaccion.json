@@ -10230,7 +10230,7 @@
     "celular": "+54 9 3812 018-905",
     "nombre": "",
     "direccion": "Barrio Francisco primero",
-    "sentimiento": "neutro",
+    "sentimiento": "negativo",
     "evidencia_clasificacion": [],
     "canal": "WhatsApp Ambiente",
     "fecha": "2026-06-18",
@@ -10241,7 +10241,15 @@
       "Es para la vecina",
       "Necesito un contenedor \nPara el Barrio Francisco primero"
     ],
-    "ultimaActualizacion": "2026-06-18"
+    "ultimaActualizacion": "2026-08-21T19:43:50.221Z",
+    "ultimoMensaje": "Buenas tardes \nNo solucionaron \nEstamos varios vecinos ala espera..",
+    "historialMensajes": [
+      {
+        "texto": "Buenas tardes \nNo solucionaron \nEstamos varios vecinos ala espera..",
+        "fecha": "2026-08-21T19:43:50.221Z",
+        "sentimiento": "negativo"
+      }
+    ]
   },
   {
     "numero": "278962588668006",
@@ -20350,7 +20358,15 @@
       "Libertad 2306",
       "Hola! Quiero solicitar el retiro de residuos no habituales"
     ],
-    "ultimaActualizacion": "2026-06-02"
+    "ultimaActualizacion": "2026-08-21T19:43:09.243Z",
+    "ultimoMensaje": "Hola bien vos? Ya fue resuelto",
+    "historialMensajes": [
+      {
+        "texto": "Hola bien vos? Ya fue resuelto",
+        "fecha": "2026-08-21T19:43:09.243Z",
+        "sentimiento": "neutro"
+      }
+    ]
   },
   {
     "numero": "240750214291685",
