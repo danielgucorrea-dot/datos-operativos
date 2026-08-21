@@ -21722,7 +21722,15 @@
       "Para solicitar levantamiento de basura de una vereda",
       "Hola buenos días"
     ],
-    "ultimaActualizacion": "2026-06-01"
+    "ultimaActualizacion": "2026-08-21T19:49:14.150Z",
+    "ultimoMensaje": "Sii continúa pendiente",
+    "historialMensajes": [
+      {
+        "texto": "Sii continúa pendiente",
+        "fecha": "2026-08-21T19:49:14.150Z",
+        "sentimiento": "neutro"
+      }
+    ]
   },
   {
     "numero": "152265348378833",
