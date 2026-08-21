@@ -64508,5 +64508,28 @@
         "sentimiento": "negativo"
       }
     ]
+  },
+  {
+    "numero": "200004245426230",
+    "celular": "+54 9 3815 766-470",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Un poco tarde no",
+    "mensaje": "Hola, esas olimpiadas ya pasaron",
+    "fecha": "2026-08-21T22:26:44.531Z",
+    "ultimaActualizacion": "2026-08-21T22:26:45.990Z",
+    "historialMensajes": [
+      {
+        "texto": "Hola, esas olimpiadas ya pasaron",
+        "fecha": "2026-08-21T22:26:44.531Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Un poco tarde no",
+        "fecha": "2026-08-21T22:26:45.990Z",
+        "sentimiento": "neutro"
+      }
+    ]
   }
 ]
