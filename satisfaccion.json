@@ -64416,5 +64416,23 @@
         "sentimiento": "neutro"
       }
     ]
+  },
+  {
+    "numero": "3337323823137",
+    "celular": "+54 9 3815 784-261",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Hola buenas tardes!\nNo todavía necesito y la verdad que ya es urgente",
+    "mensaje": "Hola buenas tardes!\nNo todavía necesito y la verdad que ya es urgente",
+    "fecha": "2026-08-21T22:01:41.458Z",
+    "ultimaActualizacion": "2026-08-21T22:01:41.458Z",
+    "historialMensajes": [
+      {
+        "texto": "Hola buenas tardes!\nNo todavía necesito y la verdad que ya es urgente",
+        "fecha": "2026-08-21T22:01:41.458Z",
+        "sentimiento": "neutro"
+      }
+    ]
   }
 ]
