@@ -2319,7 +2319,7 @@
     "celular": "+54 9 124481154621580",
     "nombre": "",
     "direccion": "Corrientes 3939",
-    "sentimiento": "neutro",
+    "sentimiento": "positivo",
     "evidencia_clasificacion": [],
     "canal": "WhatsApp Ambiente",
     "fecha": "2026-07-01",
@@ -2330,13 +2330,18 @@
       "Corrientes 3939",
       "Buenas .me puede mandar el camión para buscar las bolsas"
     ],
-    "ultimaActualizacion": "2026-08-21T15:55:10.968Z",
-    "ultimoMensaje": "Corrientes 3939",
+    "ultimaActualizacion": "2026-08-21T15:59:08.267Z",
+    "ultimoMensaje": "Buenos días me puede mandar el camión para retira unas bolsas de cesped.",
     "historialMensajes": [
       {
         "texto": "Corrientes 3939",
         "fecha": "2026-08-21T15:55:10.968Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Buenos días me puede mandar el camión para retira unas bolsas de cesped.",
+        "fecha": "2026-08-21T15:59:08.267Z",
+        "sentimiento": "positivo"
       }
     ]
   },
@@ -3031,7 +3036,7 @@
     "celular": "+54 9 3815 173-227",
     "nombre": "",
     "direccion": "Barrio mutual policial \nPasaje",
-    "sentimiento": "neutro",
+    "sentimiento": "positivo",
     "evidencia_clasificacion": [
       "perfecto gracias"
     ],
@@ -3071,8 +3076,8 @@
       "Barrio mutual policial \nPasaje Acevedo y C 3372",
       "Podría mandar recoger"
     ],
-    "ultimaActualizacion": "2026-08-21T15:55:32.805Z",
-    "ultimoMensaje": "Sobre la manzana 2 barrio Mutual Policial. Pasaje Acevedo y C 3372",
+    "ultimaActualizacion": "2026-08-21T15:58:44.924Z",
+    "ultimoMensaje": "Gracias",
     "historialMensajes": [
       {
         "texto": "Sobre la manzana 2 barrio Mutual Policial. Pasaje Acevedo y C 3372",
@@ -3103,6 +3108,11 @@
         "texto": "Sobre la manzana 2 barrio Mutual Policial. Pasaje Acevedo y C 3372",
         "fecha": "2026-08-21T15:55:32.805Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Gracias",
+        "fecha": "2026-08-21T15:58:44.924Z",
+        "sentimiento": "positivo"
       }
     ]
   },
@@ -3564,7 +3574,7 @@
     "celular": "+54 9 3816 512-777",
     "nombre": "",
     "direccion": "Barrio Ciudad Parque",
-    "sentimiento": "positivo",
+    "sentimiento": "neutro",
     "evidencia_clasificacion": [
       "perfecto muchas gracias"
     ],
@@ -3623,8 +3633,8 @@
       "Es basura que tiraron los vecinos y se está generando un basural",
       "Levantamiento de basura, residuos de podas y escombros: Corrientes 3530"
     ],
-    "ultimaActualizacion": "2026-07-31T12:54:10.700Z",
-    "ultimoMensaje": "Muchas gracias!",
+    "ultimaActualizacion": "2026-08-21T15:59:23.637Z",
+    "ultimoMensaje": "Buen día, para realizar un pedido",
     "historialMensajes": [
       {
         "texto": "Buen díaa, para realizar un pedido",
@@ -3645,6 +3655,11 @@
         "texto": "Muchas gracias!",
         "fecha": "2026-07-31T12:54:10.700Z",
         "sentimiento": "positivo"
+      },
+      {
+        "texto": "Buen día, para realizar un pedido",
+        "fecha": "2026-08-21T15:59:23.637Z",
+        "sentimiento": "neutro"
       }
     ]
   },
@@ -7406,7 +7421,7 @@
     "celular": "+54 9 3816 572-227",
     "nombre": "",
     "direccion": "Asunción 2419",
-    "sentimiento": "negativo",
+    "sentimiento": "positivo",
     "evidencia_clasificacion": [
       "no\\s+pasa"
     ],
@@ -7422,7 +7437,15 @@
       "10 bolsas de hojas",
       "Hola, quiero programar un retiro de residuos de poda"
     ],
-    "ultimaActualizacion": "2026-06-23"
+    "ultimaActualizacion": "2026-08-21T16:00:18.700Z",
+    "ultimoMensaje": "Buen día, quería consultarle con quién debería hablar este tema, mi mamá tiene 2 árboles de paltas muy grandes en el patio de su casa que son un problema, están rompiendo la construcción, tenemos miedo que se desplome en cualquier momento, y además molestan mucho a los vecinos, y no sabemos cómo hacer para sacarlos a esos árboles, mi mamá es jubilada de la mínima por lo que no le alcanza para pagar un podador porque es muy caro debido a la magnitud de los árboles y yo estoy desempleada y tampoco puedo ayudarla a pagar. Pero ya nos genera miedo de que los árboles tiren toda la construcción, con estos vientos fuertes no podemos salir afuera con miedo de que se quiebre alguna rama que ya pasó muchas veces. Ustedes saben a quien puedo acudir? Me podrían pasar el número de contacto. Muchas gracias",
+    "historialMensajes": [
+      {
+        "texto": "Buen día, quería consultarle con quién debería hablar este tema, mi mamá tiene 2 árboles de paltas muy grandes en el patio de su casa que son un problema, están rompiendo la construcción, tenemos mied",
+        "fecha": "2026-08-21T16:00:18.700Z",
+        "sentimiento": "positivo"
+      }
+    ]
   },
   {
     "numero": "74698171887848",
@@ -8245,8 +8268,8 @@
       "Solo hicieron un basural a cielo abierto",
       "Lucas cordoba 1750 para que ponen cesto de basura"
     ],
-    "ultimaActualizacion": "2026-08-21T15:55:31.816Z",
-    "ultimoMensaje": "Ecuador 1700 seria la direccion",
+    "ultimaActualizacion": "2026-08-21T16:00:13.160Z",
+    "ultimoMensaje": "Ustedes no tienen la culpa que la gente sea tan sucia. Gracias",
     "historialMensajes": [
       {
         "texto": "Buenas",
@@ -8271,6 +8294,11 @@
       {
         "texto": "Ecuador 1700 seria la direccion",
         "fecha": "2026-08-21T15:55:31.816Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Ustedes no tienen la culpa que la gente sea tan sucia. Gracias",
+        "fecha": "2026-08-21T16:00:13.160Z",
         "sentimiento": "neutro"
       }
     ]
@@ -13392,7 +13420,7 @@
     "celular": "+54 9 3816 719-513",
     "nombre": "",
     "direccion": "",
-    "sentimiento": "neutro",
+    "sentimiento": "positivo",
     "evidencia_clasificacion": [],
     "canal": "WhatsApp Ambiente",
     "fecha": "2026-06-10",
@@ -13401,7 +13429,15 @@
       "Para la podar un árbol de la vereda.",
       "Buen día"
     ],
-    "ultimaActualizacion": "2026-06-10"
+    "ultimaActualizacion": "2026-08-21T15:59:45.890Z",
+    "ultimoMensaje": "Gracias",
+    "historialMensajes": [
+      {
+        "texto": "Gracias",
+        "fecha": "2026-08-21T15:59:45.890Z",
+        "sentimiento": "positivo"
+      }
+    ]
   },
   {
     "numero": "87862179553494",
@@ -18554,7 +18590,7 @@
     "celular": "+54 9 3813 321-776",
     "nombre": "",
     "direccion": "Larrea 654",
-    "sentimiento": "neutro",
+    "sentimiento": "positivo",
     "evidencia_clasificacion": [],
     "canal": "WhatsApp Ambiente",
     "fecha": "2026-06-02",
@@ -18564,7 +18600,15 @@
       "Pueden hacer un retiro de 5 bolsas con hojas de Larrea 654",
       "Buen día"
     ],
-    "ultimaActualizacion": "2026-06-02"
+    "ultimaActualizacion": "2026-08-21T15:59:16.029Z",
+    "ultimoMensaje": "Gracias",
+    "historialMensajes": [
+      {
+        "texto": "Gracias",
+        "fecha": "2026-08-21T15:59:16.029Z",
+        "sentimiento": "positivo"
+      }
+    ]
   },
   {
     "numero": "145977432371378",
@@ -24429,8 +24473,8 @@
     "conversacion_completa": [
       "Muchas gracias"
     ],
-    "ultimaActualizacion": "2026-08-21T15:57:18.077Z",
-    "ultimoMensaje": "Por eso solicito se me retire las ramas",
+    "ultimaActualizacion": "2026-08-21T15:59:35.448Z",
+    "ultimoMensaje": "Buenos días, quería agradecer que ayer ya me retiraron las ramas de la vereda y felicitarlos por el servicio que brindan. \nHoy estuve recogiendo las ramas que quedaron y tengo una bolsa que no sé si la llevará el recolector habitual por su tamaño.\nPor ahora la tengo en vereda pero puedo entrarla y sacarla cuando Uds me digan que podrían pasar\n\nLa dirección es LIZONDO BORDA 285",
     "historialMensajes": [
       {
         "texto": "Muchas gracias",
@@ -24445,6 +24489,21 @@
       {
         "texto": "Por eso solicito se me retire las ramas",
         "fecha": "2026-08-21T15:57:18.077Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Muchas gracias",
+        "fecha": "2026-08-21T15:59:02.994Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Gracias",
+        "fecha": "2026-08-21T15:59:13.380Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Buenos días, quería agradecer que ayer ya me retiraron las ramas de la vereda y felicitarlos por el servicio que brindan. \nHoy estuve recogiendo las ramas que quedaron y tengo una bolsa que no sé si l",
+        "fecha": "2026-08-21T15:59:35.448Z",
         "sentimiento": "positivo"
       }
     ]
@@ -25327,7 +25386,7 @@
     "celular": "+54 9 3816 715-156",
     "nombre": "",
     "direccion": "Crisostomo Alvarez 844",
-    "sentimiento": "neutro",
+    "sentimiento": "positivo",
     "evidencia_clasificacion": [],
     "canal": "WhatsApp Ambiente",
     "fecha": "2026-05-20",
@@ -25341,8 +25400,8 @@
       "Tengo entendido que pasan a buscar residuos reciclables dentro de las 4 avenidas los miercoles de 9 a 12hs. Deje una caja con papales y cajas de carton desarmadas en la vereda de Crisostomo Alvarez 844. No se si debia avisar o simplemente pasan",
       "Buenos dias."
     ],
-    "ultimaActualizacion": "2026-08-21T15:55:10.996Z",
-    "ultimoMensaje": "no tengo bolsas verdes como para identificar, ahora si me las quieren dejar y yo guardar ahi, no hay problema",
+    "ultimaActualizacion": "2026-08-21T15:59:40.552Z",
+    "ultimoMensaje": "Acaban de pasar! mil gracias! que tengas lindo dia!",
     "historialMensajes": [
       {
         "texto": "No es demasiado esta vuelta, le habia puesto un papel pintado de verde pero parece que lo sacaron",
@@ -25353,6 +25412,11 @@
         "texto": "no tengo bolsas verdes como para identificar, ahora si me las quieren dejar y yo guardar ahi, no hay problema",
         "fecha": "2026-08-21T15:55:10.996Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Acaban de pasar! mil gracias! que tengas lindo dia!",
+        "fecha": "2026-08-21T15:59:40.552Z",
+        "sentimiento": "positivo"
       }
     ]
   },
@@ -41624,21 +41688,11 @@
     "nombre": "",
     "direccion": "Dr Vallejos 4200",
     "sentimiento": "neutro",
-    "ultimoMensaje": "Lavalle y Güemes",
+    "ultimoMensaje": "Buenos dias!!!",
     "mensaje": "Buenos dias, 👍",
     "fecha": "2026-07-08T11:27:20.013Z",
-    "ultimaActualizacion": "2026-08-21T15:58:18.844Z",
+    "ultimaActualizacion": "2026-08-21T15:59:57.135Z",
     "historialMensajes": [
-      {
-        "texto": "Buenos dias, 👍",
-        "fecha": "2026-07-08T11:27:20.013Z",
-        "sentimiento": "neutro"
-      },
-      {
-        "texto": "Hola buenos dias, bien vuelva, relevo y consulto y te doy la respuesta, gracias",
-        "fecha": "2026-07-13T13:32:43.097Z",
-        "sentimiento": "neutro"
-      },
       {
         "texto": "Dr Vallejos 4200",
         "fecha": "2026-08-04T14:53:43.466Z",
@@ -41677,6 +41731,16 @@
       {
         "texto": "Lavalle y Güemes",
         "fecha": "2026-08-21T15:58:18.844Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Perú al 1000",
+        "fecha": "2026-08-21T15:59:55.499Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Buenos dias!!!",
+        "fecha": "2026-08-21T15:59:57.135Z",
         "sentimiento": "neutro"
       }
     ]
@@ -52245,10 +52309,10 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "neutro",
-    "ultimoMensaje": "Buenas tardes",
+    "ultimoMensaje": "Buen dia",
     "mensaje": "Buen día, no son bolsas porque son ramas de palmeras que rompen las bolsas",
     "fecha": "2026-08-04T11:32:48.301Z",
-    "ultimaActualizacion": "2026-08-21T15:58:22.294Z",
+    "ultimaActualizacion": "2026-08-21T15:59:04.790Z",
     "historialMensajes": [
       {
         "texto": "Buen día, no son bolsas porque son ramas de palmeras que rompen las bolsas",
@@ -52268,6 +52332,26 @@
       {
         "texto": "Buenas tardes",
         "fecha": "2026-08-21T15:58:22.294Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Los restos de palmera",
+        "fecha": "2026-08-21T15:58:58.138Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "La palmera esta en el patio de la casa",
+        "fecha": "2026-08-21T15:58:59.470Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Perfecto gracias",
+        "fecha": "2026-08-21T15:59:01.133Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Buen dia",
+        "fecha": "2026-08-21T15:59:04.790Z",
         "sentimiento": "neutro"
       }
     ]
@@ -53771,11 +53855,11 @@
     "celular": "+54 9 78439423955099",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Buenos días.Dawue las bolsas de basura y todavía no pasaron, por favor si las pueden retirar hoy sería muy amable",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Muchas gracias",
     "mensaje": "Ese mensaje me mandaron y yo las saque",
     "fecha": "2026-08-21T15:55:28.114Z",
-    "ultimaActualizacion": "2026-08-21T15:55:30.750Z",
+    "ultimaActualizacion": "2026-08-21T15:58:44.857Z",
     "historialMensajes": [
       {
         "texto": "Ese mensaje me mandaron y yo las saque",
@@ -53786,6 +53870,11 @@
         "texto": "Buenos días.Dawue las bolsas de basura y todavía no pasaron, por favor si las pueden retirar hoy sería muy amable",
         "fecha": "2026-08-21T15:55:30.750Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Muchas gracias",
+        "fecha": "2026-08-21T15:58:44.857Z",
+        "sentimiento": "positivo"
       }
     ]
   },
@@ -53945,10 +54034,10 @@
     "nombre": "",
     "direccion": "Pasaje Juan Padros 1200",
     "sentimiento": "neutro",
-    "ultimoMensaje": "Pasaje Juan Padros 1200",
+    "ultimoMensaje": "Ok x favor gracias",
     "mensaje": "Y x mi cuadra no  paso dejo a todos los vecinos x basura",
     "fecha": "2026-08-21T15:55:28.617Z",
-    "ultimaActualizacion": "2026-08-21T15:55:31.449Z",
+    "ultimaActualizacion": "2026-08-21T15:58:44.798Z",
     "historialMensajes": [
       {
         "texto": "Y x mi cuadra no  paso dejo a todos los vecinos x basura",
@@ -53978,6 +54067,11 @@
       {
         "texto": "Pasaje Juan Padros 1200",
         "fecha": "2026-08-21T15:55:31.449Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Ok x favor gracias",
+        "fecha": "2026-08-21T15:58:44.798Z",
         "sentimiento": "neutro"
       }
     ]
@@ -54103,14 +54197,19 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "neutro",
-    "ultimoMensaje": "Hoal",
+    "ultimoMensaje": "Bárbaro",
     "mensaje": "Hoal",
     "fecha": "2026-08-21T15:55:29.053Z",
-    "ultimaActualizacion": "2026-08-21T15:55:29.053Z",
+    "ultimaActualizacion": "2026-08-21T15:59:35.534Z",
     "historialMensajes": [
       {
         "texto": "Hoal",
         "fecha": "2026-08-21T15:55:29.053Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Bárbaro",
+        "fecha": "2026-08-21T15:59:35.534Z",
         "sentimiento": "neutro"
       }
     ]
@@ -54194,16 +54293,21 @@
     "celular": "+54 9 258419760046277",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "neutro",
-    "ultimoMensaje": "BELISARIO ROLDÁN 322 ENTRE FON BOSCO Y SAN JUAN",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Ok muchísimas gracias",
     "mensaje": "BELISARIO ROLDÁN 322 ENTRE FON BOSCO Y SAN JUAN",
     "fecha": "2026-08-21T15:55:29.427Z",
-    "ultimaActualizacion": "2026-08-21T15:55:29.427Z",
+    "ultimaActualizacion": "2026-08-21T15:58:34.617Z",
     "historialMensajes": [
       {
         "texto": "BELISARIO ROLDÁN 322 ENTRE FON BOSCO Y SAN JUAN",
         "fecha": "2026-08-21T15:55:29.427Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Ok muchísimas gracias",
+        "fecha": "2026-08-21T15:58:34.617Z",
+        "sentimiento": "positivo"
       }
     ]
   },
@@ -54300,14 +54404,19 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "neutro",
-    "ultimoMensaje": "Buenas tardes",
+    "ultimoMensaje": "Retirar resto de poda",
     "mensaje": "Buenas tardes",
     "fecha": "2026-08-21T15:55:29.737Z",
-    "ultimaActualizacion": "2026-08-21T15:55:29.737Z",
+    "ultimaActualizacion": "2026-08-21T15:59:52.643Z",
     "historialMensajes": [
       {
         "texto": "Buenas tardes",
         "fecha": "2026-08-21T15:55:29.737Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Retirar resto de poda",
+        "fecha": "2026-08-21T15:59:52.643Z",
         "sentimiento": "neutro"
       }
     ]
@@ -54519,11 +54628,11 @@
     "celular": "+54 9 101567487324395",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Gracias. Tiene conocimiento si en Yerba buena realizan ese trabajo? Ya que consultando en internet solo conseguir este contacto",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "gracias",
     "mensaje": "Yerba buena golf country club",
     "fecha": "2026-08-21T15:55:30.715Z",
-    "ultimaActualizacion": "2026-08-21T15:55:32.717Z",
+    "ultimaActualizacion": "2026-08-21T16:00:11.509Z",
     "historialMensajes": [
       {
         "texto": "Yerba buena golf country club",
@@ -54534,6 +54643,11 @@
         "texto": "Gracias. Tiene conocimiento si en Yerba buena realizan ese trabajo? Ya que consultando en internet solo conseguir este contacto",
         "fecha": "2026-08-21T15:55:32.717Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "gracias",
+        "fecha": "2026-08-21T16:00:11.509Z",
+        "sentimiento": "positivo"
       }
     ]
   },
@@ -54684,14 +54798,19 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "neutro",
-    "ultimoMensaje": "Hola buenas tardes",
+    "ultimoMensaje": "Oki, muchas gracias",
     "mensaje": "Hola buenas tardes",
     "fecha": "2026-08-21T15:55:32.051Z",
-    "ultimaActualizacion": "2026-08-21T15:55:32.051Z",
+    "ultimaActualizacion": "2026-08-21T15:59:35.562Z",
     "historialMensajes": [
       {
         "texto": "Hola buenas tardes",
         "fecha": "2026-08-21T15:55:32.051Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Oki, muchas gracias",
+        "fecha": "2026-08-21T15:59:35.562Z",
         "sentimiento": "neutro"
       }
     ]
@@ -54773,16 +54892,21 @@
     "celular": "+54 9 177425233264848",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Necesitariamos barrido de cordones.y a esto sumarle en lo posible una repavimentación.",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Muchas gracias",
     "mensaje": "Necesitariamos barrido de cordones.y a esto sumarle en lo posible una repavimentación.",
     "fecha": "2026-08-21T15:55:32.329Z",
-    "ultimaActualizacion": "2026-08-21T15:55:32.329Z",
+    "ultimaActualizacion": "2026-08-21T15:59:51.003Z",
     "historialMensajes": [
       {
         "texto": "Necesitariamos barrido de cordones.y a esto sumarle en lo posible una repavimentación.",
         "fecha": "2026-08-21T15:55:32.329Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Muchas gracias",
+        "fecha": "2026-08-21T15:59:51.003Z",
+        "sentimiento": "positivo"
       }
     ]
   },
@@ -54905,16 +55029,36 @@
     "numero": "230206136709354",
     "celular": "+54 9 230206136709354",
     "nombre": "",
-    "direccion": null,
+    "direccion": "Marcos Paz 2361",
     "sentimiento": "neutro",
-    "ultimoMensaje": "Buen día",
+    "ultimoMensaje": "Cuanto sale alquilar un contenedor???",
     "mensaje": "Buen día",
     "fecha": "2026-08-21T15:55:41.431Z",
-    "ultimaActualizacion": "2026-08-21T15:55:41.431Z",
+    "ultimaActualizacion": "2026-08-21T16:00:01.129Z",
     "historialMensajes": [
       {
         "texto": "Buen día",
         "fecha": "2026-08-21T15:55:41.431Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Marcos Paz 2361",
+        "fecha": "2026-08-21T15:59:18.510Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Villa Lujan",
+        "fecha": "2026-08-21T15:59:22.102Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Tengo que sacar a la vereda????",
+        "fecha": "2026-08-21T15:59:35.494Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Cuanto sale alquilar un contenedor???",
+        "fecha": "2026-08-21T16:00:01.129Z",
         "sentimiento": "neutro"
       }
     ]
@@ -55484,16 +55628,21 @@
     "celular": "+54 9 102327662968863",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Nececito hacer un reclamo de la empresa 9 de julio .del recolector",
+    "sentimiento": "negativo",
+    "ultimoMensaje": "Quiero denunciar a un revolector de basura de la empresa 9 julio porq rompe la bolsa de basura no la lleva y cuando le reclamo es atrevido",
     "mensaje": "Nececito hacer un reclamo de la empresa 9 de julio .del recolector",
     "fecha": "2026-08-21T15:58:18.620Z",
-    "ultimaActualizacion": "2026-08-21T15:58:18.620Z",
+    "ultimaActualizacion": "2026-08-21T15:59:11.736Z",
     "historialMensajes": [
       {
         "texto": "Nececito hacer un reclamo de la empresa 9 de julio .del recolector",
         "fecha": "2026-08-21T15:58:18.620Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Quiero denunciar a un revolector de basura de la empresa 9 julio porq rompe la bolsa de basura no la lleva y cuando le reclamo es atrevido",
+        "fecha": "2026-08-21T15:59:11.736Z",
+        "sentimiento": "negativo"
       }
     ]
   },
@@ -55502,16 +55651,21 @@
     "celular": "+54 9 279705601241251",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Buenos días",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Me dan un número de seguimiento por favor?",
     "mensaje": "Buenos días",
     "fecha": "2026-08-21T15:58:18.722Z",
-    "ultimaActualizacion": "2026-08-21T15:58:18.722Z",
+    "ultimaActualizacion": "2026-08-21T16:00:03.562Z",
     "historialMensajes": [
       {
         "texto": "Buenos días",
         "fecha": "2026-08-21T15:58:18.722Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Me dan un número de seguimiento por favor?",
+        "fecha": "2026-08-21T16:00:03.562Z",
+        "sentimiento": "positivo"
       }
     ]
   },
@@ -55575,14 +55729,24 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "neutro",
-    "ultimoMensaje": "Tienen q estar en bolsa?",
+    "ultimoMensaje": "hola",
     "mensaje": "Tienen q estar en bolsa?",
     "fecha": "2026-08-21T15:58:18.948Z",
-    "ultimaActualizacion": "2026-08-21T15:58:18.948Z",
+    "ultimaActualizacion": "2026-08-21T15:59:35.587Z",
     "historialMensajes": [
       {
         "texto": "Tienen q estar en bolsa?",
         "fecha": "2026-08-21T15:58:18.948Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Pero no le saque foto",
+        "fecha": "2026-08-21T15:59:09.876Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "hola",
+        "fecha": "2026-08-21T15:59:35.587Z",
         "sentimiento": "neutro"
       }
     ]
@@ -55592,16 +55756,21 @@
     "celular": "+54 9 144204130963543",
     "nombre": "",
     "direccion": "Higgins 1951",
-    "sentimiento": "positivo",
-    "ultimoMensaje": "Buen día quisiera solicitar retiro de poda y ramas. De pasaje O'Higgins 1951. Entre Américo Vespucio e Inca garcilazo",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Pasaje O'Higgins 1951",
     "mensaje": "Buen día quisiera solicitar retiro de poda y ramas. De pasaje O'Higgins 1951. Entre Américo Vespucio e Inca garcilazo",
     "fecha": "2026-08-21T15:58:32.309Z",
-    "ultimaActualizacion": "2026-08-21T15:58:32.309Z",
+    "ultimaActualizacion": "2026-08-21T16:00:07.905Z",
     "historialMensajes": [
       {
         "texto": "Buen día quisiera solicitar retiro de poda y ramas. De pasaje O'Higgins 1951. Entre Américo Vespucio e Inca garcilazo",
         "fecha": "2026-08-21T15:58:32.309Z",
         "sentimiento": "positivo"
+      },
+      {
+        "texto": "Pasaje O'Higgins 1951",
+        "fecha": "2026-08-21T16:00:07.905Z",
+        "sentimiento": "neutro"
       }
     ]
   },
@@ -55637,6 +55806,224 @@
       {
         "texto": "Muchas Gracias",
         "fecha": "2026-08-21T15:58:32.428Z",
+        "sentimiento": "positivo"
+      }
+    ]
+  },
+  {
+    "numero": "135579417219259",
+    "celular": "+54 9 135579417219259",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Es rripio",
+    "mensaje": "Por limpieza,,hace 1 més dejaron ese ripio,  y no lo sacaron",
+    "fecha": "2026-08-21T15:58:36.279Z",
+    "ultimaActualizacion": "2026-08-21T15:59:58.687Z",
+    "historialMensajes": [
+      {
+        "texto": "Por limpieza,,hace 1 més dejaron ese ripio,  y no lo sacaron",
+        "fecha": "2026-08-21T15:58:36.279Z",
+        "sentimiento": "negativo"
+      },
+      {
+        "texto": "Bueno  ,gracias",
+        "fecha": "2026-08-21T15:59:07.322Z",
+        "sentimiento": "positivo"
+      },
+      {
+        "texto": "Es rripio",
+        "fecha": "2026-08-21T15:59:58.687Z",
+        "sentimiento": "neutro"
+      }
+    ]
+  },
+  {
+    "numero": "245191277551622",
+    "celular": "+54 9 245191277551622",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "positivo",
+    "ultimoMensaje": "MUCHAS GRACIAS",
+    "mensaje": "MUCHAS GRACIAS",
+    "fecha": "2026-08-21T15:59:16.843Z",
+    "ultimaActualizacion": "2026-08-21T15:59:16.843Z",
+    "historialMensajes": [
+      {
+        "texto": "MUCHAS GRACIAS",
+        "fecha": "2026-08-21T15:59:16.843Z",
+        "sentimiento": "positivo"
+      }
+    ]
+  },
+  {
+    "numero": "6064644829200",
+    "celular": "+54 9 6064644829200",
+    "nombre": "",
+    "direccion": "Colombia 1333",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Buenas para pedir el retiro de residuos de un domicilio?",
+    "mensaje": "Residuos de Poda. Colombia 1333",
+    "fecha": "2026-08-21T15:59:20.150Z",
+    "ultimaActualizacion": "2026-08-21T15:59:38.781Z",
+    "historialMensajes": [
+      {
+        "texto": "Residuos de Poda. Colombia 1333",
+        "fecha": "2026-08-21T15:59:20.150Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Buenas para pedir el retiro de residuos de un domicilio?",
+        "fecha": "2026-08-21T15:59:38.781Z",
+        "sentimiento": "positivo"
+      }
+    ]
+  },
+  {
+    "numero": "53596930474051",
+    "celular": "+54 9 53596930474051",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Ya está afuera muchas gracias 😊",
+    "mensaje": "Ya está afuera muchas gracias 😊",
+    "fecha": "2026-08-21T15:59:35.612Z",
+    "ultimaActualizacion": "2026-08-21T15:59:35.612Z",
+    "historialMensajes": [
+      {
+        "texto": "Ya está afuera muchas gracias 😊",
+        "fecha": "2026-08-21T15:59:35.612Z",
+        "sentimiento": "positivo"
+      }
+    ]
+  },
+  {
+    "numero": "233925511217355",
+    "celular": "+54 9 233925511217355",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Dale perfecto, ya me pondré a separar y a embolsar, muchas gracias! Muy amable",
+    "mensaje": "Dale perfecto, ya me pondré a separar y a embolsar, muchas gracias! Muy amable",
+    "fecha": "2026-08-21T15:59:42.399Z",
+    "ultimaActualizacion": "2026-08-21T15:59:42.399Z",
+    "historialMensajes": [
+      {
+        "texto": "Dale perfecto, ya me pondré a separar y a embolsar, muchas gracias! Muy amable",
+        "fecha": "2026-08-21T15:59:42.399Z",
+        "sentimiento": "positivo"
+      }
+    ]
+  },
+  {
+    "numero": "84288884224000",
+    "celular": "+54 9 84288884224000",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Buen dia",
+    "mensaje": "Hola",
+    "fecha": "2026-08-21T15:59:44.124Z",
+    "ultimaActualizacion": "2026-08-21T15:59:47.749Z",
+    "historialMensajes": [
+      {
+        "texto": "Hola",
+        "fecha": "2026-08-21T15:59:44.124Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Buen dia",
+        "fecha": "2026-08-21T15:59:47.749Z",
+        "sentimiento": "neutro"
+      }
+    ]
+  },
+  {
+    "numero": "202258784452740",
+    "celular": "+54 9 202258784452740",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Mil gracias!!",
+    "mensaje": "Mil gracias!!",
+    "fecha": "2026-08-21T15:59:49.218Z",
+    "ultimaActualizacion": "2026-08-21T15:59:49.218Z",
+    "historialMensajes": [
+      {
+        "texto": "Mil gracias!!",
+        "fecha": "2026-08-21T15:59:49.218Z",
+        "sentimiento": "positivo"
+      }
+    ]
+  },
+  {
+    "numero": "214254493892621",
+    "celular": "+54 9 214254493892621",
+    "nombre": "",
+    "direccion": "Al 100",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Al 100 . Pero no es la única cuadra donde hay tanto barro",
+    "mensaje": "Al 100 . Pero no es la única cuadra donde hay tanto barro",
+    "fecha": "2026-08-21T16:00:01.870Z",
+    "ultimaActualizacion": "2026-08-21T16:00:01.870Z",
+    "historialMensajes": [
+      {
+        "texto": "Al 100 . Pero no es la única cuadra donde hay tanto barro",
+        "fecha": "2026-08-21T16:00:01.870Z",
+        "sentimiento": "neutro"
+      }
+    ]
+  },
+  {
+    "numero": "195112395116736",
+    "celular": "+54 9 195112395116736",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "3812161466",
+    "mensaje": "3812161466",
+    "fecha": "2026-08-21T16:00:06.231Z",
+    "ultimaActualizacion": "2026-08-21T16:00:06.231Z",
+    "historialMensajes": [
+      {
+        "texto": "3812161466",
+        "fecha": "2026-08-21T16:00:06.231Z",
+        "sentimiento": "neutro"
+      }
+    ]
+  },
+  {
+    "numero": "55443867082791",
+    "celular": "+54 9 55443867082791",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Bien, gracias!",
+    "mensaje": "Bien, gracias!",
+    "fecha": "2026-08-21T16:00:09.714Z",
+    "ultimaActualizacion": "2026-08-21T16:00:09.714Z",
+    "historialMensajes": [
+      {
+        "texto": "Bien, gracias!",
+        "fecha": "2026-08-21T16:00:09.714Z",
+        "sentimiento": "positivo"
+      }
+    ]
+  },
+  {
+    "numero": "14697462005876",
+    "celular": "+54 9 14697462005876",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Ok . muchas Gracias",
+    "mensaje": "Ok . muchas Gracias",
+    "fecha": "2026-08-21T16:00:15.005Z",
+    "ultimaActualizacion": "2026-08-21T16:00:15.005Z",
+    "historialMensajes": [
+      {
+        "texto": "Ok . muchas Gracias",
+        "fecha": "2026-08-21T16:00:15.005Z",
         "sentimiento": "positivo"
       }
     ]
