@@ -8834,14 +8834,9 @@
       "Tengo basura para llevar.",
       "Hola buen día,"
     ],
-    "ultimaActualizacion": "2026-08-21T19:48:49.907Z",
-    "ultimoMensaje": "Que dato necesita.",
+    "ultimaActualizacion": "2026-08-21T19:53:59.526Z",
+    "ultimoMensaje": "Okis",
     "historialMensajes": [
-      {
-        "texto": "En la vía pública.",
-        "fecha": "2026-08-21T16:04:36.311Z",
-        "sentimiento": "neutro"
-      },
       {
         "texto": "Mira tenémos  un problema  con el recolector de recibo.\"  pasa la hora. Que quiere.\"  Y en horario que ellos. Pasan los perro. Ya desparaman.  toda la basura.",
         "fecha": "2026-08-21T16:04:36.339Z",
@@ -8885,6 +8880,11 @@
       {
         "texto": "Que dato necesita.",
         "fecha": "2026-08-21T19:48:49.907Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Okis",
+        "fecha": "2026-08-21T19:53:59.526Z",
         "sentimiento": "neutro"
       }
     ]
