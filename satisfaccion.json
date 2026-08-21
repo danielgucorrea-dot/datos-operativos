@@ -64131,11 +64131,11 @@
     "celular": "+54 9 3815 327-887",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "negativo",
-    "ultimoMensaje": "Sigo esperando",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Si necesito q  desagoten el pozo",
     "mensaje": "Hola todavía  no me dieron solución",
     "fecha": "2026-08-21T20:28:51.043Z",
-    "ultimaActualizacion": "2026-08-21T20:28:55.506Z",
+    "ultimaActualizacion": "2026-08-21T20:30:14.134Z",
     "historialMensajes": [
       {
         "texto": "Hola todavía  no me dieron solución",
@@ -64146,6 +64146,29 @@
         "texto": "Sigo esperando",
         "fecha": "2026-08-21T20:28:55.506Z",
         "sentimiento": "negativo"
+      },
+      {
+        "texto": "Si necesito q  desagoten el pozo",
+        "fecha": "2026-08-21T20:30:14.134Z",
+        "sentimiento": "neutro"
+      }
+    ]
+  },
+  {
+    "numero": "93205152436333",
+    "celular": "+54 9 3815 247-869",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Buenas tardes",
+    "mensaje": "Buenas tardes",
+    "fecha": "2026-08-21T20:30:37.790Z",
+    "ultimaActualizacion": "2026-08-21T20:30:37.790Z",
+    "historialMensajes": [
+      {
+        "texto": "Buenas tardes",
+        "fecha": "2026-08-21T20:30:37.790Z",
+        "sentimiento": "neutro"
       }
     ]
   }
