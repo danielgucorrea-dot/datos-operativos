@@ -64245,5 +64245,23 @@
         "sentimiento": "neutro"
       }
     ]
+  },
+  {
+    "numero": "178954761728133",
+    "celular": "+54 9 3812 220-980",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Buenas tarde",
+    "mensaje": "Buenas tarde",
+    "fecha": "2026-08-21T20:50:03.637Z",
+    "ultimaActualizacion": "2026-08-21T20:50:03.637Z",
+    "historialMensajes": [
+      {
+        "texto": "Buenas tarde",
+        "fecha": "2026-08-21T20:50:03.637Z",
+        "sentimiento": "neutro"
+      }
+    ]
   }
 ]
