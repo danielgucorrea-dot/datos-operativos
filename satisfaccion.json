@@ -47394,10 +47394,10 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "neutro",
-    "ultimoMensaje": "campana_desagote_informe!",
+    "ultimoMensaje": "!campana_desagote_informe",
     "mensaje": "https://danielgucorrea-dot.github.io/datos-operativos/",
     "fecha": "2026-07-14T15:49:14.174Z",
-    "ultimaActualizacion": "2026-08-21T22:09:24.985Z",
+    "ultimaActualizacion": "2026-08-21T22:11:48.872Z",
     "historialMensajes": [
       {
         "texto": "https://danielgucorrea-dot.github.io/datos-operativos/",
@@ -47432,6 +47432,11 @@
       {
         "texto": "campana_desagote_informe!",
         "fecha": "2026-08-21T22:09:24.985Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "!campana_desagote_informe",
+        "fecha": "2026-08-21T22:11:48.872Z",
         "sentimiento": "neutro"
       }
     ]
