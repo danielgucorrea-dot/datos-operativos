@@ -2234,7 +2234,7 @@
     "celular": "+54 9 3816 269-662",
     "nombre": "",
     "direccion": "Dirección San Lorenzo 46",
-    "sentimiento": "neutro",
+    "sentimiento": "positivo",
     "evidencia_clasificacion": [],
     "canal": "WhatsApp Ambiente",
     "fecha": "2026-07-01",
@@ -2248,13 +2248,18 @@
       "Quiero solicitar información,muy bien.Voy a preparar en bolsas ya que son escombros",
       "Hola buen dia"
     ],
-    "ultimaActualizacion": "2026-08-21T15:55:28.220Z",
-    "ultimoMensaje": "Si ,son 4 bolsas",
+    "ultimaActualizacion": "2026-08-21T16:00:24.626Z",
+    "ultimoMensaje": "Muy bien.Gracias",
     "historialMensajes": [
       {
         "texto": "Si ,son 4 bolsas",
         "fecha": "2026-08-21T15:55:28.220Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Muy bien.Gracias",
+        "fecha": "2026-08-21T16:00:24.626Z",
+        "sentimiento": "positivo"
       }
     ]
   },
@@ -53988,10 +53993,10 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "neutro",
-    "ultimoMensaje": "Y pueden demorar  72 hasta en buscarlo?",
+    "ultimoMensaje": "Para ser retirado",
     "mensaje": "Lo podré  hacer sacar a partir de las 13, cuando regresen mis hijos se trabajar",
     "fecha": "2026-08-21T15:55:28.385Z",
-    "ultimaActualizacion": "2026-08-21T15:55:31.610Z",
+    "ultimaActualizacion": "2026-08-21T16:00:25.337Z",
     "historialMensajes": [
       {
         "texto": "Lo podré  hacer sacar a partir de las 13, cuando regresen mis hijos se trabajar",
@@ -54006,6 +54011,11 @@
       {
         "texto": "Y pueden demorar  72 hasta en buscarlo?",
         "fecha": "2026-08-21T15:55:31.610Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Para ser retirado",
+        "fecha": "2026-08-21T16:00:25.337Z",
         "sentimiento": "neutro"
       }
     ]
@@ -55816,10 +55826,10 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "neutro",
-    "ultimoMensaje": "Es rripio",
+    "ultimoMensaje": "Por favor",
     "mensaje": "Por limpieza,,hace 1 més dejaron ese ripio,  y no lo sacaron",
     "fecha": "2026-08-21T15:58:36.279Z",
-    "ultimaActualizacion": "2026-08-21T15:59:58.687Z",
+    "ultimaActualizacion": "2026-08-21T16:00:21.404Z",
     "historialMensajes": [
       {
         "texto": "Por limpieza,,hace 1 més dejaron ese ripio,  y no lo sacaron",
@@ -55834,6 +55844,11 @@
       {
         "texto": "Es rripio",
         "fecha": "2026-08-21T15:59:58.687Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Por favor",
+        "fecha": "2026-08-21T16:00:21.404Z",
         "sentimiento": "neutro"
       }
     ]
