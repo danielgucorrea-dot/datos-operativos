@@ -25186,7 +25186,7 @@
     "celular": "+54 9 3813 445-479",
     "nombre": "",
     "direccion": "Barrio ampliación Alejandro Heredia",
-    "sentimiento": "negativo",
+    "sentimiento": "neutro",
     "evidencia_clasificacion": [
       "no\\s+pasa"
     ],
@@ -25218,7 +25218,15 @@
       "mi nombre es Valeria",
       "muy buenos días.."
     ],
-    "ultimaActualizacion": "2026-05-22"
+    "ultimaActualizacion": "2026-08-21T19:42:31.874Z",
+    "ultimoMensaje": "Hola",
+    "historialMensajes": [
+      {
+        "texto": "Hola",
+        "fecha": "2026-08-21T19:42:31.874Z",
+        "sentimiento": "neutro"
+      }
+    ]
   },
   {
     "numero": "10222508728517",
