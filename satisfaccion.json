@@ -3698,7 +3698,7 @@
     "celular": "+54 9 3816 512-777",
     "nombre": "",
     "direccion": "Barrio Ciudad Parque",
-    "sentimiento": "negativo",
+    "sentimiento": "neutro",
     "evidencia_clasificacion": [
       "perfecto muchas gracias"
     ],
@@ -3757,14 +3757,9 @@
       "Es basura que tiraron los vecinos y se está generando un basural",
       "Levantamiento de basura, residuos de podas y escombros: Corrientes 3530"
     ],
-    "ultimaActualizacion": "2026-08-21T20:18:16.221Z",
-    "ultimoMensaje": "Hola, todavía no fue resuelto",
+    "ultimaActualizacion": "2026-08-21T20:19:15.364Z",
+    "ultimoMensaje": "Pasaje Bascary 4246, entre Santiago y corrientes, entre Belisario Roldán y Dean funes. Altura Av. Belgrano 4200 - Barrio Ciudad Parque",
     "historialMensajes": [
-      {
-        "texto": "Buen díaa, para realizar un pedido",
-        "fecha": "2026-07-14T16:00:34.330Z",
-        "sentimiento": "positivo"
-      },
       {
         "texto": "Levante de ramas, hojas y basura: Santa Fe 4000 y esquina Félix de Olazábal",
         "fecha": "2026-07-14T16:01:14.621Z",
@@ -3809,6 +3804,11 @@
         "texto": "Hola, todavía no fue resuelto",
         "fecha": "2026-08-21T20:18:16.221Z",
         "sentimiento": "negativo"
+      },
+      {
+        "texto": "Pasaje Bascary 4246, entre Santiago y corrientes, entre Belisario Roldán y Dean funes. Altura Av. Belgrano 4200 - Barrio Ciudad Parque",
+        "fecha": "2026-08-21T20:19:15.364Z",
+        "sentimiento": "neutro"
       }
     ]
   },
