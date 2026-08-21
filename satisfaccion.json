@@ -63805,5 +63805,23 @@
         "sentimiento": "positivo"
       }
     ]
+  },
+  {
+    "numero": "44968357933119",
+    "celular": "+54 9 3814 646-564",
+    "nombre": "",
+    "direccion": "es Godoy Cruz 235",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Buenas tardes. Mi domicilio es Godoy Cruz 235. Necesito retiren de mi domicilio 6 bolsas con ramas y plantas que no retira el recolector habitual.. No logro comunicarme con la empresa recolectora",
+    "mensaje": "Buenas tardes. Mi domicilio es Godoy Cruz 235. Necesito retiren de mi domicilio 6 bolsas con ramas y plantas que no retira el recolector habitual.. No logro comunicarme con la empresa recolectora",
+    "fecha": "2026-08-21T17:31:43.149Z",
+    "ultimaActualizacion": "2026-08-21T17:31:43.149Z",
+    "historialMensajes": [
+      {
+        "texto": "Buenas tardes. Mi domicilio es Godoy Cruz 235. Necesito retiren de mi domicilio 6 bolsas con ramas y plantas que no retira el recolector habitual.. No logro comunicarme con la empresa recolectora",
+        "fecha": "2026-08-21T17:31:43.149Z",
+        "sentimiento": "positivo"
+      }
+    ]
   }
 ]
