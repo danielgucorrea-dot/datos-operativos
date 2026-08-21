@@ -27878,7 +27878,7 @@
     "celular": "+54 9 3814 746-183",
     "nombre": "",
     "direccion": "",
-    "sentimiento": "neutro",
+    "sentimiento": "negativo",
     "evidencia_clasificacion": [],
     "canal": "WhatsApp Ambiente",
     "fecha": "2026-05-15",
@@ -27894,8 +27894,8 @@
       "Quería saber si cuando me darán una solución del desagote",
       "Hola buenas tarde"
     ],
-    "ultimaActualizacion": "2026-08-21T19:21:40.023Z",
-    "ultimoMensaje": "Buenas tarde",
+    "ultimaActualizacion": "2026-08-21T19:22:04.861Z",
+    "ultimoMensaje": "Necwsito que lo desagote",
     "historialMensajes": [
       {
         "texto": "Todavía no",
@@ -27906,6 +27906,11 @@
         "texto": "Buenas tarde",
         "fecha": "2026-08-21T19:21:40.023Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Necwsito que lo desagote",
+        "fecha": "2026-08-21T19:22:04.861Z",
+        "sentimiento": "negativo"
       }
     ]
   },
