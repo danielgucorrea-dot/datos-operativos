@@ -28860,8 +28860,8 @@
       "Para hacer levantar unas ramas en el manantial sur",
       "Buenas tardes"
     ],
-    "ultimaActualizacion": "2026-08-21T19:35:43.646Z",
-    "ultimoMensaje": "A nombre de  monica beatriz Fernández \nGral savio 806\nY ayacucho 4200\nBarrio independencia",
+    "ultimaActualizacion": "2026-08-21T19:36:04.348Z",
+    "ultimoMensaje": "Para desagote de pozo",
     "historialMensajes": [
       {
         "texto": "Buenas tardes todavía no binieron, por los pedidos que hicimos",
@@ -28876,6 +28876,11 @@
       {
         "texto": "A nombre de  monica beatriz Fernández \nGral savio 806\nY ayacucho 4200\nBarrio independencia",
         "fecha": "2026-08-21T19:35:43.646Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Para desagote de pozo",
+        "fecha": "2026-08-21T19:36:04.348Z",
         "sentimiento": "neutro"
       }
     ]
