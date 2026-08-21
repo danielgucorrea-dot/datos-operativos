@@ -10240,7 +10240,7 @@
     "celular": "+54 9 3815 279-650",
     "nombre": "",
     "direccion": "",
-    "sentimiento": "neutro",
+    "sentimiento": "positivo",
     "evidencia_clasificacion": [],
     "canal": "WhatsApp Ambiente",
     "fecha": "2026-06-17",
@@ -10271,8 +10271,8 @@
       "Pje 1 de mayo 1050",
       "Hola"
     ],
-    "ultimaActualizacion": "2026-07-14T16:30:54.454Z",
-    "ultimoMensaje": "....",
+    "ultimaActualizacion": "2026-08-21T15:58:34.284Z",
+    "ultimoMensaje": "Gracias",
     "historialMensajes": [
       {
         "texto": "Hola buenos dias",
@@ -10298,6 +10298,11 @@
         "texto": "....",
         "fecha": "2026-07-14T16:30:54.454Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Gracias",
+        "fecha": "2026-08-21T15:58:34.284Z",
+        "sentimiento": "positivo"
       }
     ]
   },
@@ -52240,10 +52245,10 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "neutro",
-    "ultimoMensaje": "Envío foto",
+    "ultimoMensaje": "Buenas tardes",
     "mensaje": "Buen día, no son bolsas porque son ramas de palmeras que rompen las bolsas",
     "fecha": "2026-08-04T11:32:48.301Z",
-    "ultimaActualizacion": "2026-08-21T15:58:18.677Z",
+    "ultimaActualizacion": "2026-08-21T15:58:22.294Z",
     "historialMensajes": [
       {
         "texto": "Buen día, no son bolsas porque son ramas de palmeras que rompen las bolsas",
@@ -52258,6 +52263,11 @@
       {
         "texto": "Envío foto",
         "fecha": "2026-08-21T15:58:18.677Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Buenas tardes",
+        "fecha": "2026-08-21T15:58:22.294Z",
         "sentimiento": "neutro"
       }
     ]
@@ -55243,11 +55253,11 @@
     "celular": "+54 9 208671086776369",
     "nombre": "",
     "direccion": "Av. Ejército del Norte 660",
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Muy buenas tardes debido a oposición de vecinos las bolsas de consorcio  conteniendo las hojas están a disposición para ser retiradas en Av. Ejército del Norte 646 de ésta ciudad. Atte. ANA CAROLINA",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Muy buenas tardes y muchas gracias. Así haré mañana a partir de hs. 14:45 estarán disponibles en Av. Ejército del Norte 660; 10 bolsas. Saludos cordiales ANA CAROLINA",
     "mensaje": "Muy buenos días le envío la  foto de las hojas de planta embolsadas a fin de que se me asigne un turno para su retiro de Av. Ejército del Norte 660, de ésta Ciudad Capital. Espero atenta ANA CAROLINA",
     "fecha": "2026-08-21T15:57:17.912Z",
-    "ultimaActualizacion": "2026-08-21T15:58:17.693Z",
+    "ultimaActualizacion": "2026-08-21T15:58:20.718Z",
     "historialMensajes": [
       {
         "texto": "Muy buenos días le envío la  foto de las hojas de planta embolsadas a fin de que se me asigne un turno para su retiro de Av. Ejército del Norte 660, de ésta Ciudad Capital. Espero atenta ANA CAROLINA",
@@ -55258,6 +55268,11 @@
         "texto": "Muy buenas tardes debido a oposición de vecinos las bolsas de consorcio  conteniendo las hojas están a disposición para ser retiradas en Av. Ejército del Norte 646 de ésta ciudad. Atte. ANA CAROLINA",
         "fecha": "2026-08-21T15:58:17.693Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Muy buenas tardes y muchas gracias. Así haré mañana a partir de hs. 14:45 estarán disponibles en Av. Ejército del Norte 660; 10 bolsas. Saludos cordiales ANA CAROLINA",
+        "fecha": "2026-08-21T15:58:20.718Z",
+        "sentimiento": "positivo"
       }
     ]
   },
@@ -55410,16 +55425,21 @@
     "celular": "+54 9 143602281926725",
     "nombre": "",
     "direccion": "Dirección Crisóstomo Álvarez 2114",
-    "sentimiento": "negativo",
-    "ultimoMensaje": "Dirección Crisóstomo Álvarez 2114 san Miguel de Tucumán hay ratas alacranes y dengue juntan chatarra",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Buenas",
     "mensaje": "Dirección Crisóstomo Álvarez 2114 san Miguel de Tucumán hay ratas alacranes y dengue juntan chatarra",
     "fecha": "2026-08-21T15:58:18.189Z",
-    "ultimaActualizacion": "2026-08-21T15:58:18.189Z",
+    "ultimaActualizacion": "2026-08-21T15:58:32.486Z",
     "historialMensajes": [
       {
         "texto": "Dirección Crisóstomo Álvarez 2114 san Miguel de Tucumán hay ratas alacranes y dengue juntan chatarra",
         "fecha": "2026-08-21T15:58:18.189Z",
         "sentimiento": "negativo"
+      },
+      {
+        "texto": "Buenas",
+        "fecha": "2026-08-21T15:58:32.486Z",
+        "sentimiento": "neutro"
       }
     ]
   },
@@ -55564,6 +55584,60 @@
         "texto": "Tienen q estar en bolsa?",
         "fecha": "2026-08-21T15:58:18.948Z",
         "sentimiento": "neutro"
+      }
+    ]
+  },
+  {
+    "numero": "144204130963543",
+    "celular": "+54 9 144204130963543",
+    "nombre": "",
+    "direccion": "Higgins 1951",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Buen día quisiera solicitar retiro de poda y ramas. De pasaje O'Higgins 1951. Entre Américo Vespucio e Inca garcilazo",
+    "mensaje": "Buen día quisiera solicitar retiro de poda y ramas. De pasaje O'Higgins 1951. Entre Américo Vespucio e Inca garcilazo",
+    "fecha": "2026-08-21T15:58:32.309Z",
+    "ultimaActualizacion": "2026-08-21T15:58:32.309Z",
+    "historialMensajes": [
+      {
+        "texto": "Buen día quisiera solicitar retiro de poda y ramas. De pasaje O'Higgins 1951. Entre Américo Vespucio e Inca garcilazo",
+        "fecha": "2026-08-21T15:58:32.309Z",
+        "sentimiento": "positivo"
+      }
+    ]
+  },
+  {
+    "numero": "76029678882898",
+    "celular": "+54 9 76029678882898",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Muchas gracias",
+    "mensaje": "Muchas gracias",
+    "fecha": "2026-08-21T15:58:32.372Z",
+    "ultimaActualizacion": "2026-08-21T15:58:32.372Z",
+    "historialMensajes": [
+      {
+        "texto": "Muchas gracias",
+        "fecha": "2026-08-21T15:58:32.372Z",
+        "sentimiento": "positivo"
+      }
+    ]
+  },
+  {
+    "numero": "200549253271639",
+    "celular": "+54 9 200549253271639",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Muchas Gracias",
+    "mensaje": "Muchas Gracias",
+    "fecha": "2026-08-21T15:58:32.428Z",
+    "ultimaActualizacion": "2026-08-21T15:58:32.428Z",
+    "historialMensajes": [
+      {
+        "texto": "Muchas Gracias",
+        "fecha": "2026-08-21T15:58:32.428Z",
+        "sentimiento": "positivo"
       }
     ]
   }
