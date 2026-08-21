@@ -64204,5 +64204,23 @@
         "sentimiento": "negativo"
       }
     ]
+  },
+  {
+    "numero": "4729363030124",
+    "celular": "+54 9 3812 476-679",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Hola",
+    "mensaje": "Hola",
+    "fecha": "2026-08-21T20:34:21.528Z",
+    "ultimaActualizacion": "2026-08-21T20:34:21.528Z",
+    "historialMensajes": [
+      {
+        "texto": "Hola",
+        "fecha": "2026-08-21T20:34:21.528Z",
+        "sentimiento": "neutro"
+      }
+    ]
   }
 ]
