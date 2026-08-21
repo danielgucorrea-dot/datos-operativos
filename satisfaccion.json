@@ -64187,16 +64187,21 @@
     "celular": "+54 9 3812 011-163",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Hola cómo estas",
+    "sentimiento": "negativo",
+    "ultimoMensaje": "No me dieron ninguna solución todavía está igual",
     "mensaje": "Hola cómo estas",
     "fecha": "2026-08-21T20:31:46.551Z",
-    "ultimaActualizacion": "2026-08-21T20:31:46.551Z",
+    "ultimaActualizacion": "2026-08-21T20:32:28.156Z",
     "historialMensajes": [
       {
         "texto": "Hola cómo estas",
         "fecha": "2026-08-21T20:31:46.551Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "No me dieron ninguna solución todavía está igual",
+        "fecha": "2026-08-21T20:32:28.156Z",
+        "sentimiento": "negativo"
       }
     ]
   }
