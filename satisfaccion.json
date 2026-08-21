@@ -64252,14 +64252,19 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "neutro",
-    "ultimoMensaje": "Buenas tarde",
+    "ultimoMensaje": "No fue resuelto",
     "mensaje": "Buenas tarde",
     "fecha": "2026-08-21T20:50:03.637Z",
-    "ultimaActualizacion": "2026-08-21T20:50:03.637Z",
+    "ultimaActualizacion": "2026-08-21T20:50:09.998Z",
     "historialMensajes": [
       {
         "texto": "Buenas tarde",
         "fecha": "2026-08-21T20:50:03.637Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "No fue resuelto",
+        "fecha": "2026-08-21T20:50:09.998Z",
         "sentimiento": "neutro"
       }
     ]
