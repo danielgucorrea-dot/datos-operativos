@@ -64297,16 +64297,21 @@
     "celular": "+54 9 3815 611-375",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Hola",
+    "sentimiento": "negativo",
+    "ultimoMensaje": "Aún no vinieron",
     "mensaje": "Hola",
     "fecha": "2026-08-21T20:51:49.588Z",
-    "ultimaActualizacion": "2026-08-21T20:51:49.588Z",
+    "ultimaActualizacion": "2026-08-21T20:51:59.421Z",
     "historialMensajes": [
       {
         "texto": "Hola",
         "fecha": "2026-08-21T20:51:49.588Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Aún no vinieron",
+        "fecha": "2026-08-21T20:51:59.421Z",
+        "sentimiento": "negativo"
       }
     ]
   }
