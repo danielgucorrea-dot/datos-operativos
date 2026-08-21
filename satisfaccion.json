@@ -64468,16 +64468,21 @@
     "celular": "+54 9 3816 661-699",
     "nombre": "",
     "direccion": null,
-    "sentimiento": "neutro",
-    "ultimoMensaje": "No me aresuelto",
+    "sentimiento": "negativo",
+    "ultimoMensaje": "Todavía estoy esperando",
     "mensaje": "No me aresuelto",
     "fecha": "2026-08-21T22:09:16.612Z",
-    "ultimaActualizacion": "2026-08-21T22:09:16.612Z",
+    "ultimaActualizacion": "2026-08-21T22:10:03.113Z",
     "historialMensajes": [
       {
         "texto": "No me aresuelto",
         "fecha": "2026-08-21T22:09:16.612Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Todavía estoy esperando",
+        "fecha": "2026-08-21T22:10:03.113Z",
+        "sentimiento": "negativo"
       }
     ]
   }
