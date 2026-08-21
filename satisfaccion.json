@@ -36996,7 +36996,7 @@
     "celular": "+54 9 3815 886-034",
     "nombre": "",
     "direccion": "",
-    "sentimiento": "neutro",
+    "sentimiento": "negativo",
     "evidencia_clasificacion": [],
     "canal": "WhatsApp Ambiente",
     "fecha": "2026-04-16",
@@ -37025,7 +37025,15 @@
       "hola buen dia qeria saber si se puede solicitar un camion para tirar  residuo de un domicilio",
       "buen dia"
     ],
-    "ultimaActualizacion": "2026-04-16"
+    "ultimaActualizacion": "2026-08-21T19:46:00.586Z",
+    "ultimoMensaje": "hola no vinieron",
+    "historialMensajes": [
+      {
+        "texto": "hola no vinieron",
+        "fecha": "2026-08-21T19:46:00.586Z",
+        "sentimiento": "negativo"
+      }
+    ]
   },
   {
     "numero": "142275170554023",
