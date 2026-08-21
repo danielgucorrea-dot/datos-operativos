@@ -7564,8 +7564,8 @@
       "Elpozodelbano",
       "Hoka   buendia para que venga zdestrancarme"
     ],
-    "ultimaActualizacion": "2026-08-21T19:55:20.831Z",
-    "ultimoMensaje": "No.tenfo respuesta",
+    "ultimaActualizacion": "2026-08-21T19:55:30.064Z",
+    "ultimoMensaje": "Hacemos de seis mese pedi",
     "historialMensajes": [
       {
         "texto": "Hoka no.nzdie vino todavía adeszgotarme",
@@ -7575,6 +7575,11 @@
       {
         "texto": "No.tenfo respuesta",
         "fecha": "2026-08-21T19:55:20.831Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Hacemos de seis mese pedi",
+        "fecha": "2026-08-21T19:55:30.064Z",
         "sentimiento": "neutro"
       }
     ]
