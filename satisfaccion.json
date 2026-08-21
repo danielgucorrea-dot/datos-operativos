@@ -64181,5 +64181,23 @@
         "sentimiento": "neutro"
       }
     ]
+  },
+  {
+    "numero": "261022594150527",
+    "celular": "+54 9 3812 011-163",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Hola cómo estas",
+    "mensaje": "Hola cómo estas",
+    "fecha": "2026-08-21T20:31:46.551Z",
+    "ultimaActualizacion": "2026-08-21T20:31:46.551Z",
+    "historialMensajes": [
+      {
+        "texto": "Hola cómo estas",
+        "fecha": "2026-08-21T20:31:46.551Z",
+        "sentimiento": "neutro"
+      }
+    ]
   }
 ]
