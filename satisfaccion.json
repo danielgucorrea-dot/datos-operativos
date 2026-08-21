@@ -27894,12 +27894,17 @@
       "Quería saber si cuando me darán una solución del desagote",
       "Hola buenas tarde"
     ],
-    "ultimaActualizacion": "2026-08-21T19:21:35.983Z",
-    "ultimoMensaje": "Todavía no",
+    "ultimaActualizacion": "2026-08-21T19:21:40.023Z",
+    "ultimoMensaje": "Buenas tarde",
     "historialMensajes": [
       {
         "texto": "Todavía no",
         "fecha": "2026-08-21T19:21:35.983Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Buenas tarde",
+        "fecha": "2026-08-21T19:21:40.023Z",
         "sentimiento": "neutro"
       }
     ]
