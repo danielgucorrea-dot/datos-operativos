@@ -28851,7 +28851,7 @@
     "celular": "+54 9 3815 229-281",
     "nombre": "",
     "direccion": "",
-    "sentimiento": "neutro",
+    "sentimiento": "negativo",
     "evidencia_clasificacion": [],
     "canal": "WhatsApp Ambiente",
     "fecha": "2026-05-07",
@@ -28860,7 +28860,15 @@
       "Para hacer levantar unas ramas en el manantial sur",
       "Buenas tardes"
     ],
-    "ultimaActualizacion": "2026-05-07"
+    "ultimaActualizacion": "2026-08-21T19:26:09.349Z",
+    "ultimoMensaje": "Buenas tardes todavía no binieron, por los pedidos que hicimos",
+    "historialMensajes": [
+      {
+        "texto": "Buenas tardes todavía no binieron, por los pedidos que hicimos",
+        "fecha": "2026-08-21T19:26:09.349Z",
+        "sentimiento": "negativo"
+      }
+    ]
   },
   {
     "numero": "128445392617522",
