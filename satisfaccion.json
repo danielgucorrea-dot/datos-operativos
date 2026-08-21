@@ -64132,14 +64132,19 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "negativo",
-    "ultimoMensaje": "Hola todavía  no me dieron solución",
+    "ultimoMensaje": "Sigo esperando",
     "mensaje": "Hola todavía  no me dieron solución",
     "fecha": "2026-08-21T20:28:51.043Z",
-    "ultimaActualizacion": "2026-08-21T20:28:51.043Z",
+    "ultimaActualizacion": "2026-08-21T20:28:55.506Z",
     "historialMensajes": [
       {
         "texto": "Hola todavía  no me dieron solución",
         "fecha": "2026-08-21T20:28:51.043Z",
+        "sentimiento": "negativo"
+      },
+      {
+        "texto": "Sigo esperando",
+        "fecha": "2026-08-21T20:28:55.506Z",
         "sentimiento": "negativo"
       }
     ]
