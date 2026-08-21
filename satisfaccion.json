@@ -10230,7 +10230,7 @@
     "celular": "+54 9 3812 018-905",
     "nombre": "",
     "direccion": "Barrio Francisco primero",
-    "sentimiento": "negativo",
+    "sentimiento": "neutro",
     "evidencia_clasificacion": [],
     "canal": "WhatsApp Ambiente",
     "fecha": "2026-06-18",
@@ -10241,13 +10241,18 @@
       "Es para la vecina",
       "Necesito un contenedor \nPara el Barrio Francisco primero"
     ],
-    "ultimaActualizacion": "2026-08-21T19:43:50.221Z",
-    "ultimoMensaje": "Buenas tardes \nNo solucionaron \nEstamos varios vecinos ala espera..",
+    "ultimaActualizacion": "2026-08-21T19:46:31.986Z",
+    "ultimoMensaje": "Yo soy colaboradora del Barrio Francisco primero",
     "historialMensajes": [
       {
         "texto": "Buenas tardes \nNo solucionaron \nEstamos varios vecinos ala espera..",
         "fecha": "2026-08-21T19:43:50.221Z",
         "sentimiento": "negativo"
+      },
+      {
+        "texto": "Yo soy colaboradora del Barrio Francisco primero",
+        "fecha": "2026-08-21T19:46:31.986Z",
+        "sentimiento": "neutro"
       }
     ]
   },
