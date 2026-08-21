@@ -25218,12 +25218,17 @@
       "mi nombre es Valeria",
       "muy buenos días.."
     ],
-    "ultimaActualizacion": "2026-08-21T19:42:31.874Z",
-    "ultimoMensaje": "Hola",
+    "ultimaActualizacion": "2026-08-21T19:42:35.671Z",
+    "ultimoMensaje": "Buenas tardes",
     "historialMensajes": [
       {
         "texto": "Hola",
         "fecha": "2026-08-21T19:42:31.874Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Buenas tardes",
+        "fecha": "2026-08-21T19:42:35.671Z",
         "sentimiento": "neutro"
       }
     ]
