@@ -64211,14 +64211,19 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "neutro",
-    "ultimoMensaje": "Hola",
+    "ultimoMensaje": "No fue resuelto",
     "mensaje": "Hola",
     "fecha": "2026-08-21T20:34:21.528Z",
-    "ultimaActualizacion": "2026-08-21T20:34:21.528Z",
+    "ultimaActualizacion": "2026-08-21T20:34:44.905Z",
     "historialMensajes": [
       {
         "texto": "Hola",
         "fecha": "2026-08-21T20:34:21.528Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "No fue resuelto",
+        "fecha": "2026-08-21T20:34:44.905Z",
         "sentimiento": "neutro"
       }
     ]
