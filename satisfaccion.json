@@ -64314,5 +64314,23 @@
         "sentimiento": "negativo"
       }
     ]
+  },
+  {
+    "numero": "209701979615461",
+    "celular": "+54 9 3816 651-602",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "negativo",
+    "ultimoMensaje": "Hola aun no esta resuelto",
+    "mensaje": "Hola aun no esta resuelto",
+    "fecha": "2026-08-21T20:52:54.767Z",
+    "ultimaActualizacion": "2026-08-21T20:52:54.767Z",
+    "historialMensajes": [
+      {
+        "texto": "Hola aun no esta resuelto",
+        "fecha": "2026-08-21T20:52:54.767Z",
+        "sentimiento": "negativo"
+      }
+    ]
   }
 ]
