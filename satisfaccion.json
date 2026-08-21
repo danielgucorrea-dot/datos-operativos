@@ -64347,5 +64347,28 @@
         "sentimiento": "neutro"
       }
     ]
+  },
+  {
+    "numero": "30971629953053",
+    "celular": "+54 9 3814 635-605",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Seguimos con el pozo lleno",
+    "mensaje": "Hola",
+    "fecha": "2026-08-21T20:59:46.891Z",
+    "ultimaActualizacion": "2026-08-21T20:59:56.418Z",
+    "historialMensajes": [
+      {
+        "texto": "Hola",
+        "fecha": "2026-08-21T20:59:46.891Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Seguimos con el pozo lleno",
+        "fecha": "2026-08-21T20:59:56.418Z",
+        "sentimiento": "neutro"
+      }
+    ]
   }
 ]
