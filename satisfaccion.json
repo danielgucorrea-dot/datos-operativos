@@ -63828,5 +63828,33 @@
         "sentimiento": "positivo"
       }
     ]
+  },
+  {
+    "numero": "74127008366691",
+    "celular": "+54 9 3815 290-084",
+    "nombre": "",
+    "direccion": "Pasaje bascary 4353",
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Pasaje bascary 4353\nParque 5 centenario",
+    "mensaje": "Buenas tardes \nNecesito saber cómo hacer para pedir retiro de poda que quedó en vereda",
+    "fecha": "2026-08-21T18:54:43.152Z",
+    "ultimaActualizacion": "2026-08-21T18:55:18.843Z",
+    "historialMensajes": [
+      {
+        "texto": "Buenas tardes \nNecesito saber cómo hacer para pedir retiro de poda que quedó en vereda",
+        "fecha": "2026-08-21T18:54:43.152Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Buenas tardes \nNecesito saber cómo hacer para pedir retiro de poda que quedó en vereda",
+        "fecha": "2026-08-21T18:55:00.796Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Pasaje bascary 4353\nParque 5 centenario",
+        "fecha": "2026-08-21T18:55:18.843Z",
+        "sentimiento": "neutro"
+      }
+    ]
   }
 ]
