@@ -63767,5 +63767,33 @@
         "sentimiento": "neutro"
       }
     ]
+  },
+  {
+    "numero": "67384446558446",
+    "celular": "+54 9 3816 646-269",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Necesito que me retiren escombros de la puerta de mí casa",
+    "mensaje": "Hola",
+    "fecha": "2026-08-21T16:56:15.477Z",
+    "ultimaActualizacion": "2026-08-21T16:56:47.902Z",
+    "historialMensajes": [
+      {
+        "texto": "Hola",
+        "fecha": "2026-08-21T16:56:15.477Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Hola",
+        "fecha": "2026-08-21T16:56:16.800Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Necesito que me retiren escombros de la puerta de mí casa",
+        "fecha": "2026-08-21T16:56:47.902Z",
+        "sentimiento": "positivo"
+      }
+    ]
   }
 ]
