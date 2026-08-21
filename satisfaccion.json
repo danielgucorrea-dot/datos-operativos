@@ -8794,7 +8794,7 @@
     "celular": "+54 9 3815 670-149",
     "nombre": "",
     "direccion": "Gaspara de medina 600",
-    "sentimiento": "neutro",
+    "sentimiento": "positivo",
     "evidencia_clasificacion": [],
     "canal": "WhatsApp Ambiente",
     "fecha": "2026-06-22",
@@ -8826,14 +8826,9 @@
       "Tengo basura para llevar.",
       "Hola buen día,"
     ],
-    "ultimaActualizacion": "2026-08-21T19:47:46.439Z",
-    "ultimoMensaje": "Hola buenas.",
+    "ultimaActualizacion": "2026-08-21T19:48:12.880Z",
+    "ultimoMensaje": "Necesitó a hacer el pedido para desagotar el pozo.",
     "historialMensajes": [
-      {
-        "texto": "para a hacer un pedido  nuevó.  de retiró.",
-        "fecha": "2026-08-21T16:04:27.008Z",
-        "sentimiento": "neutro"
-      },
       {
         "texto": "Nuevó.",
         "fecha": "2026-08-21T16:04:27.127Z",
@@ -8878,6 +8873,11 @@
         "texto": "Hola buenas.",
         "fecha": "2026-08-21T19:47:46.439Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Necesitó a hacer el pedido para desagotar el pozo.",
+        "fecha": "2026-08-21T19:48:12.880Z",
+        "sentimiento": "positivo"
       }
     ]
   },
