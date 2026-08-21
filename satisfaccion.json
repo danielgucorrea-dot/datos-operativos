@@ -25234,8 +25234,8 @@
       "mi nombre es Valeria",
       "muy buenos días.."
     ],
-    "ultimaActualizacion": "2026-08-21T19:43:06.409Z",
-    "ultimoMensaje": "Podrían mandar",
+    "ultimaActualizacion": "2026-08-21T19:44:53.416Z",
+    "ultimoMensaje": "Aparte de mi casa hay 2 o 3 más",
     "historialMensajes": [
       {
         "texto": "Hola",
@@ -25255,6 +25255,11 @@
       {
         "texto": "Podrían mandar",
         "fecha": "2026-08-21T19:43:06.409Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Aparte de mi casa hay 2 o 3 más",
+        "fecha": "2026-08-21T19:44:53.416Z",
         "sentimiento": "neutro"
       }
     ]
