@@ -28503,7 +28503,7 @@
     "celular": "+54 9 3815 838-057",
     "nombre": "",
     "direccion": "Barrio Alejandro Heredia mz",
-    "sentimiento": "negativo",
+    "sentimiento": "neutro",
     "evidencia_clasificacion": [],
     "canal": "WhatsApp Ambiente",
     "fecha": "2026-05-14",
@@ -28517,8 +28517,8 @@
       "Necesito turno para el desagotar el pozo del baño",
       "Buenas tardes"
     ],
-    "ultimaActualizacion": "2026-08-21T19:22:58.185Z",
-    "ultimoMensaje": "No fue resuelto mi problema",
+    "ultimaActualizacion": "2026-08-21T19:24:29.901Z",
+    "ultimoMensaje": "Está filtrando el agua",
     "historialMensajes": [
       {
         "texto": "Buenas tardes necesito que desagotar el pozo x favor",
@@ -28529,6 +28529,11 @@
         "texto": "No fue resuelto mi problema",
         "fecha": "2026-08-21T19:22:58.185Z",
         "sentimiento": "negativo"
+      },
+      {
+        "texto": "Está filtrando el agua",
+        "fecha": "2026-08-21T19:24:29.901Z",
+        "sentimiento": "neutro"
       }
     ]
   },
@@ -42081,7 +42086,15 @@
       "Quiero hacer el pedido p desagotar el pozo del baño",
       "Hla buen día"
     ],
-    "ultimaActualizacion": "2026-04-01"
+    "ultimaActualizacion": "2026-08-21T19:24:55.175Z",
+    "ultimoMensaje": "Hla buenas tardes",
+    "historialMensajes": [
+      {
+        "texto": "Hla buenas tardes",
+        "fecha": "2026-08-21T19:24:55.175Z",
+        "sentimiento": "neutro"
+      }
+    ]
   },
   {
     "numero": "46055437639816",
