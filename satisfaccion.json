@@ -7542,7 +7542,7 @@
     "celular": "+54 9 3815 470-541",
     "nombre": "",
     "direccion": "",
-    "sentimiento": "negativo",
+    "sentimiento": "neutro",
     "evidencia_clasificacion": [],
     "canal": "WhatsApp Ambiente",
     "fecha": "2026-06-24",
@@ -7564,13 +7564,18 @@
       "Elpozodelbano",
       "Hoka   buendia para que venga zdestrancarme"
     ],
-    "ultimaActualizacion": "2026-08-21T19:52:39.090Z",
-    "ultimoMensaje": "Hoka no.nzdie vino todavía adeszgotarme",
+    "ultimaActualizacion": "2026-08-21T19:55:20.831Z",
+    "ultimoMensaje": "No.tenfo respuesta",
     "historialMensajes": [
       {
         "texto": "Hoka no.nzdie vino todavía adeszgotarme",
         "fecha": "2026-08-21T19:52:39.090Z",
         "sentimiento": "negativo"
+      },
+      {
+        "texto": "No.tenfo respuesta",
+        "fecha": "2026-08-21T19:55:20.831Z",
+        "sentimiento": "neutro"
       }
     ]
   },
