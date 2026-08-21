@@ -64434,5 +64434,23 @@
         "sentimiento": "neutro"
       }
     ]
+  },
+  {
+    "numero": "226684095709329",
+    "celular": "+54 9 3813 314-748",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Todavía necesito",
+    "mensaje": "Todavía necesito",
+    "fecha": "2026-08-21T22:02:17.670Z",
+    "ultimaActualizacion": "2026-08-21T22:02:17.670Z",
+    "historialMensajes": [
+      {
+        "texto": "Todavía necesito",
+        "fecha": "2026-08-21T22:02:17.670Z",
+        "sentimiento": "neutro"
+      }
+    ]
   }
 ]
