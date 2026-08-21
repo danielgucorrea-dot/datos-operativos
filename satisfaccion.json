@@ -59244,11 +59244,11 @@
     "celular": "+54 9 200549253271639",
     "nombre": "",
     "direccion": "Manzana 7 Lote 13",
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Muy bien",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Muchas Gracias, los chicos cumplieron, excelente servicio. Gracias.",
     "mensaje": "Muchas Gracias",
     "fecha": "2026-08-21T15:58:32.428Z",
-    "ultimaActualizacion": "2026-08-21T16:04:37.485Z",
+    "ultimaActualizacion": "2026-08-21T20:03:44.449Z",
     "historialMensajes": [
       {
         "texto": "Muchas Gracias",
@@ -59279,6 +59279,11 @@
         "texto": "Muy bien",
         "fecha": "2026-08-21T16:04:37.485Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Muchas Gracias, los chicos cumplieron, excelente servicio. Gracias.",
+        "fecha": "2026-08-21T20:03:44.449Z",
+        "sentimiento": "positivo"
       }
     ]
   },
