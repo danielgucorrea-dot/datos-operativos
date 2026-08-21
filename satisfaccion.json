@@ -3698,7 +3698,7 @@
     "celular": "+54 9 3816 512-777",
     "nombre": "",
     "direccion": "Barrio Ciudad Parque",
-    "sentimiento": "neutro",
+    "sentimiento": "negativo",
     "evidencia_clasificacion": [
       "perfecto muchas gracias"
     ],
@@ -3757,8 +3757,8 @@
       "Es basura que tiraron los vecinos y se está generando un basural",
       "Levantamiento de basura, residuos de podas y escombros: Corrientes 3530"
     ],
-    "ultimaActualizacion": "2026-08-21T16:03:53.487Z",
-    "ultimoMensaje": "Muchas gracias!",
+    "ultimaActualizacion": "2026-08-21T20:18:16.221Z",
+    "ultimoMensaje": "Hola, todavía no fue resuelto",
     "historialMensajes": [
       {
         "texto": "Buen díaa, para realizar un pedido",
@@ -3804,6 +3804,11 @@
         "texto": "Muchas gracias!",
         "fecha": "2026-08-21T16:03:53.487Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Hola, todavía no fue resuelto",
+        "fecha": "2026-08-21T20:18:16.221Z",
+        "sentimiento": "negativo"
       }
     ]
   },
@@ -47371,10 +47376,10 @@
     "nombre": "",
     "direccion": null,
     "sentimiento": "neutro",
-    "ultimoMensaje": "!campana_desagote_iniciar",
+    "ultimoMensaje": "!campana_desagote_estado",
     "mensaje": "https://danielgucorrea-dot.github.io/datos-operativos/",
     "fecha": "2026-07-14T15:49:14.174Z",
-    "ultimaActualizacion": "2026-08-21T19:20:46.531Z",
+    "ultimaActualizacion": "2026-08-21T20:19:01.150Z",
     "historialMensajes": [
       {
         "texto": "https://danielgucorrea-dot.github.io/datos-operativos/",
@@ -47394,6 +47399,11 @@
       {
         "texto": "!campana_desagote_iniciar",
         "fecha": "2026-08-21T19:20:46.531Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "!campana_desagote_estado",
+        "fecha": "2026-08-21T20:19:01.150Z",
         "sentimiento": "neutro"
       }
     ]
