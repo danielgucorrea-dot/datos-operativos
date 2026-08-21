@@ -59556,11 +59556,11 @@
     "celular": "+54 9 70398926409983",
     "nombre": "",
     "direccion": "Pje Dorrego 1042",
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Buenos días necesito por favor que me retiren 3 bolsas de escombros de mi domicilio ya están embolsadas y en el naranjo de la vereda, desde ya muchas gracias",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Muy agradecida! 🙏",
     "mensaje": "Bueno gracias los vuelvo a entrar!",
     "fecha": "2026-08-21T16:00:55.488Z",
-    "ultimaActualizacion": "2026-08-21T16:03:50.697Z",
+    "ultimaActualizacion": "2026-08-21T17:02:58.240Z",
     "historialMensajes": [
       {
         "texto": "Bueno gracias los vuelvo a entrar!",
@@ -59576,6 +59576,11 @@
         "texto": "Buenos días necesito por favor que me retiren 3 bolsas de escombros de mi domicilio ya están embolsadas y en el naranjo de la vereda, desde ya muchas gracias",
         "fecha": "2026-08-21T16:03:50.697Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Muy agradecida! 🙏",
+        "fecha": "2026-08-21T17:02:58.240Z",
+        "sentimiento": "positivo"
       }
     ]
   },
