@@ -64158,16 +64158,21 @@
     "numero": "93205152436333",
     "celular": "+54 9 3815 247-869",
     "nombre": "",
-    "direccion": null,
+    "direccion": "Santa Fe 43",
     "sentimiento": "neutro",
-    "ultimoMensaje": "Buenas tardes",
+    "ultimoMensaje": "Santa Fe 43",
     "mensaje": "Buenas tardes",
     "fecha": "2026-08-21T20:30:37.790Z",
-    "ultimaActualizacion": "2026-08-21T20:30:37.790Z",
+    "ultimaActualizacion": "2026-08-21T20:31:00.371Z",
     "historialMensajes": [
       {
         "texto": "Buenas tardes",
         "fecha": "2026-08-21T20:30:37.790Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Santa Fe 43",
+        "fecha": "2026-08-21T20:31:00.371Z",
         "sentimiento": "neutro"
       }
     ]
