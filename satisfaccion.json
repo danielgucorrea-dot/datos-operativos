@@ -64490,5 +64490,23 @@
         "sentimiento": "negativo"
       }
     ]
+  },
+  {
+    "numero": "1795430608904",
+    "celular": "+54 9 3816 528-959",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "negativo",
+    "ultimoMensaje": "Hola buenas tardes aun no esta resuelto el problema sigo necesitando hacer el desagote del pozo",
+    "mensaje": "Hola buenas tardes aun no esta resuelto el problema sigo necesitando hacer el desagote del pozo",
+    "fecha": "2026-08-21T22:19:10.007Z",
+    "ultimaActualizacion": "2026-08-21T22:19:10.007Z",
+    "historialMensajes": [
+      {
+        "texto": "Hola buenas tardes aun no esta resuelto el problema sigo necesitando hacer el desagote del pozo",
+        "fecha": "2026-08-21T22:19:10.007Z",
+        "sentimiento": "negativo"
+      }
+    ]
   }
 ]
