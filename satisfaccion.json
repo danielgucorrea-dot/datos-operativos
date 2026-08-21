@@ -59518,11 +59518,11 @@
     "celular": "+54 9 181548536066102",
     "nombre": "",
     "direccion": "pje barrialito  240",
-    "sentimiento": "neutro",
-    "ultimoMensaje": "Entre san Lorenzo y piedras",
+    "sentimiento": "positivo",
+    "ultimoMensaje": "Muy bien gracias",
     "mensaje": "Desde ya muchas gracias",
     "fecha": "2026-08-21T16:00:38.979Z",
-    "ultimaActualizacion": "2026-08-21T16:03:50.338Z",
+    "ultimaActualizacion": "2026-08-21T17:28:58.866Z",
     "historialMensajes": [
       {
         "texto": "Desde ya muchas gracias",
@@ -59548,6 +59548,11 @@
         "texto": "Entre san Lorenzo y piedras",
         "fecha": "2026-08-21T16:03:50.338Z",
         "sentimiento": "neutro"
+      },
+      {
+        "texto": "Muy bien gracias",
+        "fecha": "2026-08-21T17:28:58.866Z",
+        "sentimiento": "positivo"
       }
     ]
   },
