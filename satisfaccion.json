@@ -2290,7 +2290,7 @@
   },
   {
     "numero": "124481154621580",
-    "celular": "",
+    "celular": "+54 9 124481154621580",
     "nombre": "",
     "direccion": "Corrientes 3939",
     "sentimiento": "neutro",
@@ -2304,7 +2304,15 @@
       "Corrientes 3939",
       "Buenas .me puede mandar el camión para buscar las bolsas"
     ],
-    "ultimaActualizacion": "2026-07-01"
+    "ultimaActualizacion": "2026-08-21T15:55:10.968Z",
+    "ultimoMensaje": "Corrientes 3939",
+    "historialMensajes": [
+      {
+        "texto": "Corrientes 3939",
+        "fecha": "2026-08-21T15:55:10.968Z",
+        "sentimiento": "neutro"
+      }
+    ]
   },
   {
     "numero": "260704548429933",
@@ -4067,7 +4075,7 @@
     "celular": "+54 9 3815 300-294",
     "nombre": "",
     "direccion": "Lucio Mansilla 798",
-    "sentimiento": "positivo",
+    "sentimiento": "neutro",
     "evidencia_clasificacion": [
       "ya pasaron"
     ],
@@ -4086,7 +4094,55 @@
       "No limpiaron nunca",
       "Ya pasaron más de 72hs"
     ],
-    "ultimaActualizacion": "2026-06-29"
+    "ultimaActualizacion": "2026-08-21T15:55:10.848Z",
+    "ultimoMensaje": "Y Ctos días tienen para hacerlo dsp de la notificación?",
+    "historialMensajes": [
+      {
+        "texto": "Hola",
+        "fecha": "2026-08-21T15:55:09.588Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Tiene q poner un cartel aquí",
+        "fecha": "2026-08-21T15:55:09.900Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Y Ctos días tienen para hacerlo dsp de la notificación?",
+        "fecha": "2026-08-21T15:55:10.183Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Justo están descargando basura en esa esquina",
+        "fecha": "2026-08-21T15:55:10.381Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Está súper alto el pasto",
+        "fecha": "2026-08-21T15:55:10.469Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Está sobre la calle",
+        "fecha": "2026-08-21T15:55:10.559Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Y si pueden manden a Desmalezar tmb",
+        "fecha": "2026-08-21T15:55:10.723Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "La basura en esta oportunidad no está sobre la vereda",
+        "fecha": "2026-08-21T15:55:10.818Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Y Ctos días tienen para hacerlo dsp de la notificación?",
+        "fecha": "2026-08-21T15:55:10.848Z",
+        "sentimiento": "neutro"
+      }
+    ]
   },
   {
     "numero": "241407277154547",
@@ -6845,7 +6901,7 @@
     "celular": "+54 9 3814 153-674",
     "nombre": "",
     "direccion": "calle peru al 600",
-    "sentimiento": "negativo",
+    "sentimiento": "neutro",
     "evidencia_clasificacion": [
       "es una verguenza",
       "tanta publicidad"
@@ -6900,7 +6956,20 @@
       "Muñecas 1504",
       "Para retirar por favor. Seis bolsas con pasto"
     ],
-    "ultimaActualizacion": "2026-06-24"
+    "ultimaActualizacion": "2026-08-21T15:55:10.668Z",
+    "ultimoMensaje": "Por favor necesito que retiren tres bolsas de escombros de muñecas 1504 gracias",
+    "historialMensajes": [
+      {
+        "texto": "Los vecinos comienzan a tirar basura 🗑️ jajajaja pero bueno hasta qué vengan",
+        "fecha": "2026-08-21T15:55:10.340Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Por favor necesito que retiren tres bolsas de escombros de muñecas 1504 gracias",
+        "fecha": "2026-08-21T15:55:10.668Z",
+        "sentimiento": "neutro"
+      }
+    ]
   },
   {
     "numero": "232976206049290",
@@ -21823,8 +21892,8 @@
       "Aveces pasan del lado del frente nada más que sería de la vereda número par \nY pasan una vez cada dos semanas por eso quería saber si que día son",
       "Quería saber si que días pasa el servicio de barrido Cordon cuneta \nEstoy en Lucas Cordoba 1400"
     ],
-    "ultimaActualizacion": "2026-07-29T13:57:10.803Z",
-    "ultimoMensaje": "Adjunto fotos",
+    "ultimaActualizacion": "2026-08-21T15:55:09.958Z",
+    "ultimoMensaje": "Hola buen día \nPara informar que solo vinieron un solo día después del reclamo",
     "historialMensajes": [
       {
         "texto": "Gracias",
@@ -21844,6 +21913,16 @@
       {
         "texto": "Adjunto fotos",
         "fecha": "2026-07-29T13:57:10.803Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Lucas Córdoba 1400",
+        "fecha": "2026-08-21T15:55:09.714Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Hola buen día \nPara informar que solo vinieron un solo día después del reclamo",
+        "fecha": "2026-08-21T15:55:09.958Z",
         "sentimiento": "neutro"
       }
     ]
@@ -25104,7 +25183,20 @@
       "Tengo entendido que pasan a buscar residuos reciclables dentro de las 4 avenidas los miercoles de 9 a 12hs. Deje una caja con papales y cajas de carton desarmadas en la vereda de Crisostomo Alvarez 844. No se si debia avisar o simplemente pasan",
       "Buenos dias."
     ],
-    "ultimaActualizacion": "2026-05-20"
+    "ultimaActualizacion": "2026-08-21T15:55:10.996Z",
+    "ultimoMensaje": "no tengo bolsas verdes como para identificar, ahora si me las quieren dejar y yo guardar ahi, no hay problema",
+    "historialMensajes": [
+      {
+        "texto": "No es demasiado esta vuelta, le habia puesto un papel pintado de verde pero parece que lo sacaron",
+        "fecha": "2026-08-21T15:55:10.421Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "no tengo bolsas verdes como para identificar, ahora si me las quieren dejar y yo guardar ahi, no hay problema",
+        "fecha": "2026-08-21T15:55:10.996Z",
+        "sentimiento": "neutro"
+      }
+    ]
   },
   {
     "numero": "31907345608774",
@@ -51792,10 +51884,10 @@
     "nombre": "",
     "direccion": "PJE ANCHORENA 3533",
     "sentimiento": "neutro",
-    "ultimoMensaje": "BUENO GCIAS",
+    "ultimoMensaje": "LA PTE SOLICITUD ESTA LIGADA AL HECHO DE VIVIR DIGNAMENTE TOMANDO COMO.BASE LOS IMPUESTOS Y SERVICIOS QUE SE ABONAN",
     "mensaje": "B NOCHES PORFA NECESITO QUE ME RECOJAN RESTOS DE PODA ENBOLSADAS DE PJE ANCHORENA 3533",
     "fecha": "2026-08-03T22:26:31.877Z",
-    "ultimaActualizacion": "2026-08-04T14:03:21.480Z",
+    "ultimaActualizacion": "2026-08-21T15:55:10.878Z",
     "historialMensajes": [
       {
         "texto": "B NOCHES PORFA NECESITO QUE ME RECOJAN RESTOS DE PODA ENBOLSADAS DE PJE ANCHORENA 3533",
@@ -51815,6 +51907,16 @@
       {
         "texto": "BUENO GCIAS",
         "fecha": "2026-08-04T14:03:21.480Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "B DIAS YO SOY VECINA DE PJE ANCHORENA 3500 ALLI LES ENVIO FOTOS DEL.ESTADO QUE SE ENCUENTRA EL PJE QUE NACE DE AVDA AMETICA 250.",
+        "fecha": "2026-08-21T15:55:10.695Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "LA PTE SOLICITUD ESTA LIGADA AL HECHO DE VIVIR DIGNAMENTE TOMANDO COMO.BASE LOS IMPUESTOS Y SERVICIOS QUE SE ABONAN",
+        "fecha": "2026-08-21T15:55:10.878Z",
         "sentimiento": "neutro"
       }
     ]
@@ -53058,6 +53160,220 @@
         "texto": "Gracias",
         "fecha": "2026-08-05T15:21:44.460Z",
         "sentimiento": "positivo"
+      }
+    ]
+  },
+  {
+    "numero": "274220827279530",
+    "celular": "+54 9 274220827279530",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "saco 5 bolsas ..cuando las vienen a buscar",
+    "mensaje": "bueno",
+    "fecha": "2026-08-21T15:55:09.480Z",
+    "ultimaActualizacion": "2026-08-21T15:55:10.108Z",
+    "historialMensajes": [
+      {
+        "texto": "bueno",
+        "fecha": "2026-08-21T15:55:09.480Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "quiero el libro de quejas !! para que quede asentado mi total disconformidad",
+        "fecha": "2026-08-21T15:55:09.527Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "son 5 bolsas las que pondre a disposición ..digame cuando puede venir a buscar",
+        "fecha": "2026-08-21T15:55:09.831Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "saco 5 bolsas ..cuando las vienen a buscar",
+        "fecha": "2026-08-21T15:55:10.108Z",
+        "sentimiento": "neutro"
+      }
+    ]
+  },
+  {
+    "numero": "98844444471493",
+    "celular": "+54 9 98844444471493",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Aquí  en la cuadra. Trabajan camiones de esos que le llaman bateas. De las que transportan aridos y las maquinas que lo cargan.\nNo creo que las maquinas de la municipalidad sean más grandes que esas",
+    "mensaje": "Aquí los vecinos estamos muy preocupados",
+    "fecha": "2026-08-21T15:55:09.558Z",
+    "ultimaActualizacion": "2026-08-21T15:55:10.939Z",
+    "historialMensajes": [
+      {
+        "texto": "Aquí los vecinos estamos muy preocupados",
+        "fecha": "2026-08-21T15:55:09.558Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Limpieza urbana no atiende",
+        "fecha": "2026-08-21T15:55:09.746Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Usted verá. \nY como no atiende nadie el número que me envió. \nTrate ud. De comunicarse.\nAl fin y al cabo son de la municipalidad",
+        "fecha": "2026-08-21T15:55:09.804Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "No.\nNo cancele .\nLa municipalidad está avisada.\nHay peligro real de incendio.",
+        "fecha": "2026-08-21T15:55:10.071Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Y si se produce un incendio. \nLas consecuencias serian calamitosas",
+        "fecha": "2026-08-21T15:55:10.249Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "O sea.\nNo veo como la municipalidad no puede realizar el retiro",
+        "fecha": "2026-08-21T15:55:10.298Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Sr.\nYo no soy técnico. \nNo puedo opinar al respecto. \nPero:\nEstamos a 2 cuadras de punto verde o como se llame",
+        "fecha": "2026-08-21T15:55:10.586Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Sr.\nUd. Esgrima sus razones para que este problema no se gestione.\nPero ya esta avisado de los riesgos que corremos",
+        "fecha": "2026-08-21T15:55:10.789Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Aquí  en la cuadra. Trabajan camiones de esos que le llaman bateas. De las que transportan aridos y las maquinas que lo cargan.\nNo creo que las maquinas de la municipalidad sean más grandes que esas",
+        "fecha": "2026-08-21T15:55:10.939Z",
+        "sentimiento": "neutro"
+      }
+    ]
+  },
+  {
+    "numero": "142395479957522",
+    "celular": "+54 9 142395479957522",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Perfecto .\nNúmero de pedido ?",
+    "mensaje": "Muchas gracias",
+    "fecha": "2026-08-21T15:55:09.679Z",
+    "ultimaActualizacion": "2026-08-21T15:55:10.617Z",
+    "historialMensajes": [
+      {
+        "texto": "Muchas gracias",
+        "fecha": "2026-08-21T15:55:09.679Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "La dejo ahí o más cerca del cordón ?",
+        "fecha": "2026-08-21T15:55:10.144Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Perfecto .\nNúmero de pedido ?",
+        "fecha": "2026-08-21T15:55:10.617Z",
+        "sentimiento": "neutro"
+      }
+    ]
+  },
+  {
+    "numero": "129051016589429",
+    "celular": "+54 9 129051016589429",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Necesito la recolección de residuos y de poda de ramas",
+    "mensaje": "Necesito la recolección de residuos y de poda de ramas",
+    "fecha": "2026-08-21T15:55:09.775Z",
+    "ultimaActualizacion": "2026-08-21T15:55:09.775Z",
+    "historialMensajes": [
+      {
+        "texto": "Necesito la recolección de residuos y de poda de ramas",
+        "fecha": "2026-08-21T15:55:09.775Z",
+        "sentimiento": "neutro"
+      }
+    ]
+  },
+  {
+    "numero": "173911966802014",
+    "celular": "+54 9 173911966802014",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "No hay problema",
+    "mensaje": "Ok ya las guardo",
+    "fecha": "2026-08-21T15:55:09.866Z",
+    "ultimaActualizacion": "2026-08-21T15:55:09.930Z",
+    "historialMensajes": [
+      {
+        "texto": "Ok ya las guardo",
+        "fecha": "2026-08-21T15:55:09.866Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "No hay problema",
+        "fecha": "2026-08-21T15:55:09.930Z",
+        "sentimiento": "neutro"
+      }
+    ]
+  },
+  {
+    "numero": "8968109818077",
+    "celular": "+54 9 8968109818077",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Hola buenas tardese dijeron q escriba a este nro para sacar los escombros de la vereda dei casa",
+    "mensaje": "Hola buenas tardese dijeron q escriba a este nro para sacar los escombros de la vereda dei casa",
+    "fecha": "2026-08-21T15:55:10.643Z",
+    "ultimaActualizacion": "2026-08-21T15:55:10.643Z",
+    "historialMensajes": [
+      {
+        "texto": "Hola buenas tardese dijeron q escriba a este nro para sacar los escombros de la vereda dei casa",
+        "fecha": "2026-08-21T15:55:10.643Z",
+        "sentimiento": "neutro"
+      }
+    ]
+  },
+  {
+    "numero": "162641838395394",
+    "celular": "+54 9 162641838395394",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Hola buenas tardes le mando msj por el tema de los residuos ? Me pasa información",
+    "mensaje": "Hola buenas tardes le mando msj por el tema de los residuos ? Me pasa información",
+    "fecha": "2026-08-21T15:55:10.757Z",
+    "ultimaActualizacion": "2026-08-21T15:55:10.757Z",
+    "historialMensajes": [
+      {
+        "texto": "Hola buenas tardes le mando msj por el tema de los residuos ? Me pasa información",
+        "fecha": "2026-08-21T15:55:10.757Z",
+        "sentimiento": "neutro"
+      }
+    ]
+  },
+  {
+    "numero": "158235218706494",
+    "celular": "+54 9 158235218706494",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Buenas",
+    "mensaje": "Buenas",
+    "fecha": "2026-08-21T15:55:10.909Z",
+    "ultimaActualizacion": "2026-08-21T15:55:10.909Z",
+    "historialMensajes": [
+      {
+        "texto": "Buenas",
+        "fecha": "2026-08-21T15:55:10.909Z",
+        "sentimiento": "neutro"
       }
     ]
   }
