@@ -64041,5 +64041,23 @@
         "sentimiento": "neutro"
       }
     ]
+  },
+  {
+    "numero": "276686742528136",
+    "celular": "+54 9 3812 150-658",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "negativo",
+    "ultimoMensaje": "Hola nunca me vinieron a desagotar",
+    "mensaje": "Hola nunca me vinieron a desagotar",
+    "fecha": "2026-08-21T20:04:07.877Z",
+    "ultimaActualizacion": "2026-08-21T20:04:07.877Z",
+    "historialMensajes": [
+      {
+        "texto": "Hola nunca me vinieron a desagotar",
+        "fecha": "2026-08-21T20:04:07.877Z",
+        "sentimiento": "negativo"
+      }
+    ]
   }
 ]
