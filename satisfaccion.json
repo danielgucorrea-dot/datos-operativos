@@ -63744,5 +63744,28 @@
         "sentimiento": "neutro"
       }
     ]
+  },
+  {
+    "numero": "156040591052819",
+    "celular": "+54 9 3815 298-770",
+    "nombre": "",
+    "direccion": null,
+    "sentimiento": "neutro",
+    "ultimoMensaje": "Hola buen dia, para tirar neumáticos en desuso?",
+    "mensaje": "Hola buen dia, para tirar neumáticos en desuso?",
+    "fecha": "2026-08-21T16:34:11.204Z",
+    "ultimaActualizacion": "2026-08-21T16:34:26.939Z",
+    "historialMensajes": [
+      {
+        "texto": "Hola buen dia, para tirar neumáticos en desuso?",
+        "fecha": "2026-08-21T16:34:11.204Z",
+        "sentimiento": "neutro"
+      },
+      {
+        "texto": "Hola buen dia, para tirar neumáticos en desuso?",
+        "fecha": "2026-08-21T16:34:26.939Z",
+        "sentimiento": "neutro"
+      }
+    ]
   }
 ]
